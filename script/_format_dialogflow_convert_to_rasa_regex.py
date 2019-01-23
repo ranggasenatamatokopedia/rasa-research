@@ -26,8 +26,35 @@ def select_json_file(directory):
     return selected_json
 
 def cleaning_text(text):
-    pattern = r"\W+"
-    return re.sub(pattern, " ", text.lower())
+    text = re.sub(r"\W+", " ", text.lower())
+    end = "(?![a-z0-9])"
+    first = "(?<![a-z0-9])"
+    patterns = [{"regex": "sy[a-z]*", "repl": "saya "},
+                {"regex": "min", "repl": "admin "},
+                {"regex": "delivered", "repl": "terkirim "},
+                {"regex": "krn[a-z]*", "repl": "karena "},
+                {"regex": "edit", "repl": "ubah "},
+                {"regex": "input", "repl": "masukan "},
+                {"regex": "update", "repl": "perbarui "},
+                {"regex": "dg", "repl": "dengan "},
+                {"regex": "bgm", "repl": "bagaimana "},
+                {"regex": "bs", "repl": "bisa "},
+                {"regex": "tgl[a-z]*", "repl": "tapi "},
+                {"regex": "n", "repl": "dan "},
+                {"regex": "dcancel", "repl": "dibatalkan "},
+                {"regex": "no", "repl": "nomor "},
+                {"regex": "seler", "repl": "penjual "},
+                {"regex": "tdk", "repl": "tidak "},
+                {"regex": "spt", "repl": "seperti "},
+                {"regex": "gpp", "repl": "tidak apa apa "},
+                {"regex": "free", "repl": "gratis "},
+                {"regex": "rata[0-9]*", "repl": "rata rata "},
+                {"regex": "gt", "repl": "gitu "},
+                {"regex": "pdhl[a-z]*", "repl": "padahal "},
+                {"regex": "tlg[a-z]*", "repl": "tolong "}]
+    for pattern in patterns:
+        text = re.sub(first+pattern["regex"]+end, pattern["repl"], text.lower())
+    return text
 
 def generate_intent_json(selected_json, len_directory):
     rasa_json_format = {
