@@ -2,6 +2,8 @@
 import os
 import json
 import sys, getopt
+import re
+
 
 counter = 0
 
@@ -23,6 +25,9 @@ def select_json_file(directory):
             selected_json.append(src[:-5] + "_usersays_en.json")
     return selected_json
 
+def cleaning_text(text):
+    pattern = r"\W+"
+    return re.sub(pattern, " ", text.lower())
 
 def generate_intent_json(selected_json, len_directory):
     rasa_json_format = {
@@ -44,7 +49,7 @@ def generate_intent_json(selected_json, len_directory):
                     text = ""
                     for data in obj["data"]:
                         text += data["text"]
-                    rasa_json_format["rasa_nlu_data"]["common_examples"].append({"text": text,
+                    rasa_json_format["rasa_nlu_data"]["common_examples"].append({"text": cleaning_text(text),
                                                                                 "intent": json_file[
                                                                                         len_directory:-17].lower()})
         except OSError as e:
@@ -111,3 +116,4 @@ def main(argv):
 
 if __name__ == "__main__":
     main(sys.argv[1:])
+
