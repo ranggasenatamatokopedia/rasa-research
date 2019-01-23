@@ -1,0 +1,31 @@
+{
+  "id": "52fac3de-81d5-4dbb-90e7-d8f02a46a221",
+  "name": "smalltalk.greetings.calling2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Masih ada yang ingin kamu tanyakan? Toped siap menjawab!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "smalltalk_greetings_calling2"
+    }
+  ]
+}

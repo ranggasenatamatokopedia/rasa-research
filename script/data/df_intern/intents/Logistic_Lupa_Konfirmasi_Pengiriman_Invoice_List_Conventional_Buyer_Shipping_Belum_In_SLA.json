@@ -1,0 +1,48 @@
+{
+  "id": "39005bde-37e0-42bd-9ab2-a19fd374f939",
+  "parentId": "a0daa02c-3cd8-4048-8eef-2df65d4a4263",
+  "rootParentId": "35e16175-3fd0-4749-bf64-4e1b94b883f1",
+  "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer_Shipping_Belum_In_SLA",
+  "auto": true,
+  "contexts": [
+    "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer_Shipping_Belum-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer_Shipping_Belum_In_SLA-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Saat ini pesanan kamu masih dalam proses pengiriman, mohon tunggu dulu ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu juga bisa hubungi kurir terkait di !TKPD_URL_PENGIRIMAN_REGULER! untuk memastikan proses pengantaran paketnya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532422631,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "sla_logistics_is_not_over_yet"
+    }
+  ]
+}

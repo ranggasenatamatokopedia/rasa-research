@@ -1,0 +1,44 @@
+{
+  "id": "436b652f-508c-4d57-9875-7d479d599faf",
+  "parentId": "13365c98-6654-4fcc-8002-e17de938ce3d",
+  "rootParentId": "13365c98-6654-4fcc-8002-e17de938ce3d",
+  "name": "FAQ_Apps_Cara_Update_Aplikasi_Android",
+  "auto": true,
+  "contexts": [
+    "FAQ_Apps_Cara_Update_Aplikasi-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Apps_Cara_Update_Aplikasi_Android-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Cara update Aplikasi Tokopedia pada Android:\n1. Buka \"Play Store\"\n2. Pilih menu \"Aplikasi\"\n3. Cari Aplikasi Tokopedia\n4. Klik \"Update\""
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pastikan selalu memperbarui aplikasi kamu ke versi terbaru ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539748386,
+  "fallbackIntent": false,
+  "events": []
+}

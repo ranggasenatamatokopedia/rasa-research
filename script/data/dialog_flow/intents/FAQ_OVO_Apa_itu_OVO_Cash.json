@@ -1,0 +1,31 @@
+{
+  "id": "cdff1cfe-eab5-4456-99d1-116e1fb258d9",
+  "name": "FAQ_OVO_Apa_itu_OVO_Cash",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "OVO Cash adalah uang elektronik yang dapat diakses melalui aplikasi OVO dan situs/aplikasi Tokopedia. OVO Cash dapat digunakan untuk berbagai macam transaksi keuangan, seperti pembayaran di berbagai merchant rekanan, isi ulang (Top Up) dan pengecekan saldo."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_ovo_apa_itu_ovo_cash"
+    }
+  ]
+}

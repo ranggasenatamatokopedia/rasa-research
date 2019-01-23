@@ -1,0 +1,43 @@
+{
+  "id": "2ec24d72-f42c-4f51-8728-642f2f678fc7",
+  "parentId": "2f8cbeef-ace2-4920-b98a-19f47da047c4",
+  "rootParentId": "2f8cbeef-ace2-4920-b98a-19f47da047c4",
+  "name": "Fraud_Saya_Mendapat_Email_Melanggar_SNK_Select_Invoice",
+  "auto": false,
+  "contexts": [
+    "Fraud_Saya_Mendapat_Email_Melanggar_SNK-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckInvoiceIsMarketplace",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Saya_Mendapat_Email_Melanggar_SNK_Select_Invoice-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek dulu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531814679,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "select_invoice"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "a87013b8-011d-48e3-83f5-c52a581574e7",
+  "parentId": "c6e6c8b6-0c07-44f5-87e9-a66f66a4b978",
+  "rootParentId": "debdb44e-b23a-4c52-8626-59514944fd55",
+  "name": "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Buyer_Shipping_Over_SLA",
+  "auto": true,
+  "contexts": [
+    "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Buyer_Shipping-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Buyer_Shipping_Over_SLA-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah Toped cek, pesanan kamu sudah melewati batas waktu pengiriman. Kamu bisa klik Komplain pada halaman \"Status Pemesanan\"."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jangan khawatir ya, kalau kamu sudah ajukan Komplain, maka dana transaksi tersebut akan aman bersama Toped :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527480946,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "sla_logistics_is_over"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "497f160a-63c8-4420-9fa2-fae3d04ee45f",
+    "data": [
+      {
+        "text": "iya sudah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5ff71df2-73f7-414e-a1c2-4accf4f176ea",
+    "data": [
+      {
+        "text": "sudah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cacf91ab-8381-46c2-bf2c-49b2d7190d98",
+    "data": [
+      {
+        "text": "ya, sdh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fafde733-aa33-4233-b952-34625028cf2f",
+    "data": [
+      {
+        "text": "iyaa, sudah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "22339943-6c6c-4225-9e56-de3a111610b0",
+    "data": [
+      {
+        "text": "ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "639ca870-49a0-4e2b-ad7f-73957fa8da5c",
+    "data": [
+      {
+        "text": "ya sudah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3eaf9366-783d-4aa5-9df6-f0313d950629",
+    "data": [
+      {
+        "text": "ya, sudah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a2dc34d5-f4c7-4285-8bd5-6c57a364b0f6",
+    "data": [
+      {
+        "text": "iyaaaa, sdh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "884e0cb4-51a3-4be4-ba07-24c2b5c46564",
+    "data": [
+      {
+        "text": "sdh ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

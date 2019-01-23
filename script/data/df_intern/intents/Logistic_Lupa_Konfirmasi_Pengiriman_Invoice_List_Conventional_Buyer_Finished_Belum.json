@@ -1,0 +1,54 @@
+{
+  "id": "c95afe78-3612-4a87-953e-d4bcdb621d91",
+  "parentId": "d1455528-4e58-4b02-bd1c-38f87733221e",
+  "rootParentId": "35e16175-3fd0-4749-bf64-4e1b94b883f1",
+  "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer_Finished_Belum",
+  "auto": true,
+  "contexts": [
+    "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer_Finished-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer_Finished_Belum-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "608ac7ff-8b8d-466f-aa96-256692cbd650",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1341"
+        },
+        {
+          "id": "326a7e12-757c-4c17-bb4c-767a51fe5506",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Logistic_Lupa_Konfirmasi_Pengiriman"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk kendala ini Toped bantu buatkan tiketnya. Boleh ditunggu, ya :)\r\n"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532434299,
+  "fallbackIntent": false,
+  "events": []
+}

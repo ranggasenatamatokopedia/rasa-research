@@ -1,0 +1,43 @@
+{
+  "id": "1a807b46-0b99-4b2c-b48c-ff2df9481fc9",
+  "parentId": "707a5daa-336c-433e-98b5-dc821edd6622",
+  "rootParentId": "90b4ed65-34d8-4fd4-a8f8-c87e563d6528",
+  "name": "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_cashback",
+  "auto": false,
+  "contexts": [
+    "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_MPOS-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetInvoiceDetails",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_cashback-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Baik Kak, ditunggu kembali ya"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523506000,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "MP_OS_invoice_get_cashback"
+    }
+  ]
+}

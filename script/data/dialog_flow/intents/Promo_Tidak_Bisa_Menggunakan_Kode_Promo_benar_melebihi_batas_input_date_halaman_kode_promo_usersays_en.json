@@ -1,0 +1,158 @@
+[
+  {
+    "id": "184926b5-f2cb-4a66-9e83-7e9fc9d353c9",
+    "data": [
+      {
+        "text": "yang ke ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3de7951a-a78b-45c7-84f0-04b242cf3395",
+    "data": [
+      {
+        "text": "pas kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "480f08d6-6e3e-44b0-b7a3-775603555d27",
+    "data": [
+      {
+        "text": "saat halaman kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bb4b3869-f225-4c30-b407-5671ed674dae",
+    "data": [
+      {
+        "text": "yang ",
+        "userDefined": false
+      },
+      {
+        "text": "pertama",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "98f9a943-1f84-458a-987a-bf6f415fe7ff",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d8929792-04ef-4b41-846d-2629af56202e",
+    "data": [
+      {
+        "text": "masukkan kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9747f9f4-097c-4932-84cd-c0b8e7f1f842",
+    "data": [
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1b2c5710-b2d8-4d42-a337-cc665fbb6565",
+    "data": [
+      {
+        "text": "saat memasukkan kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "058ad679-4ced-4026-abb1-1d4b5f5da6c8",
+    "data": [
+      {
+        "text": "promo_code_page",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "68b4239c-f676-4154-ad11-16be4cdabf6f",
+    "data": [
+      {
+        "text": "pertama",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "191a0cb4-2963-4a56-91c7-e4e7bbce41f9",
+    "data": [
+      {
+        "text": "halaman \u0027Masukkan Kode Promo\u0027",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4d041d92-bef7-446f-ab15-f47856e362d8",
+    "data": [
+      {
+        "text": "hal kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "90edb93f-ea9a-4dd5-95ee-8d160997604c",
+    "data": [
+      {
+        "text": "halaman kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2
+  }
+]

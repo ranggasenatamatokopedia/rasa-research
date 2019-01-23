@@ -1,0 +1,43 @@
+{
+  "id": "908eccee-d568-46a2-9eb1-4b6f0cd18081",
+  "parentId": "e540ae13-6993-4973-bead-401b5c3abcf5",
+  "rootParentId": "52ec60f4-3e96-4394-855f-4b7f7c4c5110",
+  "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_akun_tidak_memenuhi_syarat",
+  "auto": true,
+  "contexts": [
+    "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetEmailAddress",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_akun_tidak_memenuhi_syarat-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai, bisa kasih tahu Toped alamat email yang kamu gunakan untuk mengikuti promo ini?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523832532,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "akun_tidak_memenuhi_syarat_dan_ketentuan"
+    }
+  ]
+}

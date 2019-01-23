@@ -1,0 +1,83 @@
+{
+  "id": "b5cc2737-56f0-4502-9a83-6ce48b4cd876",
+  "parentId": "9449dca2-34b4-4a39-9f78-8f8a79209de1",
+  "rootParentId": "d9d2ac31-d864-4f6e-836c-94fff4d54ef6",
+  "name": "Logistic_Status_Pengiriman_Tidak_Sesuai_Invoice_List_Seller_Shipping_On_Demand",
+  "auto": true,
+  "contexts": [
+    "Logistic_Status_Pengiriman_Tidak_Sesuai_Invoice_List_Seller_Shipping-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Status_Pengiriman_Tidak_Sesuai_Invoice_List_Seller_Shipping_On_Demand-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "43b866f9-ef39-48e5-a60b-00fb905089e0",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "time",
+          "value": "$time",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Toped mau konfirmasi, pukul berapa paket dipick up oleh kurir, Kak? (Contoh: 05.29)"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "3b9c5f23-c58b-4932-a1c6-0083ceea20ac",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "driver_atribut",
+          "value": "$driver_atribut",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Saat paket dipick up, apakah kurir menggunakan atribut sebagai kurir online, Kak?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Apakah kamu punya bukti foto saat kurir melakukan pick up pesanan?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 1,
+            "quick_replies": [
+              "Punya",
+              "Tidak Punya"
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531207721,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "courier_type_is_on_demand"
+    }
+  ]
+}

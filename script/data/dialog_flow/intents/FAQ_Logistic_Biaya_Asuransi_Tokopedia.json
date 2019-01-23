@@ -1,0 +1,31 @@
+{
+  "id": "fdfc4e99-3239-40a8-9f87-64cbbc5abe38",
+  "name": "FAQ_Logistic_Biaya_Asuransi_Tokopedia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Biasanya, biaya asuransi adalah 0,2% dari harga barang, kecuali untuk Wahana yang menetapkan biaya asuransi sebesar 0,5% untuk barang dengan harga di atas Rp. 200.000"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_logistic_biaya_asuransi_tokopedia"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "75ff3ca8-b338-428a-a276-4970c86e879f",
+  "parentId": "b3e704d4-e843-43b6-b0b6-0473398213ce",
+  "rootParentId": "b5d703e5-b4ee-4716-a78d-6a74da4e1538",
+  "name": "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Buyer",
+  "auto": true,
+  "contexts": [
+    "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckInvoiceStatusID",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Buyer-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535971046,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "user_is_buyer"
+    }
+  ]
+}

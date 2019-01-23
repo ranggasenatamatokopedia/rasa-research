@@ -1,0 +1,38 @@
+{
+  "id": "7034cc5d-fac9-4a8f-9198-30add8a23f5a",
+  "name": "FAQ_Flight_Pengajuan_Ganti_Tempat_Duduk",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flight_Pengajuan_Ganti_Tempat_Duduk-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Penggantian tempat duduk atau pemilihan kursi dapat diajukan langsung ke maskapai. Penggantian atau pemilihan kursi dikenakan biaya tergantung kebijakan maskapai. Kunjungi \"Kontak Maskapai Penerbangan\" untuk informasi lebih lanjut."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga informasi Toped membantu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

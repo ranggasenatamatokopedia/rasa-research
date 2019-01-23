@@ -1,0 +1,38 @@
+{
+  "id": "e1db25af-8da4-4ab5-877d-bc0659b44bd9",
+  "name": "Fraud_Akun_TokoCash_Terhubung_Ke_User_Lain",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Akun_TokoCash_Terhubung_Ke_User_Lain-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa lampirkan screenshot email atau pesan yang kamu terima untuk mempermudah proses pengecekannnya, ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "fraud_akun_tokocash_terhubung_ke_user_lain"
+    }
+  ]
+}

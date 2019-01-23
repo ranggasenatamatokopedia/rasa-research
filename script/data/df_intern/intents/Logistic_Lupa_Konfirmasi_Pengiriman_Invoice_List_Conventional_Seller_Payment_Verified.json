@@ -1,0 +1,43 @@
+{
+  "id": "f04be36a-401a-442e-8cef-b90825b702fa",
+  "parentId": "fcddc333-39be-444a-baf1-ca59893f06d8",
+  "rootParentId": "35e16175-3fd0-4749-bf64-4e1b94b883f1",
+  "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Seller_Payment_Verified",
+  "auto": true,
+  "contexts": [
+    "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Seller-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Seller_Payment_Verified-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai, pesanannya sudah Toped teruskan ke Toko kamu, ya. Silakan merespons pesanan tersebut :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546416994,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_pembayaran_diterima"
+    }
+  ]
+}

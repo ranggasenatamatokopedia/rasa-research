@@ -1,0 +1,39 @@
+{
+  "id": "08cc5f47-6cfa-475c-8f12-99c7a5b0194a",
+  "parentId": "50d0a2eb-5479-493c-bb68-f41644027488",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_select_invoice_wtp_scrooge_waiting_Ya",
+  "auto": true,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_select_invoice_wtp_scrooge_waiting-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_select_invoice_wtp_scrooge_waiting_Ya-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon tunggu dalam 1x24 jam ya, karena saat ini Toped sedang menunggu mutasi dari pihak Bank."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534000493,
+  "fallbackIntent": false,
+  "events": []
+}

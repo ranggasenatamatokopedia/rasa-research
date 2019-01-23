@@ -1,0 +1,33 @@
+{
+  "id": "f08adc54-d4a0-4411-a233-3345d0ac86d5",
+  "name": "FAQ_Merchant_Voucher_Toko_Tidak_Muncul_Di_Halaman_Produk",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Merchant_Voucher_Toko_Tidak_Muncul_Di_Halaman_Produk-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Voucher Toko akan aktif dalam waktu 3 jam setelah pembuatan. Jadi kamu bisa tunggu terlebih dahulu, ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

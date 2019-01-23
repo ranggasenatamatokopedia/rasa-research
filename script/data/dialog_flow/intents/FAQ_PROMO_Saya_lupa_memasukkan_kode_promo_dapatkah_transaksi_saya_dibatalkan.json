@@ -1,0 +1,31 @@
+{
+  "id": "960fbbb6-a986-42c1-8896-2fc07aed16e6",
+  "name": "FAQ_PROMO_Saya_lupa_memasukkan_kode_promo_dapatkah_transaksi_saya_dibatalkan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sayang sekali, Toped tidak bisa membatalkan pesanan secara sepihak. Kalau pesananmu belum diproses Penjual dalam waktu 1x24 jam, maka kamu bisa ajukan pembatalan pesanan dan melakukan pemesanan ulang nantinya. Jangan lupa masukkan kode promonya ya!\r\n\r\nKalau pesanan sudah di proses, kamu bisa hubungi penjual melalui fitur \"Tanya Penjual\" agar pesananmu bisa dibatalkan."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_promo_saya_lupa_memasukkan_kode_promo_dapatkah_transaksi_saya_dibatalkan"
+    }
+  ]
+}

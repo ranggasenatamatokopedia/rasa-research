@@ -1,0 +1,43 @@
+{
+  "id": "21f7c063-410e-45e6-93b7-c90db4a45341",
+  "parentId": "7fe5302c-d66b-4ad9-87e5-4aa8a3f9422d",
+  "rootParentId": "7f287c44-496d-4df8-b6b5-0c29a68454fc",
+  "name": "Merchant_Toko_Di_Moderasi_Moderated_Is_True_Less_Than_Equal_24",
+  "auto": true,
+  "contexts": [
+    "Merchant_Toko_Di_Moderasi_Moderated_Is_True-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Toko_Di_Moderasi_Moderated_Is_True_Less_Than_Equal_24-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped perlu waktu maksimal 1x24 jam untuk proses pengecekan pengajuan buka toko kamu. Mohon di tunggu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536317918,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "less_than_equal_24_hr"
+    }
+  ]
+}

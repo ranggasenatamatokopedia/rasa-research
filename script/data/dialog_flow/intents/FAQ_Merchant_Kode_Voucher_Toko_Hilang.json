@@ -1,0 +1,38 @@
+{
+  "id": "af657203-46f2-4a23-884c-d52fea4fd1ab",
+  "name": "FAQ_Merchant_Kode_Voucher_Toko_Hilang",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Merchant_Kode_Voucher_Toko_Hilang-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Batas waktu pemakaian voucher adalah 1 jam setelah kamu klik \"Gunakan\"."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau mau mendapatkan benefitnya, jangan gunakan voucher melebihi batas waktu, ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

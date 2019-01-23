@@ -1,0 +1,38 @@
+{
+  "id": "49777644-1d93-437d-a15f-b8b82597b611",
+  "name": "FAQ_Apps_Aplikasi_Error",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Apps_Aplikasi_Error-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pastikan aplikasi Tokopedia kamu sudah di update, ya. Selanjutnya kamu bisa melakukan clear data dengan cara:\n\n1. Klik \"Setting\" di smartphone \n2. Pilih \"Apps\" \n3. Pilih Tokopedia \n4. Pilih \"Storage\" \n5. Klik \"Clear Data\""
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga jawaban Toped membantu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

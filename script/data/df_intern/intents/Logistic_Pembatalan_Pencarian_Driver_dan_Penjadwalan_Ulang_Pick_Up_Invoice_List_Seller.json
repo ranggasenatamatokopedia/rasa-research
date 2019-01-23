@@ -1,0 +1,43 @@
+{
+  "id": "db831202-2f01-44c7-97ac-9ae21aea7d1e",
+  "parentId": "e736e955-c624-4ad3-acda-901c41b0805b",
+  "rootParentId": "25f8caf5-22b1-4b7d-8704-24a6da37b244",
+  "name": "Logistic_Pembatalan_Pencarian_Driver_dan_Penjadwalan_Ulang_Pick_Up_Invoice_List_Seller",
+  "auto": true,
+  "contexts": [
+    "Logistic_Pembatalan_Pencarian_Driver_dan_Penjadwalan_Ulang_Pick_Up_Invoice_List-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckCourierType",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Pembatalan_Pencarian_Driver_dan_Penjadwalan_Ulang_Pick_Up_Invoice_List_Seller-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546422788,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "user_is_seller"
+    }
+  ]
+}

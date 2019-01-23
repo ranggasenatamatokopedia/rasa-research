@@ -1,0 +1,90 @@
+[
+  {
+    "id": "b08e3cd6-0795-4dee-aee0-28c71eddfda9",
+    "data": [
+      {
+        "text": "daerah ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4c081694-e3d3-46cf-9ff4-1befe23acc00",
+    "data": [
+      {
+        "text": "buyer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8b6e3993-e629-4ef8-a0ac-c5794e954591",
+    "data": [
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "11f6f0b3-b79b-4d82-a5bd-e7350a65ec5a",
+    "data": [
+      {
+        "text": "daerah ",
+        "userDefined": false
+      },
+      {
+        "text": "buyer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "812bd5f1-7575-4ee3-8bfb-2651babdcec8",
+    "data": [
+      {
+        "text": "wilayah ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "831fabf8-8c2a-4aca-b03e-7903a23d30e0",
+    "data": [
+      {
+        "text": "wilayah ",
+        "userDefined": false
+      },
+      {
+        "text": "buyer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

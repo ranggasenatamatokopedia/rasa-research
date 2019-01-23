@@ -1,0 +1,43 @@
+{
+  "id": "75b6e9e1-fe5b-42aa-a485-c2863e0cbf1d",
+  "parentId": "96c12ce3-b186-40e8-b491-57b23293e584",
+  "rootParentId": "35ea81e4-4843-4cfe-b8fd-335f2f7a0eea",
+  "name": "Account_Kendala_Notifikasi_Talk_Already_Reset_Over_1_Hour_Success",
+  "auto": true,
+  "contexts": [
+    "Account_Kendala_Notifikasi_Talk_Already_Reset_Over_1_Hour-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Account_Kendala_Notifikasi_Talk_Already_Reset_Over_1_Hour_Success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped sudah bantu menyesuaikan notifikasi di akun kamu, ya. Mohon menunggu maksimal 1x24 jam kedepan."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533890126,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "reset_success"
+    }
+  ]
+}

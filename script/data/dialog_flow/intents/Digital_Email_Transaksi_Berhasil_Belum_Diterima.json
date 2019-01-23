@@ -1,0 +1,38 @@
+{
+  "id": "9bfd7954-aa4e-4fe0-9970-896182c9392a",
+  "name": "Digital_Email_Transaksi_Berhasil_Belum_Diterima",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetInvoiceListDigital",
+      "affectedContexts": [
+        {
+          "name": "Digital_Email_Transaksi_Berhasil_Belum_Diterima-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Tidak perlu khawatir karena Toped akan bantu kamu. Kamu bisa informasikan ke Toped, email transaksi mana yang belum kamu terima?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "digital_email_transaksi_berhasil_belum_diterima"
+    }
+  ]
+}

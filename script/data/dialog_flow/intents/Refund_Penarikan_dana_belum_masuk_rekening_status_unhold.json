@@ -1,0 +1,37 @@
+{
+  "id": "a53a4f37-aa1f-4ef9-a259-e57786a70a3f",
+  "parentId": "a20ce1ef-766d-4a2a-9dca-817eaa6933b8",
+  "rootParentId": "99a48618-b9ce-4053-a781-474e5404f8ad",
+  "name": "Refund_Penarikan_dana_belum_masuk_rekening_status_unhold",
+  "auto": true,
+  "contexts": [
+    "Refund_Penarikan_dana_belum_masuk_rekening_select_wd-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckBankNameBySLA",
+      "affectedContexts": [
+        {
+          "name": "Refund_Penarikan_dana_belum_masuk_rekening_status_unhold-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513040943,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "withdrawal_not_hold"
+    }
+  ]
+}

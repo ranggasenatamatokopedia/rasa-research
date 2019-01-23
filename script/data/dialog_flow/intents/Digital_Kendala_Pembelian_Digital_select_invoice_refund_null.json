@@ -1,0 +1,64 @@
+{
+  "id": "f9993d57-1db6-44bf-ac99-aab670098574",
+  "parentId": "2c27cd46-f182-4975-a0ba-28c1195262b7",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_select_invoice_refund_null",
+  "auto": false,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_select_invoice_refund-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_select_invoice_refund_null-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0ce9f152-99d9-4d69-8690-bf3784e9be91",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1234",
+          "isList": false
+        },
+        {
+          "id": "b77129f8-b232-485c-b22e-49d14ff45523",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Digital_Kendala_Pembelian_Digital"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu sebentar ya, Toped akan bantu buatkan tiket untuk dicek lebih lanjut dan informasi selanjutnya akan dikirim lewat layanan pengguna."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Senang bisa membantu kamu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534129691,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "refund_list_is_null"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "965ea436-3322-457c-981d-f7d2934c36d7",
+  "parentId": "967a7745-b813-4064-94cd-92658bbe44c8",
+  "rootParentId": "7702a921-0bc2-479f-9cd3-aade8103768a",
+  "name": "Payment_not_verify_MP_platform_wtp_scrooge_waiting_ticket",
+  "auto": true,
+  "contexts": [
+    "Payment_not_verify_MP_platform_wtp_scrooge_waiting-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Payment_not_verify_MP_platform_wtp_scrooge_waiting_ticket-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "237b22da-978f-4ff5-92a5-a9bc78dca6f9",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "9"
+        },
+        {
+          "id": "ad038bc7-96f2-4de9-8dbc-25cfcdb5345c",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Payment_not_verify"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Terima kasih, Kak. Untuk bukti bayarnya akan dicek dulu"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped bantu buatkan tiketnya ya dan kalau ada informasi lebih lanjut akan disampaikan lewat email :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531369203,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

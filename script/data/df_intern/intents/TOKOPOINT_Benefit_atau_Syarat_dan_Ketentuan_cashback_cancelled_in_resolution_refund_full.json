@@ -1,0 +1,48 @@
+{
+  "id": "112670e1-b207-4833-a3e3-9ec22ea99add",
+  "parentId": "1a807b46-0b99-4b2c-b48c-ff2df9481fc9",
+  "rootParentId": "90b4ed65-34d8-4fd4-a8f8-c87e563d6528",
+  "name": "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_cashback_cancelled_in_resolution_refund_full",
+  "auto": false,
+  "contexts": [
+    "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_cashback-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_cashback_cancelled_in_resolution_refund_full-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "kak, setelah kami cek, ini transaksinya pernah masuk pusat resolusi dan ada pengembalian dana keseluruhan ya, jadi pesanan nya cancel"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "sesuai dengan S\u0026K kak jika pesanan nya 1 pembayaran hanya 1 invoice, kalau masuk resolusi dan ada pengembalian dana keseluruhan, maka kupon cashback yang kamu gunakan di transaksi ini, akan kembali ke halaman \"Kupon Saya\" di akun kamu kak"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523507879,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "order_cancel_in_resol_refund_full"
+    }
+  ]
+}

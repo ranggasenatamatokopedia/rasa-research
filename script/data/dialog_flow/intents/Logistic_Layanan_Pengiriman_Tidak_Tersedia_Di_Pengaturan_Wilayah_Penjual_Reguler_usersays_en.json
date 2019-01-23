@@ -1,0 +1,70 @@
+[
+  {
+    "id": "2b976924-531a-4fd1-8964-ec11bfd4f046",
+    "data": [
+      {
+        "text": "Konvensional",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0298c7fb-ee82-4aed-9044-52e6cfe1b7fe",
+    "data": [
+      {
+        "text": "reguler",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e9e2017a-7ae4-489f-b6aa-4edb48fdec11",
+    "data": [
+      {
+        "text": "conven",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8cd3702f-3fa6-4958-8b98-bd18b721a843",
+    "data": [
+      {
+        "text": "konven",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e8f43fe1-acaf-4644-9588-28f9fc241582",
+    "data": [
+      {
+        "text": "conventional",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "11305e45-5699-4240-be7a-b1984fac9bea",
+    "data": [
+      {
+        "text": "regular",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

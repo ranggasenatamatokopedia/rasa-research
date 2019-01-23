@@ -1,0 +1,68 @@
+{
+  "id": "b896c7b0-7838-4ea1-a406-28067a9ffc87",
+  "parentId": "c4050615-9dc9-40f6-b2e7-0d9ca3bf900c",
+  "rootParentId": "d19f77a0-9fc1-4329-9b8c-1f9cb2ed3084",
+  "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Process_Buyer_Is_Peluang",
+  "auto": true,
+  "contexts": [
+    "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Process_Buyer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Process_Buyer_Is_Peluang-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah Toped cek, pesanan kamu sebelumnya dari Peluang. Saat ini masih menunggu untuk dikirim oleh penjual."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika diperlukan cepat, Toped bisa bantu mengajukan pembatalan pesanan ke penjual. Jadi, apa kamu mau Toped bantu \"Ajukan Pembatalan\" atau menunggu respons penjual?"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Contoh: Ajukan Pembatalan"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "button_actions": [
+              {
+                "message": "Ajukan Pembatalan"
+              },
+              {
+                "message": "Tunggu Respons Penjual"
+              }
+            ],
+            "type": 2
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541388285,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "is_order_peluang"
+    }
+  ]
+}

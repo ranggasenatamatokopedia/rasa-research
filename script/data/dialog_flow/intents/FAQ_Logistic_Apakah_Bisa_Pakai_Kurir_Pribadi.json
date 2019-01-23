@@ -1,0 +1,36 @@
+{
+  "id": "52da30cf-f123-4a43-83bb-79e1d48b929b",
+  "name": "FAQ_Logistic_Apakah_Bisa_Pakai_Kurir_Pribadi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pengiriman yang tidak menggunakan kurir partner Tokopedia, maka nomor resinya dianggap tidak valid karena tidak terlacak oleh sistem."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau barang belum dikirim, sebaiknya kamu gunakan jasa kurir yang bekerja sama dengan Tokopedia agar proses pelacakannya mudah ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_logistic_apakah_bisa_pakai_kurir_pribadi"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "11fe4297-21aa-4f62-9b14-70efaa585e08",
+  "parentId": "4b24315a-35b3-4d31-9c08-91eac8896052",
+  "rootParentId": "62328066-6ba6-453c-b337-f9f221db5f6f",
+  "name": "FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir_TIKI_ONS",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir_TIKI-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "116d78d8-4749-4dfd-85f9-66d7869845c8",
+          "dataType": "@layanan_kurir_reguler",
+          "name": "layanan_kurir_reguler",
+          "value": "$layanan_kurir_reguler",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Estimasi waktu pengiriman kurir TIKI dengan layanan ONS adalah 1-2 hari ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528172539,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "ons"
+    }
+  ]
+}

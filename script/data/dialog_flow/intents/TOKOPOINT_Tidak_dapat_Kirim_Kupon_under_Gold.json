@@ -1,0 +1,43 @@
+{
+  "id": "247c2dfd-fbbe-4a61-b2ee-08987b7ff907",
+  "parentId": "21aa44dd-8f3e-443e-89aa-2604000c5bed",
+  "rootParentId": "21aa44dd-8f3e-443e-89aa-2604000c5bed",
+  "name": "TOKOPOINT_Tidak_dapat_Kirim_Kupon_under_Gold",
+  "auto": false,
+  "contexts": [
+    "TOKOPOINT_Tidak_dapat_Kirim_Kupon-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Tidak_dapat_Kirim_Kupon_under_Gold-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai, Toped cek status Membership kamu belum mencapai Gold, sehingga belum bisa berbagi kupon. Tingkatkan terus transaksi kamu agar bisa berbagi kupon ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523434863,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "membership_under_gold"
+    }
+  ]
+}

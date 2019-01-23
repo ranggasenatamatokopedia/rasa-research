@@ -1,0 +1,192 @@
+[
+  {
+    "id": "7dd12f22-25c4-4e5d-88b2-65cd631f7a0b",
+    "data": [
+      {
+        "text": "blm ada tombol ajukan pembatalan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "239010ef-ecfb-43d5-9cc8-c44c1ec0dc78",
+    "data": [
+      {
+        "text": "tidak ada tombol batal pesanan di daftar transaksi nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f31ff00-ae86-4e54-ad76-f1097dc2380f",
+    "data": [
+      {
+        "text": "Barang yang dipesan kosong, mohon dananya di refund.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae6440de-6190-484e-a39f-a126335c3d44",
+    "data": [
+      {
+        "text": "Penjual meminta maaf karena stok habis dan saya meminta cancel order dan pengembalian dana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2596b5a8-1941-4eb8-a100-09428b587a72",
+    "data": [
+      {
+        "text": "masih tidak keluar tombol batal.. apakah bisa sistem membatalkan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74422f20-f480-4d74-ba73-2a570af4605f",
+    "data": [
+      {
+        "text": "tombol ajukan pembatalannya dimana ya min, gak ketemu saya nyari nyari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3476a5b0-2da8-4fe5-9679-1969ce76c6d9",
+    "data": [
+      {
+        "text": "ga ada tombol ajukan pembatalan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d3d743e-0b57-4494-b9fa-54309954584c",
+    "data": [
+      {
+        "text": "info dari penjual, stock barang kosong, jadi pesanan di batalkan /cancel. bukti percakapan terlampir. mohon di refund dana secepatnya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b42cfe35-baec-4670-bbf5-8d177976e71b",
+    "data": [
+      {
+        "text": "tombol pembatalanya kenapa tidak muncul ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ed99bee-487c-4f96-9473-9c2a19f7e1f6",
+    "data": [
+      {
+        "text": "penjual meminta saya yang melakukan pembatalan tersebut karena apabila penjual yang melakukan pembatalan, poin penjual tersebut akan berkurang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1146d143-3283-4ce6-8891-d25eb451e11d",
+    "data": [
+      {
+        "text": "ajukan pengembalian dana karena barang tdk ready stock",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4dd43b6b-01e0-49aa-b43e-2d7f820a2a3c",
+    "data": [
+      {
+        "text": "barang kosong. saya minta refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33663455-b1c7-46b4-9775-aad62e25401c",
+    "data": [
+      {
+        "text": "tombol ajukan pembatalan ada dimana min.  di apss gak ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "980afc80-7223-445f-ad30-161f9b11fa5c",
+    "data": [
+      {
+        "text": "tidak ada pilihan tombol batal pada status pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40979e0e-648f-4dc8-8fa4-72fc749d03d4",
+    "data": [
+      {
+        "text": "cara batalkan pesanan ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8aa3899a-7ee5-49d8-bed9-1e97dfd08570",
+    "data": [
+      {
+        "text": "saya mau refund pesanan ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

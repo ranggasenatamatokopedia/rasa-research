@@ -1,0 +1,55 @@
+{
+  "id": "20aeb539-cb52-44f3-9843-7094bdf8a656",
+  "parentId": "98f49bfa-e679-494c-ba6c-3e5323bf26df",
+  "rootParentId": "36de46a2-13d2-4f09-9ff4-8abcbcb54ba3",
+  "name": "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Seller_Canceled_Rejected",
+  "auto": true,
+  "contexts": [
+    "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Seller-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Seller_Canceled_Rejected-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sayang sekali, pesanannya sudah batal dan dananya sudah Toped kembalikan ke pembeli."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533801570,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_pesanan_ditolak_penjual"
+    },
+    {
+      "name": "invoice_batal_otomatis_oleh_sistem"
+    },
+    {
+      "name": "invoice_canceled"
+    },
+    {
+      "name": "invoce_refund"
+    },
+    {
+      "name": "invoice_payment_due"
+    }
+  ]
+}

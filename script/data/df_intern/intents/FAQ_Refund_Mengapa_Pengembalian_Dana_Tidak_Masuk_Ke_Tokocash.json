@@ -1,0 +1,32 @@
+{
+  "id": "cbdcf937-f77c-410e-b964-ea4423e35b68",
+  "name": "FAQ_Refund_Mengapa_Pengembalian_Dana_Tidak_Masuk_Ke_Tokocash",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Karena TokoCash sudah digantikan dengan OVO, maka pastikan kamu sudah melakukan aktivasi OVO terlebih dahulu ya di Tokopedia dengan cara klik \u0027Aktivasi\u0027 di halaman utama Tokopedia."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520579231,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_refund_mengapa_pengembalian_dana_tidak_masuk_ke_tokocash"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "7e961a3e-b2be-4537-9d17-739b0c9c75a4",
+  "parentId": "d73eb916-a141-4d3e-ab63-cb227cdca4dd",
+  "rootParentId": "d73eb916-a141-4d3e-ab63-cb227cdca4dd",
+  "name": "FAQ_Order_Tidak_Batal_Dan_Finished_Otomatis_2",
+  "auto": true,
+  "contexts": [
+    "FAQ_Order_Tidak_Batal_Dan_Finished_Otomatis-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Order_Tidak_Batal_Dan_Finished_Otomatis_2-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Batas waktu untuk konfirmasi penerimaan adalah 48 jam dihitung dari status order \"Delivered\". Jika status order kamu sudah melebihi batas waktu tersebut namun belum ada update, harap informasikan ke kami melalui !TKPD_URL_CONTACTUS_SUBMIT!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535687592,
+  "fallbackIntent": false,
+  "events": []
+}

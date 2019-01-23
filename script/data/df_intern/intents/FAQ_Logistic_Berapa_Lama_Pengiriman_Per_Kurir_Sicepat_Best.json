@@ -1,0 +1,45 @@
+{
+  "id": "5f33a64f-013d-429d-bb6f-f8e3d5b8d5f2",
+  "parentId": "aca980f7-0eeb-420b-8904-a9fc8411653f",
+  "rootParentId": "62328066-6ba6-453c-b337-f9f221db5f6f",
+  "name": "FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir_Sicepat_Best",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir_Sicepat-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e5050532-9a95-4b7c-ae23-3d72e258c323",
+          "dataType": "@layanan_kurir_reguler",
+          "name": "layanan_kurir_reguler",
+          "value": "$layanan_kurir_reguler",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Estimasi waktu pengiriman kurir SiCepat dengan layanan BEST adalah 1-2 hari ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528172775,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "best"
+    }
+  ]
+}

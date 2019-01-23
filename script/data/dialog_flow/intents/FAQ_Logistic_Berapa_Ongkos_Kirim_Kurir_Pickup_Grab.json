@@ -1,0 +1,51 @@
+{
+  "id": "3c656bc5-50c4-4182-ab6a-c6629fb01600",
+  "parentId": "73840e93-ca95-444a-a2dd-d1deaab1d5eb",
+  "rootParentId": "73840e93-ca95-444a-a2dd-d1deaab1d5eb",
+  "name": "FAQ_Logistic_Berapa_Ongkos_Kirim_Kurir_Pickup_Grab",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Berapa_Ongkos_Kirim_Kurir_Pickup-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FAQ_Logistic_Berapa_Ongkos_Kirim_Kurir_Pickup.FAQ_Logistic_Berapa_Ongkos_Kirim_Kurir_Pickup-custom",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Logistic_Berapa_Ongkos_Kirim_Kurir_Pickup_Grab-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "32852503-1929-412a-8c4a-131724eddf08",
+          "dataType": "@kurir_pick_up",
+          "name": "kurir_pick_up",
+          "value": "$kurir_pick_up",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa ketik jenis layanan Grab yang ingin kamu tanyakan ya, apakah Same Day atau Instant?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528787729,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "Grab"
+    }
+  ]
+}

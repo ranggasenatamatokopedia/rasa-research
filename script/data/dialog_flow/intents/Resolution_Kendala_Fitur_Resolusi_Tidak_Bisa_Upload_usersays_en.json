@@ -1,0 +1,451 @@
+[
+  {
+    "id": "79c3aff4-8416-4b6b-9fd8-743c8276a8e3",
+    "data": [
+      {
+        "text": "Tombol upload saat ingin mengunggah file belum muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "839a1f89-7762-46e0-967b-d87fc242a431",
+    "data": [
+      {
+        "text": "Mau tanya,  saya mau masukin bukti foto dan video ke pusat resolusi kenapa gak bisa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "612e73d3-c1b6-4972-89c0-a40a8c3ed0be",
+    "data": [
+      {
+        "text": "Bagaimana cara upload video di Pusat Resolusi? ga ada tombolnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d5454b67-c912-463a-8e25-49a16de7f8a0",
+    "data": [
+      {
+        "text": "Kenapa saya gak bisa lampirkan bukti ya di Pusat Resolusi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9d5cf6e8-71bb-4abb-b195-f6723f45ee4e",
+    "data": [
+      {
+        "text": "Hallo tokopedia saya mau masukin foto barang saat diterima tapi kenapa gak bisa, gimana saya kasih buktinya kalo gini?!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a802cfad-6b3f-41ed-b58c-77175b91f878",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tolong munculkan tombol upload foto karna sudah mendekati waktu tenggat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "86b9d1ef-b708-4a4b-9953-d03872d5d0ae",
+    "data": [
+      {
+        "text": "tidak bisa upload file gambar/video",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "29599c86-feb3-4011-ad9f-bd18f8e3ebd2",
+    "data": [
+      {
+        "text": "tidak bisa upload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f8161afc-3fd3-4f0d-92ac-a2991bf1ce27",
+    "data": [
+      {
+        "text": "Min ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mau upload video unboxing tapi gak bisa. Error terus tolong dibantu ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f996c49c-5d51-4b47-a73a-efaafd90e783",
+    "data": [
+      {
+        "text": "Hai tokopedia, untuk masukin foto ke pusat resolusi apakahh lagi error? dari tadi saya mau upload gak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "14c388ff-b67d-4c05-bc96-5c94b02d6a87",
+    "data": [
+      {
+        "text": "saya tidak bisa unggah bukti di pusat resolusi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e683e99d-4385-4f7b-b575-86250c329315",
+    "data": [
+      {
+        "text": "Tidak bisa mengunggah gambar/video",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "96163429-50e7-4a3b-b3df-77a104f9a388",
+    "data": [
+      {
+        "text": "Admin ini gimana sih, disuruh upload folo tapi malah erorr terus!! saya keburu dikasi tenggat!!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "10cb8488-e988-4977-b733-3f60a3a8adcf",
+    "data": [
+      {
+        "text": "Saya gak bisa upload foto bukti resi saya di Pusat Resolusi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "32d5f3bb-14a2-4ff0-8a60-ebd0e745fb7c",
+    "data": [
+      {
+        "text": "Tidak bisa unggah gambar/video",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2b6edb16-378d-4a7b-aeb0-0f49ba9cc6a0",
+    "data": [
+      {
+        "text": "Ini ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gagal upload foto di Pusat Resolusi dan tidak dapat masuk komplain ke Pusat Resolusi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7582db29-a053-4fb2-9b09-0b1c3341b82d",
+    "data": [
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8f7bd006-6ae8-447f-aaf0-11daf442498c",
+    "data": [
+      {
+        "text": "Lapor ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya sudah kirimkan barang pengganti ke ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi gak bisa input foto resinya. Ini buktinya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "051dbd19-373b-4d1f-8f8f-627528f648e2",
+    "data": [
+      {
+        "text": "Admin tolong dong ini disuruh upload bukti tapi drtd gagal terus! tolong dibenerin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cc85f2c4-af2d-4551-87ca-325daf903260",
+    "data": [
+      {
+        "text": "saya gak bisa upload foto di pusat resolusi INV/",
+        "userDefined": false
+      },
+      {
+        "text": "20170512",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "/XVII/V/",
+        "userDefined": false
+      },
+      {
+        "text": "82514483",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "93765364-9f70-4c14-ab8e-fbe080b43aed",
+    "data": [
+      {
+        "text": "tidak bisa upload gambar/video",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "64a8e909-a2b6-4b7f-adcc-7ee97c91d4f0",
+    "data": [
+      {
+        "text": "Halo ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya mau upload bukti resi return barang saya, tapi notifikasinya error. Mohon bantuannya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Makasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "30151df5-f4e8-4db6-8349-3e488ae65c08",
+    "data": [
+      {
+        "text": "Saya gak bisa upload video kerusakan barangnya di pusat resolusi ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Mohon bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8cc60f00-e16e-43fd-bf4d-761256f9d263",
+    "data": [
+      {
+        "text": "saya ingin upload video tapi gak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f0da679b-872c-4a52-8127-0932d0ae1411",
+    "data": [
+      {
+        "text": "tdk dpt unggah video",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e1d87031-1cd4-457e-9e90-f386bdca4c92",
+    "data": [
+      {
+        "text": "tdk dpt unggah gambar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fad86aac-4c13-43e4-9568-2f5c78abb5e4",
+    "data": [
+      {
+        "text": "tidak bisa unggah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "64fb1116-4862-4259-8fa2-37e76cad5cf6",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tolong bantuannya buat masukin bukti saya ke pusat resolusi dari tadi gagal terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9c9969ec-8e65-488e-ab87-12fd5c55302d",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tolong dong saya mau upload bukti foto simulasi barang yang diterima tapi error terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "832f2e73-50b6-4c7d-9c60-5f934318b92b",
+    "data": [
+      {
+        "text": "Tidak ",
+        "userDefined": false
+      },
+      {
+        "text": "bisa",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " mengunggah file gambar/video",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4e87fc1d-e520-4f81-9bc3-e3eb39253c6e",
+    "data": [
+      {
+        "text": "cant_upload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "c049527b-eb37-4f5a-8851-c846406bc8b2",
+  "parentId": "38a6dbfa-e61c-454f-bd8a-97aa39370ab9",
+  "rootParentId": "7702a921-0bc2-479f-9cd3-aade8103768a",
+  "name": "Payment_not_verify_MP_platform_inspay_scrooge_success_less_24_hour",
+  "auto": true,
+  "contexts": [
+    "Payment_not_verify_MP_platform_cancelled_inspay_scrooge_success-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Payment_not_verify_MP_platform_inspay_scrooge_success_less_24_hour-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kak, mohon menunggu terlebih dahulu ya maksimal 1x24 jam untuk proses refundnya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Nantinya dana akan dikembalikan ke Saldo Tokopedia/TokoCash Kakak."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531358630,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "less_than_6_hours"
+    }
+  ]
+}

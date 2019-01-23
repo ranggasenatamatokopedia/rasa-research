@@ -1,0 +1,47 @@
+{
+  "id": "46e1bab3-ce53-407e-942f-66bd7f2f06f2",
+  "name": "FAQ_Logistic_Batas_Waktu_Pickup_Kurir",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ConvertParametersToEventName",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Logistic_Batas_Waktu_Pickup_Kurir-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e10d8ee5-04e7-4210-a07e-518b7088fe9b",
+          "required": true,
+          "dataType": "@kurir_pick_up",
+          "name": "kurir_pick_up",
+          "value": "$kurir_pick_up",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Toped pastikan lagi, Kakak menggunakan kurir Go-Send, Grab, Ninja Xpress atau REX?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_logistic_batas_waktu_pickup_kurir"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "7cbf6906-2300-4c0f-ba62-aac3fac8c916",
+    "data": [
+      {
+        "text": "is_closed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5255de31-7394-468a-b4b1-a541d0829873",
+    "data": [
+      {
+        "text": "is_close",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

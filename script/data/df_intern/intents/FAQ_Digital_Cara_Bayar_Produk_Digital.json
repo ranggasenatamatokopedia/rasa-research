@@ -1,0 +1,38 @@
+{
+  "id": "a5068319-2576-45c2-8bf4-5c2034229ccc",
+  "name": "FAQ_Digital_Cara_Bayar_Produk_Digital",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Digital_Cara_Bayar_Produk_Digital-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa membeli Produk Digital dengan cara:\n1. Buka halaman !TKPD_URL_PRODUK_DIGITAL!\n2. Pilih produk yang ingin Anda bayar atau beli seperti Pulsa, Paket Data, Listrik PLN, Gas PGN, dll\n3. Jika produk yang ingin kamu beli tidak muncul, klik \"Lainnya\"\n4. Setelah memilih produk, isi data yang dibutuhkan\n5. Setelah selesai isi data, klik \"Beli\" atau \"Bayar\"\n6. Detail Pembelian/Pembayaran kamu akan muncul pada halaman Checkout. Lalu klik \"Lanjut\"\n7. Tentukan Mertode Pembayaran yang ingin digunakan, lalu klik \"Bayar\""
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pastikan kamu sudah memilih metode pembayaran sebelum pindah ke halaman lain agar pesanan dapat langsung diproses. Kalau metode pembayaran belum dipilih dan kamu keluar dari halaman pembayaran, transaksi kamu akan batal. Selamat berbelanja ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

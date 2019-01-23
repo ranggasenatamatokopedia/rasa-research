@@ -1,0 +1,52 @@
+{
+  "id": "4f83a93d-ebc8-4174-921c-7f912fe98925",
+  "parentId": "f75713bc-43ff-4cb3-902b-32f2be6459df",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Tidak_Mendapat_Cashback_Promo_Select_Invoice_MP_Finished",
+  "auto": false,
+  "contexts": [
+    "Promo_Tidak_Mendapat_Cashback_Promo_Select_Invoice_MP-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckInvoiceStatusInSauron",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Mendapat_Cashback_Promo_Select_Invoice_MP_Finished-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531820001,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_finished"
+    },
+    {
+      "name": "invoice_cancel"
+    },
+    {
+      "name": "invoice_fraud_review"
+    },
+    {
+      "name": "invoice_suspect_fraud"
+    }
+  ]
+}

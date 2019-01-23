@@ -1,0 +1,38 @@
+{
+  "id": "7702a921-0bc2-479f-9cd3-aade8103768a",
+  "name": "Payment_not_verify",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetInvoiceList",
+      "affectedContexts": [
+        {
+          "name": "Payment_not_verify-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai Kak, boleh beritahu transaksi nya yang mana?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "payment_not_verify"
+    }
+  ]
+}

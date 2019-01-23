@@ -1,0 +1,48 @@
+{
+  "id": "bfa451bc-8e02-474b-a679-73a8e2494f8a",
+  "parentId": "10bc0ba1-9153-4019-b3b1-d6415fe7d150",
+  "rootParentId": "d19f77a0-9fc1-4329-9b8c-1f9cb2ed3084",
+  "name": "Logistic_Order_Kendala_Seller_Conventional_In_SLA_Found",
+  "auto": true,
+  "contexts": [
+    "Logistic_Order_Kendala_Seller_Conventional_In_SLA-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Order_Kendala_Seller_Conventional_In_SLA_Found-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek pesanan kamu masih dalam estimasi waktu pengiriman, dengan resi dan status pengirimannya sebagai berikut \"#show_shipping_info_AWB_tracking.awb\" status pengiriman \"#show_shipping_info_AWB_tracking.history_status\" pada \"#show_shipping_info_AWB_tracking.history_date:#show_shipping_info_AWB_tracking.history_time\"."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu hingga pesanan kamu diterima oleh Pembeli, ya. Dan terkait kelanjutan pengiriman, kamu juga dapat melakukan pengecekan pada halaman \"Status Pengiriman\" :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541129207,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "show_shipping_info_AWB_tracking"
+    }
+  ]
+}

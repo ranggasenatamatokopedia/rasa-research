@@ -1,0 +1,39 @@
+{
+  "id": "8211d47f-9080-49c1-bc62-b561b5cefa80",
+  "parentId": "dfd5c5d7-f8a2-4c65-b4f6-2dc2bd8c057f",
+  "rootParentId": "bc8f4622-0f27-4009-a4cd-f030fe0388ae",
+  "name": "FAQ_Payment_cara_bayar_instant_payment_bca_klikpay",
+  "auto": true,
+  "contexts": [
+    "FAQ_Payment_cara_bayar_instant_payment-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Payment_cara_bayar_instant_payment_bca_klikpay-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut langkah-langkah apabila kamu mau melakukan pembayaran dengan BCA KlikPay:\n\n1. Masukkan produk ke Keranjang Belanja.\n2. Pilih metode pembayaran BCA KlikPay, lalu klik Checkout.\n3. Pada halaman ringkasan pembayaran klik Bayar Sekarang.\n4. Kamu akan terhubung dengan halaman BCA KlikPay.\n5. Login ke akun BCA KlikPay kamu.\n6. Cek jumlah belanja dan pastikan nama merchant Tokopedia (tokopedia.com).\n7. Pada jenis pembayaran pilih KlikBCA. Klik Kirim.\n8. Klik Kirim OTP. Kode OTP akan dikirim via SMS.\n9. Masukkan kode OTP, lalu klik Bayar.\""
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534828666,
+  "fallbackIntent": false,
+  "events": []
+}

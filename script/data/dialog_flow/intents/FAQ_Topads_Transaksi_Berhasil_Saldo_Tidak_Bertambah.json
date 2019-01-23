@@ -1,0 +1,33 @@
+{
+  "id": "69f115dd-296e-4fce-b62d-37cbaf55279f",
+  "name": "FAQ_Topads_Transaksi_Berhasil_Saldo_Tidak_Bertambah",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Topads_Transaksi_Berhasil_Saldo_Tidak_Bertambah-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa pastikan, apakah saldo yang di Topup sudah masuk dengan mengakses akun Tokopedia di laptop/komputer dan ikuti langkah berikut:\n\n1. Klik menu \"Toko\"\n2. Klik \"TopAds\" \n3. Klik \"Riwayat kredit\"\n\nApabila detail topup tidak tertera, Toped sarankan untuk menginformasikannya disini  !TKPD_URL_CONTACTUS_SUBMIT!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

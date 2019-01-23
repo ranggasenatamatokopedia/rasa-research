@@ -1,0 +1,43 @@
+{
+  "id": "998dba0b-7a36-4726-b2f3-90baa93698c2",
+  "parentId": "097ccd10-206d-47d6-b058-24ef1540018f",
+  "rootParentId": "097ccd10-206d-47d6-b058-24ef1540018f",
+  "name": "Payment_VA_number_not_found_select_inv",
+  "auto": true,
+  "contexts": [
+    "Payment_VA_number_not_found-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckIsVirtualAccount",
+      "affectedContexts": [
+        {
+          "name": "Payment_VA_number_not_found_select_inv-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek sebentar ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531712164,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "select_invoice"
+    }
+  ]
+}

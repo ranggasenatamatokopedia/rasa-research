@@ -1,0 +1,823 @@
+[
+  {
+    "id": "f0207f6b-bdc0-4a7c-834d-a55b255a560e",
+    "data": [
+      {
+        "text": "saya gak bisa shake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "42a37e1b-a353-4813-9536-9e744cd4612a",
+    "data": [
+      {
+        "text": "gbs shake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "46cda668-cab0-4bbf-b88c-6089cd303509",
+    "data": [
+      {
+        "text": "gkbisa shake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c5667627-1ee5-4abc-ad76-0f24008c1eff",
+    "data": [
+      {
+        "text": "gkbs shake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "556365c2-6589-497a-bbe2-e20bf1937b4c",
+    "data": [
+      {
+        "text": "gak bisa shake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0888fc5c-bdc6-4161-8dbe-d238db7f2946",
+    "data": [
+      {
+        "text": "gakbisa shake niih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e81ec2b1-b1f1-4b24-9572-9bb6f8e1dd5b",
+    "data": [
+      {
+        "text": "gakbisa shake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f5bf0b7b-739e-40fa-9d8f-102b1e5ba326",
+    "data": [
+      {
+        "text": "gabisa shake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0ca15e75-29ca-433e-9d5d-d22a704985cc",
+    "data": [
+      {
+        "text": "ga bsa ",
+        "userDefined": false
+      },
+      {
+        "text": "shake2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "17c08f71-2d5a-4f7c-af64-ee7f3e59b611",
+    "data": [
+      {
+        "text": "saya gak bisa ",
+        "userDefined": false
+      },
+      {
+        "text": "shake2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "47f9aabd-ba32-484d-916a-807abbe8f953",
+    "data": [
+      {
+        "text": "sy gabs shake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d2b443bc-2b45-46a3-9c70-fa3728b99903",
+    "data": [
+      {
+        "text": "sy gabs shake-shake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d4bf6977-72ab-45bc-b1ef-f6eef02c57f2",
+    "data": [
+      {
+        "text": "sy gabs ",
+        "userDefined": false
+      },
+      {
+        "text": "shake2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e7d8c53d-071e-4b2d-a5ad-4cf23e54e777",
+    "data": [
+      {
+        "text": "saya ga bs ",
+        "userDefined": false
+      },
+      {
+        "text": "shake2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3b4a8d5d-9c7a-4dc2-93b0-1ca61438fb9f",
+    "data": [
+      {
+        "text": "sy ga bsa ",
+        "userDefined": false
+      },
+      {
+        "text": "shake2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7be358f7-c750-4f98-9622-73e75717c076",
+    "data": [
+      {
+        "text": "saya gk bisa ",
+        "userDefined": false
+      },
+      {
+        "text": "shake2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dda4e3f5-8e73-415f-a8a9-1e0954d0b9b4",
+    "data": [
+      {
+        "text": "saya gak bisa ",
+        "userDefined": false
+      },
+      {
+        "text": "shake2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9aab102a-7a96-4d12-8c38-c58723f589d5",
+    "data": [
+      {
+        "text": "saya gak bisa shake shake ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8cb35709-abd0-4dea-a7ef-fd371095cd2d",
+    "data": [
+      {
+        "text": "saya tidak bisa shake-shake ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "de4ec386-32de-4620-881a-e7d72ed81707",
+    "data": [
+      {
+        "text": "saya gak bisa shake-shake ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "98765659-0e55-4b30-b8a8-9156995e9d45",
+    "data": [
+      {
+        "text": "saya gak bisa ",
+        "userDefined": false
+      },
+      {
+        "text": "shake2 min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9058ec0a-ad57-4139-b43f-f9d83a34bca5",
+    "data": [
+      {
+        "text": "udah shake tp gak ",
+        "userDefined": false
+      },
+      {
+        "text": "masuk2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4dec5622-9c0b-4819-9d7e-fc25043b4d4d",
+    "data": [
+      {
+        "text": "udah shake tapi ",
+        "userDefined": false
+      },
+      {
+        "text": "gabisa2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3bd26897-d909-4a8a-8a94-ea3051b90b88",
+    "data": [
+      {
+        "text": "udah shake tapi gabisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c7fefaa8-e30d-4db7-b012-1e082d831d0d",
+    "data": [
+      {
+        "text": "udah shake tapi gabisa bisa masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b4ef8973-0140-4240-98d3-b4145f3923cb",
+    "data": [
+      {
+        "text": "udah shake tp gak bisa bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b3189cfd-2c2e-4a8f-84bc-7930f9d5a57f",
+    "data": [
+      {
+        "text": "mau shake tapi gak isa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f8d36219-6017-4ef0-be97-496afd58c846",
+    "data": [
+      {
+        "text": "shake gabisa bisa woi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "37ebdb6b-4392-4814-9986-0263bf4af4ea",
+    "data": [
+      {
+        "text": "shake gabisa bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1c2ff6d4-b2ea-4799-b159-e40e71474f2f",
+    "data": [
+      {
+        "text": "shake error ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7c28b1fa-d9d2-4517-bf52-1d7a72a62dc3",
+    "data": [
+      {
+        "text": "shake errorrrrrrrrrrrrr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9f08337e-6bf0-4f9a-826a-b9853256384e",
+    "data": [
+      {
+        "text": "shake error",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5d24fe34-5ab2-474f-bc56-e5da56add6b7",
+    "data": [
+      {
+        "text": "shake eror",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d906b632-5bbd-4a63-98b2-4bb72e876b3a",
+    "data": [
+      {
+        "text": "kenapa gabisa shake ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7902b5a8-cba3-4523-a922-a8a445d1f6d3",
+    "data": [
+      {
+        "text": "mau ",
+        "userDefined": false
+      },
+      {
+        "text": "shake2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kok gabisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4019b628-fe6f-46ea-99b8-9c23df1b677f",
+    "data": [
+      {
+        "text": "mau ",
+        "userDefined": false
+      },
+      {
+        "text": "shake2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gabisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ff09ad7b-b9db-44b6-b3ba-c5fabf02ae68",
+    "data": [
+      {
+        "text": "akun saya kok gak bisa ",
+        "userDefined": false
+      },
+      {
+        "text": "shake2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2a7f868a-35d7-4608-9a10-1a0a3763843a",
+    "data": [
+      {
+        "text": "mau ",
+        "userDefined": false
+      },
+      {
+        "text": "shake2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi gak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bba4066e-fdb8-4cea-bfc9-efbb0b94012e",
+    "data": [
+      {
+        "text": "shake kenapa deh kok gak bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a4a27b4a-d19f-48fa-8d7a-8e0c150ec419",
+    "data": [
+      {
+        "text": "shake lagi error? kenapa gabisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "63e7ef4c-a04a-489c-804e-22f9953fde4e",
+    "data": [
+      {
+        "text": "shake eror? kenapa gak bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b2e8e9ad-a4ad-44ea-8898-7661385097ca",
+    "data": [
+      {
+        "text": "saya gak bisa shake nih, eror?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c6c556d8-8487-4615-8407-077de037cc9d",
+    "data": [
+      {
+        "text": "kenapa gak bisa ",
+        "userDefined": false
+      },
+      {
+        "text": "shake2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? lagi error emang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "14b036eb-63bd-4308-9a24-49676c120f76",
+    "data": [
+      {
+        "text": "kenapa gak bisa ",
+        "userDefined": false
+      },
+      {
+        "text": "shake2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? lagi error?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "91173370-e7c3-40d0-9700-ee0e792b7d93",
+    "data": [
+      {
+        "text": "kenapa gak bisa shake? lagi error?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a25f3917-cb3e-4144-aa3d-412ec940ff80",
+    "data": [
+      {
+        "text": "saya mau ke play lewat shake tapi gak bisa shake nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2f631ed8-e0fd-4020-b8ae-abf14e064eae",
+    "data": [
+      {
+        "text": "saya mau shake gak bisa jd gabisa masuk play",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f87f444f-4284-477e-92d4-a3dc9f5c56a1",
+    "data": [
+      {
+        "text": "saya gak bisa shake loh kenapa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "56e760b6-9b9c-46b7-bccf-803ce4040f67",
+    "data": [
+      {
+        "text": "gua gabisa ",
+        "userDefined": false
+      },
+      {
+        "text": "shake2 min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c06a04cd-82a9-4910-8b19-ba32cf7d0f98",
+    "data": [
+      {
+        "text": "kok saya gak bisa ",
+        "userDefined": false
+      },
+      {
+        "text": "shake2 min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dc720d2c-8dd8-4f9b-b091-fa21ea251553",
+    "data": [
+      {
+        "text": "kok gak bisa shake ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1e31108c-c1b3-42af-9123-07838d2c085d",
+    "data": [
+      {
+        "text": "gabisa shake shake nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f8c6950a-4b00-4a0a-bc5d-445483d1f87d",
+    "data": [
+      {
+        "text": "gabisa shake-shake nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b19545db-43af-4cb0-a30a-50be7ebaf469",
+    "data": [
+      {
+        "text": "gabisa shake nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d7dbf222-bba8-4914-b51c-659ea0e8a6da",
+    "data": [
+      {
+        "text": "gak bisa shake-shake nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "df84a729-9b4c-427e-b21a-dc1c8086cb59",
+    "data": [
+      {
+        "text": "saya gak bisa shake ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b52ff667-5484-485e-b698-b456b3738d71",
+    "data": [
+      {
+        "text": "saya tidak bisa shake ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "35827931-21fc-4fc2-bcfa-8b835b50e394",
+    "data": [
+      {
+        "text": "saya tidak bisa shake-shake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fac8e6c5-34af-4346-a216-b0820d5f1899",
+    "data": [
+      {
+        "text": "saya tidak bisa shake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9d25fe39-419b-40bc-8a68-d986b058da16",
+    "data": [
+      {
+        "text": "tidak bisa shake shake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

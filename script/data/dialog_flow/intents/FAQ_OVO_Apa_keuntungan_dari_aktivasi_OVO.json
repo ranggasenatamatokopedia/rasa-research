@@ -1,0 +1,36 @@
+{
+  "id": "1d884d58-d2b3-4fc7-8312-bed5e90acdd1",
+  "name": "FAQ_OVO_Apa_keuntungan_dari_aktivasi_OVO",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut benefit yang Kamu dapat setelah mengaktifkan OVO points!"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "1. Kamu dapat melakukan beragam transaksi keuangan di Tokopedia tanpa harus berulang kali transfer, cukup dengan melakukan top-up OVO Cash.\n2. Kamu berkesempatan untuk mendapatkan keuntungan OVO Points tiap melakukan minimal transaksi."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_ovo_apa_keuntungan_dari_aktivasi_ovo"
+    }
+  ]
+}

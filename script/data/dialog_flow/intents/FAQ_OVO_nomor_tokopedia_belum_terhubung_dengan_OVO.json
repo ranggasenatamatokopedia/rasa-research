@@ -1,0 +1,36 @@
+{
+  "id": "0bf7141c-4150-48e3-ba2a-1fb823302db9",
+  "name": "FAQ_OVO_nomor_tokopedia_belum_terhubung_dengan_OVO",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika nomor Kamu belum terhubung dengan OVO, berikut langkahnya, ya:"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "1. Klik Aktivasi OVO\n2. Masukkan Nama Sesuai KTP\n3. Konfirmasi nomor OVO yang akan dihubungkan dengan akun Tokopedia\n4. Jika nomor berbeda, ubah dulu nomor akun Tokopedia sesuai dengan nomor OVO"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_ovo_nomor_tokopedia_belum_terhubung_dengan_ovo"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ca52e778-3fb5-472f-82d6-45b4f29876f7",
+  "parentId": "46e1bab3-ce53-407e-942f-66bd7f2f06f2",
+  "rootParentId": "46e1bab3-ce53-407e-942f-66bd7f2f06f2",
+  "name": "FAQ_Logistic_Batas_Waktu_Pickup_Kurir_Gojek",
+  "auto": false,
+  "contexts": [
+    "FAQ_Logistic_Batas_Waktu_Pickup_Kurir-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Batas waktu pick up untuk layanan Sameday adalah pukul 08.00 - 16.00 WIB. Sedangkan untuk layanan Instant, batas waktu pick up-nya adalah 06.00 - 17.00 WIB."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528325109,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "gojek"
+    }
+  ]
+}

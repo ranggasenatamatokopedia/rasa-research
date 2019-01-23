@@ -1,0 +1,43 @@
+{
+  "id": "da5d9175-16ba-41dd-bcce-9b16460a7474",
+  "parentId": "18080cda-9aad-4648-8d5e-6725069c5ab2",
+  "rootParentId": "78a8a659-1f88-470b-8cae-9de1dbc1f058",
+  "name": "Payment_kode_pembayaran_not_found_invoice_select_gerai",
+  "auto": true,
+  "contexts": [
+    "Payment_kode_pembayaran_not_found_invoice_select-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckInvoiceStatusID",
+      "affectedContexts": [
+        {
+          "name": "Payment_kode_pembayaran_not_found_invoice_select_gerai-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531637123,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "gerai"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "eb7b7afc-1ee5-4413-963f-0279956ad630",
+  "parentId": "ecb55367-4a3a-468f-9bcd-38293b968ac7",
+  "rootParentId": "844540fa-3db4-42cc-a62e-c3d9bc90793a",
+  "name": "Resolution_Kendala_Fitur_Resolusi_Batal_Komplain_Solution_Accepted_Courier",
+  "auto": true,
+  "contexts": [
+    "Resolution_Kendala_Fitur_Resolusi_Batal_Komplain_Tdk_Muncul_Inv-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Resolution_Kendala_Fitur_Resolusi_Batal_Komplain_Solution_Accepted_Courier-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah Toped cek, untuk kendala ini solusi awal sudah disetujui. Kalau ingin menyelesaikan komplain, pembeli bisa klik tombol \"Selesaikan Komplain\"."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536741818,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "solution_accepted_courier"
+    }
+  ]
+}

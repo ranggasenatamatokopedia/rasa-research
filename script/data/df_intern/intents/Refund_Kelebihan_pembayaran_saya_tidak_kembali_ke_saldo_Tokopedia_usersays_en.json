@@ -1,0 +1,924 @@
+[
+  {
+    "id": "4b690c2b-95fa-4a77-9252-a73bbf1d00c0",
+    "data": [
+      {
+        "text": "Saya salah ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " jumlahnya lebih banyak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bdb9c931-0028-407d-8d8b-0a916c522460",
+    "data": [
+      {
+        "text": "refund kelebihan ongkos kirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0a7a5af3-47d2-4773-b570-fcca39f158ae",
+    "data": [
+      {
+        "text": "pembayaran lebih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2e924e3a-72cc-4b5f-bdd2-9fa5131d1f8e",
+    "data": [
+      {
+        "text": "sore",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", di email saya diberitahu untuk membayar sejumlah ",
+        "userDefined": false
+      },
+      {
+        "text": "10.375",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tetapi saya kelebihan bayar ",
+        "userDefined": false
+      },
+      {
+        "text": "11.170",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", gimana ya solusinya, takutnya pembayaran nggak bisa dibaca tokopedia? mohon solusinya. .makasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d1040dc4-decb-4618-8b73-3228d7acce4f",
+    "data": [
+      {
+        "text": "Saya transfer kelebihan bayar nominalnya ",
+        "userDefined": false
+      },
+      {
+        "text": "158,444",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "056a474a-1f34-460c-b97b-381e5adf036d",
+    "data": [
+      {
+        "text": "Saya melakukan pembayaran untuk kurir JNE Yes, tetapi seller mengirim dgn kurir JNE reg. Jd bagaimana dgn kelebihan bayar biaya kurir nya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0bd9a056-947e-4ffc-8b9c-60b6a8ded69a",
+    "data": [
+      {
+        "text": "Saya salah bayar sehingga kelebihan bayar Rp ",
+        "userDefined": false
+      },
+      {
+        "text": "272.363",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ke rekening ",
+        "userDefined": false
+      },
+      {
+        "text": "165 003",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 0073333. Mohon diproses untuk pengembalian dana. Terima kasih.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c0329f1a-18c1-4b3c-99be-951de953d2f7",
+    "data": [
+      {
+        "text": "kelebihan bayar trsfr. shrsnya ",
+        "userDefined": false
+      },
+      {
+        "text": "121.571.030",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". saya trsfr ",
+        "userDefined": false
+      },
+      {
+        "text": "121.576.030",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "57189370-ad77-41d8-890b-50a602cc779a",
+    "data": [
+      {
+        "text": "untuk dana lebihnya mau buaat transaksi lagi bisa??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "118f7f06-e693-4f15-85fc-6be42e903d16",
+    "data": [
+      {
+        "text": "mohon maaf sebelumnya mungkin tidak sesuai,karena masalahnya bukan di benefit promonya, transaksinya berhasil tapi kelebihan bayar saya tidak masuk ke saldo tokped saya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f0eadaac-db28-40db-88a4-ff668489d5c1",
+    "data": [
+      {
+        "text": "kelebihan bayar dari harga ",
+        "userDefined": false
+      },
+      {
+        "text": "80rb",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bayar ",
+        "userDefined": false
+      },
+      {
+        "text": "180rb",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "...sisa belum masuk saldo Tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "41cb97e7-b8d0-435d-ba32-73239bdd630b",
+    "data": [
+      {
+        "text": "soalnya dana yg saya transfer sbesar Rp 100.000,-",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4860abed-bf41-4f9c-a0bc-0acb3485a689",
+    "data": [
+      {
+        "text": "mba sya udah tranfer untuk pmnyaran nya tpi slah ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " angka di belakang hrus nya ",
+        "userDefined": false
+      },
+      {
+        "text": "260,312.",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sya tranfernya ",
+        "userDefined": false
+      },
+      {
+        "text": "260,321",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4b85aa4c-dd37-4e52-acd3-a774d007bee0",
+    "data": [
+      {
+        "text": "pembayaran sudah berhasil. tetapi kelebihan bayar tidak dimasukkan ke saldo atau cash",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "815dc9fa-effc-40d6-b9e7-b021fb632eb7",
+    "data": [
+      {
+        "text": "dana yg d transper lebih dari total belanja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "002906e0-129d-43ba-a454-f591883e84bb",
+    "data": [
+      {
+        "text": "Jika utk kelebihan bayar bagaimana admin tokopedia? Saya transfer lebih dr yg seharusnya dibayar, seharusnya ",
+        "userDefined": false
+      },
+      {
+        "text": "330",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ribu menjadi ",
+        "userDefined": false
+      },
+      {
+        "text": "380",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ribu, trims",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "79e5e6f3-2302-454f-ae09-dc37ca7f4065",
+    "data": [
+      {
+        "text": "Halo, ada pembeli order ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " barang, tapi yg tersedia hanya ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " barang. Bagaimana pengembalian kelebihan bayar tsb ke pembeli ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "182b5342-82a8-466d-b25e-c30aa678cdfd",
+    "data": [
+      {
+        "text": "kelebihan bayar, ganti no rek pembayaran.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7be2b998-02bc-4c4e-b809-1628d3db4e1c",
+    "data": [
+      {
+        "text": "saya lebih bayar. Apakah dananya akan direfund?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 33
+  },
+  {
+    "id": "8f21107f-63e1-441f-bb85-cbf69177b395",
+    "data": [
+      {
+        "text": "pembayaran belum di verifikasi dan kelebihan bayar ",
+        "userDefined": false
+      },
+      {
+        "text": "3.000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " rupiah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "81a3d848-1dcf-4a94-b891-210c780d7175",
+    "data": [
+      {
+        "text": "ada perbedaan harga kurir awal dengan kurir pengganti sehingga ada kelebihan bayar. tlg bantu update total tagihan saya sesuai dengan harga aktual pengiriman sekarang. sehingga tagihan seharus lebih kecil. terimakasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "68c0d4bc-589d-4b60-8a5f-e93bdc6b1fd0",
+    "data": [
+      {
+        "text": "tidak sama dengan kode unik dan transfer dana lebih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69b7d367-0c00-49dc-9719-a04a3643575f",
+    "data": [
+      {
+        "text": "kelebihan bayar. mohon bantuan untuk mengatasi masalah kelebihan bayar. mustinya ",
+        "userDefined": false
+      },
+      {
+        "text": "104.347",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". tapi saya transfer ",
+        "userDefined": false
+      },
+      {
+        "text": "140.347",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". tks.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "af45e43b-6a33-4157-88e6-68095ea86e79",
+    "data": [
+      {
+        "text": "lebih bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "330a8155-3919-4a8b-8f16-742f66688724",
+    "data": [
+      {
+        "text": "pembayaran belum di verifikasi karena kelebihan bayar.dan tidak bisa di ubah di statuus pembayaran.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3fbe3462-3596-4dc1-8e4f-9ce27f1f082e",
+    "data": [
+      {
+        "text": "apakah kelebihan dana tidak bisa untuk membayar transaksi yg satunya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9154feb-628d-410a-8397-00cb67d2addf",
+    "data": [
+      {
+        "text": "TOLONG DIBANTU SY KELEBIHAN BAYAR ONGKIR SEBESAR ",
+        "userDefined": false
+      },
+      {
+        "text": "54,000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1fd70b32-9806-4cc4-9287-0ce9fb5545db",
+    "data": [
+      {
+        "text": "Pesanan saya blm dikirim oleh penjual, selain itu kelebihan bayar...  janji mau tranafer kembalikan belum juga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "47aecf1c-d28c-4fa3-8e83-e0e5c2a2fed4",
+    "data": [
+      {
+        "text": "Selamat ",
+        "userDefined": false
+      },
+      {
+        "text": "siang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "... mhn maaf sebenarnya bukan barang yang dterima tidak sesuai, namun saya hanya mau menanyakan perihal kelebihan bayar untuk ongkos kirim. sesuai dengan invoice, ongkir yg saya harus ",
+        "userDefined": false
+      },
+      {
+        "text": "bayar adalah 61 ribu, tapi pada resi JNE tercetak ongkirnya adalah 47rb, jadi ada selisih 14rb rupiah. Bagaimana dengan selisih ini? Mohon penjelasan, terima kasih.",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c867a742-439a-4dac-a271-5a019d51a1ec",
+    "data": [
+      {
+        "text": "ada kelebihan bayar rp.18.000 karna sy pakai promo vocer tapi pas barang sampai, penerimaan barang sudah ilang otomatis.gak bisa pakai pusat resolusi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b1f0f8d9-e31b-4d7c-8d71-38fe85252ae4",
+    "data": [
+      {
+        "text": "Mohon segera diverifikasi kelebihan bayar atas transfer transaksi order barang Segera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "86129566-4d9f-4a5d-aecd-238df1fc9ac4",
+    "data": [
+      {
+        "text": "Terjadi kelebihan bayar...Mohon diverivikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "63d2e002-4f58-4d68-9735-bbbffe287efb",
+    "data": [
+      {
+        "text": "lalu dana saya 530rb via transfer bgmana min??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6517faa8-f1e3-4053-a582-875361ff6e54",
+    "data": [
+      {
+        "text": "Saya ada transaksi PYM/",
+        "userDefined": false
+      },
+      {
+        "text": "20171230",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "/XVII/XII/",
+        "userDefined": false
+      },
+      {
+        "text": "135239330",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kelebihan bayar harusnya ",
+        "userDefined": false
+      },
+      {
+        "text": "275rb",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya bayar ",
+        "userDefined": false
+      },
+      {
+        "text": "283rb",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", mohon uangnya bisa ditransfer ke rekening BCA saya kembali, tks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8fa75f14-ee1e-4434-94a0-ea71bb4bb727",
+    "data": [
+      {
+        "text": "saya PO ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pcs, dikarenakan hanya ada ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " warna jd dikirim hanya ",
+        "userDefined": false
+      },
+      {
+        "text": "1pcs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "y",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dikirim, bagaimana pengembalian kelebihan bayar... tetimakasih...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5fdf1c87-fe21-400d-9f88-1b6bfeb3c5cd",
+    "data": [
+      {
+        "text": "Saya melakukan kelebihan bayar, mohon sisa dana dikembalikan ke saldo cash",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2284ee78-6606-483c-b7f1-fb47eb0fec76",
+    "data": [
+      {
+        "text": "kelebihan bayar. Apakah dananya akan dikembalikan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "00ae2ede-3d2b-439c-a964-4c9490d01658",
+    "data": [
+      {
+        "text": "kelebihan bayar seharusnya Rp.534.822 terbayar/tertekan Rp.594.822",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f226c81b-2fec-4a0b-9aa2-bdb4a8fe7ba9",
+    "data": [
+      {
+        "text": "kelebihan bayar ke rek bca jd blm di verifikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8b520b80-7035-48e0-9d38-261729df2d1d",
+    "data": [
+      {
+        "text": "kelebihan bayar, total pembelian ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kaleng, mohon retur ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kaleng, jadi saya hanya beli ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kaleng saja, rasa ayam..terimakasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2624879f-1657-4cba-a633-96a6a5aa0a69",
+    "data": [
+      {
+        "text": "Dalam pemesanan saya memilih JNE YES, tetapi seller mengirimkan nya dengan JNE REG. Barang sudah sampai disaya, tapi kelebihan bayar untuk Ongkir sebesar ",
+        "userDefined": false
+      },
+      {
+        "text": "10.000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum di refund. Mohon bantuannya, Terima Kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "319a0e73-bd34-49de-86ab-7e78991c53ea",
+    "data": [
+      {
+        "text": "bulan 11 saya bayar tgl 6/11. trus desember saya bayar tgl 5/12. trus sekarang saya bayar kok 2 bulan yah. bulan des sama jan. kok bisa gitu. berarti saya kelebihan bayar 1 bulan donk. yg bulan 11 nga ada bukti sms nya lunas nya. yg ada bukti gagal. tq",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fca77628-af24-4579-ac12-31a8af05215f",
+    "data": [
+      {
+        "text": "saya mau melaporkan salah transfer kode unik donk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1d9f2824-d722-4e61-8d91-2f7d48200828",
+    "data": [
+      {
+        "text": "tadi saya melakukan pembayaran pulsa telkomsel satu transaksi tapi bayar 2 kali karena ada kesalahan masukan kode yg dibelakang jumlah tranaaksi. yg pertama nominal 100000 dan yag kedua 100551. yg kedua yg sudah sesuai trnsaksi. tpi yg pertama 100000 dan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5d839f70-033f-4668-8067-c0c7a75dcf79",
+    "data": [
+      {
+        "text": "total pembayarannya 193.635. tapi saya mengirimnya salah. saya melakukan 2x transfer. pertama senilai 193.000, kedua senilai 10.000. sisa kembalian dananya belum dikirim ke tokocash.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b817e6cb-9a10-4b81-aa4d-e6262f0a0660",
+    "data": [
+      {
+        "text": "Saya salah transfer jumlahnya lebih banyak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a9ebffac-48be-4e94-a7ce-6186afcfa81b",
+    "data": [
+      {
+        "text": "Salah Jumlah Transfer karena Copy Jumlah dari Aplikasi Tokopedia.Mohon di Tambahkan Ke Saldo Terima Kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "212e42d4-bc2b-45f2-9895-a4dfec1c48b1",
+    "data": [
+      {
+        "text": "saya melakukan 2 kali pembayaran nominal 175.246",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "55b23d3d-087f-4a0f-87f0-a171c24390c6",
+    "data": [
+      {
+        "text": "uang yg saya transfer kelebihan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "07d7ee73-ac7c-46dd-b597-585798f3b648",
+    "data": [
+      {
+        "text": "kelebihan transfer transaksi PYM/20181104/XVIII/XI/277630905",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "aaa7e772-996f-4732-b584-c80fc39478cb",
+    "data": [
+      {
+        "text": "Pengembalian dana ke rekening saya sampai skrg blm masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5fc94b72-41cc-49c8-a238-c2b863d84047",
+    "data": [
+      {
+        "text": "saya telah transfer 2 kali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "658150ff-d107-4fd9-ad1c-ccd5c684d4df",
+    "data": [
+      {
+        "text": "saya melakukan pembayaran 2kali untuk tagihan pembayaran pdam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "47ec786f-47e1-4504-8adf-87c39cf213c5",
+    "data": [
+      {
+        "text": "transfer 2 kali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "32ec8dec-105a-4581-a8e1-ab56ff023613",
+    "data": [
+      {
+        "text": "saya melakukan pembayaran 2 kali, apa uang saya ,bisa dikembalikan ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "77b38995-77cc-4634-b505-5829aee39dd8",
+    "data": [
+      {
+        "text": "yg jadi pertanyaan dana belum masukmungkin karena jumlah transfer saya tadi saya lebihkan,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

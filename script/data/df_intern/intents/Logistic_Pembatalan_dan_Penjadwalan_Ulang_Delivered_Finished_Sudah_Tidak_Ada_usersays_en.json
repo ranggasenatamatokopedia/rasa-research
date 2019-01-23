@@ -1,0 +1,96 @@
+[
+  {
+    "id": "23507a3a-2140-4224-9098-d720dc319be4",
+    "data": [
+      {
+        "text": "tidak ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f749e8a1-1d0b-4894-ba64-06d44cdc8a17",
+    "data": [
+      {
+        "text": "tidaak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c7cb28a0-b2ac-4450-8f75-d63a26f7d6ff",
+    "data": [
+      {
+        "text": "tidk ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "07856d5d-1ddf-441b-8462-90c55a4a1eff",
+    "data": [
+      {
+        "text": "tidak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "95d9158b-4ea5-419e-91f7-9810a2e62e52",
+    "data": [
+      {
+        "text": "tdk ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "094c655e-dbf0-407b-bcfe-996dd55da868",
+    "data": [
+      {
+        "text": "ga",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e3a9559e-e042-445c-b6cb-acaaf7630d26",
+    "data": [
+      {
+        "text": "ga ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e6b1f76a-2bdb-4c3c-93c4-b6991afb6511",
+    "data": [
+      {
+        "text": "ga ada kok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

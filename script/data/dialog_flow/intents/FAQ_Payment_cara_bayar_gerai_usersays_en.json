@@ -1,0 +1,95 @@
+[
+  {
+    "id": "058ca2af-5572-4505-a2ca-2add82726976",
+    "data": [
+      {
+        "text": "lawson",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f034c5bf-f0fc-4c41-8e1b-e14cb0cf6b96",
+    "data": [
+      {
+        "text": "alfamart",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d1b77097-4e03-449f-865a-fae45258d954",
+    "data": [
+      {
+        "text": "posk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3338959b-38fd-4a5d-bb85-bc0e360e6715",
+    "data": [
+      {
+        "text": "jne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bfdab99e-6865-43ca-8732-326cb46785fc",
+    "data": [
+      {
+        "text": "indomaret",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b5c6369d-d4b6-4791-b6ad-851c8b0294f4",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e57b187a-ee4b-463e-96f8-c777413a7a18",
+    "data": [
+      {
+        "text": "ceria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9af9c4fa-a6b2-4662-82e7-014e530a2881",
+    "data": [
+      {
+        "text": "geraii",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

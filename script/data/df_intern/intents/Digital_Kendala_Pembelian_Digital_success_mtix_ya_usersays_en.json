@@ -1,0 +1,123 @@
+[
+  {
+    "id": "a2c3f361-2944-4741-a829-a1c0c1ce6079",
+    "data": [
+      {
+        "text": "ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9d1568f8-f57c-4f2f-97b8-92ccc2de1a9d",
+    "data": [
+      {
+        "text": "iya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6ca30f66-b03a-4107-8a5d-e3bcb142079f",
+    "data": [
+      {
+        "text": "ya, masih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4477178f-c281-4539-846d-4cf8da5d121c",
+    "data": [
+      {
+        "text": "iyaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "665193c4-97f2-4680-b1a7-d0aeb8a6147c",
+    "data": [
+      {
+        "text": "y",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f822b797-1a63-4164-bc34-6a8f76978338",
+    "data": [
+      {
+        "text": "masih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6ddaf155-46c6-4633-97b3-59db1de7dd19",
+    "data": [
+      {
+        "text": "iyaaaaaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7449fee9-30b9-4b1e-8720-85c2778788f2",
+    "data": [
+      {
+        "text": "iya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "03fe4f3d-189d-4f06-be30-8e9f478b289f",
+    "data": [
+      {
+        "text": "msh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4fb2f9b5-cbd5-4e01-9a0d-15978a61d9c3",
+    "data": [
+      {
+        "text": "iy",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

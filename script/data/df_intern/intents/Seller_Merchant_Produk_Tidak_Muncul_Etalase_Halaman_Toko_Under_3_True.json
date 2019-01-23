@@ -1,0 +1,43 @@
+{
+  "id": "c4f482b4-dadd-4824-9f72-307a4109bdc2",
+  "parentId": "fbf6c3a1-5174-4e95-92ba-a2aee771d66c",
+  "rootParentId": "6f5a3f14-d1e3-439d-92d9-cdd77e2da07f",
+  "name": "Seller_Merchant_Produk_Tidak_Muncul_Etalase_Halaman_Toko_Under_3_True",
+  "auto": true,
+  "contexts": [
+    "Seller_Merchant_Produk_Tidak_Muncul_Etalase_Halaman_Toko_Under_3-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Seller_Merchant_Produk_Tidak_Muncul_Etalase_Halaman_Toko_Under_3_True-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped sudah bantu lakukan reload produk di toko kamu. Mohon menunggu maksimal 30 menit agar produk muncul kembali, ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533728064,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "do_reload_product_if_under_limit_true"
+    }
+  ]
+}

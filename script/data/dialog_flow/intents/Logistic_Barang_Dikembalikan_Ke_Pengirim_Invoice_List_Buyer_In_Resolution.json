@@ -1,0 +1,43 @@
+{
+  "id": "0b7d8fd5-690b-4e10-aade-5abd3a3a8e74",
+  "parentId": "d2c37f3a-76c9-42b6-8fd7-e184557f83eb",
+  "rootParentId": "36de46a2-13d2-4f09-9ff4-8abcbcb54ba3",
+  "name": "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Buyer_In_Resolution",
+  "auto": true,
+  "contexts": [
+    "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Buyer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Buyer_In_Resolution-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Transaksi kamu sedang ada di Pusat Resolusi. Toped sarankan untuk diskusikan dulu dengan Penjual untuk kesepakatannya ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533889379,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_pesanan_dikomplain"
+    }
+  ]
+}

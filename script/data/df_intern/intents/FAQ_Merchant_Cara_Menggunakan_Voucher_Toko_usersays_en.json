@@ -1,0 +1,374 @@
+[
+  {
+    "id": "2b384843-fdfb-4e61-83af-fb115b173c0b",
+    "data": [
+      {
+        "text": "cara memakai voucer toko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "12816844-c37f-46e4-9958-71369c7effd9",
+    "data": [
+      {
+        "text": "cara pake vocher toko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "de3e43e2-35ae-4176-9f65-0f9dbdd02f72",
+    "data": [
+      {
+        "text": "gimana biar saya bisa belanja pake vocer dari toko ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0a0f0fd1-4d35-46d8-a50d-e1bd20b4a328",
+    "data": [
+      {
+        "text": "saya mau belanj pake voucer toko itu gimana caranya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ea68ebae-cc47-4860-9e65-9af200154230",
+    "data": [
+      {
+        "text": "cara pake vocher toko gimana ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5d5dc90f-babd-45bd-9736-cca79646cee1",
+    "data": [
+      {
+        "text": "ajarin pake vocher toko dong min",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5e3326f0-eac4-40a9-92dc-3c8f1642ae5e",
+    "data": [
+      {
+        "text": "cara belanja pake voucher toko bagaimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1f4cfe7d-43ee-4b59-af9a-f6f9c125a5f0",
+    "data": [
+      {
+        "text": "saya mau belanja pakai vocher toko caranya bagaimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "49dfa10d-0246-4d51-ba74-dde1fe99e129",
+    "data": [
+      {
+        "text": "cara menggunakan voucer toko bagaimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "91d76f1b-fba2-415a-9d20-b79e2dab6b9e",
+    "data": [
+      {
+        "text": "ajarin cara menggunakan voucer toko dong ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "de5b7397-ad44-45ae-9193-4cf9b55ab5eb",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gimana sih cara pake kode voucer toko yang saya miliki?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e1a02f6f-9053-49b0-a2ee-62ec9a3b649f",
+    "data": [
+      {
+        "text": "tolong jelaskan cara menggunakan kode voucer toko ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "257f6749-d770-4bcc-b74f-0251da09b36c",
+    "data": [
+      {
+        "text": "bantu saya mengetahui cara menggunakan kode voucer toko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3950bcd4-a59f-4f3c-977c-ee2f0c0ccdde",
+    "data": [
+      {
+        "text": "saaya mau pake kode voucher dari toko gimana caranya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6506d43b-95db-4768-800c-ac83b67040bc",
+    "data": [
+      {
+        "text": "ini dong gimana caranya mau pake kode voucher toko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "75da021f-81e3-4b45-9ead-529ea70ce4b3",
+    "data": [
+      {
+        "text": "ajari cara pake kode voucher toko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c9b007e5-6f5d-426e-b577-a848ebd5ea28",
+    "data": [
+      {
+        "text": "saya mau belanja pake voucher toko caranya gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6964ef79-5f1e-4a2b-9877-39b1128b9051",
+    "data": [
+      {
+        "text": "saya mau pakai voucher toko gimana caranya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fca1b5c8-d065-4325-a67a-56ad445934c4",
+    "data": [
+      {
+        "text": "bagaimana cara menggunakan voucher toko?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1597c0e8-4588-4f51-9f40-160db7c1896b",
+    "data": [
+      {
+        "text": "bagaimana cara dapat cashback dari voucher toko?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5f96cfbc-664f-4095-aadf-cc60a000e214",
+    "data": [
+      {
+        "text": "bagaimana cara dapat gratis ongkir dari voucher toko?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "14d7f9e8-240c-4c64-9219-2b286ceb43f3",
+    "data": [
+      {
+        "text": "saya mau pakai voucher toko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b3bc6109-5e96-4265-8ad1-51173cfeca37",
+    "data": [
+      {
+        "text": "bagaimana cara belanja dengan menggunakan  voucher toko?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "63de7622-aacf-4a97-ac1b-58ed88fc86db",
+    "data": [
+      {
+        "text": "voucher toko tuh cara pake nya gimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5435252d-f50d-4156-a1f9-fb922f6fe36c",
+    "data": [
+      {
+        "text": "bagaimana cara menggunakan promo voucher toko dari ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "11fd7712-f88e-48b9-b919-194b6437f878",
+    "data": [
+      {
+        "text": "saya mau belanja di toko xxx pake voucher cashback dari ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gimana caranya ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7d6de5fd-3612-4e13-bd27-2932db67666a",
+    "data": [
+      {
+        "text": "saya mau belanja pake voucher gratis ongkir di toko ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gimana caranya ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "751def5b-b234-40b1-b07b-c98a44ec123a",
+    "data": [
+      {
+        "text": "cara pakai voucher toko dari ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

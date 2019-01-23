@@ -1,0 +1,44 @@
+{
+  "id": "5405487d-b1bc-4839-8768-887b7972bfdb",
+  "parentId": "d3aa9fb3-4472-47eb-b0a0-28232062077a",
+  "rootParentId": "35e16175-3fd0-4749-bf64-4e1b94b883f1",
+  "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer_Canceled_Verified_Belum",
+  "auto": true,
+  "contexts": [
+    "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer_Canceled_Verified-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer_Canceled_Verified_Belum-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek saat ini status transaksi kamu sudah batal :("
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk pengembalian dana, kamu dapat lakukan pengecekan pada OVO Cash/OVO Points/Limit Kartu Kredit/Limit Kredivo, bergantung pada metode pembayaran yang kamu gunakan. Selain itu, maka akan dikembalikan ke Saldo Tokopedia. Tak perlu khawatir, ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532589004,
+  "fallbackIntent": false,
+  "events": []
+}

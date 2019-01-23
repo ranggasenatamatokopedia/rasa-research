@@ -1,0 +1,75 @@
+{
+  "id": "f46ed4df-e8a8-46c8-ba28-ed8c46c9fdf2",
+  "parentId": "eb9007bc-712e-4341-b3f0-57b918ea2d60",
+  "rootParentId": "96f23e85-fae0-4896-8203-08e968aef1b9",
+  "name": "Payment_sudah_bayar_tp_batal_order_status_scrooge_success_below_6hr_resync_fail",
+  "auto": true,
+  "contexts": [
+    "Payment_sudah_bayar_tp_batal_order_status_scrooge_success_below_6hr_status_check-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Payment_sudah_bayar_tp_batal_order_status_scrooge_success_below_6hr_resync_fail-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "14736c76-ee32-48f3-b2b7-cbf115065cd3",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1246",
+          "isList": false
+        },
+        {
+          "id": "085368a3-2a30-44d9-92fc-99916c8d68e9",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Payment_sudah_bayar_tp_batal"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kak, Toped bantu buatkan tiketnya ya. Kakak nanti akan dihubungi lebih lanjut lewat Pesan Bantuan."
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 0,
+            "data": {
+              "show_rating": false
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532916276,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_pending"
+    },
+    {
+      "name": "invoice_cancel"
+    },
+    {
+      "name": "invoice_waiting_third_party"
+    }
+  ]
+}

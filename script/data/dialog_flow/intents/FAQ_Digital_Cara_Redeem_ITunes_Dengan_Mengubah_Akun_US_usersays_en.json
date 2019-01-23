@@ -1,0 +1,276 @@
+[
+  {
+    "id": "f342b51a-909e-431a-a33e-cc313c91dc05",
+    "data": [
+      {
+        "text": "saya tidak punya ",
+        "userDefined": false
+      },
+      {
+        "text": "cc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tp saya mau ganti billing address jadi billing address ",
+        "userDefined": false
+      },
+      {
+        "text": "US",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", bagaimana caranya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4e00b564-cc72-4f34-b413-e4c55e3cfd28",
+    "data": [
+      {
+        "text": "saya mau mengganti akun ke region ",
+        "userDefined": false
+      },
+      {
+        "text": "US",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dari region ",
+        "userDefined": false
+      },
+      {
+        "text": "indonesia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " karna saya mau redeem itunes!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9e8bbe10-48f0-43f2-b794-575fd85a3f11",
+    "data": [
+      {
+        "text": "sudah tau caranya tp ubah akun ",
+        "userDefined": false
+      },
+      {
+        "text": "us",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nya bingung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d6e36020-b23d-4c01-bbc3-c60dfb23f618",
+    "data": [
+      {
+        "text": "cara ubahnya akun ",
+        "userDefined": false
+      },
+      {
+        "text": "us",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " masih belum saya pahami",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9122b51c-3b0a-4a90-9c1a-a9b0befbcfd3",
+    "data": [
+      {
+        "text": "saya punya kendala saat me-redeem voucher itunes gift card. akun apple saya region ",
+        "userDefined": false
+      },
+      {
+        "text": "indonesia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya kurang paham bagaimana cara yang benar untuk mengganti ke akun ",
+        "userDefined": false
+      },
+      {
+        "text": "us",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " region",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fd6ef9ee-9c30-40a1-b294-bb38ca7f9a4f",
+    "data": [
+      {
+        "text": "saya mau redeem tp cara ganti akun ke ",
+        "userDefined": false
+      },
+      {
+        "text": "US",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gimana??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d4a00b68-d2cb-4b3b-9164-c67d813095b7",
+    "data": [
+      {
+        "text": "kenapa vocer itunes yg saya beli tdk bs di ",
+        "userDefined": false
+      },
+      {
+        "text": "redeem di indonesia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " malah di region ",
+        "userDefined": false
+      },
+      {
+        "text": "U.S",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? apakah harus diganti? bagaimana caranyaa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4ac85768-e30f-4c59-afdf-ece040213e69",
+    "data": [
+      {
+        "text": "saat diubah ",
+        "userDefined": false
+      },
+      {
+        "text": "negara ke US",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tetap kembali ke ",
+        "userDefined": false
+      },
+      {
+        "text": "indonesia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", proses dilakukan di itunes desktop bukan iphone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e0e43d12-d8a7-4646-9e76-50f81a1f6722",
+    "data": [
+      {
+        "text": "saya tahu saya beli itunes utk region ",
+        "userDefined": false
+      },
+      {
+        "text": "U.S",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". bagaimana cara mengganti dari region ",
+        "userDefined": false
+      },
+      {
+        "text": "indo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ke region ",
+        "userDefined": false
+      },
+      {
+        "text": "U.S",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a2c84cc8-9f7c-4fdf-a7cb-b24270d68c56",
+    "data": [
+      {
+        "text": "bagaimana cara ubah ke region akun ",
+        "userDefined": false
+      },
+      {
+        "text": "US",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a7f29f7e-9811-4957-86b0-9dd78d6b9c94",
+    "data": [
+      {
+        "text": "udh d ubah ke US, tetap tdk bisa. tetap kembali ke region indonesia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

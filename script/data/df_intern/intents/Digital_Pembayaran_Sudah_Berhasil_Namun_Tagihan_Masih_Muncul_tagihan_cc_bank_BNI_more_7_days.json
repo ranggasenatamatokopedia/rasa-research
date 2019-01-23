@@ -1,0 +1,66 @@
+{
+  "id": "dd0b5f8e-60ec-40e4-a251-3f1de76f8fdf",
+  "parentId": "9985c359-bd56-4e20-b00a-13f5b35a120e",
+  "rootParentId": "440cef8c-a263-47ad-b658-e035da03a8e0",
+  "name": "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_tagihan_cc_bank_BNI_more_7_days",
+  "auto": false,
+  "contexts": [
+    "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_tagihan_cc_bank_BNI_button-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_tagihan_cc_bank_BNI_more_7_days-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b850f7d2-cc0a-4aca-8bbf-c39524046432",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1233"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu sebentar ya. Toped akan bantu buatkan tiket untuk dicek lebih lanjut dalam 1x24 jam dan informasi selanjutnya akan dikirim lewat layanan pengguna."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Senang bisa membantu kamu :)"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "data": {
+              "show_rating": false
+            },
+            "type": 0
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534232920,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "more_than_7_days"
+    }
+  ]
+}

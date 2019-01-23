@@ -1,0 +1,37 @@
+{
+  "id": "56ca1fae-3c89-44b3-a95f-0395570cbc98",
+  "parentId": "c25a0c46-473b-4c0c-9c1d-0eb4813f0dee",
+  "rootParentId": "c25a0c46-473b-4c0c-9c1d-0eb4813f0dee",
+  "name": "FAQ_Logistic_Bagaimana_Mengaktifkan_Online_Booking_JNT",
+  "auto": false,
+  "contexts": [
+    "FAQ_Logistic_Bagaimana_Mengaktifkan_Online_Booking-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut Toped beri tahu cara aktifkan online booking J\u0026T ya, kamu bisa akses akun Tokopedia di laptop/komputer dan ikuti langkah berikut:\n\n1. Klik \"Pengaturan Toko\"\n2. Klik \"Pengiriman\" dan centang kurir J\u0026T\n3. Klik kolom kurir J\u0026T (Sistem AWB (resi) Otomatis dan Non Tunai)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528171886,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "jnt"
+    }
+  ]
+}

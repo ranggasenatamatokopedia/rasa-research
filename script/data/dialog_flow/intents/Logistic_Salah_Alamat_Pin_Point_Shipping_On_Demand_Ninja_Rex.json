@@ -1,0 +1,57 @@
+{
+  "id": "9e550c44-3a9c-470e-b18a-8e1de3850fab",
+  "parentId": "a14b0f47-46e6-4e33-9060-bb63d1de0986",
+  "rootParentId": "b5d703e5-b4ee-4716-a78d-6a74da4e1538",
+  "name": "Logistic_Salah_Alamat_Pin_Point_Shipping_On_Demand_Ninja_Rex",
+  "auto": true,
+  "contexts": [
+    "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Seller_Shipping_On_Demand-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Salah_Alamat_Pin_Point_Shipping_On_Demand_Ninja_Rex-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sayangnya, alamat/pin point tidak dapat diubah ketika invoice telah tercetak. Untuk kelanjutan transaksinya, apakah ingin dilakukan perubahan kurir ke kurir Reguler atau dibatalkan?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Ubah Kurir",
+              "Batal Transaksi"
+            ],
+            "type": 1
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536504859,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "courier_ninja"
+    },
+    {
+      "name": "courier_rex"
+    }
+  ]
+}

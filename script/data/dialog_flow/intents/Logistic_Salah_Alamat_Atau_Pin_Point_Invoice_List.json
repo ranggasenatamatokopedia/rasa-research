@@ -1,0 +1,43 @@
+{
+  "id": "b3e704d4-e843-43b6-b0b6-0473398213ce",
+  "parentId": "b5d703e5-b4ee-4716-a78d-6a74da4e1538",
+  "rootParentId": "b5d703e5-b4ee-4716-a78d-6a74da4e1538",
+  "name": "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List",
+  "auto": true,
+  "contexts": [
+    "Logistic_Salah_Alamat_Atau_Pin_Point-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckUserRole",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped akan bantu cek, boleh tunggu sebentar ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535970058,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "select_invoice"
+    }
+  ]
+}

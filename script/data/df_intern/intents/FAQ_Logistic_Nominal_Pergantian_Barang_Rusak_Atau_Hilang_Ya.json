@@ -1,0 +1,33 @@
+{
+  "id": "f36375a5-16c2-40e4-8a57-09a96ee2d185",
+  "parentId": "cf95bcc3-a9d4-4fe5-82a9-e6e8c115bd3b",
+  "rootParentId": "cf95bcc3-a9d4-4fe5-82a9-e6e8c115bd3b",
+  "name": "FAQ_Logistic_Nominal_Pergantian_Barang_Rusak_Atau_Hilang_Ya",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Nominal_Pergantian_Barang_Rusak_Atau_Hilang-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FAQ_Logistic_Nominal_Pergantian_Barang_Rusak_Atau_Hilang.FAQ_Logistic_Nominal_Pergantian_Barang_Rusak_Atau_Hilang-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Ganti rugi yang akan kamu dapatkan adalah senilai harga barang ditambah ongkos kirim maksimal Rp 50 juta per item ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529481365,
+  "fallbackIntent": false,
+  "events": []
+}

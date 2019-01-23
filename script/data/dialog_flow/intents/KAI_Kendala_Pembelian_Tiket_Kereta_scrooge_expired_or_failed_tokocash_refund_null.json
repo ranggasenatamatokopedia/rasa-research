@@ -1,0 +1,62 @@
+{
+  "id": "6bce66b3-1afa-42d0-90ce-e43cc61f539d",
+  "parentId": "35c18003-4759-4178-aea3-4ddb9acd0254",
+  "rootParentId": "b3e075f6-aae4-44df-ad4e-bea75b498908",
+  "name": "KAI_Kendala_Pembelian_Tiket_Kereta_scrooge_expired_or_failed_tokocash_refund_null",
+  "auto": false,
+  "contexts": [
+    "KAI_Kendala_Pembelian_Tiket_Kereta_scrooge_expired_or_failed_tokocash-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "KAI_Kendala_Pembelian_Tiket_Kereta_scrooge_expired_or_failed_tokocash_refund_null-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "46db2844-0296-4692-b460-1c69d059fb09",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1225",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped akan bantu buatkan tiket kendala untuk dicek lebih lanjut dan informasi selanjutnya akan dikirim lewat layanan pengguna."
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "data": {
+              "show_rating": false
+            },
+            "type": 0
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539577667,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "refund_list_is_null"
+    }
+  ]
+}

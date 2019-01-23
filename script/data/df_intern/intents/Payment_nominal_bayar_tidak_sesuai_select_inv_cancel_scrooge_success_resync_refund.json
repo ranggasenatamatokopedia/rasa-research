@@ -1,0 +1,43 @@
+{
+  "id": "d6fe2556-c6b4-4466-b607-db406177dc4a",
+  "parentId": "54edbf25-c3af-4b20-bd5c-941f1263ddbc",
+  "rootParentId": "feb54c5b-52cd-4135-8fbe-6ef49ccb8866",
+  "name": "Payment_nominal_bayar_tidak_sesuai_select_inv_cancel_scrooge_success_resync_refund",
+  "auto": true,
+  "contexts": [
+    "Payment_nominal_bayar_tidak_sesuai_select_inv_cancel_scrooge_success-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetRefundNotesFromRefundList",
+      "affectedContexts": [
+        {
+          "name": "Payment_nominal_bayar_tidak_sesuai_select_inv_cancel_scrooge_success_resync_refund-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut informasi pengembalian dana kakak ya:"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531658120,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "resync_payment"
+    }
+  ]
+}

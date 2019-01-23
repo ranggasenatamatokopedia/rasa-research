@@ -1,0 +1,43 @@
+{
+  "id": "f62dd7ea-8806-4403-ace4-8697b32182a9",
+  "parentId": "05a9f6fc-4e13-48fb-9d46-d77c3c8d7ee4",
+  "rootParentId": "8d5186a7-0c3f-4aa7-a870-f19a17cc5ac2",
+  "name": "Fintech_Penjualan_berhasil_dana_belum_masuk_emas_order_detail",
+  "auto": true,
+  "contexts": [
+    "Fintech_Penjualan_berhasil_dana_belum_masuk_emas-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetInfoEgoldOrder",
+      "affectedContexts": [
+        {
+          "name": "Fintech_Penjualan_berhasil_dana_belum_masuk_emas_order_detail-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Baik, Toped bantu cek sebentar ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535960435,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "select_invoice"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "4f733348-5682-4d51-aec4-35fb84696e58",
+  "parentId": "ff0d05fa-f875-44e9-a177-a6b363d8180d",
+  "rootParentId": "3b15cc03-402c-40c1-9882-3fff37020fad",
+  "name": "Payment_pengembalian_limit_tdk_sesuai_select_inv_is_cc_one_invoice",
+  "auto": true,
+  "contexts": [
+    "Payment_pengembalian_limit_tdk_sesuai_select_inv_is_cc-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckInvoiceStatusID",
+      "affectedContexts": [
+        {
+          "name": "Payment_pengembalian_limit_tdk_sesuai_select_inv_is_cc_one_invoice-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531722077,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_equals_one"
+    }
+  ]
+}

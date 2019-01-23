@@ -1,0 +1,14 @@
+[
+  {
+    "id": "64cd627d-6d27-40e1-b23e-1bf93cba5e55",
+    "data": [
+      {
+        "text": "reject_by_seller_partial",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

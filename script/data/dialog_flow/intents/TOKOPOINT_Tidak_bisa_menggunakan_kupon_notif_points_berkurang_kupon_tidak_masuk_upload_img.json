@@ -1,0 +1,43 @@
+{
+  "id": "cdbdf884-2bcd-4e67-95fc-82c0659762bb",
+  "parentId": "c3805125-ea1c-4e3c-b7ee-9d8296d6a832",
+  "rootParentId": "ac27f987-10da-4579-826b-fdb70eef3ed6",
+  "name": "TOKOPOINT_Tidak_bisa_menggunakan_kupon_notif_points_berkurang_kupon_tidak_masuk_upload_img",
+  "auto": false,
+  "contexts": [
+    "TOKOPOINT_Tidak_bisa_menggunakan_kupon_notif_points_berkurang_kupon_tidak_masuk_get_coupon-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Tidak_bisa_menggunakan_kupon_notif_points_berkurang_kupon_tidak_masuk_upload_img-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Apakah point kamu berkurang? Kalau iya, mohon lampirkan screenshot history points di akun kamu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523603337,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "add_text_coupon"
+    }
+  ]
+}

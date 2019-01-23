@@ -1,0 +1,31 @@
+{
+  "id": "847f8989-f8d5-4d15-a120-71044e2e38d8",
+  "name": "FAQ_PROMO_Apa_saja_syarat_dan_ketentuan_dari_promo_yang_berlangsung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Promo di Tokopedia ada banyak, kamu bisa cek di \u003ca  rel\u003d\"nofollow\" target\u003d\"_blank\"  href\u003d\"tokopedia://webview?url\u003dhttps://www.tokopedia.com/promo\"\u003esini\u003c/a\u003e, ya"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_promo_apa_saja_syarat_dan_ketentuan_dari_promo_yang_berlangsung"
+    }
+  ]
+}

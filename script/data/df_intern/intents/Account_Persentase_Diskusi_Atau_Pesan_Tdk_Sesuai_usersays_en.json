@@ -1,0 +1,268 @@
+[
+  {
+    "id": "9e89a6a6-96d6-47c7-8521-0efcfce3a778",
+    "data": [
+      {
+        "text": "presentasi diskusi atau pesan tdk sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7b03526d-9994-4428-803f-7c043362b48c",
+    "data": [
+      {
+        "text": "presentasi diskusi atau pesan tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "55eab8e4-1a78-4e38-8fd2-5cbb9fcbd03e",
+    "data": [
+      {
+        "text": "persentase talk atau chat tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "28aa52b3-f7ab-41f6-ac97-6be2c03ec31f",
+    "data": [
+      {
+        "text": "presentase diskusi atau pesan tdk sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c75dc046-8e69-41e3-963b-3f8412239482",
+    "data": [
+      {
+        "text": "persentase diskusi atau pesan tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "68e3043b-83d6-4c95-8a77-e0281557d7c2",
+    "data": [
+      {
+        "text": "Semua diskusi di setiap produk toko saya jumlahnya kenapa berkurang ya? Diskusi produk sebelumnya sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "1.100",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " lebih. ",
+        "userDefined": false
+      },
+      {
+        "text": "Sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hanya ",
+        "userDefined": false
+      },
+      {
+        "text": "300an",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4cdb789f-5aa0-4a5f-a0fa-de717ec4fa8c",
+    "data": [
+      {
+        "text": "Mengapa persentase diskusi toko saya tidak sesuai?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0893a2b9-9de6-4846-984e-1d8fd0663f16",
+    "data": [
+      {
+        "text": "Persentase diskusi atau pesan saya tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2fa1c083-9922-4063-a34b-2c618d1c9fef",
+    "data": [
+      {
+        "text": "Semua Diskusi Produk di setiap produk toko saya jumlahnya kenapa berkurang ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dab156e7-12f9-4bf0-bdf0-e837479df90b",
+    "data": [
+      {
+        "text": "persentasi pesan tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d0660cd0-1851-4564-a06e-2ec538ed67b6",
+    "data": [
+      {
+        "text": "Persentase diskusi/pesan saya tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a93b5766-79c5-4220-a0fb-2a14e87ca1bf",
+    "data": [
+      {
+        "text": "Persentase diskusi sebelumnya sudah ada, namun ",
+        "userDefined": false
+      },
+      {
+        "text": "tiba2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " produk menjadi kosong atau telah dihapus. itu kenapa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d4f007dd-679e-4aec-8568-166288f2a92b",
+    "data": [
+      {
+        "text": "persentase diskusi tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d86daea4-d855-46c3-8d03-206125f174f8",
+    "data": [
+      {
+        "text": "Sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "7 hari terakhir",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " presentase diskusi toko saya masih ",
+        "userDefined": false
+      },
+      {
+        "text": "60",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "%. Sy sudah cek seluruh diskusi dan sudah di balas semua.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6d0ad4ad-6c4b-4bc8-b37a-e6bedeef5472",
+    "data": [
+      {
+        "text": "Saya ingin menanyakan kenapa jumlah diskusi pada salah ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " produk saya ",
+        "userDefined": false
+      },
+      {
+        "text": "tiba2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hari ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hilang sebagian ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8a261f8f-b10c-4ed3-99d9-992fd77024cf",
+    "data": [
+      {
+        "text": "Toko saya tercatat hanya membalas chat ",
+        "userDefined": false
+      },
+      {
+        "text": "75",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " persen, mohon infonya chat mana yg saya tidak balas, sepengetahuan saya seluruh chat pasti saya balas. terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,62 @@
+{
+  "id": "96fcb4d8-aa67-4091-8fbf-60af4acb90dc",
+  "parentId": "78f273d0-f773-47d9-8d9d-761e396a7018",
+  "rootParentId": "b3e075f6-aae4-44df-ad4e-bea75b498908",
+  "name": "KAI_Kendala_Pembelian_Tiket_Kereta_refund_null",
+  "auto": false,
+  "contexts": [
+    "KAI_Kendala_Pembelian_Tiket_Kereta_refunded-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "KAI_Kendala_Pembelian_Tiket_Kereta_refund_null-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d0fe0b26-1a48-47dc-a838-b895b04f5816",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "11",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped akan bantu buatkan tiket kendala untuk dicek lebih lanjut dan informasi selanjutnya akan dikirim lewat layanan pengguna."
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "data": {
+              "show_rating": false
+            },
+            "type": 0
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539335231,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "refund_list_is_null"
+    }
+  ]
+}

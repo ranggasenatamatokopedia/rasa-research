@@ -1,0 +1,57 @@
+{
+  "id": "f6b20777-c4c9-4c5a-b7ce-82aa949eb809",
+  "parentId": "6d4a36c5-e345-4b4b-bca3-c40eaeed748f",
+  "rootParentId": "b375e190-8e6c-475d-ac8e-0e3e3ac5900d",
+  "name": "Logistic_Tidak_Bisa_Klik_Pick_Up_Invoice_List_On_Demand_Finished_Belum",
+  "auto": true,
+  "contexts": [
+    "Logistic_Tidak_Bisa_Klik_Pick_Up_Invoice_List_On_Demand_Finished-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Tidak_Bisa_Klik_Pick_Up_Invoice_List_On_Demand_Finished_Belum-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4cf5b9e2-93a0-4236-8d1c-a86b1be5ffc6",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1358"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu sebentar ya, Toped akan bantu buatkan tiket Layanan Pengguna untuk dicek lebih lanjut dan informasi selanjutnya akan dikirim lewat email :)"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "data": {
+              "show_rating": false
+            },
+            "type": 0
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538638667,
+  "fallbackIntent": false,
+  "events": []
+}

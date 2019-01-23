@@ -1,0 +1,46 @@
+{
+  "id": "743a254e-e2ec-4abb-896c-886ef34c9984",
+  "parentId": "73840e93-ca95-444a-a2dd-d1deaab1d5eb",
+  "rootParentId": "73840e93-ca95-444a-a2dd-d1deaab1d5eb",
+  "name": "FAQ_Logistic_Berapa_Ongkos_Kirim_Kurir_Pickup_Ninja_Xpress",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Berapa_Ongkos_Kirim_Kurir_Pickup-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4440bdd7-f047-4fa2-8f5a-6ef5da28783c",
+          "required": false,
+          "dataType": "@kurir_pick_up",
+          "name": "kurir_pick_up",
+          "value": "$kurir_pick_up",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Biaya pengiriman disesuaikan dengan jarak lokasi dan berat barang yang dikirimkan ya. Kamu bisa simulasikan biaya pengirimannya di website resmi Ninja Xpress berikut !TKPD_URL_NINJAXPRESS!."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528788625,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "ninja"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "0e65d2d4-a96a-4746-a71d-1a59065a88e1",
+  "name": "FAQ_Refund_Berapa_Lama_Pengembalian_Dana",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Refund_Berapa_Lama_Pengembalian_Dana-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Estimasi proses pengembalian dana (refund) bergantung pada metode pembayaran kamu ya. Berikut Toped infokan estimasinya:\n1. Transfer bank butuh waktu hingga 1x24 jam hari kerja\n2. Instant payment (non-transfer) butuh waktu hingga 3 hari kerja\n3. Kartu kredit butuh waktu hingga 14 hari kerja\n4. Debit online butuh waktu hingga 60 hari kerja atau sesuai dengan ketentuan bank terkait"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520582700,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_refund_berapa_lama_pengembalian_dana"
+    }
+  ]
+}

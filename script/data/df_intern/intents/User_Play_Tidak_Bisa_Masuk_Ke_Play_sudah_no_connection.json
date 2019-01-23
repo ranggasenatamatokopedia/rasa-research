@@ -1,0 +1,39 @@
+{
+  "id": "82b464c1-73b1-42f9-a804-06804410b6ad",
+  "parentId": "58bb905d-0c93-4501-a025-d9b11770f4d2",
+  "rootParentId": "e24c0d6b-ef5c-4d53-ac56-e76f47176faf",
+  "name": "User_Play_Tidak_Bisa_Masuk_Ke_Play_sudah_no_connection",
+  "auto": true,
+  "contexts": [
+    "User_Play_Tidak_Bisa_Masuk_Ke_Play_sudah-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "User_Play_Tidak_Bisa_Masuk_Ke_Play_sudah_no_connection-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Agar dapat mengikuti Play dengan lancar, pastikan koneksi internet kamu dalam keadaan stabil, ya"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539590214,
+  "fallbackIntent": false,
+  "events": []
+}

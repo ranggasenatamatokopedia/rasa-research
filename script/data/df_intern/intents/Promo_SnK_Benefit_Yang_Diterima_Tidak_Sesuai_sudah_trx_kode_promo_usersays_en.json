@@ -1,0 +1,69 @@
+[
+  {
+    "id": "d75e3a35-2d2b-453f-a60c-32ed9517adc7",
+    "data": [
+      {
+        "text": "pakai promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "67f9839a-a786-4aa6-a31f-89364b852a63",
+    "data": [
+      {
+        "text": "kode",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9d92449f-b35e-4d49-a5e0-794d97423b20",
+    "data": [
+      {
+        "text": "pakai kode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a4ca5e38-906d-44b0-825e-c7614720a402",
+    "data": [
+      {
+        "text": "kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b281c7b5-ad5a-4523-b40f-a4d9dffafc40",
+    "data": [
+      {
+        "text": "pakai kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b29b1026-40f6-414a-812f-39b26af4c8c9",
+    "data": [
+      {
+        "text": "menggunakan kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

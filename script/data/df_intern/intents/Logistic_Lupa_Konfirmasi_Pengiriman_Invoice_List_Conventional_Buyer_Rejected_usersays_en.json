@@ -1,0 +1,40 @@
+[
+  {
+    "id": "46b4b97a-d89c-4d03-a1df-143d48f9e15a",
+    "data": [
+      {
+        "text": "reject",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4b5a2283-a1e0-4fdb-a5ba-71a92377fa96",
+    "data": [
+      {
+        "text": "invoice_pesanan_ditolak_",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7807a0a4-4b22-4d31-b0e8-f5fa9b78d71e",
+    "data": [
+      {
+        "text": "rejected",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

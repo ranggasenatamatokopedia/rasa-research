@@ -1,0 +1,40 @@
+{
+  "id": "2c1b0f40-009f-427b-809c-e3218b312c66",
+  "parentId": "7f287c44-496d-4df8-b6b5-0c29a68454fc",
+  "rootParentId": "7f287c44-496d-4df8-b6b5-0c29a68454fc",
+  "name": "Merchant_Toko_Di_Moderasi_Close",
+  "auto": false,
+  "contexts": [
+    "Merchant_Toko_Di_Moderasi-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetReasonCloseShop",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Toko_Di_Moderasi_Close-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534236074,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "is_close"
+    },
+    {
+      "name": "is_closed"
+    }
+  ]
+}

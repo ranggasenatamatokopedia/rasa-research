@@ -1,0 +1,24 @@
+[
+  {
+    "id": "b18cea7d-f694-41ef-80df-15a842223423",
+    "data": [
+      {
+        "text": "case_status_already_withdraw",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "11099759-ca81-4ca9-bb3c-9e44a47951fb",
+    "data": [
+      {
+        "text": "case_status_unhold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

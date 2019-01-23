@@ -1,0 +1,55 @@
+{
+  "id": "e80cc040-b0e2-49a1-89a3-b0664768712c",
+  "parentId": "62328066-6ba6-453c-b337-f9f221db5f6f",
+  "rootParentId": "62328066-6ba6-453c-b337-f9f221db5f6f",
+  "name": "FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir_JNE",
+  "auto": false,
+  "contexts": [
+    "FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ConvertParametersToEventName",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir_JNE-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa ketik jenis layanan yang ingin kamu tanyakan ya, apakah YES, Reguler atau OKE?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 1,
+            "quick_replies": [
+              "YES",
+              "Reguler",
+              "OKE"
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528172106,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "jne"
+    }
+  ]
+}

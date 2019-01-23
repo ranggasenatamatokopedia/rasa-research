@@ -1,0 +1,53 @@
+{
+  "id": "804799d6-e162-415c-9f2d-c7e377e413ee",
+  "name": "Flash_Sale_Pengajuan_Belum_Dikonfirmasi_Atau_Ditolak",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckHistoryFlashSaleSubmission",
+      "affectedContexts": [
+        {
+          "name": "Flash_Sale_Pengajuan_Belum_Dikonfirmasi_Atau_Ditolak-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8f85c5b5-b107-4981-b107-67735a505d2b",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "url_product",
+          "value": "$url_product",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Kamu bisa ketik link produk disini ya, sesuaikan formatnya seperti contoh agar Toped bisa cek ya :) contoh : https://www.tokopedia.com/crosspens/cross-tech3-pink"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu ya, Toped cek dulu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "flash_sale_pengajuan_belum_dikonfirmasi_atau_ditolak"
+    }
+  ]
+}

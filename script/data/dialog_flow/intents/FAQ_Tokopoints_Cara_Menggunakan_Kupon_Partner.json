@@ -1,0 +1,33 @@
+{
+  "id": "9925d736-353b-4ce3-b30b-e9810df46f1b",
+  "name": "FAQ_Tokopoints_Cara_Menggunakan_Kupon_Partner",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Tokopoints_Cara_Menggunakan_Kupon_Partner-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Tolong infokan Toped ya, kamu ingin melakukan penukaran Kupon Partner Offline atau Kupon Partner Online?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

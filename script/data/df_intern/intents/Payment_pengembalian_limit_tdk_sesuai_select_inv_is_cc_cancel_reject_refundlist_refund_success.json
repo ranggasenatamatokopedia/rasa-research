@@ -1,0 +1,48 @@
+{
+  "id": "0b07fcaa-78bc-41c7-a166-7f6df49674c1",
+  "parentId": "de7f11d2-40d1-4b4e-b4c9-cd675566e608",
+  "rootParentId": "3b15cc03-402c-40c1-9882-3fff37020fad",
+  "name": "Payment_pengembalian_limit_tdk_sesuai_select_inv_is_cc_cancel_reject_refundlist_refund_success",
+  "auto": true,
+  "contexts": [
+    "Payment_pengembalian_limit_tdk_sesuai_select_inv_is_cc_cancel_reject_refundlist_not_null-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetRefundNotesFromRefundList",
+      "affectedContexts": [
+        {
+          "name": "Payment_pengembalian_limit_tdk_sesuai_select_inv_is_cc_cancel_reject_refundlist_refund_success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika Kakak menggunakan Kartu Kredit, akan dikembalikan ke limit maksimal 14 hari kerja ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut informasi pengembalian dana kakak ya:"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531726078,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "refund_status_success"
+    }
+  ]
+}

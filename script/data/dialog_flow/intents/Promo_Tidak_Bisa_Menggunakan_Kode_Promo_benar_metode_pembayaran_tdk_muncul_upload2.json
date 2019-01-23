@@ -1,0 +1,43 @@
+{
+  "id": "cc8ae242-4164-4f44-9a1c-d52a592d2364",
+  "parentId": "443d91b8-60fb-4e02-9b37-df5412317bc4",
+  "rootParentId": "52ec60f4-3e96-4394-855f-4b7f7c4c5110",
+  "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_metode_pembayaran_tdk_muncul_upload2",
+  "auto": false,
+  "contexts": [
+    "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_metode_pembayaran_tdk_muncul_upload1-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_metode_pembayaran_tdk_muncul_upload2-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon lampirkan juga screenshot halaman metode pembayarannya ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523836034,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

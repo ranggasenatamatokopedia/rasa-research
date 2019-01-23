@@ -1,0 +1,50 @@
+{
+  "id": "4979ba37-ccde-4cd5-bdeb-91402ef481c0",
+  "parentId": "31171c72-5651-47cb-828e-d0b3e9b8adee",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Transaksi_Berhasil_Tapi_Quiz_Undian_upload_info_pemenang_create_ticket",
+  "auto": false,
+  "contexts": [
+    "Promo_Transaksi_Berhasil_Tapi_Quiz_Undian_upload_info_pemenang-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "36b3d928-6c7b-4ddb-bd68-e0b413ed5998",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1082"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon menunggu sebentar ya, Kak :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped coba bantu buatkan tiketnya ya, Kak."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524206468,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

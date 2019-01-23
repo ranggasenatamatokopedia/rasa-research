@@ -1,0 +1,43 @@
+{
+  "id": "c00dc0ba-f424-4f7d-b91e-713a9564ef89",
+  "parentId": "bc8f4622-0f27-4009-a4cd-f030fe0388ae",
+  "rootParentId": "bc8f4622-0f27-4009-a4cd-f030fe0388ae",
+  "name": "FAQ_Payment_cara_bayar_cicilan",
+  "auto": true,
+  "contexts": [
+    "FAQ_Payment_cara_bayar-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Payment_cara_bayar_cicilan-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Ingin belanja dengan sistem cicilan? ikuti langkah ini ya:\n\n1. Masukkan produk ke Keranjang Belanja\n2. Pilih metode pembayaran Kartu Kredit/Cicilan\n3. Pada halaman ringkasan pembayaran, isi detail informasi kartu kredit kamu, seperti nomor kartu kredit, masa berlaku, dan nomor CVV\n4. Untuk memilih pembayaran cicilan, kamu perlu mengaktifkan tombol Cicilan Kartu Kredit pada bagian bawah informasi yang telah kamu isi dan memilih durasi cicilan yang diinginkan \n5. Setelah mengaktifkan Cicilan Kartu Kredit, Klik Bayar\n6. Sistem Tokopedia akan terhubung dengan sistem bank\n7. Masukkan Kode Otorisasi (3D Secure) yang dikirim oleh bank\n8. Klik OK\""
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535006440,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "installment"
+    }
+  ]
+}

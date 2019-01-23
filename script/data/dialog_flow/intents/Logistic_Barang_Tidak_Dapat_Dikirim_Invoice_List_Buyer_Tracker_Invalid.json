@@ -1,0 +1,43 @@
+{
+  "id": "108c70a4-e138-42d9-98d2-55810ae8e2a0",
+  "parentId": "c261c9c1-8f83-4b1b-be98-0d6039e660fc",
+  "rootParentId": "2857f78e-0f0e-4f9f-a32c-1bf155c0c208",
+  "name": "Logistic_Barang_Tidak_Dapat_Dikirim_Invoice_List_Buyer_Tracker_Invalid",
+  "auto": true,
+  "contexts": [
+    "Logistic_Barang_Tidak_Dapat_Dikirim_Invoice_List_Buyer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Tidak_Dapat_Dikirim_Invoice_List_Buyer_Tracker_Invalid-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa ajukan komplain dengan masuk ke halaman \"Status Pemesanan\" dan klik tombol \"Komplain\". Dengan begitu, dana kamu aman bersama Toped :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536567746,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_kode_resi_pengiriman_tidak_valid"
+    }
+  ]
+}

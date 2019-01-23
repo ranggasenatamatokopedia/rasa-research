@@ -1,0 +1,43 @@
+{
+  "id": "1ced64ee-33ad-444a-9575-55e7d8bdb0fa",
+  "parentId": "bc305cc1-af24-48a5-bf4b-046221bdc18a",
+  "rootParentId": "36de46a2-13d2-4f09-9ff4-8abcbcb54ba3",
+  "name": "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Seller_Waiting_For_Courier_Success",
+  "auto": true,
+  "contexts": [
+    "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Seller_Waiting_For_Courier-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Seller_Waiting_For_Courier_Success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped sudah bantu cek, tapi resi pengiriman kamu tidak terlacak. Tidak perlu khawatir, Toped akan bantu. Unggah bukti resi/bukti pengiriman kamu \u003ca href\u003d#is_success.url/#is_success.order_id/#is_success.shop_id?invoice\u003d#is_success.invoice_num rel\u003d\"nofollow\" target\u003d\"_blank\"\u003edisini\u003c/a\u003e"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538136227,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "is_success"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "78f273d0-f773-47d9-8d9d-761e396a7018",
+  "parentId": "0a63d0ba-acb1-42cc-9327-458279363787",
+  "rootParentId": "b3e075f6-aae4-44df-ad4e-bea75b498908",
+  "name": "KAI_Kendala_Pembelian_Tiket_Kereta_refunded",
+  "auto": false,
+  "contexts": [
+    "KAI_Kendala_Pembelian_Tiket_Kereta_select_inv-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckRefundListExist",
+      "affectedContexts": [
+        {
+          "name": "KAI_Kendala_Pembelian_Tiket_Kereta_refunded-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539335165,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_refunded"
+    }
+  ]
+}

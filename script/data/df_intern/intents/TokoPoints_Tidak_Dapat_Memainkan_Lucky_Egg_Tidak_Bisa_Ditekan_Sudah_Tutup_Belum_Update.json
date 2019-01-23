@@ -1,0 +1,53 @@
+{
+  "id": "324c485b-eae7-4c69-8988-a4dd2a725292",
+  "parentId": "6681489f-8cca-4885-900c-88c670357434",
+  "rootParentId": "e5ddb095-11e2-44d0-a686-c477add0deaf",
+  "name": "TokoPoints_Tidak_Dapat_Memainkan_Lucky_Egg_Tidak_Bisa_Ditekan_Sudah_Tutup_Belum_Update",
+  "auto": true,
+  "contexts": [
+    "TokoPoints_Tidak_Dapat_Memainkan_Lucky_Egg_Tidak_Bisa_Ditekan_Sudah_Tutup-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "TokoPoints_Tidak_Dapat_Memainkan_Lucky_Egg_Tidak_Bisa_Ditekan_Sudah_Tutup_Belum_Update-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c0268f80-7511-4c6c-8192-09ec5c6760fe",
+          "required": false,
+          "dataType": "@sys.language",
+          "name": "language",
+          "value": "$language",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped sarankan kamu untuk update aplikasi Tokopedia, lalu logout dan login kembali ke akun kamu. Selanjutnya, coba pecahkan Lucky Egg lagi ya :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau sudah update tapi masih berkendala, kamu bisa hubungi Toped kembali ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534391345,
+  "fallbackIntent": false,
+  "events": []
+}

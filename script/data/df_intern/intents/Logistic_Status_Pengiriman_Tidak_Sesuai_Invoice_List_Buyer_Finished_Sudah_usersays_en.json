@@ -1,0 +1,84 @@
+[
+  {
+    "id": "0d354922-d53d-485a-9d1c-cb80855209ac",
+    "data": [
+      {
+        "text": "sdh kok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b27e5cb7-ada7-4016-bb5a-8c09fb6fe488",
+    "data": [
+      {
+        "text": "sudah kok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e2021a4d-efa2-4a0c-bb57-6cab45ef5d06",
+    "data": [
+      {
+        "text": "sudah nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d5e75fdc-5518-41ff-93ac-6378329b802d",
+    "data": [
+      {
+        "text": "sdh nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1dd38284-0ebc-496c-989a-a4418cf5d1e9",
+    "data": [
+      {
+        "text": "Sudah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4d20e749-a0f4-4e82-9d46-837a66610b12",
+    "data": [
+      {
+        "text": "iya sudah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "901083c3-1b61-4a24-be23-26e3a44487c6",
+    "data": [
+      {
+        "text": "sdh ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

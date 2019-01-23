@@ -1,0 +1,43 @@
+{
+  "id": "d53a66d2-49e4-4f5f-bebf-01ee0507565a",
+  "parentId": "c0b649b7-f279-4ced-b948-85bc9276afd2",
+  "rootParentId": "c0b649b7-f279-4ced-b948-85bc9276afd2",
+  "name": "Flight_Kendala_Pengembalian_Dana_get_invoice",
+  "auto": false,
+  "contexts": [
+    "Flight_Kendala_Pengembalian_Dana-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetInvoiceStatusFlight",
+      "affectedContexts": [
+        {
+          "name": "Flight_Kendala_Pengembalian_Dana_get_invoice-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu sebentar ya, Toped cek dulu kendala kamu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537435198,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "select_invoice"
+    }
+  ]
+}

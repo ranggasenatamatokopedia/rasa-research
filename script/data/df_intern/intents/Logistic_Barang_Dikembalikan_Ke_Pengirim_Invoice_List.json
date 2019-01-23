@@ -1,0 +1,43 @@
+{
+  "id": "8e0435d4-3e08-4e85-b6d3-cee6a50da0d6",
+  "parentId": "36de46a2-13d2-4f09-9ff4-8abcbcb54ba3",
+  "rootParentId": "36de46a2-13d2-4f09-9ff4-8abcbcb54ba3",
+  "name": "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List",
+  "auto": true,
+  "contexts": [
+    "Logistic_Barang_Dikembalikan_Ke_Pengirim-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckUserRole",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped akan bantu cek, boleh tunggu sebentar ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533801206,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "select_invoice"
+    }
+  ]
+}

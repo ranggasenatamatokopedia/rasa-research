@@ -1,0 +1,456 @@
+[
+  {
+    "id": "d6e80548-0a7a-46ab-af46-a02f112ecf04",
+    "data": [
+      {
+        "text": "OVO Point",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak bisa digunakan untuk pembayaran pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d7995cb4-b872-4f16-85c7-4b2dbd2d0de0",
+    "data": [
+      {
+        "text": "OVO",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak bisa digunakan untuk pembayaran tiket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b66e7544-eea7-4731-9f6c-2318be389e79",
+    "data": [
+      {
+        "text": "Tidak bisa menggunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "OVO cash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b178ea73-ee1a-4a0c-9766-2fd6a045bcf6",
+    "data": [
+      {
+        "text": "Kenapa sisa ",
+        "userDefined": false
+      },
+      {
+        "text": "OVO point",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya tidak bisa digunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "192d5cd5-41c0-4d66-b12f-89e86c668f86",
+    "data": [
+      {
+        "text": "saya tidak bisa menggunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo point",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " utk pembayaran tiket kereta api",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dc65e2de-ca4a-4652-9d5e-90f4ef9fe3d6",
+    "data": [
+      {
+        "text": "OVO Point",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak bisa digunakan untuk pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6930c08a-d236-4f8d-8c47-a886477f009e",
+    "data": [
+      {
+        "text": "tidak ada pilihan pembayaran melalui ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e9956ee5-897c-43d1-a6bb-5fb46b7ebd94",
+    "data": [
+      {
+        "text": "Pembayaran tiket kereta tidak muncul metode pembayaran ",
+        "userDefined": false
+      },
+      {
+        "text": "OVO",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e1478473-97a7-4b2e-8843-a761f89088d1",
+    "data": [
+      {
+        "text": "mengapa tidak ada pilihan bayar sebagian dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "OVO",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b2eb32f4-3e9f-42e1-abf0-79de3e74fab5",
+    "data": [
+      {
+        "text": "kenapa saya tidak bisa bayar tagihan telepon dan pam dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5a05b147-9faa-4642-a9fd-a5365b780842",
+    "data": [
+      {
+        "text": "Tidak ada pilihan bayar dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "26733e06-4131-4c01-88c3-90ad194c73c3",
+    "data": [
+      {
+        "text": "OVO Cash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya tidak bisa di gunakan pada kolom payment untuk pembayaran TIket Kereta Api",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2ac2d1a4-e88c-4cc9-9ca4-e94eba58e6df",
+    "data": [
+      {
+        "text": "Ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tdk bs digunakan saat pembelian voucher listrik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e7364bab-6ade-4bb2-8bc5-ee06d5d68ec5",
+    "data": [
+      {
+        "text": "Kenapa beli tiket kereta ",
+        "userDefined": false
+      },
+      {
+        "text": "skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ga bisa bayar sebagian dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f7229f8b-6f6f-4427-85f2-3162b0118531",
+    "data": [
+      {
+        "text": "kenapa sisa ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak bisa digunakan untuk pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f2e42d0e-71fc-41c2-b098-83bd7e92ef85",
+    "data": [
+      {
+        "text": "Ovo point",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bisa gak digunakan untuk pembayaran tiket kereta api?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ab372788-e72c-49fa-93d7-a5445c087328",
+    "data": [
+      {
+        "text": "Bayar tiket pesawat tidak bisa dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kenapa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8900a20b-b31e-4e15-b8a8-7a111d7421aa",
+    "data": [
+      {
+        "text": "Saya mau beli tiket tapi tidak bisa pake ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "451cb7ad-7856-4559-8c8c-137fb5d9e60f",
+    "data": [
+      {
+        "text": "Saya tidak bisa menggunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "246315f6-876f-4e57-8786-609cdb4aa5bf",
+    "data": [
+      {
+        "text": "saya tidak bisa menggunaka ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " untuk pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2be69bdb-5477-445c-8373-4a7fe998f24c",
+    "data": [
+      {
+        "text": "tidak dapat melakukan pembayaran via ",
+        "userDefined": false
+      },
+      {
+        "text": "OVO",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7fc5a33b-7fe7-4368-a0f1-45522065f68a",
+    "data": [
+      {
+        "text": "Kenapa ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo cash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya tidak muncul pada saat mau melakukan pembayaran transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8f7ba424-7af6-4354-94ba-400123cf51c2",
+    "data": [
+      {
+        "text": "saat akan melakukan transaksi tidak ada pilihan metode pembayaran menggunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "OVO",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d56646b9-2abc-44ef-b5b7-844cb6598692",
+    "data": [
+      {
+        "text": "Bayar tiket kereta nggak Muncul ",
+        "userDefined": false
+      },
+      {
+        "text": "OVO",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a0e95776-e62b-438c-a818-b58f5bddc007",
+    "data": [
+      {
+        "text": "ovo point",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tidak bisa di guanakan untuk pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

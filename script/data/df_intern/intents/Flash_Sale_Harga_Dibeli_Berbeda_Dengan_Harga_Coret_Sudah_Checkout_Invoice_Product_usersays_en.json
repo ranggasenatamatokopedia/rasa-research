@@ -1,0 +1,26 @@
+[
+  {
+    "id": "311ef8a3-7536-4e8a-bb14-7113158c7612",
+    "data": [
+      {
+        "text": "num",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1325c8c1-ba55-4299-91a6-8c7619f46f60",
+    "data": [
+      {
+        "text": "select_product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

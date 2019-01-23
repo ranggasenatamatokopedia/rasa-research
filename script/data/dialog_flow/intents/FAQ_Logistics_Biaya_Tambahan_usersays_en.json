@@ -1,0 +1,285 @@
+[
+  {
+    "id": "74e9b42a-a2dc-455b-a0a6-25e966af50a3",
+    "data": [
+      {
+        "text": "Saya kena biaya tambahan mulu kalo pake ",
+        "userDefined": false
+      },
+      {
+        "text": "POS",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tapi kalo mau aktifin biaya tambahan di kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "POS",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ga bisa. Kenapa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ae5c875e-5ec7-485c-969c-31e53e0a752e",
+    "data": [
+      {
+        "text": "Saya coba aktifin biaya tambahan di ",
+        "userDefined": false
+      },
+      {
+        "text": "J\u0026T",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ga bisa. Mohon dibantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0943f091-9a49-4e52-9aeb-98986a84029b",
+    "data": [
+      {
+        "text": "Ngga bisa ditambahin ya biaya tambahan di ",
+        "userDefined": false
+      },
+      {
+        "text": "POS",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f46dcd90-4c23-4708-8ef6-b9f65f1c593e",
+    "data": [
+      {
+        "text": "Biaya tambahan ga ada di kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "Wahana",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c0730b18-21db-4465-9bf7-b1728a425ed4",
+    "data": [
+      {
+        "text": "Kok di kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "SiCepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ga ada biaya tambahan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4de78f34-b8bd-4d47-bb30-26d1e5d15dce",
+    "data": [
+      {
+        "text": "Kenapa kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "J\u0026T",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ga ada biaya tambahan ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fc0636b3-3613-40bf-86f4-72ad13ad2b5c",
+    "data": [
+      {
+        "text": "Saya mau ada biaya tambahan selain ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan ",
+        "userDefined": false
+      },
+      {
+        "text": "TIKI",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kok ga bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a33904cf-f14e-412f-8d37-bbad2032f6a0",
+    "data": [
+      {
+        "text": "Tolong dong adain biaya tambahan di ",
+        "userDefined": false
+      },
+      {
+        "text": "POS",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya rugi mulu.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d952f377-38bc-4e60-84bd-2ec7c773c3e5",
+    "data": [
+      {
+        "text": "Kenapa biaya tambahan ngga ada di ",
+        "userDefined": false
+      },
+      {
+        "text": "POS",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? padahal saya kena biaya tambahan mulu ",
+        "userDefined": false
+      },
+      {
+        "text": "Rp",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". ",
+        "userDefined": false
+      },
+      {
+        "text": "500",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c63e75e1-de3b-4844-94f6-b8f05fdd3114",
+    "data": [
+      {
+        "text": "Biaya tambahan emang cuma bisa di ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan ",
+        "userDefined": false
+      },
+      {
+        "text": "TIKI",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " aja ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "93215975-03b3-41c6-91bb-1a4249b48ab5",
+    "data": [
+      {
+        "text": "apakah dibebankan ke pembeli?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8e7bb0d6-709d-4e5a-af7e-e24600f0fc6f",
+    "data": [
+      {
+        "text": "saya mau tanya, ini mau checkout order an, koq biaya kirim jne bisa rb ya ? padahal barangnya di bawah 1 kg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f0809136-db0a-444a-814c-9479c161a2e1",
+    "data": [
+      {
+        "text": "mohon infonya kenapa by administrasi ditanggung sy bukan customer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

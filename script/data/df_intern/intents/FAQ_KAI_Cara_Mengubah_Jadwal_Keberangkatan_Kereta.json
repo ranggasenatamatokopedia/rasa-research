@@ -1,0 +1,34 @@
+{
+  "id": "f15a3080-ec05-4576-8df1-4cf92adf6cd1",
+  "name": "FAQ_KAI_Cara_Mengubah_Jadwal_Keberangkatan_Kereta",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_KAI_Cara_Mengubah_Jadwal_Keberangkatan_Kereta-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped hanya berperan sebagai perantara dalam proses pemesanan tiket kereta kamu. Jadi, untuk mengubah jadwal keberangkatan atau pembatalan pemesanan Tiket KAI, kamu dapat hubungi pihak stasiun kereta secara langsung ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

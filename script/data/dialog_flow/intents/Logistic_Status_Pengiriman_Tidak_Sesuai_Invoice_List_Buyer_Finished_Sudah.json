@@ -1,0 +1,44 @@
+{
+  "id": "71b6d92f-d855-4bc8-a103-081fb31b3cc6",
+  "parentId": "e52de835-2c79-440b-9d43-7f8b9672c312",
+  "rootParentId": "d9d2ac31-d864-4f6e-836c-94fff4d54ef6",
+  "name": "Logistic_Status_Pengiriman_Tidak_Sesuai_Invoice_List_Buyer_Finished_Sudah",
+  "auto": true,
+  "contexts": [
+    "Logistic_Status_Pengiriman_Tidak_Sesuai_Invoice_List_Buyer_Finished-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Status_Pengiriman_Tidak_Sesuai_Invoice_List_Buyer_Finished_Sudah-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau sudah, Toped akan bantu teruskan ke penjual ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Terima kasih sudah bertransaksi di Tokopedia :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531136815,
+  "fallbackIntent": false,
+  "events": []
+}

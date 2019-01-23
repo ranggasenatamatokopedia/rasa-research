@@ -1,0 +1,211 @@
+[
+  {
+    "id": "c70403ca-53bc-4c46-b01f-cc50dde2c7f7",
+    "data": [
+      {
+        "text": "credit card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0dd80101-e672-4546-9913-0ffcf0f6b719",
+    "data": [
+      {
+        "text": "tiga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "24fd3a60-d650-41b4-86ec-d485ed3214c1",
+    "data": [
+      {
+        "text": "yang nomor 3",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e58cfbea-5efd-4b52-ad32-3c1ec1c8988c",
+    "data": [
+      {
+        "text": "pengajuan asuransi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "62fc23b2-d7ed-4a2e-b05f-d899babd51d1",
+    "data": [
+      {
+        "text": "pengajuan_pinjaman_kartu_kredit_asuransi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "521769c0-37e1-4393-bf3e-94eb16a208b3",
+    "data": [
+      {
+        "text": "pinjaman asuransi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5c8b00b1-abfd-4459-af83-dbdc7ade97e2",
+    "data": [
+      {
+        "text": "ketiga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "45631be4-80c0-4866-ba0f-630e605e97f8",
+    "data": [
+      {
+        "text": "pinjaman kartu kredit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "885ac518-f20d-42e4-be6e-705db911255c",
+    "data": [
+      {
+        "text": "3",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2a7f4938-efe1-4d9f-9af8-b58a57abc98f",
+    "data": [
+      {
+        "text": "pengajuan kartu kredit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "27a26d9b-8b36-4f86-9d9a-f46466f70cd0",
+    "data": [
+      {
+        "text": "Pinjaman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f1cf9ad4-0140-4780-9248-de59fa75272d",
+    "data": [
+      {
+        "text": "nomor 3",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e2c2acf0-af7a-4737-9bdb-2f018e28355e",
+    "data": [
+      {
+        "text": "ke tiga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bc93165f-88d3-4489-a66e-c8db75ce3c02",
+    "data": [
+      {
+        "text": "kartu kredit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9ee6db14-d97c-410a-88b5-29a1f1fde163",
+    "data": [
+      {
+        "text": "asuransi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e20e799a-136a-4ec8-9645-eac70c1717a6",
+    "data": [
+      {
+        "text": "Pengajuan pinjaman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "776ad386-77bc-495a-a17b-03d875da6a0b",
+    "data": [
+      {
+        "text": "Pengajuan pinjaman/Kartu kredit/Asuransi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7b431d89-9885-4218-a655-cdbb167c09d3",
+    "data": [
+      {
+        "text": "cc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bee0ad3b-0543-4e85-8d7a-6012efabaf02",
+    "data": [
+      {
+        "text": "three",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

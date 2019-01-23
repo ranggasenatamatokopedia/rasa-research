@@ -1,0 +1,39 @@
+{
+  "id": "05dc1a65-57f9-4b9e-9941-f1de324afe34",
+  "parentId": "8f24f44a-076a-4ef2-8ece-4f8e1224ea7f",
+  "rootParentId": "8f24f44a-076a-4ef2-8ece-4f8e1224ea7f",
+  "name": "FAQ_TopAds_Cara_Promo_Menggunakan_TopAds_Toko",
+  "auto": true,
+  "contexts": [
+    "FAQ_TopAds_Cara_Promo_Menggunakan_TopAds-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_TopAds_Cara_Promo_Menggunakan_TopAds_Toko-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa ikuti langkah di bawah ini untuk tau promo toko:\n\n1. Klik \"Tambah Promo\"\n2. Pilih Toko dan tentukan biayanya\n3. Atur jadwal sesuai keinginanmu"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537339636,
+  "fallbackIntent": false,
+  "events": []
+}

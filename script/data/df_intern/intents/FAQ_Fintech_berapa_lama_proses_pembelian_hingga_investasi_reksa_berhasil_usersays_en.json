@@ -1,0 +1,164 @@
+[
+  {
+    "id": "0370c7a2-fb78-49d4-9188-648452f05072",
+    "data": [
+      {
+        "text": "Reksadana blm jadi NAB ",
+        "userDefined": false
+      },
+      {
+        "text": "setelah 2x24",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " jam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1a41b6ec-751c-4a65-9991-10ca55582ac2",
+    "data": [
+      {
+        "text": "saya udah beli reksa dana, berhasilnya berapa lama?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0d5dd391-2e71-480a-846c-abb4c5f83a73",
+    "data": [
+      {
+        "text": "pembelian reksa dana saya berapa lama berhasilnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9e15c58b-bb12-4a78-b146-7137855b29f1",
+    "data": [
+      {
+        "text": "saya udah beli reksa dana, kok gak ",
+        "userDefined": false
+      },
+      {
+        "text": "berhasil2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "47f89c70-7fa7-47c0-991c-b7f82b03fe27",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", berapa lama ya pembelian reksa dana saya bisa berhasil?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ebeb29df-ff51-43d9-b212-dcd62e5d09e2",
+    "data": [
+      {
+        "text": "berapa lama pembelian reksa dana berhasil ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "839d3fa1-b0f5-417a-a1e2-4c06c317a91f",
+    "data": [
+      {
+        "text": "berapa lama ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pembelian reksa dana saya berhasil?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b524465e-27b7-4546-ba9b-a8f2570fe4de",
+    "data": [
+      {
+        "text": "saya udah beli reksa dana, kok gak ada notif berhasilnya ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ed0bf7ad-94e9-414f-b79d-0fcbc493deb3",
+    "data": [
+      {
+        "text": "berapa lama transaksi reksa dana berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d5ce7c5b-d816-471e-acce-09a9f0c3ba09",
+    "data": [
+      {
+        "text": "Berapa lama proses pembelian reksa dana ya ka sampai masuk ke investasi akun reksa dana saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "68d1e5e5-8a9f-4e94-bfa1-7a73df11e122",
+    "data": [
+      {
+        "text": "top up reksadana belum masuk ke reksadana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

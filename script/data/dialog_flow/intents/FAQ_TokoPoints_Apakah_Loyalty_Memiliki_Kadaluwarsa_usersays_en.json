@@ -1,0 +1,286 @@
+[
+  {
+    "id": "e890dd21-7283-4671-951c-3694df5575b5",
+    "data": [
+      {
+        "text": "apakah loyalty bisa hangus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4fb94470-f901-4798-8b1d-e37033ede755",
+    "data": [
+      {
+        "text": "apakah loyalty memiliki kadaluwarsa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bde65ead-d8b1-4492-91bb-35911d8acb61",
+    "data": [
+      {
+        "text": "apakah loyalty akan di reset?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f7813718-453a-44c3-a929-eb50038ec9dc",
+    "data": [
+      {
+        "text": "kapan loyalty expired?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "82439549-632a-42ba-ab51-3f927dadac96",
+    "data": [
+      {
+        "text": "apakah loyalty akan expired",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "43156436-75b5-4d6b-a85f-657c4522dd99",
+    "data": [
+      {
+        "text": "loyalty saya akan diulangi dari nol ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3efd77bf-92e8-401d-86a0-492cc4294e29",
+    "data": [
+      {
+        "text": "apakah loyalty juga punya kadaluwarsa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c0493ac7-5a9e-474c-8543-24b228d33aea",
+    "data": [
+      {
+        "text": "loyalty apakah punya kadaluwarsa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "12b06b70-e983-4617-8615-88b91bff9f82",
+    "data": [
+      {
+        "text": "apakah loyalty akan di reset",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "41aeace0-a9a0-45d7-84c9-8bb806dc8f1e",
+    "data": [
+      {
+        "text": "apakah loyalty saya akan diulang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8e0e9634-b09e-4b58-98a9-f3c274b84383",
+    "data": [
+      {
+        "text": "loyalty saya akan di reset tidak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "72194d6f-349e-4143-be9e-5a6b3cdc8204",
+    "data": [
+      {
+        "text": "apakah loyalty akan expired?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "01aa661d-206e-4a7d-a915-439a884f5d66",
+    "data": [
+      {
+        "text": "berapa lama masa penggunaan loyalty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a9174e66-a01a-4a21-a00c-38fde9afba25",
+    "data": [
+      {
+        "text": "loyalty yg sudah saya dapat akan ",
+        "userDefined": false
+      },
+      {
+        "text": "nol",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " lagi tidak ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "30955da7-a6a3-4603-ac75-bf0c0633683e",
+    "data": [
+      {
+        "text": "kapan loyalty  habis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c20c3923-e9fa-46ab-9d04-b475c6d42dda",
+    "data": [
+      {
+        "text": "Kalau loyalty bisa kadaluwarsa juga gak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f934724f-3a5b-4d62-93be-333a9b9eaf3d",
+    "data": [
+      {
+        "text": "loyalty punya kadaluwarsa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fbede544-fffe-4d26-b083-0146ab57c1ed",
+    "data": [
+      {
+        "text": "apakah loyalty memiliki kadaluwarsa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b54d0800-4113-4ba6-935b-8be323ba8136",
+    "data": [
+      {
+        "text": "loyalty bisa kadaluwarsa juga ga ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6dedfa3a-f42e-4b85-bce5-9c420cdb76cf",
+    "data": [
+      {
+        "text": "loyalty akan kadaluwarsa gak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9f9bb479-0db0-4517-ba99-cb1d11af2413",
+    "data": [
+      {
+        "text": "exp date loyalty saya kapan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "67411d35-c264-4a0f-9a03-035a5e3ef91f",
+    "data": [
+      {
+        "text": "loyalty akan kadaluwarsa juga?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6ad83e87-69e7-493b-8522-e95531464e00",
+    "data": [
+      {
+        "text": "kapan loyalty saya akan di reset ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "de33aef4-57a0-40d9-86cb-1387fd8a097b",
+    "data": [
+      {
+        "text": "misalkan saya saat ini punya loyalty sebesar 4840. sebentar lagi 5000 untuk jadi platinum. jika sampai awal januaru belum sampai 5000, apakah loyalty saya hangus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5fecdcba-cbe7-4b6f-8df3-715004b92728",
+    "data": [
+      {
+        "text": "malam toped, mau manya nih... poin toped apakah akan di restart pada awal januari?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

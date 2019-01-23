@@ -1,0 +1,48 @@
+{
+  "id": "5a3ae86f-4bc4-46c1-8ebb-9d3f3a267663",
+  "parentId": "e540ae13-6993-4973-bead-401b5c3abcf5",
+  "rootParentId": "52ec60f4-3e96-4394-855f-4b7f7c4c5110",
+  "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_produk_tertentu",
+  "auto": true,
+  "contexts": [
+    "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetTokopediaPlatform",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_produk_tertentu-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh kasih tahu Toped, promo yang kamu input untuk pembelian apa?\r\n\r\n1. Produk belanja\r\n2. Digital (Voucher makanan/Voucher streaming)/Pembayaran atau Top up (Pulsa/Listrik/Air PDAM)\r\n3. Tiket Event/Tiket Kereta Api\r\n4. Aktivasi Gold Merchant/TopAds"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa pilih antara nomor 1 sampai 4 ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523834134,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "code_valid_for_selected_items"
+    }
+  ]
+}

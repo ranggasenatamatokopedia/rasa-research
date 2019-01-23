@@ -1,0 +1,38 @@
+{
+  "id": "de7e1edd-c56d-4048-8efd-3bfa0d9449ac",
+  "name": "FAQ_Order_Apa_Itu_Eksternal_Dropshipper",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Apa_Itu_Eksternal_Dropshipper-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Eksternal Dropshipper adalah Transaksi dimana pembeli di Tokopedia membeli produk dari penjual di Tokopedia dan menjual ke pembeli lain di luar Tokopedia"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Atau, penjual di Tokopedia membeli produk dari penjual di luar Tokopedia dan menjualnya kembali ke pembeli di Tokopedia."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

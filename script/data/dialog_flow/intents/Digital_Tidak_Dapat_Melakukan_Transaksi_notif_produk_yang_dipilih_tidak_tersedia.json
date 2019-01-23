@@ -1,0 +1,39 @@
+{
+  "id": "57b7fae8-7c28-44be-96f8-8da2b359597c",
+  "parentId": "c230094b-7dd5-43f4-984b-d415098c4e53",
+  "rootParentId": "c230094b-7dd5-43f4-984b-d415098c4e53",
+  "name": "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_produk_yang_dipilih_tidak_tersedia",
+  "auto": true,
+  "contexts": [
+    "Digital_Tidak_Dapat_Melakukan_Transaksi-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_produk_yang_dipilih_tidak_tersedia-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "kamu bisa cek secara berkala di waktu yang berbeda, dan pastikan id pelanggan yang diisi sesuai dengan pilihan kota "
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535966048,
+  "fallbackIntent": false,
+  "events": []
+}

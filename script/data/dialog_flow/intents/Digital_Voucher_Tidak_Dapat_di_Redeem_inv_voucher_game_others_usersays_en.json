@@ -1,0 +1,167 @@
+[
+  {
+    "id": "cea270d6-1355-4102-880f-85338ce12f7e",
+    "data": [
+      {
+        "text": "operator_psn_money_voucher_id",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9b69528d-051d-4743-af4b-0211aadd56b4",
+    "data": [
+      {
+        "text": "operator_gemscool",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "64e0c155-e055-47e2-bd0f-dc359c6edad6",
+    "data": [
+      {
+        "text": "operator_rf_online",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "98953144-a3da-4a41-be9f-ee8b5ce50e67",
+    "data": [
+      {
+        "text": "operator_ps_plus_membership",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4f2db29a-9717-4f8b-bd4c-9a48ce5bec0b",
+    "data": [
+      {
+        "text": "operator_garena_arena_of_valor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ada50f38-261e-44e2-ac81-8c0c405c85e3",
+    "data": [
+      {
+        "text": "operator_ragnarok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a3fb1bec-331c-40f0-bf5b-0d64bf529d87",
+    "data": [
+      {
+        "text": "operator_garena",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f7c07c96-8391-4dab-acb9-501985506dda",
+    "data": [
+      {
+        "text": "operator_lyto_gravindo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5fbc5c26-188e-4155-81fd-7a2c7bd75946",
+    "data": [
+      {
+        "text": "operator_nintendo_eshop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8fcc2d32-7f02-42a3-b4f2-1cb37381e88b",
+    "data": [
+      {
+        "text": "operator_wavegame",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eddeaa01-68da-497a-ab05-d70d1dfe15e2",
+    "data": [
+      {
+        "text": "operator_battlenet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c730db5e-b5c7-413b-936d-fe466d5679fe",
+    "data": [
+      {
+        "text": "operator_megaxus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6ac79bb8-a2d6-4c3e-8c5e-2544fbf9d761",
+    "data": [
+      {
+        "text": "operator_point_blank",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "750f141a-76d5-40d3-8f69-3b82bad1e2b4",
+    "data": [
+      {
+        "text": "operator_mol_points",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "14c7f230-645a-4269-871a-46207581a11c",
+    "data": [
+      {
+        "text": "operator_playerunknowns_battlegrounds_pubg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

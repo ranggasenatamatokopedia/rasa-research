@@ -1,0 +1,38 @@
+{
+  "id": "f31231ba-002d-4304-a22e-ed98b7da1078",
+  "name": "FAQ_Merchant_Cara_Menggunakan_Voucher_Toko",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Merchant_Cara_Menggunakan_Voucher_Toko-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa melakukan pembelian melalui laptop/komputer. Voucher toko bisa ditemukan di pojok kanan atas produk."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa menggunakan kode promo tersebut sebelum checkout."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

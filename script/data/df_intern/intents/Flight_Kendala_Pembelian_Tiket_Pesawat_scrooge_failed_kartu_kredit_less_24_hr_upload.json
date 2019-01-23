@@ -1,0 +1,64 @@
+{
+  "id": "6e85695b-857a-45eb-90aa-76621050eaa8",
+  "parentId": "facf07e8-2ff8-4aaf-8baf-41c56d6b8aac",
+  "rootParentId": "7f7a8cb1-cbe8-48a9-9930-7686b772cf99",
+  "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_scrooge_failed_kartu_kredit_less_24_hr_upload",
+  "auto": false,
+  "contexts": [
+    "Flight_Kendala_Pembelian_Tiket_Pesawat_scrooge_failed_kartu_kredit_less_24_hr-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_scrooge_failed_kartu_kredit_less_24_hr_upload-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c59e146e-7b86-43ee-87eb-df8728e877f3",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1439",
+          "isList": false
+        },
+        {
+          "id": "95f2bb28-b29c-438d-941b-dcd97cf18420",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Flight_Kendala_Pembelian_Tiket_Pesawat"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu sebentar ya. Toped akan bantu buatkan tiket kendala untuk dicek lebih lanjut."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Info selanjutnya akan dikirim lewat layanan pengguna :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537953734,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

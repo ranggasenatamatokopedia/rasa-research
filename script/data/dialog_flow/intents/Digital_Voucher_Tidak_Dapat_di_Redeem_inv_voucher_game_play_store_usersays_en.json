@@ -1,0 +1,24 @@
+[
+  {
+    "id": "378cf74a-1a5c-4f17-949a-59a7beb6c8f0",
+    "data": [
+      {
+        "text": "operator_kode_voucher_google_play",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "19cfa17f-952d-4f3e-b280-06446ba18b58",
+    "data": [
+      {
+        "text": "operator_google_play",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

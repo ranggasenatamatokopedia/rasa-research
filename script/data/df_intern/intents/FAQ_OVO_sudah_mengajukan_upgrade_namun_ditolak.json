@@ -1,0 +1,31 @@
+{
+  "id": "70843a6b-8b77-44c0-9451-ae8d63f69e14",
+  "name": "FAQ_OVO_sudah_mengajukan_upgrade_namun_ditolak",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika pengajuan upgrade Kamu ditolak, Kamu dapat ajukan upgrade ulang, ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_ovo_sudah_mengajukan_upgrade_namun_ditolak"
+    }
+  ]
+}

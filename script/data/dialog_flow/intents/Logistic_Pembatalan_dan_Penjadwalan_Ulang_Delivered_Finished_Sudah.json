@@ -1,0 +1,50 @@
+{
+  "id": "193129b1-0faa-4356-95ae-83dbf6f5d403",
+  "parentId": "88ef6006-95b4-4fb7-9d67-fd62a48f4b9b",
+  "rootParentId": "25f8caf5-22b1-4b7d-8704-24a6da37b244",
+  "name": "Logistic_Pembatalan_dan_Penjadwalan_Ulang_Delivered_Finished_Sudah",
+  "auto": true,
+  "contexts": [
+    "Logistic_Pembatalan_dan_Penjadwalan_Ulang_Pick_Up_Invoice_List_On_Demand_Delivered_Finished-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Pembatalan_dan_Penjadwalan_Ulang_Delivered_Finished_Sudah-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Apakah saat ini masih ada driver yang datang untuk pick up paket dengan nomer invoice yang sama?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 1,
+            "quick_replies": [
+              "Masih Ada",
+              "Tidak Ada"
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535541750,
+  "fallbackIntent": false,
+  "events": []
+}

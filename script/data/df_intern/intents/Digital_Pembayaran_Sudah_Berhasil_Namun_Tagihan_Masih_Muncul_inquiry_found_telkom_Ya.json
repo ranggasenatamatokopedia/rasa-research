@@ -1,0 +1,57 @@
+{
+  "id": "7f36b181-659a-42d8-80d6-2e524562ae64",
+  "parentId": "d85bd81f-9efd-40b2-b5b3-3009e29883ef",
+  "rootParentId": "440cef8c-a263-47ad-b658-e035da03a8e0",
+  "name": "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_inquiry_found_telkom_Ya",
+  "auto": true,
+  "contexts": [
+    "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_inquiry_found_telkom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_inquiry_found_telkom_Ya-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "85e0876c-47d7-48d6-95eb-d4ebed8a01fd",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1233"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu sebentar ya. Toped akan bantu buatkan tiket untuk dicek lebih lanjut dan informasi selanjutnya akan dikirim lewat layanan pengguna. Senang bisa membantu kamu :)"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "data": {
+              "show_rating": false
+            },
+            "type": 0
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534229603,
+  "fallbackIntent": false,
+  "events": []
+}

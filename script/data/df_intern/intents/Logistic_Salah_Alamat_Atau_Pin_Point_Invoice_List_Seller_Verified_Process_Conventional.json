@@ -1,0 +1,43 @@
+{
+  "id": "174a00ea-cde0-41f0-81cf-b8ecd5b8a778",
+  "parentId": "671b2d35-2c77-4772-8460-7f92a913d33e",
+  "rootParentId": "b5d703e5-b4ee-4716-a78d-6a74da4e1538",
+  "name": "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Seller_Verified_Process_Conventional",
+  "auto": true,
+  "contexts": [
+    "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Seller_Verified_Process-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Seller_Verified_Process_Conventional-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu tetap dapat melakukan pengiriman dengan alamat yang telah disesuaikan. Namun jika terdapat selisih ongkos pengiriman, kamu dapat berdiskusi dengan pihak Pembeli ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546424705,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "courier_type_is_conventional"
+    }
+  ]
+}

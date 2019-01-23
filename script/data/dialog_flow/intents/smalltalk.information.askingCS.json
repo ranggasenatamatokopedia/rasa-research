@@ -1,0 +1,31 @@
+{
+  "id": "1ddcd643-3537-40dd-86e7-5289317dda3b",
+  "name": "smalltalk.information.askingCS",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa hubungi Customer Care Tokopedia dan infokan kendala kamu di !TKPD_URL_CONTACTUS_SUBMIT! ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "smalltalk_information_askingcs"
+    }
+  ]
+}

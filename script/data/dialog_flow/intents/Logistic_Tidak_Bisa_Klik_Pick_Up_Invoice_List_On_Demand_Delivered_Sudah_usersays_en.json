@@ -1,0 +1,117 @@
+[
+  {
+    "id": "1e70c9fe-06d5-401f-9dd2-e7efa982d16f",
+    "data": [
+      {
+        "text": "sudaaah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fbfc43c7-1f53-483e-b214-d4456db05b7e",
+    "data": [
+      {
+        "text": "iya sudah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ead9ae1a-bedf-42c2-96e8-904ffd67ff91",
+    "data": [
+      {
+        "text": "sdh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "03d6916a-e93d-4a0b-b374-60396423bdab",
+    "data": [
+      {
+        "text": "sudah ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "663ed3d6-194b-42d3-8258-8ae3c805e2cf",
+    "data": [
+      {
+        "text": "sudh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "306a0bca-56d0-42dd-b743-c85df3f74ecf",
+    "data": [
+      {
+        "text": "sudah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c65ae362-ae0d-4219-80c9-dabf0588c226",
+    "data": [
+      {
+        "text": "sudh ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ea7baa22-7326-4464-9c77-d5fb266c3117",
+    "data": [
+      {
+        "text": "sudaah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "485a6e9b-e57e-44fa-9695-f84f33e2cee6",
+    "data": [
+      {
+        "text": "iya sudah kok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b786efba-8959-4988-a223-3c91f84a3ab4",
+    "data": [
+      {
+        "text": "iya sudah nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

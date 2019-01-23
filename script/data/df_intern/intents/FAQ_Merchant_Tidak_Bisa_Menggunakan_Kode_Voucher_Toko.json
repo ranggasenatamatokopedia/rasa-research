@@ -1,0 +1,38 @@
+{
+  "id": "99f35938-ffc5-4612-acba-a9d4ca1ddd33",
+  "name": "FAQ_Merchant_Tidak_Bisa_Menggunakan_Kode_Voucher_Toko",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Merchant_Tidak_Bisa_Menggunakan_Kode_Voucher_Toko-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Voucher Toko bisa digunakan kalau aplikasi kamu sudah di update ke versi terbaru."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau aplikasi kamu sudah di update, voucher toko bisa digunakan sesuai dengan Syarat dan Ketentuan yang berlaku pada produk atau toko tersebut."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

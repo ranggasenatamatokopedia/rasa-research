@@ -1,0 +1,43 @@
+{
+  "id": "7c0b34c9-33d4-4ab9-8e58-b0963cc61b05",
+  "parentId": "7a7d1807-4382-4bf0-8163-294e4050023d",
+  "rootParentId": "440cef8c-a263-47ad-b658-e035da03a8e0",
+  "name": "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_tagihan_cc_exclude_BNI",
+  "auto": false,
+  "contexts": [
+    "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_inquiry_found_tagihan_cc-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CalculateSuccessTimeNotWorkingDays",
+      "affectedContexts": [
+        {
+          "name": "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_tagihan_cc_exclude_BNI-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534230956,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "exclude_bank_BNI"
+    }
+  ]
+}

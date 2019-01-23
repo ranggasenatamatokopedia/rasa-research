@@ -1,0 +1,992 @@
+[
+  {
+    "id": "f7eb0553-11c8-492d-9744-9b67bc0537ae",
+    "data": [
+      {
+        "text": "bisa tolong cek transaksi kereta api saya ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum berhasil juga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7686787c-fcf0-409c-bc61-c30dec9fdc6e",
+    "data": [
+      {
+        "text": "pesanan tiket kereta api saya belum diverifikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d9687c04-df9c-4c6e-8faa-8c0ad7179ca3",
+    "data": [
+      {
+        "text": "tiket kereta api belum diverifikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f46ab128-ad26-4e15-a1d3-3dd545b21c75",
+    "data": [
+      {
+        "text": "kenapa transaksi tiket KAI saya sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum juga di verifikasi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0a22d87b-d466-4e5d-b1b0-d98a5f8b2336",
+    "data": [
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya melakukan pembelian tiket kereta api, namun ",
+        "userDefined": false
+      },
+      {
+        "text": "skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " transaksi tidak juga berhasil.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7d43afa0-26ae-4564-b911-df84044b70c7",
+    "data": [
+      {
+        "text": "tiket kai saya tolong cekin ",
+        "userDefined": false
+      },
+      {
+        "text": "dong",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", statusnya apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a2cc5ed6-c650-4175-b687-9b8fded2cb54",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tlg cek tiket KAI saya statusnya ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " seperti apa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3e14dea7-b451-46c1-a3ac-4688e1c895f8",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", pemesanan tiket KAI saya bagaimana perkembangan informasinya ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "541d5856-a949-4575-91bf-02ed6043c9ec",
+    "data": [
+      {
+        "text": "tiket KAI saya belum diverifikasi ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya sudah bayar pake ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "874d4e78-d11d-49d7-9508-be17f9d903aa",
+    "data": [
+      {
+        "text": "transaksi tiket kai saya gagal, tolong dana saya kembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a391fc0d-d743-4f01-a047-3cf058da2b46",
+    "data": [
+      {
+        "text": "transaksi kereta gagal namun dana saya telah terpotong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a6a81128-4207-46a8-8b31-6b7eb9bb9e9c",
+    "data": [
+      {
+        "text": "tolong cek pembelian tiket kereta saya karna saya cek daftar transaksi pesanan tidak muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e7a8ec92-4268-4ab5-a13f-a014fbc378bc",
+    "data": [
+      {
+        "text": "saya melakukan pembelian tiket kereta, dana saya sudah terdebet tp di daftar transaksi kereta api saya invoice tidak ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "993cd0a0-a8dc-4032-b9e9-ed2552926f77",
+    "data": [
+      {
+        "text": "Saya sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " utk pembelian tiket KAI tapi transaksi tertulis masih menunggu pembayaran. Terlampir ss e-banking ",
+        "userDefined": false
+      },
+      {
+        "text": "bri",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Mohon bantuannya..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9a1acae4-a388-419f-a461-83de7a6be70a",
+    "data": [
+      {
+        "text": "di mutasi sdh ter debet mustinya transaksi tiket kereta api berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "152a2f3c-67b3-43c0-ba01-306e381618fd",
+    "data": [
+      {
+        "text": "sudah bayar utk tiket KA namun pesanan tidak terdeteksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "73b4fd1d-3f39-4e25-9aa0-6452679a5361",
+    "data": [
+      {
+        "text": "saya sudah melakukan pemesanan tiket kereta api, namun invoice tidak terbentuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8a536ce1-9e63-41a7-8353-29e0afe5933b",
+    "data": [
+      {
+        "text": "transaksi kereta saya sudah bayar namun invoice tidak ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2ea6c005-a40d-4eb3-8eb4-0f8db5a7762d",
+    "data": [
+      {
+        "text": "saya pesan tiket kereta banyak, tetapi masih ada satu transaksi yang masih belum terverifikasi dengan nomonal yg lumayan banyak 849rb dgn penumpang 4 orang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f91d8d68-e1c1-4ede-b538-ef8692fc14c4",
+    "data": [
+      {
+        "text": "tolong segera verifikasi karna saya sudah melakukan pembayaran tiket kereta api menggunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "451672e5-a2b1-47ca-bf7e-8f3886c57c1c",
+    "data": [
+      {
+        "text": "saya sudah lakukan pemesanan kereta api menggunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " namun ",
+        "userDefined": false
+      },
+      {
+        "text": "skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "  tiket kereta tak kunjung muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b09a40da-af5d-4348-a203-d8b82094321e",
+    "data": [
+      {
+        "text": "transaksi kereta api tidak berhasil, minta tolong cek ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2004cc3f-d11e-4d5e-aa58-b10757385861",
+    "data": [
+      {
+        "text": "saya sudah bayar KAI tp kenapa tidak bisa diverifikasi ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bff9d67d-2fba-41cf-8f64-d657dbe7ad5d",
+    "data": [
+      {
+        "text": "trasnsaksi tiket kai saya gagal dan dananya terpotong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b914b364-ae5f-49a7-9958-4cbaf8ddbae4",
+    "data": [
+      {
+        "text": "tiket kreta saya sudah dibeli tapi kenapa tidak ada invoicenya ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9c3c1d52-0896-4f29-a242-3dfa252d3282",
+    "data": [
+      {
+        "text": "tolong cek transaksi tiket KA saya berhasil atau tidak ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e6c6a84e-5b8e-4071-bfe5-13aaf4b2500d",
+    "data": [
+      {
+        "text": "transaksi tiket kai saya gagal dan dana telah terpotong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8be679ee-a682-4b31-90d5-df889f4922fe",
+    "data": [
+      {
+        "text": "saya sudah bayar tiket KAI ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tolong diverifikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1ea642fb-7ff4-435c-9c44-a141c8c20518",
+    "data": [
+      {
+        "text": "saya sudah bayar tiket kai tp belum diverifikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1802ee10-5ba9-47dc-8e5c-f07c90d7b821",
+    "data": [
+      {
+        "text": "pembelian tiket kereta sudah gagal namun dana belum kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "57bcdc4e-a9e5-4da8-b7a9-2815a5c5f3b5",
+    "data": [
+      {
+        "text": "pembayaran tiket KAI saya gagal namun dana sudah terpotong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b393ebc7-1ef5-464d-9c2e-b345b00ca7a0",
+    "data": [
+      {
+        "text": "pembayaran tiket KAI saya gagal, tp dana belum dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "77dca283-8180-46d8-85c0-8733a8be75f9",
+    "data": [
+      {
+        "text": "tolong pemesanan tiket kai saya di verifikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "df228d89-03ee-4649-8f8b-e6d478c051c1",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tolong cek transaksi tiket kai saya sudah berhasil apa belum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7891711b-bd62-495a-937b-90f34bfe5f47",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", pembelian tiket kereta saya ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " apakah sudah berhasil?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c7cd34a3-df32-42e9-b6b7-71ac820da6c8",
+    "data": [
+      {
+        "text": "tolong segera verifikasi ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya sudah melakukan pembelian tiket kereta melalui ",
+        "userDefined": false
+      },
+      {
+        "text": "indomaret",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "57399703-5a41-48c4-a3e9-62fa62a56167",
+    "data": [
+      {
+        "text": "sudah melakukan pembayaran tiket kereta, namun belum terkonfirmasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "311d51f4-9be6-4ce2-af7b-5fe6e34beaf5",
+    "data": [
+      {
+        "text": "saya sudah bayar tiket KAI nya, tolong di konfirmasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c8f5c8cb-e4d6-4616-9bf0-ea6ddf5c6d5d",
+    "data": [
+      {
+        "text": "saya sudah bayar tiket KA nya, tp ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " transaksi nya tidak berhasil-berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a3dc807d-273d-461e-ace8-fe629c055fe7",
+    "data": [
+      {
+        "text": "Transaksi tiket kereta saya blm berhasil kak.. padahal status pembayaran sukses.. mohon di cek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6e986f94-9df3-4223-93d8-dbcd7a3ed74e",
+    "data": [
+      {
+        "text": "Transaksi tiket kereta api sudah dibayar, tapi status belum berhasil dan sudah menunggu 1x24jam. mohon bantuannya ya tokopedia.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "28dade24-c0cb-4766-9638-cb5066dd9e37",
+    "data": [
+      {
+        "text": "pemesanan tiket kereta masih menunggu pembayaran, mohon dapat diverifikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cb5bc161-97c3-41b0-8815-bdd530ddf6cf",
+    "data": [
+      {
+        "text": "transaksi KA gue tidak diverifikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "54819553-c780-4a82-b2d9-6a7d28d2fca9",
+    "data": [
+      {
+        "text": "Saya sudah bayar ticket kereta melakukan virtual account BNI, ketika transaksi berhasil malah Ada notif Dari tokopedia bahwa tokocash sudah dikembalikan, sementara saldo saya Di BNI ttp terpotong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b2c890ff-5cde-4683-96f0-0b58bbf703bb",
+    "data": [
+      {
+        "text": "pemesanan tiket kereta pp bandung - bekasi tgl ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sep",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "as",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " attached, pembayaran melalui ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", namun pembelian gagal (dibatalkan secara sepihak) dan ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sdh terpotong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3e7f9ed1-c664-438c-966e-0f9cf4152819",
+    "data": [
+      {
+        "text": "Kenapa pesanan tiket KA saya gagal dan ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " blm dikembalikan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "628562c0-d391-48cc-be2b-f7857cfa2714",
+    "data": [
+      {
+        "text": "saldo toko cass sya tidak muncul.untuk pembelian tiket kereta api ya min.2 x \n 45.500 dan 22000",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5a1f5cfc-d0ed-4a35-bdbc-fdecbcf949da",
+    "data": [
+      {
+        "text": "dana rekening terpotong ",
+        "userDefined": false
+      },
+      {
+        "text": "184.000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". tapi pembelian tiket kereta api gagal. mohon untuk di proses segera. terima kasih.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4a7ecb7c-ea14-418a-adc5-0a567e9e4987",
+    "data": [
+      {
+        "text": "Sy melakukan pemesanan tiket kereta api tetapi transaksi tidak berhasil.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "19d117db-92b9-43dd-b38a-fecdb0f6f45b",
+    "data": [
+      {
+        "text": "pembayaran tiket kereta api belum diverifikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7cfa94d4-2504-46d5-ae58-bb9895d344de",
+    "data": [
+      {
+        "text": "pesanan tiket kereta sudah dibatalkan, tapi dana belum dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3117738b-d4b7-4ac1-819b-5713f4eda47a",
+    "data": [
+      {
+        "text": "dana cash saya tidak terpotong sehingga saya tidak bisa meneruskan pembayaran tiket kereta saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e1ca9fef-a067-4907-ab3a-c45c3dd35533",
+    "data": [
+      {
+        "text": "Saya sudah berhasil bayar, namun tiket KA gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6a4dcb31-0d87-4059-8ebe-6b9b2ee04197",
+    "data": [
+      {
+        "text": "bagaimana informasi pembelian tiket KA saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b173710c-d59a-4c5f-b819-d6683876cd55",
+    "data": [
+      {
+        "text": "Sy beli tiket KA Maharani utk ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Sept",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Sy melakukan pemesanan ",
+        "userDefined": false
+      },
+      {
+        "text": "31",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ags",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "malam",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sktr ",
+        "userDefined": false
+      },
+      {
+        "text": "jm22an",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Lalu Sy sdh bayar tiket lwt ",
+        "userDefined": false
+      },
+      {
+        "text": "BCA",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "VA",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Tapi kenapa gak ad history pemesanan tiket KA saya smpe pagi ini jg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9a75ed53-b928-42a9-be1b-0060ae1a6722",
+    "data": [
+      {
+        "text": "tolong di verifikasi pembayaran KA saya ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " loket fastpay. terimakasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ae259da2-5833-4b44-9fd5-df5a0af7f7d3",
+    "data": [
+      {
+        "text": "transaksi tiket kai saya gagal namun dana telah terpotong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "287db427-1040-46c3-94bd-d2dc1580ca61",
+    "data": [
+      {
+        "text": "pembayaran tiket kereta saya belum mendapatkan informasi perkembangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a2a30a83-1b6e-4356-9171-f1de396bbbc4",
+    "data": [
+      {
+        "text": "pembayaran tiket kereta belum diverifikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d1c1551b-7f12-4459-8776-ae0cb5cca07c",
+    "data": [
+      {
+        "text": "pembelian tiket KAI gagal, padahal saldo terdebet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a32d1d80-b9cf-4fe1-8716-c70758f77278",
+    "data": [
+      {
+        "text": "Saya order tiket kereta sudah lbh 30 menit stlh pmbyrn,tp tdk ada update apa2,, mhn di periksa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

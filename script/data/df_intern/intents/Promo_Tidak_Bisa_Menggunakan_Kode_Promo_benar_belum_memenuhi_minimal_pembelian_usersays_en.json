@@ -1,0 +1,128 @@
+[
+  {
+    "id": "03ecda23-2ed7-424e-bad6-67db71c88f88",
+    "data": [
+      {
+        "text": "delapan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5f92c15c-fed3-42b0-ab4d-62fee5ede450",
+    "data": [
+      {
+        "text": "minimal pembelian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f7ed012c-d316-44a5-b0b5-90599df541a9",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pembelian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "535f6bbe-eabf-4016-957c-dea46a0b4998",
+    "data": [
+      {
+        "text": " total harga produk blom memenuhi minimal pembelian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6c122ee6-e3a3-4478-9ccc-aed7e3f3cee5",
+    "data": [
+      {
+        "text": "yang nomor dlapan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ee26bbd9-d49c-40c5-9f24-a050fcfe76a0",
+    "data": [
+      {
+        "text": "8",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9fad582a-0e41-4258-92ff-cb1442b504fc",
+    "data": [
+      {
+        "text": "ke8",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "97eeacb7-cacc-4402-9829-feede9803eb8",
+    "data": [
+      {
+        "text": "total harga belum memenuhi minimal pembelian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "60acb59c-d266-48e7-884c-3ddc43d534c6",
+    "data": [
+      {
+        "text": "kedelapan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8d0d8ea1-1dd9-49c6-ade7-fa8f7b90377b",
+    "data": [
+      {
+        "text": "notif_total_harga_produk_belum_memenuhi_minimal_pembelian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "604a65fd-c6bd-4565-8384-69f77f451427",
+    "data": [
+      {
+        "text": "minimum pembelian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

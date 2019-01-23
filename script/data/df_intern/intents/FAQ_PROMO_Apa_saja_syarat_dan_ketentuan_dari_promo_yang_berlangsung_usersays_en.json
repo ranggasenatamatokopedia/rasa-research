@@ -1,0 +1,863 @@
+[
+  {
+    "id": "8aa13a2c-0283-4b2d-9bb2-f1f25dd66fb3",
+    "data": [
+      {
+        "text": "Promo pln pasti apakah bisa pembayaran via mini market?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f5c9378a-4f60-4ea6-829e-28e82519f60f",
+    "data": [
+      {
+        "text": "bagaimana promo cashback dg kode TOPED",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2634fba8-04c2-458f-af34-f9d4ffceb934",
+    "data": [
+      {
+        "text": "cashback batal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3d13e0b7-ddd3-4345-846d-95d29a49dbf3",
+    "data": [
+      {
+        "text": "apakah promo tidak bisa menggunakan layanan ",
+        "userDefined": false
+      },
+      {
+        "text": "j\u0026t",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a467691a-d1a8-4d03-b8ce-8141a91ab4eb",
+    "data": [
+      {
+        "text": "bisa ",
+        "userDefined": false
+      },
+      {
+        "text": "dua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kali atau tidak promo ",
+        "userDefined": false
+      },
+      {
+        "text": "payday300",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9814ec95-89d6-4eeb-b666-e564c3e495e8",
+    "data": [
+      {
+        "text": "apakah promo ",
+        "userDefined": false
+      },
+      {
+        "text": "payday300",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bisa dipakai utk bayar ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d45f0963-1c36-4a93-bbeb-ba94b61ab179",
+    "data": [
+      {
+        "text": "selamat ",
+        "userDefined": false
+      },
+      {
+        "text": "pagi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " apa saja syarat dan ketentuan promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cb98cc60-7f9c-437d-bb16-12f8409bd7cb",
+    "data": [
+      {
+        "text": "met ",
+        "userDefined": false
+      },
+      {
+        "text": "malam",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " apa saja syarat dan ketentuan promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "40b25749-0002-49be-a39b-536982b21cfe",
+    "data": [
+      {
+        "text": "mau tanya nih syarat dan ketentuan promo tu apa aja?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "34d6e85b-5ad4-457b-ba74-ec697eb430b6",
+    "data": [
+      {
+        "text": "Bisa jelaskan ketentuan promo pengguna baru untuk yg sekarang.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2e6bcf8b-8a74-4f88-94a0-471a762d9702",
+    "data": [
+      {
+        "text": "kode referal bisa dipakai bersamaan dgn kode promo lain.??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "af002a7e-af51-4552-a7a7-f6655cfcafe0",
+    "data": [
+      {
+        "text": "mohon info syarat dan ketentuan promo kerjasama dengan bank DBS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "907260e5-adb0-42ec-a205-9be15c463297",
+    "data": [
+      {
+        "text": "met ",
+        "userDefined": false
+      },
+      {
+        "text": "pagi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " apa saja syarat dan ketentuan promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "826f99a3-d019-4c68-a55f-4612578cf608",
+    "data": [
+      {
+        "text": "mau nanya ya syarat dan ketentuan promo tu apa aja?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bfed1928-ffd1-4056-a7ab-0c68e62778b6",
+    "data": [
+      {
+        "text": "pagi min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " apa saja syarat dan ketentuan promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3d887fce-9fd4-4b02-b13d-d9bb7f1e7897",
+    "data": [
+      {
+        "text": "        Maksud dari ketentuan promo \u0026#34;hanya berlaku untuk pengguna baru Tokopedia\u0026#34;. \nItu maksudnya baru tuh berapa lama ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d4efcfd6-6d98-43fb-b8f3-e178ebfc82b5",
+    "data": [
+      {
+        "text": "met ",
+        "userDefined": false
+      },
+      {
+        "text": "sore",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " apa saja syarat dan ketentuan promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "062410b1-6e35-4faa-a5a4-79a82ec802fa",
+    "data": [
+      {
+        "text": "mau nanya syarat dan ketentuan promo tu apa aja?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cc6fe5eb-9bca-40d5-b56a-5ba05b9738c7",
+    "data": [
+      {
+        "text": "Ketentuan pemakaian kode promo (contoh: COBAYUK), 1x/bulan atau 1x/selamanya atau 1x/30hari? Untuk kode promo lain juga demikian atau berbeda ketentuannya? Thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2c512df5-fe2d-448e-96c9-fc5f2b86bab8",
+    "data": [
+      {
+        "text": "selamat ",
+        "userDefined": false
+      },
+      {
+        "text": "sore",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " apa saja syarat dan ketentuan promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ba6c262a-7bdb-41d3-9556-cabff6acf2a3",
+    "data": [
+      {
+        "text": "mau tanya syarat dan ketentuan promo tu apa aja?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bef9dd4e-ed33-4d70-87ab-811ea15d28db",
+    "data": [
+      {
+        "text": "apa saja syarat dan ketentuan promo mendapatkan cashback 100.000 dari kartu kredit HSBC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "bdf1bc56-bf15-4477-ba5c-d18c7d6aa604",
+    "data": [
+      {
+        "text": "malam min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " apa saja syarat dan ketentuan promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5b0ea0aa-f185-46e1-a323-46f53e1296c7",
+    "data": [
+      {
+        "text": "selamat ",
+        "userDefined": false
+      },
+      {
+        "text": "siang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " apa saja syarat dan ketentuan promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "edd2c6ee-eb92-4466-b22a-055aa656a19f",
+    "data": [
+      {
+        "text": "Mau tanya, kalo syarat promo Kode voucher BAYARYUK apa aja ya syarat2nya????? Mohon infonya. Thx",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "3008288a-fdd3-4cb0-9a5b-8b0c5049f116",
+    "data": [
+      {
+        "text": "transaksi seperti apa yg melanggar syarat dan ketentuan promo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "56b23312-0a2f-4eea-b408-0b11140f43c5",
+    "data": [
+      {
+        "text": "selamat ",
+        "userDefined": false
+      },
+      {
+        "text": "malam",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " apa saja syarat dan ketentuan promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7ac18faa-9a9f-4e4c-882a-51958c35c981",
+    "data": [
+      {
+        "text": "mau nanya dong syarat dan ketentuan promo tu apa aja?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d0f631ff-148b-4919-98b9-25f1b75e4138",
+    "data": [
+      {
+        "text": "kode promo BONUSDBS tidak bisa d gunakan, apakah promo ini ada kuota setiap harinya ? karena di ketentuannya tidak di cantumkan, mohon bantuannya trims",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f28446d9-6452-4fa8-a66e-59ab759912ba",
+    "data": [
+      {
+        "text": "mau tanya dong syarat dan ketentuan promo tu apa aja?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6abd5d29-838d-4e54-ac84-52ba91ea0445",
+    "data": [
+      {
+        "text": "Saya coba pakai kode promo BONUSDBS, tapi ada error \u0026#34;kuota promo sudah habis\u0026#34;. Ketika saya cek di Syarat dan Ketentuan promo, tidak ada ketentuan kuota terbatas. Apakah ini error?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b8140f59-5277-459d-a3e7-31fd21f1ecf7",
+    "data": [
+      {
+        "text": "Min, Kode Promo TOPEDSERU syaratnya apa aja ya? Kok saya gak bisa pake kode itu??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "508fbdd3-cc42-43a1-9b49-157735a3a47c",
+    "data": [
+      {
+        "text": "cara mengikuti flash sale gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "734c5484-7bcf-4c20-9ed6-2194015a5d8f",
+    "data": [
+      {
+        "text": "Saya coba gunakan kode promo tersebut setelah ganti bulan tapi belum lewat 30hari (sesuai lampiran). Untuk kode promo lain juga demikian atau berbeda ketentuannya? Thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "fcc7a6e6-3144-4b01-82fa-a37b67381703",
+    "data": [
+      {
+        "text": "sore min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " apa saja syarat dan ketentuan promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "264f56a5-0da1-4d41-9cf9-fbae5b0295ec",
+    "data": [
+      {
+        "text": "saya mau minta tlg bantu cek utk kode promo tiket kereta \u0026#34;LIBURANYUK\u0026#34; saya sudah terpakai berapa kali ya selama periode promo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "fe34db2a-40cb-4e38-9375-61c4938144e5",
+    "data": [
+      {
+        "text": "mau nanya nih syarat dan ketentuan promo tu apa aja?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6a9d7d2b-d483-4e53-9fa4-a32fd1a4dc29",
+    "data": [
+      {
+        "text": "met ",
+        "userDefined": false
+      },
+      {
+        "text": "siang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " apa saja syarat dan ketentuan promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4952d364-1b06-468c-ac2f-63d3ebbf5564",
+    "data": [
+      {
+        "text": "Mohon informasi ketentuan promo BONUSDBS.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ac8aa9d0-4839-4b36-9be4-8f96ebdc028f",
+    "data": [
+      {
+        "text": "apa saja syarat promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "881959ca-8f8c-44b2-9841-5a2aea6d82f1",
+    "data": [
+      {
+        "text": "siang min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " apa saja syarat dan ketentuan promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4415ed65-3762-4238-be74-4fc98dcb4d9d",
+    "data": [
+      {
+        "text": "yang cashback 200rb apa bisa menggunakan bca klikpay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3cbac8f1-cc80-4d0d-a9d6-d708ac8f5fa4",
+    "data": [
+      {
+        "text": "Promo ini tidak berlaku untuk metode pembayaran BNI VA, CIMB VA, Mandiri VA, Mandiri ClickPay, Mandiri E-Cash, BRI E-Pay, BNI SMS Payment, transfer bank manual, dan Virtual Account lainnya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "254dc95a-9637-49a4-9094-b6d78a51c0b3",
+    "data": [
+      {
+        "text": "Ad promo cashback tapi pas saya klik mau pakai tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "df063c48-4b92-49a5-a55b-5df277e062ce",
+    "data": [
+      {
+        "text": "kalau saya transaksi ulang apa kode promo bisa saya gunakan lagi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0c26261c-98f3-4201-a2e9-72302fcdbf8d",
+    "data": [
+      {
+        "text": "mksd saya tadi kan saya pake kode promo. klo mau pesan lagi ngga bisa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5b0ed8d9-4bcf-4d49-bae9-5a312f480bf9",
+    "data": [
+      {
+        "text": "apakah promo payday300 bisa dipakai utk bayar kartu kredit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ce2fb1b7-59b4-419e-ac9b-a83de19a4e54",
+    "data": [
+      {
+        "text": "bisa dua kali atau tidak promo payday300",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d8e8b388-7afe-4f23-921b-4d328a757c1f",
+    "data": [
+      {
+        "text": "apakah promo tidak bisa menggunakan layanan j\u0026amp;t ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "805b3b14-04a8-46b9-abc6-ad6cf676718b",
+    "data": [
+      {
+        "text": "bagaimana cara mendapatkan kode dr promo penukaran point telkomsel utk cashback atas tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "66cb6e99-03c9-46b1-bb26-c0a47dfaa17f",
+    "data": [
+      {
+        "text": "pagi, kalau saya mau belanja dan bayar pakai ovo apa ada cash back? berapa ya cashbacknya? terimakasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ac737501-97b8-4721-841c-5e3f054c159d",
+    "data": [
+      {
+        "text": "halo mau nanya untuk kode promo terbaru yg cashback 100rb, apakah pembayaran harus full mengunakan ovo baru dapat cashback ya ? trims",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b75d52f0-5b08-4e51-a41d-ef074dd0c164",
+    "data": [
+      {
+        "text": "bole tau syarat ketentuan apa yg tidak terpenuhi hingga cashback tidak bisa diterima?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9f48ab2d-aa59-4484-a00e-b4c10a9da42f",
+    "data": [
+      {
+        "text": "aya membeli best deals produk share tea untuk lokasi surabaya ada dmn ya? ada petunjuk beberapa toko bestdeal area surabaya. dan saya memilih share tea. tetapi tidak ada lokasi dmn bisa ditukarkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0dbd72e7-adaa-40bf-b8e7-0e56e848c8d0",
+    "data": [
+      {
+        "text": "tidak bisa ngulang transaksi kode promo cobaindeals. karena di status transaksi berhasil padahal gagal dan udah dikembalikan uangnya. transaksi tanggal 30 oktober.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0f1bfed7-ff41-43f9-8024-930e0c8b2618",
+    "data": [
+      {
+        "text": "cashback promo oppp a3s",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a7399ad9-beef-40ee-a472-5fc414ccc765",
+    "data": [
+      {
+        "text": "Kode Promo gak bs digabung ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6884b6f2-a130-4dc0-ae33-aa01e2366954",
+    "data": [
+      {
+        "text": "apakah promo cashback sama gratis ongkir bisa skalian dipake dalam satu pembelian??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "becc26d6-2a0e-48e6-8f00-2cc4873cfdf9",
+    "data": [
+      {
+        "text": "Saya mendapat kupon cashback 100rb dari lucky egg, cara pembayaran apa saja yg berlaku ? Apa hanya berlaku menggunakan ovo cash dan point?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cd30ef97-e659-440b-a656-0cad417e1544",
+    "data": [
+      {
+        "text": "promo PermataCC bisa digunakan berapa x utk 1 akun..?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "eabb232b-aa65-4170-b6e3-4a3533eafb27",
+    "data": [
+      {
+        "text": "kl pesanan sdh diajukan pembatalan, promo free ongkir bisa balik lg?utk pemesanan berikutnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cd3f6d1c-388e-48a3-a88b-1ab968371625",
+    "data": [
+      {
+        "text": "transaksi sy gagal apa bisa cashback kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e7260003-8b7a-44ce-8ba3-a20be427ab4f",
+    "data": [
+      {
+        "text": "mau tanyakupon nyalabukopin khusus pembayaran pakai bank bukopin ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4488659b-03a7-4d3d-bae7-6f1f8ead8185",
+    "data": [
+      {
+        "text": "promo serbuciti bisa di gunakan berapa kali dalam masa promosi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f88047ca-a030-4b61-98bf-33fe8d5e4a28",
+    "data": [
+      {
+        "text": "saya mau tanya, kan keterangan utuk kode promo toped hanya dapat digunakan 1 kali per produk selama periode promo, bisa gak kalo saya pakai untuk pembelian tiket kai?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

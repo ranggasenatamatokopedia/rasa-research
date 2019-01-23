@@ -1,0 +1,2082 @@
+[
+  {
+    "id": "669b63b1-1dd9-4aad-b492-013652b3abd0",
+    "data": [
+      {
+        "text": "Hari ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kan pake ",
+        "userDefined": false
+      },
+      {
+        "text": "jne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " free ongkir untuk wilayah jabodetabek. Klo saya pesan ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " toko yang di jabodetabek apakah free ongkir juga? Gimana cara dapatkan free ongkir?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b0267b3e-3a00-489e-be89-66d12c5ddff3",
+    "data": [
+      {
+        "text": "halo selamat ",
+        "userDefined": false
+      },
+      {
+        "text": "pagi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya mau pakai kupon ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gratis ongkir ",
+        "userDefined": false
+      },
+      {
+        "text": "10rb",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " yg khusus jabodetabek kenapa gk bisa ya?padahal sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "26",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "november",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "jam 23.59",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " batasnya, ini kan masih ",
+        "userDefined": false
+      },
+      {
+        "text": "pagi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3da86010-ae67-45dd-8022-f50dc4fc0bac",
+    "data": [
+      {
+        "text": "Saya tukar ",
+        "userDefined": false
+      },
+      {
+        "text": "75",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " point utk dpt voucher cashback ",
+        "userDefined": false
+      },
+      {
+        "text": "100rb",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " buat sy belanja, penukaran berhasil, point berkurang, tp pada saat akan digunakan yg tertera di kupon saya, kuota kupon telah habis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cddd96c9-ac73-4cde-9ae9-e9d0d98b1e69",
+    "data": [
+      {
+        "text": "saya ada order, dan sudah masukan kode OSONGKIR kok ga bebas ongkir ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7d36ad24-49e5-462b-9988-b0dae3b7a9c2",
+    "data": [
+      {
+        "text": "Kupon Voucher ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Gratis Ongkir tidak bisa digunakan. Padahal sudah tukar ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " voucher pakai point reward.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8234bd59-a649-46ff-8869-9e62705e7a86",
+    "data": [
+      {
+        "text": "Kupon ultah ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak bisa digunakan padahal kan ",
+        "userDefined": false
+      },
+      {
+        "text": "skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tgl ",
+        "userDefined": false
+      },
+      {
+        "text": "26",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Nop",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "766233ab-877d-4759-a2d2-63a47044fbb6",
+    "data": [
+      {
+        "text": "Kupon tidak bisa digunakan, total transaksi ",
+        "userDefined": false
+      },
+      {
+        "text": "300rb",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "720ef9d2-c58b-4b58-917e-d640841fd6e3",
+    "data": [
+      {
+        "text": "Kupon gratisongkir ",
+        "userDefined": false
+      },
+      {
+        "text": "Jne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tak bisa digunakan!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e5c5738d-e37f-47dc-a657-7eb46b6f62bb",
+    "data": [
+      {
+        "text": "Kupon gratis ongkir ",
+        "userDefined": false
+      },
+      {
+        "text": "20.000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hilang ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kupon saya. Padahal baru ",
+        "userDefined": false
+      },
+      {
+        "text": "2x",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dipakai.masih sisa ",
+        "userDefined": false
+      },
+      {
+        "text": "28hari lagi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "528cd78e-b6d6-4204-95e5-63eac14e34ba",
+    "data": [
+      {
+        "text": "Kupon error gabisa dipakai, sudah beli promo ",
+        "userDefined": false
+      },
+      {
+        "text": "100point",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kirim ",
+        "userDefined": false
+      },
+      {
+        "text": "tiki",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gakbisa, beli lg yg free ongkir ",
+        "userDefined": false
+      },
+      {
+        "text": "10rb",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " seharga ",
+        "userDefined": false
+      },
+      {
+        "text": "3000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " poin gabisa juga... Minta direfund saja . krn mau transaksi skrbg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2d5e056c-45c6-4433-9bcb-4ed2931d5718",
+    "data": [
+      {
+        "text": "Ketika saya mau chekout ada keterangan kupon ini hanya berlaku untuk exclude ",
+        "userDefined": false
+      },
+      {
+        "text": "jne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan ",
+        "userDefined": false
+      },
+      {
+        "text": "tiki",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ab37a8c2-f3de-40f4-a07c-8f02a5a2f168",
+    "data": [
+      {
+        "text": "penggunaan kupon cashback saya tidak bisa dipakai kenapa ya ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ff94fa4c-a636-4abc-9e00-30ff2c7e4d9f",
+    "data": [
+      {
+        "text": "Kenapa tidak bisa menggunakan kupon ya? saya klik gunakan tapi tidak bisa terus..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "abd09f34-9cb8-4dd2-871e-315429df9ccc",
+    "data": [
+      {
+        "text": "sy barusan menukar kupon utk gratis ongkir ",
+        "userDefined": false
+      },
+      {
+        "text": "25rb",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tapi saat akan sy gunakan tertera tidak ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2996dcb3-c4ae-490f-b286-081badceac55",
+    "data": [
+      {
+        "text": "saya tidak bisa menggunakan kupon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "66611f3e-832d-4dbb-8b6f-6857155f42d2",
+    "data": [
+      {
+        "text": "tgl ",
+        "userDefined": false
+      },
+      {
+        "text": "15 Maret 2018",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sekitar pk ",
+        "userDefined": false
+      },
+      {
+        "text": "12.30",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " menukarkan kupon gratis ongkir ",
+        "userDefined": false
+      },
+      {
+        "text": "25",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " rb. Tetapi kupon TIDAK MUNCUL sehingga tidak bisa digunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6de7eb0d-5d6e-4884-9c90-ee236a2f64f3",
+    "data": [
+      {
+        "text": "barusan saja saya menukarkan ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kupon free ongkir jne sebesar ",
+        "userDefined": false
+      },
+      {
+        "text": "25rb",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan sudah berhasil, namun ketika mau menggunakan ternyata kupon saya belum ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1d8d77f7-5e5c-4337-8bc5-7241d97ae7b7",
+    "data": [
+      {
+        "text": "gk bs pk kupon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "70a39f6b-1c11-4be9-b3b6-56c15da416b7",
+    "data": [
+      {
+        "text": "Saya tukarkan ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kupon, belum bisa saya gunakan,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cc8dcec2-1deb-412f-8000-cd4f77764993",
+    "data": [
+      {
+        "text": "saya tidak bisa menggunakan kupon, tulisan nya kode promo tidak ditemukan padahal baru aja saya tukar 13500 tokopoints saya untuk kupon itu, mohon bantuan nya ☹",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a5397b0c-0bd3-4622-934d-e6f5c3a6b1df",
+    "data": [
+      {
+        "text": "gk bisa pake kupon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "482fdbac-2693-48cc-afd4-263402eb4ec9",
+    "data": [
+      {
+        "text": "saya tidak bisa menggunakan kupon karena loading terus ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kemaren, mohon bantuany gan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b7e9d8f1-7270-47c6-ae72-68c9aeb2f9a2",
+    "data": [
+      {
+        "text": "kenapa sy tidak bisa menggunakan kupon saat transaksi pembelian.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "003e077e-635f-49b5-b8a7-074e8fecd334",
+    "data": [
+      {
+        "text": "g",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bs pk kupon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "36e8911f-1a39-478e-a4cf-a309b97e195b",
+    "data": [
+      {
+        "text": "kupon sudah ditukar tetapi tidak dapat digunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "21a3ba60-264a-4b8a-8d5a-5c2240718f1c",
+    "data": [
+      {
+        "text": "poin sudah terpotong, tapi kupon cashback belum muncul, sehingga tidak bisa digunakan untuk pembelian token PLN",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e06bfa6c-1581-4513-b30e-4d8a707df6b7",
+    "data": [
+      {
+        "text": "transaksi saya sudah sesuai dengan syarat ketentuan kupon. namun ketika ingin menggunakan kupon loadingnya sangat lama dan selalu berakhir. sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kupon yg dibeli tidak dapat digunakan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ee3a6806-ccad-4a2e-9027-a424774ebb4c",
+    "data": [
+      {
+        "text": "total belanja sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "200.000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " lebih, namun kupon tidak bisa digunakan, padahal masa berlaku kupon masih lama. mohon bantuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0c845b35-c55b-4c26-b81d-934d6ab50095",
+    "data": [
+      {
+        "text": "tidak bisa menggunakan kupon, padahal sudah menggunakan aplikasi IOS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "824d5ecd-a9d8-497f-8bf3-63675ad269a8",
+    "data": [
+      {
+        "text": "sy melakukan tukar point ",
+        "userDefined": false
+      },
+      {
+        "text": "13.500",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " utk cashback ",
+        "userDefined": false
+      },
+      {
+        "text": "100rb",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". tapi kupon tdk bisa digunakan, pdhal point sy sdh langsung terpotong otomatis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bd2897af-22c7-4935-843d-a4c56bb143e4",
+    "data": [
+      {
+        "text": "Saya sdh lakukan penukaran poin menjadi kupon ",
+        "userDefined": false
+      },
+      {
+        "text": "rp",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". ",
+        "userDefined": false
+      },
+      {
+        "text": "50rb",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", namun saat akan dipergunakan selalu tercantum anda tidak memiliki kupon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f00cb6ba-1bd4-44be-8aac-0d8a50b681e5",
+    "data": [
+      {
+        "text": "tidak bisa menggunakan kupon.......",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "672a0860-f156-4c4f-91b3-db872b6740a9",
+    "data": [
+      {
+        "text": "Sudah tukar kupon ",
+        "userDefined": false
+      },
+      {
+        "text": "0",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " point untuk gratis ongkir, setelah tukar tidak muncul di kupon (hanya ada kupon J\u0026t, jadi ga bisa digunakan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "51f8134f-f9ad-4e0c-a430-346e75fca856",
+    "data": [
+      {
+        "text": "saya sudah menukarkan kupon tapi gak bisa digunakan saat belanja.sdh ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kali saya tukarkan,di kupon saya gak ada kupon yg sudah saya tukar.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "85f57369-676d-4e2b-97a2-b85685f5f641",
+    "data": [
+      {
+        "text": "saya sudah tukar point hari ini, utk kupon cashback listrik hingga Rp20.000 sebanyak 2x. tp saat saya cek di menu kupon saya, kuponnya tidak ada. kemana kupon saya, kenapa tidak ada?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ec85512d-0d5e-40af-b900-2be26ec22ee2",
+    "data": [
+      {
+        "text": "Kupon tidak bisa digunakan.  Mohon bantuannya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "24b003a4-c4f1-41d7-97cb-cce220639748",
+    "data": [
+      {
+        "text": "kenapa kupon gratis ongkir saya tidak bisa di gunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "74218390-f0ab-43c3-aac4-a865afd9ed54",
+    "data": [
+      {
+        "text": "tidak bisa pake kupon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f8c474e2-a162-4824-baa6-d5680aba72c7",
+    "data": [
+      {
+        "text": "Tidak bisa menggunakan kupon yang sudah ditukar. Padahal sdh ",
+        "userDefined": false
+      },
+      {
+        "text": "200000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0ce499a7-5268-4104-9e33-a5e61783a391",
+    "data": [
+      {
+        "text": "tidak bisa menggunakan kupon sedangkan total belanja sy sdh melebihi ",
+        "userDefined": false
+      },
+      {
+        "text": "150rb",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ae52eda1-f4e8-44aa-959b-17adb314f745",
+    "data": [
+      {
+        "text": "tidak ada tombol gunakan kupon saat akan melakukan pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2be33685-2779-451c-93e5-6b681ef946d3",
+    "data": [
+      {
+        "text": "kupon gratis ",
+        "userDefined": false
+      },
+      {
+        "text": "0",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " point yang masih sisa ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kenapa tidak dapat saya gunakan,sudah saya redeem tidak muncul di.kupon saya,saya redeem lagi sampai sisa ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tetap tidak muncul.bagaimana ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6247f6c4-e7e5-45cd-9e28-b924c35f4ce1",
+    "data": [
+      {
+        "text": "Mohon dibantu supaya kupon bisa digunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d809d7d4-0612-4e2e-b059-5381b57e958b",
+    "data": [
+      {
+        "text": "saya tidak bisa menggunakan kupon ",
+        "userDefined": false
+      },
+      {
+        "text": "gratis",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ongkir yang saya dapatkan dari tokopoint. mohon bantuannya. terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fbfab182-f755-411c-99ef-35b478a61db1",
+    "data": [
+      {
+        "text": "saya tidak bisa menggunakan kupon saya. setiap kali saya klik gunakan. akan keluar notifikasi seperti dibawah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5b1aa9d1-f885-4e7e-af78-6dfda21ce0ea",
+    "data": [
+      {
+        "text": "Bagaimana cara memakai gratis ongkir hingga ",
+        "userDefined": false
+      },
+      {
+        "text": "rp",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". ",
+        "userDefined": false
+      },
+      {
+        "text": "25.000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di apps android? Ga ada pilihan gunakan kupon saya di apps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2cbc82a6-52fc-4720-afd7-e12841fd175a",
+    "data": [
+      {
+        "text": "saya sudah menukarkan kupon sebanyak ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " buah (",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " yg gratis dr member gold, ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tukar points ",
+        "userDefined": false
+      },
+      {
+        "text": "5500",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". semua utk free ongkir) tp tdk ada yg bisa digunakan.  mohon bantuannya, saya menukarkan sekitar pukul 12.25-.12.30 hari ini (15 march 2018)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "754f4ef4-b29a-45b8-b4ed-bf74a1499886",
+    "data": [
+      {
+        "text": "halo Toped  sy tidak bisa menggunakan kupon saya yg sudah sy ",
+        "userDefined": false
+      },
+      {
+        "text": "tukar dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " points ",
+        "userDefined": false
+      },
+      {
+        "text": "untuk gratis",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " onkir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cc8ad605-e1a1-4f7d-a598-0d8fbf512d3f",
+    "data": [
+      {
+        "text": "saya menukarkan tokopoint dengan cash back ",
+        "userDefined": false
+      },
+      {
+        "text": "100.000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", seingat aya kadaluarsanya akhir bulan ",
+        "userDefined": false
+      },
+      {
+        "text": "maret",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2018",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tetapi ",
+        "userDefined": false
+      },
+      {
+        "text": "hari ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya mau menggunakan kuponnya tidak tersedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3ecebdee-7b2f-40cb-a07c-a14deac82f40",
+    "data": [
+      {
+        "text": "saat tukar points ",
+        "userDefined": false
+      },
+      {
+        "text": "5500",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " uda terpotong tp kuponnya gak ada saat mau digunakan, tolong segera ditindaklanjuti krn sy mau order brg segera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ed769e2c-4766-4675-bad6-16b6bda36e1b",
+    "data": [
+      {
+        "text": "Sy coba menggunakan kupon tapi tidak muncul ",
+        "userDefined": false
+      },
+      {
+        "text": "apa2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di halaman pembayaran. Apakah krn sy menggunakan kupon, atau krn memang sedang error?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9ed8faaa-d7aa-4fe6-a894-6b16b3a1b581",
+    "data": [
+      {
+        "text": "saya tidak bisa menggunakan kupon saya, padahal pembelanjaan saya sudah di atas ",
+        "userDefined": false
+      },
+      {
+        "text": "200,000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8b1996bc-236d-4213-9612-75c9b2d091dd",
+    "data": [
+      {
+        "text": "hi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " admin, saya tidak bisa menggunakan kupon ongkir, krna saat cekout tidak ada pilihan gunakan kupon?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3670c921-c5c9-4276-8d36-72bd94a1b037",
+    "data": [
+      {
+        "text": "Saya sudah menukarkan ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " buah kupon Gratis Ongkir ",
+        "userDefined": false
+      },
+      {
+        "text": "Rp",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". ",
+        "userDefined": false
+      },
+      {
+        "text": "25.000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tetapi ketika akan menggunkan kupon, tidak ada di daftar Kupon Saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1473cf24-f540-43f1-ae98-c530db500ea6",
+    "data": [
+      {
+        "text": "Barusan Tgl ",
+        "userDefined": false
+      },
+      {
+        "text": "15 Maret 2018",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Sekitar pk ",
+        "userDefined": false
+      },
+      {
+        "text": "12.20",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya tukar poin CASHBACK ",
+        "userDefined": false
+      },
+      {
+        "text": "100",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " rb.  Tokopoints saya SUDAH TERPOTONG ",
+        "userDefined": false
+      },
+      {
+        "text": "13.000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " poin. tetapi KUPON TIDAK MUNCUL, sehingga tidak bisa digunakan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "84397462-739e-4ba8-b4c8-90000af7239f",
+    "data": [
+      {
+        "text": "saya sudah menukarkan kupon tetapi tidak muncul dibagian kupon saya jadi tidak bisa digunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7c4ad815-9964-4a4e-99fd-c855ba97e15f",
+    "data": [
+      {
+        "text": "Kode Kupon tidak bisa digunakan , sudah sesuai petunjuk tetap tidak bisa digunakan kupon ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " poin !",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8d885ee7-9d41-4917-94c3-cbc7a26703a3",
+    "data": [
+      {
+        "text": "tidak bisa menggunakan kupon cashback tag.listrik dr hasil penukaran points. tdk ada notifikasi eror tp ketika klik gunakan dan melakukan pembayaran/checkout tdk ada menu utk menggunakan kupon. hanya ada menu kode promo.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6c16077f-5d5d-4879-9a9b-c93761e95c12",
+    "data": [
+      {
+        "text": "tdk bs pk kupon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d434af37-ba94-4f48-9f54-fbe74e39d0dd",
+    "data": [
+      {
+        "text": "saya ada transaksi hari ini dengan invoice INVIDTAG kenapa ya kupon yang saya gunakan tidak masuk ke saldo saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3131f8ac-d570-4635-8821-446164373a91",
+    "data": [
+      {
+        "text": "kalau di kupon syarat dan ketentuan ada tertulis tidak bisa pakai virtual account lainnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1c14432d-7e3f-4fe5-a879-45eae1b7c56a",
+    "data": [
+      {
+        "text": "Tp kok kupon nya tidak bisa dipakai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "37ae142a-b239-40fe-ab35-2a5c99b8f0b0",
+    "data": [
+      {
+        "text": "kenapa kupon gratis ongkir saya  tidak bisa dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "24a0c8e9-3aac-4bbf-b7b2-88a1cb758800",
+    "data": [
+      {
+        "text": "saya order dan mau pakai kupon gratis ongkir tp tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "45b39826-3818-45bb-885e-5d1edcad429c",
+    "data": [
+      {
+        "text": "Logistics_Berat_Barang_Tidak_Sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "62e7d5a6-425a-47f5-8554-787e651e1032",
+    "data": [
+      {
+        "text": "Ketika saya mau chekout ada keterangan kupon ini hanya berlaku untuk exclude jne dan tiki",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dacdb0a9-eeb4-47ab-8ab9-24888009ca3a",
+    "data": [
+      {
+        "text": "kenapa saya sudah memasukkan voucher gratis ongkir, tapi tetap kena biaya ongkir dan sudah terbayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f04f9a7b-0c1d-4965-bbd9-7a41706c4f72",
+    "data": [
+      {
+        "text": "pakai kupon cashback 100rb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9af22d5b-3a28-41a0-b88d-6b00dd9ec7e6",
+    "data": [
+      {
+        "text": "saya ada memilih voucher kfc dengan tukar poin. bagaimana cara penggunaan vouc tsb?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "513bd916-f7b0-4bc5-a903-68e8ca46c430",
+    "data": [
+      {
+        "text": "sore saya dapat kupon dari telkomsel poin tapi tidak dpat digunakan, ke “ kupon digunakan pada waktu yg telah ditentukan” padahal kupon berlaku sampe 20 nov",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "09ee6c88-2cba-482b-a42c-69cb533c713a",
+    "data": [
+      {
+        "text": "Tertulis akun saya sudah melebihi batas penggunaan kupon padahal saya belum bertransaksi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "797c6c98-0547-4f60-9535-babf8e552330",
+    "data": [
+      {
+        "text": "kupon saya kenapa gak bs digunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f104ff5a-9acd-45e3-b87f-a8054ef9d9ba",
+    "data": [
+      {
+        "text": "setiap mau transaksi beli barang kupon freeong saya kenapa tdk dpt dipakai ya,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a86ac136-3db4-4c37-8729-4eb9bc1703a8",
+    "data": [
+      {
+        "text": "saya hendak menggunakan voucher promo utk belanja, tapi ada keterangan invalid. kenapa saya tidak bisa menggunakan voucher ini?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9f8205ae-d128-4ee4-8b1d-1cc912e65424",
+    "data": [
+      {
+        "text": "Saya tadi sudah tukarkan voucher promo free ongkir 20rb. Tapi wkt checout kok ga berkurang total ongkir belanjaan saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ff50091f-16da-428c-8c03-95684f9a7568",
+    "data": [
+      {
+        "text": "Sy hendak menggunakan kupon tp tidak bisa. ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e2ceaafc-d073-4e6e-ae78-f07c6a32e176",
+    "data": [
+      {
+        "text": "upon saya tidak bisa digunakan padahal sudah memenuhi syarat dan ketentuan di kupon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "09028db3-9773-4c0e-9c84-627b26b5b3d3",
+    "data": [
+      {
+        "text": "akun anda sudah melebihi batas pemakaian kupon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "24004a8e-b8b1-4f29-8a7c-ac62df68a1b5",
+    "data": [
+      {
+        "text": "kupon diskon cashback 50rb saya tidak bs dipakai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0fca5bdf-2973-4c66-bb1b-fc7f72791f6f",
+    "data": [
+      {
+        "text": "kenapa saya tidak bisa menggunakan kupon promo ongkos kirim yg menggunakan layanan j\u0026t",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "19aa462f-3b06-4b1a-97b1-b34cf99a79ce",
+    "data": [
+      {
+        "text": "tidak dapat menggunakan kupon gratis ongkir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2d7d4a1e-4bf4-4102-b39b-4019f3f14831",
+    "data": [
+      {
+        "text": "sy tdk bisa mgunakan kupon sy. notifnya shipment address empty object",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "20a18d14-96f9-481f-876e-520f4aacacf5",
+    "data": [
+      {
+        "text": "saya tidak bisa pakai kupon gratis ongkir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c778f974-0da5-4f3b-b82a-89d7bd83a77b",
+    "data": [
+      {
+        "text": "barusan tuker poin ke kupon. tapi kupon mau di gunakan gak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fa0a95b6-9e41-469a-8eec-6bcb6731ea6a",
+    "data": [
+      {
+        "text": "kupon cashback kenapa gak bsa dipakai? saya udah tukar poin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c09dd233-6a0f-429f-896e-46d709b8cb08",
+    "data": [
+      {
+        "text": "kupon invalid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8b79c71c-50f6-45ef-bbbf-fa99e1ef03a2",
+    "data": [
+      {
+        "text": "kupon saya tidak terbaca?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c0a166c1-59aa-433d-80a9-11e095f3b236",
+    "data": [
+      {
+        "text": "kupon saya invalid code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8763ddd5-aff4-42d6-88c8-26a3c78dbccd",
+    "data": [
+      {
+        "text": "kupon milikkkkk sayaaaaaaaa tidakkkkkkk bisaaaaaa dipakeeeeeeeee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3016f347-6025-4ee3-935c-908ca4fbd2b6",
+    "data": [
+      {
+        "text": "kupon not valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d411b277-8ffd-4093-a692-5c555d33a98a",
+    "data": [
+      {
+        "text": "tp pas pembayaran kupon tidak berfungsi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a9d08ccb-e11b-47a8-b624-4d8876758f46",
+    "data": [
+      {
+        "text": "saya tadi saya sempat lapor karena tidak bisa pakai kupon cashback",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2e639f87-d68c-4c4c-a6f0-89b02ad8a4f3",
+    "data": [
+      {
+        "text": "kupon pembayaran online tidak bisa digunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cba55ecb-08d9-4052-bf86-e4c4aad247c8",
+    "data": [
+      {
+        "text": "saya ingin mengunakan vocer gratis ongkir tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "81bd271d-b94e-4bce-8e98-6b871ef4bcbb",
+    "data": [
+      {
+        "text": "keluar tampilan gratis ongkir 25rb pasa belanja berikutnya saya belanja saya mau checkout bayar, tapi di detail pembayaran masih ada biaya ongkir tolong dibantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8154a836-cbee-443b-bcff-b9dfc84b1104",
+    "data": [
+      {
+        "text": "kupon gratis ongkir gak berlaku, gimana solusi nya ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1a9ba987-3b79-4d29-8c9d-8bd830e2016c",
+    "data": [
+      {
+        "text": "Kenapa Vocuher Cashback saya tidak bisa di gunakan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2a19632b-ed84-4851-ab0e-195980dc5127",
+    "data": [
+      {
+        "text": "kupon saya tdk dapat digunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e361364c-c220-4dc2-bb15-7c4c1c2ad8fb",
+    "data": [
+      {
+        "text": "Tidak bisa menggunakan kupon free ongkir jasa jne reg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a1dc9e5c-39dd-451a-af78-c9a9faf3af04",
+    "data": [
+      {
+        "text": "Saya menukarkan tpoint untuk pembelian aukey pb n42 tapi kenapa tidak bisa saya gunakan kuponnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "eea6d322-b44a-4bef-93df-7826ffc32eec",
+    "data": [
+      {
+        "text": "saat pembayaran sdh terverifikasi dan saya cek kupon saya ternyata masih ada dan belum digunakan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8342243e-6d24-485c-abf1-0c2946c37dc6",
+    "data": [
+      {
+        "text": "maaf gan saya mau tanya saya mau pakai kupon untuk pembelian ko ga bisa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "23ecebe4-102a-471f-bb24-2b8f9696e521",
+    "data": [
+      {
+        "text": "saya mau berbelanja menggunakan voucher cashback.tapii, pada saat sy klikvoucher trsbt tdk bs d gunakanpadahal blm sy pakai sm skalimhon bantuannya. trims",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "eff9ffba-31f7-4266-abc7-1db3a3d968b4",
+    "data": [
+      {
+        "text": " setelah dapat kode vouchernya ga bisa redeem ke toko cash",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a84c5065-a1c0-43c6-8b34-eae26e81cb42",
+    "data": [
+      {
+        "text": "Saya pake voucher yang gratis ongkir potongan 20 ribu setelah saya bayar ko harga normal tidak ada potongan sama sekali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4762130c-8330-459a-a2a3-872d8b5db316",
+    "data": [
+      {
+        "text": "saya melakukan transaksi dengan mengunakan kupon dari toped tapi kok ada balasan kupon tidak valid kak knp?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "be7f0111-5f91-477c-a509-4fff33038326",
+    "data": [
+      {
+        "text": "tidak bisa menggunakan kupon saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f2f164d9-4027-412c-8f1a-3899e382160a",
+    "data": [
+      {
+        "text": "Kupon error gabisa dipakai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "aa827b09-f1fd-4179-8c8c-bb678802cbdf",
+    "data": [
+      {
+        "text": "kuponnya apa emang udah tidak bisa di pakai ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f62ad8e9-91db-4039-9667-57be45baf925",
+    "data": [
+      {
+        "text": "mengapa saat akan melakukan pembayaran di deals, kupon tidak muncul? padahal sdg ada di kupon milik saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f59a283b-a970-4441-9820-3dc50598efd4",
+    "data": [
+      {
+        "text": "kupon cashback saya tidak muncul setelah saya menukarkan point saya, point sudah terpotong, mohon bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "12756042-9685-46a6-a4d9-ccbbd88bdb00",
+    "data": [
+      {
+        "text": "kupon promo tidak dapat digunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "77079f7e-fae5-406b-9715-42e1a5bbc722",
+    "data": [
+      {
+        "text": "akun saya tidak bisa menggunakan kode kupon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "09cfca0a-e56e-49e3-9951-20b2a83233a4",
+    "data": [
+      {
+        "text": "saya membeli kupon grab seharga 15 ribu, tetapi tidak bisa dipakai di Surabaya, padahal tidak ada syarat dan ketentuan bahwa hanya berlaku di Jabodetabek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8dd60773-1391-4fee-9ab3-8962fec1f9b2",
+    "data": [
+      {
+        "text": "Saya tidak dapat menggunakan kupon cashbak 10% untuk tagihan listrik. Mengapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2ce3b74b-02e1-417b-be07-6710bab8253d",
+    "data": [
+      {
+        "text": "kenapa kupon promo saya tidak dapat di gunakan semua?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "03e2be44-b410-47af-9bba-3e7d433f82fd",
+    "data": [
+      {
+        "text": "saya ingin konfirmasi tidak dapat menggunakan voucher cashback",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5c70436a-8e8f-446a-8462-ddbc2b8bb731",
+    "data": [
+      {
+        "text": "saya sudah tukar point dengan potongan agoda, tp kupon gak bisa digunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e20e70de-943b-4752-b588-14f429debb0f",
+    "data": [
+      {
+        "text": "saya udah tukar point di toko point, tp tdk bisa digunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fe37c0f9-be90-4a32-9479-718ed27cca4d",
+    "data": [
+      {
+        "text": "kak toped kok kupon cash back 175rb buat tgl 20 des baru saya dapat kok hilang ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "599bfb7f-6d5f-4029-a530-ff06e3184073",
+    "data": [
+      {
+        "text": "kenapa kupon yang di dapat dari lucky egg tidak muncul di halaman kupon saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "eca8b2ee-08af-45ed-93e0-7c079f62ae4b",
+    "data": [
+      {
+        "text": "kupon ongkir di klik tidak ada notifikasi bagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f7ce7fe5-0329-4c30-9a9c-bc3180ef08b7",
+    "data": [
+      {
+        "text": "kupon tidak bisa d gunakan AUKEY PB-N42 diskon 50%. produk habis mksh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3ea66311-344a-4132-a49c-c073a6cbbb0b",
+    "data": [
+      {
+        "text": "Min, ane ga bs pake kupon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "690e1fe7-2782-435d-9b0f-9134935a7c95",
+    "data": [
+      {
+        "text": "belanja pakai kupo. gratis ongkir .tapi tdk bs dgunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6d5bda7a-690b-4a34-8e2f-e171fd041c7d",
+    "data": [
+      {
+        "text": "Kupon ini tidak bisa digunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "44381405-6d7d-4990-a6e2-bbf22204f6df",
+    "data": [
+      {
+        "text": "Kupon undian tidak ada padahal susah di beli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "23475cf6-b4f9-4fb5-b406-83b4e7e79a6b",
+    "data": [
+      {
+        "text": "Saya tidak menggunakan kupon gratis ongkir saya padahal sudah mencapai minimal pembelian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7af3b91b-524b-45db-a154-1d051f6b961c",
+    "data": [
+      {
+        "text": "Kupon ga bisa digunakan. Kenapa ini?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

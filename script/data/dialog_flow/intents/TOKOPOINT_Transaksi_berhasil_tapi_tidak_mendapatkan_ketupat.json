@@ -1,0 +1,38 @@
+{
+  "id": "9413a6be-1e59-431f-b086-229dfc670fe6",
+  "name": "TOKOPOINT_Transaksi_berhasil_tapi_tidak_mendapatkan_ketupat",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetInvoiceList",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Transaksi_berhasil_tapi_tidak_mendapatkan_lucky_egg-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh kasih tahu Toped, invoice mana yang kamu maksud?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "tokopoint_transaksi_berhasil_tapi_tidak_mendapatkan_ketupat"
+    }
+  ]
+}

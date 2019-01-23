@@ -1,0 +1,40 @@
+{
+  "id": "8fe5ab4b-c086-4050-9246-e21676d349b3",
+  "name": "smalltalk.greetings.eating",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d96f5e31-2198-4c59-b003-ae897c0c40ed",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped sudah makan dong, kamu jangan lupa makan ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "smalltalk_greetings_eating"
+    }
+  ]
+}

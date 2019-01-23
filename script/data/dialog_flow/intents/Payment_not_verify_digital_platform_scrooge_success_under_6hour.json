@@ -1,0 +1,43 @@
+{
+  "id": "d2cd2869-e5eb-4bba-ad7f-78fd6b4fa6e8",
+  "parentId": "80f0319b-ebc7-4f00-accf-dfabefecc94a",
+  "rootParentId": "7702a921-0bc2-479f-9cd3-aade8103768a",
+  "name": "Payment_not_verify_digital_platform_scrooge_success_under_6hour",
+  "auto": true,
+  "contexts": [
+    "Payment_not_verify_digital_platform_waiting_payment_scrooge_success-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ResyncOrder",
+      "affectedContexts": [
+        {
+          "name": "Payment_not_verify_digital_platform_scrooge_success_under_6hour-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531212463,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "less_than_6_hour"
+    }
+  ]
+}

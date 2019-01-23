@@ -1,0 +1,48 @@
+{
+  "id": "c39fb133-74a0-48aa-97da-3b493107f3f3",
+  "parentId": "b646e0ad-cefb-4274-991b-75623cea6ab9",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_select_invoice_refund_status_success",
+  "auto": false,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_select_invoice_refund_not_null-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetRefundNotesFromRefundList",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_select_invoice_refund_status_success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika kamu pakai Kartu Kredit, butuh 14 hari kerja sampai dana kamu berhasil dikembalikan ke dalam limit."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pengembalian dana kamu sudah berhasil Toped proses ya. Berikut informasi pengembalian dananya :"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534129935,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "refund_status_success"
+    }
+  ]
+}

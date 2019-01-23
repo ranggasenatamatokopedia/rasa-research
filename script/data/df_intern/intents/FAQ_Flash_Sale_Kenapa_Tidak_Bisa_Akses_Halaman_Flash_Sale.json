@@ -1,0 +1,42 @@
+{
+  "id": "54fb543a-bf05-42e8-83b8-dde77d004826",
+  "name": "FAQ_Flash_Sale_Kenapa_Tidak_Bisa_Akses_Halaman_Flash_Sale",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flash_Sale_Kenapa_Tidak_Bisa_Akses_Halaman_Flash_Sale-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pastikan hal-hal berikut ini agar kamu bisa akses laman Flash Sale dengan baik ya:\n\n1. Koneksi internet kamu lancar dan stabil\n2. Kamu sudah update aplikasi Tokopedia versi terbaru\n3. Perangkat Android/iOS yang kamu gunakan mendukung"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau masih ada kendala, kamu bisa tanyakan lebih lanjut di !TKPD_URL_CONTACTUS_SUBMIT!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_flash_sale_kenapa_tidak_bisa_akses_halaman_flash_sale"
+    }
+  ]
+}

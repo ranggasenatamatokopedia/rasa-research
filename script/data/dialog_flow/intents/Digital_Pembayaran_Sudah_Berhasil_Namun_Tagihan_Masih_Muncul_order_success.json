@@ -1,0 +1,49 @@
+{
+  "id": "f2458716-e998-4d5d-bcf5-275f42e738e5",
+  "parentId": "8b51d836-9060-4193-93cc-6392c737598b",
+  "rootParentId": "440cef8c-a263-47ad-b658-e035da03a8e0",
+  "name": "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_order_success",
+  "auto": false,
+  "contexts": [
+    "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_select_inv-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetCategoryDigitalProduct",
+      "affectedContexts": [
+        {
+          "name": "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_order_success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534217766,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_success"
+    },
+    {
+      "name": "invoice_to_be_settled"
+    },
+    {
+      "name": "invoice_settled"
+    }
+  ]
+}

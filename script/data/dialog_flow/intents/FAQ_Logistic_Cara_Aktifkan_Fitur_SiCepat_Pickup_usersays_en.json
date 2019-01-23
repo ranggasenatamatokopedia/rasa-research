@@ -1,0 +1,559 @@
+[
+  {
+    "id": "14f5353a-705f-40b9-9525-3942193fcf50",
+    "data": [
+      {
+        "text": "kalo saya mau aktifin ",
+        "userDefined": false
+      },
+      {
+        "text": "si cepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " caranya gimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ab7941df-ea2b-43cd-a700-a14e42d80f56",
+    "data": [
+      {
+        "text": "cara aktifkan ",
+        "userDefined": false
+      },
+      {
+        "text": "si cepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fa245848-2381-4110-a2de-253f6e7f3eb5",
+    "data": [
+      {
+        "text": "aktifasi ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "10624068-bc7f-4b65-bc50-91b81f58a5de",
+    "data": [
+      {
+        "text": "aktivasi ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4393928e-d02b-4a27-a679-ed1241b1cea5",
+    "data": [
+      {
+        "text": "tolong aktivasi ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ac99f96f-d1f0-4d24-a509-1060969ee918",
+    "data": [
+      {
+        "text": "saya mau aktifin ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b4bd31c7-8769-49a8-8731-c10b2ad715ea",
+    "data": [
+      {
+        "text": "gimana caranya biar bisa ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "538512c4-77fd-438f-bb4a-c620fb9f8fd1",
+    "data": [
+      {
+        "text": "mohon bantu aktifkan ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5f4ce45e-75e3-462c-b7c7-0792e866e5ed",
+    "data": [
+      {
+        "text": "aktifin ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "58cf80d8-80d8-4617-a544-42ea81e7c4b8",
+    "data": [
+      {
+        "text": "gimana ya biar ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya aktif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3a16900c-b8b4-4496-94e4-b6f758ad9225",
+    "data": [
+      {
+        "text": "aktifkan ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2e6c5ae7-72e5-45bb-82d5-ff91d29175e3",
+    "data": [
+      {
+        "text": "cara biar ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "27c821b8-8ff7-4a76-9418-ea8def293445",
+    "data": [
+      {
+        "text": "gimana cara biar ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya aktif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8b449b00-6001-4283-9d59-b30ab0a2cf8e",
+    "data": [
+      {
+        "text": "aktifin ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d0d829b5-9950-4758-9306-4a2a2296e3ea",
+    "data": [
+      {
+        "text": "cara aktifkan kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "96e9194a-52d3-4a96-99f3-a8ca6d80c0c3",
+    "data": [
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gimana cara aktifinnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "21a7fdf9-5505-49f1-870c-c4177009a02b",
+    "data": [
+      {
+        "text": "mohon informasi cara aktifkan ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "23dcdaba-9ef2-44f5-8a2b-3487358762df",
+    "data": [
+      {
+        "text": "gimana cara aktifkan ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cef07bbf-6866-4e33-bc1e-3b582250b4e4",
+    "data": [
+      {
+        "text": "cara mengaktifkan kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "be22df71-a42a-4a4b-b68d-6f123f57eb8b",
+    "data": [
+      {
+        "text": "bagaimana cara aktifkan ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8c6a40b8-43e4-44bc-b8e6-8e1a5528cc13",
+    "data": [
+      {
+        "text": "cara aktifkan ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

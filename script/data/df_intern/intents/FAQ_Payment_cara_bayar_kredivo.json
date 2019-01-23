@@ -1,0 +1,43 @@
+{
+  "id": "463de13d-9cb9-407e-95e7-dae6244155df",
+  "parentId": "bc8f4622-0f27-4009-a4cd-f030fe0388ae",
+  "rootParentId": "bc8f4622-0f27-4009-a4cd-f030fe0388ae",
+  "name": "FAQ_Payment_cara_bayar_kredivo",
+  "auto": true,
+  "contexts": [
+    "FAQ_Payment_cara_bayar-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Payment_cara_bayar_kredivo-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut langkah-langkah apabila kamu mau melakukan pembayaran dengan Kredivo:\n\n1. Pastikan kamu memiliki akun Kredivo sebelum checkout\n2. Klik beli pada barang yang dipilih.\n3. Pilih Bayar untuk melanjutkan ke halaman Keranjang Belanja.\n4. Pilih metode pembayaran Kredivo, lalu klik Checkout.\n5. Kamu akan langsung diarahkan ke halaman Kredivo dengan rincian pesanan Kakak. Pilih Login untuk melanjutkan. Masukkan nomor handphone dan PIN Kredivo kamu.\n6. Masukkan kode OTP yang akan dikirimkan sistem melalui SMS ke nomor handphone kamu, klik Konfirmasi OTP, dan transaksi pun selesai"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535006637,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "kredivo"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "158d0bd3-4bd4-4195-b3a9-1b94b230fc85",
+  "parentId": "ac27f987-10da-4579-826b-fdb70eef3ed6",
+  "rootParentId": "ac27f987-10da-4579-826b-fdb70eef3ed6",
+  "name": "TOKOPOINT_Tidak_bisa_menggunakan_kupon_notif_kupon_pilihan_tdk_muncul",
+  "auto": false,
+  "contexts": [
+    "TOKOPOINT_Tidak_bisa_menggunakan_kupon-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Tidak_bisa_menggunakan_kupon_notif_kupon_pilihan_tdk_muncul-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai, untuk pilihan yang muncul pada halaman pembelian, hanya kupon yang sesuai dengan produk/platform yang ingin kamu beli dan statusnya belum kedaluwarsa ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Selain itu kamu bisa pastikan beberapa hal berikut ini:\n\n1. Produk/platform yang dipilih sudah sesuai\n2. Kupon belum expired\n3. Kupon masih ada di halaman \"Kupon Saya\""
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon lampirkan screenshot kupon yang ingin kamu gunakan ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523499223,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "notifikasi_kupon_pilihan_tidak_muncul"
+    }
+  ]
+}

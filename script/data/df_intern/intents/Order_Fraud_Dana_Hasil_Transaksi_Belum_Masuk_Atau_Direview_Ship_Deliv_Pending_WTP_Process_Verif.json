@@ -1,0 +1,61 @@
+{
+  "id": "34d5deb8-cd19-4e4a-ab50-bc7888a5401b",
+  "parentId": "a3f93717-8a6e-4497-9d8d-814813138d52",
+  "rootParentId": "423ba23e-4ef9-436a-8828-c784ffb30629",
+  "name": "Order_Fraud_Dana_Hasil_Transaksi_Belum_Masuk_Atau_Direview_Ship_Deliv_Pending_WTP_Process_Verif",
+  "auto": false,
+  "contexts": [
+    "Order_Fraud_Dana_Hasil_Transaksi_Belum_Masuk_Atau_Direview_Ya_Select_MP-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Order_Fraud_Dana_Hasil_Transaksi_Belum_Masuk_Atau_Direview_Ship_Deliv_Pending_WTP_Process_Verif-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah Toped cek, invoice yang kamu pilih statusnya belum selesai. Mohon pastikan kembali invoice yang kamu maksud ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532085418,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_pending"
+    },
+    {
+      "name": "invoice_waiting_third_party"
+    },
+    {
+      "name": "invoice_verified"
+    },
+    {
+      "name": "invoice_process"
+    },
+    {
+      "name": "invoice_shipping"
+    },
+    {
+      "name": "invoice_delivered"
+    },
+    {
+      "name": "invoice_resolution"
+    }
+  ]
+}

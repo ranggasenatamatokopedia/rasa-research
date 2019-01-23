@@ -1,0 +1,44 @@
+{
+  "id": "63a8626c-9939-44ba-ba4e-1c41edfdbb72",
+  "parentId": "707a5daa-336c-433e-98b5-dc821edd6622",
+  "rootParentId": "90b4ed65-34d8-4fd4-a8f8-c87e563d6528",
+  "name": "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_membership_grtsongkir",
+  "auto": true,
+  "contexts": [
+    "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_Kupon_Tidak_Sesuai_MPOS-followup",
+    "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_MPOS-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckVoucherAmountAndStatusOrder",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_membership_grtsongkir-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kami cek dulu ya, Kak."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523436462,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "gratis_ongkir_vouc_order"
+    }
+  ]
+}

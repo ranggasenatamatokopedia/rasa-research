@@ -1,0 +1,101 @@
+[
+  {
+    "id": "214f5ae5-2b87-473d-8dad-b7505980cb49",
+    "data": [
+      {
+        "text": "kedua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d0ae6e72-8df5-4c9b-b7b1-0b5a07efde47",
+    "data": [
+      {
+        "text": "dua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "68f3880a-f2d0-41f1-a924-22a43a3f46f6",
+    "data": [
+      {
+        "text": "cashback toko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5b5a5f82-515c-468b-a643-de9df6439b08",
+    "data": [
+      {
+        "text": "cashback merchant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "028cd604-cae8-4a00-a360-5a4eb12ab559",
+    "data": [
+      {
+        "text": "toko / merchant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "af05e2c9-2547-46e5-b2b2-c4a23f12fc29",
+    "data": [
+      {
+        "text": "2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "214ad077-93c6-4edc-a4ef-4759b5962d29",
+    "data": [
+      {
+        "text": "benefit_cashback_toko_merchant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "20278920-ac84-4035-a114-e72e3d257ac6",
+    "data": [
+      {
+        "text": "two",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "91822068-6006-4b31-8df3-4dd2d3d55b81",
+    "data": [
+      {
+        "text": "cashback toko / merchant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

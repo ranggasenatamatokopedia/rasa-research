@@ -1,0 +1,39 @@
+{
+  "id": "9b3ca3a8-5392-425a-a3c1-911387353307",
+  "parentId": "1538cd2f-a120-4f0f-9f05-6d640ee2b5e5",
+  "rootParentId": "c230094b-7dd5-43f4-984b-d415098c4e53",
+  "name": "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_nomor_PBB_except_JKT_DPK",
+  "auto": false,
+  "contexts": [
+    "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_nomor_yang_Anda_masukkan_salah_PBB-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_nomor_PBB_except_JKT_DPK-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Saat ini pembayaran PBB masih terbatas yaitu di wilayah DKI Jakarta dan Kota Depok saja"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535962602,
+  "fallbackIntent": false,
+  "events": []
+}

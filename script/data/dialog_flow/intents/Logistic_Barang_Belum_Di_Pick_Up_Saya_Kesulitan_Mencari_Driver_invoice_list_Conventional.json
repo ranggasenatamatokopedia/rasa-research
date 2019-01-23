@@ -1,0 +1,43 @@
+{
+  "id": "b5e38abf-2fc3-40e1-9b0e-6c7cceac5c9d",
+  "parentId": "dd939fca-213a-48f2-91a4-56bdf4cc6c42",
+  "rootParentId": "debdb44e-b23a-4c52-8626-59514944fd55",
+  "name": "Logistic_Barang_Belum_Di_Pick_Up_Saya_Kesulitan_Mencari_Driver_invoice_list_Conventional",
+  "auto": true,
+  "contexts": [
+    "Logistic_Barang_Belum_Di_Pick_Up_Saya_Kesulitan_Mencari_Driver_invoice_list-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Belum_Di_Pick_Up_Saya_Kesulitan_Mencari_Driver_invoice_list_Conventional-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek kurir yang kamu gunakan adalah kurir dengan sistem Reguler. Boleh pilih invoice dengan kurir Pick Up, ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513040943,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "courier_type_is_conventional"
+    }
+  ]
+}

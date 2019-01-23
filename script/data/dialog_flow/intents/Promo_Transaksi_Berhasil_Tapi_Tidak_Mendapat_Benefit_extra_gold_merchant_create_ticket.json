@@ -1,0 +1,50 @@
+{
+  "id": "52840af9-fc81-40c8-9767-093c8a79f9a1",
+  "parentId": "b0436ece-88ed-4752-9cf0-3244b4ebd428",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Transaksi_Berhasil_Tapi_Tidak_Mendapat_Benefit_extra_gold_merchant_create_ticket",
+  "auto": false,
+  "contexts": [
+    "Promo_Transaksi_Berhasil_Tapi_Tidak_Mendapat_Benefit_extra_gold_merchant_pilih_invoice-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4a654f55-6355-44e1-9817-bb1fecad2135",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1082"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon menunggu sebentar ya, Kak :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped coba bantu buatkan tiketnya ya, Kak."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523281529,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "select_invoice"
+    }
+  ]
+}

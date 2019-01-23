@@ -1,0 +1,48 @@
+{
+  "id": "4f080dc1-41bc-4449-93b7-8d54bb6b044a",
+  "parentId": "bec93768-1905-4fb5-88ed-7daccc0231f6",
+  "rootParentId": "99a48618-b9ce-4053-a781-474e5404f8ad",
+  "name": "Refund_Penarikan_dana_belum_masuk_BCA_Mandiri_BRI_BNI_CIMB_not_breach",
+  "auto": false,
+  "contexts": [
+    "Refund_Penarikan_dana_belum_masuk_BCA_Mandiri_BRI_BNI_CIMB-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Refund_Penarikan_dana_belum_masuk_BCA_Mandiri_BRI_BNI_CIMB_not_breach-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon tunggu dulu ya. Untuk proses penarikan dana membutuhkan waktu 1x24 jam"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Karena hari Sabtu/Minggu/Libur bank tidak beroperasi, jadi penarikan dana akan diproses di hari kerja berikutnya oleh bank yang bersangkutan."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513040943,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "less_than_1_day"
+    }
+  ]
+}

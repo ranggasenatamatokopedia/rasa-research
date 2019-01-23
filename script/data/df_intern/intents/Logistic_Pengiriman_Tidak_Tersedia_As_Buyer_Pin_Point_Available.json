@@ -1,0 +1,43 @@
+{
+  "id": "c10b0899-51ac-49a0-a576-c55898db7a10",
+  "parentId": "1a3a3682-5850-42e8-956b-aae52e870ee2",
+  "rootParentId": "e1fd67c7-5a72-4184-9a6c-bda4c6e61524",
+  "name": "Logistic_Pengiriman_Tidak_Tersedia_As_Buyer_Pin_Point_Available",
+  "auto": true,
+  "contexts": [
+    "Logistic_Pengiriman_Tidak_Tersedia_As_Buyer_Address_Product_Pick_Up-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ShowAllInstantCourier",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Pengiriman_Tidak_Tersedia_As_Buyer_Pin_Point_Available-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534319175,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "Pin_point_is_available"
+    }
+  ]
+}

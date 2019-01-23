@@ -1,0 +1,41 @@
+{
+  "id": "244e7f34-8a2f-41db-aeff-30ac034021fb",
+  "name": "FAQ_OVO_Apa_itu_OVO_Points",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "OVO Points adalah loyalty rewards yang diperoleh pengguna OVO setiap melakukan transaksi di Tokopedia dan berbagai merchant rekanan OVO. OVO Points dapat langsung kamu tukarkan dengan berbagai penawaran menarik atau melakukan transaksi di Tokopedia dan merchant rekanan OVO."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mengingat sekarang TokoCash sudah digantikan oleh OVO, maka setiap Cashback yang kamu peroleh, akan otomatis masuk ke OVO Points, ya!"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Namun, OVO Points tidak dapat digunakan untuk pembayaran tagihan kartu kredit dan tiket."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_ovo_apa_itu_ovo_points"
+    }
+  ]
+}

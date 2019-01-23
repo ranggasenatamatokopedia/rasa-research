@@ -1,0 +1,27 @@
+{
+  "id": "8c124147-ef3c-42ab-89e7-4f8c9cb7fa45",
+  "name": "FAQ_Promo_KEBUT_Syarat_Ketentuan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Karena KEBUT berisi banyak sekali promo, syarat dan ketentuannya pun beragam. Untuk memastikan syarat dan ketentuan dari promo yang kamu ikuti, selengkapnya bisa di cek !TKPD_URL_KEBUT!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

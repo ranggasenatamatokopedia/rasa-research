@@ -1,0 +1,42 @@
+{
+  "id": "c14fb686-a13f-4c50-9fbc-56f67a42ec64",
+  "name": "FAQ_OVO_cara_Topup_OVO",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut langkah-langkahnya, ya:"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "1. Silakan buka Apps Tokopedia atau www.tokopedia.com\n2. Di halaman utama, kamu akan melihat \u0027Payment \u0026 Top Up\u0027 klik Lihat Semua hingga kamu melihat Top up untuk OVO\n3. Kamu dapat pilih Nominal yang ingin kamu Top up. Jika sudah, klik \u0027Beli\u0027.\n4. Klik \u0027Lanjut\u0027, lalu silakan pilih metode pembayaran yang kamu inginkan."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Maksimal Topup untuk OVO Premier itu, Rp10.000.000 ya. Yuk Topup OVO Cash kamu untuk berbelanja!"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sedangkan OVO Club, maksimal Top up nya Rp2.000.000, ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

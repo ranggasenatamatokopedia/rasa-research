@@ -1,0 +1,45 @@
+{
+  "id": "97b8dee9-c18a-464e-81ff-25eed5cf59ac",
+  "name": "Fraud_Saldo_Tokopedia_atau_TokoCash_Digunakan_Pihak_Lain",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Saldo_Tokopedia_atau_TokoCash_Digunakan_Pihak_Lain-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Bisa informasikan ke Toped Saldo apa yang berkendala?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Saldo Tokopedia",
+              "Saldo OVO Points atau OVO Cash"
+            ],
+            "type": 1
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

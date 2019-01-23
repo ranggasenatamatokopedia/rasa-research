@@ -1,0 +1,73 @@
+[
+  {
+    "id": "07eff8e9-ee76-409f-bc58-ccc7f71486d3",
+    "data": [
+      {
+        "text": "case_status_invalid_awb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2c24ccfc-3213-4c92-a19c-d7f9a7f190fe",
+    "data": [
+      {
+        "text": "case_status_active",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ef9c730b-375d-4b1c-a075-0e2e1f2ae82e",
+    "data": [
+      {
+        "text": "case_status_awb_retry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aa9f3309-550d-430e-863f-10eb95399eb8",
+    "data": [
+      {
+        "text": "case_status_hold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "39f2da32-2bd0-46de-be38-eebf15d35df1",
+    "data": [
+      {
+        "text": "review",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6dfa561a-08d8-4b98-acc8-51097be6c6b6",
+    "data": [
+      {
+        "text": "review ",
+        "userDefined": false
+      },
+      {
+        "text": "1x24",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

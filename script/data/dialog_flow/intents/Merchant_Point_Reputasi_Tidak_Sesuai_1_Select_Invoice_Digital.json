@@ -1,0 +1,43 @@
+{
+  "id": "7e12e2f8-f9d6-42f7-a5fb-8d594e987d78",
+  "parentId": "812d683e-d291-49f0-b5b2-30ae920ce255",
+  "rootParentId": "cf17fcc0-2998-4ff8-8cf4-6a1ca0e60443",
+  "name": "Merchant_Point_Reputasi_Tidak_Sesuai_1_Select_Invoice_Digital",
+  "auto": false,
+  "contexts": [
+    "Merchant_Point_Reputasi_Tidak_Sesuai_1_Select_Invoice-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Point_Reputasi_Tidak_Sesuai_1_Select_Invoice_Digital-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Penilaian reputasi tidak berlaku untuk transaksi digital ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536552348,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_digital_KAI"
+    }
+  ]
+}

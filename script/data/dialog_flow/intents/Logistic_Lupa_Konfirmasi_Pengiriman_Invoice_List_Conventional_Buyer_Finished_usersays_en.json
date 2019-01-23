@@ -1,0 +1,46 @@
+[
+  {
+    "id": "a9b4044c-63c9-4f7b-9631-fb5ce27ad1e7",
+    "data": [
+      {
+        "text": "finished",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9d49160c-a6d4-47d2-9168-196ea2629054",
+    "data": [
+      {
+        "text": "finish",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ef9227f3-12a5-44b5-8140-f8cbd1e4fcb0",
+    "data": [
+      {
+        "text": "invoice_finished_refund_voucher",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d3b16b60-6cd5-4337-8c33-ec286dc9cc87",
+    "data": [
+      {
+        "text": "invoice_selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

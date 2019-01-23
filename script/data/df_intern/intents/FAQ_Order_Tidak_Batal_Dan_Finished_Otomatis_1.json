@@ -1,0 +1,39 @@
+{
+  "id": "6d5c3743-14f0-4613-b6a1-32c3dc85fa15",
+  "parentId": "d73eb916-a141-4d3e-ab63-cb227cdca4dd",
+  "rootParentId": "d73eb916-a141-4d3e-ab63-cb227cdca4dd",
+  "name": "FAQ_Order_Tidak_Batal_Dan_Finished_Otomatis_1",
+  "auto": false,
+  "contexts": [
+    "FAQ_Order_Tidak_Batal_Dan_Finished_Otomatis-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Order_Tidak_Batal_Dan_Finished_Otomatis_1-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa pastikan dulu beberapa hal di bawah ini ya:\n\n1. Apabila pesanan kamu Pre-Order, maka batas waktu proses order akan mengikuti waktu yang ditetapkan oleh Penjual.\n1. Jika kamu menggunakan pengiriman kurir Instant, maka batas waktu pengiriman adalah 24 jam. Sedangkan untuk kurir Reguler batas waktu pengiriman adalah 48 jam sejak order diverifikasi.\n2. Batas waktu konfirmasi pengiriman kurir reguler yang berakhir di hari Sabtu/Minggu/Libur Nasional, akan diperpanjang hingga hari kerja dan akan ada info tambahan berupa label “Extended”.\n\nSemoga informasi ini membantu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535687569,
+  "fallbackIntent": false,
+  "events": []
+}

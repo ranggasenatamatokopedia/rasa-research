@@ -1,0 +1,43 @@
+{
+  "id": "fd282d53-7c35-4f56-85ea-c14ac3b7bc07",
+  "parentId": "f7f2084a-8a6d-4d1d-89fc-a6648ecbb9a0",
+  "rootParentId": "d19f77a0-9fc1-4329-9b8c-1f9cb2ed3084",
+  "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Verified_Buyer",
+  "auto": true,
+  "contexts": [
+    "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Verified-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckSLABuyerVerifiedTime",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Verified_Buyer-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541158876,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "user_is_buyer"
+    }
+  ]
+}

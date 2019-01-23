@@ -1,0 +1,433 @@
+[
+  {
+    "id": "4d5c9d2a-4e91-479d-855d-9fb2f542692e",
+    "data": [
+      {
+        "text": "Kupon partner saya berapa lama expirednya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3f58f6e5-e7d3-4254-8207-001b93fabbae",
+    "data": [
+      {
+        "text": "Berapa lama ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " masa expired kupon partner saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ffd5fb67-f304-4c2e-a10a-4e9ccc227c0d",
+    "data": [
+      {
+        "text": "Sebelumnya saya udah tuker points saya jadi kupon partner, masa expirednya berapa lama ya min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eb7c280f-d8a9-47c8-bca5-cd23e28e0f0a",
+    "data": [
+      {
+        "text": "Saya udah tuker points saya jadi kupon partner, masa berlakunya berapa hari min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "43d64cf4-e442-4538-b6ac-b47e2b6dbec1",
+    "data": [
+      {
+        "text": "Kalo saya udah tuker tokopoints saya jadi kupon partner, masa berlakunya berapa lama ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "91863b29-9f1a-4a26-a229-cdbedbd3d807",
+    "data": [
+      {
+        "text": "Kupon partner saya expirednya berapa lama ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4d7de1cc-e548-48c1-86bf-274573a02547",
+    "data": [
+      {
+        "text": "Berapa lama expirednya kupon partner saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b741be15-0ce3-4308-8f6b-df31ddd16e4d",
+    "data": [
+      {
+        "text": "Masa berlaku kupon partner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9324aa94-18de-4c33-8944-eb7a710ef00d",
+    "data": [
+      {
+        "text": "Kupon partner saya masa berlakunya berapa lama?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c4e6b2fa-c2ea-4d97-adfd-2fb4f87cd9be",
+    "data": [
+      {
+        "text": "Masa berlaku kupon partner berapa lama?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "607cc4b7-39d4-422a-8143-823435fd0adb",
+    "data": [
+      {
+        "text": "Kupon partner itu masa berlakunya berapa lama?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7c534eb9-2881-4e69-8d3b-c5d0128fb5c2",
+    "data": [
+      {
+        "text": "Min, kupon partner saya berlaku berapa lama sejak saya beli ya min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0864a16e-e792-4491-bb85-f85fa87a1514",
+    "data": [
+      {
+        "text": "Kupon partner saya berlaku berapa lama ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d5b82d5c-f27c-4cb7-859e-493868093cb4",
+    "data": [
+      {
+        "text": "Kalo saya udah tuker points saya jadi kupon partner, berapa lama masa berlaku kupon partnernya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d18607e1-a597-42c8-a3d9-d81e0ac17b4a",
+    "data": [
+      {
+        "text": "saya udah tuker point saya, sampai kapan masa berlaku kupon tersebut min",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4148e8c4-ceb2-4fbf-b04a-6b922a86cf31",
+    "data": [
+      {
+        "text": "kalo saya udah berhasil tuker points saya, masa berlaku kupon itu berapa lama sejak saya tuket ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0f5de591-3160-4f0d-8913-1bdf2ff36461",
+    "data": [
+      {
+        "text": "saya sudah berhasil tuker point saya jadi kupon partner, masa berlaku nya berapa lama ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a8240d42-9d45-433a-a186-1fce51568b2c",
+    "data": [
+      {
+        "text": "masa berlaku kupon yg saya tukerin sampe kapan ya min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bf9b5d88-d343-4cff-aebc-540c1562a24a",
+    "data": [
+      {
+        "text": "saya udah tukerin points saya jadi kupon partner, masa berlaku kupon nya sampe kapan ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bcb2dcf7-fad5-4fc7-a638-26418bda1f95",
+    "data": [
+      {
+        "text": "kalo saya udah tuket points saya jadi kupon partner, berapa lama maksimal saya bisa pakenya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "22b162a1-f60b-4c2e-b3e7-bd42999bdbca",
+    "data": [
+      {
+        "text": "Saya udah nuker kupon dari points saya, masa berlakunya itu berapa lama ya min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c3a2c70d-02eb-43ae-af62-33608c9366b1",
+    "data": [
+      {
+        "text": "Masa berlaku kupon saya itu berapa lama ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sejak saya tukerkan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eb53bea4-4e88-4ea1-a9ce-c9ffba849e4f",
+    "data": [
+      {
+        "text": "Masa berlaku points saya berapa lama ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sejak saya tukerkan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a2575198-0770-4e68-ae08-5d0fad1c61f1",
+    "data": [
+      {
+        "text": "Masa berlaku kupon yang udah saya tukerkan berapa lama ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "517ea7fc-9019-49a0-8b93-988a971bd68e",
+    "data": [
+      {
+        "text": "Berapa lama ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " masa berlaku kupon yang sebelumnya sudah saya tukerkan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "caae0539-b9bd-4d45-8dea-d47aa15eca5a",
+    "data": [
+      {
+        "text": "Points saya udah saya tuker, terus masa berlaku kupon yang udah saya tuker itu berapa lama ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0aad8d39-c988-4663-90f4-0ec38d1aafc7",
+    "data": [
+      {
+        "text": "Saya sudah tuker points saya, masa berlakunya sampe kapan ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "22cd6071-5e30-44b9-af67-a87da42c80f4",
+    "data": [
+      {
+        "text": "sebelumnya saya sudah tuker points saya menjadi kupon partner, itu masa berlaku pemakaiannya berapa hari ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2ff365f2-ab5c-4a9a-b114-5e286ffd2a4d",
+    "data": [
+      {
+        "text": "saya udah tuker points saya jadi kupon partner, masa berlakunya sampai kapan ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6472f4e2-1a57-4f53-b6c5-138d0e326ca5",
+    "data": [
+      {
+        "text": "berapa lama masa berlaku kupon yang sebelumnya sudah saya tukarkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "80821c0c-abf8-4173-9542-74a1a210f180",
+    "data": [
+      {
+        "text": "berapa lama masa berlaku kupon yang sudah saya tukarkan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

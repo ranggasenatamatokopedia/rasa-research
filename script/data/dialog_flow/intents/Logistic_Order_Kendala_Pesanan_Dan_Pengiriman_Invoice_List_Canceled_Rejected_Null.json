@@ -1,0 +1,43 @@
+{
+  "id": "2f49081f-97ba-4728-8bb8-f8f7b9d30fc1",
+  "parentId": "87891be3-c2cb-4e2b-8b6e-3a632cf6af71",
+  "rootParentId": "d19f77a0-9fc1-4329-9b8c-1f9cb2ed3084",
+  "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Canceled_Rejected_Null",
+  "auto": true,
+  "contexts": [
+    "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Canceled_Rejected-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Canceled_Rejected_Null-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sayang sekali status transaksi kamu sudah batal. Pastikan kamu sudah melakukan pembayaran atas order tersebut ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541155382,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "refund_list_is_null"
+    }
+  ]
+}

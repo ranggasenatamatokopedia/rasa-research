@@ -1,0 +1,43 @@
+{
+  "id": "f35cedcc-a083-41f0-a2ca-a0950449fb3b",
+  "parentId": "f07c8c3e-904b-4419-8354-1d210bd3c974",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Transaksi_Berhasil_Tapi_Tidak_Mendapat_Benefit_cashback_promo_inv",
+  "auto": false,
+  "contexts": [
+    "Promo_Transaksi_Berhasil_Tapi_Tidak_Mendapat_Benefit_cashback_promo-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetOrderFinishedIn24Hours",
+      "affectedContexts": [
+        {
+          "name": "Promo_Transaksi_Berhasil_Tapi_Tidak_Mendapat_Benefit_cashback_promo_inv-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon menunggu Toped cek dulu ya, Kak :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522742142,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "select_invoice"
+    }
+  ]
+}

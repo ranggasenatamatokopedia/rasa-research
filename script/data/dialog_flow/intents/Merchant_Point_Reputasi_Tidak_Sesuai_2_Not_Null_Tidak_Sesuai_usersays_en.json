@@ -1,0 +1,80 @@
+[
+  {
+    "id": "08c27672-127b-45af-a340-efb7153b6a1f",
+    "data": [
+      {
+        "text": "salah nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3df95e2e-fb53-48bc-a2f0-a32a631011c3",
+    "data": [
+      {
+        "text": "ga",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f8eb8d69-9d27-426b-88d2-3114b6cd12f6",
+    "data": [
+      {
+        "text": "ga sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6d0afb4e-1c94-4fb9-8d7e-e0381ec1c8cf",
+    "data": [
+      {
+        "text": "ralat dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ba4cad5e-3280-4898-a95e-3400ca0fe1d6",
+    "data": [
+      {
+        "text": "tidak benar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "be1ce932-171f-43f6-a9f1-a0462404a7dc",
+    "data": [
+      {
+        "text": "tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "043b42a9-c3a3-462b-b287-8d7a6c5a9445",
+    "data": [
+      {
+        "text": "salah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "id": "d2e61f34-8197-4230-9887-591e12d4a9da",
+    "data": [
+      {
+        "text": "sameday",
+        "alias": "layanan_kurir_pick_up",
+        "meta": "@layanan_kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5b1ec905-63ba-403b-92f4-17b149d548df",
+    "data": [
+      {
+        "text": "yang nomor ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "00777416-5a5e-439e-ac83-aafe65cab2bb",
+    "data": [
+      {
+        "text": "saya pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "same day",
+        "alias": "layanan_kurir_pick_up",
+        "meta": "@layanan_kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0f55720b-de34-428e-afcd-5f718f3aa1c9",
+    "data": [
+      {
+        "text": "yang ",
+        "userDefined": false
+      },
+      {
+        "text": "pertama",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b6ecf7f5-17e6-4ae6-9108-573f6db09675",
+    "data": [
+      {
+        "text": "yang ",
+        "userDefined": false
+      },
+      {
+        "text": "sameday",
+        "alias": "layanan_kurir_pick_up",
+        "meta": "@layanan_kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

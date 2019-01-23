@@ -1,0 +1,37 @@
+{
+  "id": "9da46472-68be-493f-b180-3a077f59f014",
+  "parentId": "e43a0818-1946-45ec-921e-2ed9de59d71c",
+  "rootParentId": "e43a0818-1946-45ec-921e-2ed9de59d71c",
+  "name": "FAQ_Logistic_Wilayah_Pengiriman_Dan_Tujuan_Kurir_REX",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Wilayah_Pengiriman_Dan_Tujuan_Kurir-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pengiriman dengan REX hanya bisa dilakukan jika penjual berada di wilayah JABODETABEK dan Bandung. Sedangkan tujuan pengirimannya adalah seluruh Indonesia."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528776839,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "REX"
+    }
+  ]
+}

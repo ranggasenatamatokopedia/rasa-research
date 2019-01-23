@@ -1,0 +1,56 @@
+{
+  "id": "3a890a3a-779b-4bc1-b6e2-611e1b187841",
+  "parentId": "73885e65-b818-47f5-a54c-c59876d1ba5a",
+  "rootParentId": "dbbb1e17-3271-4c65-b2a2-5cb80603b2a4",
+  "name": "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_streaming_others_prompt_question",
+  "auto": true,
+  "contexts": [
+    "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_streaming_others-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_streaming_others_prompt_question-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "84613f2e-9bbb-4e66-a608-ac71abd1aeb3",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "email",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Informasikan juga email akun streaming kamu ke Toped ya."
+            }
+          ]
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Informasikan juga nomor telepon yang terdaftar pada layanan streaming kamu"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536396403,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

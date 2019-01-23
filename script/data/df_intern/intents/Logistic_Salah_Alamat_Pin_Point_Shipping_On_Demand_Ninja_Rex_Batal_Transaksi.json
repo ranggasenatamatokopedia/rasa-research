@@ -1,0 +1,54 @@
+{
+  "id": "74df72ee-fe85-4cbf-a4ea-a09871aab2ae",
+  "parentId": "9e550c44-3a9c-470e-b18a-8e1de3850fab",
+  "rootParentId": "b5d703e5-b4ee-4716-a78d-6a74da4e1538",
+  "name": "Logistic_Salah_Alamat_Pin_Point_Shipping_On_Demand_Ninja_Rex_Batal_Transaksi",
+  "auto": true,
+  "contexts": [
+    "Logistic_Salah_Alamat_Pin_Point_Shipping_On_Demand_Ninja_Rex-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Salah_Alamat_Pin_Point_Shipping_On_Demand_Ninja_Rex_Batal_Transaksi-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "25863d73-ca53-4de5-978b-1f9121d568d9",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1340"
+        },
+        {
+          "id": "660be77c-06b7-4724-b932-5dc43952a488",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Logistic_Salah_Alamat_Atau_Pin_Point"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu sebentar ya, Toped akan bantu buatkan tiket Layanan Pengguna untuk dicek lebih lanjut dan informasi selanjutnya akan dikirim lewat email :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536505365,
+  "fallbackIntent": false,
+  "events": []
+}

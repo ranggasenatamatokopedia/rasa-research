@@ -1,0 +1,244 @@
+[
+  {
+    "id": "a6e20f88-55ce-4d43-9dcd-79029af3c394",
+    "data": [
+      {
+        "text": "kendala pada server",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "51d37da2-5ade-44b0-8e77-1f50cae7da33",
+    "data": [
+      {
+        "text": "error kesalahan teknis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3993e792-160a-43c1-ac1e-21b4c37721ed",
+    "data": [
+      {
+        "text": "muncul notif error di halaman pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "02fb8b67-9e26-407b-bcc6-c033e73df8c5",
+    "data": [
+      {
+        "text": "muncul notifikasi error",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c3973fcf-6c41-45e5-a16a-03a4ae55da05",
+    "data": [
+      {
+        "text": "ada notifikasi error halaman pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b7c680c6-2e23-4c57-b1fd-e26752f7d6e8",
+    "data": [
+      {
+        "text": "kendala error",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "80248502-f3c9-4733-8e4c-86b8e41e8680",
+    "data": [
+      {
+        "text": "notifikasi error halaman bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8c9c698a-31af-4df9-bc83-3c104e1c2850",
+    "data": [
+      {
+        "text": "ada kendala teknis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c0f1ff5c-06d4-4efc-bcb9-62d058b5721f",
+    "data": [
+      {
+        "text": "muncul notif error",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bd4403d4-4142-49f9-9dc2-11fd0474954c",
+    "data": [
+      {
+        "text": "kesalahan teknis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "714e2a9c-f04b-4d53-8469-e9352ce79e8e",
+    "data": [
+      {
+        "text": "ada notifikasi error",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "73871a90-1678-4916-a130-b380cffc47d4",
+    "data": [
+      {
+        "text": "muncul error notif saat bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "087ac96f-d236-4741-829d-1f5f4244b4ec",
+    "data": [
+      {
+        "text": "server",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "de524a1c-531f-4e8e-9799-cb02f6e81dc8",
+    "data": [
+      {
+        "text": "ada error notif muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "901de5b9-17eb-4a4a-bad1-2997e9209e1a",
+    "data": [
+      {
+        "text": "kendala teknis server",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b3431e8d-b116-446b-8411-24c04992352c",
+    "data": [
+      {
+        "text": "muncul error notifikasinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2c12f3b5-0140-4e16-9490-48b799eebda2",
+    "data": [
+      {
+        "text": "ada error muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8e8861bc-ac23-4e14-a7df-b3395561ef8d",
+    "data": [
+      {
+        "text": "ada notif error di halaman pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b49bdc9f-4d2b-40ef-b72f-6be6011f0527",
+    "data": [
+      {
+        "text": "kendala",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "135f2f4e-723f-47b5-a268-2d98f02d7b13",
+    "data": [
+      {
+        "text": "kesalahan server",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "05a9c725-825e-4985-ad21-f5cf8d525c4a",
+    "data": [
+      {
+        "text": "error kendala teknis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9818a602-62e0-40e6-87d4-388054a1217a",
+    "data": [
+      {
+        "text": "Muncul notifikasi error saat pilih metode pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

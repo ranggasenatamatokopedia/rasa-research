@@ -1,0 +1,43 @@
+{
+  "id": "d07e394a-78b9-41bd-b56d-e6a55b95ea35",
+  "parentId": "ee066347-32e4-4fd5-866e-a01166a905d7",
+  "rootParentId": "7f7a8cb1-cbe8-48a9-9930-7686b772cf99",
+  "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_scrooge_failed_transfer_bank_more_24_hr",
+  "auto": false,
+  "contexts": [
+    "Flight_Kendala_Pembelian_Tiket_Pesawat_scrooge_failed_transfer_bank-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckRefundListExist",
+      "affectedContexts": [
+        {
+          "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_scrooge_failed_transfer_bank_more_24_hr-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537935860,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "more_than_24_hour"
+    }
+  ]
+}

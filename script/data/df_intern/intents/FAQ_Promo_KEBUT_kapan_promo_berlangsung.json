@@ -1,0 +1,41 @@
+{
+  "id": "eec4c244-63b6-4c06-9426-912d0137e64f",
+  "name": "FAQ_Promo_KEBUT_kapan_promo_berlangsung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d6e57018-941e-4d9d-bcc2-cac7ca371ce3",
+          "required": false,
+          "dataType": "@sys.language",
+          "name": "language",
+          "value": "$language",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Rangkaian promo KEBUT Tokopedia dimulai dari tanggal 26 November 2018 hingga 31 Desember 2018."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Nantikan kejutan KEBUT nya di tanggal 5, 6, dan 7 Desember 2018"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

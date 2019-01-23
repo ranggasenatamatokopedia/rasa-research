@@ -1,0 +1,49 @@
+{
+  "id": "7f6ccf6e-a535-4277-9fa0-f86c1e9521bd",
+  "name": "User_Tidak_Bisa_Shake_Shake",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "User_Tidak_Bisa_Shake_Shake-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sebelum melakukan shake-shake, mohon pastikan hal berikut ya:\n1. Koneksi internet kamu dalam posisi stabil.\n2. Aplikasi yang kamu gunakan sudah versi terbaru.\n3. Fitur Shake Shake sudah di aktifkan."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Apakah kamu sudah mengaktifkan fitur Shake Shake di perangkatmu?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Sudah",
+              "Belum"
+            ],
+            "type": 1
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": "3a53428c-92bf-45c6-b647-80dd03d60014",
+  "name": "Apps_Kendala_Aplikasi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Apps_Kendala_Aplikasi-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa informasikan Toped, kendala Aplikasi apa yang kamu alami?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "button_actions": [
+              {
+                "message": "Tidak Bisa Akses Halaman"
+              },
+              {
+                "message": "Aplikasi Terhenti"
+              },
+              {
+                "message": "Tombol tidak berfungsi"
+              }
+            ],
+            "type": 2
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "d60b1e3d-73cc-46cf-ad83-266912e5bb51",
+  "name": "FAQ_Play_Kata_Kata_Di_Play",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Apabila sistem mendeteksi bahwa kata-kata yang dikirimkan \u0027tidak sesuai\u0027, maka chat tidak akan ditampilkan pada chat room."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_play_kata_kata_di_play"
+    }
+  ]
+}

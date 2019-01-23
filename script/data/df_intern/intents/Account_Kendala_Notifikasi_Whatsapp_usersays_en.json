@@ -1,0 +1,90 @@
+[
+  {
+    "id": "f5b6a5c9-ad24-4b19-bf13-b3097f28a4ab",
+    "data": [
+      {
+        "text": "notification_whatsapp_error",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6a5817f4-f491-4012-ab85-fb37e94212a7",
+    "data": [
+      {
+        "text": "wasapp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1b3463ed-3f52-4dd6-a01d-96ac8624a8ea",
+    "data": [
+      {
+        "text": "what app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "772b4c6d-0848-480e-8e48-3753484662a3",
+    "data": [
+      {
+        "text": "whatsapp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "05844bfa-d6a3-4830-a53e-14d155e0a436",
+    "data": [
+      {
+        "text": "watsap",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a47824b3-2df3-4166-99fc-fa4134808040",
+    "data": [
+      {
+        "text": "whats app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a754417d-1d4f-4108-8336-6eb9444e9562",
+    "data": [
+      {
+        "text": "WA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2
+  },
+  {
+    "id": "6ec1e29f-9f97-4bf5-a1a6-55ab95bab50e",
+    "data": [
+      {
+        "text": "wasap",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "be0f7eba-0883-478c-bec5-771c9a0279d6",
+  "name": "FAQ_Logistic_Cara_Menggunakan_Mengaktifkan_Fitur_Upload_Resi_Sekaligus",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa mulai dengan masuk ke akun Tokopedia melalui laptop/komputer, lalu ikuti langkah berikut ini ya: \n\n1. Klik tombol \"Upload Resi Sekaligus\" pada halaman Konfirmasi Pengiriman.\r\n2. Pilih pesanan yang akan di-upload resinya sekaligus.\r\n3. Ekspor pesanan yang dipilih ke template Microsoft Excel, lalu download.\r\n4. Lengkapi template excel yang sudah di-download dengan nomor resi pesanan yang sudah disesuaikan.\r\n5. Unggah data excel yang telah dilengkapi nomor resi pada kolom \"Upload Resi\".\r\n6. Konfirmasi pengiriman akan ter-update secara otomatis setelah resi berhasil di-upload.\n"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_logistic_cara_menggunakan_mengaktifkan_fitur_upload_resi_sekaligus"
+    }
+  ]
+}

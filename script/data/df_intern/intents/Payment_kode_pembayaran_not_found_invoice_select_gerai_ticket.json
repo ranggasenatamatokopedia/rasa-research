@@ -1,0 +1,68 @@
+{
+  "id": "f873309f-30b1-4829-9b79-6aa3be7a901e",
+  "parentId": "1e6cb86d-ead2-4693-92b9-132d5c8213d8",
+  "rootParentId": "78a8a659-1f88-470b-8cae-9de1dbc1f058",
+  "name": "Payment_kode_pembayaran_not_found_invoice_select_gerai_ticket",
+  "auto": false,
+  "contexts": [
+    "Payment_kode_pembayaran_not_found_invoice_select_gerai_sudah_bayar-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Payment_kode_pembayaran_not_found_invoice_select_gerai_ticket-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ae71fb5f-3b2c-4616-aa13-094a92423694",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1704"
+        },
+        {
+          "id": "ea00b564-f14a-4daf-953f-08565109ed11",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Payment_kode_pembayaran_not_found"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh ditunggu sebentar ya :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Terima kasih ya, untuk bukti pembayarannya akan Toped cek dulu."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped bantu buatkan tiketnya ya dan kalau ada informasi lebih lanjut akan disampaikan melalui email :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531637663,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

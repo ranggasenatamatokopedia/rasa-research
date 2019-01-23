@@ -1,0 +1,42 @@
+{
+  "id": "d6238b4a-b3de-4303-b2e9-f8bb11a4b436",
+  "name": "FAQ_Flight_Saya_Belum_Menerima_Eticket",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flight_Saya_Belum_Menerima_Eticket-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika pembayaran kamu sudah sesuai dan tidak melewati batas transfer maka kamu akan menerima e-ticket selama 30 menit. Tiket pesawat bisa dikirim ulang dengan cara berikut ini:\n\n1. Masuk ke akun Tokopedia, lalu pilih \"Tiket Pesawat\"\n2. Pilih \"Daftar Transaksi\", dan klik \"Kirim E-Ticket\"\n3. Masukkan alamat email yang dituju, selanjutnya klik \"Kirim\""
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga informasi Toped membantu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_flight_saya_belum_menerima_eticket"
+    }
+  ]
+}

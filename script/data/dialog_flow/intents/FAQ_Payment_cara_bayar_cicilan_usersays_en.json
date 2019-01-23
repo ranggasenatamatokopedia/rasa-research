@@ -1,0 +1,35 @@
+[
+  {
+    "id": "281a23dc-f6c7-4394-91f5-419a7061acd8",
+    "data": [
+      {
+        "text": "Cicilan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "227143e3-0c46-40af-9302-bee22dad7ab9",
+    "data": [
+      {
+        "text": "pagi,, toped, ini ada 2 transaksi saya di 9 oktober, yang belum di buatkan menjadi ciiclan oleh TOPED",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "65a4a295-27fd-4585-bbe1-0a1954ed525e",
+    "data": [
+      {
+        "text": "saya lupa sudah centang cicilan atau belum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

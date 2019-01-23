@@ -1,0 +1,30 @@
+[
+  {
+    "id": "227fd97d-c67f-4c6c-9555-f5fb1d158797",
+    "data": [
+      {
+        "text": "user_is_",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3895cd62-1795-4ec1-a9b2-cea1f877d022",
+    "data": [
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

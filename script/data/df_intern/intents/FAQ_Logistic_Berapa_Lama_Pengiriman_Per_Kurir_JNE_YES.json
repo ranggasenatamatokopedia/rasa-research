@@ -1,0 +1,45 @@
+{
+  "id": "f6d94b87-bda3-47bc-9e01-856e58b5e397",
+  "parentId": "e80cc040-b0e2-49a1-89a3-b0664768712c",
+  "rootParentId": "62328066-6ba6-453c-b337-f9f221db5f6f",
+  "name": "FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir_JNE_YES",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir_JNE-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "abe070ff-4875-4b4d-9f10-2ef8e27f428c",
+          "dataType": "@layanan_kurir_reguler",
+          "name": "layanan_kurir_reguler",
+          "value": "$layanan_kurir_reguler",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Estimasi waktu pengiriman kurir JNE dengan layanan YES adalah 1-2 hari ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528172257,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "yes"
+    }
+  ]
+}

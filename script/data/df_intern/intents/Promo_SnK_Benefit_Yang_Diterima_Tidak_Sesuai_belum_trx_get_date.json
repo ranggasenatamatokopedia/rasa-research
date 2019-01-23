@@ -1,0 +1,58 @@
+{
+  "id": "185907c4-918f-4782-9f98-46b5e32bf48d",
+  "parentId": "ee830ec0-711f-451e-8745-717e2abdd126",
+  "rootParentId": "67024543-88fb-488f-907b-85ef94921089",
+  "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_belum_trx_get_date",
+  "auto": true,
+  "contexts": [
+    "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_belum_trx_show_code-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_belum_trx_get_date-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "3c5325e5-b629-40c7-86a0-211e1019c00d",
+          "required": false,
+          "dataType": "@tkpd_date",
+          "name": "tkpd_date",
+          "value": "$tkpd_date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa kasih tahu Toped maksud ketidaksesuaiannya ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Antara S\u0026K di halaman promo dan potensi benefit pada saat kamu mencoba."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jangan lupa bantu lampirkan screenshot perbandingannya ketidaksesuaiannya ya agar Toped bantu cek :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513040943,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,48 @@
+{
+  "id": "fcc69854-a424-4ca1-a677-ed1440da6ea4",
+  "parentId": "f336d732-006e-4d22-b0f5-a555e63ca6cf",
+  "rootParentId": "52ec60f4-3e96-4394-855f-4b7f7c4c5110",
+  "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_belum_memenuhi_minimal_pembelian_MP",
+  "auto": false,
+  "contexts": [
+    "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_belum_memenuhi_minimal_pembelian-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_belum_memenuhi_minimal_pembelian_MP-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai, untuk penggunaan kode promo pada market place, nominal \"minimal pembelian\" yang dimaksud adalah harga produk saja ya, tidak termasuk ongkos kirim dan biaya lainnya :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon lampirkan screenshot halaman produk yang ingin kamu beli ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523835133,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "is_marketplace_or_official_store"
+    }
+  ]
+}

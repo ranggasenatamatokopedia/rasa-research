@@ -1,0 +1,43 @@
+{
+  "id": "14414fc7-8550-4c91-9191-41e19bbaeec9",
+  "parentId": "b375e190-8e6c-475d-ac8e-0e3e3ac5900d",
+  "rootParentId": "b375e190-8e6c-475d-ac8e-0e3e3ac5900d",
+  "name": "Logistic_Tidak_Bisa_Klik_Pick_Up_Invoice_List",
+  "auto": true,
+  "contexts": [
+    "Logistic_Tidak_Bisa_Klik_Pick_Up-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckUserRole",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Tidak_Bisa_Klik_Pick_Up_Invoice_List-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538554329,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "select_invoice"
+    }
+  ]
+}

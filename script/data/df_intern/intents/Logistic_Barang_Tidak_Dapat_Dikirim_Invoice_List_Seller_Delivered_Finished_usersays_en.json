@@ -1,0 +1,68 @@
+[
+  {
+    "id": "8d561561-4bee-437e-bf24-6d87fa7390ec",
+    "data": [
+      {
+        "text": "invoice_pesanan_sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b06ee4f9-fe64-456a-969c-b6f90d7d24cc",
+    "data": [
+      {
+        "text": "invoice_delivered_due_limit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e12b3bd7-5304-4cc0-b8a2-35daa99be7b8",
+    "data": [
+      {
+        "text": "invoice_selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "afee39d2-a508-4114-9435-397c79d898ad",
+    "data": [
+      {
+        "text": "invoice_delivery_due",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "59a5b8b0-4ca4-423c-a761-137cb1de2c81",
+    "data": [
+      {
+        "text": "invoice_pesanan_telah_diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "efaf7fae-7328-4d41-ba9f-7ca52d57d9b9",
+    "data": [
+      {
+        "text": "invoice_finished_refund_voucher",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

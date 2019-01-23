@@ -1,0 +1,39 @@
+{
+  "id": "65f2f367-f863-41b7-b61d-d2ed7b5fc9f1",
+  "parentId": "d0b495d0-eb92-42e7-839b-7f93eab28589",
+  "rootParentId": "7f7a8cb1-cbe8-48a9-9930-7686b772cf99",
+  "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_waiting_third_party_scrooge_waiting_Belum",
+  "auto": true,
+  "contexts": [
+    "Flight_Kendala_Pembelian_Tiket_Pesawat_waiting_third_party_scrooge_waiting-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_waiting_third_party_scrooge_waiting_Belum-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Silakan cek pada Daftar Transaksi dan lakukan pembayaran jika kamu masih menginginkan transaksi tersebut."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538047546,
+  "fallbackIntent": false,
+  "events": []
+}

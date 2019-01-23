@@ -1,0 +1,486 @@
+[
+  {
+    "id": "25816a71-39d0-494d-a925-f2b916501f5b",
+    "data": [
+      {
+        "text": "Saya gak bisa masuk ke group chat kok ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? Padahal tadi bisa tau",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "de646dff-24b9-4ec9-8293-396af1518b4d",
+    "data": [
+      {
+        "text": "Tadi saya di keluarin dari group chat tp kok gak bisa masuk lagi ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fa684bff-c5d3-4d1e-bcf2-13ece56394dc",
+    "data": [
+      {
+        "text": "Saya kenapa gak bisa masuk ke Play ya padahal tadi bisa loh ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "164fbaff-b46e-41ea-8237-7bc88b3af0a7",
+    "data": [
+      {
+        "text": "Saya kenapa gak bisa masuk ke group chat ya padahal tadi bisa loh ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7df02fb8-f2aa-4ad1-b3ce-3f59dc6d7cbc",
+    "data": [
+      {
+        "text": "Barusan saya di keluarin dari group chat tp kenapa gak bisa masuk lagi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4702df5d-db19-41e0-ac13-7cc4df0a8240",
+    "data": [
+      {
+        "text": "Kok saya gak bisa masuk ke Play ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? Padahal tadi bisa loh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dcea89b7-bc2e-43b3-9932-9d8050d640f1",
+    "data": [
+      {
+        "text": "Saya gak bisa masuk ke play kok ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? Padahal tadi bisa tau",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "11e9f4f0-3e03-4fcf-bed6-7ac8fc5ffd87",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kok saya gak bisa masuk lagi ke group chat ya padahal tadi bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0d7a9b4f-5232-4b51-bcf5-7988c2202f8b",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kok saya di keluarin dari group chat dan gabisa masuk lagi ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1893909f-56bc-4d36-ba28-54ab398645bb",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tadi saya di keluarin dari group chat tp kenapa gak bisa masuk lagi ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "179780f1-7aaf-4878-b51a-c25c962965ee",
+    "data": [
+      {
+        "text": "Tadi sy di keluarin dari group chat tp kenapa gak bisa masuk lagi ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5e041931-86bc-476e-84a5-422ead352904",
+    "data": [
+      {
+        "text": "Kenapa gagal untuk masuk ke Play ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? Tadi bisa loh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fde06fd6-6c9c-4130-a130-7d6675dedd54",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kok saya gak bisa masuk lagi ke play ya padahal tadi bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c695cf7e-7508-4ae1-85e0-761e6c80501a",
+    "data": [
+      {
+        "text": "Kenapa gagal untuk masuk ke group chat ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? Tadi bisa loh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "70c8399e-2487-4147-9b1d-5cd53f5c64b1",
+    "data": [
+      {
+        "text": "Kenapa saya di keluarin dari group chat dan gak bisa masuk lagi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ad04acad-5c1f-474b-b9ef-1ab0ec374fbf",
+    "data": [
+      {
+        "text": "Tadi saya di keluarin dari Play tp kok gak bisa masuk lagi ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f0bb831d-b5e1-4453-a78b-e665a1cb9a18",
+    "data": [
+      {
+        "text": "Kenapa saya gagal masuk ke group chat ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? Padahal tadi bisa loh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "470ec5f4-6088-4a09-8f29-db797195c383",
+    "data": [
+      {
+        "text": "Kok saya gak bisa masuk ke group chat ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? Padahal tadi bisa loh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "542966c8-bc86-4919-9d9f-8647e16c804d",
+    "data": [
+      {
+        "text": "Kenapa saya gagal masuk ke play ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? Padahal tadi bisa loh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5fc3048a-b049-422a-b026-d941f7c0bf69",
+    "data": [
+      {
+        "text": "Kenapa saya gagal masuk group chat ya? Padahal tadi bisa loh ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e3b961dd-4a8e-4910-80f2-84f71a09ed95",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya keluar dari group chat tp kenapa gak bisa masuk lagi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "23397d39-5742-4d9d-8b75-2d0509f93e52",
+    "data": [
+      {
+        "text": "Kenapa saya gagal masuk play ya? Padahal tadi bisa loh ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "df2533e0-7acb-401f-b4bb-bd79dc60bd17",
+    "data": [
+      {
+        "text": "Barusan saya di keluarin dari Play tp kenapa gak bisa masuk lagi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3256a00a-032b-4a76-9221-95ad10a10424",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kok saya di keluarin dari Play dan gabisa masuk lagi ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "92294510-a733-41c3-a77c-665679e136a7",
+    "data": [
+      {
+        "text": "Kenapa saya di keluarin dari Play dan gak bisa masuk lagi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dcd1f828-3e40-409c-8afe-ff8a20dc6ce5",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tadi saya di keluarin dari Play tp kenapa gak bisa masuk lagi ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "08813d5d-5914-4303-addb-1fd043322b0c",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya keluar dari play tp kenapa gak bisa masuk lagi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4c37b789-7cb0-496e-b63e-374a3a91d4f3",
+    "data": [
+      {
+        "text": "Tadi sy di keluarin dari Play tp kenapa gak bisa masuk lagi ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

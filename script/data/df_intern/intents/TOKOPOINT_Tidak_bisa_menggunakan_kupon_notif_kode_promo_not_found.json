@@ -1,0 +1,43 @@
+{
+  "id": "22e82189-d7bb-46f9-8b75-a499d0bf8eed",
+  "parentId": "ac27f987-10da-4579-826b-fdb70eef3ed6",
+  "rootParentId": "ac27f987-10da-4579-826b-fdb70eef3ed6",
+  "name": "TOKOPOINT_Tidak_bisa_menggunakan_kupon_notif_kode_promo_not_found",
+  "auto": false,
+  "contexts": [
+    "TOKOPOINT_Tidak_bisa_menggunakan_kupon-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Tidak_bisa_menggunakan_kupon_notif_kode_promo_not_found-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon lampirkan screenshot kode promo yang ingin kamu gunakan ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523498527,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "notifikasi_kode_promo_not_found"
+    }
+  ]
+}

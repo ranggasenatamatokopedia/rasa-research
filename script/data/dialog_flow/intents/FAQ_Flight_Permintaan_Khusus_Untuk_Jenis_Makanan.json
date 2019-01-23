@@ -1,0 +1,38 @@
+{
+  "id": "b87af939-8f03-41b6-8c9a-903d0e645d09",
+  "name": "FAQ_Flight_Permintaan_Khusus_Untuk_Jenis_Makanan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flight_Permintaan_Khusus_Untuk_Jenis_Makanan-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa mengajukan permintaan khusus jenis makanan melalui Customer Care Toped maksimal 24 jam sebelum jadwal keberangkatan. Informasikan detil jenis makanan seperti: muslim meal, vegetarian meal, atau child meal."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga informasi Toped membantu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

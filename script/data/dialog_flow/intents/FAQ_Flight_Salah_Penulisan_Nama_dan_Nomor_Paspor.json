@@ -1,0 +1,38 @@
+{
+  "id": "fbc7d4d7-d567-4463-ae88-f5ee79caad01",
+  "name": "FAQ_Flight_Salah_Penulisan_Nama_dan_Nomor_Paspor",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flight_Salah_Penulisan_Nama_dan_Nomor_Paspor-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika ada kesalahan dalam menuliskan nama atau nomor paspor, kamu bisa koreksi dengan menghubungi !TKPD_URL_CONTACTUS_SUBMIT! dengan melampirkan salinan paspor. Koreksi nama dan nomor paspor akan dikenakan biaya tergantung kebijakan maskapai."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga informasi Toped membantu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

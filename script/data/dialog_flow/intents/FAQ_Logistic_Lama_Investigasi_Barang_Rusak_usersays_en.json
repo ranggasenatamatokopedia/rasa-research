@@ -1,0 +1,73 @@
+[
+  {
+    "id": "41c2b7e8-fb99-4612-ab6a-2d7b5414816b",
+    "data": [
+      {
+        "text": "Berapa sih waktu pergantian barang rusak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f0c5dced-6d80-43ba-9012-030baef1a22a",
+    "data": [
+      {
+        "text": "Lama investigasi barang rusak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7da0f92a-5d0b-4b25-87e8-130dd9c03001",
+    "data": [
+      {
+        "text": "Kalo barang rusak itu lama ga pergantiannya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "580147a0-3b5b-4877-9ed4-b431565e391a",
+    "data": [
+      {
+        "text": "Berapa lama pergantiannya jika barang saya rusak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dc767247-597e-48ba-ac73-73eb8240d64c",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kalo barang saya rusak berapa lama proses investigasi nya ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "20fc711d-1cbd-4bae-bc72-8506fc77ff81",
+    "data": [
+      {
+        "text": "Estimasi waktu pergantian barang rusak berapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

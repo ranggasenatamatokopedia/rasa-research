@@ -1,0 +1,37 @@
+{
+  "id": "bec93768-1905-4fb5-88ed-7daccc0231f6",
+  "parentId": "a53a4f37-aa1f-4ef9-a259-e57786a70a3f",
+  "rootParentId": "99a48618-b9ce-4053-a781-474e5404f8ad",
+  "name": "Refund_Penarikan_dana_belum_masuk_BCA_Mandiri_BRI_BNI_CIMB",
+  "auto": true,
+  "contexts": [
+    "Refund_Penarikan_dana_belum_masuk_rekening_status_unhold-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetCalculateDeltaWithdrawalTimeWorkingDays",
+      "affectedContexts": [
+        {
+          "name": "Refund_Penarikan_dana_belum_masuk_BCA_Mandiri_BRI_BNI_CIMB-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513040943,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "bank_sla_1_day"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "17f115aa-73c8-40ce-888a-e9e742e02ac7",
+  "parentId": "c7f54be0-7fab-4476-a3ce-c073f7f3a133",
+  "rootParentId": "b5d703e5-b4ee-4716-a78d-6a74da4e1538",
+  "name": "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Seller_Shipping",
+  "auto": true,
+  "contexts": [
+    "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Seller-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckCourierType",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Seller_Shipping-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536503678,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_sedang_dikirim"
+    },
+    {
+      "name": "invoice_order_berkendala_pengiriman"
+    },
+    {
+      "name": "invoice_menunggu_pick_up"
+    },
+    {
+      "name": "invoice_melakukan_pencarian_driver_harap_menunggu"
+    }
+  ]
+}

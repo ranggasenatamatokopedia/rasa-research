@@ -1,0 +1,63 @@
+{
+  "id": "b52e43ab-d642-45fe-97bd-5d3704045429",
+  "parentId": "7b27d581-d572-419b-910b-e8d8c15412e0",
+  "rootParentId": "96f23e85-fae0-4896-8203-08e968aef1b9",
+  "name": "Payment_sudah_bayar_tp_batal_order_status_scrooge_waiting",
+  "auto": true,
+  "contexts": [
+    "Payment_sudah_bayar_tp_batal_order_status_pending_payment-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Payment_sudah_bayar_tp_batal_order_status_scrooge_waiting-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek, transaksi ini belum terbatalkan kok."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Baik, bisa lampirkan bukti pembayarannya, Kak?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531466407,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "payment_scrooge_status_waiting"
+    },
+    {
+      "name": "payment_scrooge_status_failed"
+    },
+    {
+      "name": "payment_scrooge_status_void"
+    },
+    {
+      "name": "payment_scrooge_status_expired"
+    },
+    {
+      "name": "payment_scrooge_status_pending"
+    },
+    {
+      "name": "payment_scrooge_status_preauth"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "861f0709-5f6c-4197-8ea6-66560f8cc890",
+  "parentId": "8f45ceee-4534-4381-86ec-de9e2939f9f9",
+  "rootParentId": "8f45ceee-4534-4381-86ec-de9e2939f9f9",
+  "name": "FAQ_Refund_Mengapa_Tombol_Ajukan_Pembatalan_Tidak_Muncul",
+  "auto": true,
+  "contexts": [
+    "FAQ_Refund_Bagaimana_Cara_Membatalkan_Pesanan_Yang_Tidak_Direspon_Penjual-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FAQ_Refund_Bagaimana_Cara_Membatalkan_Pesanan_Yang_Tidak_Direspon_Penjual.FAQ_Refund_Bagaimana_Cara_Membatalkan_Pesanan_Yang_Tidak_Direspon_Penjual-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Tombol pengajuan pembatalan pesanan tidak muncul bisa jadi karena penjual sudah mulai memproses pesananmu. Penjual punya waktu 4x24 jam untuk memproses pesananmu hingga mengirimkannya.\n\nJika pesanan tak juga diproses, pesananmu akan dibatalkan secara otomatis dan dana dikembalikan ke  Saldo Tokopedia."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520238532,
+  "fallbackIntent": false,
+  "events": []
+}

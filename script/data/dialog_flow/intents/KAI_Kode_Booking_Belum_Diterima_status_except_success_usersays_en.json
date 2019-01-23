@@ -1,0 +1,57 @@
+[
+  {
+    "id": "23d0b7cd-f617-4967-bdd0-d16e80058c93",
+    "data": [
+      {
+        "text": "invoice_refunded",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f46336d5-f1ab-436c-ab86-40dfd1d61dee",
+    "data": [
+      {
+        "text": "invoice_pending",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2a537c1c-63e6-4df4-8f86-a4c74b12cbdb",
+    "data": [
+      {
+        "text": "invoice_ticket_has_been_paid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e0822eac-fa90-4c60-9e3b-7859c32b872a",
+    "data": [
+      {
+        "text": "invoice_cancelled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a53b6bbe-37ec-486a-816b-be7183cbfffa",
+    "data": [
+      {
+        "text": "invoice_ticket_is_booked",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

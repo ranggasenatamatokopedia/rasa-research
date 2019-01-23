@@ -1,0 +1,58 @@
+{
+  "id": "8e481f2a-5e61-47c3-9cc7-acb050c8f555",
+  "parentId": "9d000de8-a3b0-4dbd-8374-7ff704d4594e",
+  "rootParentId": "0c60f8a5-c89d-4057-9ddc-8071a3ac4418",
+  "name": "Order_Tidak_Bisa_Input_Resi_Select_Inv_Insert_AWB",
+  "auto": true,
+  "contexts": [
+    "Order_Tidak_Bisa_Input_Resi_Select_Inv-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "InputAWBNumberToInvoice",
+      "affectedContexts": [
+        {
+          "name": "Order_Tidak_Bisa_Input_Resi_Select_Inv_Insert_AWB-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "28a1a62c-df33-45cb-b0c0-8da45e1e5f33",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "code",
+          "value": "$code",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Informasikan juga nomor resi yang akan digunakan, ya."
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538021540,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "is_success_select_invoice"
+    }
+  ]
+}

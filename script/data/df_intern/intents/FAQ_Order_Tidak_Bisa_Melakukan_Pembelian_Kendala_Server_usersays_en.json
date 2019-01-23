@@ -1,0 +1,400 @@
+[
+  {
+    "id": "682bfae0-3ec1-420b-8e17-f4b81d2e692f",
+    "data": [
+      {
+        "text": "kendala jaringan eror",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "176f5db1-d8ff-45e3-aa95-dce2326d35e5",
+    "data": [
+      {
+        "text": "kendala jaringan error",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dd83fd17-7697-42c1-8791-838d59f7707d",
+    "data": [
+      {
+        "text": "kendala jaringan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3a31e3f9-35af-480a-b559-6fb418a91a68",
+    "data": [
+      {
+        "text": "jaringan error",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4da12b8e-e0bb-4be5-afaa-f4b910507aa9",
+    "data": [
+      {
+        "text": "jaringan eror",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d931771e-bb84-4230-b1ad-195813f97eb2",
+    "data": [
+      {
+        "text": "jaringan buruk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "86f64c1a-229d-4284-ae38-42b297f4c01d",
+    "data": [
+      {
+        "text": "jaringan sibuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7eb0fe49-b10b-497a-bd53-fe67a0738517",
+    "data": [
+      {
+        "text": "server sibuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "26ff1b1e-57b9-4142-b076-68ff8fedd403",
+    "data": [
+      {
+        "text": "sibuk server",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cd6c38f8-b675-4c20-a1d9-ad9e6ce77f9d",
+    "data": [
+      {
+        "text": "eror terus servernya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2f1a7b25-3640-47f8-abc3-4cb2c7d30c98",
+    "data": [
+      {
+        "text": "server down",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "58b2fa9d-d6e2-4a46-8e33-f05f47e4be6d",
+    "data": [
+      {
+        "text": "yang servernya error",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "73b2c6b7-ee82-45bd-9da1-d4e5bfa9a330",
+    "data": [
+      {
+        "text": "tentang server",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d7bee697-41ac-4c3a-b22a-a286eb1d11ba",
+    "data": [
+      {
+        "text": "tentang sever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2f1b39dc-bafb-4473-ba52-ce25746fd89e",
+    "data": [
+      {
+        "text": "tentang error",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d79d90a8-0e60-4422-9d57-b57e5a780ef2",
+    "data": [
+      {
+        "text": "tentang eror",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "af1d3abd-c934-4142-a56f-a06741094da3",
+    "data": [
+      {
+        "text": "pertama",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fa111faa-3e96-4ea5-a565-0738dd7660e3",
+    "data": [
+      {
+        "text": "yang nomor ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "185be7b4-47f1-4cdf-852f-e6d8e99f15f5",
+    "data": [
+      {
+        "text": "yang nomor ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a2e6e798-e2c0-429c-9e96-14c1acdd4d3e",
+    "data": [
+      {
+        "text": "kesatu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "61f3762e-c6ae-4346-b93d-903b55d729c2",
+    "data": [
+      {
+        "text": "nomor ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "861f101d-6c86-44af-8678-ccfde41fbccc",
+    "data": [
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "caa9ab62-43ca-4a0c-a572-bc1e4dd7dc8c",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e7057503-04a2-4488-86e5-8753a38eaadd",
+    "data": [
+      {
+        "text": "yang ",
+        "userDefined": false
+      },
+      {
+        "text": "pertama",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6e550173-0d7e-4407-8517-c1dfbac2a10a",
+    "data": [
+      {
+        "text": "server eror",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "27b3c749-6031-4fbf-8bac-31a89f5794f5",
+    "data": [
+      {
+        "text": "eror server",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a40b849a-ef39-44c5-b024-ac462235aa25",
+    "data": [
+      {
+        "text": "server gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d3271df1-8e77-498f-ad28-87667946b103",
+    "data": [
+      {
+        "text": "gagal server",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4b5ac664-f58b-470d-846d-57210521eeaf",
+    "data": [
+      {
+        "text": "error server",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6a4763c5-033d-45a5-a23b-2f8d88786172",
+    "data": [
+      {
+        "text": "kesalahan server",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b694244f-f4d1-4f02-9c25-598f1f732f07",
+    "data": [
+      {
+        "text": "Kendala pada sistem jaringan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bd2c2863-e9fb-4882-a56a-f71b721cbd3b",
+    "data": [
+      {
+        "text": "terjadi kesalahan server",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7209f878-844c-4067-a05e-d117b57ef51e",
+    "data": [
+      {
+        "text": "server error",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c3105f09-2383-4d92-9cbd-fc27032cf1df",
+    "data": [
+      {
+        "text": "Kendala pada sistem jaringan (terjadi kesalahan server)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

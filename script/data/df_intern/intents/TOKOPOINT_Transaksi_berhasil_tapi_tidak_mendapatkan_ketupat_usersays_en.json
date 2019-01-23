@@ -1,0 +1,1075 @@
+[
+  {
+    "id": "34ce51a2-4d8c-43ba-b543-2f15ad1fee60",
+    "data": [
+      {
+        "text": "Transaksi beres mana ketupat nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5c71847d-d5b8-42da-b405-4e870839a676",
+    "data": [
+      {
+        "text": "transaksi saya sukses tapi kok gak ada ketupatnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9e496774-58c4-4978-ba74-c39036346ede",
+    "data": [
+      {
+        "text": "ketupat mana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8ffdbed7-b76d-4c89-90ab-67335174c487",
+    "data": [
+      {
+        "text": "ga dpt ketupat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "393d2f4f-b845-4c36-ba62-4b93b97b1d14",
+    "data": [
+      {
+        "text": "ini transaksi berhasil bukannya seharusnya dapat ketupat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d99b8cef-20b2-4722-be64-868352b3df06",
+    "data": [
+      {
+        "text": "Transaksi sudah selesai tapi tidam mendapat poin dan loyalti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ba1a3bd5-d919-4b2d-aeb3-5ff774d987a5",
+    "data": [
+      {
+        "text": "mengapa",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya tidak mendapatkan points stlh penyelesaian transaksi utk invoice no. INV/",
+        "userDefined": false
+      },
+      {
+        "text": "20180501",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "/XVIII/V/",
+        "userDefined": false
+      },
+      {
+        "text": "156480523",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? Apakah ada syarat khusus utk mendapatkan points? Biasanya langsung dapat.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b96bb8e7-761c-44a4-915f-7a40755f576a",
+    "data": [
+      {
+        "text": "ketupatnya mana nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "07238acd-c4db-4dec-b526-b08b09385703",
+    "data": [
+      {
+        "text": "pesanan saya sukses tapi belum dapat ketupat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4b2a0a59-d6b1-453d-8cb9-09ef9dc10221",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ketupat saya ga dapet setelah transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7f4edc45-34c6-4f57-a8ac-30f69e20deab",
+    "data": [
+      {
+        "text": "transaksi berhasil ketupat ga dapet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1a986663-c34e-4850-b57d-be57daa72974",
+    "data": [
+      {
+        "text": "transaksi berhasil tapi ",
+        "userDefined": false
+      },
+      {
+        "text": "point",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan loyalty tidak bertambah mohon di cek kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "84c80c4a-aea2-470d-86bf-46f279e750d2",
+    "data": [
+      {
+        "text": "mana nih ketupat gue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6bb9ea73-ac0e-46c1-af22-3e4222fdf7c0",
+    "data": [
+      {
+        "text": "ini kenapa saya gak dapat ketupat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1a95544a-7c58-4c43-b188-1fe4093005aa",
+    "data": [
+      {
+        "text": "selamat ",
+        "userDefined": false
+      },
+      {
+        "text": "malam",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". saya mau tanya kok transaksi isi ulang pulsa dan pulsa listrik kok tidak mendapatkan loyalty? mohon bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "77561589-d3a0-4c1f-a554-5289fe562935",
+    "data": [
+      {
+        "text": "tidak mendapat lucky egg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f9832fd9-5184-483a-b9c5-44feb5509201",
+    "data": [
+      {
+        "text": "tidak dapat lucky egg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "128ae01f-70ac-42cb-bd29-540c1a9f0210",
+    "data": [
+      {
+        "text": "tidak dapat telur padahal transaksi udah berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "46376ce7-6cc1-407f-a6c5-4c4ce486a225",
+    "data": [
+      {
+        "text": "pembelian sudah sukses tapi tidak dapat lucky egg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9dde91e1-76de-4d6c-ab71-e754e470a05d",
+    "data": [
+      {
+        "text": "lucky egg belum dikasih ke akun saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8e3ad238-f6f8-44f7-a0d5-9fa3f3e19ddc",
+    "data": [
+      {
+        "text": "kok saya tidak dapat lucky egg?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c5ef5a54-0101-4dd0-a6dc-12a5dee27c4d",
+    "data": [
+      {
+        "text": "kenapa saya tidak dapat telur tokopoints?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eaad7e7e-67aa-408b-9b75-945217876fe8",
+    "data": [
+      {
+        "text": "kok saya ga dapet lucky egg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eb71168b-59e9-46e1-81a5-278818d756d9",
+    "data": [
+      {
+        "text": "kok saya ga dapet lucky egg yaa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "432ee4d0-8a8a-40af-a400-cac70bd49219",
+    "data": [
+      {
+        "text": "saya tidak dapat egg tokopoints",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b20419f8-2aca-48e1-b4c8-41ddc56e0fdf",
+    "data": [
+      {
+        "text": "pembelian sudah berhasil tapi tidak dapat lucky egg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c75d4a1e-e448-4717-baee-651501b3adb9",
+    "data": [
+      {
+        "text": "lucky egg belum saya dapatkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4fe68d22-7f38-4396-aaea-a4ba00d44ad1",
+    "data": [
+      {
+        "text": "mengapa saya belum dapat lucky egg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5250ef64-8811-4ccc-90ac-7e87fd8d84b0",
+    "data": [
+      {
+        "text": "belum terima telur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c3df7275-fe46-46ea-b492-c63befeb8904",
+    "data": [
+      {
+        "text": "belum dapat telur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6b73afa1-7684-49f4-8e1f-94a169fa6c08",
+    "data": [
+      {
+        "text": "saya belum mendapat telur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fb658cd9-4d9d-4fe3-a988-1a50930b27b4",
+    "data": [
+      {
+        "text": "saya belum menerima telur tokopoints",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9021dd4a-9805-4b44-81b6-b914d58e1f59",
+    "data": [
+      {
+        "text": "aku belum menerima telur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "092c3abb-121a-4c36-a476-a1a00706415d",
+    "data": [
+      {
+        "text": "belum dapet telor tokopoints",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "044bb677-8ff4-4c59-93a8-a738d01166de",
+    "data": [
+      {
+        "text": "belum dapet telur tokopoint",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5561d520-277c-429d-b4d1-858dea65852b",
+    "data": [
+      {
+        "text": "belum menerima telor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "74cec325-b5c6-488f-b159-7808ee654316",
+    "data": [
+      {
+        "text": "saya belum dapet telor tokopoint",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "72e7f64e-9bd2-45ec-ac9e-96a0d6329ce3",
+    "data": [
+      {
+        "text": "belum dikasih telor tokopoints",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ae09badf-29d3-4b1d-8a55-9315a29d0f95",
+    "data": [
+      {
+        "text": "saya belom dapet telor tokopoint",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fb107817-8f75-47a6-bcfa-6378a1562f7d",
+    "data": [
+      {
+        "text": "point Dan loyalty ga masuk setelah lucky egg dipecahin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9bf5790f-9e44-4992-a8f7-aabea2c8ee51",
+    "data": [
+      {
+        "text": "transaksi saya sudah berhasil tapi ketupatnya ga ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2
+  },
+  {
+    "id": "c1e02a6b-96a0-40d5-8847-8ed56ccd1490",
+    "data": [
+      {
+        "text": "transaksi berhasil tapi tidak dapat ketupat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9a729ac1-173f-4204-8855-e6565816134e",
+    "data": [
+      {
+        "text": "tdk dpt ketupat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a5b5903b-634c-4401-9ae9-8dc1cd4d7d63",
+    "data": [
+      {
+        "text": "Uda kita konfirm penerimaan barang dari ",
+        "userDefined": false
+      },
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kok poin Ama loyalty gk nambah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e8c74605-0e4b-4b54-95f9-070d3ed2b701",
+    "data": [
+      {
+        "text": "saya sudah kelar melakukan transaksi tetapi tidak mendapatkan poin dan loyalty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cabb9d93-404d-4dea-8595-d6b21746bf66",
+    "data": [
+      {
+        "text": "Mau nanya kenapa ada beberapa transaksi saya setelah selesai kok ga dapat nilai poin dan nilai loyalty?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e9f160d7-3d90-49d4-a0e0-111c0f9b4635",
+    "data": [
+      {
+        "text": "blm dpt ketupat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2
+  },
+  {
+    "id": "c258251e-c3c4-4586-af41-d0edd911e522",
+    "data": [
+      {
+        "text": "dimana bisa mendapat ketupat karena transaksi saya sudah selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e2192947-8fcf-47fd-bd49-85781a8b5bd4",
+    "data": [
+      {
+        "text": "ketupat gue hilang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b94133fa-7107-4296-a1a1-9f7021634d87",
+    "data": [
+      {
+        "text": "Saya tidak mendapatkan ",
+        "userDefined": false
+      },
+      {
+        "text": "point",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan loyalty untuk No. Invoice INV/",
+        "userDefined": false
+      },
+      {
+        "text": "20180130",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "/XVIII/I/",
+        "userDefined": false
+      },
+      {
+        "text": "132175300",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1d64cd0e-63f3-4d60-a438-44162ae4ebd1",
+    "data": [
+      {
+        "text": "ketupat saya ngga diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "268e152c-5a70-4359-ba03-dc41fb6d316b",
+    "data": [
+      {
+        "text": "Halo kok sy ga ada dpt tambahan poin dan loyalty ya ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b6874742-bfc9-4ad6-9be0-7ae77ef1c327",
+    "data": [
+      {
+        "text": "ketupatnya ga ada padahal udah selesai transaksinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "45345628-0bec-49be-a20a-9153f7d79f2c",
+    "data": [
+      {
+        "text": "saya koq tidak dapat poin cash sama loyalty ya untuk trx ini...padahal limit harian poin sm loyalty belum tercapai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f3be77d5-b2c2-402d-9d57-a3a6d87379cf",
+    "data": [
+      {
+        "text": "Transaksi berhasil tapi poin dan loyalty tdk bertambah.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "eea52c6b-55ab-4707-9bdd-2a9c38bd2e0c",
+    "data": [
+      {
+        "text": "transaksi sudah selesai tapi tokopoint tidak bertambah, mohon bantuannya. thanks.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0faf9bdf-bb08-4f5d-b03b-0db20e408f8a",
+    "data": [
+      {
+        "text": "belum dapat ketupat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "25544ef7-d4c9-402b-878f-affd461a18a6",
+    "data": [
+      {
+        "text": "tapi saya belum mendapat tokopoints nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8a8fe650-6896-4ab9-a5f9-947c45721fba",
+    "data": [
+      {
+        "text": "ketupat saya hilang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0f15edd6-edb1-464d-9c1c-46e6cb968c63",
+    "data": [
+      {
+        "text": "tokopoint saya kok ga masuk yah, padahal saya ada prcahin telur 4x",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cf60817b-4fc7-48d6-85e4-cf536998c4d0",
+    "data": [
+      {
+        "text": "saya belum dapat ketupat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1d6f1bd0-625c-439a-ae3c-20a2ccd2e5cd",
+    "data": [
+      {
+        "text": "transaksi saya sudah berhasil tapi ketupatnya ngga ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0d4bbc66-0984-4b11-ad4e-b0849ac9616c",
+    "data": [
+      {
+        "text": "saya belum dapat lucky egg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3
+  },
+  {
+    "id": "49fe1031-4d97-40e3-b402-fce1db3a37ee",
+    "data": [
+      {
+        "text": "Saya berhasil melakukan transaksi tapi kenapa ",
+        "userDefined": false
+      },
+      {
+        "text": "point",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan loyalty saya tidak bertambah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d3886901-e455-46e8-9de6-7edf98b6a5b1",
+    "data": [
+      {
+        "text": "untuk ",
+        "userDefined": false
+      },
+      {
+        "text": "point",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak bertambah dan chasback belum diterim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2c7c4ec1-99b4-4a48-996b-b41694fc3152",
+    "data": [
+      {
+        "text": "kenapa ",
+        "userDefined": false
+      },
+      {
+        "text": "point",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak bertambah ?  padahal saya sudah menyelesaikan transaksi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f1a17da4-81cd-4d3c-ad0b-f14e23ab8fcb",
+    "data": [
+      {
+        "text": "mana ketupat saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6e24e570-9e56-4294-949a-a8a21d6a1e31",
+    "data": [
+      {
+        "text": "kok saya ngga dapat ketupat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2f9f4f45-8deb-4e00-84a1-517f965e6552",
+    "data": [
+      {
+        "text": "Kenapa transaksi belanja sudah selesai kok points ",
+        "userDefined": false
+      },
+      {
+        "text": "0",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan loyalty ",
+        "userDefined": false
+      },
+      {
+        "text": "0",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", promonya dapat points ",
+        "userDefined": false
+      },
+      {
+        "text": "3000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Loyalty ",
+        "userDefined": false
+      },
+      {
+        "text": "150",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "68e3744e-5aaf-49c6-86e9-a0190bc0dcb4",
+    "data": [
+      {
+        "text": "apakah transaksi ini dpt ",
+        "userDefined": false
+      },
+      {
+        "text": "point",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan loyalty..kok tdk ada di daftar terima ",
+        "userDefined": false
+      },
+      {
+        "text": "point",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " n loyalty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ddedba08-e570-491b-839f-0856334c225e",
+    "data": [
+      {
+        "text": "Point",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak bertambah setelah transaksi selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fb075e75-f4e9-44f7-b902-65c5d790a531",
+    "data": [
+      {
+        "text": "di  mana bs dpt ketupat transaksi saya sudah selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3
+  },
+  {
+    "id": "db55f690-f881-40c3-a7ff-af96e9f01458",
+    "data": [
+      {
+        "text": "ini saya sudah selesai kenapa ngga dapat ketupat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "76e10500-1f9e-418d-bfbf-d4375879f6f3",
+    "data": [
+      {
+        "text": "transaksi saya sudah berhasil tapi ketupatnya tidak ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0574c374-6e50-4e51-ac25-2bfac1731caa",
+    "data": [
+      {
+        "text": "kok poin loyalty saya tidak bertambah di transaksi ini?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2ac3103c-3c15-4e94-ab3a-683cfe32d045",
+    "data": [
+      {
+        "text": "proses sudah selesai tapi poin dan loyalti sy tdk bertambah. mohon bantu ya min. trims",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5576fb90-1294-4249-b1c1-26c27014cf12",
+    "data": [
+      {
+        "text": "transaksi berhasil tapi tidak dapat loyalty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4a372226-89f2-4f8f-843b-c5f2e685f9bb",
+    "data": [
+      {
+        "text": "Transaksi berhasil tapi tidak mendapat Lucky egg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "19790b13-d23d-405f-8903-51474420bbae",
+    "data": [
+      {
+        "text": "setiap selesai pembelian di toped tidak ada gratis ongkir seperti dulu..biasanya akan ada telur tuhh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f2cd91c2-a2bc-4118-bc63-9a9c8447159e",
+    "data": [
+      {
+        "text": "knp akun sy tdk pernah mendapatkan kupon cashback lagi ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4a4f3d8b-2451-40c2-9880-c6cdcc8024e6",
+    "data": [
+      {
+        "text": "kenapa sdh pecah telur tapi cashback saya tdk masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ddad4b4a-88f3-49c4-bf16-c83be79ac4bb",
+    "data": [
+      {
+        "text": "Tidak dapat lucky eggs (invalid) saat selesai transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b9ba2089-3406-4c21-b4e4-735064dba78f",
+    "data": [
+      {
+        "text": "Tidak dapat lucky egg saat beli tiket ed sheeran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

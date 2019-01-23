@@ -1,0 +1,24 @@
+[
+  {
+    "id": "8bf3d465-a974-4c1e-8a28-c8a5574b2555",
+    "data": [
+      {
+        "text": "reject_not_all",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9bbcad8b-0d8a-4e0d-a8ce-b7a04bd4257d",
+    "data": [
+      {
+        "text": " reject_few",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

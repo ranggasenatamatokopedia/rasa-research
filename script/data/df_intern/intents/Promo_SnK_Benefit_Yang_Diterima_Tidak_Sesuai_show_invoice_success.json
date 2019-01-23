@@ -1,0 +1,49 @@
+{
+  "id": "b8ee5539-2aee-490c-9a8f-47de25b43e73",
+  "parentId": "cfe4bafe-113c-400a-ae3f-801dbd3f83c8",
+  "rootParentId": "67024543-88fb-488f-907b-85ef94921089",
+  "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_invoice_success",
+  "auto": true,
+  "contexts": [
+    "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_invoice_digital_KAI-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_invoice_success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk benefit yang tidak sesuai, kamu dapat lampirkan buktinya terlebih dulu ya. Contoh: potensi cashback saat checkout Rp. 50.000 tapi kamu cuma dapat Rp. 30.001"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526456476,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_selesai"
+    },
+    {
+      "name": "invoice_bounce_back"
+    },
+    {
+      "name": "invoice_finished_refund_voucher"
+    }
+  ]
+}

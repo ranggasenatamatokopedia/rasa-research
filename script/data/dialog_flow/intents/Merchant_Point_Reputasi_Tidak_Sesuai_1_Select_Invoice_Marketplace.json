@@ -1,0 +1,43 @@
+{
+  "id": "7b515a14-6da4-41d0-950c-5a66ede34909",
+  "parentId": "812d683e-d291-49f0-b5b2-30ae920ce255",
+  "rootParentId": "cf17fcc0-2998-4ff8-8cf4-6a1ca0e60443",
+  "name": "Merchant_Point_Reputasi_Tidak_Sesuai_1_Select_Invoice_Marketplace",
+  "auto": true,
+  "contexts": [
+    "Merchant_Point_Reputasi_Tidak_Sesuai_1_Select_Invoice-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckInvoiceStatusIDMarketplace",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Point_Reputasi_Tidak_Sesuai_1_Select_Invoice_Marketplace-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536552360,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_marketplace_OS"
+    }
+  ]
+}

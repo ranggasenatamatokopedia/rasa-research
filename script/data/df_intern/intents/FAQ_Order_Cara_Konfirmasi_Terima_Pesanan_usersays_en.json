@@ -1,0 +1,764 @@
+[
+  {
+    "id": "83009df2-b120-4fed-a9f3-48dfefce1ddf",
+    "data": [
+      {
+        "text": "barang Uda sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4bd1ed26-1370-4d3d-b907-3a737bcea6a0",
+    "data": [
+      {
+        "text": "Saya pesan barang, barang sudah sampai, tp tidak bisa dikonfirmasi selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "edd28ed1-5909-4962-bca6-13545c7983a3",
+    "data": [
+      {
+        "text": "barang saya sudah sampai, tapi belum di finish oleh ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2834b1c3-d0d5-444a-b8e1-bd92cfea19fe",
+    "data": [
+      {
+        "text": "pesanan gak bisa diselesaikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3e295f48-57c3-48fd-b881-4ccf432e72e6",
+    "data": [
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak melakukan konfirmasi penerimaan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1fa5a213-a72b-4b68-aac6-17d6f6c522d0",
+    "data": [
+      {
+        "text": "itu kan barangnya sudah sampai tapi ",
+        "userDefined": false
+      },
+      {
+        "text": "buyer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nya belum klik terima pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0e223d09-11af-4730-9689-7230e278b66c",
+    "data": [
+      {
+        "text": "pesanan sudah diterima, tolong selesaikan status pesanannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c2176f47-2f7e-4bf9-a24a-7184a1f09631",
+    "data": [
+      {
+        "text": "bantu finished order ya, barang sudah sampai dengan baik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1875613b-5f7e-4164-988e-f03886caa526",
+    "data": [
+      {
+        "text": "Bagaimana cara konfirmasi penerimaan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7e6905e9-7379-41b1-a3b7-6cb4a57c31b7",
+    "data": [
+      {
+        "text": "pesanan sudah saya terima, tolong konfirmasi selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b73e6125-0c72-4a6a-a794-0df78d895f89",
+    "data": [
+      {
+        "text": "cara finished order di tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "38d81b64-b0d4-43bf-97d5-995cf55691a9",
+    "data": [
+      {
+        "text": "tolong konfirmasi terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a6dc1791-b5e5-4e7b-867d-4477a716680f",
+    "data": [
+      {
+        "text": "tolong selesaikan pesanan saya ya, barang sudah diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5014c2e1-1a01-4ad9-8362-b8c6d2862fb4",
+    "data": [
+      {
+        "text": "tombol konfirmasi ada dimana ya? pesenan sudah saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "39b9b691-af81-4280-a69a-05941ca43d45",
+    "data": [
+      {
+        "text": "barang sudah sampe di saya, gimana cara menyelesaikan order ini?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bbacc434-2b78-4af5-8d9d-8b176983d173",
+    "data": [
+      {
+        "text": "gimana cara konfirmasi pesanan biar uangnya diteruskan ke ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bfc85eb4-59fe-478b-a833-4ec0eebbf98a",
+    "data": [
+      {
+        "text": "mohon konfirmasi pesanan selesai, saya sudah terima barangnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bfe78f98-94e8-46a7-9d20-b7502d39d9ae",
+    "data": [
+      {
+        "text": "tolong selesaikan pesanan, saya sudah terima barangnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "51da6dff-c76b-4c78-a215-c678129c1d4c",
+    "data": [
+      {
+        "text": "bagaimana cara konfirmasi terima ",
+        "userDefined": false
+      },
+      {
+        "text": "pesanan",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e75640a3-7e28-4278-a322-caee65690ec3",
+    "data": [
+      {
+        "text": "barang sudah sampai, tolong teruskan dana ke ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b708ca43-43d9-49c8-9b88-d8545b2ad2fd",
+    "data": [
+      {
+        "text": "cara menyelesaikan pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "28e2d7b2-e6e4-4ab5-85cf-4efb7d1c25a8",
+    "data": [
+      {
+        "text": "gimana cara finished order ya? saya sudah menerima pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7a57f286-29aa-410d-9cc5-b8bf86df98e8",
+    "data": [
+      {
+        "text": "saya sudah terima barang, gimana cara konfirmasi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d69bacf8-243e-45dd-8627-f4f7afdc4b0c",
+    "data": [
+      {
+        "text": "bagaimana cara mengkonfirmasi selesai?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e568d319-af71-4dbd-b16c-cdfda9a0de19",
+    "data": [
+      {
+        "text": "langkah-langkah konfirmasi penerimaan barang gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1dd3b179-e549-40c3-b793-5ff158494990",
+    "data": [
+      {
+        "text": "gimana supaya pesanan selesai?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "44d86630-76d0-42a8-9fb7-49fd6655daa2",
+    "data": [
+      {
+        "text": "gimana caranya menyelesaikan pesanan? saya sudah terima barangnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "36cbf55b-0d9f-426b-96dc-64e097fed95a",
+    "data": [
+      {
+        "text": "barang sudah saya terima, tapi gimana konfirmasi selesainya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "34ed80f4-3a70-4477-87f8-334a8df36e9c",
+    "data": [
+      {
+        "text": "cara konfirmasi terima pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6ec81400-1e6a-4c80-94d2-572a646b1527",
+    "data": [
+      {
+        "text": "barang sudah sampe tapi saya tidak tahu cara konfirmasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5ae6cfeb-02b6-4aae-bcdb-ffba6b9f681f",
+    "data": [
+      {
+        "text": "dana bisa diteruskan ke ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ya, barang sudah saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5c32bdb9-11a9-451c-886e-48758c4d904a",
+    "data": [
+      {
+        "text": "barang sudah diterima dengan baik, bantu selesaikan statusnya ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f4d24339-655a-4469-b4e4-62e759e15901",
+    "data": [
+      {
+        "text": "Gimana cara konfirmasi penerimaan kalau barangnya sudah sampai kak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "45e66cf4-0683-44cc-9657-e36fa9e57d9e",
+    "data": [
+      {
+        "text": "INVIDTAG yg terkendala tidak dapat melakukan konfirmasi selesai, dan paket sudah datang dr semalam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9e1276d3-4557-4353-9057-8c7690d061a9",
+    "data": [
+      {
+        "text": "mohon bantuan. pembelian barang no INVIDTAG barangnya sudah kami terima. semuanya bagus sesuan pesanan. tapi sampai hari ini pihak penjual belum menerima pembayaram dari toko pedia. mohon di bantu. kasian pihak penjual nya. trimakasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f6b9a006-c0bf-4e8e-89c8-1b2fb0f33ae4",
+    "data": [
+      {
+        "text": "barang saya sudah sampai maubsaya selesaiin kok gai bisa yaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5d230dd1-2ff7-4528-8a5f-2f7b49e2a235",
+    "data": [
+      {
+        "text": "kenapa barang penjualan saya sudah sampai tujuan tapi tidak bisa dikonfirmasi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "89cb51ff-9354-46e6-844a-af3ec9b4802f",
+    "data": [
+      {
+        "text": "barang udah sampe tapi pesanan gk bisa di klik selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "38804c00-1483-4683-9006-9f6443a0738d",
+    "data": [
+      {
+        "text": "itu kan barangnya sudah sampai tapi buyer nya belum klik terima pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4189c2c6-2664-41d1-8977-724a2f594363",
+    "data": [
+      {
+        "text": "pembeli tidak melakukan konfirmasi penerimaan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a8223006-efc9-4e81-8bf5-1c22ee2da95b",
+    "data": [
+      {
+        "text": "Barang sudah sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ab69c699-f75e-4b65-8d51-45adeb598406",
+    "data": [
+      {
+        "text": "barang saya sudah sampai, tapi belum di finish oleh penjual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ac2ba24d-271f-438e-9c63-6a2140f1abfa",
+    "data": [
+      {
+        "text": "barangnya sudah bisa, tolong teruskan dana ke penjual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9449b4c2-8c66-48c6-8383-20484d555026",
+    "data": [
+      {
+        "text": "Transaksi ini sdh saya terima barangnya. dan pihak penjual meminta saya supaya komfirmasi ke tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0a4c9882-49b2-4c1f-8c82-0a82e532000a",
+    "data": [
+      {
+        "text": "invoice tersebut tidak bisa diselesaikan padahal pesanan telah sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "00ac45b6-8c05-486f-8a1a-85c20988171d",
+    "data": [
+      {
+        "text": "Barang sudah sampai ke pembeli tetapi tidak bisa diklik selesai oleh pembeli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1e097a9b-bafe-4a47-8ceb-2f4676116afc",
+    "data": [
+      {
+        "text": "mohon informasi bagaimana cara saya sebagai penjual cairkan dana saya yg dikirim pembeli melalui transfer ke rekening toko pedia ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ae2d8864-385b-4a94-8213-7ed6509995ef",
+    "data": [
+      {
+        "text": "kendala pembelian saya sudah diselesaikan oleh seller tapi tombol selesai sudah tidak ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a521d87b-12f6-43d1-bd40-f514e039efb4",
+    "data": [
+      {
+        "text": "saya ingin menginfokan bahwa barang yg saya beli dari pilot sundanese elah sampai dan saya telah terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d9e47879-930b-4cf1-a2ff-1560f4323a6c",
+    "data": [
+      {
+        "text": "tidak bisa klik selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a90b0bee-f5bc-4d17-9d76-1b0443ad2ef8",
+    "data": [
+      {
+        "text": "barang sudah sampai ke tangan pembeli saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d121a5d1-0a07-4ce0-bcee-98134fe6be71",
+    "data": [
+      {
+        "text": "barang sampai kemarin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7fbc9c00-8aa7-4c54-8171-8c8173eab725",
+    "data": [
+      {
+        "text": "pesanan sudah saya terima tp saya klik selesai kok gag bisa ya kak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1547c6be-9e68-442e-8b8c-05fde27c125f",
+    "data": [
+      {
+        "text": "barang sudah diterima oleh pembeli tetapi status ditokopedia tidak berubah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f05f4467-eb97-4ff6-8ab5-9e81763a051c",
+    "data": [
+      {
+        "text": "Sudah diselesaikan kok statusnya transaksi masih di konfirmasi yg benarkan statusnya transaksi selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "636f22cd-0c15-4305-8af7-e431fbe7b997",
+    "data": [
+      {
+        "text": "barang sudah saya terima tetapi tidak bisa diklik selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b4199d29-4a67-43c9-a629-bcd65ae7d89d",
+    "data": [
+      {
+        "text": "status sudah diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7e698991-34a1-423e-bd2a-d657931ff1f0",
+    "data": [
+      {
+        "text": "tidak bisa konfirmasi penerimaan barang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d64bfc17-f501-48b6-9e84-f617cfb2c010",
+    "data": [
+      {
+        "text": "barang sudah sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d209a8c2-f126-483e-ab47-340b0e5f7741",
+    "data": [
+      {
+        "text": "Kenapa barang saya sudah sampai tapi saya tidak bisa pencet terima ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dcbb8a1b-2a01-4241-a120-561b95d78d37",
+    "data": [
+      {
+        "text": "barang sdh d terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5c0dbe41-518f-49b6-8ba6-3bd237efda90",
+    "data": [
+      {
+        "text": "transaksi ini sudah sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "768addad-0f5b-4893-9d62-f254bdc99f37",
+    "data": [
+      {
+        "text": "sy mau jualan, jika produk dikirim dengan gojek / grab bagaimana mengaktufkan fiturnya ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "408b1b01-7294-4e37-a48d-c5d24dfbd2fb",
+    "data": [
+      {
+        "text": "barang sudah sampai tp seller blm bisa cairkan dana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "37354adc-66ff-4234-ac45-ea1515119f89",
+    "data": [
+      {
+        "text": "INV/20181202/XVIII/XII/240292006 Ini barang nya sudah di terima.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

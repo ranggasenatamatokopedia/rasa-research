@@ -1,0 +1,33 @@
+{
+  "id": "7e3a8f9d-b5d3-4663-8f11-bf71f73752d5",
+  "name": "FAQ_Tokopoints_Penukaran_Kupon_Lebih_Dari_Satu_Kali",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Tokopoints_Penukaran_Kupon_Lebih_Dari_Satu_Kali-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai, satu Kupon hanya berlaku untuk satu kali pemakaian, ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

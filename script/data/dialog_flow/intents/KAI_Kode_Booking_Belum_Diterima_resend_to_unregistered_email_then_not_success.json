@@ -1,0 +1,58 @@
+{
+  "id": "5d147d5d-32fe-43f4-9a3c-fa1d3ebed677",
+  "parentId": "feb62989-ec21-4a9d-a00b-35d42d78cd1c",
+  "rootParentId": "a7e1b254-86ed-4335-a90a-f9746590e450",
+  "name": "KAI_Kode_Booking_Belum_Diterima_resend_to_unregistered_email_then_not_success",
+  "auto": false,
+  "contexts": [
+    "KAI_Kode_Booking_Belum_Diterima_status_success_resend_to_unregistered_email-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "KAI_Kode_Booking_Belum_Diterima_resend_to_unregistered_email_then_not_success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Maaf, email transaksi kamu belum berhasil dikirim secara otomatis. Toped akan bantu buatkan tiket untuk dicek lebih lanjut."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sebagai informasi, kamu juga bisa klik \"kirim kode booking\" tiket di halaman Daftar Transaksi Kereta Api. Selamat mencoba ya :)"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "data": {
+              "show_rating": false
+            },
+            "type": 0
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540365285,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "resend_not_success"
+    }
+  ]
+}

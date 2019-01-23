@@ -1,0 +1,44 @@
+{
+  "id": "179d11d2-62f9-403d-a5f6-1db0adc562d1",
+  "parentId": "14928c61-f972-43ab-b9fb-dd3bda5ae6e1",
+  "rootParentId": "14928c61-f972-43ab-b9fb-dd3bda5ae6e1",
+  "name": "FAQ_Digital_Cara_Redeem_Voucher_Unipin_computer_device",
+  "auto": true,
+  "contexts": [
+    "FAQ_Digital_Cara_Redeem_Voucher_Unipin-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Digital_Cara_Redeem_Voucher_Unipin_computer_device-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk redeem kode UPGC di komputer, kamu bisa ikuti cara ini ya:\n\n1. Klik \"isi ulang\"\n2. Pilih menu \"Up Gift Card\" yang terletak di sebelah kanan layar."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Selamat mencoba :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533280096,
+  "fallbackIntent": false,
+  "events": []
+}

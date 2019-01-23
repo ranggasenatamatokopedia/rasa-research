@@ -1,0 +1,67 @@
+{
+  "id": "dc1970fe-e668-4835-8715-9cb02e22db5f",
+  "parentId": "7c0b34c9-33d4-4ab9-8e58-b0963cc61b05",
+  "rootParentId": "440cef8c-a263-47ad-b658-e035da03a8e0",
+  "name": "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_exclude_BNI_more_7_days",
+  "auto": false,
+  "contexts": [
+    "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_tagihan_cc_exclude_BNI-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_exclude_BNI_more_7_days-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "99a1ae10-58fc-4211-9f74-1edca35fc447",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1233",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pembayaran tagihan Kartu Kredit kamu sudah berhasil pada #more_than_7_days.time_success ya. Toped akan bantu buatkan tiket untuk dicek lebih lanjut dalam 1x24 jam di hari kerja dan informasi selanjutnya akan dikirim lewat layanan pengguna."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Senang bisa membantu kamu :)"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "data": {
+              "show_rating": false
+            },
+            "type": 0
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534233129,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "more_than_7_days"
+    }
+  ]
+}

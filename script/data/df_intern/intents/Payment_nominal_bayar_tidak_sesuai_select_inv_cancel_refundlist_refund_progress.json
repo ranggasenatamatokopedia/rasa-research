@@ -1,0 +1,48 @@
+{
+  "id": "5a5961e9-f948-43ee-8adc-59a064301961",
+  "parentId": "8e15273d-7697-4bd8-a580-17f949695658",
+  "rootParentId": "feb54c5b-52cd-4135-8fbe-6ef49ccb8866",
+  "name": "Payment_nominal_bayar_tidak_sesuai_select_inv_cancel_refundlist_refund_progress",
+  "auto": false,
+  "contexts": [
+    "Payment_nominal_bayar_tidak_sesuai_select_inv_cancel_refundlist_not_null-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetRefundNotesFromRefundList",
+      "affectedContexts": [
+        {
+          "name": "Payment_nominal_bayar_tidak_sesuai_select_inv_cancel_refundlist_refund_progress-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kak, refundnya sedang dalam proses ya. Jadi, Kakak dapat menunggu terlebih dahulu maksimal 1x24 jam ya. Jika Kakak menggunakan kartu kredit, mohon ditunggu ya maksimal 14 hari kerja untuk pengembaliannya ke limit."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut informasi pengembalian dana kakak ya:"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531645423,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "refund_status_on_progress"
+    }
+  ]
+}

@@ -1,0 +1,1186 @@
+[
+  {
+    "id": "9018267d-282d-48e5-ab41-1c0e664adec6",
+    "data": [
+      {
+        "text": "Orderan saya kan ada komplain karena barang cacat....",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " juga sudah menyetujui untuk mengganti barang....akan tetapi pengirimannya untuk retur barang...kena volume sama ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nya...",
+        "userDefined": false
+      },
+      {
+        "text": "ongkir nya dikalkulasi kena 110.000 untuk retur kembali padahal ringan barangnya...sedangkan saya sudah bayar asuransi ke tokopedia...bagaimana solusinya?terima kasih",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c356bc91-a996-4972-8bbf-6a17e72c2836",
+    "data": [
+      {
+        "text": "Mau tanya bpk/ibu ini ada ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " paket yg sudah saya proses pesanannya tapi dikembalikan lg ke saya .. kendala ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mencantumkan alamat tidak jelas jadi ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pihak ekspedisi mengembalikan paket, sedangkan ongkos kirim sudah saya bayar tolong dibantu .. Apabila dana mau dikembalikan ke pembeli saya terima dengan catatan pembeli harus menanggung ongkos kirimnya.. Tidak merugikan saya sebagai pihak penjual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "215e4ec4-898d-47cc-b200-6c635c29da1f",
+    "data": [
+      {
+        "text": "MAAF TADI SAYA CEK BARANG PESANAN SAYA DI ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " TPI ",
+        "userDefined": false
+      },
+      {
+        "text": "DARI",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " KATANYA NGA LOLOS XRAY.. TERUS GIMNA??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0f5eed77-75ca-4267-b500-390519829807",
+    "data": [
+      {
+        "text": "maaf, saya mau tanya ini kan saya komplain barang dengan invoice, nah ongkir pengiriman barang tsb kembali ke ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " siapa yg nanggung ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c975ded1-35dd-432a-896b-5db0997f6fd7",
+    "data": [
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " minta retur barang tetapi barang belum dikirim untuk di retur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4997c47a-f209-49cf-94fe-7ae90a7a87b7",
+    "data": [
+      {
+        "text": "Bagaimana cara retur barang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f56b1c7e-eea8-484d-a89f-6b902c3aff50",
+    "data": [
+      {
+        "text": "prosedur return barang,?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "582938f0-5909-4b96-b767-5c64c8c77684",
+    "data": [
+      {
+        "text": "kurir telah mengembalikan barang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ceeae1d2-602a-4ead-955c-ba61590ddc0e",
+    "data": [
+      {
+        "text": "produk kami dikembalikan ke pihak kami.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0ee82e23-af4c-42bf-9a07-8be9f6e00079",
+    "data": [
+      {
+        "text": "Barang saya dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a09c7e70-7011-43f8-85d6-86e55e0d2329",
+    "data": [
+      {
+        "text": "brg dikembalikan ke toko saya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "95841435-d0ab-4f93-bd53-598e3327fc07",
+    "data": [
+      {
+        "text": "Barang dikembalikan ke saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7992478f-5c72-4d25-af93-d1b8ed2907a9",
+    "data": [
+      {
+        "text": "barang di kembalikan ke alamat pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fa30f285-995c-43dd-a6fa-5db205737019",
+    "data": [
+      {
+        "text": "kurir kembalikan paket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aca5759a-983e-4e8d-bc57-e81476b26447",
+    "data": [
+      {
+        "text": "barang di retur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "98123d3b-3c89-4269-aaf3-0f98efc87f25",
+    "data": [
+      {
+        "text": "return",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b8314f9a-3554-4a61-a29b-e899c1f39e1f",
+    "data": [
+      {
+        "text": "retuur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b431b91c-c835-46e6-8273-130b443eb4e4",
+    "data": [
+      {
+        "text": "distatus trangnya tercantum status produk diretur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9b9d8d6a-0ca9-4a2f-ba5c-7bd637d57798",
+    "data": [
+      {
+        "text": "barang dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c44367b2-6e19-45ae-89e5-6cf820b94cbb",
+    "data": [
+      {
+        "text": "barang dikembalikan ke ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "25d90774-0a66-4e50-9d32-02c5fa84ec01",
+    "data": [
+      {
+        "text": "barang di kembalikan ke pengirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "86ab8e39-72f0-4e39-93a9-63769e3a3a05",
+    "data": [
+      {
+        "text": "brg di kembalikan ke ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " oleh kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2
+  },
+  {
+    "id": "7ab25b6a-3fa7-49ab-95b8-6cc1d162cc81",
+    "data": [
+      {
+        "text": "Brang dikembalikan oleh driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d98eec62-080c-41f5-ba07-ab130162b3a1",
+    "data": [
+      {
+        "text": "kiriman saya diretur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6e79ced1-9d57-4b1c-9ce3-fe1bb56a6294",
+    "data": [
+      {
+        "text": "barang return ke kami..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5e6e54be-940c-444e-829a-2c4a7884c478",
+    "data": [
+      {
+        "text": "brg di kembalikan ke ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "85b2dbdb-3317-402c-8fcd-dde54703faad",
+    "data": [
+      {
+        "text": "barang dikembalikan oleh ekspedisi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9cd7695b-00ef-4b4b-a503-2377317b39a2",
+    "data": [
+      {
+        "text": "barang dikembaliakn ke pengirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "131c2ebb-0967-4b54-8032-2323d09612ed",
+    "data": [
+      {
+        "text": "barang dikembalikan ke saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2647039f-bbcc-4ca8-8a54-078d322d6a17",
+    "data": [
+      {
+        "text": "retur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1617874e-a218-4140-a580-efa27f9897e7",
+    "data": [
+      {
+        "text": "pengiriman di retur masalah nya apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "386dc75e-32d7-446d-a1c0-738beb8e851b",
+    "data": [
+      {
+        "text": "barang diretur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6297e9f2-587f-4caf-a351-366c1442e161",
+    "data": [
+      {
+        "text": "barang dikembalikan oleh driver ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ke ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "896b2273-554f-489f-80aa-e72b50b9b6e3",
+    "data": [
+      {
+        "text": "brng di retur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5c569eaa-187f-4b8c-909b-bf63a0cb82ea",
+    "data": [
+      {
+        "text": "saat di track tulisannya retur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d97f9c72-85fa-4d85-815d-44534711d314",
+    "data": [
+      {
+        "text": "paket dikembalikan ke ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3128f953-5b4d-46f6-a225-6fe8ca84ddfd",
+    "data": [
+      {
+        "text": "Status tracking dari ",
+        "userDefined": false
+      },
+      {
+        "text": "wahana",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nya adalah rerur.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f9b9cb65-a77f-4054-abf0-53f41673b70a",
+    "data": [
+      {
+        "text": "barang sudah kembali ke kita sebagai ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "34fcfb75-1dcb-4009-afa4-20a86c84ed1d",
+    "data": [
+      {
+        "text": "kalau barang dikembalikan ke pengirim gimana yah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "75981492-d3a3-4f92-b6c1-59bd843a1026",
+    "data": [
+      {
+        "text": "Barang di retur oleh kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "94e32360-7db6-4ff2-8972-e34ce2b2f8ea",
+    "data": [
+      {
+        "text": "produk sudah dikirim tapi diretur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "92180665-e7e4-4d24-a026-cb7a8860ab15",
+    "data": [
+      {
+        "text": "barang di retur kembali ke ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "05d2e501-f637-48c2-a834-4ade5c138a68",
+    "data": [
+      {
+        "text": "paket diretur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a60168a4-ac12-416b-9141-97571d480634",
+    "data": [
+      {
+        "text": "hallo, saya ingin menayakan kenapa barang di retur kembali ke ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ya ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "037897df-f0ae-4a2d-942b-7d807793d2ee",
+    "data": [
+      {
+        "text": "barang di return",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "99fee961-23de-40d5-91a5-a2a20d4e9dd1",
+    "data": [
+      {
+        "text": "barang masih di toko karena dibalikin ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dengan alasan tidak ada penerima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c9eede57-76ae-4f1d-9805-d03f4f7003b2",
+    "data": [
+      {
+        "text": "paket dikembalikan ke kami",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "98424c64-4c7e-4db0-9cf4-8860c29659e9",
+    "data": [
+      {
+        "text": "sy cek status retur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "49c166e2-a199-43b5-bef8-015c3afcfba3",
+    "data": [
+      {
+        "text": "Barang dikembalian ke pengirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bbd03ea3-d6cf-4562-aa59-46ef4ee12300",
+    "data": [
+      {
+        "text": "tolong dibantu transaksi ko statusnya direturn tanpa alasan dari ekspedisinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f36b4c90-3e4a-4560-ad2c-04cf8eda56b5",
+    "data": [
+      {
+        "text": "Brang dikembalikan oleh drive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "51fdcf43-6a42-4768-bb12-bae645223e1e",
+    "data": [
+      {
+        "text": "Barang dikembalikan ke pengirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ae2102c8-8d3d-4a7f-abb6-3e7faf0797e0",
+    "data": [
+      {
+        "text": "barang dikembalikan oleh pihak kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c3aa0579-b22b-418a-a981-91ff09263382",
+    "data": [
+      {
+        "text": "Order ini dikembalikan lagi oleh driver ke kami Jika customer meminta dikirim ulang gimana ? mohon bantuannya, Terimakasih,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6ff83334-8065-43af-9441-4c42b6a98007",
+    "data": [
+      {
+        "text": "Karena ada gangguan perjalanan,barang dikembalikan pada pengirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a01053da-ec1e-43a2-9821-4f09586f0ec2",
+    "data": [
+      {
+        "text": "saya order barang tp trnyata expired dan penjual.minta saya kirim barang kembali? gmna ongkirnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2ff2114f-545e-426d-9e98-18f5e2f24215",
+    "data": [
+      {
+        "text": "penjual tidak kooperatif dlm proses tukar barang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6e1c68fc-bfc3-4875-a3e3-af059e60b5ff",
+    "data": [
+      {
+        "text": "Paket yang saya retur sudah diterima, kenapa dana saya masih terus ditahan Tokopedia ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7c0b67c1-d3ad-4f0e-a24f-d9e8c2e124c2",
+    "data": [
+      {
+        "text": "barangnya sudah saya return dan sudah sampai dipenjual. jadi saya minta uang saya dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6f397b21-e4c1-48f6-b1ff-8fef775dd7a1",
+    "data": [
+      {
+        "text": "HP saya kirim kembali, tetapi sampai sekarang HP tersebut belum dikirim lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a6076601-f4bf-412e-890a-91030ad19e24",
+    "data": [
+      {
+        "text": "saya sudah minta pembeli untuk mengembalikan barang saya ,tapi tidak ada konfirmasi lagi dari pembeli mengenai pengembalian barang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c57fbc76-dfaf-4058-9ef1-f97277094c17",
+    "data": [
+      {
+        "text": "mohon maaf, gara gara tokopedia menyelesaikan komplain, barang tidak di retur dan dana malah kembali ke pembeli, rugi saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d3782617-d7c6-4a5f-be12-e688af57b97f",
+    "data": [
+      {
+        "text": "cara masukan resi pengemballian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "444478c7-0712-496b-ad0c-b2f7abc48842",
+    "data": [
+      {
+        "text": "pembeli minta retur barang tetapi barang belum dikirim untuk di retur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "67f2d8d5-e3b1-43cd-a491-36a772d5a5fb",
+    "data": [
+      {
+        "text": "barang retur, dikembalikan ke pengirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dd9a0646-f616-49df-85b9-ce92e278d4bc",
+    "data": [
+      {
+        "text": "tentang return complent min",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d733acbd-a1ee-4722-b9bd-9ca46268c694",
+    "data": [
+      {
+        "text": "saya kan sudah dapat jawaban dari penjual . Dia minta sy kembalikan brgnya, bagaimana prosesnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1d1b35ef-4468-4c92-b2a2-ac44e53b019c",
+    "data": [
+      {
+        "text": "saya belum menerima uang pengganti ongkos kirim barang retur sebesar 90rb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d35161e4-6449-4c70-b801-b6aebe33d63e",
+    "data": [
+      {
+        "text": "Barang sudah dipaketkan kembali ke alamat toko tsb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "40a515d7-85f0-4b05-8d38-60e3713c539d",
+    "data": [
+      {
+        "text": "saya ada 2 pengiriman barang ernyata setelah saya cek ke JNE barang tsb keduanya tidak diketemukan alamatnya oleh JNE barang dikembalikan ke saya tapi ongkir sebesar 27 rb per paket tidak dikembalikan oleh JNE",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8fb58906-9a6e-47f2-9e0e-241c3c426f2b",
+    "data": [
+      {
+        "text": "saya sudah bilang kepada penjual salah pilih alamat pengiriman, minta dirubah manual dengan alamat yg valid, penjual ttp kirim ke alamat kantor lama, akhirnya gagal kirimitu paketnya balik ke seller",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a9ce9424-c1b7-43ae-bc1f-faf84bb38f52",
+    "data": [
+      {
+        "text": "Pesanan saya dikembalikan ke penjual oleh jne dan penjual tidak memberi kabar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "281471a1-f997-436b-9861-5b90073e896a",
+    "data": [
+      {
+        "text": "saya sudah mengirim barang retur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c90b82fe-f281-4d55-815a-078450c4dc02",
+    "data": [
+      {
+        "text": "barangnya udah di kirim ulang ke pembeli, tp saya lupa masukin nomor resi nya krn pake gojek yg di pesen pembeli, skrg dana saya nyangkut, tlg bantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5c2b1bbf-7d75-4e7a-8e1f-e9881c2e6991",
+    "data": [
+      {
+        "text": "saya ingin retur barang karena tidak muat tp sudah kepencet selesai, mohon bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f495839f-b6b2-4d20-8530-768cfca12dcc",
+    "data": [
+      {
+        "text": "pesanan dikembalikan ke saya. tolong untuk d cancel dan di pick up ulang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4b0abce3-a29b-4998-9d7d-157a909f090c",
+    "data": [
+      {
+        "text": "saya ingin refund ke pembeli karena barangnya dikembaliin ke saya namun komplain sudah expired, mohon segera selesaikan krn dana sy tertahan cukup lama ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7885f002-45ab-4797-b0f1-bf0c2219072a",
+    "data": [
+      {
+        "text": "barang ternyata terkirim balik ke pengirim..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "51d39152-4d34-4555-9478-c4a2d2327644",
+    "data": [
+      {
+        "text": "saya barusan cek menu lacak, disitu tertulis orderan saya dikembalikan si cepat ke agen manyar surabaya, dikarenakan rusak.itu gimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dc58cfff-38ae-4541-878b-ab785894fb13",
+    "data": [
+      {
+        "text": "saya ada komplain transaksi saya, barang sudah saya kembalikan ke pengirim, tp dana saya belum di balikin sm seller",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9f08cedf-6ca9-42c0-b49e-70f1836ae807",
+    "data": [
+      {
+        "text": "klik udah sampai tujuan.tp barang d kembalikan kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "36e6173a-6496-421d-b3e6-ad10c7d0e4e1",
+    "data": [
+      {
+        "text": "saya dan penjual udah setuju refund dana dan barangnya akan di retur ke penjua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "da2c4a0d-29dc-4320-9179-e1cb7c551b34",
+    "data": [
+      {
+        "text": "untuk transaksi tersebut paket barang sudah dikembalikan ke kami sebagai penjual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4e09be80-17ff-413d-bad8-bb76b9daccf1",
+    "data": [
+      {
+        "text": "bisa minta tolong retur tapi terlanjur pencet terima barang dan uang sudah di teruskan ke penjual?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "53979c25-0ba2-498c-ac36-e11e7d5f235d",
+    "data": [
+      {
+        "text": "kmrn saya kirim balik barang saya ke seller pake JNE, dan resi udah saya masukkin, ongkos kirimnya bagaimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b2eeee0b-2231-476a-af24-d97a6cf6a9b5",
+    "data": [
+      {
+        "text": "saya udah retur barangnya ke penjual, tlg ubah status di pusat solusinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7db8c99b-2a77-4bfa-91e2-5d506e685abf",
+    "data": [
+      {
+        "text": "saya,mengalami kendala,dlm pengiriman no resi atas barang yg saya,mau retur ke penjual.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "979dfd15-ba20-40b1-92bc-f6d784f8d14c",
+    "data": [
+      {
+        "text": "pihak seller telah mengirimkan dan memesankan gojek untuk mengambil produk. akan tetapi, produk gagal dikirimkan dan di retur kembali dari pihak pembeli. karena pada alamat tidak ada yg bisa menerima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f0ec730c-7244-4f2e-aeb8-8cc375d0c8c3",
+    "data": [
+      {
+        "text": "barang di retur ke penjual kok transaksi udah selesai aja, yg bener lah toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5b4d2020-d853-4e9e-a426-442cf8f6e782",
+    "data": [
+      {
+        "text": "refound barang . Delivered / Terkirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0418660e-ee44-4497-8db4-13337d0c933c",
+    "data": [
+      {
+        "text": "saya sdh komunikasi dgn penjual . barang hendak sy kmbalikan dgn ongkos kirim dtanggung pmbeli, sy gpp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4ccacc9b-04cf-4024-a45f-a614403955d8",
+    "data": [
+      {
+        "text": "mohon dana di tahan adminkarna kami lupa memberika alamat kepada pembelisedangkan barang blom di kirim ke kita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4b8d25c9-1f81-4498-b77e-bc90a25c63f1",
+    "data": [
+      {
+        "text": "retur barang yang error diluar pusat resolusi atas saran dr seller nya apakah masih ter cover oleh pihak tokpedia, soalnya saya beli barang tersebut di tokopedia tapi masalah muncul ketika sudah beberapa hari saya klik barang tiba dan selesai transaksi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

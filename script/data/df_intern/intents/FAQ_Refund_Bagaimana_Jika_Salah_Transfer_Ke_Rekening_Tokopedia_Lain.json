@@ -1,0 +1,32 @@
+{
+  "id": "f929fa7d-44e8-4a00-b191-ad53024b9f97",
+  "name": "FAQ_Refund_Bagaimana_Jika_Salah_Transfer_Ke_Rekening_Tokopedia_Lain",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jangan khawatir ya, selama nomor rekening tujuan transfer masih atas nama PT Tokopedia, pembayaran kamu tetap bisa diverifikasi. Kamu bisa tunggu proses verifikasinya selesai dalam waktu 2x24 jam."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520579278,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_refund_bagaimana_jika_salah_transfer_ke_rekening_tokopedia_lain"
+    }
+  ]
+}

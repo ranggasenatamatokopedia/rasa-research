@@ -1,0 +1,43 @@
+{
+  "id": "207b443b-a3b5-4cf9-9cf2-3447f99bafc3",
+  "parentId": "9019a5b8-52cc-4de9-85ab-5439607b52da",
+  "rootParentId": "96f23e85-fae0-4896-8203-08e968aef1b9",
+  "name": "Payment_sudah_bayar_tp_batal_order_cancelled_scrooge_fail_tokocash",
+  "auto": true,
+  "contexts": [
+    "Payment_sudah_bayar_tp_batal_order_cancelled_scrooge_fail-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckIsTokocashAddAndPay",
+      "affectedContexts": [
+        {
+          "name": "Payment_sudah_bayar_tp_batal_order_cancelled_scrooge_fail_tokocash-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531454823,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "tokocash"
+    }
+  ]
+}

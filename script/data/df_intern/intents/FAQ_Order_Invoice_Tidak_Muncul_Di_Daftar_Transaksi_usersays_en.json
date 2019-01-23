@@ -1,0 +1,550 @@
+[
+  {
+    "id": "cc5d63b2-1856-435e-8caf-aa8f310a1935",
+    "data": [
+      {
+        "text": "kalau mau nyari nama Customer di transaksi yang sudah dibayar gimana ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5965b7d9-a444-4b09-873d-ab4689b60419",
+    "data": [
+      {
+        "text": "Transaksi Pulsa saya menghilang ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Daftar Transaksi padahal belum berhasil. Ini bukti transfernya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1adfafeb-5125-4d1a-a21f-c8da286c4a23",
+    "data": [
+      {
+        "text": "saya tidak bisa menemukan pesanan ini di daftar transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "30b9a4f1-0af4-47a4-9904-80b446861422",
+    "data": [
+      {
+        "text": "setelah di search, invoice tetap tidak ada di daftar transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d1c5471d-3685-4aeb-aa6b-3143a449f991",
+    "data": [
+      {
+        "text": "saya kesulitan mencari pesanan ini di daftar transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "81770bd3-236d-4621-91fd-efe02e491e01",
+    "data": [
+      {
+        "text": "tidak muncul di search daftar transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4ff6c60a-097c-42a3-92e6-e67bddc5b632",
+    "data": [
+      {
+        "text": "pesanan yang dicari tidak tampil di daftar transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4a720db6-6229-4f93-a8db-866cfd148e1a",
+    "data": [
+      {
+        "text": "daftar transaksi tidak ada untuk invoice ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "379d0d4a-76fd-4f54-88b6-41baa7ebcb95",
+    "data": [
+      {
+        "text": "tidak ada invoice ini di daftar transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5d31d15d-5ef9-4be2-9460-bd9e66d5cdae",
+    "data": [
+      {
+        "text": "sudah mencari invoice ini tapi tidak ditemukan di daftar transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fd679ba1-fdd2-40b5-8bbe-bc4fc60359c8",
+    "data": [
+      {
+        "text": "tidak menemukan invoice ini di menu daftar transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6c5afb9e-abae-48ee-94ff-420bf85250e5",
+    "data": [
+      {
+        "text": "invoice ini tidak ditemukan di daftar transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e8d0d838-2ebe-408c-aa77-e4093ac474ee",
+    "data": [
+      {
+        "text": "sudah dicari tapi invoice tidak ada di daftar transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9646a813-8bb8-406b-bd42-1a3abf9adb9b",
+    "data": [
+      {
+        "text": "tidak menemukan hasil pencarian invoice ini di daftar transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "28910e78-c340-4019-89d0-b119b9dca4bf",
+    "data": [
+      {
+        "text": "pesanan tidak muncul di daftar transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "80d0e4b6-55de-4c49-9a53-8c2d3b974e12",
+    "data": [
+      {
+        "text": "invoice tidak ada di daftar transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7c91ad49-b68b-455b-8817-b8a07e2ca5af",
+    "data": [
+      {
+        "text": "invoice ini tidak muncul di daftar transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "09e2ccb0-9d74-4aa3-a7b5-3c548382b7ef",
+    "data": [
+      {
+        "text": "tidak ditemukan di daftar transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dc12fb4b-886f-4f31-bd4d-0594ab6372cc",
+    "data": [
+      {
+        "text": "invoice tidak muncul di daftar transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a0bc9940-48c4-44df-8c4d-5a032921efde",
+    "data": [
+      {
+        "text": "invoice ini tidak saya temukan di daftar transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5635448c-1814-4baa-a656-6006967d5de0",
+    "data": [
+      {
+        "text": "invoice tidak ditemukan di daftar transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "93ed3a9e-a2b5-44f6-9f86-a7484852a986",
+    "data": [
+      {
+        "text": "pesanan tidak muncul pada daftar transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5755c6c2-8026-4974-b98b-2d3fa22cba33",
+    "data": [
+      {
+        "text": "halo tokopedia, saya mah tanya kenapa di billing statement citibank saya ada tagihan ter tanggal 27 september 2018 sebesar 1.298.185 tetapi ketika saya crosscheck ke riwayat transaksi tidak ada transaksi sejumlah sekian? bisa tlg jelaskan? thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5751eea5-704c-4b5b-b8ea-1a34d22e4d3d",
+    "data": [
+      {
+        "text": "tlg lihat orderan yg sdh sy bayar dan berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e72aa3c9-ddb6-498f-9f3e-a0c938b05068",
+    "data": [
+      {
+        "text": "cara cari tau invoice no resi bagaimana kenapa tidak ada search namanya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "27da6dab-a974-4159-9b85-6a603c0b2f28",
+    "data": [
+      {
+        "text": "saya ingin menanyakan no transaksi lama saya senilai 798.887 pembayaran dengan Kartu Kredit BCA. itu untuk pembelian apa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2e5f66f5-089d-406f-a19e-42722cf27d96",
+    "data": [
+      {
+        "text": "Ini transaksi apa ya? saya kok tidak tau kalo ada transaksi ini? bisa di telusuri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6853f85f-f167-43a0-bbab-13cb60233b01",
+    "data": [
+      {
+        "text": "pesanan yg belum dibayar gabisa di lihat invoice nya ya? ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6781f5ce-06e2-41e9-a449-bc0d651b0e58",
+    "data": [
+      {
+        "text": "saya mau cek invoice transaksi yg sudah agak lama, saya cek di riwayat sudah nggak ada. gimana caranya ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1ba69d2c-0016-413b-b0c2-92995435576d",
+    "data": [
+      {
+        "text": "sudah bayar tapi transaksinya menghilang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "db1a8b9c-c758-4319-a59b-58f39607c091",
+    "data": [
+      {
+        "text": "pagi, mau nanya kenapa Sekarang gak bisa liat transaksi yg pernah saya beli sebelumnya? trims",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2eb271d2-c0f7-420b-b030-b8bfa9981eaf",
+    "data": [
+      {
+        "text": "transaksi tiket pesawat, awalnya bilang sedang diverifikasi, sudah ada pemberitahuan via sms dari bank bahwa transaksi kartu kredit berhasil, tapi di tokopedia malah daftar transaksi pembelian tidak ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4c5b3bed-89c8-4dee-b017-262fee1a34b3",
+    "data": [
+      {
+        "text": "Transaksinya tidak muncul di akun saya, giimaan nih min",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d69c0d27-b6c7-4bfe-9635-4b81887b7a3d",
+    "data": [
+      {
+        "text": "kenapa transaksi yang saya maksud tidak ada dilist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2c61eced-fe67-4051-81a5-5a3709125998",
+    "data": [
+      {
+        "text": "Transaksi sudah dibayar tp tidak terdeksi di aplikasi,, di email ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2e12181f-8cac-4080-930a-99e61bed42c1",
+    "data": [
+      {
+        "text": "saya ada belanja di tokopedia pake credit card, kata bank transaksi sudah berhasil, tp transaksinya tidak ada di tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bdc75217-ae6a-4894-b046-6ca80f1b4bbe",
+    "data": [
+      {
+        "text": "dimana saya bisa lihat voucher makan yang saya beli?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cf8f4dd2-9f01-4aff-8c84-8f9f029d668d",
+    "data": [
+      {
+        "text": "barusan saya pesan tiket kereta api, sudah bayar juga.  tetapi waktu saya cek riwayat pemesanan tidak ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8f5072be-35e4-4e1c-8590-761ff5241308",
+    "data": [
+      {
+        "text": "sy mau ibanking, market place tdk ada transaksi . sy mau byr, ibanking tdk ada transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "167f6efe-5667-47e3-bc86-131ba0db0ea8",
+    "data": [
+      {
+        "text": "saya mau minta tolong kirim ulang pembayaran yang terakhir bisa . punya saya kehapus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ff9abb4c-49a7-4c52-b675-93f81ecd3001",
+    "data": [
+      {
+        "text": "Riwayat transaksi sy tidak ada, kekurangan pembayaran akan sy transfer hari ini...tapi kenapa history transaksi sy hilang..?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "09518a29-4c88-4280-9408-30ff7a66c686",
+    "data": [
+      {
+        "text": "Saya beli barang dengan total sekian,. Sudah saya proses,. Sudah saya bayar dg nominal sekian . Giliran mau unggah bukti pembayaran,. Barangnya yg saya pesan itu tidak ada dibukti pembayaran padahal saya sudah transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d291168c-543f-4e39-bc12-9a985b02e49f",
+    "data": [
+      {
+        "text": "Rincian transaksi penjualan hilang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ee9c5d37-cc85-4f57-8968-40a0196624a1",
+    "data": [
+      {
+        "text": "Transaksi tidak muncul di status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c17d271e-c39c-4826-8ba8-a61db1596956",
+    "data": [
+      {
+        "text": "Transaksi Ed sheraan saya, menghilang dr notifikasi,  apakah dibatalkan atau bagaimana statusnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4323120b-48cd-43fa-b683-62e7f47bdf79",
+    "data": [
+      {
+        "text": "Tp saya cek riwayat saya tidak ada transaksi tersebut . Transaksi saya tidak ada di history akun saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "27e1bd64-f76b-43b6-8c0f-ba765cc15ad9",
+    "data": [
+      {
+        "text": "Sudah Order tapi transaksinya tidak muncul dihalaman  Menunggu Pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7e472459-d5db-4923-af07-19d5dcf0b317",
+    "data": [
+      {
+        "text": "saya ad transaksi tgl 8 d biling tagihan 1950927 itu transksi ap ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e8efd74b-3048-4695-a476-de0ce003adfb",
+    "data": [
+      {
+        "text": "saya cek di data transaksi saya tidak ada tapi masuk di tagihan kartu kredit saya . bisa di bantu kirim invoice?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

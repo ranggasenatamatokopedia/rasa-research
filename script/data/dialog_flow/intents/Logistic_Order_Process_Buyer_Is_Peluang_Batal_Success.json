@@ -1,0 +1,43 @@
+{
+  "id": "87af605c-77d2-4db0-a857-345e2e5df28e",
+  "parentId": "8f5a916d-16b2-4bf2-8308-a6c49e51db02",
+  "rootParentId": "d19f77a0-9fc1-4329-9b8c-1f9cb2ed3084",
+  "name": "Logistic_Order_Process_Buyer_Is_Peluang_Batal_Success",
+  "auto": true,
+  "contexts": [
+    "Logistic_Order_Process_Buyer_Is_Peluang_Batal-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Order_Process_Buyer_Is_Peluang_Batal_Success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pengajuan pembatalannya sudah Toped sampaikan ke penjual ya. Tinggal menunggu keputusan dari penjual. Pantau terus pesanan kamu di menu \"Status Pemesanan\" ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541388786,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "api_success_cancel_order"
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+[
+  {
+    "id": "e1fa13a3-75c6-44f5-89d2-c9fc647df5c1",
+    "data": [
+      {
+        "text": "kalau saya buat voucher toko, dana cashback ditanggung tokopedia tidak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2eff0f04-3d6f-4486-86ce-b479b27c2fc9",
+    "data": [
+      {
+        "text": "kalo saya bikin vocer toko yang nanggung biayanya saya atau tokopedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9dddc12c-d871-4f66-abb5-fb530d240bd6",
+    "data": [
+      {
+        "text": "yang nanggung vocernya siapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4822a8ac-5711-4321-ab8f-9a85ffec9395",
+    "data": [
+      {
+        "text": "apakah gratis ongkir voucher toko ditanggung oleh tokopedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "153cd6eb-a28e-4818-bdb6-7b2d8c9dc8a0",
+    "data": [
+      {
+        "text": "cashback voucher toko ditanggung tokopedia atau ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2d43dfce-1a5c-4602-a8ba-637b8ac4c79f",
+    "data": [
+      {
+        "text": "apakah cashback voucher toko ditanggung tokopedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c5f941a5-4bcd-4518-8656-7085f222eb6f",
+    "data": [
+      {
+        "text": "promo yang voucer toko itu yang bayar ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " atau tokopedia sih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "925cf5f8-f930-4539-b71d-d4cf894a17ac",
+    "data": [
+      {
+        "text": "saya mau bikin vocher toko yang gratis ongkir nanti yang nanggung siapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8e27696e-99b5-4088-a0aa-86e3d5b54e6c",
+    "data": [
+      {
+        "text": "kalau saya bikin vocher toko yang nanggung promomya saya atau tokopedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5531c80f-7d1f-493a-af0f-3de8d99a971e",
+    "data": [
+      {
+        "text": "siapa yang menanggung promo vocher toko ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "045e9c0a-a19b-4595-939c-228d712444d2",
+    "data": [
+      {
+        "text": "yang bayarin vocher tokonya siapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a5f5bc71-b344-4a1a-b55b-a3aa3b73d475",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " yang menanggung voucer toko nya siapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6f3cc595-bc96-43d1-b6fe-88bdcafe70bc",
+    "data": [
+      {
+        "text": "yang bayar vocher toko nya siapa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "52910310-ab7f-4d23-adbc-38a693c8c53e",
+    "data": [
+      {
+        "text": "gimana biaya pertanggungan voucher toko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eb731918-a2e7-4c58-a36c-5845793543d9",
+    "data": [
+      {
+        "text": "kalau pake voucher toko siapa yang tanggung apa apa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "69c2c3d4-7016-4c88-a973-c633ce4832e3",
+    "data": [
+      {
+        "text": "ini voucher toko yang nanggung ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "41589fbc-54f5-4092-808f-32534ac22f91",
+    "data": [
+      {
+        "text": "siapa yang nanggung cashback kalo saya bikin voucher toko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0276b519-1be9-4c12-858c-0f755e99aaed",
+    "data": [
+      {
+        "text": "siapa yang nanggung biaya ongkir kalo saya bikin voucher toko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "84a63b7c-fa55-4f84-ad3b-00bd5ff3101a",
+    "data": [
+      {
+        "text": "voucher toko siapa yang akan bayar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aab5b80a-7523-43c4-8a94-9a88f76cbd96",
+    "data": [
+      {
+        "text": "apakah tokopedia menanngung gratis ongkir  dari voucher toko saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3ec455f2-0ae8-484a-8355-72280cd1f173",
+    "data": [
+      {
+        "text": "apakah tokopedia menanngung cashback dari voucher toko saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "223c739a-553b-4d25-a72a-410ac5b7fdfc",
+    "data": [
+      {
+        "text": "voucher toko yang saya buat apakah akan ditanggung tokopedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "007aea4d-4f9a-4b51-8cfa-f53db9113e1c",
+    "data": [
+      {
+        "text": "apakah voucher toko yang saya buat ditanggung oleh siapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9ea1d62d-53f4-4273-b139-0d726be3ac0e",
+    "data": [
+      {
+        "text": "cashbcak voucher toko siapa yang bayar ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "826a9830-0f82-4125-bbac-9b37e5e0def9",
+    "data": [
+      {
+        "text": "gratis ongkir voucher toko saya siapa yang bayar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "937069ec-c025-4d80-ac22-9923ae9a444e",
+    "data": [
+      {
+        "text": "siapa yang menanggung voucher toko yang saya buat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c6a7716d-ec05-4901-b6f9-ca0321949d8e",
+    "data": [
+      {
+        "text": "siapa yang menanggung voucher toko?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b9fb0778-80c7-4a7d-bf51-929148a0458a",
+    "data": [
+      {
+        "text": "promo cashback dan gratis ongkos kirim di voucher toko siapa yang ditanggung siapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8257c922-a89e-4381-838c-8cb0861e78cc",
+    "data": [
+      {
+        "text": "gratis ongkos kirim voucher toko ditanggung saya atau tokopedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fe1b2e05-cb84-43c7-a05e-b6c78485f6e2",
+    "data": [
+      {
+        "text": "cashback voucher toko ditanggung siapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "86e25c4a-a355-4498-bda3-de888d8d08aa",
+    "data": [
+      {
+        "text": "yang kasih cashback di voucher toko siapa ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "99ed5b42-0a4a-40f2-ba89-50ad493d124e",
+    "data": [
+      {
+        "text": "voucher toko itu yang bayar siapa ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

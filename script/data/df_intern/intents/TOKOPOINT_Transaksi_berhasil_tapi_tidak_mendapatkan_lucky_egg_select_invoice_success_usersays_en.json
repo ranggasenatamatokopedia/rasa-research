@@ -1,0 +1,33 @@
+[
+  {
+    "id": "224de3c7-d9e8-480e-b7f4-9e45a2a2d049",
+    "data": [
+      {
+        "text": "transaction_finished_but_less_than_",
+        "userDefined": false
+      },
+      {
+        "text": "24",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_hour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9a67eab0-6f17-4f98-b685-32785e80e6a4",
+    "data": [
+      {
+        "text": "transaction_finished_and_more_than_24_hour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

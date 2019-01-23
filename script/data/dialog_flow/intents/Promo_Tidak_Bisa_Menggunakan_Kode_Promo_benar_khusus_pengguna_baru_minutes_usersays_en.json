@@ -1,0 +1,50 @@
+[
+  {
+    "id": "f1d88160-80fe-4356-afeb-9c227d912f68",
+    "data": [
+      {
+        "text": "1 Agustus 2018",
+        "alias": "tkpd_date",
+        "meta": "@tkpd_date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4eae3b6f-54b9-4995-84d2-c0775465f48b",
+    "data": [
+      {
+        "text": "12 Jan 2018",
+        "alias": "tkpd_date",
+        "meta": "@tkpd_date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "081be063-d675-42f0-af06-864bbe907d37",
+    "data": [
+      {
+        "text": "add_text_insert_date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b3321848-21aa-44b4-923d-0d2ad3786a9a",
+    "data": [
+      {
+        "text": "@tkpd_date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "53ec5055-5a01-441a-ae8d-42c2b0890b27",
+    "data": [
+      {
+        "text": "invoice_payment_due",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "58742095-1305-4746-bb88-5eda96a421cc",
+    "data": [
+      {
+        "text": "invoice_canceled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "481551c3-0d1d-4c3a-bfd8-5146b6fbcf1a",
+    "data": [
+      {
+        "text": "invoice_batal_otomatis_oleh_sistem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "26aa4c52-2316-4829-bc53-937664248768",
+    "data": [
+      {
+        "text": "invoice_pesanan_ditolak_",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "53071cd7-7511-4f0d-970f-76958d1aa720",
+    "data": [
+      {
+        "text": "invoce_refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

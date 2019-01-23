@@ -1,0 +1,264 @@
+[
+  {
+    "id": "2ae10619-d6ec-432d-a073-38d765e271a7",
+    "data": [
+      {
+        "text": "berapa lama waktunya buat proses pesenan ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " peluang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fb2a325a-3949-4c23-bc25-caef0fb8c7f4",
+    "data": [
+      {
+        "text": "seberapa banyak waktu yang dikasih buat proses order peluang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9f31d1f4-f866-4bf8-93fe-5e26b7b5d10d",
+    "data": [
+      {
+        "text": "kalau ambil order dari peluang, waktu buat proses pesenannya lebih panjang ga ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f594a7d0-5e57-4d93-b04c-285edbfdd9c1",
+    "data": [
+      {
+        "text": "saya dapet orderan peluang, kapan batas akhir buat memproses?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dc7e3e12-1d4f-4b4f-b7c6-1d7136f3e609",
+    "data": [
+      {
+        "text": "seberapa lamanya waktu yang dikasih buat proses pesanan peluang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1a843db3-1950-4d42-bc15-91acac2db51f",
+    "data": [
+      {
+        "text": "berapa waktu yang dikasih buat respon proses order peluang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9e274cc8-ad4b-4a6f-9c56-c077c4680a72",
+    "data": [
+      {
+        "text": "berapa lama waktu untuk proses pesanan peluang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c74b7230-2108-4f4b-bc6e-41f27c7ff233",
+    "data": [
+      {
+        "text": "berapa lama waktu yg tokopedia kasih buat respon pesanan peluang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8af571e5-6f51-4891-8baf-0c7f7e7a2546",
+    "data": [
+      {
+        "text": "kalau saya mau ambil pesanan peluang, saya diberikan waktu berapa lama untuk proses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ead8c8d0-270e-4133-8a54-3451c86a66ec",
+    "data": [
+      {
+        "text": "apakah ada perpanjangan waktu untuk proses pesanan peluang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "450abb22-6017-4470-8c6e-a4a299a268be",
+    "data": [
+      {
+        "text": "banyak ga sih waktunya yang dikasih buat proses pesenan peluang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a98cfa4d-e1d7-4c43-9285-5348aa6375f3",
+    "data": [
+      {
+        "text": "Jika pesanan peluang saya ambil, berapa lama waktu saya untuk memproses?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6552fc2e-aa85-4ffd-8f09-7cbeed668fcd",
+    "data": [
+      {
+        "text": "kalau mau ambil order peluang, proses nya dikasih waktu berapa hari?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4f58ba24-62cb-487a-a2f0-61394ed8df3d",
+    "data": [
+      {
+        "text": "saya punya pesanan peluang, berapa lama saya bisa memproses order ini?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a619ecf5-ffd1-4756-9fa4-bf57cbf0fba3",
+    "data": [
+      {
+        "text": "saya udah ambil order dari peluang, waktu prosesnya kok tinggal sebentar ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fa51f40c-169c-43c5-aa3f-c87867820ff8",
+    "data": [
+      {
+        "text": "apakah waktu proses pesanan peluang sama dengan pesanan biasa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "793388df-3840-4d47-8bea-cb72d1f5a8a3",
+    "data": [
+      {
+        "text": "berapa waktu yang dikasih buat proses pesenan peluang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "de8854ae-d75b-4851-b695-383ef8290305",
+    "data": [
+      {
+        "text": "Berapa lama waktu proses pesanan Peluang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "907dd4c5-0cce-4931-84f6-fefcc529f9d3",
+    "data": [
+      {
+        "text": "berapa hari kesempatan untuk memproses pesanan peluang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2cb50c3c-28a7-44d9-8148-c8478aef4b9e",
+    "data": [
+      {
+        "text": "gimana perhitungan waktu proses pesanan peluang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a2681065-3020-4930-97d4-17e0c5caee86",
+    "data": [
+      {
+        "text": "batas waktu buat proses pesanan peluang sama ga sih dengan pesanan biasa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "04b99d34-d533-4a62-a3ab-d4e83a40612f",
+    "data": [
+      {
+        "text": "apakah ada perpanjangan SLA proses order peluang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "faaa0b08-414c-475b-b30f-45bef484b040",
+    "data": [
+      {
+        "text": "barang belom nongol dari peluang, berapa lama nih nyari tokonya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

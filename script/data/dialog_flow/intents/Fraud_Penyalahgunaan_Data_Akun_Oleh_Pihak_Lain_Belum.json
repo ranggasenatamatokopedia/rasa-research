@@ -1,0 +1,39 @@
+{
+  "id": "3c5c7f06-5414-4cd2-9c0a-9a96a9a60e93",
+  "parentId": "a561d098-021e-47e7-941b-bfa12101c49c",
+  "rootParentId": "a561d098-021e-47e7-941b-bfa12101c49c",
+  "name": "Fraud_Penyalahgunaan_Data_Akun_Oleh_Pihak_Lain_Belum",
+  "auto": true,
+  "contexts": [
+    "Fraud_Penyalahgunaan_Data_Akun_Oleh_Pihak_Lain-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Penyalahgunaan_Data_Akun_Oleh_Pihak_Lain_Belum-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa lampirkan bukti foto paket yang kamu terima untuk mempermudah proses pengecekannnya, ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539234348,
+  "fallbackIntent": false,
+  "events": []
+}

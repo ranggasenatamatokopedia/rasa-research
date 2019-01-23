@@ -1,0 +1,43 @@
+{
+  "id": "834bac6f-bcb8-4122-858c-d0a7587dd8f9",
+  "parentId": "bc2adf07-eb09-40a3-b191-02043e4b94cb",
+  "rootParentId": "fdda2498-0a41-423b-9805-8948dabcbac1",
+  "name": "Account_Persentase_Diskusi_Atau_Pesan_Tdk_Sesuai_Talk_Already_Reply_Less_Equal_3_Not_Success",
+  "auto": true,
+  "contexts": [
+    "Account_Persentase_Diskusi_Atau_Pesan_Tdk_Sesuai_Talk_Already_Reply_Less_Equal_3-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Account_Persentase_Diskusi_Atau_Pesan_Tdk_Sesuai_Talk_Already_Reply_Less_Equal_3_Not_Success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped belum berhasil melakukan penyesuaian pada persentase diskusi (talk) kamu. Mohon coba lagi nanti, ya. :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540807147,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "reset_not_success"
+    }
+  ]
+}

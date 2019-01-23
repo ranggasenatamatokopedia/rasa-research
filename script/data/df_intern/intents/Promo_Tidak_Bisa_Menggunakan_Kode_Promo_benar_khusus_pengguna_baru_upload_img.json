@@ -1,0 +1,52 @@
+{
+  "id": "1aca3e93-d367-488b-8601-b28a1c5dd4a6",
+  "parentId": "1e2b5bd0-c249-4a0a-8c0c-2ad0bd2944c8",
+  "rootParentId": "52ec60f4-3e96-4394-855f-4b7f7c4c5110",
+  "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_khusus_pengguna_baru_upload_img",
+  "auto": false,
+  "contexts": [
+    "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_khusus_pengguna_baru_minutes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_khusus_pengguna_baru_upload_img-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "228235b0-5897-4452-9813-e394cac92ff7",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon lampirkan screenshot notifikasi errornya ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523834801,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "add_text_insert_hour_minute"
+    }
+  ]
+}

@@ -1,0 +1,1330 @@
+[
+  {
+    "id": "935e0bb7-2a42-4728-b99c-93c0cba62b2e",
+    "data": [
+      {
+        "text": "nomor listriknya blum dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "acf0bf7d-ca9e-49c3-a7d3-d04912ca21d6",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", email transaksi evoucher saya kenapa belum ada? saya belum terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b169c269-7dfe-4830-a83f-12fbf2f1bb20",
+    "data": [
+      {
+        "text": "email code voucher belum saya terima. terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a253eefa-6f43-4722-9add-d7dd8d0eed31",
+    "data": [
+      {
+        "text": "saya belum terima email transaksi berhasil nih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dari beli  joox",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f0cab02a-196a-4bf6-8919-27f545acbd67",
+    "data": [
+      {
+        "text": "email transaksi berhasil untuk pembelian voucher streaming belum saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2eeb475e-2d3e-4e97-bb4d-6d0c97f33a1f",
+    "data": [
+      {
+        "text": "Saya belum terima email untuk pembayaran telkom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "57f4a401-13a0-4314-9fd2-7eac48d197c9",
+    "data": [
+      {
+        "text": "Belum terima email pembelian voucher game",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7de36f61-3c99-48f8-9cbe-329af1437202",
+    "data": [
+      {
+        "text": "pembelian berhasil, ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " telah terpotong tp email belom diterima walau sudah di chek di spam. untuk pembelian boc google play",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d5637ea1-d447-44d9-a34b-ce1c3d016da0",
+    "data": [
+      {
+        "text": "voucher belum terkirim ke email karena email terdaftar setelah transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1ce4b77b-a45f-40de-a381-c10c1d50d8df",
+    "data": [
+      {
+        "text": "Blm terima email utk transaksi chicken shihlin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0b71167d-a32a-4335-9306-c3461dc0462c",
+    "data": [
+      {
+        "text": "Voucher makan yang dari Toped belum masuk ke email saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0e47d68e-df1a-43aa-b7b1-0d06dea28396",
+    "data": [
+      {
+        "text": "Pembayaran tagihan IndiHome BERHASIL untuk no. pelanggan: 152407100728 pada tanggal 07 Mar 2018. apakah bs di email ulang bukti pembayaran sy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "de72daa8-b34b-4fc1-81b7-3297b8249368",
+    "data": [
+      {
+        "text": "sya beli token listrik dan blm menrima email berhasil token mohon dibantu kirim ulang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0176f8ab-4344-4648-9805-a435a2476d91",
+    "data": [
+      {
+        "text": "Mau minta tolong dikirim lagi ke email struk berhasil bayar listrik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4271206f-be7b-4f67-97a6-414fbd3aa962",
+    "data": [
+      {
+        "text": "Request kirim ulang email transaksi pembelian voucher KFC pada akhir ",
+        "userDefined": false
+      },
+      {
+        "text": "Mei",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2018",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "56e3d52c-f9e4-4fbb-a222-3f00926a6e54",
+    "data": [
+      {
+        "text": "code reedem steam wallet belum dikirim ke email saya,sudah saya cek junk dan spam tidak ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "000b9013-3210-4616-98e5-6068d9cdc9a1",
+    "data": [
+      {
+        "text": "laporan email transaksi bpjs ",
+        "userDefined": false
+      },
+      {
+        "text": "hari ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum diterima, sudah di periksa pada spam juga tetap tidak ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1397d0a1-0859-42bc-82eb-ae52ea3f847e",
+    "data": [
+      {
+        "text": "saya sudah tunggu beberapa hari dan sudah cek di spam/junk, tapi masih belum terima email. mohon dikirimkan ulang email untuk transaksi pembelian voucher oli shop n drive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a3ea922b-7fce-4470-a053-2ed5ab057821",
+    "data": [
+      {
+        "text": "tadi saya sudah transaksi di ",
+        "userDefined": false
+      },
+      {
+        "text": "indomart",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", top up mobile legend ",
+        "userDefined": false
+      },
+      {
+        "text": "12500",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", sudah berhasil. tetapi belum ada email yang masuk dan diamond nya belum masuk ke akun mobile legend saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c68e1e1f-8052-4220-9451-bf46e9197176",
+    "data": [
+      {
+        "text": "Tidak terima email kuitansi padahal sebelumnya ada dan token listrik jg sama. Tidak ada dpt email kuitansi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b68ce9d3-19b3-4e11-a5ad-10b1214024d1",
+    "data": [
+      {
+        "text": "mohon dikirimkan ulang voucher kfc ini ke email saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "396ba8a0-789b-41f8-920e-c720ac5846fb",
+    "data": [
+      {
+        "text": "email untuk transaksi berhasil mtix belum saya terima ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "39753e38-ddb0-44e0-bcce-a6e051004052",
+    "data": [
+      {
+        "text": "tlg kirimkan kembali email transaksi berhasil karna saya belum menerima nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "358de483-7827-4c47-a540-efa2e6825a4a",
+    "data": [
+      {
+        "text": "saya belum menerima email transaksi berhasil dari pembelian voucher game",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0c80894e-412a-4c2f-9a9d-052ed42982a9",
+    "data": [
+      {
+        "text": "saya belum menerima email transaksi berhasil dari pembelian evoucher kfc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "63e59143-74ce-4dd2-82a4-fafa9043481e",
+    "data": [
+      {
+        "text": "mohon di kirimkan bukti transaksi BPJS ke email saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a01e44d5-6869-4583-b7ea-946847157aa6",
+    "data": [
+      {
+        "text": "Mohon agar voucher dapat dikirimkan kembali ke email terdaftar saya. Krn email voucher ini terhapus oleh kasir resto lainnya ",
+        "userDefined": false
+      },
+      {
+        "text": "kemaren",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saat menukarkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "91bfb255-089d-4cb8-806a-f02167f71bdd",
+    "data": [
+      {
+        "text": "Gan saya beli voucher mobelegen, tapi ada sedikit masalah. Saya sudah ganti email ke yang baru.. Kalau bisa dikirim ulang dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "30f90ba4-e2b0-4b05-9b5d-73dfcd549dea",
+    "data": [
+      {
+        "text": "Tolong kirimkan email ke saya terkait pembayaran PLN yang ada meteran Kwh penggunaan listrik.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bbc54228-bf3b-4752-b939-6075dc0a974b",
+    "data": [
+      {
+        "text": "Saya melakukan transaksi pembelian voucher kfc senilai ",
+        "userDefined": false
+      },
+      {
+        "text": "100.000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dengan harga ",
+        "userDefined": false
+      },
+      {
+        "text": "88.000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Saya bayar dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "tokocash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum ada email konfirmasi pembelian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bc9efd1a-9dce-468b-ad91-49bf91faf1ec",
+    "data": [
+      {
+        "text": "Tolong kirim email transaksi berhasil yang tertera pemakaian meteran airnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "450ee7eb-a668-44b3-9010-5a98bbbcb10a",
+    "data": [
+      {
+        "text": "tlg kirim tokennya, ud cek email blm ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2d030ddb-5a50-4f2e-bca9-199b0c9dd08a",
+    "data": [
+      {
+        "text": "Kak mana no token nya, ditulis transaksi berhasil tp saya blm dpt emailnya. boleh dibantu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a20775e8-da74-4000-899a-7ec85a537744",
+    "data": [
+      {
+        "text": "pembayaran sdh dilakukan tapi email belum terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d0fea52b-ffaa-4eb9-b998-91c91cc4ab5a",
+    "data": [
+      {
+        "text": "belum dpt email kalo transaksi PDAM sy udah berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9d166404-f774-4910-8f7f-7af11f47aca2",
+    "data": [
+      {
+        "text": "tlg email transaksi listriknya ya IVR/",
+        "userDefined": false
+      },
+      {
+        "text": "20180705",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "/XVIII/VII/",
+        "userDefined": false
+      },
+      {
+        "text": "62052140",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6e33a267-5304-4915-9483-fd97f62deb08",
+    "data": [
+      {
+        "text": "email untuk transaksi berhasil belum diterima ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "43dd0725-cfe3-408d-83bb-85cca284836e",
+    "data": [
+      {
+        "text": "saya sudah isi token listrik, tapi blm dapat nomor tokennya. tolong kirimkan via email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a5ad639b-9603-4580-9943-a3796d78b209",
+    "data": [
+      {
+        "text": "pembayaran BPJS kesehatan ini tapi saya belum dapat email transaksi berhasil.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0dca259f-0cdc-413b-b357-44ca7d533996",
+    "data": [
+      {
+        "text": "Email transaksi berhasil belum diterima, sehingga untuk top up ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pay belum bisa dilakukan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "345224f4-d071-459e-bb40-cdf2c8b97776",
+    "data": [
+      {
+        "text": "email saya atas pembelian pulsa yg berhasil belum diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "af0bbe6d-6882-41e9-993d-fb428fb66b7f",
+    "data": [
+      {
+        "text": "Saya melakukan pembayaran ",
+        "userDefined": false
+      },
+      {
+        "text": "cicilan",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Aeon melalui Tokopedia tetapi belum mendapat email konfirmasi. Mohon dibantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "22ac427f-256e-465e-b693-0bbf58add2c7",
+    "data": [
+      {
+        "text": "tramsaksi pembayaran pdam sby. email blm di terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "693468da-e47f-4e06-bb0f-e90fa0f751a8",
+    "data": [
+      {
+        "text": "emqail transaksi pulsa saya yang berhasil belum diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "05598bcf-4a5e-4468-bdf2-7d5d54ad3031",
+    "data": [
+      {
+        "text": "saya belum menerima email transaksi berhasil dari pembelian streaming",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "900ed39e-167e-4cd1-b612-70f366a4af81",
+    "data": [
+      {
+        "text": "transaksi pembelian voucher game tidak ada di email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "268caaf3-33d5-42b9-a7d4-ee95fccd4d21",
+    "data": [
+      {
+        "text": "Mohon bantuannya...pembelian voucer game saya tidak mendapatkan email untuk kode voucernya...transaksi sudah berhasil namun tidak ada email yang sy terima.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ccc43fa9-986c-4b9e-b51b-1caca81025d3",
+    "data": [
+      {
+        "text": "pembelian ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " voucher genki sushi namun voucher blom di terima di email, tolong kirimkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f67b3f48-3009-4cce-9982-e1f5fd023185",
+    "data": [
+      {
+        "text": "email belum diterima untuk transaksi yang berhasil atas pembayaran roaming",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4ac3eb37-b155-4cbf-864f-7929ec87f1b1",
+    "data": [
+      {
+        "text": "belum diterima email untuk transaksi berhasil paket data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4adc9007-6c93-4db4-b8cb-4e85dce0b40f",
+    "data": [
+      {
+        "text": "Transaksi sudah berhasil tp email voucher belum saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7d6566ba-aa18-4529-b25a-896363451585",
+    "data": [
+      {
+        "text": "sy belum menerima email transaksi berhasil atas pembayaran bpjs dan tidak ada di spam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "41000418-167c-4ac6-a736-92635de96918",
+    "data": [
+      {
+        "text": "saya belum trima email transaksi berhasil pembayaran tagihan listrik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3bcf3210-a744-4deb-b954-66b666a29180",
+    "data": [
+      {
+        "text": "saya belum terima email transaksi berhasil pembelian tv kabel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ae18da7c-2035-47b3-b9c6-469bb0a8db54",
+    "data": [
+      {
+        "text": "email pembelian pulsa saya belum terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "958b0b87-0238-495e-84d6-2f5fae93c6a5",
+    "data": [
+      {
+        "text": "email pembayaran listrik saya belum saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0e892f6d-66da-4b58-98e9-185b933fc4a6",
+    "data": [
+      {
+        "text": "pembelian Token Listrik ",
+        "userDefined": false
+      },
+      {
+        "text": "Rp",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1.000.000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " berhasil namun token blm diterima, dan email konfirmasi blm diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fada0732-78d9-4e13-b9c0-74738db843eb",
+    "data": [
+      {
+        "text": "saya beli tiket seaworld dan transaksi berhasil tapi saya belum dapat email pembelian berhasil.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3c98ed62-7d9e-4dd6-91ad-26d03ad0d543",
+    "data": [
+      {
+        "text": "Email kode token tidak masuk sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan sy tidak bisa melihat kode token yg lengkap dari history transaksi. Mohon segera dikirimkan kembali kodenya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0293ef9e-42d5-4dfa-9cd5-680f12f47c38",
+    "data": [
+      {
+        "text": "tolong dikirim ulang via email pengisian pulsa token saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c3352845-c462-497b-b93c-4b680a9b7754",
+    "data": [
+      {
+        "text": "saya belum menerima eticket dari pembelian tiket acara HC day, email nya berbeda dengan email facebook saya yaitu ke fadhliyahth11@gmail.com. Tadi saya juga sudah ganti tapi gak masuk ke email saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a96a5b7f-be12-4671-84c6-f65dbdd446c0",
+    "data": [
+      {
+        "text": "Saya belum dapat email dan sms utk pembelian token. cepat di respon ya. karena listrik saya sudah mati.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dcb5a26c-e2a6-4070-a7ea-c0ff1c5387a7",
+    "data": [
+      {
+        "text": "Email pembelian token listrik hilang, sdh check tidak ada , tolong email buat bukti bahwa pembayaran berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "201de59d-f39f-4c7b-b862-0c85db132797",
+    "data": [
+      {
+        "text": "Tokopedia - Pembayaran tagihan IndiHome BERHASIL untuk no. pelanggan: 152407100728 pada tanggal 10 Apr 2018. sy mau minta tlg agar dpt dikirim ulang email detail pembayaran indiehome sy diatas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0abe50fa-f748-466c-9dfe-42f82d8e2a20",
+    "data": [
+      {
+        "text": "Saya belum menerima email pembelian token listriknya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0c335577-dfc3-4d20-bc59-49e51489f070",
+    "data": [
+      {
+        "text": "Email atas transaksi berhasil BPJS masih belum diterima. Saya sudah cek di kotak Spam/Junk, dan memang tidak ada. Mohon ditindaklanjuti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fe503b54-4d4d-4374-a2d2-a713ff49cd2b",
+    "data": [
+      {
+        "text": "saya ingin mndaparkan email transaksi pdam saya kmbali.krn yg kmaren khapus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "98d00e75-25da-4c01-b2e7-89f86003389a",
+    "data": [
+      {
+        "text": "ga ada email masuk perihal kode vocher dari pembelian voucher game",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e9bfce5f-f269-4b74-b172-fcea346808d0",
+    "data": [
+      {
+        "text": "email transaksi saya kok belum diterima ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8974a44a-edf4-4e6b-b32a-16e7d636b5de",
+    "data": [
+      {
+        "text": "saya belum mendapatkan email dr pembayaran transaksi ini yg akan saya jadikan bukti pembayaran pln. trims",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "463041f1-e295-4488-a3c6-13dcfcc589f5",
+    "data": [
+      {
+        "text": "Untuk transaksi listrik saya belum mendapat email bukti resinya.. no transaksi ",
+        "userDefined": false
+      },
+      {
+        "text": "58322576",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".sudah saya cek spam tidak ada. saya butuh bukti pembayarannya.tolong di email kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2c2279af-bb1f-4881-9b4f-26f16447fafa",
+    "data": [
+      {
+        "text": "gak dapet email buat liat pin dan serial number dari transaksi voucher game",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ce1be30a-3d40-4fcb-a0f3-5042ab5ec8b5",
+    "data": [
+      {
+        "text": "Saya transaksi token listrik berhasil namun tidak mendapat email apapun. Mohon dibantu mengingat saya membutuhkan email tsb. Sdh saya cek di inbox dan semua folder termasuk spam,tidak ada semua.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e3435cbd-e536-419e-b5d2-1e1475212926",
+    "data": [
+      {
+        "text": "email transaksi berhasil saya untuk pembayaran pulsa belum saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c75afe61-d282-4c72-8d81-bb50402003ca",
+    "data": [
+      {
+        "text": "Kode token listrik belum diterima di email/no tlp saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c0253a6e-ef9f-432b-b6e5-d95e507819ff",
+    "data": [
+      {
+        "text": "saya belum menerima bukti bayar PLN via email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "66ef46ab-f8c1-4b8f-8492-18b7c21de943",
+    "data": [
+      {
+        "text": "Tolong dikirimkan ulang utk detil tagihan listrik spy bisa tau pemakaian brp kwh. Saya ",
+        "userDefined": false
+      },
+      {
+        "text": "cari2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di email tgl ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "april",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak ada.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c4b826bc-cd9a-47e5-964e-5477cdcf4dfd",
+    "data": [
+      {
+        "text": "Email voucher sudah diterima tapi terhapus, voucher blm di reedem, bagaimana caranya saya dapatkan email itu lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "71338c6a-55cf-4adf-a313-4508d663c902",
+    "data": [
+      {
+        "text": "nomor token belum dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c49aff79-ca07-4ec6-99cf-c43b0dfd801d",
+    "data": [
+      {
+        "text": "sy mnt untuk kirim ulang kode vouchernya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bd8846c9-91b9-4ba6-9112-62a7012b05f0",
+    "data": [
+      {
+        "text": "aq uda beli voucher bakso boedjangan tp gk muncul apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "54c4f0a8-d764-4a82-9915-c9677f26d0a0",
+    "data": [
+      {
+        "text": "sy trakir ada isi emoney tapi trnyta saldo ga masuk loh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2d4a4b55-1b5c-4744-b206-11e55cc1fd28",
+    "data": [
+      {
+        "text": "invoice pembelian pulsa INVIDTAG ko belum masuk ya..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2866f21b-fe00-47f0-acc9-1c094523d8ee",
+    "data": [
+      {
+        "text": "pagi. saya kemarin ada melakukan perubahan jadwal terbang. sudah saya urus ke air asia. saya minta tolong diemailkan eticket yg sdh direschedule tsb. tks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7602a245-6a7c-4603-9092-64cc0a9b2275",
+    "data": [
+      {
+        "text": "FAQ penarikan dana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2705e72e-2b40-4c9f-a6b0-5b1b96fea271",
+    "data": [
+      {
+        "text": "Saya baru beli token listrik prabayar tp no. tokennya blm di SMS. Mohon bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4a1c9353-5a02-4ef3-885a-c3882ef801d7",
+    "data": [
+      {
+        "text": "saya beli token listrik 50 rb koq belum dikirimi nomer token ke no hp saya,?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "20f9d817-6cbc-4de5-8a9d-957c9aba4fdd",
+    "data": [
+      {
+        "text": "saya top up e-money tapi belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b82ecb58-0716-4165-ba4d-9832ed0eb07b",
+    "data": [
+      {
+        "text": "untuk tahu serial tokenya dmn ya ka?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8da82347-5035-4774-bded-c295856473c0",
+    "data": [
+      {
+        "text": "nah saya lihat di email tidak ada email masuk untuk memberi tahu voucher kodenya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "639c8f50-5047-4cc7-a749-6d86acc0cd50",
+    "data": [
+      {
+        "text": "saya beli tiket pesawat, pihak bank sudah konfirmasi melalui sms bahwa pembayaran berhasil, tp emailpun tidak ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2815d99b-9250-4ec6-b38a-3d342a898b57",
+    "data": [
+      {
+        "text": "Pembayaran sudah dilakukan dan sudah mendapatkan notifikasi sms bahwa pembayaran sudah berhasil tetapi e-tiket pertunjukan guns n roses tidak diterima.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fd5ebb9e-318c-4bbd-9892-d1fbee6769b8",
+    "data": [
+      {
+        "text": "tapi hingga sekarang saya belum dapat email mengenai transaksi pembayaran pln",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "36282f39-3631-46d2-b275-4be0f6e25e1e",
+    "data": [
+      {
+        "text": "voucher kfc tidak keluar barcode nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6d2b8962-5fdb-475b-a1f5-3f17c13a00b6",
+    "data": [
+      {
+        "text": "kpn saya bisa dpt email konfirmasi pembayaran pln via tokped berhasil?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1ef1f483-387c-472b-8c37-508ec72c8841",
+    "data": [
+      {
+        "text": "Saya tidak dapet email konfirmasi atau email tiket untuk event Kygo 2018. Saya hanya ada invoice di app saja.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b5a4d1d5-67f7-4f4b-8d9f-014f1400945f",
+    "data": [
+      {
+        "text": "PLN sudah bayar tapi belum sukses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "835fc753-42d2-4d13-b2c2-c875771b3d66",
+    "data": [
+      {
+        "text": "Saya sudah melunasi nya di hari yang sama akan tetapi saya tidak menerima invoice apapun dari Tokopedia mengenai event ini.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "451bd478-e6bf-4de4-a44f-b955adfefb0a",
+    "data": [
+      {
+        "text": "Mengenai pembyaran kartu kredit belum dinfo apakah berhasil atau tidak, mohon segera dberi kejelasan ,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2f00ab81-63ab-456b-8fb8-f3f11734c5f6",
+    "data": [
+      {
+        "text": "Belum ada konfirmasi ttg pembayaran kartu credit niaga lewat tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

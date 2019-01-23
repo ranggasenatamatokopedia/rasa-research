@@ -1,0 +1,42 @@
+{
+  "id": "4aaf2289-c6a5-4d6f-b958-087ecda93aa9",
+  "name": "FAQ_Referral_Bagaimana_Cara_Melihat_Kode_Referral",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Referral_Bagaimana_Cara_Melihat_Kode_Referral-followup",
+          "parameters": {},
+          "lifespan": 6
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setiap pengguna Tokopedia punya kode Referral yang berbeda. Kamu bisa melihat kode referral dengan langkah berikut ya : \n1. Login dan masuk ke laman Beranda Aplikasi Tokopedia\n2. Pilih menu \"Akun\" di pojok kiri bawah\n3. Pilih \"Dapatkan TokoCash\"\n4. Akan tertera kode referral kamu dengan awalan huruf TP dan di ikuti beberapa digit angka."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga info Toped membantu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_referral_bagaimana_cara_melihat_kode_referral"
+    }
+  ]
+}

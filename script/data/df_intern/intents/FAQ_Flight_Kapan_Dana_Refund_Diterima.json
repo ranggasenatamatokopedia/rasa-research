@@ -1,0 +1,42 @@
+{
+  "id": "f7ffeab6-919f-420e-a8eb-468a75baa503",
+  "name": "FAQ_Flight_Kapan_Dana_Refund_Diterima",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flight_Kapan_Dana_Refund_Diterima-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Proses refund untuk tiket pesawat membutuhkan waktu 7 hari kerja setelah permohonan refund diterima."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Apabila refund disebabkan oleh hal-hal tertentu seperti penerbangan dibatalkan, perubahan jadwal dari maskapai, penumpang sakit/meninggal dunia, atau penumpang sudah pernah check-in, maka proses refund akan membutuhkan maksimal 30 hari kerja. Semoga informasi Toped membantu kamu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_flight_kapan_dana_refund_diterima"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "764fd4d2-ea2f-417f-af97-f3162d3b208d",
+  "parentId": "62cebc3c-7c9c-4719-94b5-e5aa772e8bc1",
+  "rootParentId": "67024543-88fb-488f-907b-85ef94921089",
+  "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_inv_finished_refund_full",
+  "auto": false,
+  "contexts": [
+    "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_kupon_tokopoints_show_inv_MP_OS-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_inv_finished_refund_full-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah Toped cek, transaksi ini pernah masuk Pusat Resolusi dengan solusi akhir pengembalian dana secara keseluruhan atau pesanannya batal."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "- Kalau kamu gunakan kupon Gratis Ongkir dari Membership dan transaksi yang batal secara keseluruhan dalam 1 pembayaran, maka kupon bisa kamu gunakan kembali, tapi kalau hanya sebagian yang batal, maka kupon terhitung sudah digunakan ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "- Kalau kamu gunakan kupon Gratis Ongkir dari Tukar Points dan transaksi yang dibatalkan dari Pusat Resolusi adalah pengembalian dana keseluruhan, maka kupon tersebut akan dikembalikan ke halaman \"Kupon Milik Saya\"."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "- Kalau kamu gunakan kupon Cashback dari Tukar Points dan transaksinya batal keseluruhan dalam 1 pembayaran, maka kupon bisa digunakan kembali. Kalau hanya sebagian, kupon terhitung sudah digunakan dan cashbacknya akan disesuaikan dengan pesanan yang sukses saja ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526543349,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "in_resol_finished_full_refund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "047a88c0-c1d1-433a-8b67-6ca5691d6a04",
+  "name": "FAQ_Flash_Sale_Apresiasi_Flash_Sale_Spesial_9",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flash_Sale_Apresiasi_Flash_Sale_Spesial_9-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Terima kasih juga atas pasrtisipasi dan kebersamaan Toppers dalam 9 Tahun Tokopedia :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga kamu tetap jadi pengguna setia Tokopedia ya. Sukses selalu untuk kamu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_flash_sale_apresiasi_flash_sale_spesial_9"
+    }
+  ]
+}

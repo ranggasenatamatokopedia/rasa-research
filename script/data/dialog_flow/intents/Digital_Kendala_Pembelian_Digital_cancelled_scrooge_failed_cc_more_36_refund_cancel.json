@@ -1,0 +1,64 @@
+{
+  "id": "af8152eb-4ab3-4789-9f31-e675177158f8",
+  "parentId": "ce1055be-667f-4f38-9faa-343723dc2611",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_cancelled_scrooge_failed_cc_more_36_refund_cancel",
+  "auto": false,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_cancelled_scrooge_failed_cc_more_36_refund_not_null-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_cancelled_scrooge_failed_cc_more_36_refund_cancel-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c2325101-9b38-4a22-8e4e-ab518e46e8be",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1234",
+          "isList": false
+        },
+        {
+          "id": "7588d9d6-6c8d-48be-92de-c5e1ffe28ccf",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Digital_Kendala_Pembelian_Digital"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu sebentar ya, Toped akan bantu buatkan tiket untuk dicek lebih lanjut dan informasi selanjutnya akan dikirim lewat layanan pengguna."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Senang bisa membantu kamu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533996978,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "refund_status_failed"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "849f9043-15c6-4366-98bf-3eb716d5716b",
+  "name": "FAQ_Order_Cara_Belanja_Sebagai_Dropshipper",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Order_Cara_Belanja_Sebagai_Dropshipper-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa membeli dan mengirim barang ke alamat lain, namun menggunakan data kamu sebagai pengirim (Dropshipper) melalui langkah berikut : \n\n1. Klik \"Beli\" di halaman produk\n2. Klik \"Checkout\" \n3. Klik \"Pilih Kurir\" Pengiriman \n4. Centang checkbox \"Dropshipper\"\n5. Isi \"Nama Pengirim\" dan \"Nomor Telepon\" kamu\n6. Lanjutkan dengan Klik Bayar dan pilih metode pembayaran."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped infokan juga ya, transaksi dropship tidak berlaku untuk pengiriman dengan kurir Instant. Semoga info Toped membantu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_order_cara_belanja_sebagai_dropshipper"
+    }
+  ]
+}

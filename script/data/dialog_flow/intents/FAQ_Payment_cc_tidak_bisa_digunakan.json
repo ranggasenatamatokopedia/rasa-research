@@ -1,0 +1,39 @@
+{
+  "id": "d30bbe08-b779-49dd-9c98-c2984f8a07fe",
+  "name": "FAQ_Payment_cc_tidak_bisa_digunakan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Payment_cc_tidak_bisa_digunakan-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika Kartu Kredit Kakak tidak bisa digunakan, mohon pastikan beberapa hal:\n1. Informasi Kartu Kredit yang Kakak masukkan, sudah benar.\n2. Pastikan limit Kartu Kredit Kakak mencukupi.\n3. Jika kedua hal diatas tidak bermasalah, silakan hubungi pihak bank untuk memastikan Kartu Kredit Kakak tidak ditolak.\n4. Pastikan Kartu Kredit Kakak sudah bekerja sama dengan Tokopedia."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_payment_cc_tidak_bisa_digunakan"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "b2012256-64e7-434c-93ed-132c073ca89c",
+    "data": [
+      {
+        "text": "is_",
+        "userDefined": false
+      },
+      {
+        "text": "buyer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_negative_",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_negative",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

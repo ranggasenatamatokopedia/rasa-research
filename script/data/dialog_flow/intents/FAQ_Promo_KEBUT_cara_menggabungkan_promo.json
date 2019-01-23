@@ -1,0 +1,32 @@
+{
+  "id": "020644cd-3f05-42b1-9236-7f88f0db2a9d",
+  "name": "FAQ_Promo_KEBUT_cara_menggabungkan_promo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Karena promo KEBUT ada banyak, jadi pastikan kamu tidak memasukkan lebih dari satu kode promo, ya. \n\nContoh: Kamu menukar kupon dari Tokopoints, kemudian saat program cuci gudang berlangsung, kamu berniat menggunakannya. Ketika kupon tersebut kamu gunakan, maka kamu tidak bisa menambahkan kode promo lain yang tersedia saat promo tersebut berlangsung."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pastikan kembali syarat dan ketentuan promo yang akan kamu ikuti !TKPD_URL_KEBUT!. Catat tanggalnya dan jangan sampai kelewatan! :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,72 @@
+{
+  "id": "65accbcc-5288-4814-833f-9e4fa7b81b91",
+  "parentId": "e540ae13-6993-4973-bead-401b5c3abcf5",
+  "rootParentId": "52ec60f4-3e96-4394-855f-4b7f7c4c5110",
+  "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_kode_promo_telah_berakhir",
+  "auto": true,
+  "contexts": [
+    "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckPromoIsRunning",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_kode_promo_telah_berakhir-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "dbeb1e29-2d48-4fe1-85bc-fa995d47e17d",
+          "required": true,
+          "dataType": "@tkpd_date",
+          "name": "tkpd_date",
+          "value": "$tkpd_date",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Boleh tau tanggal berapa kakak pake promonya? (Cth: 12 Jan 2018)"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "de842f39-90fd-4fd2-b388-fc2e2070c92b",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "time",
+          "value": "$time",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Kira-kira jam berapa kakak pakai promonya?(Cth: 15:04)"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek dulu ya, mohon tunggu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523832983497,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "kode_promo_telah_berakhir"
+    }
+  ]
+}

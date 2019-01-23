@@ -1,0 +1,33 @@
+{
+  "id": "2f729f03-8f37-4ae6-9182-16527386b306",
+  "name": "FAQ_Logistic_Cara_Menggunakan_SiCepat_Pickup",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Logistic_Cara_Menggunakan_SiCepat_Pickup-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk menggunakan FItur Sicepat Pickup, kamu bisa ikuti langkah berikut:\n\n1. Cetak label pengiriman dengan cara klik \"Cetak Kode Booking\" pada halaman Konfirmasi Pengiriman.\n2. Tempel label pengiriman pada pesanan yang akan kamu kirim.\n3. Setelah pesanan siap dikirim, kamu bisa masuk ke halaman Konfirmasi Pengiriman untuk melakukan \"Request Pickup\".\n4. Tunggu pesanan kamu dipickup oleh kurir dan status pengiriman akan terupdate secara otomatis dalam jangka waktu maksimal 1 jam setelah kode booking discan."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

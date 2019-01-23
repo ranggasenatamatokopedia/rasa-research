@@ -1,0 +1,39 @@
+{
+  "id": "4ab647c1-4ee1-4533-bedd-d2d336752d41",
+  "parentId": "c230094b-7dd5-43f4-984b-d415098c4e53",
+  "rootParentId": "c230094b-7dd5-43f4-984b-d415098c4e53",
+  "name": "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_tagihan_tidak_tersedia",
+  "auto": true,
+  "contexts": [
+    "Digital_Tidak_Dapat_Melakukan_Transaksi-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_tagihan_tidak_tersedia-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh lampirkan dulu screenshop halaman yang berkendala ke Toped? "
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535965759,
+  "fallbackIntent": false,
+  "events": []
+}

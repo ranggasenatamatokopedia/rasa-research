@@ -1,0 +1,45 @@
+{
+  "id": "4a4c1baa-578a-4c5e-9c84-7def70acaae6",
+  "name": "Fraud_Pesanan_Yang_Diterima_Tidak_Sesuai",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Pesanan_Yang_Diterima_Tidak_Sesuai-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh informasikan ke Toped saat ini status transaksinya apa?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Delivered / Terkirim ",
+              "Finished / Selesai "
+            ],
+            "type": 1
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

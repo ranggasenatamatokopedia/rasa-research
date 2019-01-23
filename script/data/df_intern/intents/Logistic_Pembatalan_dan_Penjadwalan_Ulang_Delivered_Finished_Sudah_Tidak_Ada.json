@@ -1,0 +1,39 @@
+{
+  "id": "f3e795fd-1804-4d4b-8df7-08bdf15affd6",
+  "parentId": "193129b1-0faa-4356-95ae-83dbf6f5d403",
+  "rootParentId": "25f8caf5-22b1-4b7d-8704-24a6da37b244",
+  "name": "Logistic_Pembatalan_dan_Penjadwalan_Ulang_Delivered_Finished_Sudah_Tidak_Ada",
+  "auto": true,
+  "contexts": [
+    "Logistic_Pembatalan_dan_Penjadwalan_Ulang_Delivered_Finished_Sudah-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Pembatalan_dan_Penjadwalan_Ulang_Delivered_Finished_Sudah_Tidak_Ada-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau seperti itu, maka kendala kamu sudah selesai ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535600661,
+  "fallbackIntent": false,
+  "events": []
+}

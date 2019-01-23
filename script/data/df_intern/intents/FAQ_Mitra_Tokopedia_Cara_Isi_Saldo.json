@@ -1,0 +1,38 @@
+{
+  "id": "fc544ae8-8fa9-49e9-bcea-a3fe736d119a",
+  "name": "FAQ_Mitra_Tokopedia_Cara_Isi_Saldo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Mitra_Tokopedia_Cara_Isi_Saldo-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa ikuti langkah di bawah ini untuk Top-Up Saldo Mitra Tokopedia, ya:\n1. Masuk ke akun Mitra Tokopedia \n2. Klik \"Isi Saldo\", pilih nominal yang diinginkan, lalu klik \"Beli\"\n3. Pilih metode pembayaran dan lakukan pembayaran\n4. Jika sudah berhasil maka saldo Mitra kamu akan otomatis bertambah."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sebagai informasi, minimum Top Up Saldo Mitra Tokopedia adalah Rp 10.000 dan maksimum Rp 1.500.000 ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

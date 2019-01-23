@@ -1,0 +1,33 @@
+{
+  "id": "e7d25c78-8521-476d-9bb8-97aa78a83ae7",
+  "name": "FAQ_Tokopoints_Penukaran_Di_Outlet_Yang_Berbeda",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Tokopoints_Penukaran_Di_Outlet_Yang_Berbeda-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Lokasi penukaran Kupon disesuaikan dengan Syarat dan Ketentuan yang tertera pada Kupon. Kalau kamu menukarkan Kupon di lokasi yang tidak tercantum, pihak Outlet berhak menolak penukaran Kupon tersebut."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

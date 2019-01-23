@@ -1,0 +1,63 @@
+{
+  "id": "6dacbfb2-199b-4941-ba5c-8f9148ecd0ba",
+  "parentId": "9773a1a5-0ffc-41b4-997d-c0e88700958f",
+  "rootParentId": "ac27f987-10da-4579-826b-fdb70eef3ed6",
+  "name": "TOKOPOINT_Tidak_bisa_menggunakan_kupon_notif_kupon_pilihan_tdk_muncul_upload_img_2",
+  "auto": false,
+  "contexts": [
+    "TOKOPOINT_Tidak_bisa_menggunakan_kupon_notif_kupon_pilihan_tdk_muncul_upload_img-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Tidak_bisa_menggunakan_kupon_notif_kupon_pilihan_tdk_muncul_upload_img_2-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "275d7122-df29-4da0-ad55-523f1038c23c",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1421"
+        },
+        {
+          "id": "29078de7-882b-495e-8533-4100d4e20fdf",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "TOKOPOINT_Tidak_bisa_menggunakan_kupon"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon tunggu sebentar ya :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped bantu buatkan tiketnya ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523499729,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

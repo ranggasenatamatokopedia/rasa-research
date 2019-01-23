@@ -1,0 +1,37 @@
+{
+  "id": "34b7fd0b-4f11-49eb-8a3e-e5685de4713f",
+  "name": "FAQ_Flight_Berapa_Nominal_Refund_Yang_Diterima",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flight_Berapa_Nominal_Refund_Yang_Diterima-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Nominal refund akan ditentukan berdasarkan kebijakan masing-masing maskapai. Kamu dapat melihat estimasi dana refund saat melengkapi data ketika melakukan pengajuan refund. Silakan kunjungi !TKPD_URL_INFO_PENGAJUAN_REFUND_TIKET!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_flight_berapa_nominal_refund_yang_diterima"
+    }
+  ]
+}

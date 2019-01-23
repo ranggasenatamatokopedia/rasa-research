@@ -1,0 +1,37 @@
+{
+  "id": "41120b26-a745-48dd-99c2-89c924bf481e",
+  "parentId": "76a1bfcc-e983-4bdb-90d0-f66f204fea2b",
+  "rootParentId": "76a1bfcc-e983-4bdb-90d0-f66f204fea2b",
+  "name": "FAQ_Logistic_Jarak_Tempuh_Kurir_Pickup_Go_Send",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Jarak_Tempuh_Kurir_Pickup-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sesuai dengan kebijakan Gojek, jarak terjauh pengantaran barang adalah 40 km ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528713935,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "gojek"
+    }
+  ]
+}

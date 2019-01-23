@@ -1,0 +1,43 @@
+{
+  "id": "aaa667a7-4917-4271-8ba5-3f31ee7d5fa6",
+  "parentId": "de462ed0-7d36-4e8b-9fc9-4867bf96201c",
+  "rootParentId": "67024543-88fb-488f-907b-85ef94921089",
+  "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_invoice_currently_in_resol",
+  "auto": false,
+  "contexts": [
+    "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_invoice_MP_OS-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_invoice_currently_in_resol-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai, Toped cek transaksi kamu sedang berada di Pusat Resolusi. Untuk mendapatkan benefit yang sesuai, kamu bisa selesaikan dulu kendalanya, ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526463036,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "in_resol_on_going"
+    }
+  ]
+}

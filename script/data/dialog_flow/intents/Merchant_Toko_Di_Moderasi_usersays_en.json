@@ -1,0 +1,2862 @@
+[
+  {
+    "id": "93c3ba20-8e62-4507-b641-b05010d39ddb",
+    "data": [
+      {
+        "text": "status toko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bf3af22d-4d13-472e-bc02-4808efb1ee26",
+    "data": [
+      {
+        "text": "status toko saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3c09af7f-bcc8-4d14-833e-3b15d4e11f59",
+    "data": [
+      {
+        "text": "Apakah toko saya bisa diaktifkan kembali, dikarena kan saya tidak aktif selama lebih dari ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "minggu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dikarenakan toko tutup.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1de23de4-5132-4487-8a50-08d28d988f72",
+    "data": [
+      {
+        "text": "kenapa status toko tutup?, padahal sy tidak pernah mencantunkan notifikasi klau toko tutup, tlng bantu untuk di check",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b15b6629-76bf-432f-b4d1-db369ef45bf0",
+    "data": [
+      {
+        "text": "Tetap ada notifikasi toko tidak aktif,, meskipun sudah akses halaman penjualan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "afdb65b8-b695-423a-9d4c-5490fb8db6df",
+    "data": [
+      {
+        "text": "Status toko tidak aktif...bagaimana cara mengaktifkan toko kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3f8f0455-f4bd-4f1c-9412-2b526bffb719",
+    "data": [
+      {
+        "text": "Status toko tidak aktif, tlg bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bc205c59-7d53-4446-88a5-d3b630868d02",
+    "data": [
+      {
+        "text": "Status toko tidak aktif padahal baru ",
+        "userDefined": false
+      },
+      {
+        "text": "dua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hari lalu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya baru kirim pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7786d368-7ad0-40b0-8133-a46984ca8ad4",
+    "data": [
+      {
+        "text": "Status toko tidak aktif kenapa ???",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "89cebeef-557e-4a0c-a69b-d79c26f81a76",
+    "data": [
+      {
+        "text": "akun toko tidak aktif gmn cara mengaktifkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "05ffc774-4cec-4583-b0b7-18b0ff02f46f",
+    "data": [
+      {
+        "text": "Status toko tidak aktif. Saya sudah coba akses halaman pesanan baru, status pengiriman dll,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bbbdf876-9930-4fa4-a820-e73f46da6d08",
+    "data": [
+      {
+        "text": "sayq baru mulai jualan, tapi toko tidak aktif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c759e4dd-3471-478e-9cb3-00ab6188a533",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " status toko tidak aktif. Tolong dibantu yahh.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f45369ce-f8ce-45b1-9269-dc63a60d4148",
+    "data": [
+      {
+        "text": "bisa dibantu status toko tidak aktif ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari (sedangkan setiap hari login).",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5f6d9259-337e-482e-8f4c-84ea9b81059c",
+    "data": [
+      {
+        "text": "status toko tidak aktif kenapa penyebabnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2b4a2cd2-8964-473e-8b7d-804b44ee910c",
+    "data": [
+      {
+        "text": "saya buka aplikasi via hp ada keterangan toko tidak aktif selama ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "87a72595-7368-4406-8f3b-c6e7815bfd0e",
+    "data": [
+      {
+        "text": "Akun toko saya terkena status toko tidak aktif dan meskipun saya sudah mengakses halaman pengaturan toko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2b80f98b-49c5-4c32-9f65-602cef263875",
+    "data": [
+      {
+        "text": "Toko tidak aktif selama lebih dari ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a9bcaf28-a2b6-4ad9-92bd-3a8aaf1639f0",
+    "data": [
+      {
+        "text": "Status toko tidak aktif lg.kok jadi sering begini jadi malas mau ",
+        "userDefined": false
+      },
+      {
+        "text": "buka2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "873eb02d-83b3-4a3c-9881-d0983605b5eb",
+    "data": [
+      {
+        "text": "toko tidak aktif, saya baru selesai liburan. tolong bantu aktif kan toko kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5a64705f-7f16-447a-9816-5928a933eef2",
+    "data": [
+      {
+        "text": "Saya ada kendala dgn notif toko tidak aktif selama ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6136b24e-e65f-4879-9fa4-8e47abbd5e46",
+    "data": [
+      {
+        "text": "Status toko tidak aktif selama ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8fd8dd45-528c-401b-901b-d4955b519f30",
+    "data": [
+      {
+        "text": "toko saya ",
+        "userDefined": false
+      },
+      {
+        "text": "tiba2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak ada barang dan tertulis toko tidak aktif, padahal tiap hari saya login lewat aplikasi handphone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "835f8511-863c-41bb-bd02-913e238f40b7",
+    "data": [
+      {
+        "text": "Akun Toko Tidak Aktif Untuk Penjualan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "94c67f42-1a44-4b33-9513-00098941c3bf",
+    "data": [
+      {
+        "text": "Status toko tidak aktif slma lbh dr ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari pdhal sudah diaktifkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "88b73ec7-7f25-435c-be3e-0b10c11b0d82",
+    "data": [
+      {
+        "text": "ada keterangan toko tidak aktif selama ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "220f75b2-3e6c-47b7-bff4-498a50e9b4ef",
+    "data": [
+      {
+        "text": "toko tidak aktif padahal sudah sy buka2 menu penjualan,mohon bantuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e93bfcee-8423-4d1b-b050-459d086d9649",
+    "data": [
+      {
+        "text": "Toko tidak aktif selama ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari? Padahal tiap hari selalu buka app tokoped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "246c2969-dd9a-4d9b-835b-a166bdce6e8b",
+    "data": [
+      {
+        "text": "Toko tidak aktif.. Kenapa sering sekali tidak aktif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "25e10401-e6e4-4f7e-8be7-cf6409d91344",
+    "data": [
+      {
+        "text": "Hallo saya aktif di tokoped tp keterangannnya malah status toko tidak aktif... mohon bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b68a1989-c7b1-4908-a638-c6b4369e2b2a",
+    "data": [
+      {
+        "text": "toko tidak aktif ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari, tolong bantu di aktifkan lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9e296938-3417-4357-92d9-a7dc0be95f57",
+    "data": [
+      {
+        "text": "Sudah membuka halaman yang disarankan tetapi tetap status toko tidak aktif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5595e1e2-e603-44e2-9ad0-8dd999fa43d0",
+    "data": [
+      {
+        "text": "Toko tidak aktif selama ",
+        "userDefined": false
+      },
+      {
+        "text": "1minggu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", padahal setiap hari selalu dibuka. Mohon bantuannya...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2ab3d0f2-4834-498b-b613-334afb96e7c7",
+    "data": [
+      {
+        "text": "Status toko tidak aktif. Padahal sudah mengikuti petunjuk tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4065ffdb-21b9-419e-9644-7aeb244f4ab3",
+    "data": [
+      {
+        "text": "Toko tidak aktif. Mohon bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "829b1c80-deac-4b80-81c8-37bb1c3018e5",
+    "data": [
+      {
+        "text": "Status toko tidak aktif, tolong diaktifkan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a8c94123-47cb-4d1d-961c-8d90a1fabfdb",
+    "data": [
+      {
+        "text": " toko tidak aktif lebih ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari. Padahal say aktif terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b6c3c02f-72e1-4917-9baf-1ba6e387b59c",
+    "data": [
+      {
+        "text": "Status toko tidak aktif dan sya ingin mengaktifkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "00a56d59-0bba-4193-9219-f30b238c9b7f",
+    "data": [
+      {
+        "text": "status toko tidak aktif ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari ? padahal online terus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e9c6d16a-65e4-4919-b4fe-f9ae0e03a245",
+    "data": [
+      {
+        "text": "toko tidak aktif, tapi saya sudah coba untuk upload produk kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "587c6c36-b1da-412b-b24a-32df2a2a24dd",
+    "data": [
+      {
+        "text": "keterangan toko tidak aktif/ tutup. bagaimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ef79552e-48bb-46f6-b45a-fdede276ee89",
+    "data": [
+      {
+        "text": "Kenapa d toko saya terus ada tulisan toko tidak aktif y? Padahal saya baru saja input resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dec38ea3-e27e-4143-becd-9bd7cf0cdf54",
+    "data": [
+      {
+        "text": "toko tidak aktif selama ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "138c83b2-2d46-4a31-a1a9-3d555c4c2640",
+    "data": [
+      {
+        "text": " toko sy keluar keterangan toko tidak aktif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bed6459e-db54-47b0-98bb-11b2e870ae28",
+    "data": [
+      {
+        "text": "Saya sudah membuka ",
+        "userDefined": false
+      },
+      {
+        "text": "menu2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " untuj mengaktifkan toko kembali tapi tetap toko tidak aktif,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "67d76a9a-13fe-48f1-9e71-54dca67b222c",
+    "data": [
+      {
+        "text": "toko tidak aktif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e735c688-e811-452e-a9b6-92ecfd54d14e",
+    "data": [
+      {
+        "text": "ket toko tidak aktif, bs ga ya diaktifkan kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "983f577a-d31f-49da-9d87-3b4251ca6517",
+    "data": [
+      {
+        "text": "aktifkan toko lagi, status toko tidak aktif,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "68bb7e11-e0d7-48fa-a8f1-0d439a4f72aa",
+    "data": [
+      {
+        "text": "Status toko tidak aktif, ingin diaktifkan kembali.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c5cfb261-7703-4ed5-9ee8-05350cf621d1",
+    "data": [
+      {
+        "text": "Saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " status toko tidak aktif, padahal sudah upload/tambah produk. Kapan bisa aktif ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "784b59f7-2df4-47d5-9494-dac71cc1b7fc",
+    "data": [
+      {
+        "text": "Kok toko tidak aktif lagi tolong di proses !!!!!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "66dcbfbf-e100-488f-a2b1-cb239cd1ef2c",
+    "data": [
+      {
+        "text": " toko tidak aktif lebih ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6802ab4d-afdc-455b-8c6d-b5428a496144",
+    "data": [
+      {
+        "text": "Status toko tidak aktif, sudah mengunjungi halaman yg di saran kan, namun toko tetap tidak aktif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b0d41461-1ce5-4a0c-abaa-eebaa4f98e71",
+    "data": [
+      {
+        "text": "kenapa status toko tidak aktif ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8b16e1a2-1949-41f6-86bb-b0c0d37b995b",
+    "data": [
+      {
+        "text": "Kenapa toko tidak aktif lebih dari ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d47f53a2-2680-4fc7-84e6-28d579515905",
+    "data": [
+      {
+        "text": "statusnya sama toko tidak aktif. Tolong segera diperbaiki agar toko bisa aktif lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "35aa0e16-cbcc-4a5e-8965-c347bf7d40a1",
+    "data": [
+      {
+        "text": "toko tidak aktif, sudah melakukan saran dari toped namun masih tidak aktif....",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9dfbd32e-a204-4096-b854-0130abdc8d3c",
+    "data": [
+      {
+        "text": "Tapi kok tiba-tiba ada notifikasi toko tidak aktif selama lebih dari ",
+        "userDefined": false
+      },
+      {
+        "text": "7hari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "870414ad-eac7-457e-810c-c305a03f804f",
+    "data": [
+      {
+        "text": "Toko tidak aktif bagaimana yaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "87146a95-9239-4d51-b361-ef9050625cc5",
+    "data": [
+      {
+        "text": "Saya mau hapus toko tidak aktif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9b6ad19d-ebca-4511-937b-0417e392ba21",
+    "data": [
+      {
+        "text": "kenapa di akun saya ada notifikasi bahwa toko tidak aktif ",
+        "userDefined": false
+      },
+      {
+        "text": "dalam 7hari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b671dc91-8724-4f25-8e7f-ea21d03f73b6",
+    "data": [
+      {
+        "text": "Kenapa sering sekali ada status toko tidak aktif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2e5eccf0-2a63-4075-96b7-15136d3f8c91",
+    "data": [
+      {
+        "text": "status toko tidak aktif.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "93487b16-0824-48f0-bc61-78de9f7c5230",
+    "data": [
+      {
+        "text": "Toko tidak aktif pdhl tiap hari online sudah melakukan langkah pengaktifan tetap belum aktif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3af146a5-5225-4480-8c42-9d1d9296ae78",
+    "data": [
+      {
+        "text": "Selalu muncul nitifikasi toko tidak aktif ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "minggu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " padahal tiap hari online",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0f279a4f-21f9-485e-89d9-9a5b0f8e88bc",
+    "data": [
+      {
+        "text": "knpa status toko tidak aktif padahal semua aktif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3651bafb-7ca1-4f37-bb8c-08bad6d03942",
+    "data": [
+      {
+        "text": " toko saya muncul keterangan toko tidak aktif ",
+        "userDefined": false
+      },
+      {
+        "text": "selama",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 7hr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fea1e0f5-c1bd-4bb1-aa7e-0cf23645fd43",
+    "data": [
+      {
+        "text": "Status toko tidak aktif tolong bantuannya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "20eae526-1122-47cf-b26e-43e05db8bc66",
+    "data": [
+      {
+        "text": "toko tidak aktif.saya ingin mengaktifkan nya lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e2c59f72-6064-4c66-9ddc-fbbf2bd43d89",
+    "data": [
+      {
+        "text": "Toko tidak aktif selama ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari. padahal selalu online terus dan selalu buka transaksi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9b6d82b8-39a6-4ad4-8ae0-4db9f5c38562",
+    "data": [
+      {
+        "text": "toko tidak aktif lebih dari ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari gimana gan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e62ba5a2-9e3d-436a-971e-2d5adabb1d8f",
+    "data": [
+      {
+        "text": "Sudah membuka halaman penjualan, daftar produk, pengiriman dll, tp tetap saja status toko tidak aktif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5981ca87-1ed0-4da5-8506-eb71348b1088",
+    "data": [
+      {
+        "text": "Sudah saya lakukan semua sarannya tapi tetap saja staus toko tidak aktif lebih dari ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b831aa18-b5f0-46b5-87bd-6cd8926f5c1a",
+    "data": [
+      {
+        "text": "Status toko tidak aktif, padahal saya selalu login dan sering mengecek inbox.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ab580aa3-44e5-4a0d-bf17-2ae362d4b228",
+    "data": [
+      {
+        "text": "Saya tiap hari buka jualan saya kenapa bisa toko tidak aktif jangan bikin ribet ka",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a507544f-35d4-44ed-a794-47c4564e674a",
+    "data": [
+      {
+        "text": "Status toko tidak aktif padahal login setiap hari.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9a02b412-00dd-4f39-b991-27210e320477",
+    "data": [
+      {
+        "text": "selalu dpt notif bahwa toko tidak aktif selama ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "minggu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c947584c-c7b3-41ab-a24c-32617a99eafe",
+    "data": [
+      {
+        "text": "Sy sudah melakukan hal yang disarankan tsb spt mengakses ",
+        "userDefined": false
+      },
+      {
+        "text": "fitur2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di toko tp tetap saja status toko tidak aktif.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b5a546e0-4575-41eb-a715-6ce66f40d636",
+    "data": [
+      {
+        "text": "status toko tidak aktif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a99be498-335b-4b21-b89f-c2fc61c47e6b",
+    "data": [
+      {
+        "text": "masalah toko tidak aktif lebih dari ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b7cf311e-7560-408c-824a-9a53bb54cf21",
+    "data": [
+      {
+        "text": "jika dibuka melalui browser tidak ada peringatan status toko tidak aktif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9762fa3a-c362-451e-b34f-22ac2862bdfd",
+    "data": [
+      {
+        "text": "kenapa toko saya ada keterangan toko tidak aktif padahal saya mengaktifkan tiap hari.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d20bd9f6-e811-4992-b4e2-1c5d10ae9036",
+    "data": [
+      {
+        "text": "disini tertulis toko tidak aktif, gimana cara menghilangkannya? makasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "166f3cad-ec1b-4a94-8e9d-136107b649c0",
+    "data": [
+      {
+        "text": "keterangan toko tidak aktif..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7a766030-e527-43e6-bc25-8c2d637064b0",
+    "data": [
+      {
+        "text": "status toko tidak aktif bagaimana saya mau jualan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "83800bb7-bfff-4731-a67f-e865fb3502b4",
+    "data": [
+      {
+        "text": "Toko Tidak aktif selama lebih dari ",
+        "userDefined": false
+      },
+      {
+        "text": "7hari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c3960a5a-d69f-4a76-b829-64fd35c6254e",
+    "data": [
+      {
+        "text": "status toko tidak aktif, sudah mengikuti intruksi sebelumnya tp msh blm aktif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "57d30b3c-bab4-4c2e-b464-0309d6051dce",
+    "data": [
+      {
+        "text": "toko tidak aktif. cara aktifinnya lagi gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "26f39915-1a2c-4c44-af54-0c0c8d5350d5",
+    "data": [
+      {
+        "text": "toko tidak aktif padahal sudah upload produk baru. dan di informasi toko buka. mohon diaktifkan toko saya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "be53c189-385e-4470-95cd-ea283739574a",
+    "data": [
+      {
+        "text": "toko tidak aktif. saya sudah menjalankan smua cara yg dianjurkan utk mengaktifkan toko, tapi tidak bisa juga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f62cec2c-6513-43b5-a76d-703ac0a26d4b",
+    "data": [
+      {
+        "text": "Toko tidak aktif tapi sudah ikutin petunjuk cara aktifkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "59833073-c0c2-4e43-a6b7-2595dd1e890e",
+    "data": [
+      {
+        "text": "Toko tidak aktif rapi sudah ikutin petunjuk cara aktifkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "96d2c52f-e489-48f6-890b-2d1279657b15",
+    "data": [
+      {
+        "text": "Toko tidak aktif, sudah coba cara yg akses halaman penjualan dll, tp tetap tidak bisa. Tlg dibantu.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "241fa9de-e6a1-434a-947a-22a7d6943edc",
+    "data": [
+      {
+        "text": "status toko tidak aktif pdhl setiap hari saya buka. sudah coba saran dr toped tp blm bisa aktif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2b9cf324-1c01-4039-b947-1b4239c1acdd",
+    "data": [
+      {
+        "text": "Toko tidak aktif. Mohon diaktifkan lg agar toko saya dpt order an",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "96f3170b-2592-4c7c-bf64-c28ffece95fd",
+    "data": [
+      {
+        "text": "Apakah saya bisa mengajukan permohonan untuk buka toko saya kembali yang sedang dalam moderasi ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e6f9f234-b32b-4454-b94a-e87dad36d594",
+    "data": [
+      {
+        "text": "Saya mohon buka toko saya kembali. Saya telah membaca peraturannya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b47cca93-3a18-4c72-911a-d5fa0b631590",
+    "data": [
+      {
+        "text": "Bisa ajukan request buka toko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4bdc8fad-a33a-494e-800f-bd560d45394a",
+    "data": [
+      {
+        "text": "mau membuka toko yang dimoderasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1d405f7a-b2c5-43da-9368-0f742a40ede9",
+    "data": [
+      {
+        "text": "kenapa saya dimoderasi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0cf4663b-4115-46ab-a854-66c6b6eebb54",
+    "data": [
+      {
+        "text": "mohon bantuan untuk membuka toko kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "befff023-9046-405d-92d1-c104ae03f24d",
+    "data": [
+      {
+        "text": "Saya minta solusi utk membuka toko saya lagi yg ",
+        "userDefined": false
+      },
+      {
+        "text": "skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ter moderasi ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d8e37958-860a-4593-a921-92a6d8c4e373",
+    "data": [
+      {
+        "text": "bagaimana cara membuka toko saya .sedangkan toko saya sudah di moderasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a37af611-3e0f-4c1c-8ccd-132443117130",
+    "data": [
+      {
+        "text": "Bagaimana membuka toko yg sudah di moderasi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5a83d37c-1321-4473-bc7c-d0c59b0d24fd",
+    "data": [
+      {
+        "text": "mohon dibuka toko saya kembali. saya tidak mengetahui kesalahan saya. sehingga diblokir moderasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7ec96f67-5b65-41a9-8ba3-3f331b1083fb",
+    "data": [
+      {
+        "text": "Saya ingin membuka toko saya tetapi pilihan mohon buka tidak ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "229705cd-5209-4c13-90f2-0b4090c7f02e",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mohon buka toko ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nanya terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2f522814-31b2-4947-9a67-140e0d9a2a40",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mohon buka toko.... yang d moderasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3300ba28-f043-4ec4-8050-ed0351caa202",
+    "data": [
+      {
+        "text": "mohon buka toko yang di moderasi karna banyak ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nanya terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "88241f60-0287-4001-8ad0-e3fb90b1e64a",
+    "data": [
+      {
+        "text": "Apakah sy bisa memohon utk membuka toko kembali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8c2b9474-4d3f-4055-b039-62a89915a60a",
+    "data": [
+      {
+        "text": "tolong buka toko kami kembali, saya tidak aan engulangi kesalahan, dan harus kembai berjualan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5b67fe23-3e6f-4427-ac62-1900e1b0ce11",
+    "data": [
+      {
+        "text": "tolong buka moderasi toko saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "839535c1-d17d-427e-8a07-62219e592e9b",
+    "data": [
+      {
+        "text": "bagaimana membuka toko yang dimoderasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e8e89bff-aa69-40e1-864a-64f4f5ffb5ee",
+    "data": [
+      {
+        "text": "Mohon bantuannya untuk membuka toko saya kembali ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "83dd5346-9ecc-4c37-83a4-5633016be12f",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cara membuka toko yang di moederasi gimna",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "31615f3d-627b-42e9-9bee-3047e0b405d1",
+    "data": [
+      {
+        "text": "Tidak dapat membuka toko lagi akibat moderasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "33bd6e3e-8265-4771-973f-e3edc22580da",
+    "data": [
+      {
+        "text": "mohon untuk CS tokopedia bersedia membuka toko kami kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8bda449a-5ce4-4cdf-8248-5ddd925eb6d4",
+    "data": [
+      {
+        "text": "Mohon d bantu untuk membuka toko saya yg d moderisasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "beab4703-f0a5-4b28-b878-395982c05429",
+    "data": [
+      {
+        "text": "saya mau mengajukan permohonan buka toko, sehubungan dengan status moderasi toko saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bc45127f-07b8-4be4-9952-34a7098cbfb5",
+    "data": [
+      {
+        "text": "mohon bantuannya untuk membuka toko saya... karena status sedang d moderasi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d0b15b96-ade0-4faf-900c-ecd3314d76aa",
+    "data": [
+      {
+        "text": "permohonan buka toko kembali yang di moderasi bagaimana caranya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a89e623d-86d7-458e-8e56-484e2b129f8c",
+    "data": [
+      {
+        "text": "buka toko saya yang sedang moderasi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "afbdc24d-8ce2-43d2-b74f-4a76fb7a10ea",
+    "data": [
+      {
+        "text": "saya sudah melakukan permohonan buka toko...saya tidak akan mengulangi kesalahan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "76c40d86-3ad7-4aa5-9c40-d8c4ddebddb8",
+    "data": [
+      {
+        "text": "Kami sangat berharap untuk bisa dibantu buka toko kembali, apapun kesalahan kami.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "09d99bde-4791-428f-9fc2-f048d2f78f2d",
+    "data": [
+      {
+        "text": "Kami sangat berharap untuk bisa dibantu buka toko kembali, apapun kesalahan kami. Kami usahakan yang terbaik agar kejadian ini tidak terulang kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d19faf5d-3547-4325-90db-4e348b6d1cc3",
+    "data": [
+      {
+        "text": "bagaimana saya bisa buka toko saya kembali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "31710539-6388-4380-9f68-a0c2dc4babc5",
+    "data": [
+      {
+        "text": "Segera buka toko saya tolong krn penghasilan keluarga utama saya ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f7172f2b-6c91-44a4-a5a9-9ff570f6209b",
+    "data": [
+      {
+        "text": "Mau request buka toko lagi, semoga kedepannya kami tidak melakukan kesalahan lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "30f50b93-3307-4c9a-8a84-8d00dded6e4c",
+    "data": [
+      {
+        "text": "buka shop saya, statusnya moderasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6c636a0e-2eeb-4e34-b4d3-673dae7e9e87",
+    "data": [
+      {
+        "text": "shop saya di moderasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5eae21f5-1b9d-43bf-a8d9-95416c113936",
+    "data": [
+      {
+        "text": "toko saya di moderasiak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2c79f51f-74e2-4ed4-8e0f-cf8f2f75bcf9",
+    "data": [
+      {
+        "text": "toko di moderasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1f1e457d-c54a-4117-bff0-9fbf74c8d234",
+    "data": [
+      {
+        "text": "tolong solusi untuk toko saya kena moderasi..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e7a7baf7-fc2e-454c-a4e0-a742cdd0f825",
+    "data": [
+      {
+        "text": "Toko di moderasi.. saya mohon maaf sebesar besarnya karena.saya baru dan belum membaca peraturan tokopedia sehingga saya tidak mengerti.. saya mohon.admin di buka ",
+        "userDefined": false
+      },
+      {
+        "text": "pagi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " toko saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c52ab41c-ae10-400d-97ba-41e17017ebf4",
+    "data": [
+      {
+        "text": "Mohon info bagaimana caranya supaya akun sy tidak dimoderasi lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bdff1856-1a74-4534-b5fd-dc713077d4f6",
+    "data": [
+      {
+        "text": "Mohon pihak tokopedia. Untuk membuka kembali moderasi akun saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "68b903fc-202d-4162-a055-c40f32226702",
+    "data": [
+      {
+        "text": "toko kami sedang dalam status moderasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b42b0b07-aae6-4130-931d-ba87104bc209",
+    "data": [
+      {
+        "text": "Mohon bantuannya, akun jualan saya terkena moderasi. apa yang harus saya lakukan untuk mengembalikannya seperti semula",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "19c71cea-b8ac-460f-ad8c-935b4ad91e88",
+    "data": [
+      {
+        "text": "Pihak tokopedia mohon untuk membuka kembali toko saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "02068076-85a6-4a35-a8f2-648674f4817d",
+    "data": [
+      {
+        "text": "Tertulis toko tidak aktif selama ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari sehingga saya ga bisa input produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ae85fcf4-4444-42fe-99c0-c5d48e9cb0cf",
+    "data": [
+      {
+        "text": "tertera aktif ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mgg yg lalu pdhl ",
+        "userDefined": false
+      },
+      {
+        "text": "kmrn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " jg aktif ko jd ",
+        "userDefined": false
+      },
+      {
+        "text": "g",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bs promo jualan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e38b91ce-549f-4740-b4f9-722e2216d966",
+    "data": [
+      {
+        "text": "toko saya dimoderasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fb88063d-42a7-4d94-b1bf-6acc3d613546",
+    "data": [
+      {
+        "text": "disebutkan untuk mengklik tombol buka toko yang ada di halaman toko, kendalanya saya sudah mencari berulang ulang tapi tidak menemukan tombolnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "68fdc7b3-0e3a-4e15-9e7e-887633c23ef5",
+    "data": [
+      {
+        "text": "toko saya dimoderasi, apakah bisa dibantu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8f36b1de-b4bb-4224-adfd-8e8a7a237594",
+    "data": [
+      {
+        "text": "keterangan toko tidak aktif selama ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari.. padahal hari sebelumnya seperti biasa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eb9c436e-9a80-41ea-a8bc-da0ec22cea5c",
+    "data": [
+      {
+        "text": "akun saya ini ditulis tidak aktif selama ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari, padahal tiap hari saya login dan promoted...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3648d437-873b-455f-be63-54aebefd730d",
+    "data": [
+      {
+        "text": "saya sudah hapus semua gambar yang bermasalah tolong akun saya dibuka/ diaktifkan kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a33b6467-5191-49a3-8f32-e588a63997ec",
+    "data": [
+      {
+        "text": "Mohon buka kembali toko saya mohon maaf",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ad5132d0-a270-4e2f-b1cd-3b68a4d4b5ad",
+    "data": [
+      {
+        "text": "saya sudah klik keterangan mohon buka..tapi sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " toko saya masih di moderesi..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6f7f7271-154d-471b-8c86-b5fb48caf8d0",
+    "data": [
+      {
+        "text": "Mohon bantuannya untuk membuka kembali toko kami yang dalam status moderasi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e36aabb5-6c77-4331-9616-105facb09be9",
+    "data": [
+      {
+        "text": "mohon bukakan moderasi akun kami",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bc44c857-eae4-4e44-9a1e-2fe782b0463f",
+    "data": [
+      {
+        "text": "Mohon dibantu atas pelepasan status moderasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f729cf35-9bb3-4b62-acb5-50c4968d48e1",
+    "data": [
+      {
+        "text": "sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "minggu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " lebih toko saya dimoderasi. kenapa belum dibuka juga,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4a4acb57-b7ec-493d-8c21-1d2a229d90f8",
+    "data": [
+      {
+        "text": "bisa dibantu buka moderasi toko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e7bb7257-31a6-4d99-95a9-6c61ed19aebc",
+    "data": [
+      {
+        "text": "Mohon akun saya di buka kembali makasih banyak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e1503484-38ec-4c24-b4d3-c04162b312ca",
+    "data": [
+      {
+        "text": "Kenapa toko saya tertulis tidak aktif, Padahal saya selalu buka akun tokopedia saya setiap hari.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4fbe7ccb-e4fe-4588-990d-7516828e20f8",
+    "data": [
+      {
+        "text": "berarti toko saya ini sudah tidak bisa dibuka lagi/?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b31732d4-7210-4d73-87da-e3747f3bb57a",
+    "data": [
+      {
+        "text": "akun saya di moderasi....",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1fc4faae-edc7-4e67-aafe-e9a32eafe726",
+    "data": [
+      {
+        "text": "kapan toko saya bisa dibuka kembali? Sudah dimoderasi ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bulan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7805c4dd-c482-4d9b-aeb2-5f8d107fd238",
+    "data": [
+      {
+        "text": "Kenapa toko saya dimoderasi? Ada yang salah dengan toko saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "05517305-42fd-458e-a704-2adc02d4f21a",
+    "data": [
+      {
+        "text": "mengapa status toko saya tidak aktif ya ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1e25d7f7-9d6d-4248-bc8f-37e8a86702c6",
+    "data": [
+      {
+        "text": "saya sudah menghapus barang dagangan saya yg tidak diperbolehlan. tlg dibuka kembali toko saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d1e31db8-21fb-4bac-ae57-71ca0d4703c2",
+    "data": [
+      {
+        "text": "kenapa akun toko saya diblokir?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "90f4da3d-b7d1-4fe1-89fd-993b84cbd069",
+    "data": [
+      {
+        "text": "Kenapa toko saya di moderasi ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", mohon di bantu di buka kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "13b92567-e631-4d26-85a4-1f69051b7829",
+    "data": [
+      {
+        "text": "kami harap segera dibuka toko kami, sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "3hari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kami sudah melakukan perbaikan, bahkan banyak sekali produk yg sudah kami perbaiki.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b177b9c3-b060-4605-8790-db78cad38440",
+    "data": [
+      {
+        "text": "Saya sdh log out/",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", edit foto, klik ",
+        "userDefined": false
+      },
+      {
+        "text": "produk2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tetap saja di anggap tdk aktif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "943473f5-6339-440f-ad88-b80107f3a748",
+    "data": [
+      {
+        "text": "kenapa akun saya mendapat status moderasi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "da7ffb8c-d0f4-49b3-91cd-f03a76609c19",
+    "data": [
+      {
+        "text": "kendala moderasi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b5c89e35-7c71-4b7f-9f14-30d6c50283c8",
+    "data": [
+      {
+        "text": "Admin tolong jgn ditutup atau moderasi toko saya krn ini mata pencaharian ",
+        "userDefined": false
+      },
+      {
+        "text": "satu2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c74b5362-0a29-48c1-9042-046ffbd5aa60",
+    "data": [
+      {
+        "text": "Akun dimoderasi... Bagaimana cara buka kembali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "db6e460b-5177-4084-b952-2374f11c45be",
+    "data": [
+      {
+        "text": "Akun tertulis tidak aktif. Mohon diaktifkan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1842ea11-5161-4226-b2d4-ce4708bae77e",
+    "data": [
+      {
+        "text": "Kenapa toko saya di moderasi ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "07a0ffe9-7a76-43ba-b175-a85b82f759fa",
+    "data": [
+      {
+        "text": "kenapa toko saya ada tulisanya moderasi ? mohon untuk membuka kembali toko saya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "40fb6bb0-9880-4362-8cae-3779c6209c89",
+    "data": [
+      {
+        "text": "kenapa akun saya di moderasi..tolong dibuka kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "646ba62e-0b38-41e9-85a5-6334edc749d1",
+    "data": [
+      {
+        "text": "mohon toko saya dibuka, saya ga bisa jualan. saya mencari pekerjaan dari jualan. kenapa ",
+        "userDefined": false
+      },
+      {
+        "text": "tiba2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dimoderasi !!!!!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9f822ea8-334c-4e6c-a611-edb07dd832b0",
+    "data": [
+      {
+        "text": "sy sering sekali mengalami kendala tokl dinyatakan tidak aktif....mohon dibantu untuk mengaktifkannya kembali...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a5b0a6ee-cfea-4a76-b5d5-dfa2716d3825",
+    "data": [
+      {
+        "text": "tolong di buka status moderasi banned nya.thx",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4d3f4716-e221-41d7-90e1-4e3d2c13b27c",
+    "data": [
+      {
+        "text": "Minta tolong dibuka donk moderasinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "035e7286-8bc9-498b-bb0e-71c16869a3ae",
+    "data": [
+      {
+        "text": "toko di moderasi dan bagaimana cara buka lagi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a8bed55a-c1a5-4f6f-9ed2-e88c60157e24",
+    "data": [
+      {
+        "text": "Knp toko saya di moderasi permanen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "377e7d6f-fdf3-4d23-b33e-613030791971",
+    "data": [
+      {
+        "text": "mohon maaf akun saya dalam moderasi kenapa ya. mohon bantuannya agar dibuka kembali saya harus apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "69880a2d-6047-4dec-bd89-484b8bcb3107",
+    "data": [
+      {
+        "text": "kenapa toko saya dinyatakan tutup selama ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari. tapi saya tidak men setting toko saya tutup.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "45e19e33-962e-4dec-a9ae-45a897814c95",
+    "data": [
+      {
+        "text": "Hallo saya ingin toko saya dibuka kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4108a852-e055-49e2-8928-f39025182c5a",
+    "data": [
+      {
+        "text": "tlg dibuka toko saya padahal saya ",
+        "userDefined": false
+      },
+      {
+        "text": "cm",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2hr",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tdk aktif tetapi lsg diblokir aja..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9df80a78-3fa6-4a72-88db-29ce30be085d",
+    "data": [
+      {
+        "text": "Toko dalam status moderasi... Mohon dibuka kembali untuk status moderat nya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4ac550fc-b840-46fb-bd1c-419cc9084bd6",
+    "data": [
+      {
+        "text": "status toko dalam moderasi mohon di bantu yang harus di perbaiki yang mana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "94efbb9a-2a29-490a-befd-99468ea94163",
+    "data": [
+      {
+        "text": "anggak active ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hr, tolong diactivekan kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9b9c6cea-8f10-486a-97ec-67ee8e60c12c",
+    "data": [
+      {
+        "text": "akun saya di moderasi secara sepihak tanpa meminta keterangan dari saya,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e2610034-af65-45d3-9db5-ce934cf1c7aa",
+    "data": [
+      {
+        "text": "bagaimana Cara membuka toko moderasi ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a1d8a7d6-d0ee-4b96-8b88-fb606492d825",
+    "data": [
+      {
+        "text": "Apakah bisa di buka blokir ny/moderasi ny??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cc9e0848-ccd1-407d-ba5e-040621772180",
+    "data": [
+      {
+        "text": "Akun saya sedang di moderasi , apakah yg harus saya lakukan utk kembali bisa berjualan di tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "19223025-7d0b-4a1e-9ad9-39f1ea90448b",
+    "data": [
+      {
+        "text": "saya ingin menanyakan kenapa toko saya selalu tidak aktif ya???",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5d42275d-cc4a-4c11-bd07-940588bc1e7e",
+    "data": [
+      {
+        "text": "mohon segera buka akun toko saya, karna akun saya terkena moderasi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d86dc483-64f1-44bd-9d58-230ef33b4b0d",
+    "data": [
+      {
+        "text": "Dear admin saya sudah melakukan perbaikan mohon agar toko saya segera dibukan karena butuh penghasilan untuk keluarga saya ..saya akan evualasi saya berjualan barant antik dan unik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0612ceb4-55bf-4ca2-a6d2-378d54285609",
+    "data": [
+      {
+        "text": "tiba2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di moderasi bagini.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3f1dc0b8-e2cf-4a31-a721-261ecf842dab",
+    "data": [
+      {
+        "text": "Produk saya tidak bisa dibuka karena tidak aktif selama ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari (padahal tiap hari saya login)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1b696306-774b-4d85-8b7c-f0cbbea3c01c",
+    "data": [
+      {
+        "text": "tolong ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dimohon untuk membuka toko kami lagi...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c445d4ba-45ea-4beb-a8db-aaeddf245f84",
+    "data": [
+      {
+        "text": "ada tulisan toko tidak aktive lebih dari ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari......saya sudah coba logout dan login kembali tapi tetap seperti itu keadaannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e6b6bee5-7675-44ca-944b-d311d09f8fa0",
+    "data": [
+      {
+        "text": "Kenapa toko saya ditutup..saya tidak memanipulasi toko saya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bbe78759-65f2-4aa0-a33e-cb856245d528",
+    "data": [
+      {
+        "text": "Kenapa toko saya ditutup / di moderasi ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f7af199e-f421-4a5f-800a-69414ab2eb7f",
+    "data": [
+      {
+        "text": "akun tidak aktif lebih dari ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari? padahal saya selalu log in di aplikasi tokopedianya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c0db0262-347b-4df7-8c6d-290004949f79",
+    "data": [
+      {
+        "text": "mohon bisa dibantu, saya ingin mengaktifkan kembali toko di tokopedia saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

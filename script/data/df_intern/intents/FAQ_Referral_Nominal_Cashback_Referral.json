@@ -1,0 +1,52 @@
+{
+  "id": "221c3cc3-53d6-461e-bd9f-f7f545b25c9c",
+  "name": "FAQ_Referral_Nominal_Cashback_Referral",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Referral_Nominal_Cashback_Referral-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "3e32d5f7-e691-4688-bb29-f157ccb92006",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sebagai Toppers, kamu akan menerima bonus TokoCash Rp20.000 setiap transaksi Teman. Bonus terakumulasi maksimal yang bisa kamu terima senilai Rp1.000.000."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sebagai Teman, kamu akan menerima Cashback TokoCash 50% hingga Rp30.000. Bonus tersebut akan didapat maksimal 2x24 jam setelah transaksi Teman selesai dan sesuai dengan Syarat dan Ketentuan ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_referral_nominal_cashback_referral"
+    }
+  ]
+}

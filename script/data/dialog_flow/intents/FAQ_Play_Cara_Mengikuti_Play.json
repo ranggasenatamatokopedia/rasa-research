@@ -1,0 +1,36 @@
+{
+  "id": "f10e40a0-7e0d-41af-adee-02452e9b1756",
+  "name": "FAQ_Play_Cara_Mengikuti_Play",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sebelum mengikuti acaranya, mohon pastikan beberapa hal berikut ini:\n\n1. Kamu telah mengaktifkan fitur shake-shake di aplikasi Tokopedia.\n2. Kamu melakukan shake-shake pada saat terdapat campaign atau acara yang sedang berjalan.\n3. Aplikasi Tokopedia yang kamu gunakan sudah versi terbaru."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk dapat mengikuti acara tersebut, silakan ikuti langkah di bawah ini ya:\n\n1. Buka aplikasi Tokopedia kamu.\n2. Shake-shake (goyang-goyangkan) perangkat yang kamu gunakan.\n3. Klik tombol “Masuk ke Play”."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_play_cara_mengikuti_play"
+    }
+  ]
+}

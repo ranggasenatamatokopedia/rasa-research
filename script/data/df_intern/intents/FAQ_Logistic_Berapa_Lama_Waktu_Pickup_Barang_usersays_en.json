@@ -1,0 +1,589 @@
+[
+  {
+    "id": "b547fc57-8a9f-4a8b-a7c9-ed9cf9c92ea3",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", barang saya kok gak di pick up pick up ya pake ",
+        "userDefined": false
+      },
+      {
+        "text": "Ninja",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": ", emang berapa lama sih pengiriman pake kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "Ninja Xpress",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1ff6a35a-ad3e-4f4f-8afd-57313086cfe1",
+    "data": [
+      {
+        "text": "Berapa lama sih waktu pick Up ",
+        "userDefined": false
+      },
+      {
+        "text": "Go-Send",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Instant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bfe6a430-ac03-4fdf-b83e-2e63f2cf6e16",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", ini ",
+        "userDefined": false
+      },
+      {
+        "text": "Rex",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " gak dateng-dateng ke lokasi saya, nunggu berapa lama lagi nih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b02f50cd-bd7d-4918-a061-9c592b3b6b22",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", ini ada ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya milih kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "Ninja Xpress",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": ", proses pick up nya berapa lama ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? Soalnya saya gak mau ngecewain ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "00564964-8211-4693-b92b-67b532108a9c",
+    "data": [
+      {
+        "text": "Kapan barang di pick up, saya menggunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "Grab",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Sameday",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "df0ac859-c795-48c2-9093-259d5429b5af",
+    "data": [
+      {
+        "text": "Mohon informasi kapan ",
+        "userDefined": false
+      },
+      {
+        "text": "Grab",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " pick up karena lama sekali..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9030c1a8-e2f1-49d3-a36c-ab3b9e8eff79",
+    "data": [
+      {
+        "text": "Kapan barang di pick up, saya menggunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "Go-Send",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Sameday",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "800dcada-8750-4419-9aad-059377fd726f",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", berapa lama sih waktu pickup ",
+        "userDefined": false
+      },
+      {
+        "text": "Gojek",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "21f6eb90-7730-4e0c-b902-d42054fc2963",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "Ninja",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " nya belum dateng-dateng nih lama banget, berapa jam lagi datengnya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e784e609-83e0-470e-b917-3141d32beef5",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", berapa lama sih waktu  pickup ",
+        "userDefined": false
+      },
+      {
+        "text": "Ninja Express",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1fd45425-3756-41d9-954a-f6de8d9f25be",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", berapa lama sih waktu pick up ",
+        "userDefined": false
+      },
+      {
+        "text": "Rex 10",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "51a9000b-e744-4fd1-b725-1dab254e2145",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "Gojek",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " itu berapa lama sih proses pick up nya? kok lama banget pick up barangnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "315674c8-0082-48c4-af30-5fada6ba96b9",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kalo saya request pick up ",
+        "userDefined": false
+      },
+      {
+        "text": "Rex",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " jam ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pagi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", paketnya kira-kira di pick up jam berapa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fc1650d4-e70b-4d2e-9934-b53c37ba3413",
+    "data": [
+      {
+        "text": "Berapa lama sih waktu pick Up ",
+        "userDefined": false
+      },
+      {
+        "text": "Grab",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Instant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a0a52eca-6f7e-4a01-969b-1d3292ab8d10",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", berapa lama sih waktu pickup ",
+        "userDefined": false
+      },
+      {
+        "text": "Grab",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6a18b373-4952-4432-a4a6-8c5058d126a4",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "Ninja",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " kok lama banget sih pick up, peraturannya berapa jam sih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f700d717-e882-4953-909d-d468cc8d5be6",
+    "data": [
+      {
+        "text": "Berapa lama sih waktu pick Up ",
+        "userDefined": false
+      },
+      {
+        "text": "Grab",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2b7f6705-1e8e-4821-9e1c-b46d4df6728e",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", ini ",
+        "userDefined": false
+      },
+      {
+        "text": "Rex",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " gak dateng-dateng ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ke tempat saya, ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya udah nanyain mulu ini miiin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c304f318-2610-42d3-843a-75177c59ecb2",
+    "data": [
+      {
+        "text": "Grab",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " ga lama bgt pick upnya. dateng jam brp ya kira kira?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,58 @@
+{
+  "id": "9e99fe2f-57a2-4801-8a72-2fedd7c37b35",
+  "parentId": "585b4b9d-33dd-4b0a-b4d6-deeed2988e63",
+  "rootParentId": "36de46a2-13d2-4f09-9ff4-8abcbcb54ba3",
+  "name": "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Buyer_Shipping_Conventional_In_SLA",
+  "auto": true,
+  "contexts": [
+    "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Buyer_Shipping_Conventional-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Buyer_Shipping_Conventional_In_SLA-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7bcce1b5-dbd3-45d5-8da9-302225b8384b",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1357"
+        },
+        {
+          "id": "9785d930-c6b7-4bb0-b858-eda162558bfe",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Logistic_Barang_Dikembalikan_Ke_Pengirim"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu sebentar ya, Toped akan bantu buatkan tiket untuk dicek lebih lanjut dan informasi selanjutnya akan dikirim lewat email. :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533893274,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "sla_logistics_is_not_over_yet"
+    }
+  ]
+}

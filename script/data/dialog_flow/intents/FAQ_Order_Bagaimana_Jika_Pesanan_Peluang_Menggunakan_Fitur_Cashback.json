@@ -1,0 +1,31 @@
+{
+  "id": "c10e2c42-15c3-4807-9346-1237f5684614",
+  "name": "FAQ_Order_Bagaimana_Jika_Pesanan_Peluang_Menggunakan_Fitur_Cashback",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Cashback dari pesanan Peluang akan dipotong otomatis dari penjual yang baru, dan diterima pembeli setelah transaksi dinyatakan selesai."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_order_bagaimana_jika_pesanan_peluang_menggunakan_fitur_cashback"
+    }
+  ]
+}

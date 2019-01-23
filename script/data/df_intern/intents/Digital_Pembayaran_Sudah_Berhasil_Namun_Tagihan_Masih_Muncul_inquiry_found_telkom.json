@@ -1,0 +1,54 @@
+{
+  "id": "d85bd81f-9efd-40b2-b5b3-3009e29883ef",
+  "parentId": "f2458716-e998-4d5d-bcf5-275f42e738e5",
+  "rootParentId": "440cef8c-a263-47ad-b658-e035da03a8e0",
+  "name": "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_inquiry_found_telkom",
+  "auto": false,
+  "contexts": [
+    "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_order_success-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_inquiry_found_telkom-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pembayaran tagihan telepon kamu sudah berhasil pada #digital_telkom.time_success ya. Apakah kamu sudah menghubungi pihak Telkom sebelumnya?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Ya, Sudah",
+              "Belum"
+            ],
+            "type": 1
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534219467,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "digital_telkom"
+    }
+  ]
+}

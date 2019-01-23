@@ -1,0 +1,60 @@
+{
+  "id": "ddb05de6-1289-4bf1-bb6d-e98f4b9b9808",
+  "parentId": "d2c37f3a-76c9-42b6-8fd7-e184557f83eb",
+  "rootParentId": "36de46a2-13d2-4f09-9ff4-8abcbcb54ba3",
+  "name": "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Buyer_Canceled_Rejected",
+  "auto": true,
+  "contexts": [
+    "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Buyer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Buyer_Canceled_Rejected-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sayangnya, Toped cek saat ini transaksi kamu statusnya sudah batal."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Namun tidak perlu khawatir, kamu dapat lakukan pengecekan pengembalian dana pada Saldo Tokopedia/OVO Cash/OVO Points/Limit Kartu Kredit :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533887766,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_batal_otomatis_oleh_sistem"
+    },
+    {
+      "name": "invoice_canceled"
+    },
+    {
+      "name": "invoice_payment_due"
+    },
+    {
+      "name": "invoce_refund"
+    },
+    {
+      "name": "invoice_pesanan_ditolak_penjual"
+    }
+  ]
+}

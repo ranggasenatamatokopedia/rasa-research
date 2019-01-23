@@ -1,0 +1,42 @@
+{
+  "id": "f3b4d40e-c572-4934-8c10-ed4c56bbf44a",
+  "name": "FAQ_TokoPoints_Bagaimana_Cara_Menukar_Points_Menjadi_Kupon",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_TokoPoints_Bagaimana_Cara_Menukar_Points_Menjadi_Kupon-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut Toped kasih tahu cara tukar Points menjadi Kupon ya:\r\n\r\n1. Masuk ke halaman \"Penukaran Points\"\r\n2. Klik Kupon pilihan kamu\r\n3. Cek detail kupon sebelum ditukarkan\r\n4. Klik “Tukar” dan akan muncul konfirmasi \"Tukar Points\"\r\n5. Jika setuju, kamu bisa klik \"Tukar\"\r\n6. Muncul notifikasi \"Penukaran Berhasil\""
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kupon yang sudah ditukar akan ada di menu “Kupon Milik Saya” pada akun TokoPoints kamu ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_tokopoints_bagaimana_cara_menukar_points_menjadi_kupon"
+    }
+  ]
+}

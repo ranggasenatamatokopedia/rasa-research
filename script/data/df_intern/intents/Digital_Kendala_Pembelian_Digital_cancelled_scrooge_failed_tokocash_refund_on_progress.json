@@ -1,0 +1,48 @@
+{
+  "id": "cdf98b6c-190c-4d83-928a-e7220dcb53fe",
+  "parentId": "e5fa193b-8814-4d0a-93c4-1ae59da46633",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_cancelled_scrooge_failed_tokocash_refund_on_progress",
+  "auto": false,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_cancelled_scrooge_failed_tokocash_refund_exist-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_cancelled_scrooge_failed_tokocash_refund_on_progress-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Saat ini, dana kamu sedang dalam proses pengembalian ke TokoCash. Coba cek berkala selama 1x24 jam ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga informasi Toped membantu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536899625,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "refund_status_on_progress"
+    }
+  ]
+}

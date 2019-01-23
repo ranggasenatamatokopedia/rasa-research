@@ -1,0 +1,68 @@
+[
+  {
+    "id": "a15fdf60-49c9-40b2-9e18-5c692dcfd0c1",
+    "data": [
+      {
+        "text": "pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "03b54586-cf7a-4844-b815-dbcde897f479",
+    "data": [
+      {
+        "text": "tiket flight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cac515e1-2ec8-404a-9ead-009d8ffa1d59",
+    "data": [
+      {
+        "text": "empat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "26553c0f-99f0-49e6-8312-6c113033e547",
+    "data": [
+      {
+        "text": "4",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fb328a4d-ee14-4946-81bb-ea40e0e5dc1e",
+    "data": [
+      {
+        "text": "tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a725e597-39e0-45a1-8d55-2262b5f31fcf",
+    "data": [
+      {
+        "text": "flight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "id": "5905d08a-36c6-4753-b850-a3322c0fa940",
+  "parentId": "fcddc333-39be-444a-baf1-ca59893f06d8",
+  "rootParentId": "35e16175-3fd0-4749-bf64-4e1b94b883f1",
+  "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Seller_Delivered",
+  "auto": true,
+  "contexts": [
+    "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Seller-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Seller_Delivered-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau Toped cek status transaksinya saat ini sudah terkirim. Mohon tunggu pembeli untuk melakukan konfirmasi penerimaan, ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "sebagai info tambahan, dana penjualan kamu akan Toped bantu teruskan kalau pihak pembeli tidak melakukan konfirmasi penerimaan dalam jangka waktu 2x24 jam sejak statusnya terkirim. Jadi, kamu tidak perlu khawatir ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532500943,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_pesanan_sampai"
+    },
+    {
+      "name": "invoice_delivered_due_limit"
+    },
+    {
+      "name": "invoice_delivery_due"
+    },
+    {
+      "name": "invoice_pesanan_telah_diterima"
+    }
+  ]
+}

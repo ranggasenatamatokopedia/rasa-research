@@ -1,0 +1,44 @@
+{
+  "id": "ab67a129-b041-4ea0-820e-48bc30e635b5",
+  "parentId": "31e5a270-518e-4eba-9a13-c18bfb5b35c6",
+  "rootParentId": "31e5a270-518e-4eba-9a13-c18bfb5b35c6",
+  "name": "FAQ_Digital_Cara_Redeem_PSN_Money_Voucher_from_browser",
+  "auto": true,
+  "contexts": [
+    "FAQ_Digital_Cara_Redeem_PSN_Money_Voucher-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Digital_Cara_Redeem_PSN_Money_Voucher_from_browser-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Redeem voucher PSN Money melalui browser desktop atau smartphone caranya:\n1. Sign In ke https://account.sonyentertainmentnetwork.com/liquid/login.action\n2. Pilih menu \"Add Funds\"\n3. Pilih menu \"Redeem Prepaid Card\"\n4. Masukan kode 12 digit lalu klik \"Continue\" dan selesaikan proses."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika transaksi sukses, kamu akan mendapatkan kode Serial Number dan kode PIN. Namun untuk redeem, kamu hanya cukup masukkan PIN nya saja. Selamat mencoba ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536908874,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "0c400132-a4f1-4fec-9966-a49f66d3b95b",
+  "name": "FAQ_Flight_Dana_Refund_Berbeda_Dengan_Estimasi_Yang_Diberikan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flight_Dana_Refund_Berbeda_Dengan_Estimasi_Yang_Diberikan-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Perbedaan dana refund yang diterima terjadi karena adanya kebijakan dari masing-masing maskapai. Selain itu, cashback akan ditarik saat dana refund diberikan ke Saldo Tokopedia kamu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_flight_dana_refund_berbeda_dengan_estimasi_yang_diberikan"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "6bfe6da2-fa32-4f9e-a48c-098fef2a4aab",
+  "name": "FAQ_Flight_Mengapa_Harga_Tiket_Selalu_Berubah",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flight_Mengapa_Harga_Tiket_Selalu_Berubah-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Harga tiket pesawat bisa berubah secara fluktuatif karena mengikuti perkembangan dari maskapai tersebut :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_flight_mengapa_harga_tiket_selalu_berubah"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "4a4dcd43-561a-43f5-bfd7-717d51c906ef",
+  "parentId": "dde8ae2a-9271-4847-a8b2-05c8604fa637",
+  "rootParentId": "bc8f4622-0f27-4009-a4cd-f030fe0388ae",
+  "name": "FAQ_Payment_cara_bayar_virtual_account_mandiri",
+  "auto": true,
+  "contexts": [
+    "FAQ_Payment_cara_bayar_virtual_account-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Payment_cara_bayar_virtual_account_mandiri-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut langkah - langkah untuk melakukan pembayaran Mandiri Virtual Account:\n1. Untuk bayar melalui ATM bank Mandiri, silakan masukkan kartu ATM dan Pin.\n2. Pilih Menu “Bayar/Beli”.\n3. Pilih menu “Lainnya”, hingga menemukan menu “Multipayment”.\n4. Masukkan kode biller Tokopedia 88708, lalu pilih Benar.\n5. Masukkan “Nomor Virtual Account” Tokopedia, lalu pilih tombol Benar.\n6. Masukkan Angka “1” untuk memilih tagihan, lalu pilih tombol Ya.\n7. Akan muncul konfirmasi pembayaran, lalu pilih tombol Ya.\n8. Simpan struk sebagai bukti pembayaran kamu.\""
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mandiri Virtual Account juga dapat dibayar melalui Internet Banking atau Mandiri Online. Berikut langkahnya:\n1. Login Mandiri Online dengan memasukkan username dan password.\n2. Pilih menu “Pembayaran”\n3. Pilih menu “Multipayment”.\n4. Pilih penyedia jasa “Tokopedia.\n5. Masukkan “Nomor Virtual Account” dan “Nominal” yang akan dibabayarkan , lalu pilih Lanjut.\n6. Setelah muncul tagihan, pilih Konfirmasi.\n7. Masukkan PIN/ challange code token.\n8. Transaksi selesai, simpan bukti bayar kamu."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534827280,
+  "fallbackIntent": false,
+  "events": []
+}

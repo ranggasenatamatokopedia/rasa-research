@@ -1,0 +1,62 @@
+{
+  "id": "fe23e5db-0098-434b-b97a-41c26b263663",
+  "parentId": "66f54922-9ef9-4ea7-bafd-540f46f81c7c",
+  "rootParentId": "9413a6be-1e59-431f-b086-229dfc670fe6",
+  "name": "TOKOPOINT_Transaksi_berhasil_tapi_tidak_mendapatkan_lucky_egg_select_invoice_success_exists",
+  "auto": false,
+  "contexts": [
+    "TOKOPOINT_Transaksi_berhasil_tapi_tidak_mendapatkan_lucky_egg_select_invoice_success-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Transaksi_berhasil_tapi_tidak_mendapatkan_lucky_egg_select_invoice_success_exists-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "184354bf-ef60-4efd-befa-82596b73be75",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1416",
+          "isList": false
+        },
+        {
+          "id": "8d523e15-e935-4718-81f2-8ee43bffe967",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "TOKOPOINT_Transaksi_berhasil_tapi_tidak_mendapatkan_ketupat"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai, Toped mendeteksi ada pelanggaran Syarat dan Ketentuan Tokopedia yang kamu buat nih, sehingga kamu tidak mendapatkan Lucky Egg. Nanti akan dibantu dan dijelaskan lebih lanjut melalui Tiket ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523434497,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_is_fraud"
+    },
+    {
+      "name": "invoice_exists_in_sauron"
+    }
+  ]
+}

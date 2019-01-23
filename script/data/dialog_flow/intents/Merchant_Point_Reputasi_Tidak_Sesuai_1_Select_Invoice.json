@@ -1,0 +1,43 @@
+{
+  "id": "812d683e-d291-49f0-b5b2-30ae920ce255",
+  "parentId": "97d0b312-be17-4e7a-a5b1-f4a5dda1628d",
+  "rootParentId": "cf17fcc0-2998-4ff8-8cf4-6a1ca0e60443",
+  "name": "Merchant_Point_Reputasi_Tidak_Sesuai_1_Select_Invoice",
+  "auto": true,
+  "contexts": [
+    "Merchant_Point_Reputasi_Tidak_Sesuai_1-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckInvoiceIsMarketplace",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Point_Reputasi_Tidak_Sesuai_1_Select_Invoice-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped bantu cek dulu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536552193,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "select_invoice"
+    }
+  ]
+}

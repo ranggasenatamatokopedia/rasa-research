@@ -1,0 +1,24 @@
+[
+  {
+    "id": "780490fa-d5c8-4b32-89bd-9f0c0e7496ed",
+    "data": [
+      {
+        "text": "operator_joox",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "27abbd01-ba04-4536-8348-78bce76030a4",
+    "data": [
+      {
+        "text": "operator_iflix",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

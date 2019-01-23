@@ -1,0 +1,43 @@
+{
+  "id": "6884f0ed-24d3-4376-9055-0079a37567c1",
+  "parentId": "63e7dd9c-476d-4bf5-be53-b0fe1c85380d",
+  "rootParentId": "423ba23e-4ef9-436a-8828-c784ffb30629",
+  "name": "Order_Fraud_Dana_Hasil_Transaksi_Belum_Masuk_Atau_Direview_Ya_Select_Digital",
+  "auto": false,
+  "contexts": [
+    "Order_Fraud_Dana_Hasil_Transaksi_Belum_Masuk_Atau_Direview_Ya_Select-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Order_Fraud_Dana_Hasil_Transaksi_Belum_Masuk_Atau_Direview_Ya_Select_Digital-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Invoice yang kamu pilih adalah transaksi digital, mohon lakukan pengecekan kembali."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532085325,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_digital_KAI"
+    }
+  ]
+}

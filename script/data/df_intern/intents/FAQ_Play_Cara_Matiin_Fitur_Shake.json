@@ -1,0 +1,33 @@
+{
+  "id": "fb74fdc2-2694-40f3-8f7a-40de08d6b3c2",
+  "name": "FAQ_Play_Cara_Matiin_Fitur_Shake",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Play_Cara_Matiin_Fitur_Shake-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Fitur Shake-Shake di perangkatmu bisa di nonaktifkan dengan cara:\n1. Buka Aplikasi Tokopediamu.\n2. Pilih menu \"Akun\"\n3. Pilih toggle Pengaturan yang ada di sebelah kanan atas perangkatmu\n4. Nonaktifkan fitur Shake-Shake."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

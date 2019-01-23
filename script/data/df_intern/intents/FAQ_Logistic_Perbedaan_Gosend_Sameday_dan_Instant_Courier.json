@@ -1,0 +1,31 @@
+{
+  "id": "cac8c2fd-e6af-4ebf-be58-31d46f3e8c2c",
+  "name": "FAQ_Logistic_Perbedaan_Gosend_Sameday_dan_Instant_Courier",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped beri tahu perbedaan Same Day dan Instant Courier ya:\n\n1. Same Day: barang tetap sampai di hari yang sama, hanya saja satu kurir akan melakukan pengiriman ke 8 – 10 paket dan mengantarkannya bergantian.\n\n2. Instan Courier: satu kurir hanya mengantar satu barang sehingga waktu yang dibutuhkan lebih singkat."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_logistic_perbedaan_gosend_sameday_dan_instant_courier"
+    }
+  ]
+}

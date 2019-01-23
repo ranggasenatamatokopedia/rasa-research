@@ -1,0 +1,43 @@
+{
+  "id": "334fc478-b2b1-45a7-9a93-84f98de57b13",
+  "parentId": "804799d6-e162-415c-9f2d-c7e377e413ee",
+  "rootParentId": "804799d6-e162-415c-9f2d-c7e377e413ee",
+  "name": "Flash_Sale_Pengajuan_Belum_Dikonfirmasi_Atau_Ditolak_Any_Data",
+  "auto": true,
+  "contexts": [
+    "Flash_Sale_Pengajuan_Belum_Dikonfirmasi_Atau_Ditolak-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Flash_Sale_Pengajuan_Belum_Dikonfirmasi_Atau_Ditolak_Any_Data-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut Toped infokan detail status pengajuan Flash Sale untuk produk kamu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537944568,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "any_history_flash_sale"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "1e8e9fce-3409-401a-92b0-748e731e7059",
+  "name": "FAQ_TokoPoints_Apakah_Penggunaan_Kupon_Bisa_Digabung_Dengan_Kode_Promo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_TokoPoints_Apakah_Penggunaan_Kupon_Bisa_Digabung_Dengan_Kode_Promo-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Penggunaan Kupon TokoPoints dan Kode Promo tidak bisa digabungkan dalam satu transaksi ya, tapi kamu bisa pilih salah satu dan dapatkan benefitnya!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_tokopoints_apakah_penggunaan_kupon_bisa_digabung_dengan_kode_promo"
+    }
+  ]
+}

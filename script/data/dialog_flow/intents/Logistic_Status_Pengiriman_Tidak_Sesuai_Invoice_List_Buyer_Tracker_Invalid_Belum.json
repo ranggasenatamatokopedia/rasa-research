@@ -1,0 +1,39 @@
+{
+  "id": "7754f445-ae77-40d2-85c9-a8b63ad8a0ef",
+  "parentId": "c556dcc0-a4eb-4988-8010-24d648c5fac8",
+  "rootParentId": "d9d2ac31-d864-4f6e-836c-94fff4d54ef6",
+  "name": "Logistic_Status_Pengiriman_Tidak_Sesuai_Invoice_List_Buyer_Tracker_Invalid_Belum",
+  "auto": true,
+  "contexts": [
+    "Logistic_Status_Pengiriman_Tidak_Sesuai_Invoice_List_Buyer_Tracker_Invalid-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Status_Pengiriman_Tidak_Sesuai_Invoice_List_Buyer_Tracker_Invalid_Belum-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa ajukan komplain melalui halaman \"Status Pemesanan\", kemudian klik tombol \"Komplain\"."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531132613,
+  "fallbackIntent": false,
+  "events": []
+}

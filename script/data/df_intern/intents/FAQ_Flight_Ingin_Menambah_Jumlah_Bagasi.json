@@ -1,0 +1,33 @@
+{
+  "id": "bd40c95f-07e3-4040-b2d7-342ba653333d",
+  "name": "FAQ_Flight_Ingin_Menambah_Jumlah_Bagasi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flight_Ingin_Menambah_Jumlah_Bagasi-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kebijakan untuk menambah jumlah bagasi berbeda-beda dari setiap maskapai. Kamu dapat hubungi maskapai langsung untuk konfirmasi hal tersebut. Semoga informasi Toped membantu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "e73cb257-4a1e-410b-b1d0-0cce65d1c100",
+    "data": [
+      {
+        "text": "invoice_menunggu_status_kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9a88b947-3c86-4217-8509-665d5de65381",
+    "data": [
+      {
+        "text": "menunggu status kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

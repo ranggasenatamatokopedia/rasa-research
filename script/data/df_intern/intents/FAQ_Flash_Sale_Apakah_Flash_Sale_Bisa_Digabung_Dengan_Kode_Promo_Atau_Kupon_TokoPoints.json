@@ -1,0 +1,37 @@
+{
+  "id": "d88b2174-219b-4eec-ba06-cc95267ca7ba",
+  "name": "FAQ_Flash_Sale_Apakah_Flash_Sale_Bisa_Digabung_Dengan_Kode_Promo_Atau_Kupon_TokoPoints",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flash_Sale_Apakah_Flash_Sale_Bisa_Digabung_Dengan_Kode_Promo_Atau_Kupon_TokoPoints-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa pilih salah satu ya, ingin gunakan Kode Promo atau kupon TokoPoints pada pembelian produk Flash Sale kamu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_flash_sale_apakah_flash_sale_bisa_digabung_dengan_kode_promo_atau_kupon_tokopoints"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "e1fd67c7-5a72-4184-9a6c-bda4c6e61524",
+  "name": "Logistic_Layanan_Pengiriman_Tidak_Tersedia_Di_Pengaturan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Logistic_Layanan_Pengiriman_Tidak_Tersedia_Di_Pengaturan-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped butuh konfirmasi kamu, wilayah Penjual atau wilayah Pembeli yang berkendala?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Wilayah Penjual",
+              "Wilayah Pembeli"
+            ],
+            "type": 1
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

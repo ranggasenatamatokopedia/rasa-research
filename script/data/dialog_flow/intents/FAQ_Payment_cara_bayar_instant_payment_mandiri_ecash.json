@@ -1,0 +1,39 @@
+{
+  "id": "9534360c-9ccc-4751-ad12-50d7c8a5f09e",
+  "parentId": "dfd5c5d7-f8a2-4c65-b4f6-2dc2bd8c057f",
+  "rootParentId": "bc8f4622-0f27-4009-a4cd-f030fe0388ae",
+  "name": "FAQ_Payment_cara_bayar_instant_payment_mandiri_ecash",
+  "auto": true,
+  "contexts": [
+    "FAQ_Payment_cara_bayar_instant_payment-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Payment_cara_bayar_instant_payment_mandiri_ecash-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut langkah-langkah apabila kamu mau melakukan pembayaran dengan Mandiri e-Cash:\n\n1. Masukkan produk ke Keranjang Belanja\n2. Pilih metode pembayaran mandiri e-cash, lalu klik Checkout\n3. Pada halaman ringkasan pembayaran klik Bayar Sekarang\n4. Kamu akan diarahkan ke halaman mandiri e-cash\n5. Masukkan nomor handphone dan PIN mandiri e-cash kamu\n6. Mandiri akan mengirimkan Kode OTP via SMS\n7. Masukkan Kode OTP. Klik Bayar"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534986912,
+  "fallbackIntent": false,
+  "events": []
+}

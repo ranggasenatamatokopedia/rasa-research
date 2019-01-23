@@ -1,0 +1,186 @@
+[
+  {
+    "id": "a18633e8-a641-47c1-962b-2e40938ce5d0",
+    "data": [
+      {
+        "text": "menunggu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9f3e4696-82ba-461d-995b-a0f7475b894f",
+    "data": [
+      {
+        "text": "tunggu aja ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4bd3db9d-359b-46d0-b610-1e1daddf6376",
+    "data": [
+      {
+        "text": "menunggu ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " respons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2cc78b17-5ee4-41f7-a6af-f670448ebe49",
+    "data": [
+      {
+        "text": "menunggu ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1d1eb620-c628-4356-8617-f42b51275288",
+    "data": [
+      {
+        "text": "menunggu aja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ec919711-978f-435d-9263-4bc37a11d23d",
+    "data": [
+      {
+        "text": "tunggu ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " respon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e79cfc30-150d-4f81-b080-42a0125c8f56",
+    "data": [
+      {
+        "text": "tunggu ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "265a237e-12ec-4775-9c98-b7ee34ff78a1",
+    "data": [
+      {
+        "text": "tunggu aja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ca89d03d-b962-4544-9153-2378fa78eaf5",
+    "data": [
+      {
+        "text": "tunggu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dbdc070b-a077-4ede-9ef9-3c253c5394d0",
+    "data": [
+      {
+        "text": "tunggu respon ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8aefa308-433d-453e-8288-d886761a926e",
+    "data": [
+      {
+        "text": "menunggu ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " respon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2672174e-7f38-4b78-9adc-259875ddc104",
+    "data": [
+      {
+        "text": "tunggu respons ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

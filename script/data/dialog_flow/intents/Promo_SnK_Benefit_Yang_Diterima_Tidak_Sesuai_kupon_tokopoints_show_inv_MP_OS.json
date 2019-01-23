@@ -1,0 +1,43 @@
+{
+  "id": "62cebc3c-7c9c-4719-94b5-e5aa772e8bc1",
+  "parentId": "1401f9b6-3f15-450c-91c6-ae8186f053d8",
+  "rootParentId": "67024543-88fb-488f-907b-85ef94921089",
+  "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_kupon_tokopoints_show_inv_MP_OS",
+  "auto": true,
+  "contexts": [
+    "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_sudah_trx_kupon_tokopoints_show_invoice-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetResolutionStatus",
+      "affectedContexts": [
+        {
+          "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_kupon_tokopoints_show_inv_MP_OS-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526523404,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_marketplace_OS"
+    }
+  ]
+}

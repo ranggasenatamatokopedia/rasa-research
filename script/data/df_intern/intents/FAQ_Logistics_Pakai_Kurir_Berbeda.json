@@ -1,0 +1,31 @@
+{
+  "id": "64522226-31e6-4795-9916-3a86ca59de72",
+  "name": "FAQ_Logistics_Pakai_Kurir_Berbeda",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Selisih biaya pengiriman akan dikembalikan ke OVO Cash/OVO Points/Limit Kartu Kredit/Limit Kredivo, bergantung pada metode pembayaran yang kamu gunakan. Selain itu, maka akan dikembalikan ke Saldo Tokopedia. Tak perlu khawatir, ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_logistics_pakai_kurir_berbeda"
+    }
+  ]
+}

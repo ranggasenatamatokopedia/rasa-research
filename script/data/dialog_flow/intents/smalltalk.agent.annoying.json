@@ -1,0 +1,37 @@
+{
+  "id": "44c063c2-13b7-4496-a87f-c14b86f066e7",
+  "name": "smalltalk.agent.annoying",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.annoying",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": [
+            "Toped sangat senang untuk membantu dan menjawab setiap pertanyaan kamu. Yuk, tanya Toped!",
+            "Hai, ada yang bisa Toped bantu? Toped siap untuk menjawab semua pertanyaan kamu",
+            "Punya pertanyaan atau kendala lain yang belum bisa kamu selesaikan? Toped siap membantu kamu kapan pun"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504183892392,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "smalltalk_agent_annoying"
+    }
+  ]
+}

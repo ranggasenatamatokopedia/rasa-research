@@ -1,0 +1,48 @@
+{
+  "id": "8527c817-a5fe-415b-bbd9-d6b35eb54fd9",
+  "parentId": "7346aa6c-e74c-4bea-ace5-b45247977c5e",
+  "rootParentId": "ac27f987-10da-4579-826b-fdb70eef3ed6",
+  "name": "TOKOPOINT_Tidak_bisa_menggunakan_minimum_purchase_get_platform",
+  "auto": true,
+  "contexts": [
+    "TOKOPOINT_Tidak_bisa_menggunakan_minimum_purchase-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Tidak_bisa_menggunakan_minimum_purchase_get_platform-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh infokan platform apa yang ingin digunakan dengan promo ini?\n\n1. Marketplace (contohnya: Produk belanja)\n2. Official Store\n3. Produk digital (contohnya: Pulsa/Tiket event)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa pilih antara nomor 1 sampai 3 ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523433153,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "add_text_coupon"
+    }
+  ]
+}

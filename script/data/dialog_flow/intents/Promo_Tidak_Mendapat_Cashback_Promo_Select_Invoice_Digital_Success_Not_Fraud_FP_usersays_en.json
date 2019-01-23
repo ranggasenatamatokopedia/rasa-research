@@ -1,0 +1,24 @@
+[
+  {
+    "id": "eb4510dc-b71f-480d-8ac1-7e06c92d9f61",
+    "data": [
+      {
+        "text": "case_status_false_positive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7471a9bd-4dd0-4bb9-9bc3-e32daf9f935b",
+    "data": [
+      {
+        "text": "false positif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

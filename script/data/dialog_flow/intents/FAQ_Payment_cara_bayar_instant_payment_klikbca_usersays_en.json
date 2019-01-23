@@ -1,0 +1,29 @@
+[
+  {
+    "id": "b3846d8c-5c67-4db7-9fbf-cec4c48deda3",
+    "data": [
+      {
+        "text": "klikbca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cfc31f4f-a004-45c8-941d-35addecc3890",
+    "data": [
+      {
+        "text": "klik ",
+        "userDefined": false
+      },
+      {
+        "text": "bca",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

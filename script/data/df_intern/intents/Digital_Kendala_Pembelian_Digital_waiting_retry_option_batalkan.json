@@ -1,0 +1,39 @@
+{
+  "id": "3886ce5a-500f-4198-958b-467434d06883",
+  "parentId": "31af0d68-6bcd-447e-bddf-cc3ce1b0a39b",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_waiting_retry_option_batalkan",
+  "auto": true,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_select_invoice_waiting_retry_option-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DoRequestRefundDigital",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_waiting_retry_option_batalkan-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau begitu, Toped akan coba bantu proses pembatalan pesanan kamu. Boleh tunggu sebentar :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533012974,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "8e190e3d-2059-4a45-9a76-cffc79e6e6b2",
+    "data": [
+      {
+        "text": "invoice_reject",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a0819ea3-f665-4b63-adfd-b81a0c23b22a",
+    "data": [
+      {
+        "text": "invoice_cancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

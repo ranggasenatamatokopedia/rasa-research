@@ -1,0 +1,541 @@
+[
+  {
+    "id": "6e0b7ad9-f346-45d2-a276-ec2490f918ea",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya gak bisa milih kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "Grab",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di toko itu, padahal dia aktifin ",
+        "userDefined": false
+      },
+      {
+        "text": "Grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", jaraknya kejauhan kali ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "58f10d0a-4374-4a0f-9ed3-613cf500cf7e",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kalo jarak tempuh ",
+        "userDefined": false
+      },
+      {
+        "text": "Gojek",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "instan",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan ",
+        "userDefined": false
+      },
+      {
+        "text": "sameday",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sama gak ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "00e3f422-35b2-47c4-9783-19c1aab7d516",
+    "data": [
+      {
+        "text": "kalo jarak maksimal pake ",
+        "userDefined": false
+      },
+      {
+        "text": "Grab",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sameday",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan ",
+        "userDefined": false
+      },
+      {
+        "text": "instan",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " berapa ",
+        "userDefined": false
+      },
+      {
+        "text": "KM",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "20e78178-f05e-4ec4-a1b3-240f87a1d76b",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kalo jarak tempuh ",
+        "userDefined": false
+      },
+      {
+        "text": "Grab",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "instan",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan ",
+        "userDefined": false
+      },
+      {
+        "text": "sameday",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sama gak ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c53b6761-8e92-429f-8ead-48941b5fe9f7",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", lokasi saya di tangeran tp ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nya di bogor, ",
+        "userDefined": false
+      },
+      {
+        "text": "kira2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bisa gak ya pake ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " kalo jaraknya jauh begitu? emang jarak maksimal nya berapa sih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pake ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "29cd80b6-4142-48ea-8bac-ae4efa6fcf87",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya gak bisa milih kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "Gojek",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": true
+      },
+      {
+        "text": "  min di toko itu, jaraknya kejauhan kali ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e37081e1-09eb-4485-9de1-559e5516ac33",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", lokasi saya di jakarta tp ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nya di bogor, ",
+        "userDefined": false
+      },
+      {
+        "text": "kira2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bisa gak ya pake ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " kalo jaraknya jauh begitu? emang jarak maksimal nya berapa sih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pake ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7ca1db38-09db-4c7b-8feb-43e261929f84",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", ini ada calon ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " yg mau beli di toko saya tapi gak bisa pake ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": ", kenapa ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? emang jarak maksimal pake ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " itu berapa ",
+        "userDefined": false
+      },
+      {
+        "text": "kilo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dcd0cc27-9676-445a-a597-f20ab1111dab",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", jarak maksimal pengiriman ",
+        "userDefined": false
+      },
+      {
+        "text": "Gojek",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sameday",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan ",
+        "userDefined": false
+      },
+      {
+        "text": "instan",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " berapa ",
+        "userDefined": false
+      },
+      {
+        "text": "km",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ebf38a14-1749-4213-a0ac-e1932e9e5e62",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", ini ada calon ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " yg mau beli di toko saya tapi gak bisa pake ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " padahal mau cepet sampe, kenapa ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? emang jarak maksimal pake ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " itu ",
+        "userDefined": false
+      },
+      {
+        "text": "berapa kilo min?",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

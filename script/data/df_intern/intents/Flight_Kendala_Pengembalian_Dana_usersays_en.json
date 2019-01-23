@@ -1,0 +1,1686 @@
+[
+  {
+    "id": "6292bf70-80cd-4052-ba83-d26592d378be",
+    "data": [
+      {
+        "text": "Refund untuk pembatalan tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3e4875a1-5ee0-4e26-a57e-acafcb77b83e",
+    "data": [
+      {
+        "text": "Progress refund tiket pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e1dbcba9-7250-44ca-bee5-3f2302f4d7b9",
+    "data": [
+      {
+        "text": "Sy sdh refund ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tiket tp blm ada konfirmasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "391dc3c2-d537-49b6-a15c-58922583f34b",
+    "data": [
+      {
+        "text": "Mau menanyakan progres refund tiket, telah kami batalkan pada tanggal ",
+        "userDefined": false
+      },
+      {
+        "text": "05 Nov 2018",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Kapan saya bisa menerima pembayarab dana refund? Trima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0cbfa2a5-af0a-4849-93f6-2d1a1885f166",
+    "data": [
+      {
+        "text": "Ass.. met ",
+        "userDefined": false
+      },
+      {
+        "text": "siang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sy beli tiket pesawat melalui toped ",
+        "userDefined": false
+      },
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi pesawat expresnya ga jadi berangkat. Bgmn ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5e90f46d-68eb-45cf-9602-1eb3f9352a67",
+    "data": [
+      {
+        "text": "Bagaimana update proses refund tiket pesawat saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8e75e18e-747a-4480-92b9-4f1181da589c",
+    "data": [
+      {
+        "text": "bagaiman dengan status refund tiket pesawat lion air saya ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "68bdff24-ebf9-4b95-abaa-454f1e579442",
+    "data": [
+      {
+        "text": "saya refund tiket pesawat lion air dari surabaya ke jakarta untuk ",
+        "userDefined": false
+      },
+      {
+        "text": "hari Selasa 06 November 2018",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tp blm ada jawaban dr tokopedia untuk pengembalian dananya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "243df5f7-81e7-49f8-baa6-ced53b68a9cc",
+    "data": [
+      {
+        "text": "Berapa lama menunggu pembatalan tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "58c04220-8f59-4620-8bc2-7e8b970c8fdc",
+    "data": [
+      {
+        "text": "Selamat ",
+        "userDefined": false
+      },
+      {
+        "text": "malam",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dana pembelian tiket pesawat bandung - balikpapan yg tidak berhasil blm kembali ketoko cash saya ditokopedia, mhn informasinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "13afcb5f-ed7c-460e-9c0a-0d224de512e9",
+    "data": [
+      {
+        "text": "Bagaimana status refjnd tiket saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8562cac7-2b9c-49d0-9b24-cb841adc804b",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tolong cek pembatalan tiket penerbangan saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6e603ba9-f33d-43f6-a0e1-d8d7ff699bd2",
+    "data": [
+      {
+        "text": "saya sudah mengajukan pembatalan tiket penerbangan cuma dananya sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8b1660af-7d89-40fc-9a26-9d1d296b2afa",
+    "data": [
+      {
+        "text": "saaya ingin menanyakan bagaimana status pengembalian dana tiket pesawat saya? dana belum saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1c700cd4-30f4-4829-bee5-1557cad0fc13",
+    "data": [
+      {
+        "text": "saya sudah batalkan tiket pesawat, ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya tidak tahu perkembangan status pengembalian dana saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2f4e7248-5f1e-430f-9231-0c00dd7cca2f",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya mau minta perkembangan informasi utk status refund dana utk pembatalan tiket penerbangan saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cad191ff-6017-4d0c-a2c8-202dd3774899",
+    "data": [
+      {
+        "text": "saya sudah mengajukan pembatalan tiket pesawat ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4bd0f8f9-5db1-41e5-9706-456fc5dde7c6",
+    "data": [
+      {
+        "text": "saya sudah ajukan pembatalan tiket penerbangan ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3c1645dc-233e-4614-818a-28a9dbf33c73",
+    "data": [
+      {
+        "text": "saya sudah mengajukan pembatalan tiket penerbangan namun dana saya belum diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8a12eb60-2fe8-46ea-826f-c881f29b69d6",
+    "data": [
+      {
+        "text": "proses pengembalian dana saya bagaimana ya utk pembatalan tiket pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "31ccfadc-6422-437f-bb06-2895657cbf4a",
+    "data": [
+      {
+        "text": "Mohon sekiranya bantu pengecekan terkait pengembalian dana pemesana tiket pesawat yang saya batalkan dengan nomor invoice : ",
+        "userDefined": false
+      },
+      {
+        "text": "ID",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "PDM-2BEA1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "-F8QD",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "26365ac9-5ff6-4055-bf63-c2a18957da57",
+    "data": [
+      {
+        "text": "min mohon dibantu proses pembatalan tiket pesawat no invoice :\n PD8-T0O9F-HX9P",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4cf8f473-3288-441e-ad9c-12e1b1f6e895",
+    "data": [
+      {
+        "text": "minta tolong cek ",
+        "userDefined": false
+      },
+      {
+        "text": "dong",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pembatalan tiket penerbangan saya sudah sampai mana ya perkembangannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "86d5fe68-66d8-4855-9852-f5b07d4ea177",
+    "data": [
+      {
+        "text": "proses pengembalian dana saya bagaimana ya utk pembatalan tiket penerbangan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "24f0b91d-d3c2-4499-8447-79f7f54ed236",
+    "data": [
+      {
+        "text": "dana pengembalian saya belum diterima setelah mengajukan pembatalan tiket penerbangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3ac084d7-0600-4f37-9a75-b68162b017f9",
+    "data": [
+      {
+        "text": "Bagaimana caranya jika saya hendak mengetahui progress pengembalian dana dari pembatalan tiket yang saya ajukan. \n Pesawat air asia tujuan Yogya tgl 12 sep 2018",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d80323ee-0ba8-4aa1-83e2-2438d8a011fc",
+    "data": [
+      {
+        "text": "saya sudah mengajukan pembatalan tiket pesawat, mau tnya bagaimana perkembangan refund saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a7b47ede-e2a6-4540-ab54-9d1ad4a243a6",
+    "data": [
+      {
+        "text": "Mohon pengembalian dana secepatnya, karna saya sudah mengajukan pembatalan tiket pesawat dr ",
+        "userDefined": false
+      },
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "04acbfdf-a212-471f-903f-07add815f2dd",
+    "data": [
+      {
+        "text": "saya mengajukan pembatalan tiket pesawat dan dana refund belum saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fe65a9e9-794f-4aec-b868-65757f168122",
+    "data": [
+      {
+        "text": "saya sdh melakukan pembatalan tiket penerbangan namun dana pengembalian belum diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a5d0eeca-7afc-4c85-a2f0-0d817f963743",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya mau minta perkembangan informasi utk status refund dana utk pembatalan tiket pesawat saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9e52de90-9870-461b-a800-aa6dc8f70989",
+    "data": [
+      {
+        "text": "gimana caranya saya mau mengetahui informasi perkembangan pengembalian dana pembatalan tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "511d0cdc-cc81-47e2-a78d-142f61dae7bb",
+    "data": [
+      {
+        "text": "sya sudah batalkan transaksi penerbangana ",
+        "userDefined": false
+      },
+      {
+        "text": "ini min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " soalnya saya mau ganti pesawat saja makasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5aae31b8-744e-4770-a81e-068e0d83f03f",
+    "data": [
+      {
+        "text": "saya sudah ajukan refund tiket pesawat, ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bagaimana perkembangannya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d176e55f-2a97-4aa5-bf61-48a965383877",
+    "data": [
+      {
+        "text": "saya telah mengajukan pembatalan tiket pesawat namun ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " proses pembatalan sudah melebihi estimasi pengembalian dana saya. mohon segera dicek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ccc86f67-5a8c-4d4d-83a7-13f4698b07e7",
+    "data": [
+      {
+        "text": "mohon konfirmasi pembatalan tiket penerbangan saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fed1d607-4023-48c2-89d5-68cab2d65d24",
+    "data": [
+      {
+        "text": "saya sudah melakukan pembatalan tiket penerbangan, ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " perkembangannya sampai mana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c63f6a20-61a5-4a0b-87ec-d8c1d0c167c6",
+    "data": [
+      {
+        "text": "dana saya belum kembali setelah mengajukan tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1b226804-808d-4b57-8de5-bd782f13c6ad",
+    "data": [
+      {
+        "text": "Dana saya kenapa belum kembali ya setelah mengajukan pembatalan tiket pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9b9c71b8-b600-4cd4-a5df-18d15adfe47e",
+    "data": [
+      {
+        "text": "Tiket pesawat Batik Air dengan kode booking ZRQQKI sudah saya batalkan melalui maskapai Batik dan Tiket sudah dicancel oleh pihak maskapai. Tetapi terkait pengembalian dana, saya harus menghubungi tokopedia.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d91d88be-c849-4cbe-88d6-591ef6d3ea36",
+    "data": [
+      {
+        "text": "gimana caranya saya mau mengetahui informasi perkembangan pengembalian dana pembatalan tiket penerbangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "60fa77e7-3755-4eff-9803-e356d4be3a04",
+    "data": [
+      {
+        "text": "saya sudah ajukan pembatalan tiket pesawat dan dana refund belum kunjung tiba",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "49dcd20d-9716-454b-b127-9114c20cf61e",
+    "data": [
+      {
+        "text": "perkembangan refund tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c8ac6d2e-b813-4990-a155-a0cc7272c51e",
+    "data": [
+      {
+        "text": "Saya  sudah membatalkan pesawat dari pekanbaru ke padang tgl ",
+        "userDefined": false
+      },
+      {
+        "text": "02",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "september 2018",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7e03c9e8-6171-4074-baf1-7d774e8813a3",
+    "data": [
+      {
+        "text": "mohon bantu pengecekan utk pengembalian dana saya atas tiket penerbangan yg saya batalkan, terimakasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c58c89c5-1db5-4cd9-b94f-86dc915033de",
+    "data": [
+      {
+        "text": "saya sudah batalkan tiket penerbangan, namun saya tidak tahu perkembangan status pengembalian dana saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7bc56468-c490-40c2-ad6e-fa70d1f46060",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", minta status perkembangan pembatalan tiket pesawat saya ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4ee84bbf-ecbe-4a89-b28d-33a2ec0a456b",
+    "data": [
+      {
+        "text": "kenapa dana pembatalan tiket pesawat belum saya terima ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d33ac4a9-3c59-4297-adb9-3b5d2b87c400",
+    "data": [
+      {
+        "text": "mohon konfirmasi pembatalan tiket pesawat saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "48fb62ec-074d-45fb-9f78-457706c4d839",
+    "data": [
+      {
+        "text": "minta tolong cek status pembatalan tiket penerbangan saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "04c640c2-58a7-46f1-bfb3-59038aa2dfb5",
+    "data": [
+      {
+        "text": "dana saya belum kembali setelah mengajukan tiket penerbangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5054e460-103a-45b1-916c-f2efb3b386c8",
+    "data": [
+      {
+        "text": "mohon bantu pengecekan utk pengembalian dana saya atas tiket pesawat yg saya batalkan, terimakasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eec622be-51fd-4dde-a6af-30c3616b1759",
+    "data": [
+      {
+        "text": "terkait dengan pembatalan tiket pesawat lion air pada hari jumat 31/08/2018 an. endra andie aryanto via tokopedia.\n bagaimana tindak lanjutnya?\n saya belum terima dananya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e4136792-b8d8-4c9e-957e-144886c27ffb",
+    "data": [
+      {
+        "text": "kenapa dana belum saya terima ya? padahal saya sudah mengajukan pembatalan tiket penerbangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9f5ce076-4c57-4e37-9eb0-8de29c194a54",
+    "data": [
+      {
+        "text": "Saya sudah membatalkan tiket pesawat ini karna double issued tiket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "37904734-3565-4a15-a18e-a208e280189c",
+    "data": [
+      {
+        "text": "kenapa dana saya belum kembali? saya sudah ajukan pembatalan tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cf061ce6-3300-4df2-90b7-fbd1c8f0db4d",
+    "data": [
+      {
+        "text": "saya sudah mengajukan pembatalan tiket penerbangan cuma dananya sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2a71f073-d373-4de2-ab49-0471c186804e",
+    "data": [
+      {
+        "text": "pembatalan tiket pesawat sdh saya ajukan, mohon dapat dicek lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d99bac95-c799-43a9-8ad5-40adc2e33ac9",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", dana saya kenapa belum kembali? saya sudah melakukan pengajuan pembatalan tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7c244000-5200-4bb3-8a90-07560454f9bc",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tolong cek proses pengajuan refund tiket pesawat saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d3c20b5a-5b29-4ea5-bac7-596ae91806ee",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya belum terima dana pengembalian dr pengajuan pembatalan refund tiket penerbangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "45884ed3-06dc-4179-87dc-478c8681c50b",
+    "data": [
+      {
+        "text": "tolong segera proses pengembalian dana utk pembatalan tiket pesawat saya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c3021fc8-a5c1-4a46-9767-f653a86af0da",
+    "data": [
+      {
+        "text": "salah schedule penerbangan , sdh saya lakukan pembatalan di app tokopedia , ststus pembaralan eror, mhn dibantu prmbatalan tiket tersebut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f26b9402-74ee-49a7-b84a-0a0a0fba2456",
+    "data": [
+      {
+        "text": "saya ajukan pengembalian dana tiket pesawat karna saya tidak jadi melakukan perjalanan, mohon konfirmasinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e9d278d5-dee2-44fb-8e7d-3409a92d993e",
+    "data": [
+      {
+        "text": "mohon konfirmasi kapan dana kembali, saya sudah mengajukan pembatalan tiket penerbangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "453211cb-d404-4ade-b77c-4d1798453509",
+    "data": [
+      {
+        "text": "pesanan tiket penerbangan saya sudah batal, saya sudah ajukan pembatalan, mohon konfirmasinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "17e113c6-4af5-456a-8f93-0bb5f33e3ef8",
+    "data": [
+      {
+        "text": "Mohon pengembalian dana secepatnya, karna saya sudah mengajukan pembatalan tiket penerbangan dr ",
+        "userDefined": false
+      },
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c94da263-8be0-47f9-8904-cc9ce7d62c3d",
+    "data": [
+      {
+        "text": "status perkembangan refund tiket penerbangan saya gimana ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5f2a3c6f-59e4-4ed0-99f6-8c836908fe2a",
+    "data": [
+      {
+        "text": "tolong segera proses pembatalan tiket penerbangan saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "488e4945-68fa-4711-858d-59c349b0af44",
+    "data": [
+      {
+        "text": "Saya sudah membatalkan tiket penerbangan ini karna double issued tiket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "23f137f5-dd5d-4890-bda7-708a0f48e5db",
+    "data": [
+      {
+        "text": "dana pengembalian saya belum diterima setelah mengajukan pembatalan tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "02e76d7a-30f4-48ef-9478-0eba1bea1dc0",
+    "data": [
+      {
+        "text": "dana saya belum kembali setelah mengajukan pembatalan tiket penerbangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "70ad5153-2e92-4fc1-abd6-cca32aee4110",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tolong cek proses pengajuan refund tiket penerbangan saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b4ac9518-19d0-48c6-a88f-adb910ff7f06",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya belum terima dana pengembalian dr pengajuan pembatalan refund tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6300ae93-bb01-4924-884a-64118bd96bd6",
+    "data": [
+      {
+        "text": "cek pembatalan tiket penerbangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bbad1254-d85e-4064-8454-e6a39bb64046",
+    "data": [
+      {
+        "text": "dana saya kapan dikembalikan setelah melakukan pengajuan pembatalan tiket pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ffa72d2e-e5aa-4174-85ca-9aaf2a7be820",
+    "data": [
+      {
+        "text": "dana  pengembalian dari tiket pesawt saya kenapa belum kembali ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5c74843f-5ecf-40f6-b065-299f749f8579",
+    "data": [
+      {
+        "text": "tiket pesawat saya sudah diajukan pembatalan namun dana belum saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "af5e845e-be42-417d-8fec-405535ab94a8",
+    "data": [
+      {
+        "text": "saya sudah mengajukan pengembalian dana karna saya membatalkan penerbangan saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5196fe62-978c-4d4f-8154-ea205a0313a2",
+    "data": [
+      {
+        "text": "saya sudah membatalkan tiket pesawat. tapi sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum ada informasi perkembangan dana pengembalian saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d19a9da7-fe93-4bb7-96a2-1e8d44b64e12",
+    "data": [
+      {
+        "text": "dana saya belum kembali setelah mengajukan pembatalan tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "896989af-2a31-4c63-8a4d-44a1f33e426e",
+    "data": [
+      {
+        "text": "dana pengembalian tiket pesawat saya belum diterima, saya sudah mengajukan pengembalian dana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2da312b9-5208-40f9-a949-204fc405a21a",
+    "data": [
+      {
+        "text": "dana pengembalian utk tiket pesawat belum ada informasi perkembangannya, padahal saya sudah mengajukan pembatalan tiket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "25886901-dac0-4983-881e-8198216bdce1",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tolong infokan sampai mana perkembangan informasi data pengembalian saya, saya sudah mengajukan pembatalan utk tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7245ef2a-c01d-45b3-97be-7af4089f329d",
+    "data": [
+      {
+        "text": "customer tokopedia bgmn dengan pembayaran tiket pesawatku ampana-palu saya sdh bayar tapi sampI skrng saya belum dapat tiketx, tadi saya booking ulang atas nama yang sama bisa di keluarkan tiket saya soalx dana saya sdh terpotong dibank mandiri saya mau ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1d3f4d18-83ad-48cc-91cb-535bfa09ae1c",
+    "data": [
+      {
+        "text": "Selamat malam, sampai saat ini dana pembelian tiket pesawat bandung - balikpapan yg tidak berhasil blm kembali ketoko cash saya ditokopedia, mhn informasinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "005bccc4-42cb-41b1-9c67-0ff60ff0686b",
+    "data": [
+      {
+        "text": "saya refund tiket pesawat lion air dari surabaya ke jakarta untuk hari Selasa 06 November 2018, tp blm ada jawaban dr tokopedia untuk pengembalian dananya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "089792c2-f962-4edd-a589-ef278200ac24",
+    "data": [
+      {
+        "text": "saya beli tiket pesawat di tokopedia, dan sudah bayar juga, tapi setelah lebih dari 10 menit, transaksi gagal... dan dana sebesar belum kembali ke saldo tokopedia.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e0c2d9c8-2080-40f5-8b77-d9080a3f3a53",
+    "data": [
+      {
+        "text": "refund ticket pesawat belum diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "495f75db-0d0c-45db-aaf1-44e05ff2021f",
+    "data": [
+      {
+        "text": "pengembalian dana belom di kembalikan dengan saat ini .. saya sudah menunggu tapi belom juga di kembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b61e7b68-f072-46b0-9685-309319185f05",
+    "data": [
+      {
+        "text": "Refund tiket saya sudah 7x24 jam belum juga cair",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2fedcedb-4626-4215-a26a-f5cb62b8bebe",
+    "data": [
+      {
+        "text": "saya sudah telpon maskapai untuk refund tiket dan diinformasikan bahwa tiket sudah direfund. Tapi pengembalian lewat Tokopedia, tolong uangnya dikembalikan ke saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d93a08cb-b864-420d-afc7-241727b9359d",
+    "data": [
+      {
+        "text": "saya melakukan pembatalan penerbangan, udah konfirmasi ke maskapai, apa saya harus konfirmasi juga ke tokopedia? terus uang saya gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c4d5d2da-94ea-4103-81ea-31864a6287a7",
+    "data": [
+      {
+        "text": "mohon izin bertanya terkait pembatalan tiket pesawat, uang belum saya terima tp komplain di tutup, mohon bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5c925829-ebd6-44dd-b271-d2829d91af43",
+    "data": [
+      {
+        "text": "brsan saya dapat tlp dr no tlp tokopedia mengenai pembatalan tiket pesawat daya...apakah sdah clear min? soalnya barusan ada tlp dari tokopedia saya angkat gak da suara",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3bb35118-fe97-4f84-b9b9-e8c36db8c497",
+    "data": [
+      {
+        "text": "saya sudah menerima konfirmasi dr toped perihal pengembalian dana tiket pesawat sy telah dilkukan.. tapi belum ada dana yang masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "aaf94d1c-e9fa-42d4-bc58-feb6f7f8438f",
+    "data": [
+      {
+        "text": "dana refund tiket pesawat belum masuk setelah 7 hari kerja.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "96ffc0e0-850e-45ab-b851-a6bdae5cd538",
+    "data": [
+      {
+        "text": "sata ingin menanyakan status refund tiket pesawat saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6c055c4c-0c53-40c0-8f93-61fd227bc6c3",
+    "data": [
+      {
+        "text": "Mohon bantuannya FLI1084740900, FLI1084835099, FLI1084845631 belum ada laporan pengembalian dana diterima. Sudah sampai mana prosesnya? menurut klaim tokopedia maksimal proses 11 hari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bf34496c-bf35-4c3e-bb99-fa2af68bf31b",
+    "data": [
+      {
+        "text": "Saya mau menanyakan bagaimana kabar nya untuk pengembalian dana tiket pesawat saya kapan akan di terima?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "158bcdaf-88ef-4110-bd64-192cd2e9b6cc",
+    "data": [
+      {
+        "text": "Masalah pengembalian dana karna pembatalan tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6c93c062-a202-49b3-a1e9-f33b28e40209",
+    "data": [
+      {
+        "text": "Permintaan refund tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "331c488c-146b-46be-8033-0fadb730eea9",
+    "data": [
+      {
+        "text": "minggu sore saya sudah melakukan pembatalan tiket, lalu sampai kapan proses dan tindak lanjut nya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d369a46a-149c-4eb7-929e-b2339081650f",
+    "data": [
+      {
+        "text": "saya mau batal pesanan tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8955a484-a088-43cf-babd-aaa77222830a",
+    "data": [
+      {
+        "text": "beberapa hari yg lalu saya mengajukan pembatalan tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b62b6ed0-4356-4b25-a886-28616ba2139e",
+    "data": [
+      {
+        "text": "saya belum menerima dana refund tiket dan saya lihat statusnya masih dalam proses pencairan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8ab9b2da-daa0-42eb-b267-5fdfe1583975",
+    "data": [
+      {
+        "text": "saya mau refund tiket pesawat, sudah menghubungi maskapai dan sudah di proses, untuk pengembalian dananya lewat tokopedia katanya, terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0ea1b5d0-d295-4582-8047-2c55737c8c5b",
+    "data": [
+      {
+        "text": "sudah saya lakukan pembatalan via toped untuk tiket balik. tp sampai skrg statusnya masih dalam proses pembatalan, lama bgt,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3945e0f6-ec93-4e29-8430-0d788a411ea5",
+    "data": [
+      {
+        "text": "refund tiket pesawat belum diproses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "40da9251-496c-44ab-9168-9645f83cdeca",
+    "data": [
+      {
+        "text": "kemarin ada chat dr toped bhw dana pembatalan tiket pesawat sdh dikembalikan. tapi saya cek belum ada, masuk kemana ya dana tersebut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b31f507d-3e35-4abd-9862-7ca356421fb8",
+    "data": [
+      {
+        "text": "ini bagaimana ya proses pengembalian dana pembatalan tiket saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "389ba0d8-251f-4e65-bc50-af96865e9b3a",
+    "data": [
+      {
+        "text": "pengembalian dana pembatalan tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7786d8ec-c799-4845-b74e-5c233f8909c9",
+    "data": [
+      {
+        "text": "saya memastikan kendala pembatalan tiket pesawat saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dbb85390-406a-49c4-921e-61a17dae0455",
+    "data": [
+      {
+        "text": "saya mau cancel tiket penerbangan saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6f71922b-24dd-4432-9acc-051ed28fa26f",
+    "data": [
+      {
+        "text": "saya ingin refund tiket pesawat keberangkatan saja, kepulangan tidak ingin saya refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e2d410af-ffec-4dd8-ae1c-6c60e7b8d653",
+    "data": [
+      {
+        "text": "saya hanya ingin memastikan untuk inv pembelian tiket PHP-TZEJ5-3U7X yang di ajukan pembatalan adalah rute PLM -CGK (18 feb) benarkan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ece09865-ddb6-4b2a-8e9c-c987898ad421",
+    "data": [
+      {
+        "text": "saya sudah lakukan pembatalan tiket tapi dana nya blum masuk ke saldo sayasaya sudah ke kantor lion air",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b57da918-27db-40d3-abc9-9eac03281d9e",
+    "data": [
+      {
+        "text": "saya pesan tiket pesawat melalui tokopedia tp saya mau cancel, sy udah hub pihak maskapai, selanjutnya gimana ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "27ebf69a-0a37-4e50-b627-868bcf567972",
+    "data": [
+      {
+        "text": "saya ingin refund tiket pesawat lion air yg sudah saya beli. sebelumnya saya ingin tau apa syarat dan ketentuannya dan bagaimana metodenya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5eee728b-e63b-4d2b-8942-68c60ea2a5b5",
+    "data": [
+      {
+        "text": "Saya sudah mengajukan permohonan refund tiket pesawat untuk invoice PH3-RQEHP-2TDY pada tanggal 30 Oktober 2018. Sampai sekarang statusnya masih menunggu persetujuan pembatalan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d4a65882-2c37-41a5-9fa5-fd1ac09c1772",
+    "data": [
+      {
+        "text": "sudah satu bulan lebih refund pembelian tiket pesawat masih belum diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3f45ef5d-2696-4bed-b302-2c5770c8ef11",
+    "data": [
+      {
+        "text": "saya kemarin minta refund pesawat sampai 7 hari belum masuk pengembalian dananya? ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6e598e78-ab31-4beb-8c83-4d888f593548",
+    "data": [
+      {
+        "text": "dana saya belum di kembalikan , saya cxl tiket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1735e37a-ce4c-4e5b-9b89-5969ef7a753f",
+    "data": [
+      {
+        "text": "Saya membatalkan penerbangan tgl 4 nov 18 dg maskapai lionair, dikarenakan orangtua saya takut diakibatkan kecelakaan pesawat baru ini, telah 2hk blm ada respon,mohon kejelasannya mengingat pada saat pemesanan refunable",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ff65a2af-811d-4343-b0f1-5b7b90b3a112",
+    "data": [
+      {
+        "text": "saya pesan tiket pesawat kode booking NHSODGBanyuwangi - Jakarta tgl 26 Nov 2018saya ingin refund tiket karena direschedule oleh maskapai dari sore ke pagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "acfb5a40-6e5a-48d6-aa84-93be73061ad2",
+    "data": [
+      {
+        "text": "kenapa pembatalan pesawat saya tidak di proses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "19b4c000-2c45-4808-9eb4-1aab5c3f2ab3",
+    "data": [
+      {
+        "text": "mengenai pembatalan tiket pesawat saya apakah sudah clear?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "28402ffa-2f4f-4e60-9a17-d8d5bcb84bff",
+    "data": [
+      {
+        "text": "saya kan mengajukan cancel tiket pesawat di toped, terus apa yg harus saya lakukan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

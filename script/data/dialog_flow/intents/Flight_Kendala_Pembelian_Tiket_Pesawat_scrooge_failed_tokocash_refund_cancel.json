@@ -1,0 +1,57 @@
+{
+  "id": "b1866fd1-85a8-4497-84cb-6ab489a6752e",
+  "parentId": "c065d7ef-661d-48e8-92a0-0182c0a9ff53",
+  "rootParentId": "7f7a8cb1-cbe8-48a9-9930-7686b772cf99",
+  "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_scrooge_failed_tokocash_refund_cancel",
+  "auto": true,
+  "contexts": [
+    "Flight_Kendala_Pembelian_Tiket_Pesawat_scrooge_failed_tokocash_refund_exist-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "431d81b2-c66f-4803-b856-fb9370aeda40",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1439"
+        },
+        {
+          "id": "b77a281d-f0b3-457f-9865-d3a51dad6d99",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Flight_Kendala_Pembelian_Tiket_Pesawat"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu sebentar ya, Toped akan bantu buatkan tiket kendala untuk dicek lebih lanjut dan informasi selanjutnya akan dikirim lewat layanan pengguna."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Senang bisa membantu kamu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539171957,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "refund_status_failed"
+    }
+  ]
+}

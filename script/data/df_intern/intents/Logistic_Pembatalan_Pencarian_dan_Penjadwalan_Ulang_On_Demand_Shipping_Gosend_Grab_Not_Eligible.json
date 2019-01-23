@@ -1,0 +1,58 @@
+{
+  "id": "c76bad3d-4672-4b8d-aafb-6a415ac3a26b",
+  "parentId": "ef98bf42-fe7e-4352-ba9c-3653b2c4aef2",
+  "rootParentId": "25f8caf5-22b1-4b7d-8704-24a6da37b244",
+  "name": "Logistic_Pembatalan_Pencarian_dan_Penjadwalan_Ulang_On_Demand_Shipping_Gosend_Grab_Not_Eligible",
+  "auto": true,
+  "contexts": [
+    "Logistic_Pembatalan_Pencarian_dan_Penjadwalan_Ulang_On_Demand_Shipping_Gosend_Grab-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Pembatalan_Pencarian_dan_Penjadwalan_Ulang_On_Demand_Shipping_Gosend_Grab_Not_Eligible-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d316946b-9354-45a0-9c43-ad3775d2bda7",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1533"
+        },
+        {
+          "id": "735d5790-343a-4d3d-83f5-b89aa52dea13",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Logistic_Pembatalan_Pencarian_Driver_dan_Penjadwalan_Ulang_Pick_Up"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk kendala ini Toped bantu buatkan tiketnya. Boleh ditunggu, ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535530973,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "not_eligible_to_cancel_retry"
+    }
+  ]
+}

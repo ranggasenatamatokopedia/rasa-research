@@ -1,0 +1,51 @@
+{
+  "id": "07a16d41-9c2b-4ba1-b499-d8bd046c0408",
+  "name": "FAQ_TokoPoints_Kapan_Membership_Saya_Turun",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_TokoPoints_Kapan_Membership_Saya_Turun-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "226277f8-4347-4bb0-864c-c111eb6ede9c",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Status Membership kamu akan turun kalau jumlah Loyalty yang terkumpul pada tahun sebelumnya kurang dari minimal Loyalty Status Membership saat ini."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped kasih tahu contohnya ya, kalau di tahun 2018 Status Membership kamu Gold (dengan minimal Loyalty 500) dan selama tahun 2018 kamu hanya kumpulkan 100 Loyalty, maka pada tanggal 1 Januari 2019 status Membership kamu turun menjadi Silver."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_tokopoints_kapan_membership_saya_turun"
+    }
+  ]
+}

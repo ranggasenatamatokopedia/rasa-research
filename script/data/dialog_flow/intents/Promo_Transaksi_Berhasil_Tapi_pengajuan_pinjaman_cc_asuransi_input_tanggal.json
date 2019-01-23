@@ -1,0 +1,48 @@
+{
+  "id": "a299ae39-898f-4fe2-a197-55af7e4e25da",
+  "parentId": "e442040c-78d5-414a-9ee7-c8716a88db7b",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Transaksi_Berhasil_Tapi_pengajuan_pinjaman_cc_asuransi_input_tanggal",
+  "auto": false,
+  "contexts": [
+    "Promo_Transaksi_Berhasil_Tapi_pengajuan_pinjaman_cc_asuransi-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "InsertDate",
+      "affectedContexts": [
+        {
+          "name": "Promo_Transaksi_Berhasil_Tapi_pengajuan_pinjaman_cc_asuransi_input_tanggal-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon menunggu sebentar ya, Kak :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Infokan juga tanggal pengajuannya ya, Kak. (Contoh: 12 Januari 2018)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523015770,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "input_email_address"
+    }
+  ]
+}

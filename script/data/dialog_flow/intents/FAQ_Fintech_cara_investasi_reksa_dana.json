@@ -1,0 +1,38 @@
+{
+  "id": "542bedc8-4702-489c-8517-e8dfd1ceca7a",
+  "name": "FAQ_Fintech_cara_investasi_reksa_dana",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Fintech_cara_investasi_reksa_dana-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut langkah untuk memulai investasi Reksa Dana, ya:"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "1. Buka https://www.tokopedia.com/reksa-dana/\n2. Input nominal yang ingin kamu beli, nominal beli nya kelipatan Rp10.000, ya.\n3. Setelah itu, klik Beli Reksa Dana dan pilih metode pembayaran kamu.\n4. Selesaikan pembayaran kamu, dan Reksa Dana akan langsung diproses maksimal 2x24 jam kerja."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "8dfccdaa-a1c1-452d-b8ea-1e8fcef80dbf",
+  "name": "FAQ_Order_Penjual_Request_Ubah_Resi_Saat_Status_Delivered",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "77afd3c9-9322-440b-b637-04513909c33e",
+          "required": false,
+          "dataType": "@kurir_reguler",
+          "name": "kurir_reguler",
+          "value": "$kurir_reguler",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa hubungi \u003ca href\u003d’tkp.me/contact-us’\u003eCustomer Care\u003c/a\u003e Tokopedia ya. Jangan lupa lampirkan foto resi pengiriman sebagai bukti valid."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_order_penjual_request_ubah_resi_saat_status_delivered"
+    }
+  ]
+}

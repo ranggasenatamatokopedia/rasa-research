@@ -1,0 +1,37 @@
+{
+  "id": "fb91594b-0d50-4ddd-8a21-59f5f77e2d26",
+  "name": "Fraud_saldo_atau_tokocash_tokopedia_direview_atau_tidak_bisa_digunakan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Fraud_saldo_atau_tokocash_tokopedia_direview_atau_tidak_bisa_digunakan-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Apa kakak tahu dana dari invoice mana yang direview ?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "fraud_saldo_atau_tokocash_tokopedia_direview_atau_tidak_bisa_digunakan"
+    }
+  ]
+}

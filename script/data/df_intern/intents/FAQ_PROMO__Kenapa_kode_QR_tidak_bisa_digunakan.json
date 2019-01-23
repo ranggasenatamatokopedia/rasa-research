@@ -1,0 +1,32 @@
+{
+  "id": "adb2bfa1-44f8-4d4d-9902-6da7050e189d",
+  "parentId": "1bd055e0-788f-4f99-916c-d25c4717567d",
+  "rootParentId": "1bd055e0-788f-4f99-916c-d25c4717567d",
+  "name": "FAQ_PROMO__Kenapa_kode_QR_tidak_bisa_digunakan",
+  "auto": true,
+  "contexts": [
+    "FAQ_PROMO_Apa_itu_Kode_QR-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FAQ_PROMO_Apa_itu_Kode_QR.FAQ_PROMO_Apa_itu_Kode_QR-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mungkin kamu melakukan scan pada kode QR yang bukan program promosi Tokopedia. Pastikan lagi ya kalau kode QR yang kamu scan berasal dari iklan yang menyertakan nama Tokopedia."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

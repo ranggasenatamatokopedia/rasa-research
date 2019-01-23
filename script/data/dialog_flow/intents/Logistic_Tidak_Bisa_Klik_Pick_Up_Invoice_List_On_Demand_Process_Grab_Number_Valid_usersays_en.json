@@ -1,0 +1,18 @@
+[
+  {
+    "id": "144ca4ac-2d72-4730-b898-9e581f8703bf",
+    "data": [
+      {
+        "text": "buyer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_number_is_valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

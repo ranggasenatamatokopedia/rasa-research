@@ -1,0 +1,46 @@
+[
+  {
+    "id": "bf158356-0513-4a81-b06d-7ac5c22d60c3",
+    "data": [
+      {
+        "text": "grab",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4c60609d-e3dc-41f3-8a79-3d58ef2c3b8a",
+    "data": [
+      {
+        "text": "courier_grab",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4e8ca90a-9af6-446e-a7d7-69bf3537fc12",
+    "data": [
+      {
+        "text": "gojek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "962d404a-8888-4acf-b324-bd61994ae419",
+    "data": [
+      {
+        "text": "courier_gojek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

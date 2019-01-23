@@ -1,0 +1,43 @@
+{
+  "id": "72db122d-9df9-4428-8eaf-ee474830735e",
+  "parentId": "e540ae13-6993-4973-bead-401b5c3abcf5",
+  "rootParentId": "52ec60f4-3e96-4394-855f-4b7f7c4c5110",
+  "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_metode_pembayaran_tdk_muncul",
+  "auto": true,
+  "contexts": [
+    "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_metode_pembayaran_tdk_muncul-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh kasih tahu Toped metode pembayaran yang mau kamu gunakan? (Contoh: BCA Klikpay/Transfer Bank)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523832969,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "metode_pembayaran_tidak_muncul"
+    }
+  ]
+}

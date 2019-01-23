@@ -1,0 +1,33 @@
+{
+  "id": "47a96013-be98-460f-b2fa-7fac2fe11429",
+  "parentId": "51ae2ddb-3ff5-4008-a1a2-9c07390aacd7",
+  "rootParentId": "dbbb1e17-3271-4c65-b2a2-5cb80603b2a4",
+  "name": "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_game_steam_sudah_bisa",
+  "auto": true,
+  "contexts": [
+    "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_game_steam-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Baik, jika ada kendala lain kamu dapat hubungi Toped kembali ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536393116,
+  "fallbackIntent": false,
+  "events": []
+}

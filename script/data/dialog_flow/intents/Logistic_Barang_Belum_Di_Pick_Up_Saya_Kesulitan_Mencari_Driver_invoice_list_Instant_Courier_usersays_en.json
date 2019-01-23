@@ -1,0 +1,24 @@
+[
+  {
+    "id": "262bd454-77d4-4229-8d97-8cc8dd786b3e",
+    "data": [
+      {
+        "text": "courier_type_is_on_demand",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4fe351e0-8ded-4110-ac78-529c961a8976",
+    "data": [
+      {
+        "text": "on demand",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

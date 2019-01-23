@@ -1,0 +1,36 @@
+{
+  "id": "1c6106d1-e0f8-4e81-a7e6-9617badf5be9",
+  "name": "smalltalk.greetings.assalamualaikum",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": [
+            "Waalaikumsalam :)",
+            "Waalaikumsalam",
+            "Waalaikumsalam Toppers"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "smalltalk_greetings_assalamualaikum"
+    }
+  ]
+}

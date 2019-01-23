@@ -1,0 +1,112 @@
+[
+  {
+    "id": "4c56d381-063c-4f6e-8669-6a18352091e1",
+    "data": [
+      {
+        "text": "notif order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c52ce854-1f57-4221-a1c8-0eb1140331a7",
+    "data": [
+      {
+        "text": "notif pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3ce33644-d8bd-46d7-929a-afa65b9cb5ef",
+    "data": [
+      {
+        "text": "pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4587ddda-d77d-4ca9-b587-4b2f9232b999",
+    "data": [
+      {
+        "text": "order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5ce53a99-1363-4936-b37e-c317a40b9264",
+    "data": [
+      {
+        "text": "notification_order_error",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c08c6a07-2ac4-4d21-b0c2-d39695c120ec",
+    "data": [
+      {
+        "text": "pemesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "23b39d8c-c57e-4c37-ac43-7c42ab47e1b6",
+    "data": [
+      {
+        "text": "notif pesan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "24cc3c57-8976-4029-a2d2-de8fd5dd39ea",
+    "data": [
+      {
+        "text": "notifikasi order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d1914d66-25ab-43a1-b06f-39455003f366",
+    "data": [
+      {
+        "text": "notifikasi pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "110eb6d4-975e-4a75-b278-ddac318986da",
+    "data": [
+      {
+        "text": "di menu pesanan baru kosong... padahal sudah di order oleh pembeli...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

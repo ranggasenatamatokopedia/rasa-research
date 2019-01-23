@@ -1,0 +1,62 @@
+{
+  "id": "fe5e015c-f3b6-4545-85e3-805ae44ce6d9",
+  "parentId": "5b1c5a80-de80-4775-ad81-7e9b1d05a788",
+  "rootParentId": "99a48618-b9ce-4053-a781-474e5404f8ad",
+  "name": "Refund_Penarikan_dana_belum_masuk_else_bank_breach",
+  "auto": false,
+  "contexts": [
+    "Refund_Penarikan_dana_belum_masuk_else_bank-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Refund_Penarikan_dana_belum_masuk_else_bank_breach-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d3a5d328-a6d8-4acc-ad84-c396b0de6df6",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1009",
+          "isList": false
+        },
+        {
+          "id": "56736355-d608-4e0f-9c7a-60ed9fa0df91",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Refund_Penarikan_dana_belum_masuk_rekening"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek dulu ya untuk proses penarikan dananya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513040943,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "more_than_equals_2_days"
+    },
+    {
+      "name": "more_than_equals_3_days"
+    }
+  ]
+}

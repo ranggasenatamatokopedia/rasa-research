@@ -1,0 +1,57 @@
+[
+  {
+    "id": "aaabec81-e9d7-4b2d-b08d-2f2ba5f36ca1",
+    "data": [
+      {
+        "text": "chatnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1e8e7781-9204-42ae-85b7-cbc0a02fd63a",
+    "data": [
+      {
+        "text": "chat nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "42ed83a7-8df9-4650-91c4-ce4a92cfb126",
+    "data": [
+      {
+        "text": "di chat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "391add09-dffe-4719-8f44-9be789d58585",
+    "data": [
+      {
+        "text": "notification_chat_error",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8c611246-6837-4b9b-9f87-36cce0275664",
+    "data": [
+      {
+        "text": "chat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

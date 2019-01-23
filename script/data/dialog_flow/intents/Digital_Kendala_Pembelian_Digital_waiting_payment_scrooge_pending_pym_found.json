@@ -1,0 +1,54 @@
+{
+  "id": "82866ea2-d20c-4e4c-a1cc-45b178b8e5ce",
+  "parentId": "264e2af8-1e80-480c-a0b6-ac073cc3781d",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_waiting_payment_scrooge_pending_pym_found",
+  "auto": false,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_waiting_payment_scrooge_pending-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_waiting_payment_scrooge_pending_pym_found-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Apakah kamu sudah berhasil melakukan pembayaran?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Ya, Sudah",
+              "Belum"
+            ],
+            "type": 1
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533998381,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "payment_method_found"
+    }
+  ]
+}

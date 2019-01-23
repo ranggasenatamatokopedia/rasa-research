@@ -1,0 +1,48 @@
+{
+  "id": "8f07617e-cf0e-491c-a480-c4912a98a2d2",
+  "parentId": "f7f2084a-8a6d-4d1d-89fc-a6648ecbb9a0",
+  "rootParentId": "d19f77a0-9fc1-4329-9b8c-1f9cb2ed3084",
+  "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Verified_Seller",
+  "auto": true,
+  "contexts": [
+    "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Verified-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Verified_Seller-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pesanan ini belum kamu respon terima atau tolak. Kamu bisa segera memproses dan mengirim pesanan ke pembeli ya :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Namun jika kamu tidak bisa mengirim pesanan, kamu bisa membatalkan pesanan, agar dana bisa dikembalikan ke pembeli ya. Kamu tidak perlu khawatir, jika pembatalan dilakukan sebelum menerima pesanan maka kamu tidak akan mendapat Penalti Reputasi."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541157915,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "user_is_seller"
+    }
+  ]
+}

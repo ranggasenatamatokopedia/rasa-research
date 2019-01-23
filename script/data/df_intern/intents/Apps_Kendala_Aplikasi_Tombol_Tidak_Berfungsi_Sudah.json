@@ -1,0 +1,55 @@
+{
+  "id": "750193e8-15e7-4ec8-bb99-afccf053cfb2",
+  "parentId": "1b8f09d1-f6fc-4300-8b7f-6cd8bf1eb630",
+  "rootParentId": "3a53428c-92bf-45c6-b647-80dd03d60014",
+  "name": "Apps_Kendala_Aplikasi_Tombol_Tidak_Berfungsi_Sudah",
+  "auto": true,
+  "contexts": [
+    "Apps_Kendala_Aplikasi_Tombol_Tidak_Berfungsi_followup",
+    "Apps_Kendala_Aplikasi_Tombol_Tidak_Berfungsi-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Apps_Kendala_Aplikasi_Tombol_Tidak_Berfungsi_Sudah-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8b41ad57-2d3b-49af-ba27-e036967ad112",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "userprovider",
+          "value": "$userprovider",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Bisa informasikan ke Toped provider apa yang kamu gunakan? (Contoh : Indosat)"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Silahkan lampirkan screenshoot kendala yang kamu alami ya"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545097141,
+  "fallbackIntent": false,
+  "events": []
+}

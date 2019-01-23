@@ -1,0 +1,33 @@
+{
+  "id": "dcb47bf6-c9a2-4d66-91d1-275f183b95e5",
+  "name": "smalltalk.greetings.nice_to_see_you",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.greetings.nice_to_see_you",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped juga senang bisa membantu kamu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1517873952,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "smalltalk_greetings_nice_to_see_you"
+    }
+  ]
+}

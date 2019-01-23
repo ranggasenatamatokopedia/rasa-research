@@ -1,0 +1,43 @@
+{
+  "id": "65737aee-44a3-41da-a83b-de040b23872c",
+  "parentId": "98024cbd-49c5-4be5-a995-e6ee4bff0c3a",
+  "rootParentId": "d19f77a0-9fc1-4329-9b8c-1f9cb2ed3084",
+  "name": "Logistic_Order_Shipping_Buyer_Conventional_In_SLA",
+  "auto": true,
+  "contexts": [
+    "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Shipping_Buyer_Conventional-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetShippingInfoAWBTracking",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Order_Shipping_Buyer_Conventional_In_SLA-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541055574,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "sla_logistics_is_not_over_yet"
+    }
+  ]
+}

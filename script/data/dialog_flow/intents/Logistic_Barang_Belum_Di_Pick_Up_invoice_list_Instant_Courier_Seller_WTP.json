@@ -1,0 +1,64 @@
+{
+  "id": "a3072a92-b82d-44be-83be-8a4bf34bcbde",
+  "parentId": "843b1180-85e0-4ca4-8914-f782413ed44d",
+  "rootParentId": "debdb44e-b23a-4c52-8626-59514944fd55",
+  "name": "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Seller_WTP",
+  "auto": false,
+  "contexts": [
+    "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Seller-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Seller_WTP-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai, pembayaran untuk transaksi ini masih menunggu proses verifikasi. Kalau sudah di verifikasi Toped akan segera teruskan pesanannya ke Tokomu, ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513040943,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_cc_challenge"
+    },
+    {
+      "name": "invoice_payment_confirm"
+    },
+    {
+      "name": "invoice_payment_confirmed_unik"
+    },
+    {
+      "name": "invoice_checkout_state"
+    },
+    {
+      "name": "invoice_pending"
+    },
+    {
+      "name": "invoice_pending_unik"
+    },
+    {
+      "name": "invoice_belum_bayar"
+    },
+    {
+      "name": "invoice_pending_due"
+    }
+  ]
+}

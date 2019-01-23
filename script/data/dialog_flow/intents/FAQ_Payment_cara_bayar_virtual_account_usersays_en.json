@@ -1,0 +1,37 @@
+[
+  {
+    "id": "86e9d958-af78-42f9-9e10-5fe2c22fa544",
+    "data": [
+      {
+        "text": "Virtual account",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "66d9501d-d9c4-4178-a841-e1955e242bb1",
+    "data": [
+      {
+        "text": "VA",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5341cb54-5f5e-4e8a-b875-3c737d45827d",
+    "data": [
+      {
+        "text": "virtual akun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

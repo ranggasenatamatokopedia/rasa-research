@@ -1,0 +1,58 @@
+{
+  "id": "5fed4254-2a4a-4fb2-aef0-68087af92f79",
+  "parentId": "f8255b6c-7549-4e73-8447-f0243a5cfc18",
+  "rootParentId": "d9d2ac31-d864-4f6e-836c-94fff4d54ef6",
+  "name": "Logistic_Status_Pengiriman_Tidak_Sesuai_Invoice_List_Seller_Shipping_Conventional_Tracker_Invalid",
+  "auto": true,
+  "contexts": [
+    "Logistic_Status_Pengiriman_Tidak_Sesuai_Invoice_List_Seller_Shipping_Conventional-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Status_Pengiriman_Tidak_Sesuai_Invoice_List_Seller_Shipping_Conventional_Tracker_Invalid-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5dfa6f97-1be6-4f46-86b1-93b5e4de96a7",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1374"
+        },
+        {
+          "id": "b1a5471b-8668-4dc4-b6b4-c7d833d89f05",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Logistic_Status_Pengiriman_Tidak_Sesuai"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk kendala ini Toped bantu buatkan tiketnya. Boleh ditunggu, ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532402718,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "Track_Invalid"
+    }
+  ]
+}

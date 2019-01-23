@@ -1,0 +1,39 @@
+{
+  "id": "b67c0b12-98fb-4263-b01a-28cc629d1942",
+  "parentId": "531bada3-61be-44f9-9ccf-a308436b6e0f",
+  "rootParentId": "531bada3-61be-44f9-9ccf-a308436b6e0f",
+  "name": "Flash_Sale_Harga_Dibeli_Berbeda_Dengan_Harga_Coret_Belum_Checkout",
+  "auto": true,
+  "contexts": [
+    "Flash_Sale_Harga_Dibeli_Berbeda_Dengan_Harga_Coret-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Flash_Sale_Harga_Dibeli_Berbeda_Dengan_Harga_Coret_Belum_Checkout-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh lampirkan screenshot harga produk yang kamu buka di Halaman Flash Sale ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535692575,
+  "fallbackIntent": false,
+  "events": []
+}

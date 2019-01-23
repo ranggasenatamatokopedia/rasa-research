@@ -1,0 +1,54 @@
+{
+  "id": "210862f8-e9da-4ff1-8be6-8b3182517ed7",
+  "parentId": "1cc6a382-c412-4eb0-9639-7c81801f1f29",
+  "rootParentId": "7f7a8cb1-cbe8-48a9-9930-7686b772cf99",
+  "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_waiting_payment_scrooge_pending_payment_found",
+  "auto": false,
+  "contexts": [
+    "Flight_Kendala_Pembelian_Tiket_Pesawat_get_invoice_waiting_payment_scrooge_pending-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_waiting_payment_scrooge_pending_payment_found-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Apakah kamu sudah berhasil melakukan pembayaran?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Ya, Sudah",
+              "Belum"
+            ],
+            "type": 1
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538104993,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "payment_method_found"
+    }
+  ]
+}

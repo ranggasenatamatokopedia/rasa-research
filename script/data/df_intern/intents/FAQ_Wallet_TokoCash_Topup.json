@@ -1,0 +1,33 @@
+{
+  "id": "983ce0b3-0efc-4e77-b19c-98f757321611",
+  "name": "FAQ_Wallet_TokoCash_Topup",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sekarang TokoCash sudah beralih ke OVO, loh. Yuk mulai aktivasi OVO kamu dan mulai berbelanja menggunakan OVO!"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_wallet_tokocash_topup"
+    }
+  ]
+}

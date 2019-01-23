@@ -1,0 +1,33 @@
+{
+  "id": "5ef3e8ab-6241-4ee3-8a78-27eec06ea98c",
+  "parentId": "61dbc702-54e6-480d-950f-cde6c51a34bc",
+  "rootParentId": "61dbc702-54e6-480d-950f-cde6c51a34bc",
+  "name": "FAQ_Refund_Kapan_Dana_Saya_Dikembalikan",
+  "auto": true,
+  "contexts": [
+    "FAQ_Refund_Mengapa_Pesanan_Batal_Padahal_Sudah_Membayar-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FAQ_Refund_Mengapa_Pesanan_Batal_Padahal_Sudah_Membayar.FAQ_Refund_Mengapa_Pesanan_Batal_Padahal_Sudah_Membayar-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jangan khawatir. Proses pengembalian dana bisa memakan waktu hingga 2x24 jam di hari kerja dan ditujukan ke Saldo Tokopedia milikmu.\n\nTapi ada peraturan yang berbeda jika kamu melakukan transaksi dengan kartu kredit. Sesuai dengan kebijakan bank penerbit kartu kredit, pengembalian dana ke limit bisa diproses hingga 14 hari kerja.\n\nUntuk lebih jelasnya, silakan hubungi tim \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://tkp.me/contact-us\"\u003eCustomer Care\u003c/a\u003e Tokopedia"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 0,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520238536,
+  "fallbackIntent": false,
+  "events": []
+}

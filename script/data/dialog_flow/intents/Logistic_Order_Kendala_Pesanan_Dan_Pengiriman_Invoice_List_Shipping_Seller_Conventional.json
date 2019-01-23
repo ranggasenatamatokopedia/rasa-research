@@ -1,0 +1,43 @@
+{
+  "id": "db74b47c-64ab-43de-9e78-c62d91825e9a",
+  "parentId": "c1ad9d94-21d7-4e46-a6d3-11395bb48e82",
+  "rootParentId": "d19f77a0-9fc1-4329-9b8c-1f9cb2ed3084",
+  "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Shipping_Seller_Conventional",
+  "auto": true,
+  "contexts": [
+    "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Shipping_Seller-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckLogisticsSLAExpirationStatus",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Shipping_Seller_Conventional-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541070958,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "courier_type_is_conventional"
+    }
+  ]
+}

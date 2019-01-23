@@ -1,0 +1,37 @@
+{
+  "id": "1e168cdd-a65b-47bc-8c3b-d1b3f71e9402",
+  "parentId": "5e652467-1f9f-4b2b-a3db-89af64cabeef",
+  "rootParentId": "5e652467-1f9f-4b2b-a3db-89af64cabeef",
+  "name": "FAQ_Logistic_Berapa_Lama_Waktu_Pengantaran_Kurir_Pickup_Rex",
+  "auto": false,
+  "contexts": [
+    "FAQ_Logistic_Berapa_Lama_Waktu_Pengantaran_Kurir_Pickup-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon maaf, ya. Estimasi waktu paket diterima tidak dapat ditentukan karena bergantung dengan jarak lokasi alamat Penjual dan Pembeli."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528697968,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "rex"
+    }
+  ]
+}

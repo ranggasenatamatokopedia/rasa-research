@@ -1,0 +1,46 @@
+{
+  "id": "0af4b640-aae0-4f7f-b657-7b76bbaa8c6b",
+  "parentId": "fcddc333-39be-444a-baf1-ca59893f06d8",
+  "rootParentId": "35e16175-3fd0-4749-bf64-4e1b94b883f1",
+  "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Seller_Process",
+  "auto": true,
+  "contexts": [
+    "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Seller-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Seller_Process-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek kamu sedang memproses pesanan. Jika pesanan sudah siap dikirim, silakan kamu lakukan konfirmasi pengiriman :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546417698,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_sedang_diproses_penjual"
+    },
+    {
+      "name": "invoice_barang_diganti"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "e8aa2a9a-6a32-48be-80e6-38587f45dcb7",
+  "name": "FAQ_OVO_berapa_lama_waktu_validitas_OVO_points",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Masa berlaku OVO Points adalah 12 bulan dari diterbitkan."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_ovo_berapa_lama_waktu_validitas_ovo_points"
+    }
+  ]
+}

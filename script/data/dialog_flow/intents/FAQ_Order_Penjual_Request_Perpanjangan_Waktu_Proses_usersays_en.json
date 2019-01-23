@@ -1,0 +1,496 @@
+[
+  {
+    "id": "b997c195-7835-43b9-84a1-3420d8fd5324",
+    "data": [
+      {
+        "text": "Permohonan penambahan waktu kirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6e011d8f-8a36-4cf7-a28f-9283cd9227b5",
+    "data": [
+      {
+        "text": "penambahan waktu buat input resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "335db31a-0f3c-4f2e-90cb-96655108e3b0",
+    "data": [
+      {
+        "text": "hai kk,kami sebagai ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ingin minta perpanjangan masa kirim barang karena pesanan belum sampai dari pusat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b28d288b-89f5-409d-bab0-fd3e38741a66",
+    "data": [
+      {
+        "text": "Saya sudah sepakat sama ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " untuk kirim pesanan ",
+        "userDefined": false
+      },
+      {
+        "text": "hari senin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", apakah bisa dibantu perpanjang agar tidak batal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d217debd-7e83-4812-938b-937151dab136",
+    "data": [
+      {
+        "text": "tolong perpanjang order ini, karena barang masih di supplier. ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sudah setuju",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c833e3cc-8ab0-44df-8c5f-27d6ffb082a4",
+    "data": [
+      {
+        "text": "kalau ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sudah setuju, apakah pesanan bisa diperpanjang waktunya ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "974f149d-f15f-4e67-8d90-26e9620327ba",
+    "data": [
+      {
+        "text": "toped, tolong bantu perpanjang pesanan ini ya. barangnya sedang dalam persiapan, ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " setuju dikirim ",
+        "userDefined": false
+      },
+      {
+        "text": "senin depan",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8ff68360-2e75-4a39-aaae-36e4c8af2608",
+    "data": [
+      {
+        "text": "saya sudah hubungi ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " untuk minta ijin perpanjang order dan ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " setuju. mohon bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3a594124-0e1d-4030-8204-f673aa172fe3",
+    "data": [
+      {
+        "text": "pesanan belum siap dikirim,saya sudah minta persetujuan ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan sepakat dikirim ",
+        "userDefined": false
+      },
+      {
+        "text": "kamis",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". tolong jangan dibatalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dbd6500e-11de-43ed-aae7-1cc3ae2ddab9",
+    "data": [
+      {
+        "text": "tolong pesanan diperpanjang prosesnya sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "minggu depan",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ya, ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sudah setuju",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7a4559c9-9462-4664-adf1-84b8d5d0e54b",
+    "data": [
+      {
+        "text": "mau minta bantuan pesanan jangan dibatalkan, mohon perpanjang sesuai kesepakatan ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e47ae6e4-fc5b-465c-89dc-f3c6c0af22ea",
+    "data": [
+      {
+        "text": "mohon perpanjang waktu proses pesanan, sudah sepakat dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a018988b-a1d0-4146-8f35-2320cd75f9c3",
+    "data": [
+      {
+        "text": "saya ingin perpanjangan proses pesanan, sudah sepakat dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a471f236-9279-4cc0-8bac-71d0b431ca02",
+    "data": [
+      {
+        "text": "tolong pesanan ini jangan dibatalkan dulu, saya sudah hubungi ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " setuju untuk perpanjang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0603cc8d-8270-48b8-b1fe-4ce6d867b983",
+    "data": [
+      {
+        "text": "request perpanjang pesanan, sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "selasa depan",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c84d99b2-1555-4719-b8a9-a960746222ea",
+    "data": [
+      {
+        "text": "sy abg penjualnya, mau minta bantuan utk perpanjangan waktu input resi. kondisinya, pihak supplier pusat saya sudah mengirimkan pesanan. tp utk update resi itu H+1. tp kantor tutup utk sabtu minggu. kemungkinan resi keluar senin malam atau selasa pagi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3edd545e-ce8c-4f66-8ee4-c380d4bfc808",
+    "data": [
+      {
+        "text": "hai kk,kami sebagai penjual ingin minta perpanjangan masa kirim barang karena pesanan belum sampai dari pusat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "12f63178-23e2-4165-8ef4-d408a02e68c7",
+    "data": [
+      {
+        "text": "saya meminta perpanjangan waktu satu hari untuk pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9d06d8b0-994c-4965-8a57-07e454b9dde7",
+    "data": [
+      {
+        "text": "invoice ini tolong dibantu untuk memperpanjang batas waktu pengiriman hingga besok hari rabu. karena permintaan dari buyer.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c4902fb6-024c-4391-9c88-b1c7ccab9a9b",
+    "data": [
+      {
+        "text": "Bisakah saya memperpanjang batas pengiriman barang saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "02e536e3-7958-447e-a59f-9314ccff39d9",
+    "data": [
+      {
+        "text": "apakah bisa prrpanjang waktu untuk pengemasan barang?  karna ada keterlambatan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5c963127-4372-42bd-abf7-f35e3ea49779",
+    "data": [
+      {
+        "text": "bisakah batas waktu pengiriman di undur?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4864b4a4-0a4f-4ce1-b372-db12e4d70d28",
+    "data": [
+      {
+        "text": "Saya ada terima pesanan. Bisa ga waktu respondnya diperpanjang.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "18995e87-e029-42ad-80a6-c7a411ba91d8",
+    "data": [
+      {
+        "text": "k pesenan saya belum dibantu requeat juga sih ini cust nya udah nungguin dari tadi lama bgt sih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2d1fcfda-d48d-45e8-ad1b-9e1d5a62764f",
+    "data": [
+      {
+        "text": "saya mau perpanjang waktu penerimaan pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "235dbadf-699d-41bf-8399-9be6f0821ca1",
+    "data": [
+      {
+        "text": "mohon d bantu INV/20181026/XVIII/X/222596587 agar d hold semntara..karna waktu sisa kurang dr 1 jam..barang baru bisa req pick up jam 3",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "61892f99-20c2-478a-a77d-2d72289b1613",
+    "data": [
+      {
+        "text": "karna tak tanya sblom psan.tolong panjangkan proses hari sampai 15 NOV untuk kirim paling lambat 14 nov.trimslampiran perstujuan pembeli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e6bed920-cef9-46e6-8485-b69565c4f9e7",
+    "data": [
+      {
+        "text": "tolong panjangkan proses hari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c3d937a5-bd82-4b7a-b339-e64c8d796cfb",
+    "data": [
+      {
+        "text": "berkaitan dgn aturan baru ttg batas akhir pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "11bfaba2-5333-45c6-82e5-3bcc5697559b",
+    "data": [
+      {
+        "text": "ingin menambah waktu untuk pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "47e153c7-1826-487c-8b33-f8b560dbea58",
+    "data": [
+      {
+        "text": "invoice ini mohon dimundurkan batas input resi menjadi tanggal 15 Nov 2018. terlampir konfirmasi pembeliterima kasih bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7e014c81-5ed8-4e38-bdbd-11f6430f0b73",
+    "data": [
+      {
+        "text": "sy mohon untuk pesanan diperpanjang untuk tenggat waktunya.barang sudah saya kirim namun sy blm bs memasukkan no resi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

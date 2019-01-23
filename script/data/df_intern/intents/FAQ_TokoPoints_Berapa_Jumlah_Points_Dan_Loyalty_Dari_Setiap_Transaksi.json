@@ -1,0 +1,43 @@
+{
+  "id": "20b00c97-c58e-4330-a949-abb5fd43eaa2",
+  "name": "FAQ_TokoPoints_Berapa_Jumlah_Points_Dan_Loyalty_Dari_Setiap_Transaksi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_TokoPoints_Berapa_Jumlah_Points_Dan_Loyalty_Dari_Setiap_Transaksi-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Points dan loyalty yang kamu dapatkan dari tiap transaksi berbeda ya, jumlahnya akan ditentukan oleh Tokopedia."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Yuk, tingkatkan terus transaksi kamu untuk dapatkan Points dan Loyalty lagi!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_tokopoints_berapa_jumlah_points_dan_loyalty_dari_setiap_transaksi"
+    }
+  ]
+}

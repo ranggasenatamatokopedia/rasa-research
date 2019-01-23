@@ -1,0 +1,42 @@
+{
+  "id": "15780c67-ad9a-4802-8308-17dceb1fd3da",
+  "parentId": "4fbcdb8b-36c8-44e3-9fde-9e6887728b7a",
+  "rootParentId": "5e652467-1f9f-4b2b-a3db-89af64cabeef",
+  "name": "FAQ_Logistic_Berapa_Lama_Waktu_Pengantaran_Kurir_Pickup_Gojek_Instant",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Berapa_Lama_Waktu_Pengantaran_Kurir_Pickup_Gojek-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "12b4bbc4-3b75-4bca-9b27-eb422513efeb",
+          "required": false,
+          "dataType": "@layanan_kurir_pick_up",
+          "name": "layanan_kurir_pick_up",
+          "value": "$layanan_kurir_pick_up",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk Instant, estimasi waktu pengantaran oleh kurir adalah 3 jam setelah penjual  melakukan permintaan pick-up."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528336128,
+  "fallbackIntent": false,
+  "events": []
+}

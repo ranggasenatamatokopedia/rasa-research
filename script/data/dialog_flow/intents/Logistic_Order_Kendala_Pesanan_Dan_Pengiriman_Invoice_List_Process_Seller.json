@@ -1,0 +1,48 @@
+{
+  "id": "d4e6a6aa-b6e2-480c-b3b4-4bc7990007de",
+  "parentId": "7fc58ab9-ddd7-4c4d-9904-39885e31d560",
+  "rootParentId": "d19f77a0-9fc1-4329-9b8c-1f9cb2ed3084",
+  "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Process_Seller",
+  "auto": true,
+  "contexts": [
+    "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Process-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Process_Seller-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Status pesanan ini masih dalam proses, belum kamu kirim ke pembeli ya. Kamu bisa mengirimkan pesanan dalam waktu maksimal 2x24 jam di hari kerja sejak pesanan ini diteruskan ke akun kamu. Kecuali untuk pesanan dengan kurir instan yang diteruskan lebih dari pukul 15.00 maka kamu bisa memproses H+2 dari pukul 16.00 di hari kerja."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika ternyata kamu tidak bisa mengirimkan pesanan, tolong infokan ke Toped alasan pembatalannya ya. Tuliskan secara lengkap disini."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541161188,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "user_is_seller"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1466868f-ba7a-4da9-bd40-44a2bba3baf2",
+    "data": [
+      {
+        "text": " invoice_payment_confirm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9dca655d-e3c4-4dbe-9671-e61685a7bc7c",
+    "data": [
+      {
+        "text": " invoice_belum_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "01c702b9-d8c3-41a4-bdd4-1c3c7a5e19f1",
+    "data": [
+      {
+        "text": " invoice_cc_challenge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9b83663b-dba6-4e70-b994-0eb36fe890ab",
+    "data": [
+      {
+        "text": " invoice_pending",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

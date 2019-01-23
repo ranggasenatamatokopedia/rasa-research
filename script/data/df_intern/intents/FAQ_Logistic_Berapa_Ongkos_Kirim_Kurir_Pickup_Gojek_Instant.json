@@ -1,0 +1,42 @@
+{
+  "id": "dc76bfb1-7782-4d6b-85a9-2e7ec8ff6922",
+  "parentId": "c614b8d5-cdc0-4011-bd43-77929cab828b",
+  "rootParentId": "73840e93-ca95-444a-a2dd-d1deaab1d5eb",
+  "name": "FAQ_Logistic_Berapa_Ongkos_Kirim_Kurir_Pickup_Gojek_Instant",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Berapa_Ongkos_Kirim_Kurir_Pickup_Gojek-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FAQ_Logistic_Berapa_Ongkos_Kirim_Kurir_Pickup_Gojek.FAQ_Logistic_Berapa_Ongkos_Kirim_Kurir_Pickup_Gojek-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "30d27370-7e06-4719-a4af-281eb0cd112e",
+          "required": false,
+          "dataType": "@layanan_kurir_pick_up",
+          "name": "layanan_kurir_pick_up",
+          "value": "$layanan_kurir_pick_up",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Khusus wilayah Jabodetabek untuk 8 km pertama tarifnya Rp 20.000 dan biaya tambahan per km selanjutnya Rp 2.500. Sementara ongkos kirim untuk wilayah lain, tarif yang dikenakan flat Rp 15.000."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528787538,
+  "fallbackIntent": false,
+  "events": []
+}

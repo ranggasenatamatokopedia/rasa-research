@@ -1,0 +1,33 @@
+[
+  {
+    "id": "281385b2-5515-44a1-919f-f97b50626a00",
+    "data": [
+      {
+        "text": "less_than_",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_hours",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6998a8cb-c966-4ac7-9b53-8f9e79aa3678",
+    "data": [
+      {
+        "text": " less_than_6hr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

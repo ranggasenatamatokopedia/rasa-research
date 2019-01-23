@@ -1,0 +1,43 @@
+{
+  "id": "e1808076-7687-4df7-b7e5-d44bfd9b280d",
+  "parentId": "662d622d-696f-4ee6-b5dd-ef21b9bcb80a",
+  "rootParentId": "aff6fa6f-2bad-4320-bb2d-dc7125c355a5",
+  "name": "Merchant_Gold_Badge_Tidak_Muncul_GM_More_Equal_75_More_1_Hour_Success",
+  "auto": true,
+  "contexts": [
+    "Merchant_Gold_Badge_Tidak_Muncul_GM_More_Equal_75_More_1_Hour-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Gold_Badge_Tidak_Muncul_GM_More_Equal_75_More_1_Hour_Success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped sudah bantu untuk melakukan penyesuaian Power Badge di Toko kamu. Mohon menunggu maksimal 1 jam kedepan, ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536555855,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "clear_cache_success"
+    }
+  ]
+}

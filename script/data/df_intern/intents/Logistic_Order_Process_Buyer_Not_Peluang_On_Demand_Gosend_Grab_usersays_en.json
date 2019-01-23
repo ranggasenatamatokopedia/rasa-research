@@ -1,0 +1,82 @@
+[
+  {
+    "id": "bd8d410c-d10b-41af-b8f0-c8aea8c04084",
+    "data": [
+      {
+        "text": "courier_",
+        "userDefined": false
+      },
+      {
+        "text": "go-jek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ce8f391f-e0c3-456d-8181-c522f57057b3",
+    "data": [
+      {
+        "text": "courier_",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "07f4d0d6-a520-439c-9dbe-7607da9a1f59",
+    "data": [
+      {
+        "text": "courier_",
+        "userDefined": false
+      },
+      {
+        "text": "go-send",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5e1c0495-32f7-4149-8f8f-6cc99aa6130c",
+    "data": [
+      {
+        "text": "courier_",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f1e0b06b-f9fe-424c-be15-7e854cd69b99",
+    "data": [
+      {
+        "text": "courier_",
+        "userDefined": false
+      },
+      {
+        "text": "gosend",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

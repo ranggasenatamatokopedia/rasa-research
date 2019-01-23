@@ -1,0 +1,36 @@
+[
+  {
+    "id": "634527e8-a1b7-4748-9466-918a04c5f980",
+    "data": [
+      {
+        "text": "BCA Virtual Account",
+        "alias": "jenis_virtual_account",
+        "meta": "@jenis_virtual_account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8d2ac4ae-4c0d-4bb5-9f2b-f8668d686712",
+    "data": [
+      {
+        "text": "BCA",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "VA",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

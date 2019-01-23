@@ -1,0 +1,54 @@
+{
+  "id": "610c1ee6-e447-49a7-a281-b03ce5497c99",
+  "parentId": "912968a4-cdf7-4bac-9252-7ec604d6d510",
+  "rootParentId": "79399d3d-1735-4a38-83f0-804a798b2f2c",
+  "name": "Merchant_Produk_Dalam_Pengawasan_Input_Link_Under_Supervision_Tetap_Di_Toko",
+  "auto": true,
+  "contexts": [
+    "Merchant_Produk_Dalam_Pengawasan_Input_Link_Under_Supervision-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Produk_Dalam_Pengawasan_Input_Link_Under_Supervision_Tetap_Di_Toko-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a8327b6a-a477-40ef-9bf8-d6203ad7808e",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1038"
+        },
+        {
+          "id": "ca7d440d-8365-45ac-8209-6f282a6c4358",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Merchant_Produk_Dalam_Pengawasan"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau kamu ingin produk tetap di toko, Toped harus pastikan terlebih dahulu bahwa produk kamu tidak melanggar S\u0026K yang berlaku. Toped bantu buatkan tiket bantuan ya. Mohon tunggu sebentar."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539166888,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "880e0ae6-b5b6-4ede-8858-b395dd70c3ef",
+    "data": [
+      {
+        "text": "tidak tambah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d1cbb38c-3eee-4747-b65d-424886ca9791",
+    "data": [
+      {
+        "text": "gak nambah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5fa4f1e4-eefe-4f24-8933-7b160af4de4f",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "01fe8eda-4a55-4012-b9aa-e152c6df4afa",
+    "data": [
+      {
+        "text": "select_number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2f8d5dc5-6f6c-4774-8ab0-ae754e17b699",
+    "data": [
+      {
+        "text": "gak naik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b843cd75-a562-436c-bba5-8e4d5d8c7ccf",
+    "data": [
+      {
+        "text": "tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "41ec5529-efa2-4b3a-b25c-db956c3a9077",
+    "data": [
+      {
+        "text": "Point reputasi tidak bertambah/tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

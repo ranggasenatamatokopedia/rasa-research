@@ -1,0 +1,33 @@
+{
+  "id": "3ab59ff9-8c47-4114-a522-22c5a15e3c67",
+  "name": "smalltalk.agent.residence",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.residence",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Aku tinggal di !TKPD_URL_CONTACTUS_LANDING! dan bisa kamu temui kapanpun!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504183892493,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "smalltalk_agent_residence"
+    }
+  ]
+}

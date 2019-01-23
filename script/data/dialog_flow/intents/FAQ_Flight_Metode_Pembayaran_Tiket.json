@@ -1,0 +1,37 @@
+{
+  "id": "bf5a8406-4dc8-4125-aa27-fa333d41a5c9",
+  "name": "FAQ_Flight_Metode_Pembayaran_Tiket",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flight_Metode_Pembayaran_Tiket-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu dapat melakukan pembayaran Tiket Pesawat dengan metode OVO Cash, Kartu Kredit, Transfer Bank, Virtual Account, Pembayaran Instan, dan Gerai ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_flight_metode_pembayaran_tiket"
+    }
+  ]
+}

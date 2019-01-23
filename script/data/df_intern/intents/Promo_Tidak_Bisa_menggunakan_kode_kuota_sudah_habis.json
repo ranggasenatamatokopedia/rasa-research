@@ -1,0 +1,48 @@
+{
+  "id": "bf93e01a-d0ac-4399-84f4-c9c2c37c7e73",
+  "parentId": "e540ae13-6993-4973-bead-401b5c3abcf5",
+  "rootParentId": "52ec60f4-3e96-4394-855f-4b7f7c4c5110",
+  "name": "Promo_Tidak_Bisa_menggunakan_kode_kuota_sudah_habis",
+  "auto": true,
+  "contexts": [
+    "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Bisa_menggunakan_kode_kuota_sudah_habis-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon maaf ya, kode promo ini memiliki kuota yang terbatas. Jadi ketika kamu gunakan kode promo tersebut dan muncul notifikasi \"Kuota sudah habis\", artinya pengguna lain sudah menggunakannya hingga batas kuota yang disediakan."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kedepannya kamu bisa mencoba kode promo lebih awal ya, agar memenuhi kuota yang disediakan. Selain itu kamu juga bisa mencoba kode promo secara berkala selama periode promo berlangsung :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523607080,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "kuota_kupon_habis"
+    }
+  ]
+}

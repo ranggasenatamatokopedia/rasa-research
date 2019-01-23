@@ -1,0 +1,43 @@
+{
+  "id": "9752f4e8-c220-4f57-887b-ab93551de881",
+  "parentId": "5c390c55-6180-4a44-8387-6ef7eb87494a",
+  "rootParentId": "d19f77a0-9fc1-4329-9b8c-1f9cb2ed3084",
+  "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Delivered_Seller_Conventional",
+  "auto": true,
+  "contexts": [
+    "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Delivered_Seller-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Delivered_Seller_Conventional-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon unggah resi pengiriman kamu secara jelas dan tidak terpotong, ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541143839,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "courier_type_is_conventional"
+    }
+  ]
+}

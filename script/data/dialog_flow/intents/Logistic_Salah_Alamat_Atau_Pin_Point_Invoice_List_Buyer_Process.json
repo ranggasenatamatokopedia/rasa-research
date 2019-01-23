@@ -1,0 +1,46 @@
+{
+  "id": "bcde6b3b-f227-4c7c-8e5c-9c2c64713c31",
+  "parentId": "75ff3ca8-b338-428a-a276-4970c86e879f",
+  "rootParentId": "b5d703e5-b4ee-4716-a78d-6a74da4e1538",
+  "name": "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Buyer_Process",
+  "auto": true,
+  "contexts": [
+    "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Buyer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Buyer_Process-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sayangnya, alamat/pin point tidak dapat diubah ketika invoice telah tercetak. Namun tidak perlu khawatir, kamu dapat berdiskusi dengan pihak Penjual terkait penyelesaiannya melalui fitur \"Tanya Penjual.\" :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535972458,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_barang_diganti"
+    },
+    {
+      "name": "invoice_sedang_diproses_penjual"
+    }
+  ]
+}

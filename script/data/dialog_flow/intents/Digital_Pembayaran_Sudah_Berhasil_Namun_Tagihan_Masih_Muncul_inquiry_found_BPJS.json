@@ -1,0 +1,48 @@
+{
+  "id": "c61b473f-54fa-487b-becf-a23d42aa79ed",
+  "parentId": "f2458716-e998-4d5d-bcf5-275f42e738e5",
+  "rootParentId": "440cef8c-a263-47ad-b658-e035da03a8e0",
+  "name": "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_inquiry_found_BPJS",
+  "auto": false,
+  "contexts": [
+    "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_order_success-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_inquiry_found_BPJS-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Status pembayaran BPJS kamu sudah berhasil dengan nomor  #digital_bpjs.show_voucher_code. Kamu bisa tunggu  BPJS meng-\u003ci\u003eupdate\u003c/i\u003e tagihan pada sistemnya. Toped sarankan untuk simpan bukti resmi pembayarannya ya :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Struk dari Toped bisa jadi bukti resmi pembayaraan ke BPJS ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534218914,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "digital_bpjs"
+    }
+  ]
+}

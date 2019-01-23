@@ -1,0 +1,43 @@
+{
+  "id": "a2b39039-6821-4544-b53a-e0e36615379f",
+  "name": "FAQ_TokoPoints_Apa_Saja_Membership_TokoPoints",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_TokoPoints_Apa_Saja_Membership_TokoPoints-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut Toped kasih tahu urutan Status Membership TokoPoints berdasarkan loyalty dari yang terendah sampai tertinggi ya:\n\n1. Classic\n2. Silver\n3. Gold\n4. Platinum 1\n5. Platinum 2\n6. Platinum 3\n7. Platinum 4"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Ayo, tingkatkan terus Loyalty Membership kamu!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_tokopoints_apa_saja_membership_tokopoints"
+    }
+  ]
+}

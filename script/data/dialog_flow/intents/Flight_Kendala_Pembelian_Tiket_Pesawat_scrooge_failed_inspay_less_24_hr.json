@@ -1,0 +1,43 @@
+{
+  "id": "a7820bff-3bd1-41a4-b763-72c2c51826d6",
+  "parentId": "b2522c7a-41af-4cbb-8d2b-65587b5f5d5a",
+  "rootParentId": "7f7a8cb1-cbe8-48a9-9930-7686b772cf99",
+  "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_scrooge_failed_inspay_less_24_hr",
+  "auto": false,
+  "contexts": [
+    "Flight_Kendala_Pembelian_Tiket_Pesawat_scrooge_failed_inspay-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_scrooge_failed_inspay_less_24_hr-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon tunggu dalam 1x24 jam ya, karena saat ini Toped sedang menunggu mutasi dari pihak Bank."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537958390,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "less_than_24_hour"
+    }
+  ]
+}

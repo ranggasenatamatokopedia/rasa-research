@@ -1,0 +1,48 @@
+{
+  "id": "88563368-a19f-4d7e-9a18-76215fbfed2d",
+  "parentId": "a9296d32-2e05-4bbb-a2f3-cdb62fc028de",
+  "rootParentId": "d9d2ac31-d864-4f6e-836c-94fff4d54ef6",
+  "name": "Logistic_Status_Pengiriman_Tidak_Sesuai_Invoice_List_Buyer_Shipping_Belum_Conventional_Over_SLA",
+  "auto": true,
+  "contexts": [
+    "Logistic_Status_Pengiriman_Tidak_Sesuai_Invoice_List_Buyer_Shipping_Belum_Conventional-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Status_Pengiriman_Tidak_Sesuai_Invoice_List_Buyer_Shipping_Belum_Conventional_Over_SLA-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek pesanan kamu sudah melewati batas waktu pengiriman. Kamu bisa ajukan komplain melalui halaman \"Status Pemesanan\" dan klik tombol \"Komplain\", ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sebagai informasi jika sudah mengajukan komplain, maka dana Kakak aman bersama Toped. Jadi, jangan khawatir ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531125780,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "sla_logistics_is_over"
+    }
+  ]
+}

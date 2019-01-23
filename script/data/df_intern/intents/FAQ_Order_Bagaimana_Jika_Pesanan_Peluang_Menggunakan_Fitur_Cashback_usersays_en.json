@@ -1,0 +1,338 @@
+[
+  {
+    "id": "ffa9eefe-8406-454c-a4ce-751832611501",
+    "data": [
+      {
+        "text": "bagaimana jika order peluang menggunakan fitur cashback",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1edeec4d-b61d-4c71-b0e7-80fd10fcbb16",
+    "data": [
+      {
+        "text": "saya seharusnya dapat cashback toko, tapi pesanannya diganti dari ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " lama ke ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " baru. jadi gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "69398d81-ab06-49de-a822-18c8b7e2a63d",
+    "data": [
+      {
+        "text": "produk yang saya beli ada cashback toko nya, kalo masuk peluang tetep bisa dapet cashback ga ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "16132d89-235e-48d4-b691-8b35522b3bfd",
+    "data": [
+      {
+        "text": "cashback toko hilang ga ya kalau pesanan saya kena peluang dan diambil alih ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " baru?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e9eeaeb1-1923-4ace-9926-e905237f5820",
+    "data": [
+      {
+        "text": "gimana tentang cashback toko dari pesanan peluang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ffe1ed97-c039-4582-8a15-0e94945929e3",
+    "data": [
+      {
+        "text": "bagaimana jika pesanan yang masuk ke peluang ada fitur cashbacknya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "24dbbfb5-74ec-4543-ae58-fb14a935dcb2",
+    "data": [
+      {
+        "text": "cashback toko dari ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sebelumnya, tetap bisa didapat gak ya kalau ordernya masuk peluang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "826f840f-a1d2-41aa-8f86-79534d03aa3d",
+    "data": [
+      {
+        "text": "apakah saya akan tetep dapet cashback toko meskipun pesanan saya dialihkan ke ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " baru?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c4b7ac8a-0f91-412a-a912-8f7ff758c68c",
+    "data": [
+      {
+        "text": "pesenan saya awalnya ada cashback toko, pas masuk peluang nanti tetep dapet cashback ga ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a160b689-8398-4064-bde7-9aaad5e66632",
+    "data": [
+      {
+        "text": "order saya kena peluang, gimana untuk cashback toko nya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3fd90cee-e377-4220-b733-0b49fe5bd9d2",
+    "data": [
+      {
+        "text": "order yang masuk peluang apa masih bisa dapet cashback toko?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "33f20017-72ec-4d5b-9b61-bb0afef67b11",
+    "data": [
+      {
+        "text": "cashback ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dari order peluang gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6d52ba2e-eeee-4587-9278-570abf75d4bd",
+    "data": [
+      {
+        "text": "apakah cashback toko tetap bisa saya dapatkan kalau oder kena peluang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "69468da5-b3d6-4226-a9e2-4b5f98a75f79",
+    "data": [
+      {
+        "text": "cashback toko untuk pesanan peluang akan dipotong dari saldo saya gak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "de272bec-f9c8-4bea-86ec-18aa0c56dc1b",
+    "data": [
+      {
+        "text": "kalo produk yang masuk peluang ada fitur cashback toko, ketika saya ambil apakah saya akan dipotong buat cashback",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "072a67ac-f6bc-4b89-b06e-cdc0ee7e7a8e",
+    "data": [
+      {
+        "text": "bagaimana jika pesanan peluang menggunakan fitur cashback",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ef8b9982-4a3c-49fc-a12e-4a5507862b3f",
+    "data": [
+      {
+        "text": "cashback toko masih dikasih ga sih kalo pesenan masuk peluang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3e40f331-bde7-4498-84c1-8a2f5dfb7185",
+    "data": [
+      {
+        "text": "apakah masih bisa dapet cashback toko kalo pesenan masuk peluang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "81ff1a3c-409a-45d3-b9a4-6f1a6e30ca4e",
+    "data": [
+      {
+        "text": "saya menerima order peluang dan ada cashback toko, apakah nanti dana saya dipotong cashback?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bd0462d3-533d-4b17-8469-32cb881b4996",
+    "data": [
+      {
+        "text": "apakah ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " juga harus memberikan cashback toko dari order peluang yang sebelumnya terdapat cashback toko?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8a85bc45-8da6-4a9c-b826-3fccbc04eb4b",
+    "data": [
+      {
+        "text": "kalo pesenan saya pake cashback, pas masuk peluang akan tetep dapet cashback juga gak ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bbf6a666-fba3-4247-be0f-344e9848fce0",
+    "data": [
+      {
+        "text": "bagaimana jika pesanan peluang terdapat fitur cashback yang diatur oleh ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " awal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4dc8691d-ac28-4303-999c-660b3bc23488",
+    "data": [
+      {
+        "text": "Bagaimana jika pesanan peluang ada fitur cashbacknya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2e151b44-255c-4e9b-a652-512295127000",
+    "data": [
+      {
+        "text": "saya ingin menggunaka tokocas karena ada cashbak dri barang yg saya order, tapi tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

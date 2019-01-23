@@ -1,0 +1,36 @@
+{
+  "id": "57af7716-47de-4fc3-a163-74cf38aa8c3e",
+  "name": "FAQ_Logistic_Kode_Online_Booking",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa cek kode booking pengiriman dengan masuk ke akun Tokopedia di laptop/komputer, kemudian lihat di halaman \"Konfirmasi Pengiriman\" ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Namun, jika kode booking tidak ditemukan atau tidak dapat di scan, kamu dapat melakukan pengiriman secara manual dan input resinya pada halaman \"Konfirmasi Pengiriman.\""
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_logistic_kode_online_booking"
+    }
+  ]
+}

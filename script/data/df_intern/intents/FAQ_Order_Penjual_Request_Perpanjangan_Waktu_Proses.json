@@ -1,0 +1,31 @@
+{
+  "id": "138899e0-3f06-4d6e-b319-5d1f825edd49",
+  "name": "FAQ_Order_Penjual_Request_Perpanjangan_Waktu_Proses",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa hubungi !TKPD_URL_CONTACTUS_SUBMIT! Tokopedia ya. Jangan lupa lampirkan bukti kesepakatan dengan Pembeli, misalnya screenshot percakapan terkait kesepakatan tersebut."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_order_penjual_request_perpanjangan_waktu_proses"
+    }
+  ]
+}

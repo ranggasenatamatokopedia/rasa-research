@@ -1,0 +1,24 @@
+[
+  {
+    "id": "a8e97b92-8c50-443f-81fc-aaa405c87891",
+    "data": [
+      {
+        "text": "input_payment_method",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f2750ed2-fd54-4ed1-aeb7-3beca6893678",
+    "data": [
+      {
+        "text": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0
+  }
+]

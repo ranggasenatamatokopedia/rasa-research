@@ -1,0 +1,46 @@
+[
+  {
+    "id": "b57969c0-e4da-442a-9cca-37a8054488c1",
+    "data": [
+      {
+        "text": "unhold take amount",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5587480a-7cbf-490c-9033-1b033c19fa29",
+    "data": [
+      {
+        "text": "case_status_unhold_take_amount",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a08ca1ba-a6e5-456d-98f0-caffe6258661",
+    "data": [
+      {
+        "text": "mark as abuse ongkir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "baf81a3c-2793-436a-b6e9-416a618e2cde",
+    "data": [
+      {
+        "text": "abuse ongkir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

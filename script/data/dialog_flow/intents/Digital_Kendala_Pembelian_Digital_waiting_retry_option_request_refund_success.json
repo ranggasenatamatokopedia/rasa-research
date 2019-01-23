@@ -1,0 +1,43 @@
+{
+  "id": "8d2a6346-7494-4178-ad18-d5b7960daf42",
+  "parentId": "3886ce5a-500f-4198-958b-467434d06883",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_waiting_retry_option_request_refund_success",
+  "auto": false,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_waiting_retry_option_batalkan-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_waiting_retry_option_request_refund_success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sudah Toped bantu batalkan ya. Dana akan dikembalikan ke Saldo Tokopedia/Limit Kartu Kredit kamu. Silakan cek berkala :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535945539,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "status_success"
+    }
+  ]
+}

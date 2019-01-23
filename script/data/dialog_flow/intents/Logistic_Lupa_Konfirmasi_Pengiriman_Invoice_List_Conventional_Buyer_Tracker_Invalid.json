@@ -1,0 +1,54 @@
+{
+  "id": "e885555c-eaba-4fc2-af5a-f3103094a670",
+  "parentId": "f19ef164-6e8f-41f6-9f11-8554bbd35cae",
+  "rootParentId": "35e16175-3fd0-4749-bf64-4e1b94b883f1",
+  "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer_Tracker_Invalid",
+  "auto": true,
+  "contexts": [
+    "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer_Tracker_Invalid-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped mau konfirmasi lagi, apakah pesanan kamu sudah diterima dengan baik?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 1,
+            "quick_replies": [
+              "Sudah",
+              "Belum"
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532433034,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_kode_resi_pengiriman_tidak_valid"
+    }
+  ]
+}

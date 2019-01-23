@@ -1,0 +1,230 @@
+[
+  {
+    "id": "2063296d-42ed-441f-8cfc-f8ba7fe21399",
+    "data": [
+      {
+        "text": "klo saya ",
+        "userDefined": false
+      },
+      {
+        "text": "dropship",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", bisa dapat points ga ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7b1a55f1-990a-4b08-b2d9-95f97b18612e",
+    "data": [
+      {
+        "text": "dropshipper",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " transaksi tokopedia masih dikasih TokoPoints ga ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "df3ccd4a-ef2f-487a-a5dc-4473a996508f",
+    "data": [
+      {
+        "text": "kalo saya kirim barang pake ",
+        "userDefined": false
+      },
+      {
+        "text": "dropship",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", bakal dapet points loyalty ga?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c3666204-7f6f-4ea3-8930-2d9be2f94c9b",
+    "data": [
+      {
+        "text": "kenapa transaksi ",
+        "userDefined": false
+      },
+      {
+        "text": "dropship",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya tidak dapat points dan loyalty ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "958fde68-29c6-4994-8551-aa045c0c49ea",
+    "data": [
+      {
+        "text": "apakah transaksi ",
+        "userDefined": false
+      },
+      {
+        "text": "dropship",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " masih akan dapat points?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3d464719-47ae-407b-a3d3-ddeecff069f1",
+    "data": [
+      {
+        "text": "Kalo transaksi ",
+        "userDefined": false
+      },
+      {
+        "text": "dropship",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tetep dapet points loyalty ga sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a4c4e0f3-6122-4e63-9ecb-e1980d5c0bef",
+    "data": [
+      {
+        "text": "transaksi ",
+        "userDefined": false
+      },
+      {
+        "text": "dropship",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " akan dikasih points loyalty juga ga ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5309758c-501f-49d1-9dac-af094464990f",
+    "data": [
+      {
+        "text": "dropship",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di tokopedia masih dapet points loyalty gak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7f7bf988-6fca-4b3c-a897-4acb3f410e83",
+    "data": [
+      {
+        "text": "kenapa pesanan ",
+        "userDefined": false
+      },
+      {
+        "text": "dropship",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak dapat points ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b1788bba-4a7b-4f78-9938-bff28925a712",
+    "data": [
+      {
+        "text": "saya sebagai ",
+        "userDefined": false
+      },
+      {
+        "text": "dropshipper",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kenapa ga dapet points ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "602e56d0-d5a6-49b5-86b9-bf977bfb1a34",
+    "data": [
+      {
+        "text": "dropshipper",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dikasih points dan loyalty gak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8ba20db0-bec9-4192-849d-154d19f9187c",
+    "data": [
+      {
+        "text": "transaksi ",
+        "userDefined": false
+      },
+      {
+        "text": "dropship",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " apakah masih mendapat points dan loyalty?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

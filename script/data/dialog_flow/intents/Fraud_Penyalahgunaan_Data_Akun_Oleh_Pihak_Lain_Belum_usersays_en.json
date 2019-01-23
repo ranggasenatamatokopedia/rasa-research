@@ -1,0 +1,70 @@
+[
+  {
+    "id": "5adeabcd-d4ae-43b5-a2a0-279612ec82e8",
+    "data": [
+      {
+        "text": "belum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "873ddce2-4e66-4487-80d9-394bd72d75da",
+    "data": [
+      {
+        "text": "no",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7a397356-c42e-4984-ac0a-9063fb56b0a5",
+    "data": [
+      {
+        "text": "tidak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "22d66251-37aa-474b-ae53-106ba1ad7d20",
+    "data": [
+      {
+        "text": "belom",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7934b8e5-788b-4d42-bedc-7d3b482e9006",
+    "data": [
+      {
+        "text": "blm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5b0ba93c-57de-4ade-b312-11a2e359e819",
+    "data": [
+      {
+        "text": "blom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

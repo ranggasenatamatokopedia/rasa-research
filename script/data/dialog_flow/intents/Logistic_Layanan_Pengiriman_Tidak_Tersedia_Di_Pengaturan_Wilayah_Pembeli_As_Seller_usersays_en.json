@@ -1,0 +1,101 @@
+[
+  {
+    "id": "ca196bc7-685a-4204-97f8-605ee6d3f5e0",
+    "data": [
+      {
+        "text": "saya ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "985a1274-c052-42cf-b9bf-23dd0eedc651",
+    "data": [
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "82bb728f-9231-4663-a104-618b232e4ffb",
+    "data": [
+      {
+        "text": "Penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "df5b4e8f-60f6-4afe-b90b-1e287ae83533",
+    "data": [
+      {
+        "text": "saya sebagai ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cb8722a5-339e-445d-860b-1bcc18a8a515",
+    "data": [
+      {
+        "text": "sebagai penjua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "877abc7a-6e5a-4972-8eb0-f28ad26cec23",
+    "data": [
+      {
+        "text": "sebagai ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5fdc7a9a-1c0c-4da8-97e2-f1e3ef3c0c6c",
+    "data": [
+      {
+        "text": "saya ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

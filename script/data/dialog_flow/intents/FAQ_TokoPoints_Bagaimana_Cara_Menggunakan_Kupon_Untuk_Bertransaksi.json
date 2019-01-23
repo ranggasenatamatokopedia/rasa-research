@@ -1,0 +1,42 @@
+{
+  "id": "b5a08a0a-9c08-43e9-9fc2-e1d215b9c842",
+  "name": "FAQ_TokoPoints_Bagaimana_Cara_Menggunakan_Kupon_Untuk_Bertransaksi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_TokoPoints_Bagaimana_Cara_Menggunakan_Kupon_Untuk_Bertransaksi-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut Toped kasih tahu cara gunakan Kupon untuk bertransaksi ya:\r\n\r\n1. Masukan produk ke keranjang belanja\r\n2. Klik “Gunakan Kode Promo atau Kupon”\r\n3. Pilih Tab “Kupon Saya”\r\n4. Pilih Kupon yang akan kamu gunakan \r\n5. Kamu akan dapat notifikasi penggunaan Kupon berhasil, dan potensi benefit."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga info dari Toped membantu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_tokopoints_bagaimana_cara_menggunakan_kupon_untuk_bertransaksi"
+    }
+  ]
+}

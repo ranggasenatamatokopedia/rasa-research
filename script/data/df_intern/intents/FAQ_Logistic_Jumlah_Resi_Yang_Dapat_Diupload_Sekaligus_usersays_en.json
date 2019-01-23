@@ -1,0 +1,148 @@
+[
+  {
+    "id": "c0af64e7-fee6-40c3-8ebc-346f4daee0ae",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " berapa ya jumlah resi yang bisa diupload sekaligus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bbb032aa-ab4e-4ec2-8a45-a399c84b80d4",
+    "data": [
+      {
+        "text": "maksimal dan minimalnya berapa upload resi sekaligus ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "35862015-673e-492d-b2a0-6b004115e291",
+    "data": [
+      {
+        "text": "ada minimal atau maksimal resi yang bisa diupload sekaligus ga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0f89dcf6-83ed-4e1e-bf7a-df5fe632e24f",
+    "data": [
+      {
+        "text": "berapa jumlah maksimal upload resi sekaligus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7454f6d7-63e7-4310-97d5-cfe45e932103",
+    "data": [
+      {
+        "text": "kasih tau ",
+        "userDefined": false
+      },
+      {
+        "text": "dong",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " berapa jumlah resi yang bisa diupload sekaligus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c2d73575-d755-4ce1-9fc9-1ce9c697dbce",
+    "data": [
+      {
+        "text": "upload resi sekaligus ini bisanya berapa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d11e5476-38c9-463e-8e06-216230ebbe70",
+    "data": [
+      {
+        "text": "berapa minimal jumlah upload resi sekaligus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "866a9aa8-6fa3-4626-8c64-ca89202bfc40",
+    "data": [
+      {
+        "text": "ada ketentuannya ga jumlah yang bisa diupload sekaligus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8920988e-0b64-4079-92a3-ff55aebc5cc9",
+    "data": [
+      {
+        "text": "berapa jumlah resi yang bisa diupload sekaligus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2eb6423b-aa90-41b5-a51f-ead0eeda92b8",
+    "data": [
+      {
+        "text": "jumlah resi yang bisa diupload sekaligus berapa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "64df5339-b04d-4eb1-a71a-1274a80fe022",
+    "data": [
+      {
+        "text": "mininal resi yang diupload sekaligus berapa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fc69f778-8cf7-4d2c-9e30-6b934d1271bb",
+    "data": [
+      {
+        "text": "Berapa banyak resi yang dapat di upload sekaligus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "id": "be191ae1-2ef5-4148-8522-38df7365df71",
+  "parentId": "f68ed418-e125-45a9-87af-f0dff53499f9",
+  "rootParentId": "a7e1b254-86ed-4335-a90a-f9746590e450",
+  "name": "KAI_Kode_Booking_Belum_Diterima_status_except_success",
+  "auto": false,
+  "contexts": [
+    "KAI_Kode_Booking_Belum_Diterima_select_inv-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "KAI_Kode_Booking_Belum_Diterima_status_except_success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Saat ini pesanan kamu belum berhasil sehingga kamu belum mendapatkan kode booking. Cek di menu Daftar Transaksi Kereta Api kamu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540358544,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_ticket_is_booked"
+    },
+    {
+      "name": "invoice_ticket_has_been_paid"
+    },
+    {
+      "name": "invoice_pending"
+    },
+    {
+      "name": "invoice_refunded"
+    },
+    {
+      "name": "invoice_cancelled"
+    }
+  ]
+}

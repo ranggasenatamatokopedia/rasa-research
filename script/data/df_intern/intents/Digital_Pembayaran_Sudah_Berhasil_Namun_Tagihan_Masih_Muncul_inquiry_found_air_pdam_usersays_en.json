@@ -1,0 +1,35 @@
+[
+  {
+    "id": "2599480a-1e39-4e0a-ba62-5179facea4d8",
+    "data": [
+      {
+        "text": "digital_pascabayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a86abb49-afbb-49cf-89ba-942b56486861",
+    "data": [
+      {
+        "text": "digital_airpdam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f36593db-5488-4d69-9844-b41ca966d2ae",
+    "data": [
+      {
+        "text": "digital_tvkabel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

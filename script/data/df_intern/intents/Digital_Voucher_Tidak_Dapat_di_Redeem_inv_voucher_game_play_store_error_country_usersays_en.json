@@ -1,0 +1,80 @@
+[
+  {
+    "id": "92767f3f-68d8-4303-b506-8ea45cb0c7ac",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c07a1868-f9f9-4cc8-8513-dec9eb9be092",
+    "data": [
+      {
+        "text": "ke 1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "44ca3c50-1b4e-452b-af30-6696661b6160",
+    "data": [
+      {
+        "text": "yang ",
+        "userDefined": false
+      },
+      {
+        "text": "pertama",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b8741b0c-2354-41c8-bbab-fed4232fef49",
+    "data": [
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "525742a9-d062-42f0-964e-e4d29c598ce5",
+    "data": [
+      {
+        "text": "nomor ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4cbe7ca3-66e0-43a8-b03d-e1f56ca93feb",
+    "data": [
+      {
+        "text": "this code can\u0027t be redeemed on your country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

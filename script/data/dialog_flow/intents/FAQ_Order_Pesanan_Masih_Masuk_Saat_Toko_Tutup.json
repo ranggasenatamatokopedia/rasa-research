@@ -1,0 +1,44 @@
+{
+  "id": "0908a431-6de2-4121-9a42-071623c385cf",
+  "name": "FAQ_Order_Pesanan_Masih_Masuk_Saat_Toko_Tutup",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "55ffee49-cfcb-4640-985f-7351314f9edc",
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Bisa jadi karena pembeli melakukan pesanan sebelum toko ditutup, tapi pembayarannya baru saja berhasil diverifikasi."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jangan khawatir ya, kamu bisa menolak pesanan kalau tidak bisa memprosesnya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_order_pesanan_masih_masuk_saat_toko_tutup"
+    }
+  ]
+}

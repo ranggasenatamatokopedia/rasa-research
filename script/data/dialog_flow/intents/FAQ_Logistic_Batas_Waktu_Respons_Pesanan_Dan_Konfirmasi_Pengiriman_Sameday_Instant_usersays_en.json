@@ -1,0 +1,205 @@
+[
+  {
+    "id": "5613f88a-46c8-4a41-8e34-79769a3a1aa4",
+    "data": [
+      {
+        "text": "batas waktu konfirmasi pengiriman ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "13a221e1-7407-4eba-84fa-8ebaa1faeec3",
+    "data": [
+      {
+        "text": "berapa waktu konfirmasi pengiriman ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d4d44069-8edb-433a-a38f-fd1b98ce83d4",
+    "data": [
+      {
+        "text": "batas waktu respons pesanan ",
+        "userDefined": false
+      },
+      {
+        "text": "instant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0b20e94e-1878-47cb-8449-364d3246dd1a",
+    "data": [
+      {
+        "text": "lama konfirmasi pengiriman ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fcef4552-210d-4293-befa-e25bc96a26e3",
+    "data": [
+      {
+        "text": "berapa lama batas konfirmasi pengiriman ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5cfac50a-7f74-48c7-acdc-c861330a6bec",
+    "data": [
+      {
+        "text": "lama waktu respons pesanan ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b27d4126-956e-4cd6-979e-342ac51ceb05",
+    "data": [
+      {
+        "text": "waktu respons pesanan ",
+        "userDefined": false
+      },
+      {
+        "text": "sameday",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dceeaa6c-bf95-44ec-9992-8e214d73f6b2",
+    "data": [
+      {
+        "text": "berapa lama batas waktu respons pesanan kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f2e957e6-15af-4ce1-915e-ccb07f992042",
+    "data": [
+      {
+        "text": "lama waktu respons pesanan ",
+        "userDefined": false
+      },
+      {
+        "text": "gosend",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dafc9a34-9b44-451b-8685-053ce971980b",
+    "data": [
+      {
+        "text": "berapa lama batas waktu respons pesanan ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "076c3180-54e1-4993-ba67-921e25bd5008",
+    "data": [
+      {
+        "text": "waktu respons pesanan ",
+        "userDefined": false
+      },
+      {
+        "text": "instant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7d0ab6a9-827c-4b35-a93e-a9397b71fded",
+    "data": [
+      {
+        "text": "batas waktu respons pesanan ",
+        "userDefined": false
+      },
+      {
+        "text": "sameday",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6b0aa45d-7e83-41b5-8a8a-6002fd6ecde0",
+    "data": [
+      {
+        "text": "Apakah hari minggu ada pengiriman gosen same day?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "a3afbdc7-272a-4cf8-a194-a4511e0b704f",
+  "name": "FAQ_OVO_cara_mengaktifkan_OVO_di_aplikasi_Tokopedia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f3e13fae-b065-40fe-bcd9-98a894c8211c",
+          "required": false,
+          "dataType": "@metode_bayar",
+          "name": "metode_bayar",
+          "value": "$metode_bayar",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setiap pengguna Tokopedia dengan akun yang telah terverifikasi akan terdaftar secara otomatis dan diberikan pilihan untuk mengaktifkan OVO Wallet/Cash di Tokopedia dengan mengikuti panduan langkah-langkah yang tertera:"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "1. Klik Aktivasi OVO\n2. Masukkan Nama Sesuai KTP\n3. Klik Aktivasi\n4. Input PIN\n5. Tunggu OTP dari Tokopedia"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_ovo_cara_mengaktifkan_ovo_di_aplikasi_tokopedia"
+    }
+  ]
+}

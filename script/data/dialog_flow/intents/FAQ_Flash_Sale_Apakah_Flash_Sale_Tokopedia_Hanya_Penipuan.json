@@ -1,0 +1,67 @@
+{
+  "id": "50a866a7-4062-43ad-8416-873457bfb940",
+  "name": "FAQ_Flash_Sale_Apakah_Flash_Sale_Tokopedia_Hanya_Penipuan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flash_Sale_Apakah_Flash_Sale_Tokopedia_Hanya_Penipuan-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "86e144e8-33fb-48b1-a56e-16c8bdbdf46b",
+          "required": false,
+          "dataType": "@day",
+          "name": "day",
+          "value": "$day",
+          "isList": false
+        },
+        {
+          "id": "83d2d8cd-0db6-437f-9e60-3e3437d489a1",
+          "required": false,
+          "dataType": "@sys.unit-length-name",
+          "name": "unit-length-name",
+          "value": "$unit-length-name",
+          "isList": false
+        },
+        {
+          "id": "b161c744-9ca0-4f75-b2c2-1758c50b2bd9",
+          "required": false,
+          "dataType": "@day",
+          "name": "day1",
+          "value": "$day1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jangan khawatir, Tokopedia benar sedang mengadakan Promo Flash Sale khusus untuk para Toppers!"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa cek di laman !TKPD_URL_FLASH_SALE! ya. Beberapa stok produk sudah habis terjual. Kalau kamu belum mendapatkan produk Flash Sale impian di sesi ini, kamu masih bisa ikutan di sesi berikutnya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_flash_sale_apakah_flash_sale_tokopedia_hanya_penipuan"
+    }
+  ]
+}

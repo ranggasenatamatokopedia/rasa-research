@@ -1,0 +1,35 @@
+[
+  {
+    "id": "f84816bc-7145-4372-93c4-0eb7ed82154c",
+    "data": [
+      {
+        "text": "gold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "03cb0068-a188-4a4f-b401-a3598d7b0283",
+    "data": [
+      {
+        "text": "egold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2ba336a0-ef95-4040-b89d-09551e96ee05",
+    "data": [
+      {
+        "text": "emas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

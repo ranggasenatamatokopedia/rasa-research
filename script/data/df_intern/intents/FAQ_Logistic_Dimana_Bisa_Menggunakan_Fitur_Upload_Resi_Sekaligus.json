@@ -1,0 +1,31 @@
+{
+  "id": "b980954a-b333-437d-a359-1d10dd357aef",
+  "name": "FAQ_Logistic_Dimana_Bisa_Menggunakan_Fitur_Upload_Resi_Sekaligus",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu dapat menemukan fitur Upload Resi Sekaligus pada halaman Konfirmasi Pengiriman dengan cara masuk ke akun Tokopedia melalui laptop/komputer ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_logistic_dimana_bisa_menggunakan_fitur_upload_resi_sekaligus"
+    }
+  ]
+}

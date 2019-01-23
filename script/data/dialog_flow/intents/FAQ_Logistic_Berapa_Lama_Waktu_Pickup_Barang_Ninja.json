@@ -1,0 +1,45 @@
+{
+  "id": "47b3809c-bc32-4dcc-826d-22e4e35c9cf7",
+  "parentId": "71a33cbf-81d5-44bf-a8e3-e4ab7880b670",
+  "rootParentId": "71a33cbf-81d5-44bf-a8e3-e4ab7880b670",
+  "name": "FAQ_Logistic_Berapa_Lama_Waktu_Pickup_Barang_Ninja",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Berapa_Lama_Waktu_Pickup_Barang-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "375f3afa-009a-4b0f-8b70-eb3f720d882d",
+          "dataType": "@kurir_pick_up",
+          "name": "kurir_pick_up",
+          "value": "$kurir_pick_up",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Estimasi waktu penjemputan barang oleh kurir adalah pukul 18.00 WIB di hari yang sama, setelah Penjual melakukan permintaan pick up."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528326879,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "ninja"
+    }
+  ]
+}

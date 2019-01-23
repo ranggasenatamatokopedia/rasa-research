@@ -1,0 +1,43 @@
+{
+  "id": "62c1bc13-dc13-466f-8054-f9ba47c8d8ce",
+  "parentId": "8e481f2a-5e61-47c3-9cc7-acb050c8f555",
+  "rootParentId": "0c60f8a5-c89d-4057-9ddc-8071a3ac4418",
+  "name": "Order_Tidak_Bisa_Input_Resi_Select_Inv_Insert_AWB_Is_Server_Error",
+  "auto": true,
+  "contexts": [
+    "Order_Tidak_Bisa_Input_Resi_Select_Inv_Insert_AWB-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Order_Tidak_Bisa_Input_Resi_Select_Inv_Insert_AWB_Is_Server_Error-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Saat ini Tokopedia sedang dalam pemeliharaan sistem. Kamu bisa tunggu dulu selama 10 menit untuk input ulang resi yang akan digunakan, ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538022224,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "is_server_error"
+    }
+  ]
+}

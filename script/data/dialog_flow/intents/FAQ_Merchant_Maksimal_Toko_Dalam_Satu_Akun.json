@@ -1,0 +1,42 @@
+{
+  "id": "9765c6a0-3fb0-442f-9da9-40da9e412b27",
+  "name": "FAQ_Merchant_Maksimal_Toko_Dalam_Satu_Akun",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Merchant_Maksimal_Toko_Dalam_Satu_Akun-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c618b014-7701-40c8-9283-a244af20a4a9",
+          "required": false,
+          "dataType": "@day",
+          "name": "day",
+          "value": "$day",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk satu akun / email yang terdaftar di Tokopedia, hanya bisa memiliki satu toko ya. \n\nTerima kasih"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

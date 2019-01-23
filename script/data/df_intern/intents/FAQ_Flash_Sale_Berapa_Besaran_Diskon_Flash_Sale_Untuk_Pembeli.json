@@ -1,0 +1,37 @@
+{
+  "id": "5d8c0acd-fc08-4dbe-a58a-ae846ffb4f3c",
+  "name": "FAQ_Flash_Sale_Berapa_Besaran_Diskon_Flash_Sale_Untuk_Pembeli",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flash_Sale_Berapa_Besaran_Diskon_Flash_Sale_Untuk_Pembeli-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semua produk Flash Sale punya diskon yang berbeda ya. Kamu bisa lihat harga normal, persentase diskon, dan harga setelah diskon di halaman Flash Sale."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_flash_sale_berapa_besaran_diskon_flash_sale_untuk_pembeli"
+    }
+  ]
+}

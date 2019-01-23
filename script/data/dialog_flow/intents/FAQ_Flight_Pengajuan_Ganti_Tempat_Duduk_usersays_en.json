@@ -1,0 +1,370 @@
+[
+  {
+    "id": "b2b725c1-0784-4c0d-811a-9a1ec729459a",
+    "data": [
+      {
+        "text": "apakah saya bisa mengajukan utk mengganti tempat duduk di pesanan tiket pesawat saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7ec8a2d7-168d-4329-9722-877fbcef89f0",
+    "data": [
+      {
+        "text": "gimana cara mengajukan penggantian seat di tiket pesawat ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6c24ae11-952a-489c-8270-2f8e03831af1",
+    "data": [
+      {
+        "text": "gimana cara mengajukan penggantian seat di tiket pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6cb9f33f-af80-4030-b032-92de53b7b808",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya mau ganti seat di tiket pesawat saya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6a3c2146-f777-4e68-b8e6-fe5eedffad1a",
+    "data": [
+      {
+        "text": "saya mau ngajuin penggantian seat tiket penerbangan saya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "de9d5a6e-bd39-4c20-992d-ad946c3f7b82",
+    "data": [
+      {
+        "text": "saya mau ngajuin penggantian seat tiket pesawat saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fda0d9c9-5626-46e7-bc2d-0082d25bf664",
+    "data": [
+      {
+        "text": "gimana ngajuin ganti seat di pesawat nih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "43cfaf03-560e-43e7-9586-bdc3912d04ac",
+    "data": [
+      {
+        "text": "gimana ganti seat di pesawat ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9a081118-13ba-4648-b2c2-4d4ac51f1518",
+    "data": [
+      {
+        "text": "min, kalau saya ingin mengganti seat di pesawat gimana ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3ee4a7ab-f94f-411a-b8d1-0eb696971b1b",
+    "data": [
+      {
+        "text": "saya mau ngajuin penggantian seat di pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3c09af7a-9ddd-4278-9370-e28a78dfc1b0",
+    "data": [
+      {
+        "text": "ganti seat pesawat gimana caranya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "10007510-2c16-4703-a635-c00397231f8b",
+    "data": [
+      {
+        "text": "saya mau mengajukan penggantian seat di pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5c658239-bdcb-4468-a81b-b6d2719c6f46",
+    "data": [
+      {
+        "text": "seat di pesawat gimana menggantinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "22eaf32d-1dee-4635-89f4-fa98952956b0",
+    "data": [
+      {
+        "text": "ganti seat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eba50758-e533-446a-a9cd-ed15fd59f047",
+    "data": [
+      {
+        "text": "mengganti seat / tempat duduk di pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f678b4d3-262a-475d-af46-1c28c1ae04f1",
+    "data": [
+      {
+        "text": "mengganti seat di pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "69c62d82-ec9c-4fa6-bf66-3ffe20b302b9",
+    "data": [
+      {
+        "text": "ganti seat di pesawat gimana caranya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "194a35d3-f067-4ef2-b116-ce74f23855a2",
+    "data": [
+      {
+        "text": "saya mau mengganti seat di pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8c50a919-62f6-4fa8-b761-18c06c03eb03",
+    "data": [
+      {
+        "text": "ganti tmpat duduk di tiket penerbangan saya gimana caranya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "af4df0cd-d217-4d83-b04d-885d167b303a",
+    "data": [
+      {
+        "text": "tlg ",
+        "userDefined": false
+      },
+      {
+        "text": "dong",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya mau mengganti tempat duduk di tiket penerbangan saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "53d97f2b-83af-4562-bd3e-3e6ea0d66fb7",
+    "data": [
+      {
+        "text": " saya mau ngajuin ganti tempat duduk utk tiket penerbangan saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7da35317-0f71-4cf8-b794-3d3137952f65",
+    "data": [
+      {
+        "text": "saya mau ngajuin ganti tempat duduk utk tiket pesawat saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c59adf10-e5bc-4eb1-a207-b59e77a922d9",
+    "data": [
+      {
+        "text": "saya mau ngajuin ganti tempat duduk utk tiket pesawat sayas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "547e4926-b6dc-430e-aa81-e6f5a6dbd853",
+    "data": [
+      {
+        "text": "saya mau mengajukan ganti tempat duduk saat pesan tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c1170ed8-7b26-4d98-b8be-41660b83d0f2",
+    "data": [
+      {
+        "text": "bisakah saya mengajukan utk ganti tempat duduk di penerbangan saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a9563e29-956c-4a21-94c9-6d27aa3461ef",
+    "data": [
+      {
+        "text": "saya mau ajukan mengganti tempat duduk di penerbangan saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a04e0cee-fce3-45d0-bd7d-03c249813a73",
+    "data": [
+      {
+        "text": "Apakah saya bisa mengajukan untuk mengganti tempat duduk saat penerbangan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0927809f-32fd-420a-959e-96838f5fadd3",
+    "data": [
+      {
+        "text": "Apakah saya bisa mengajukan untuk ganti tempat duduk utk penerbangan saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

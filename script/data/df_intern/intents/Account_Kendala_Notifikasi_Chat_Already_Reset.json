@@ -1,0 +1,43 @@
+{
+  "id": "1d65c63b-682a-44d1-bfef-08244e833733",
+  "parentId": "351f99d8-fc3c-466c-8029-3dd96501d2ca",
+  "rootParentId": "35ea81e4-4843-4cfe-b8fd-335f2f7a0eea",
+  "name": "Account_Kendala_Notifikasi_Chat_Already_Reset",
+  "auto": true,
+  "contexts": [
+    "Account_Kendala_Notifikasi_Chat-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckChatLastTimeNotificationReset",
+      "affectedContexts": [
+        {
+          "name": "Account_Kendala_Notifikasi_Chat_Already_Reset-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533871005,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "already_reset"
+    }
+  ]
+}

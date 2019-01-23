@@ -1,0 +1,43 @@
+{
+  "id": "ade610ce-d50b-4f81-a260-ec0cf3f9598d",
+  "parentId": "fcddc333-39be-444a-baf1-ca59893f06d8",
+  "rootParentId": "35e16175-3fd0-4749-bf64-4e1b94b883f1",
+  "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Seller_Rejected",
+  "auto": true,
+  "contexts": [
+    "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Seller-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Seller_Rejected-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sayang sekali Kak, pesanannya sudah batal dan dananya sudah Toped kembalikan ke pembeli."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532502364,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_pesanan_ditolak_penjual"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "e43a0818-1946-45ec-921e-2ed9de59d71c",
+  "name": "FAQ_Logistic_Wilayah_Pengiriman_Dan_Tujuan_Kurir",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ConvertParametersToEventName",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Logistic_Wilayah_Pengiriman_Dan_Tujuan_Kurir-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b813a70f-d610-4445-a183-88888a75d2b2",
+          "required": true,
+          "dataType": "@kurir_pick_up",
+          "name": "kurir_pick_up",
+          "value": "$kurir_pick_up",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Toped mau memastikan, kurir yang digunakan Ninja Xpress atau REX ya, Kak?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_logistic_wilayah_pengiriman_dan_tujuan_kurir"
+    }
+  ]
+}

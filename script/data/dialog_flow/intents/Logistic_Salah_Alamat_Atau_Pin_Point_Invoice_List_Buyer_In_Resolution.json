@@ -1,0 +1,43 @@
+{
+  "id": "80f39502-a00f-422c-bfcf-0b1bd5c48809",
+  "parentId": "75ff3ca8-b338-428a-a276-4970c86e879f",
+  "rootParentId": "b5d703e5-b4ee-4716-a78d-6a74da4e1538",
+  "name": "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Buyer_In_Resolution",
+  "auto": true,
+  "contexts": [
+    "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Buyer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Buyer_In_Resolution-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Transaksi kamu sedang ada di Pusat Resolusi. Toped sarankan untuk diskusikan dulu dengan Penjual untuk kesepakatannya ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536500106,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_pesanan_dikomplain"
+    }
+  ]
+}

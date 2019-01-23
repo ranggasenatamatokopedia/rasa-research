@@ -1,0 +1,42 @@
+{
+  "id": "5e90f875-c109-4a67-b3e0-cbae6fdffc04",
+  "name": "FAQ_TokoPoints_Bagaimana_Cara_Memainkan_Lucky_Egg",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_TokoPoints_Bagaimana_Cara_Memainkan_Lucky_Egg-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut Toped kasih tahu cara mainkan Lucky Egg ya:\r\n\r\n1. Login ke Akun Tokopedia \r\n2. Klik Icon \"Lucky Egg\" di halaman beranda Tokopedia\r\n3. Klik Gambar \"Lucky Egg\" yang muncul, maka \"Lucky Egg\" akan pecah\r\n4. Muncul notifikasi benefit \"Lucky Egg\" berupa Points, Loyalty, atau Kupon"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu juga bisa klik \"Pecahkan Lucky Egg Lain\" kalau masih ada, atau klik \"Cek TokoPoints Anda\" untuk lanjut ke halaman TokoPoints."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_tokopoints_bagaimana_cara_memainkan_lucky_egg"
+    }
+  ]
+}

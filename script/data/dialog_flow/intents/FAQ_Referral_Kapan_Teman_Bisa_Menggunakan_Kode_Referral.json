@@ -1,0 +1,46 @@
+{
+  "id": "e9d41ceb-5727-4953-842e-e415dd715bc5",
+  "name": "FAQ_Referral_Kapan_Teman_Bisa_Menggunakan_Kode_Referral",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Referral_Kapan_Teman_Bisa_Menggunakan_Kode_Referral-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "90e826bc-987f-4c2f-b192-a054f97c1d3a",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kode Referral hanya bisa digunakan pada transaksi pertama dalam waktu maksimum 180 hari setelah membuat akun Tokopedia ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_referral_kapan_teman_bisa_menggunakan_kode_referral"
+    }
+  ]
+}

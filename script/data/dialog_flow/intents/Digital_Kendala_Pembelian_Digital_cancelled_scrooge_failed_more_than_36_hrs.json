@@ -1,0 +1,43 @@
+{
+  "id": "39a54c8a-c4cb-4f8e-8abc-493ee2271f04",
+  "parentId": "44ba1c4d-a47f-4a46-8595-1a30554fa42b",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_cancelled_scrooge_failed_more_than_36_hrs",
+  "auto": false,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_cancelled_scrooge_failed_bank_transfer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckRefundListExist",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_cancelled_scrooge_failed_more_than_36_hrs-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533893334,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "more_than_36_hours"
+    }
+  ]
+}

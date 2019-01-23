@@ -1,0 +1,153 @@
+[
+  {
+    "id": "060106ed-e3b5-4ef9-b104-8e3a572c776e",
+    "data": [
+      {
+        "text": "Pilih Metode Pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "faa78195-07c2-4ef2-b246-a58dbb410c3b",
+    "data": [
+      {
+        "text": "dua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9f7a7504-4f4f-4082-9dd2-943328d07a7c",
+    "data": [
+      {
+        "text": "metode pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2ebe38ca-ced1-45da-9067-a62270f80e03",
+    "data": [
+      {
+        "text": "yang ",
+        "userDefined": false
+      },
+      {
+        "text": "kedua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7dc1fabe-c920-48f7-a922-3aa728fdaf51",
+    "data": [
+      {
+        "text": "saat di halaman memilih pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "00aa8049-a42d-4705-8a61-caeb5a0346f5",
+    "data": [
+      {
+        "text": "di halaman metode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ae1e6462-54a2-42fb-a667-ed3ad1e4bc8a",
+    "data": [
+      {
+        "text": "milih metode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1f9d040c-4939-4be8-afc1-06f88e33e3f0",
+    "data": [
+      {
+        "text": "metode bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "18a41a5d-ba7e-4795-a9ce-f9db0e90ffdb",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a2aa1202-7e7c-4b61-91fc-8d1116968a9a",
+    "data": [
+      {
+        "text": "pas metode bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5be1297c-996a-4574-993c-9d0173c50a11",
+    "data": [
+      {
+        "text": "kedua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "84ab47ee-fdfe-45b8-9a58-9c4c648364b8",
+    "data": [
+      {
+        "text": "halaman \u0027Pilih Metode Pembayaran\u0027",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d3a7a716-6b48-4690-93eb-b94fb17fc7c7",
+    "data": [
+      {
+        "text": "payment_page",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

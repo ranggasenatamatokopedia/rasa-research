@@ -1,0 +1,44 @@
+{
+  "id": "c9f84050-ff97-4038-9fd2-4129ea334e63",
+  "parentId": "b9b204e8-ba73-4e60-8662-8ab3561b1657",
+  "rootParentId": "b9b204e8-ba73-4e60-8662-8ab3561b1657",
+  "name": "FAQ_Order_Invoice_Tidak_Muncul_Di_Daftar_Transaksi_Digital",
+  "auto": true,
+  "contexts": [
+    "FAQ_Order_Invoice_Tidak_Muncul_Di_Daftar_Transaksi-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Order_Invoice_Tidak_Muncul_Di_Daftar_Transaksi_Digital-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Melalui aplikasi Tokopedia Android/ iOS, kamu bisa ikuti langkah berikut ini :\n1. Masuk ke laman Beranda\n2. Pilih menu \"Pembelian\"\n3. Pilih \"Daftar Top-Up \u0026 Tagihan\"\n4. Pilih transaksi yang kamu cari, dan klik untuk melihat detailnya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga info dari Toped membantu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533814066,
+  "fallbackIntent": false,
+  "events": []
+}

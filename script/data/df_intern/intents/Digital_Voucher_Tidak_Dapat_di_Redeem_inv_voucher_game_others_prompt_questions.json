@@ -1,0 +1,68 @@
+{
+  "id": "665cc0f7-7282-4e23-bd69-474a0e9a17c4",
+  "parentId": "24286347-01e3-4301-888b-bf8d6ffc4c60",
+  "rootParentId": "dbbb1e17-3271-4c65-b2a2-5cb80603b2a4",
+  "name": "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_game_others_prompt_questions",
+  "auto": true,
+  "contexts": [
+    "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_game_others-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_game_others_prompt_questions-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "909340ad-b4f4-4e96-883a-b24a47df832f",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "nama_game",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Bisa beritahu kode voucher ini untuk pengisian game apa?"
+            }
+          ]
+        },
+        {
+          "id": "1c2e273b-61e9-4221-96a5-b3078b132d89",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "user_id",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Beritahu mengenai nama user id kamu terlebih dulu ya."
+            }
+          ]
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh beritahu Toped tanggal dan jam pengisian game tersebut? (contoh : 12 Juni, 15:00)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536394443,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

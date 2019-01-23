@@ -1,0 +1,43 @@
+{
+  "id": "191a74e3-f743-4645-93d9-3ac1ea93d9a4",
+  "parentId": "e540ae13-6993-4973-bead-401b5c3abcf5",
+  "rootParentId": "52ec60f4-3e96-4394-855f-4b7f7c4c5110",
+  "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_khusus_pengguna_baru",
+  "auto": true,
+  "contexts": [
+    "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "InsertDate",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_khusus_pengguna_baru-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh kasih tahu Toped kapan kamu mencoba menggunakan promo ini? Kamu bisa ketik tanggal penggunaannya ya (contoh: 1 Jan 2018)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523832628,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "promo_khusus_pengguna_baru"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "331e3641-99aa-405d-8082-96feaae7d546",
+  "parentId": "97b8dee9-c18a-464e-81ff-25eed5cf59ac",
+  "rootParentId": "97b8dee9-c18a-464e-81ff-25eed5cf59ac",
+  "name": "Fraud_Saldo_Tokopedia_atau_TokoCash_Digunakan_Pihak_Lain_Saldo_Tokopedia",
+  "auto": true,
+  "contexts": [
+    "Fraud_Saldo_Tokopedia_atau_TokoCash_Digunakan_Pihak_Lain-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Saldo_Tokopedia_atau_TokoCash_Digunakan_Pihak_Lain_Saldo_Tokopedia",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "Fraud_Saldo_Tokopedia_atau_TokoCash_Digunakan_Pihak_Lain_Saldo_Tokopedia-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa lampirkan screenshot email yang kamu terima serta bukti pendukung lainnya untuk mempermudah proses pengecekannnya, ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1543300387,
+  "fallbackIntent": false,
+  "events": []
+}

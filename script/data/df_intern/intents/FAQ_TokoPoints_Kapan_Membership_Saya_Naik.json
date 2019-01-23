@@ -1,0 +1,42 @@
+{
+  "id": "ad47e102-ebbd-414d-8939-ecffc6ef4d5b",
+  "name": "FAQ_TokoPoints_Kapan_Membership_Saya_Naik",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_TokoPoints_Kapan_Membership_Saya_Naik-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Status Membership kamu akan naik kalau jumlah Loyalty yang terkumpul mencapai minimal Loyalty dari Status Membership di atasnya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped kasih tahu contohnya ya, kalau di tahun 2019 Status Membership kamu Gold (dengan minimal Loyalty 500) dan di tahun yang sama kamu berhasil kumpulkan 3000 Loyalty, maka status Membership kamu akan naik menjadi Platinum 1."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_tokopoints_kapan_membership_saya_naik"
+    }
+  ]
+}

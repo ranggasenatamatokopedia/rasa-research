@@ -1,0 +1,291 @@
+[
+  {
+    "id": "c99fbbe4-8eab-4582-99e4-4af0015777c7",
+    "data": [
+      {
+        "text": "apakah kupon partner bisa ditukar di tempat yang berbeda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1e7c10bb-b7c8-4100-afa5-7d6384eb07b4",
+    "data": [
+      {
+        "text": "apakah kupon partner bisa dituker di tempat yg berbeda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "38963cc4-5c6c-4926-a1e2-4b9121d43767",
+    "data": [
+      {
+        "text": "Saya mau tukernya di kupon yg berbeda boleh gak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e254592e-1689-4e85-8709-dc4a8c5a4be0",
+    "data": [
+      {
+        "text": "Kalo tuker kuponnya di store yang beda boleh gak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "15ddab5b-76a4-417b-afb8-d1fd133e2211",
+    "data": [
+      {
+        "text": "Kalo tukernya di store yg beda boleh gak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fa9036a5-b70a-4d10-a9f5-99a09b65c92f",
+    "data": [
+      {
+        "text": "Kalo saya mau tukernya di kupon yang berbeda, boleh gasih min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c31b1091-d597-484c-822b-2d2b2154c8f1",
+    "data": [
+      {
+        "text": "Saya mau tuker kuponnya di store yg berbeda, boleh gasih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1af63d3a-d440-4d02-a86c-5b4fdf2d6f71",
+    "data": [
+      {
+        "text": "Saya punya kupon partner offline, kalo saya mau tukerin di store yang berbeda sama yg ada di daftar ",
+        "userDefined": false
+      },
+      {
+        "text": "kira2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " boleh apa engga ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "950418ca-b562-4274-9227-cd4860ae517c",
+    "data": [
+      {
+        "text": "Kalo saya mau tukerin kuponnya di store yang berbeda boleh gak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d0093b59-5c4f-4a13-95e6-947e4f2a0a95",
+    "data": [
+      {
+        "text": "Kira2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " boleh gak kalo saya tukerin kuponnya di store yang berbeda sm yg ada di ketentuan kupon?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e5215cc1-8049-432b-aedc-db943e62b204",
+    "data": [
+      {
+        "text": "Saya mau tuker kupon partner nya di store yg gada di daftar boleh gak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3ad410a3-36eb-437c-8c58-ab77ca5082c1",
+    "data": [
+      {
+        "text": "Kira-kira bisa gak ya kalo saya tuker kuponnya di store yang berbeda dari yg ada di daftar tuker?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "653fea3e-0165-4e12-b229-5511cd10e2a2",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya mau tuker kuponnya di store yg beda dari yg di daftar, ",
+        "userDefined": false
+      },
+      {
+        "text": "kira2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " boleh gak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c4668f83-3f63-48b3-adc3-b01f2c52eee2",
+    "data": [
+      {
+        "text": "Saya udah tuker kupon offlinenya, kalo saya redeem di store yg berbeda boleh apa enggak ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d48bddb6-01ee-4556-9317-c83280242b04",
+    "data": [
+      {
+        "text": "Saya mau redeem kuponnya di store deket rumah saya aja boleh gak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e48efa28-84cc-41f3-b0da-ed32dfeddc54",
+    "data": [
+      {
+        "text": "Saya mau tuker kuponnya di store deket rumah saya aja, boleh gak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f126fce3-5a30-4a33-a889-d6acbf8f2160",
+    "data": [
+      {
+        "text": "Kalo saya mau tukerin kuponnya di store deket rumah saya aja boleh gak? Tp store itu gak ada di daftar kupon offlinenya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "82be550a-927f-42a1-87e5-425cc8f63c4e",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kalo saya tukerin kuponnya di outlet deket rumah saya boleh gak? Outlet yg dari toped jauh banget dari rumah saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a61c67d3-e29f-499e-ba78-61cca345d242",
+    "data": [
+      {
+        "text": "Boleh gak sih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kalo saya tukerinnya di outlet yang beda sama yg di kupon?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "371b952e-92aa-48eb-a273-ddefc124da1d",
+    "data": [
+      {
+        "text": "Bagaimana jika saya melakukan penukaran di outlet yang berbeda?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

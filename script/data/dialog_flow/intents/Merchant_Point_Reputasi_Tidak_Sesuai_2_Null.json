@@ -1,0 +1,43 @@
+{
+  "id": "0bef1453-9476-4c00-a4e0-68846ce4b8e9",
+  "parentId": "c4edb03a-3b29-44c9-a636-19a5da57d4d4",
+  "rootParentId": "cf17fcc0-2998-4ff8-8cf4-6a1ca0e60443",
+  "name": "Merchant_Point_Reputasi_Tidak_Sesuai_2_Null",
+  "auto": true,
+  "contexts": [
+    "Merchant_Point_Reputasi_Tidak_Sesuai_2-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Point_Reputasi_Tidak_Sesuai_2_Null-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jangan khawatir, Toped sudah cek dan tidak ada pengurangan reputasi pada toko kamu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536563826,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "is_null"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "056105b0-efd9-44d6-9e8e-a05e7cb9e123",
+  "parentId": "d53a66d2-49e4-4f5f-bebf-01ee0507565a",
+  "rootParentId": "c0b649b7-f279-4ced-b948-85bc9276afd2",
+  "name": "Flight_Kendala_Pengembalian_Dana_get_invoice_confirmed_or_finished",
+  "auto": true,
+  "contexts": [
+    "Flight_Kendala_Pengembalian_Dana_get_invoice-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetCancellationStatusFlight",
+      "affectedContexts": [
+        {
+          "name": "Flight_Kendala_Pengembalian_Dana_get_invoice_confirmed_or_finished-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537763106,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_confirmed"
+    },
+    {
+      "name": "invoice_finished"
+    }
+  ]
+}

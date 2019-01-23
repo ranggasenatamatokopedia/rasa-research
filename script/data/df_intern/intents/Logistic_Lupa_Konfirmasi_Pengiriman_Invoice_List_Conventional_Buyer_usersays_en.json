@@ -1,0 +1,30 @@
+[
+  {
+    "id": "a2125613-ce1f-4409-b620-08b7c760fb5a",
+    "data": [
+      {
+        "text": "user_is_",
+        "userDefined": false
+      },
+      {
+        "text": "buyer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4841ad59-9598-4b91-8b7c-e112e4a8e7f7",
+    "data": [
+      {
+        "text": "buyer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

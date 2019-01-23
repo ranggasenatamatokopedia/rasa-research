@@ -1,0 +1,51 @@
+[
+  {
+    "id": "a5294dde-3051-402d-9ab3-9a55f29049b6",
+    "data": [
+      {
+        "text": "invoice_melakukan_pencarian_driver_harap_menunggu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7bbd2144-d12f-40ea-81a8-61e52784fa85",
+    "data": [
+      {
+        "text": "invoice_order_berkendala_pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bb466f6b-783a-44fe-81ec-5d38ce386dbb",
+    "data": [
+      {
+        "text": "invoice_sedang_dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b168389d-cef6-45c7-9b6b-1067a8f9d468",
+    "data": [
+      {
+        "text": "invoice_menunggu_",
+        "userDefined": false
+      },
+      {
+        "text": "pick_up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "id": "ef419bc9-621f-407b-8d67-3174c8abaf8f",
+  "parentId": "aca980f7-0eeb-420b-8904-a9fc8411653f",
+  "rootParentId": "62328066-6ba6-453c-b337-f9f221db5f6f",
+  "name": "FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir_Sicepat_Cargo",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir_Sicepat-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "31113e4b-9a90-4b3a-8527-8bfdccd9b9ab",
+          "required": false,
+          "dataType": "@layanan_kurir_reguler",
+          "name": "layanan_kurir_reguler",
+          "value": "$layanan_kurir_reguler",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika kamu melakukan pengiriman dalam pulau yang sama, estimasi paket diterima adalah 6 hari. Tapi kalau dengan pulau yang berbeda, estimasi waktu paket diterima adalah 15 hari."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546917502,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "cargo"
+    }
+  ]
+}

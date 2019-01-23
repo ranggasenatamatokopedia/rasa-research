@@ -1,0 +1,57 @@
+{
+  "id": "c7f4912e-adb4-4b20-b6d7-619488033c81",
+  "parentId": "52ec60f4-3e96-4394-855f-4b7f7c4c5110",
+  "rootParentId": "52ec60f4-3e96-4394-855f-4b7f7c4c5110",
+  "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_ketik_kode",
+  "auto": false,
+  "contexts": [
+    "Promo_Tidak_Bisa_Menggunakan_Kode_Promo-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetPromoSummary",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_ketik_kode-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "cb92fd2a-4ba5-4149-b6b8-85a1c0ee18f6",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "code",
+          "value": "$code",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Bisa minta kode promonya Kak?"
+            }
+          ]
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon tunggu sebentar ya, Toped cek dulu."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523603966,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "kode_promo"
+    }
+  ]
+}

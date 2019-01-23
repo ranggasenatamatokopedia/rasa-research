@@ -1,0 +1,69 @@
+{
+  "id": "c8017710-52a8-460b-9c42-1ee7513e9355",
+  "parentId": "c261c9c1-8f83-4b1b-be98-0d6039e660fc",
+  "rootParentId": "2857f78e-0f0e-4f9f-a32c-1bf155c0c208",
+  "name": "Logistic_Barang_Tidak_Dapat_Dikirim_Invoice_List_Buyer_WTP",
+  "auto": true,
+  "contexts": [
+    "Logistic_Barang_Tidak_Dapat_Dikirim_Invoice_List_Buyer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Tidak_Dapat_Dikirim_Invoice_List_Buyer_WTP-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pesanan kamu masih dalam proses pengecekan pembayaran. Kalau nanti sudah dilakukan pembayaran, kamu bisa tunggu proses verifikasinya ya :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau kamu belum melakukan pembayaran, kamu bisa melakukan pembayaran sesuai nominal yang tertera. Semoga informasi Toped membantu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536565691,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_belum_bayar"
+    },
+    {
+      "name": "invoice_cc_challenge"
+    },
+    {
+      "name": "invoice_payment_confirm"
+    },
+    {
+      "name": "invoice_payment_confirmed_unik"
+    },
+    {
+      "name": "invoice_checkout_state"
+    },
+    {
+      "name": "invoice_pending"
+    },
+    {
+      "name": "invoice_pending_unik"
+    },
+    {
+      "name": "invoice_pending_due"
+    }
+  ]
+}

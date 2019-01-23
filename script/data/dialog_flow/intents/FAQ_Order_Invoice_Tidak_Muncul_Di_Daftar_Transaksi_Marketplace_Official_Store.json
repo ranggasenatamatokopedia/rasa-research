@@ -1,0 +1,44 @@
+{
+  "id": "f507a559-0be0-4e41-b1c1-df64eee85074",
+  "parentId": "b9b204e8-ba73-4e60-8662-8ab3561b1657",
+  "rootParentId": "b9b204e8-ba73-4e60-8662-8ab3561b1657",
+  "name": "FAQ_Order_Invoice_Tidak_Muncul_Di_Daftar_Transaksi_Marketplace_Official_Store",
+  "auto": true,
+  "contexts": [
+    "FAQ_Order_Invoice_Tidak_Muncul_Di_Daftar_Transaksi-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Order_Invoice_Tidak_Muncul_Di_Daftar_Transaksi_Marketplace_Official_Store-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Apabila kamu pembeli, kamu bisa ikuti langkah ini melalui aplikasi Tokopedia Android/iOS ya:\n\n1. Masuk ke laman Beranda\n2. Pilih menu \"Pembelian\"\n3. Pilih \"Daftar Belanja\"\n4. Pilih \"Transaksi\" untuk melihat semua daftar pembelian kamu."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Apabila kamu penjual, ikuti langkah 1 dan 2 dan kemudian pilih menu \"Daftar Penjualan\" dan pilih \"Transaksi\". Kamu juga bisa gunakan filter Status, Nomor Invoice / Nama Penerima, dan Tanggal Transaksi ya. Semoga info dari Toped membantu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533814054,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "ed781ef7-1368-4889-b2df-83d23480bb08",
+  "parentId": "0795297a-a2c3-4318-957a-8c3e0c6009cb",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Tidak_Mendapat_Cashback_Promo_Select_Invoice_Digital",
+  "auto": false,
+  "contexts": [
+    "Promo_Tidak_Mendapat_Cashback_Promo_Select_Invoice-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckInvoiceStatusIDDigital",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Mendapat_Cashback_Promo_Select_Invoice_Digital-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531814898,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_digital_KAI"
+    }
+  ]
+}

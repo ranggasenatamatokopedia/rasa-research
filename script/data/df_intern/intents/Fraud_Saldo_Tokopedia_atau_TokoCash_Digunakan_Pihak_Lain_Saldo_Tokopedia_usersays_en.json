@@ -1,0 +1,69 @@
+[
+  {
+    "id": "646ec738-a49b-4420-af0f-eebf7a642851",
+    "data": [
+      {
+        "text": "saldo tokopedia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "553b40c3-be7f-4303-b0e6-c9e1d8436d2d",
+    "data": [
+      {
+        "text": "tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c2840200-3f16-4834-838f-800a4f44a3cf",
+    "data": [
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "252b32e0-4391-42e3-9461-5257b574f725",
+    "data": [
+      {
+        "text": "saldo tokped",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cce3ec16-eab2-473e-b4c2-1cd622df2961",
+    "data": [
+      {
+        "text": "saldo tokopedia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

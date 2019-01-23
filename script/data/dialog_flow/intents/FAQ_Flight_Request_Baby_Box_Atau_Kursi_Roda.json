@@ -1,0 +1,38 @@
+{
+  "id": "b6d24d9a-b22c-4e69-85ad-400a7ebcb15a",
+  "name": "FAQ_Flight_Request_Baby_Box_Atau_Kursi_Roda",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flight_Request_Baby_Box_Untuk_Bayi-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Peminjaman baby box/kursi roda dapat dilakukan maksimal kurang dari 24 jam sebelum keberangkatan melalui !TKPD_URL_CONTACTUS_SUBMIT!. Informasikan tipe kursi roda seperti manula, pasca operasi, cacat/disabilitas. Kamu dapat langsung menghubungi !TKPD_URL_KONTAK_MASKAPAI! juga ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga informasi Toped membantu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

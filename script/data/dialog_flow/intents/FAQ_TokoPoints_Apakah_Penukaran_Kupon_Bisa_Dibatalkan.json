@@ -1,0 +1,37 @@
+{
+  "id": "b86fcb02-4395-4f46-93af-bdc5626717a2",
+  "name": "FAQ_TokoPoints_Apakah_Penukaran_Kupon_Bisa_Dibatalkan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_TokoPoints_Apakah_Penukaran_Kupon_Bisa_Dibatalkan-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sayang sekali, Kupon yang sudah ditukar tidak bisa dibatalkan. Kamu hanya bisa gunakan Kupon tersebut sebelum masa aktif kupon berakhir ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_tokopoints_apakah_penukaran_kupon_bisa_dibatalkan"
+    }
+  ]
+}

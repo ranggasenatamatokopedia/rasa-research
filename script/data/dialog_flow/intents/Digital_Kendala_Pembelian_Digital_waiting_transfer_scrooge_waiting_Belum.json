@@ -1,0 +1,39 @@
+{
+  "id": "6df90d39-a0d1-4677-ba7a-fea5f8dccd15",
+  "parentId": "737cf618-6007-4669-8018-b8044f7b884f",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_waiting_transfer_scrooge_waiting_Belum",
+  "auto": true,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_waiting_transfer_scrooge_waiting-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_waiting_transfer_scrooge_waiting_Belum-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Silakan transaksi ulang jika kamu tetap ingin melakukan pembelian ya. Senang bisa membantu kamu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534001837,
+  "fallbackIntent": false,
+  "events": []
+}

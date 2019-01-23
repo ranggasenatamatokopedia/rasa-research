@@ -1,0 +1,104 @@
+[
+  {
+    "id": "c86e497e-f09e-4584-a153-43c1f98c74ac",
+    "data": [
+      {
+        "text": "ngikutin skk toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a39edb42-97ec-4411-9088-ee34602f631b",
+    "data": [
+      {
+        "text": "benerin toko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ddcf21d8-cc10-472a-99ae-c587e57db393",
+    "data": [
+      {
+        "text": "Saya sudah melakukan perbaikan toko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ae82e603-22d9-4983-af64-01dfd936210b",
+    "data": [
+      {
+        "text": "Saya sudah mengikuti Syarat \u0026 Ketentuan Tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eb2205ec-eabe-4bbb-928d-4ddc715e983e",
+    "data": [
+      {
+        "text": "perbaikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fbec45e9-fc10-4582-9768-9fcc0c4f6866",
+    "data": [
+      {
+        "text": "SKK",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ef3d1389-7952-4fa2-9de9-260e15072241",
+    "data": [
+      {
+        "text": "select_reason",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d6805621-5a57-4446-b5f4-be2108788a05",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9d62bae4-95e8-4901-a801-526d53cfb282",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

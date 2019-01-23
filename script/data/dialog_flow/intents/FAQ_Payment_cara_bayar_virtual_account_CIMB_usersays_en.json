@@ -1,0 +1,26 @@
+[
+  {
+    "id": "75e84661-4677-4ff6-80f9-119a53dc6de6",
+    "data": [
+      {
+        "text": "Virtual Account CIMB",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f33db9c8-9a8c-465a-b13d-262eab47530c",
+    "data": [
+      {
+        "text": "CIMB Virtual Account",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

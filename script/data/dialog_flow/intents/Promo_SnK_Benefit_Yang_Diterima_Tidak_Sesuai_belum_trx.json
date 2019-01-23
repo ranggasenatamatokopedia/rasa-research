@@ -1,0 +1,44 @@
+{
+  "id": "0c97d769-092e-46c7-97c8-8a098579a4ce",
+  "parentId": "67024543-88fb-488f-907b-85ef94921089",
+  "rootParentId": "67024543-88fb-488f-907b-85ef94921089",
+  "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_belum_trx",
+  "auto": true,
+  "contexts": [
+    "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_belum_trx-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Halo, S\u0026K tersebut apakah tidak sesuai dengan kode promo atau kupon TokoPoints? Kamu bisa ketik yang mau ditanyakan ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "contoh:\r\n\r\n- Kode Promo GRATISONGKIR \r\n- Kupon TokoPoints Cashback Tokopedia Rp 100.000"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513040943,
+  "fallbackIntent": false,
+  "events": []
+}

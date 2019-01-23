@@ -1,0 +1,43 @@
+{
+  "id": "dd50f683-979a-40b9-be97-90ee4a9abea1",
+  "parentId": "4e4411cb-620f-48ef-88b9-e7af477822b4",
+  "rootParentId": "52ec60f4-3e96-4394-855f-4b7f7c4c5110",
+  "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_salah_notifikasi_error_false",
+  "auto": true,
+  "contexts": [
+    "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_salah-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_salah_notifikasi_error_false-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau kamu tidak menerima notifikasi error tersebut, kemungkinan memang ada kesalahan pengetikan. Kamu bisa coba kode promonya lagi ya dan pastikan sudah mengetik kode promonya dengan benar."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523602111,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "notif_error_kode_tidak_ditemukan_false"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "875a3fdb-202c-404e-9aac-d7a0a49f7cd4",
+    "data": [
+      {
+        "text": "four",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "427f3b1c-dfc6-45fa-a17c-58948c94fcb5",
+    "data": [
+      {
+        "text": "mpat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d27ad74e-e821-47ed-8ae5-4ce83e138171",
+    "data": [
+      {
+        "text": "Giftcard Tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "049198ca-b90c-4586-8478-b76b7fc9ff4f",
+    "data": [
+      {
+        "text": "giftcard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9596f9f0-06d4-4c86-bd05-d7d3e14ced47",
+    "data": [
+      {
+        "text": "empat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e361961d-3eed-49e3-a7f7-d4b4fc3510d3",
+    "data": [
+      {
+        "text": "nomor ",
+        "userDefined": false
+      },
+      {
+        "text": "empat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0ec25adc-90e1-4016-858d-27162b533133",
+    "data": [
+      {
+        "text": "benefit_giftcard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7466c0ee-fed6-4395-81bc-044e67c7e01e",
+    "data": [
+      {
+        "text": "4",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "098f43aa-26ce-478c-b695-d5ff8ce9eff6",
+    "data": [
+      {
+        "text": "keempat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

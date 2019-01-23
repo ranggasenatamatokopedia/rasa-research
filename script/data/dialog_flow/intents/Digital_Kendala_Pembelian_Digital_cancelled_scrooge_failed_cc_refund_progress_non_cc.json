@@ -1,0 +1,49 @@
+{
+  "id": "80d2e87f-1e6d-47af-9ad7-dc37d347c56d",
+  "parentId": "080d0c6e-a046-43f1-b496-278c51acc98b",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_cancelled_scrooge_failed_cc_refund_progress_non_cc",
+  "auto": false,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_cancelled_scrooge_failed_cc_more_36_refund_progress-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_cancelled_scrooge_failed_cc_refund_progress_non_cc-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Butuh 1x24 jam sampai dana kamu berhasil dikembalikan ke dalam Saldo Tokopedia."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533996119,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "inspay"
+    },
+    {
+      "name": "gerai"
+    },
+    {
+      "name": "va"
+    }
+  ]
+}

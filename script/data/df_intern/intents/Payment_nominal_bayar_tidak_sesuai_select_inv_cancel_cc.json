@@ -1,0 +1,43 @@
+{
+  "id": "99168869-cb6a-4855-aa72-ab82d121589b",
+  "parentId": "489ded37-6d1c-4ad1-89b7-98398eb8f451",
+  "rootParentId": "feb54c5b-52cd-4135-8fbe-6ef49ccb8866",
+  "name": "Payment_nominal_bayar_tidak_sesuai_select_inv_cancel_cc",
+  "auto": true,
+  "contexts": [
+    "Payment_nominal_bayar_tidak_sesuai_select_inv_cancel_sudah_bayar-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckRefundListExist",
+      "affectedContexts": [
+        {
+          "name": "Payment_nominal_bayar_tidak_sesuai_select_inv_cancel_cc-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531644709,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "cc"
+    }
+  ]
+}

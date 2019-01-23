@@ -1,0 +1,48 @@
+{
+  "id": "a87ef515-8914-43dc-9336-5cb6e38e43a5",
+  "parentId": "bc8f4622-0f27-4009-a4cd-f030fe0388ae",
+  "rootParentId": "bc8f4622-0f27-4009-a4cd-f030fe0388ae",
+  "name": "FAQ_Payment_cara_bayar_ovo_points",
+  "auto": true,
+  "contexts": [
+    "FAQ_Payment_cara_bayar-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Payment_cara_bayar_ovo_points-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Saat pembayaran di Tokopedia, OVO Points akan otomatis terkonversi menjadi OVO Cash, sehingga sistem akan melakukan penarikan OVO Points terlebih dahulu."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Namun, OVO Points tidak dapat digunakan untuk pembayaran tagihan kartu kredit dan tiket, ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538966691,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "ovo_points"
+    }
+  ]
+}

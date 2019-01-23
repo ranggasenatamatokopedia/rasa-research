@@ -1,0 +1,35 @@
+[
+  {
+    "id": "b3291098-33fd-44d8-b7f4-b8c88a3863ea",
+    "data": [
+      {
+        "text": "rejected",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e6e209f1-95c1-419b-950d-8e5184a3b939",
+    "data": [
+      {
+        "text": "invoice_reject",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1f150cd2-2612-45cc-8f56-ea778cfaa148",
+    "data": [
+      {
+        "text": "reject",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

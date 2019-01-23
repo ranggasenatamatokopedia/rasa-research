@@ -1,0 +1,43 @@
+{
+  "id": "c065d7ef-661d-48e8-92a0-0182c0a9ff53",
+  "parentId": "fa9ac0e0-047a-4e29-bfc0-950c675620d3",
+  "rootParentId": "7f7a8cb1-cbe8-48a9-9930-7686b772cf99",
+  "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_scrooge_failed_tokocash_refund_exist",
+  "auto": false,
+  "contexts": [
+    "Flight_Kendala_Pembelian_Tiket_Pesawat_scrooge_failed_tokocash-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetRefundStatus",
+      "affectedContexts": [
+        {
+          "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_scrooge_failed_tokocash_refund_exist-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539170774,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "refund_list_is_not_null"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "5b1c5a80-de80-4775-ad81-7e9b1d05a788",
+  "parentId": "a53a4f37-aa1f-4ef9-a259-e57786a70a3f",
+  "rootParentId": "99a48618-b9ce-4053-a781-474e5404f8ad",
+  "name": "Refund_Penarikan_dana_belum_masuk_else_bank",
+  "auto": true,
+  "contexts": [
+    "Refund_Penarikan_dana_belum_masuk_rekening_status_unhold-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetCalculateDeltaWithdrawalTimeWorkingDays",
+      "affectedContexts": [
+        {
+          "name": "Refund_Penarikan_dana_belum_masuk_else_bank-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513040943,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "bank_sla_2_days"
+    }
+  ]
+}

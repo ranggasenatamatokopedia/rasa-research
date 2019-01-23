@@ -1,0 +1,62 @@
+[
+  {
+    "id": "98cbc0e2-ae6d-451d-a19c-6dbaa17317a8",
+    "data": [
+      {
+        "text": "invoice_melakukan_pencarian_driver_harap_menunggu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "06061aa3-8520-4468-bb92-1ed1daa22f21",
+    "data": [
+      {
+        "text": "invoice_sedang_dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "369c2ba1-721c-4dd3-a249-9600590d0206",
+    "data": [
+      {
+        "text": "invoice_menunggu_",
+        "userDefined": false
+      },
+      {
+        "text": "pick_up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e77d2747-5628-4e51-b85d-0c3ddf06e56d",
+    "data": [
+      {
+        "text": "shipping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "56c6795f-cb43-4a42-9176-01cc338002d1",
+    "data": [
+      {
+        "text": "invoice_order_berkendala_pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

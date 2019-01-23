@@ -1,0 +1,2379 @@
+[
+  {
+    "id": "1203eff5-53d3-40f7-9c06-c1b7310483f9",
+    "data": [
+      {
+        "text": "pesanan sudah diteruskan ke ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", gimana cara ubah alamatnya ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "48f994f0-976f-4383-82c5-b3d944da346b",
+    "data": [
+      {
+        "text": "Saya ingin mengganti alamat pengiriman apakah bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "08f176df-3b87-4505-9eb9-e19577e6460a",
+    "data": [
+      {
+        "text": "saya mau ganti Alamat bisa? masih dalam ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kota kok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "98d1bdfa-9c8c-4941-8f0c-72af00aafe02",
+    "data": [
+      {
+        "text": "saya sudah terlanjur pesan tapi ada alamat yang salah, gimana cara ubah alamat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cdd9889c-177d-4c4e-a7c8-7ba313a5daef",
+    "data": [
+      {
+        "text": "saya mau ganti alamat yang tercantum di invoice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ebee8d96-bcfe-411b-8605-82f00a5567b7",
+    "data": [
+      {
+        "text": "tolong bantu ubah alamat pengiriman yang tercantum di invoice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b3ca9152-d72a-4e3f-bd90-ac1ff206637a",
+    "data": [
+      {
+        "text": "Gimana cara ganti alamat? Saya order barang tapi saya lupa ganti alamat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "04917c06-af07-49e0-afa7-706b0a085f10",
+    "data": [
+      {
+        "text": "salah masuk kan alamat ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "43193e75-ca9e-4d18-8394-c97b20a34a14",
+    "data": [
+      {
+        "text": "Saya mau merubah alamat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8a9f88d7-bdc7-475f-85c5-3d7d0a4aa14a",
+    "data": [
+      {
+        "text": "Saya  sdah terlanjur bayar pesanan saya tetapi ternyata saya belum rubah alamat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9953db44-6973-4ea5-bbd5-798e7b3077d9",
+    "data": [
+      {
+        "text": "saya sudah terlanjur beli.. tapi lupa merubah alamat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "40d419e0-cf06-4202-9b85-6a9eeccd2007",
+    "data": [
+      {
+        "text": "Alamat salah. Tapi sdh bayar, mau ganti alamat pengiriman bgmn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "62ec8b5c-b90b-4390-865d-a8a8e450f32f",
+    "data": [
+      {
+        "text": "Saya ingin mengubah alamat pengiriman untuk pembelian ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f3f492e1-2743-4571-9fca-c43afda7142d",
+    "data": [
+      {
+        "text": "salah memasukan alamat ingin merubah alamat penerima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e46ac004-795d-4698-ab3a-aeb9191b3bb3",
+    "data": [
+      {
+        "text": "ada kesalahan input alamat, harusnya alamat kantor bukan alamat rumah. bisakah diubah alamatnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1ca541a6-a6f0-4f6c-924b-7448393b0354",
+    "data": [
+      {
+        "text": "bagaimana cara ganti alamat di invoice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d4beb4a5-ef7f-4b04-80d5-1d3d36c71c0e",
+    "data": [
+      {
+        "text": "bisa bantu saya ganti alamat yang tercetak di invoice pesanan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d537ba1a-cbfd-41fe-820c-deecadfcb097",
+    "data": [
+      {
+        "text": "saya salah cantumkan nomor rumah pas waktu beli, apakah bisa diganti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6474bb4a-5ba1-4b1a-90f4-f1d5070fd814",
+    "data": [
+      {
+        "text": "salah masukan alamat tujuan, apa masih bisa ganti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "25ebd580-8455-4fab-8991-9f587d3ea948",
+    "data": [
+      {
+        "text": "saya mau update alamat yang ada di invoice karena salah, apakah masih bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "146be1f7-883e-420d-a4cc-2d729760362c",
+    "data": [
+      {
+        "text": "Mau ubah alamat, alamat yg tertera sudah tidak di tinggalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3471226d-fbcb-40f4-8e7d-399f46bd09b7",
+    "data": [
+      {
+        "text": "Sy ada kendala perihal salah pilih alamat pengiriman, apakah bisa dirubah ke alamat yg lain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0af28eff-21e9-42bc-92f5-d617b69eba18",
+    "data": [
+      {
+        "text": "ubah alamat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1cb910fd-0e2e-4809-8116-db2d2a28238c",
+    "data": [
+      {
+        "text": "Pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " barang. Toko sdh saya rubah tp lokasi pick nya tapi kok lokasi pic nya masih yg sama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a21cdfb7-6e5c-44e3-b24e-44325ef66722",
+    "data": [
+      {
+        "text": "pengiriman by ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", toko saya beralamatkan di bandengan tapi ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " team tokopedianya pesan ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di apotik roxy bisa tolong di bantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ddc74326-4066-4eea-815f-83b4e4b8664f",
+    "data": [
+      {
+        "text": "Pengirim an barang Salah Alamat, harus nya sumater utara, tapi dikirim kejakarta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "61eaa47e-7942-4c14-b65b-c2e8ab5b30da",
+    "data": [
+      {
+        "text": "Ganti alamat ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". ",
+        "userDefined": false
+      },
+      {
+        "text": "Abang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nya datang ke alamat lama. Sementara barangnya tidak disitu.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f0feed44-8773-4a66-984c-69c652577a72",
+    "data": [
+      {
+        "text": "Transaksi ini bagaimana cara cancel pengiriman ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " yg sdh di proses? Krn lokasi ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " berbeda, alamat salah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3e012f8a-700d-42a4-ade5-777751ba8492",
+    "data": [
+      {
+        "text": "Lokasi ",
+        "userDefined": false
+      },
+      {
+        "text": "Pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " barang di sunter, tetapi di para driver ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " berbeda ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sistem yang ada di saya alamat ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " yang benar di sunter jakarta utara",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cfc9939b-56d2-46b2-9c39-b11d9ee697f1",
+    "data": [
+      {
+        "text": "jadi saya lupa ngerubah alamat pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "af585818-405a-4ce0-a4d1-5749118ff55e",
+    "data": [
+      {
+        "text": "driver komplain alamat ga sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1acdc2c6-c21a-453c-9389-62906dd4476b",
+    "data": [
+      {
+        "text": "kami ada transaksi penjualan yg telah diproses, tapi ternyata ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak memasukan alamat dg benar.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0dc87c4f-4716-4be6-b2cd-757d2428b475",
+    "data": [
+      {
+        "text": "salah alamat tujuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "49ef5234-9963-4c72-9fa6-0456c293adad",
+    "data": [
+      {
+        "text": "saya salah mengisi alamat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e9063c3e-0cf3-4fc6-97b3-0a5839d3a280",
+    "data": [
+      {
+        "text": "Salah memasukkan alamat tujuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "75037d9c-8da3-42e1-8ad1-102cac6c4b1b",
+    "data": [
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " salah memasukkan alamat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3e80d44c-8ce6-4c19-8e1e-ba73dc8281b6",
+    "data": [
+      {
+        "text": "saya salah masukkan pin point",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "121b79d1-6b95-4312-bf4a-97186d5b3164",
+    "data": [
+      {
+        "text": "pin point salah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9ec2e510-62ac-4c31-b82f-b8dd216c1f52",
+    "data": [
+      {
+        "text": "Saya salah memasukkan alamat tujuan pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7183db88-7328-49a8-ab85-2bc1ddafe046",
+    "data": [
+      {
+        "text": "saya salah memasukkan alamat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7de9e52f-8935-499a-a319-dcaf7ace1f53",
+    "data": [
+      {
+        "text": "saya mau mengganti alamat kirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f3b1f65f-2322-42ba-bc71-787947f9faba",
+    "data": [
+      {
+        "text": "Salah memasukkan alamat pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cb7dd9d8-de49-4b4e-87c2-9446a458d347",
+    "data": [
+      {
+        "text": "Ini saya masukkin alamatnya salah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "26633f66-e101-4840-b48e-74dee042146e",
+    "data": [
+      {
+        "text": "saya mencantumkan alamat yang salah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ede5a3f7-a241-4715-a9ef-4cbe49958865",
+    "data": [
+      {
+        "text": "Saya salah pilih alamat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fe3b621e-c98a-4f8e-a3c8-dfc46eaa1ddf",
+    "data": [
+      {
+        "text": "Apa bisa saya rubah alamat pengiriman ke alamat kantor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "36ecedca-27f5-4de2-811e-3a087085c229",
+    "data": [
+      {
+        "text": "salah alamat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "421cbddb-fee5-4162-a2c6-35e4655d78ef",
+    "data": [
+      {
+        "text": "saya ada kesalahan pengiriman alamat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f362b589-5f3d-4181-b786-08d9ed7fd36c",
+    "data": [
+      {
+        "text": "Alamat pengiriman salah, Apakah bisa diubah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "246aaafe-1afb-4882-ae17-9c970e8e6120",
+    "data": [
+      {
+        "text": "Saya ingin mengajukan pembatalan karena salah memasukan alamat tujuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "65ac4552-167f-4ec1-86e7-7d368e121551",
+    "data": [
+      {
+        "text": "saya salah memasukan alamat tujuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6582d23b-76fa-4dac-8949-5e51f6b4dc56",
+    "data": [
+      {
+        "text": "customer salah memasukkan alamat tujuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8f0dc5a0-d4fc-4d62-a998-8eb542243361",
+    "data": [
+      {
+        "text": "Mohon solusi dalam hal ini salah alamat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e677da03-fde9-45b0-9851-65d3cb3c89a3",
+    "data": [
+      {
+        "text": "alamatnya saya rubah bisa? mohon bantuan nya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d4c7fd44-eec6-4dcb-8af6-5daafd349314",
+    "data": [
+      {
+        "text": "Saya salah pilih alamat.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fd1cfba4-f888-4044-9f51-20956a0552cd",
+    "data": [
+      {
+        "text": "Maaf sAya salah kirim alamat untuk pengiriman barang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fc951f7d-14ab-4533-bceb-35099f6f152d",
+    "data": [
+      {
+        "text": "Salah untuk alamatnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "829dba23-b9fe-4eb3-a30f-1c05c402056d",
+    "data": [
+      {
+        "text": "salah memasukan alamt ,solusinya gimana kak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1b315b4e-2389-404b-b4c1-fa2aef9c87f5",
+    "data": [
+      {
+        "text": "Alamat penerima barang salah, tolong bantu untuk diubah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d5e7423a-b8cc-4829-88e8-86e2802a34f2",
+    "data": [
+      {
+        "text": "alamat saya salah masukin ,, gmana ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cfc657e5-be23-4b2c-9b7a-e62f09c23548",
+    "data": [
+      {
+        "text": "salah pin point",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c9af38e8-6740-4c7f-9c52-611764e7e904",
+    "data": [
+      {
+        "text": "Alamat kirimnya salah Pak, apa bisa diganti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a6fda262-f760-4ee7-a19c-60850e80b35b",
+    "data": [
+      {
+        "text": "salah alamat, apakah bsa dignti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e4f4ac5a-0ed4-4a44-8597-22035ac8a64f",
+    "data": [
+      {
+        "text": "Terjadi kesalahan titik pada google map",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bcc6c4e2-45dc-4fd1-950c-2a47ad4f982f",
+    "data": [
+      {
+        "text": "saya slah memasukan alamt pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "64f2cb73-823b-48b8-a751-abec6bd8ba15",
+    "data": [
+      {
+        "text": "tolong banget saya salah alamat saya salah pilih salah alamat , tolong saya mau ganti alamat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f1f0793f-6d15-4963-83fd-d972c74a6ffb",
+    "data": [
+      {
+        "text": "Pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " melakukan kesalahan dalam menginput alamat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "83f2081b-6868-4e38-ab87-6bb96d65fce3",
+    "data": [
+      {
+        "text": "Saya mau minta ganti alamat pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "67131ec3-47ee-4e06-8aa3-a108291ff2b8",
+    "data": [
+      {
+        "text": "Alamat penerima barang salah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "125f84d0-55f6-4609-80fd-c71e4b13139e",
+    "data": [
+      {
+        "text": "alamat ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sy ada kesalahan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0ecf6fe0-07d4-43d5-a231-c24cb645f88b",
+    "data": [
+      {
+        "text": "alamat salah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "97fda2cb-f6da-4331-8ea6-e15efab4be63",
+    "data": [
+      {
+        "text": "Salah Alamat Tujuan, Mw Ganti Alamat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "afacf3c0-454e-4531-92f0-42951fb8b00c",
+    "data": [
+      {
+        "text": "Saya tdk mau kirim ke rumah tp ke kantor. Krn dirumah tdk ada orang yg menerima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a31a4118-3596-487a-bb91-8e4db17a7c00",
+    "data": [
+      {
+        "text": "mau tanya kalo ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " minta ganti alamat pengiriman apakah tidak masalah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4e549493-2905-423a-98cc-6688496e54bc",
+    "data": [
+      {
+        "text": "Saya ingin membatalkan pemesanan karena salah mencantumkan alamat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "636dd81f-2582-43a7-bbf1-07525f6e18b9",
+    "data": [
+      {
+        "text": "Mohon untuk dapat membantu mengganti alamat pick up pada transaksi ini ke alamat baru yang sudah di ubah di “pengiriman”",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c083b8b1-64cb-4f9f-9d67-aad29e63cff8",
+    "data": [
+      {
+        "text": "Halo ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " boleh minta tolong? Saya cantumkan alamat pickup di wisma kodel kuningan, sudah beserta gps location nya. Tp kenapa pickupnya tetap di alamat saya sblmnya ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bd7e7112-5e0c-4a93-b58c-7460c2e60d75",
+    "data": [
+      {
+        "text": "Lokasi pickup toko saya di Chrysocolla (Gading Serpong), sedangkan menurut Informasi dari driver ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", titik pickup di mangga ",
+        "userDefined": false
+      },
+      {
+        "text": "dua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fafc67af-95fc-452a-8b22-4fd704d288de",
+    "data": [
+      {
+        "text": "Dear cs. Bisa tolong pinpoint akun saya koq gak kerubah ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e7e0e536-1095-4210-9baa-bcf7b7f4f92c",
+    "data": [
+      {
+        "text": "mohon bantuannya untuk pick up barang di :  Showroom VW Kemayoran, Jl. Angkasa No. ",
+        "userDefined": false
+      },
+      {
+        "text": "18",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Gunung Sahari Selatan, Jakarta Pusat...agar buyer bisa segera menerima ",
+        "userDefined": false
+      },
+      {
+        "text": "hari ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5a848120-1927-4a51-9547-758c8745f153",
+    "data": [
+      {
+        "text": "Saya sudah ganti alamat pickupnya tapi kenapa driver terus datang di alamat saya yang lama ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0d068c44-b3e3-4917-be82-ed98c247ff75",
+    "data": [
+      {
+        "text": "salah pin point, harusnya Jakarta utara. mohon di batalkan aja kita kirim via ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " atau bisa ubah pin point kah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "072c5dcb-0d04-4e26-a2fc-4950cebeeb98",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya sudah ubah alamat pickup ke alamat baru, tapi tim ekspedisi kenapa tetap menjemput ke alamat saya yg lama ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "319aee88-5543-45c3-b538-bc0d0af75182",
+    "data": [
+      {
+        "text": "sy mau tanya kalau alamat pickup sy ada kesalahan namun sudah terlanjur pencet pickup point apa bisa dibatalkan?thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fa567572-f5a3-4063-a5a8-1dce23e94b7e",
+    "data": [
+      {
+        "text": "Ada perbedaan antara pin point dengan lokasi pickup seller",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "88993a49-cfe0-4f1f-b90f-cf8aa55115cd",
+    "data": [
+      {
+        "text": "Dear Admin, mohon segera dibantu karena kurir selalu mendapatkan info pickup pada area Kebon Jeruk. Sementara pickup seharusnya di area Gunung Putri, Cibubur. Terima kasih.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9884b94b-9540-420a-8655-bd17622ae159",
+    "data": [
+      {
+        "text": "Saya memiliki order penjualan menggunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "Gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Tetapi gudang saya sementara ini tutup (keluar kota) dan saya menggantikan alamat baru ( gudang cabang ) untuk melanjutkan transaksi penjualan ini.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "07675d25-be9e-4ada-bda3-dd8bf04724ed",
+    "data": [
+      {
+        "text": "Ini pick point pasundan sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "3x",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " salah pick point nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6dbdc51b-5a71-4392-b002-895b7b67b786",
+    "data": [
+      {
+        "text": "tolong di bantu tunda pick up nya di ",
+        "userDefined": false
+      },
+      {
+        "text": "esok",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari pukul ",
+        "userDefined": false
+      },
+      {
+        "text": "8",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pagi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ya, karena lokasi pickup saya masih dirumah,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ad90822b-e152-421f-8e78-bd82c379288d",
+    "data": [
+      {
+        "text": "pinpoint di peta tokoped saya menunjukkan jln Thamrin no ",
+        "userDefined": false
+      },
+      {
+        "text": "194",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", medan. akan tetapi, pinpoint yg diberikan ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ke drivernya menunjukkan jalan pancing. orgnya tidak mao datang utk pick up. mohon bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a9e0d792-959d-4907-8a45-872dd18e8ddc",
+    "data": [
+      {
+        "text": "Saya ada ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " orderan ",
+        "userDefined": false
+      },
+      {
+        "text": "Go-Send",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", sepertinya alamat pickupnya gak update, mohon di bantu batalkan dan pickup ulang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f95cedb8-4447-40e3-b37d-ac5dde159652",
+    "data": [
+      {
+        "text": "pengiriman kurir grab salah antar paket kermh lain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "af42148a-b0ba-441e-9277-ccb7ac495812",
+    "data": [
+      {
+        "text": "kami ada transaksi penjualan yg telah diproses, tapi ternyata pembeli tidak memasukan alamat dg benar.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1316687f-4348-4e93-9c43-79b457cdd954",
+    "data": [
+      {
+        "text": "mau tanya Invoice saya knp ketika d track nama penjua dan pembeli tdk sesuai y? Alamat saya d kemang bogor, tp saat d track alamat pembeli d Pekanbaru,, mohon bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2a1ece01-e28f-4f47-807c-3d1c13016663",
+    "data": [
+      {
+        "text": "saya ada jual barang dr Bali ke Ciputat kenapa ongkir yang di kenakan ke pembeli ongkir dr Jakarta ke Ciputat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4e2f169d-6ed2-41bc-96d1-645b7bf6ddf2",
+    "data": [
+      {
+        "text": "salah alamat pick up gosend, lupa saya ganti, tlg gantiin dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "911858d2-e51f-4597-aa86-52e9c6b1e0bd",
+    "data": [
+      {
+        "text": "dear admin, saya mau ganti alamat pengiriman dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a4d1d58d-12a3-4b07-bb29-ed72d2a0eee0",
+    "data": [
+      {
+        "text": "setiap saya aktifkan saat mau menyimpan ada tulisan (alamat tidak sesuai dengan lokasi yg di tandai dlm peta) padahal sudah sesuai.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2e59db13-21a5-4697-83d5-5a519447c165",
+    "data": [
+      {
+        "text": "kami dihubungi pihak Wahana jika alamat tujuannya salah,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1c147b33-d7f3-4243-95e3-dc46928892f3",
+    "data": [
+      {
+        "text": "jdi alamat tidak lengkap",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e28284af-1ec8-45a3-967b-b1780204ac54",
+    "data": [
+      {
+        "text": "malam bos sya mau merubah alamat kirim dan penerima  invoice ini gimana ya????",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "55dac9de-6a9d-48a4-8faa-d839a8c27b2a",
+    "data": [
+      {
+        "text": "kenapa alamat di ketahui dan tidak lengkap saya sudah menghubungi pihak pembeli menyertakan alamat lengkap tapi alamat yang dikirim tetap sama tapi saya lacak alamat tidak lengkap",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a537c76e-b5c1-4f1f-bc3e-7d3a9fd09d5e",
+    "data": [
+      {
+        "text": "saya sudah merubah settingan alamat pengiriman , tapi kenapa pada saat saya request pickup masih di jemput di alamat yang sebelumnya ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c95931c2-114d-4858-aa17-5b7bd85fb29d",
+    "data": [
+      {
+        "text": "saya salah input alamat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2284ff95-f1bc-47cc-9f03-e3ba9a8bd947",
+    "data": [
+      {
+        "text": "Pengiriman sudah dilakukan tetapi alamat tidak ditemukan dan pembeli tidak bisa dihubungi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "816382d2-50dd-4fd6-bfbe-e13de80979ff",
+    "data": [
+      {
+        "text": "ingin di batalkan karna saya salah masukan alamat tujuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5446af1e-d46f-4329-bc40-737017a15f54",
+    "data": [
+      {
+        "text": "pembeli saya minta pindah alamat kirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "617065a1-8ac8-4df7-a1f2-e6d27c111b30",
+    "data": [
+      {
+        "text": "pinpoint",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a45467da-f58c-4de4-bf0b-ff8ac455f213",
+    "data": [
+      {
+        "text": "saya ganti alamat  toko tidak bisa   hari ini ada tamu pesan gosend  tidak jadi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0e47064e-3a47-4b99-93d2-7ed605dc3096",
+    "data": [
+      {
+        "text": "Saya mau membatalkan pesanan customer saya karna kesalahan barang dan alamat customer tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "76528cae-d3d6-4b35-b79e-57083a20ecb0",
+    "data": [
+      {
+        "text": "sampai tujuan tapi salah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e6d27d4f-8852-4b6f-8a63-46443c07773d",
+    "data": [
+      {
+        "text": "orderan tidak bisa saya kirim karena perubahan alamat yg saya lakukan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3c885794-990e-4172-9219-96dd834ad08c",
+    "data": [
+      {
+        "text": "saya order dengan grab, namun sampai jam segiini statusnya blm dikirim. apakah bisa dirubah alamat pengirimannya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "40e2d87a-14f9-405f-8cbc-fff942a1da41",
+    "data": [
+      {
+        "text": "saya order jam tanngan...sudah trasnfer tp saya salah masukin alamat penerimac, ara ganti nya gmn??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d1e05aa6-f57c-4ca1-9650-6ffff1a243a0",
+    "data": [
+      {
+        "text": "saya mau membatalkan pembeluan krn salah alamat pengiriman, caranya bgmn ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8ca61499-1ce8-49be-b160-0369599d805c",
+    "data": [
+      {
+        "text": "bagaimana merubah alamt pengiriman?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4730d1ce-4228-4ed0-9068-97a23f8313d3",
+    "data": [
+      {
+        "text": "ingin mengganti alamat pickup, tolong bantu saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ba72a375-3765-493b-964b-374bfefd0294",
+    "data": [
+      {
+        "text": "mohon transaksi ini dibatalkan karena pembeli salah alamat.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6497196d-f4a2-4ccc-b7cc-0da2f192f92f",
+    "data": [
+      {
+        "text": "mohon di batalkan untuk no invoice INV/20181113/XVIII/XI/230784374 karena pembeli akan order ulang sesuai dengan lokasi toko saat ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "758e5103-8c27-4294-84bd-98a113669b73",
+    "data": [
+      {
+        "text": "saya pesan barang di bekasi tetapi alamat tujuan harusnya saya alamatkan jakarta tapi saya salah pilih alamat rumah di surabaya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f82a54f4-cba9-4362-b2a2-d41597775b9f",
+    "data": [
+      {
+        "text": "tlg cancel ordern saya karena saya salah klik alamat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "af8638ba-88ce-4b44-b004-dda090752a82",
+    "data": [
+      {
+        "text": "saya ingin batalin transaksi karena salah alamat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c6466627-b950-4bc3-8754-82fd98f00744",
+    "data": [
+      {
+        "text": "alamat pengiriman saya tolong diubah dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "aac1ba78-ebf0-438d-b580-cd63cc6da1ae",
+    "data": [
+      {
+        "text": "saya salah masukin alamat kak.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "714d454d-4ca6-44b5-9588-d78f81f41c9c",
+    "data": [
+      {
+        "text": "mau ganti alamat pengiriman bs gk ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "81cfffa2-63b1-4a68-bcdf-9d0bf0c32c37",
+    "data": [
+      {
+        "text": "saya salah mencantumkan alamat pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1b5468e4-d173-4538-8325-f3c78e238515",
+    "data": [
+      {
+        "text": "saya salah tulis alamat pengiriman apakah bisa di batalkan??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "457503ff-56ab-41ab-b542-e1591b36ac72",
+    "data": [
+      {
+        "text": "saya mengalami kesalahan alamat pick up point,sy sdh hub layanan toped tp belum selesai Dan kurir gosend dikirim pick up Terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "44723e88-c87e-4e7f-b5f5-199cdb63d4c9",
+    "data": [
+      {
+        "text": "karna alamat tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5e08eed5-5fb8-4094-82b2-ce0a6d34e656",
+    "data": [
+      {
+        "text": "perubahan alamat toko saat pesanan sudah diproses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c7c795fe-b8c5-433c-9a73-6137143f2ad3",
+    "data": [
+      {
+        "text": "salah menginformasikan alamat pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e5f4db45-5d9e-4758-91db-bd73a78ffb48",
+    "data": [
+      {
+        "text": "salah alamat, tolong bantu buat rubah dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "33f02a9d-23a3-49db-8ea0-fd29e6b2f30e",
+    "data": [
+      {
+        "text": "Dan alamat yg saya beri alamat hotel. Mlm ini sy hrs pulang. Bisa kah ganti alamat/pembatalan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c245afcb-65d4-4742-9ad9-6a35dd973b61",
+    "data": [
+      {
+        "text": "Pembeli ingin mengganti alamat pengiriman karena di alamat yg sebelumnya tidak ada org yang menerima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6ba78e12-f6f4-4639-a804-0875c31053c2",
+    "data": [
+      {
+        "text": "saya salah kirim alamat karena setingan almat barusaya harap bisa di cancel dan order ulang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c8b8e788-0ac1-4e27-821e-f2d7e836bbc8",
+    "data": [
+      {
+        "text": "Sudah kita pick up namun pembeli salah alamat,minta ganti alamat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6ecd19dd-4e24-4d8e-a934-272684e541f6",
+    "data": [
+      {
+        "text": "Kenapa alamat toko saya di aplikasi grab itu beda dengan alamat saya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "95fff74a-06eb-47f9-bdb1-d81da612a6ed",
+    "data": [
+      {
+        "text": "Saya kemarin order barang dengan invoice ini  INV/20181022/XVIII/X/220691169 tetapi ternyata Alamat pengiriman salah, apa yang harus saya lalukan ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4bc8e3cd-204c-409d-8538-ed15ada2dbf9",
+    "data": [
+      {
+        "text": "penjual tidak segera merefund uang, dan tidak membatalkan pesanan, malah dikirimkan ke orang lain dan ke kota lain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "94600f7b-073a-4f3c-b3c5-8a0a203eb2c6",
+    "data": [
+      {
+        "text": "barang pesanan saya salah kirim alamat oleh penjual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2b93ee19-e6d4-4f69-bdea-fe8c3d6c3597",
+    "data": [
+      {
+        "text": "saya belanja di toped tp salah alamat pengirimannya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1164184c-591a-43a2-8ac2-fecdb89f1f70",
+    "data": [
+      {
+        "text": "saya melakukan pembelanjaan tapi sy slh alamt. kalau misalnya mau merubah alamat gimanna ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7932e6c2-a5b9-4b76-b556-9a377559b60e",
+    "data": [
+      {
+        "text": "Saya pihak seller ada merubah posisi pengambilan grab dan lupa mengupdate kembali posisi pengambilan ke semula",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8e424379-1551-4222-8f34-0fabd2928d7f",
+    "data": [
+      {
+        "text": "bgmn cara mengubah alamat pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "261c701e-5411-4164-ba25-a901c8fb4ed3",
+    "data": [
+      {
+        "text": "saya pesan barang untuk dikirim ke rumah di bogor, tapi lihat resi kok dikirim ke palembamg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "34be3dd8-37c2-4c33-a491-29439d528ebb",
+    "data": [
+      {
+        "text": "keliatannya barang nyasar ke kota kediri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "19b9bd32-9020-4826-8f2e-ed0be7236ed3",
+    "data": [
+      {
+        "text": "halo mbak sy liat di fitur Lacak kok nyasar kekota kediri ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f1315c13-7708-4c0b-8958-56c401133b0f",
+    "data": [
+      {
+        "text": "orderan ini saya salah input alamat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0ab3a3e0-8e9f-4186-ba2f-dd19b2bd6e9f",
+    "data": [
+      {
+        "text": "Malam kak mau tanya bagaimana jika ad perubahan alamat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c079dbb6-0bc7-44ca-88ec-694fda7cd18f",
+    "data": [
+      {
+        "text": "invoice tsb tidak bisa saya lanjutkan proses pengirimannya, karna adanya perubahan alamat pickup.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e47e93f7-6cff-47f5-ad75-13ead223007b",
+    "data": [
+      {
+        "text": "customer ingin mengganti alamat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d809ec0f-72e7-4022-a3e0-bbac47cdd3bb",
+    "data": [
+      {
+        "text": "apakah orderan langsung bisa saya cancel tdk apa2 agar pembeli dpt merubah alamat, atau gmn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "089fca28-2c5f-4f6f-8d77-6b874d9e8815",
+    "data": [
+      {
+        "text": "Buyer minta paket dikirim pakai gosend sameday, tapi ternyata pick up point salah.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4e26d25c-6868-4851-9cd5-dccdd2ffb54e",
+    "data": [
+      {
+        "text": "barang pesanan saya belum diterima karena saya salah pilih alamat, tlg bantu dong admiiin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2f328359-7392-4587-9455-47594a1e43e7",
+    "data": [
+      {
+        "text": "Toko kenapa kirim ke alamat yg tdk sesuai alamat yg sudah saya cantumkan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8bae265c-5f8d-4c78-ab2c-b776ac1fdd0b",
+    "data": [
+      {
+        "text": "Barang terkirim di alamat yang tidak di tentukan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "76b9cfec-f178-4951-9903-7330b7e257af",
+    "data": [
+      {
+        "text": "Mau mecancel oderan bisa atau tidak karena saya salah alamat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "92ee7062-7233-4e0c-976d-053cbbe79dbe",
+    "data": [
+      {
+        "text": "Salah masukin alamat, apa bisa diubah,harusnya yg bawah.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1729133b-fe22-4241-afda-7272cadbc8c7",
+    "data": [
+      {
+        "text": "mau nanya kalau saya salah masukin alamat . apakah bisa minta ke penjual untuk kirim ke alamat yg saya mau",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2d90b4fe-d159-44ff-b83d-9896551b3fd2",
+    "data": [
+      {
+        "text": "Pembeli ingin mengganti alamat tujuan pengiriman, bgm caranya? ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a0a0ffdf-aa05-476c-8a1b-6a93d375bed3",
+    "data": [
+      {
+        "text": "Mau ganti alamat kirim apakah bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bb8f9ec7-220f-491e-95f2-fb606ff12716",
+    "data": [
+      {
+        "text": "Mau mengganti alamat pengiriman.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "42d447d8-ce06-4cd0-9443-c091ef3a5658",
+    "data": [
+      {
+        "text": "pembatalan pesanan karena kesalahan alamat kirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cdfce4ca-23d9-4d3d-a2fe-6ff8d0760cdd",
+    "data": [
+      {
+        "text": "transaksi sudah sy batalkan, krena alamay pwngiriman yg saya kasih, salah. tp sudah saya bayar.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "67421e17-3084-4269-ba76-e237a0570bd8",
+    "data": [
+      {
+        "text": "saya ada kendala pesanan blum diterima krn saya kliru ngeklik alamat yg lama pd saat order, saya lacak penerima pindah alamat tapi knp statusnya selesai ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7e6be62b-0b28-489b-be07-01ac6e8ffc51",
+    "data": [
+      {
+        "text": "Saya mau cancel orderan karena salah alamat dan sudah re-order lg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "23f7a0e2-7cf4-4f97-835a-044d435ed95c",
+    "data": [
+      {
+        "text": "kesalahan alamat kirim . iya betul saya sdh pindah dari alamat tersebut gimana cara merubah nya skrg saya tinggal di banjarmasin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9b14905f-01e3-4c70-8b73-4d880b711a36",
+    "data": [
+      {
+        "text": "kendala nya saya mau ganti alamat, tapi saya sudah mengajukan permohonan ke pihak penjual tanpa ada respon . apakah admin membantu saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6b02bfe6-1591-41c5-84ae-7870683c78de",
+    "data": [
+      {
+        "text": "Salah input alamat pengiriman bagaimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c0edfa12-5cef-4bd5-aab8-50ae86aa9976",
+    "data": [
+      {
+        "text": "kalau mau langsung diganti alamat bisa enggak yah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bc364539-5c9a-48d5-9983-bf292eb6d6bf",
+    "data": [
+      {
+        "text": "Saya salah memasukan alamat . Bisa diganti ngga ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "251e20ea-fcce-43fa-b391-4227a88d8c13",
+    "data": [
+      {
+        "text": "karena saya salah mencantumkan alamat..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7f8ea2b7-05bf-4efc-b081-ae6234fd7d07",
+    "data": [
+      {
+        "text": "malam saya mau tanya pembeli minta ganti alamat bisa ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3f14c48a-580b-4d69-baeb-5947afdbb2bc",
+    "data": [
+      {
+        "text": "jd sy salah kirim alamat... yg seharusnya dikirim ke alamat sy yg di indramayu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4b5f9807-2569-49e6-9397-abaa5b3246b8",
+    "data": [
+      {
+        "text": "mohon info kalau saya salah alamat gmn ? . dan sudah terbayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "af9841d7-962f-4bb1-ac8b-f2b444d7c04c",
+    "data": [
+      {
+        "text": "ingin membatalkan orderan, customer salah alamat .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f117c209-b07a-42a5-8a98-74a5cd8078c6",
+    "data": [
+      {
+        "text": "Saya mau cancel order, kirim pakai go send tapi salah alamat pengambilan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "38f0fdba-072e-4e7c-8fd8-5c71f76feb8e",
+    "data": [
+      {
+        "text": "Saya ingin mengubah alamat pengiriman dari yang semula menggunakan alamat kantor menjadi alamat rumah.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6a79afc2-b6bc-4255-b161-beef267271a9",
+    "data": [
+      {
+        "text": "saya salah memasukkan alamat apakah bisa dirubah/ diperbaiki ??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9f7da747-2d91-4256-81d8-c321edccbdec",
+    "data": [
+      {
+        "text": "saya sudah chat ke seller nya buat ganti alamat ke alamat yg benar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "35df482d-0c0e-4648-a49b-8206f07d6b78",
+    "data": [
+      {
+        "text": "saya salah meletakkan alamat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5b543e88-21c2-4bff-bddf-314e852eea63",
+    "data": [
+      {
+        "text": "Saya memesan barang dandang di toko maxim grosir dan sudah saya batalkan tetapi barang tersebut diantar ke tempat saya dengan jasa pengiriman yang berbeda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "115af017-a4e6-43d9-8031-612cfb766562",
+    "data": [
+      {
+        "text": "Saya sudah order dan pengiriman melalui gojek someday, namun saya salah mengisi alamat pengiriman ,apakah bisa di bantu perubahan pengirimannya keJl. Swadaya II no 19 Rt 008/001 kp tengah kramatjati jakarta timur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "42356b99-06ec-48d8-8ff4-d9c130d805af",
+    "data": [
+      {
+        "text": "Saya mau melakukan pembatalan pesanan, soalnya Salah set alamat pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7537d0f0-1705-4e13-a73b-6fe1be0c6dee",
+    "data": [
+      {
+        "text": "Saya sedang mengajukan pembatalan. Proses pembatalan berapa lama kah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c88ce6a8-eec5-4a8b-8365-e1b9af256883",
+    "data": [
+      {
+        "text": "apakah gak bisa dicensel tanpa menunggu batas waktu respon penjual?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "85ccdfb0-1c79-4010-b1a5-f6ec5056777e",
+    "data": [
+      {
+        "text": "Membatalkan pesenan di karnakan alamat yang di kirim salah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a63fb898-860a-4553-8231-d1453856119b",
+    "data": [
+      {
+        "text": "Bagaimana cara ganti alamat . Kalau sudah Di bayar, apakah transaksi bisa Di batalkan, penjual pun belum mengirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

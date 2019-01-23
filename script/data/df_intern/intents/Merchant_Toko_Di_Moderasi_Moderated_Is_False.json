@@ -1,0 +1,48 @@
+{
+  "id": "2ea0f6da-637c-4819-91ba-5f63c739c9a9",
+  "parentId": "39edd88e-68ab-4d00-a59e-5d17eacf6b1b",
+  "rootParentId": "7f287c44-496d-4df8-b6b5-0c29a68454fc",
+  "name": "Merchant_Toko_Di_Moderasi_Moderated_Is_False",
+  "auto": true,
+  "contexts": [
+    "Merchant_Toko_Di_Moderasi_Moderated-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Toko_Di_Moderasi_Moderated_Is_False-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped sudah coba cek dan tidak ada data pengajuan \"Mohon buka\" untuk toko kamu."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped akan bantu untuk pengajuan buka kembali toko kamu ya. Kamu bisa pilih nomor 1 atau 2.\n1. Saya sudah mengikuti Syarat \u0026 Ketentuan Tokopedia\n2. Saya sudah melakukan perbaikan toko"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536317208,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "is_false"
+    }
+  ]
+}

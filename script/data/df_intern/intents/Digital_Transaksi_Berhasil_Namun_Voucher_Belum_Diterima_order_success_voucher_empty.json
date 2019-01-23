@@ -1,0 +1,43 @@
+{
+  "id": "3e1183b2-57db-45e3-bcb5-22d595638578",
+  "parentId": "0be58de1-eb6d-4206-8eea-a838e4438666",
+  "rootParentId": "c68db85e-e0f8-466a-8e27-ac10cd165274",
+  "name": "Digital_Transaksi_Berhasil_Namun_Voucher_Belum_Diterima_order_success_voucher_empty",
+  "auto": false,
+  "contexts": [
+    "Digital_Transaksi_Berhasil_Namun_Voucher_Belum_Diterima_order_success-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Transaksi_Berhasil_Namun_Voucher_Belum_Diterima_order_success_voucher_empty-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Lihat juga informasi transaksi kamu secara lengkap di menu Daftar Transaksi Produk Digital. Senang bisa membantu kamu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534163753,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "voucher_code_empty_string"
+    }
+  ]
+}

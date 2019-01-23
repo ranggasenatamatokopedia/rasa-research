@@ -1,0 +1,42 @@
+{
+  "id": "dbac4477-32c9-4f96-8d54-8914cb9ce4e3",
+  "parentId": "2f477485-a0b7-4045-a629-2cec00598a02",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Transaksi_Berhasil_cashback_toko_merchant_info_transaction_finished_but_not_yet_24_hrs",
+  "auto": false,
+  "contexts": [
+    "Promo_Transaksi_Berhasil_cashback_toko_merchant_info_order_status-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai Kak, setelah di cek ternyata pesanannya saat ini belum 1x24 jam setelah status finished. Toped sarankan untuk menunggu terlebih dahulu ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Cashback akan diterima maksimal 1x24 jam setelah transaksi finished dan tidak melanggar Syarat Ketentuan."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522928362,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "transaction_finished_but_less_than_24_hour"
+    }
+  ]
+}

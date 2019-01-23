@@ -1,0 +1,103 @@
+{
+  "id": "bf3f3e68-2ece-4b1d-91b1-b0f2c9e2ef32",
+  "parentId": "4a9b5691-c302-4ec4-bf52-7d6748af0f0c",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_success_voucher_game_agen_others",
+  "auto": true,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_success_voucher_game-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_success_voucher_game_agen_others-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Status pembelian voucher game kamu telah berhasil ya. Kamu bisa mengikuti cara \u003ci\u003eredeem\u003c/i\u003e voucher game !TKPD_URL_VOUCHER_GAME!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546577251,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "operator_wavegame"
+    },
+    {
+      "name": "operator_lyto_gravindo"
+    },
+    {
+      "name": "operator_nintendo_eshop"
+    },
+    {
+      "name": "operator_steam_wallet_usd"
+    },
+    {
+      "name": "operator_garena"
+    },
+    {
+      "name": "operator_gemscool"
+    },
+    {
+      "name": "operator_kode_voucher_google_play"
+    },
+    {
+      "name": "operator_megaxus"
+    },
+    {
+      "name": "operator_ps_plus_membership"
+    },
+    {
+      "name": "operator_rf_online"
+    },
+    {
+      "name": "operator_psn_money_voucher_id"
+    },
+    {
+      "name": "operator_ragnarok"
+    },
+    {
+      "name": "operator_steam_wallet_idr"
+    },
+    {
+      "name": "operator_point_blank"
+    },
+    {
+      "name": "operator_mol_points"
+    },
+    {
+      "name": "operator_itunes"
+    },
+    {
+      "name": "operator_battlenet"
+    },
+    {
+      "name": "operator_unipin_voucher"
+    },
+    {
+      "name": "operator_playerunknowns_battlegrounds_pubg"
+    },
+    {
+      "name": "operator_mmog_asia"
+    },
+    {
+      "name": "operator_razer_pin"
+    }
+  ]
+}

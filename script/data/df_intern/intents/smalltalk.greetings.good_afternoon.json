@@ -1,0 +1,36 @@
+{
+  "id": "2929c973-909c-43a7-afb3-f7c37b5436c6",
+  "name": "smalltalk.greetings.good_afternoon",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.greetings.goodevening",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": [
+            "Selamat siang juga ya :)",
+            "Siang juga :)"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1517870528,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "smalltalk_greetings_good_afternoon"
+    }
+  ]
+}

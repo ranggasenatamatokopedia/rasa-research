@@ -1,0 +1,51 @@
+{
+  "id": "beebd227-6a8e-4611-8662-890173ec72d2",
+  "name": "FAQ_Flash_Sale_Apakah_Satu_Penjual_Boleh_Ikut_Lebih_Dari_Satu_Kali_Flash_Sale",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flash_Sale_Apakah_Satu_Penjual_Boleh_Ikut_Lebih_Dari_Satu_Kali_Flash_Sale-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b31026d9-a3c9-4398-bef7-3753c408ecb4",
+          "required": false,
+          "dataType": "@day",
+          "name": "day1",
+          "value": "$day1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Penjual bisa mengikuti Flash Sale lebih dari satu kali, sesuai dengan jumlah undangan yang diterima dari tim Tokopedia ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Yuk, daftarkan produk kamu untuk ikut Flash Sale dan dapatkan kesempatan untuk meningkatkan transaksi!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_flash_sale_apakah_satu_penjual_boleh_ikut_lebih_dari_satu_kali_flash_sale"
+    }
+  ]
+}

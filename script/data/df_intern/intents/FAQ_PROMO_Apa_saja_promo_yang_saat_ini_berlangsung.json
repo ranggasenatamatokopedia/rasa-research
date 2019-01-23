@@ -1,0 +1,31 @@
+{
+  "id": "3bf001c3-73f9-4ff8-a02e-046794e8e322",
+  "name": "FAQ_PROMO_Apa_saja_promo_yang_saat_ini_berlangsung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu mau tahu program promo apa saja yang sedang berlangsung? Yuk cek di !TKPD_URL_PROMO! Tokopedia.\r\n\r\nKamu bisa cari promo sesuai kebutuhan dengan pilih kategori promo yang tersedia."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_promo_apa_saja_promo_yang_saat_ini_berlangsung"
+    }
+  ]
+}

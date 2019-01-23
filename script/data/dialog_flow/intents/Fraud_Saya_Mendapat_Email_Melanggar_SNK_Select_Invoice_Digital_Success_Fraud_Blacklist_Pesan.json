@@ -1,0 +1,43 @@
+{
+  "id": "fb85931c-4a70-4b31-81ab-b8179ef8f9c3",
+  "parentId": "b68df018-2afc-4bf4-a0dc-a53e76a2591e",
+  "rootParentId": "2f8cbeef-ace2-4920-b98a-19f47da047c4",
+  "name": "Fraud_Saya_Mendapat_Email_Melanggar_SNK_Select_Invoice_Digital_Success_Fraud_Blacklist_Pesan",
+  "auto": false,
+  "contexts": [
+    "Fraud_Saya_Mendapat_Email_Melanggar_SNK_Select_Invoice_Digital_Success_Fraud_Blacklist-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Saya_Mendapat_Email_Melanggar_SNK_Select_Invoice_Digital_Success_Fraud_Blacklist_Pesan-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533804380,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "direct_support_message_page"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+[
+  {
+    "id": "346c2d75-812d-4b28-8f61-5f3088ac3232",
+    "data": [
+      {
+        "text": "saya salah memasukan kode pembayaran, pas cek ",
+        "userDefined": false
+      },
+      {
+        "text": "hari ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " status belum di bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6ff4d552-dd6d-470f-aa59-f3ad45e07448",
+    "data": [
+      {
+        "text": "saya salah memasukan kode pada saat pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a9704cce-b583-47bb-8f2d-b9d894188996",
+    "data": [
+      {
+        "text": "kasir salah memasukkan kode pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6ecd1590-1033-461f-aaac-b1bf8ca574c8",
+    "data": [
+      {
+        "text": "saya salah masukin kode pembayaran. gimana ya ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8e80ea84-e38c-499e-8353-18c4069bdcca",
+    "data": [
+      {
+        "text": " tadi saya melakukan pembayaran tetapi saya salah memasukkan kode pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "68a1664c-b1bb-4ee5-901c-722b0fc06cb3",
+    "data": [
+      {
+        "text": "hi, saya salah memasukkan kode pembayaran yang sama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "31c2a9c1-796f-44ad-a201-d5c2e2437676",
+    "data": [
+      {
+        "text": "saya salah memasukkan kode pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d35b84a2-2205-4cc0-b52b-8800a0276868",
+    "data": [
+      {
+        "text": "gimana ini saya salah sebut kode pembayaran waktu bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1e34e57e-d43c-4954-a718-3815ab42ee66",
+    "data": [
+      {
+        "text": "kayanya saya tadi salah masukkan kode pembayaran gerai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7e4703fb-c953-4356-b4e6-8533be9adc92",
+    "data": [
+      {
+        "text": "aduh saya salah kode pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b715d63a-bffc-4a26-b09d-77fe4fbcb7cd",
+    "data": [
+      {
+        "text": "kenapa angka nominal yg hrs di transfer berubah2??? ada 2 angka nominal yg muncul, sy jd salah transfer. dulu sy uda komplain ttg hal ini bbrp kali....",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f64ab965-7a14-4c7a-95d1-403c3b0bf945",
+    "data": [
+      {
+        "text": "pak maaf saya salah memasukan kode unik tokopedia.. solusinya bagaimana ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e7c79ee8-f6d8-4c16-9d73-cec1e2b50967",
+    "data": [
+      {
+        "text": "salah memasukkan kode pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

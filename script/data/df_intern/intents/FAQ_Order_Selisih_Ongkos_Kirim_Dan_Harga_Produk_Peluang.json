@@ -1,0 +1,36 @@
+{
+  "id": "90a68774-e9ac-4770-86d5-751c3006a00c",
+  "name": "FAQ_Order_Selisih_Ongkos_Kirim_Dan_Harga_Produk_Peluang",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Seluruh biaya dari pesanan yang dialihkan atau masuk fitur Peluang adalah fix."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Artinya, kamu tidak perlu menambahkan biaya yang mungkin muncul saat pesanan diambil alih oleh Penjual baru. Namun kalau terdapat selisih harga, kamu juga tidak bisa mengajukan pengembalian dana."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_order_selisih_ongkos_kirim_dan_harga_produk_peluang"
+    }
+  ]
+}

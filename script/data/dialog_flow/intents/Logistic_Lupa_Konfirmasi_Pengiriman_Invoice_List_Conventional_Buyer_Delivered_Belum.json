@@ -1,0 +1,44 @@
+{
+  "id": "491600cc-ea4d-46ac-8541-f58d06639910",
+  "parentId": "181a289a-9e78-4c65-a9b2-9310d6238109",
+  "rootParentId": "35e16175-3fd0-4749-bf64-4e1b94b883f1",
+  "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer_Delivered_Belum",
+  "auto": true,
+  "contexts": [
+    "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer_Delivered-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer_Delivered_Belum-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau pesanan belum diterima, kamu bisa ajukan komplain melalui halaman \"Konfirmasi Penerimaan\" dan klik tombol \"Komplain\" ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sebagai informasi jika sudah mengajukan komplain, maka dana Kakak aman bersama Toped. Jadi, jangan khawatir ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532433706,
+  "fallbackIntent": false,
+  "events": []
+}

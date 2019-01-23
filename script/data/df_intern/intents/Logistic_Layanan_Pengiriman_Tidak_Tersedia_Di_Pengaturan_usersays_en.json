@@ -1,0 +1,869 @@
+[
+  {
+    "id": "02569217-617d-433c-bf98-36d0cc823f11",
+    "data": [
+      {
+        "text": "alamat tujuan pengiriman tidak tersedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "24989a88-7624-4711-9963-de045a177319",
+    "data": [
+      {
+        "text": "kenapa pengiriman ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan ",
+        "userDefined": false
+      },
+      {
+        "text": "TIKI",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak tersedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "671768ba-e053-4f0f-94ff-04655b6a95a7",
+    "data": [
+      {
+        "text": "layanan pengiriman tdk bs dipilih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "33cee2a5-df06-4331-955d-fd0de86d2f34",
+    "data": [
+      {
+        "text": "ada tulisan failed saat pilih kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8a3b09ec-9a53-4219-b2ec-c63a1ac5c549",
+    "data": [
+      {
+        "text": "knp solo belom tersedia pengiriman via ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? padahal kan layanan sdh ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c4609293-d524-43c5-a0d0-086468f405e6",
+    "data": [
+      {
+        "text": "layanan pengiriman tidak muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a57dedf9-7942-4a83-99db-8ef23b022969",
+    "data": [
+      {
+        "text": "tidak bisa memilih layanan kirm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "768a1795-8b8e-4ba7-b8b8-8136b1fb247d",
+    "data": [
+      {
+        "text": "ongkir tidak terkalkulasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4c53a249-8acc-47e6-9428-6e784a1eb735",
+    "data": [
+      {
+        "text": "layanan pengiriman tidak tersedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "753611a9-cefc-47a0-9dae-c97cc5591842",
+    "data": [
+      {
+        "text": "tidak bisa pilih kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "44d24f71-2b4f-4f94-9f75-00cf7974d934",
+    "data": [
+      {
+        "text": "Saya coba check out transaksi tp saat menu pemilihan kurir menu tersebut tidak bisa di akses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d40203ec-3933-41c2-947a-2f45f25958ac",
+    "data": [
+      {
+        "text": "gak bisa muncul pilihan kurirnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4edd418b-71d3-492d-a658-d3282344864a",
+    "data": [
+      {
+        "text": "kenapa biaya kurir muncul nya besar sekali tidak seperti biasanya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ee280a69-02ae-4ab3-8685-8f63f131f602",
+    "data": [
+      {
+        "text": "pilihan ekspedisi kurir tidak tersedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a75b1126-4b16-46d8-91a2-13d6e19f3ba1",
+    "data": [
+      {
+        "text": "pilihan kurir tidak muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "05888725-89c7-4f58-8f66-ae6a0ff9c190",
+    "data": [
+      {
+        "text": "failed pilih kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f4c75082-138d-4b14-bcd7-98de35a2f626",
+    "data": [
+      {
+        "text": "pas saya check out dan mau pilih kurir, pilihan ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gak ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7ef5debc-9cfa-4e55-978b-ea76b2163f2b",
+    "data": [
+      {
+        "text": "tidak ada pilihan kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e2add4fc-36a7-4836-b005-bed938f56bb8",
+    "data": [
+      {
+        "text": "gagal mengambil data saat pilih kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c07e270f-17c8-41c7-9c60-c38217aa8c1a",
+    "data": [
+      {
+        "text": "layanan pengiriman tdk tersedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bf4b90ca-07cd-46bb-b61d-dcf2c400b078",
+    "data": [
+      {
+        "text": "error saat pilih kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9ff44c29-d1d8-4f22-a3c7-f57d9e5507b1",
+    "data": [
+      {
+        "text": "saat mau transaksi untuk menu pilihan kurirnya tidak bisa.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2
+  },
+  {
+    "id": "a54ea2b3-76e9-4f29-99ea-fe702f4230df",
+    "data": [
+      {
+        "text": "saya tidak bisa pilih kurirnya, selalu ada tulisan failed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5c37c9c8-cfa9-48f1-90aa-8f3caec7aaff",
+    "data": [
+      {
+        "text": "gak bisa pilih pengiriman, bilang gagal mengambil data.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "edd30f3b-83d3-49db-a87a-a138b6938e2a",
+    "data": [
+      {
+        "text": "jne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sudah tersedia di wilayah saya, tapi tidak muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cef77b82-475e-410b-a1c5-7cddaa0451b9",
+    "data": [
+      {
+        "text": "tidak bisa meng aktif kan ",
+        "userDefined": false
+      },
+      {
+        "text": "instan courier",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "84e6533c-98bb-42f3-bfa1-82703b5c061a",
+    "data": [
+      {
+        "text": "tidak bisa memilih kurir saat ingin membeli.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f38b14e5-4136-412b-be67-ba56d16ddc47",
+    "data": [
+      {
+        "text": "layanan pengiriman tidak tersedia di pengaturan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "308f2d0d-3894-4e69-99ba-e0fafd0d4286",
+    "data": [
+      {
+        "text": "untuk opsi pengiriman ",
+        "userDefined": false
+      },
+      {
+        "text": "jne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kok tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f0aef676-4923-4e14-8ee8-ab8bb5243bc2",
+    "data": [
+      {
+        "text": "saya mau pilih pengiriman lewat ",
+        "userDefined": false
+      },
+      {
+        "text": "wahana",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi kenapa tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "75867523-8510-4beb-a8ab-aaeba085fdac",
+    "data": [
+      {
+        "text": "di pengaturan tidak tersedia kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cd13ded1-0cba-4695-8a0d-e7c1583736a3",
+    "data": [
+      {
+        "text": "terjadi failed saat mau pilih kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "45842ff1-1554-4725-bf28-cc86567b177e",
+    "data": [
+      {
+        "text": "tidak bisa memilih pilihan kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b0fa10ab-f214-4d9b-96d0-398ef19abb40",
+    "data": [
+      {
+        "text": "kurir ga bisa dipilih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b0785a8b-d4a8-4b67-bac4-df0c0ef950fe",
+    "data": [
+      {
+        "text": "mau pilih kurir ternyata failed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5542c2f3-d589-404d-bb78-71f2fd21019d",
+    "data": [
+      {
+        "text": "Saya tidak bisa pilih kurir. Error.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c6ff845c-7249-47cc-a81a-61492be4e027",
+    "data": [
+      {
+        "text": "gagal mengambil data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ba649820-3156-416e-8a39-029b9de60385",
+    "data": [
+      {
+        "text": "layanan pengiriman tidak ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a15592db-7216-4df5-84a4-baa3f0bd1fdc",
+    "data": [
+      {
+        "text": "tidak tersedia pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "Ninja",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " padahal toko menyediakan ",
+        "userDefined": false
+      },
+      {
+        "text": "ninja",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "10d426e9-3084-4c70-84b7-22230c787085",
+    "data": [
+      {
+        "text": " di pengaturan tdk tersedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0094a313-cce0-4442-b825-db207c76e50b",
+    "data": [
+      {
+        "text": "Kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "TIKI",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ada dideket rumah min, tapi kenapa tidak tersedia ya di Tokopedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4011bdc1-3989-44c4-99d2-08d7c923ba87",
+    "data": [
+      {
+        "text": "Customer kami dari ",
+        "userDefined": false
+      },
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak bisa melakukan order, selalu gagal, karena tidak bisa kalkulasi ongkir nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a96316d2-53cc-4785-bb89-8c9cab3be38d",
+    "data": [
+      {
+        "text": "tidak bisa memilih pilihan kurir jadi tidak bisa bertransaksi, padahal alamat sudah lengkap.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "27a92d9e-35f3-473d-8293-e10de164f152",
+    "data": [
+      {
+        "text": "Saya tidak bisa memilih ",
+        "userDefined": false
+      },
+      {
+        "text": "SiCepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pada toko ",
+        "userDefined": false
+      },
+      {
+        "text": "Seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c5a62fc2-dbb4-48e0-a7ab-41b1e5032917",
+    "data": [
+      {
+        "text": "Kota asal pengiriman belum tersedia, Tidak bisa pilih kurir pengiriman \u0026 Tidak bisa kalkulasi ongkir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8a82dad7-3e0b-4ae2-8980-1d63ceb0a441",
+    "data": [
+      {
+        "text": "krn katanya pilihan ekspedisi kurir tidak tersedia.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aa8a1897-61e7-48b0-9d4d-db1a26b87fc8",
+    "data": [
+      {
+        "text": "kenapa ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ga bisa ya? padahal saya diwilayah bandung harusnya bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e365dcd6-0b02-44ac-a798-c5ac1a77df8c",
+    "data": [
+      {
+        "text": "Kok saya tidak bisa pilih kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "Wahana",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " padahal ada agennya deket rumah saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "95df7309-8099-49a6-ba90-fab14ac3e365",
+    "data": [
+      {
+        "text": "Problem: Kurir \"",
+        "userDefined": false
+      },
+      {
+        "text": "SiCepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "\" tidak muncul dalam pilihan pengiriman ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2f78e9b6-95cf-4d75-a5a4-d20b00944112",
+    "data": [
+      {
+        "text": "Kok saya mau beli barang, tapi ongkirnya tidak terkalkulasi ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "99493504-eb32-4b03-8124-0af22393afb0",
+    "data": [
+      {
+        "text": "layanan pengiriman tdk bs dipilih,tetap lanjut tapi ada message kurir hrs diisi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4bd24d01-4e54-44a7-b34c-e87325978b99",
+    "data": [
+      {
+        "text": "tidak bisa memilih kurir saat ingin membeli. jadinya gak bisa beli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cb9e8983-a003-4aff-9e44-f999f1306542",
+    "data": [
+      {
+        "text": "Informasi dari Tokped, ongkir saya tidak bisa dikalkulasi. Itu gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0094ac8e-4efb-4610-952d-fc14d99237ea",
+    "data": [
+      {
+        "text": "sy coba untuk lokasi kota lain tidak ada masalah hanya di Mataram saja, dan sdh coba dr perangkat lain dan kota lain juga tdk bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4b85c2db-65bc-4bbc-b133-af77e7768014",
+    "data": [
+      {
+        "text": "saya baru rubah alamat baru langsung ke alamat layanan jasa pengiriman JNT kenapa tdk bisa lagi tercantum jasa pengeriman\\",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8c8f10a5-235e-47ee-9ab1-201d231bcb34",
+    "data": [
+      {
+        "text": "Customer saya tidak bisa memilih kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "POS",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", padahal saya sudah menyediakan kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "POS",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5fbea22d-6c74-45a1-aff5-455c26ab6f1d",
+    "data": [
+      {
+        "text": "customer kami yang tidak bisa memilih expedisi yang toko kami sediakan (",
+        "userDefined": false
+      },
+      {
+        "text": "Sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "). transaksinya selalu gagal. Apa sedang ada masalah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "42d9b4ab-60dc-40c3-adc7-ad66b04727c8",
+    "data": [
+      {
+        "text": "customer saya di DUMAI RIAU jg mengatakan pilihan kurir tdk ada yg tampak,.,. (berhubung saya hny pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " utk ekspedisi)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c5cfddaa-2542-4cb0-8998-e336b046f0ff",
+    "data": [
+      {
+        "text": "tidak ada pilihan kurir, jadinya tidak bisa transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fdfd6b06-89dd-4615-a9e0-011e556a34ac",
+    "data": [
+      {
+        "text": "Setiap kali mau membeli muncul notifikasi ",
+        "userDefined": false
+      },
+      {
+        "text": "merah",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak terkalkulasi ongkir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5f26819b-c42f-405c-997e-1b10ee2e7990",
+    "data": [
+      {
+        "text": "Alamat Tidak Bisa Di Hitung Ongkirnya pake ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

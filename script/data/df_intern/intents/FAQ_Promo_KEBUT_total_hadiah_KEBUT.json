@@ -1,0 +1,27 @@
+{
+  "id": "a6c44365-7328-4767-9697-a21a4d35de54",
+  "name": "FAQ_Promo_KEBUT_total_hadiah_KEBUT",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Menangkan Rp500 juta dan beragam hadiah menarik lainnya dari promo KEBUT ini. Jangan sampai ketinggalan. Kamu bisa cek promo KEBUTnya  !TKPD_URL_KEBUT!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,64 @@
+{
+  "id": "5aecb0d2-59a6-41ca-ad5b-67e29b9d7c28",
+  "parentId": "81a0e974-12f4-46b7-afc3-48ec6cdbbad2",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_waiting_scheduler_check_out_not_in_range",
+  "auto": false,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_select_invoice_waiting_scheduler-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_waiting_scheduler_check_out_not_in_range-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "847bbe4d-7cd3-4239-ac5f-06c364d4bc51",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1234",
+          "isList": false
+        },
+        {
+          "id": "4b4a32e1-1f12-49cc-bae2-93642d37d122",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Digital_Kendala_Pembelian_Digital"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu sebentar ya, Toped akan bantu buatkan tiket untuk dicek lebih lanjut dan informasi selanjutnya akan dikirim lewat layanan pengguna."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Senang bisa membantu kamu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533024642,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "check_out_not_in_range"
+    }
+  ]
+}

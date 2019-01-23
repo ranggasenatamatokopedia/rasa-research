@@ -1,0 +1,35 @@
+[
+  {
+    "id": "3a627828-77c5-47e0-b4b4-edbf92f8823d",
+    "data": [
+      {
+        "text": "finished",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "40f2bc75-d8a7-4cfe-a1e1-719077936d89",
+    "data": [
+      {
+        "text": "invoice_selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ff89626c-c789-4661-b2b3-25a27a43846a",
+    "data": [
+      {
+        "text": "finish",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "id": "372dc99f-48d4-4f4a-a8d2-feaa30ac2a92",
+  "parentId": "c6e6c8b6-0c07-44f5-87e9-a66f66a4b978",
+  "rootParentId": "debdb44e-b23a-4c52-8626-59514944fd55",
+  "name": "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Buyer_Shipping_In_SLA",
+  "auto": true,
+  "contexts": [
+    "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Buyer_Shipping-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckStatusFindingDriver",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Buyer_Shipping_In_SLA-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527480417,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "sla_logistics_is_not_over_yet"
+    }
+  ]
+}

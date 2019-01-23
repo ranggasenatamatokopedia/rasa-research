@@ -1,0 +1,24 @@
+[
+  {
+    "id": "d70b8182-0d6c-4fc1-8fce-6ee5a0db92e5",
+    "data": [
+      {
+        "text": "invoice_exists_in_sauron",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "70f14582-942b-4f18-a76f-76f6a616b91c",
+    "data": [
+      {
+        "text": "invoice_is_fraud",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

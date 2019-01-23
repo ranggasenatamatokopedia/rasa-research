@@ -1,0 +1,54 @@
+[
+  {
+    "id": "a8416744-5d29-45c1-a82a-6e758f6a81b9",
+    "data": [
+      {
+        "text": "4",
+        "alias": "day",
+        "meta": "@day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "501778a9-8b49-4609-92cd-8c0fa57f1ce0",
+    "data": [
+      {
+        "text": "3",
+        "alias": "day",
+        "meta": "@day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "759714ab-c29e-4d29-81ff-0d4f4c33efe4",
+    "data": [
+      {
+        "text": "2",
+        "alias": "day",
+        "meta": "@day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "063cf0ca-6f6b-4ef0-9e28-4d5d2bd7242e",
+    "data": [
+      {
+        "text": "1",
+        "alias": "day",
+        "meta": "@day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

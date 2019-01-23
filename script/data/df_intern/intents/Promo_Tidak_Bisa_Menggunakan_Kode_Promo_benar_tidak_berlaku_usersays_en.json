@@ -1,0 +1,123 @@
+[
+  {
+    "id": "0e496416-fd29-4c92-8070-9cb9dd23de09",
+    "data": [
+      {
+        "text": "ke 10",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "312d07e2-30e6-4a60-b5c6-b4e81344fe97",
+    "data": [
+      {
+        "text": "kesepuluh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bf18fb3b-bfbc-4fa9-819e-c98258c7a73d",
+    "data": [
+      {
+        "text": "ke10",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "26513852-c62c-4ad8-940a-76aa07052823",
+    "data": [
+      {
+        "text": "kode tidak valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bcab22da-da05-437e-af6e-c1800105da6f",
+    "data": [
+      {
+        "text": "ke sepuluh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eb8dd613-9e15-4647-b837-d4e4e180e623",
+    "data": [
+      {
+        "text": "kode invalid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "51664d1c-de6c-47a9-9634-c41613806884",
+    "data": [
+      {
+        "text": "code_not_valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4c41c563-439c-4716-a019-558e72d60687",
+    "data": [
+      {
+        "text": "ke-10",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "09d53254-2e28-4560-a3ac-9379f86aeb34",
+    "data": [
+      {
+        "text": "invalid code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fe808317-dabc-4d54-9d7e-aabb8b173da4",
+    "data": [
+      {
+        "text": "10",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4c2a7b71-a4cb-4392-b2de-16aad6deea51",
+    "data": [
+      {
+        "text": "sepuluh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

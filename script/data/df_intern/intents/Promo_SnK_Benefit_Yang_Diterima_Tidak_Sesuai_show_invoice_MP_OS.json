@@ -1,0 +1,43 @@
+{
+  "id": "de462ed0-7d36-4e8b-9fc9-4867bf96201c",
+  "parentId": "b95660c4-ea9b-4161-9afa-30fb5da93666",
+  "rootParentId": "67024543-88fb-488f-907b-85ef94921089",
+  "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_invoice_MP_OS",
+  "auto": true,
+  "contexts": [
+    "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_invoice-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetResolutionStatus",
+      "affectedContexts": [
+        {
+          "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_invoice_MP_OS-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526455675,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_marketplace_OS"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "c79b644c-d4a4-4a80-a956-c263e2674c22",
+  "parentId": "4c2b99cb-f6ac-45b9-a56d-6cf3ad3bf327",
+  "rootParentId": "7f7a8cb1-cbe8-48a9-9930-7686b772cf99",
+  "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_get_invoice_queue_or_in_progress_in_SLA",
+  "auto": false,
+  "contexts": [
+    "Flight_Kendala_Pembelian_Tiket_Pesawat_get_invoice_queue_or_in_progress-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_get_invoice_queue_or_in_progress_in_SLA-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah Toped bantu cek, transaksi kamu masih dalam batas estimasi verifikasi. Boleh tunggu maksimal 1 jam dari pembayaran terverifikasi ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika belum berhasil, kamu bisa hubungi Toped kembali."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537430661,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "less_than_1_hour"
+    },
+    {
+      "name": "in_sla"
+    }
+  ]
+}

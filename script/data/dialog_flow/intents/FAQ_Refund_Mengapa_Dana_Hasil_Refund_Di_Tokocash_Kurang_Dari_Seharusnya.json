@@ -1,0 +1,32 @@
+{
+  "id": "442ccb05-128b-4be7-8fa1-1a772fe6a9ce",
+  "name": "FAQ_Refund_Mengapa_Dana_Hasil_Refund_Di_Tokocash_Kurang_Dari_Seharusnya",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika dana refund yang kamu terima kurang dari jumlah yang seharusnya, kamu bisa menghubungi tim \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://tkp.me/contact-us\"\u003eCustomer Care\u003c/a\u003e Tokopedia agar dicek ulang."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520238436,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_refund_mengapa_dana_hasil_refund_di_tokocash_kurang_dari_seharusnya"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "5e6e9d50-bb3d-438f-9ebb-53dc44b7c8eb",
+  "parentId": "71a33cbf-81d5-44bf-a8e3-e4ab7880b670",
+  "rootParentId": "71a33cbf-81d5-44bf-a8e3-e4ab7880b670",
+  "name": "FAQ_Logistic_Berapa_Lama_Waktu_Pickup_Barang_Rex",
+  "auto": false,
+  "contexts": [
+    "FAQ_Logistic_Berapa_Lama_Waktu_Pickup_Barang-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Estimasi waktu kurir pick up barang adalah 1x24 jam setelah Penjual melalukan permintaan pick up "
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528326975,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "rex"
+    }
+  ]
+}

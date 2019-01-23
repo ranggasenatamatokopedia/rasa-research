@@ -1,0 +1,59 @@
+{
+  "id": "6cc16ecb-d949-4b8c-8242-f08521e632e3",
+  "parentId": "28cea2ed-6e0e-48ce-be6b-88b35ac82311",
+  "rootParentId": "e5ddb095-11e2-44d0-a686-c477add0deaf",
+  "name": "TokoPoints_Tidak_Dapat_Memainkan_Lucky_Egg_Kendala_Teknis_Show",
+  "auto": true,
+  "contexts": [
+    "TokoPoints_Tidak_Dapat_Memainkan_Lucky_Egg_Kendala_Teknis-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "TokoPoints_Tidak_Dapat_Memainkan_Lucky_Egg_Kendala_Teknis_Show-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah Toped cek, kamu masih punya Lucky Egg yang belum dipecahkan dengan detail berikut ya. Cek di akun kamu ya, apakah sudah sesuai dengan yang Toped infokan?"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "#show_summary_token_idle.payload"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Sesuai",
+              "Tidak Sesuai"
+            ],
+            "type": 1
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534387531,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "show_summary_token_idle"
+    }
+  ]
+}

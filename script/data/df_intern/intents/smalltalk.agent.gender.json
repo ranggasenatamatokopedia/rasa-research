@@ -1,0 +1,31 @@
+{
+  "id": "4a6b65f5-6b04-4705-b24b-fa7a8ff7eb52",
+  "name": "smalltalk.agent.gender",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mau cewek atau cowok, Toped akan selalu ada buat kamu."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "smalltalk_agent_gender"
+    }
+  ]
+}

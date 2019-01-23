@@ -1,0 +1,58 @@
+{
+  "id": "4b09b26f-dd18-4989-a445-884f38410f41",
+  "parentId": "a85dec08-cb07-4059-b4d9-a72a5d19e461",
+  "rootParentId": "b375e190-8e6c-475d-ac8e-0e3e3ac5900d",
+  "name": "Logistic_Tidak_Bisa_Klik_Pick_Up_Invoice_List_On_Demand_Shipping",
+  "auto": true,
+  "contexts": [
+    "Logistic_Tidak_Bisa_Klik_Pick_Up_Invoice_List_On_Demand-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Tidak_Bisa_Klik_Pick_Up_Invoice_List_On_Demand_Shipping-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek transaksi kamu sudah berhasil melakukan pencarian driver. Terkait proses pengirimannya, kamu bisa cek pada halaman \"Status Pengiriman\" :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538639061,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_sedang_dikirim"
+    },
+    {
+      "name": "invoice_kode_resi_pengiriman_tidak_valid"
+    },
+    {
+      "name": "invoice_order_berkendala_pengiriman"
+    },
+    {
+      "name": "invoice_menunggu_status_kurir"
+    },
+    {
+      "name": "invoice_menunggu_pick_up"
+    },
+    {
+      "name": "invoice_melakukan_pencarian_driver_harap_menunggu"
+    }
+  ]
+}

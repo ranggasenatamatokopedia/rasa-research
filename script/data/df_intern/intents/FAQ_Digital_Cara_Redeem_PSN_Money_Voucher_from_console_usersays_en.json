@@ -1,0 +1,35 @@
+[
+  {
+    "id": "848cfb88-085c-455f-baa3-fa82f7c40306",
+    "data": [
+      {
+        "text": "handheld",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d9a8cce8-f61f-465e-a03b-601d7928161b",
+    "data": [
+      {
+        "text": "console",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "027f164d-c4b2-4ffc-b002-db548f22f573",
+    "data": [
+      {
+        "text": "console/handheld",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

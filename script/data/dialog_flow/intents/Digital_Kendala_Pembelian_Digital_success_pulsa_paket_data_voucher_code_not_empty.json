@@ -1,0 +1,53 @@
+{
+  "id": "977f2af7-022e-41ee-bfd1-999e8896875b",
+  "parentId": "035fd347-cee8-47a3-9066-cee9bb65574a",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_success_pulsa_paket_data_voucher_code_not_empty",
+  "auto": false,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_success_pulsa_paket_data-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_success_pulsa_paket_data_voucher_code_not_empty-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped sarankan, kamu menghubungi operator terkait dulu ya dan menginformasikan Serial Number (SN) kamu, yaitu #voucher_code_not_empty.payload"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kontak provider dapat kamu lihat !TKPD_URL_KONTAK_PROVIDER!"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika masih berkendala, silakan hubungi Toped kembali ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533025506,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "voucher_code_not_empty"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "669e6cfd-4eda-4aab-8ff0-7546a78fc33e",
+  "name": "smalltalk.confirmation.agree",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.confirmation.yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": [
+            "Kalau masih ada yang ingin kamu tanyakan, jangan malu untuk bertanya ke Toped ya :)",
+            "Hai, ada lagi yang bisa Toped bantu?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512148142,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "smalltalk_confirmation_agree"
+    }
+  ]
+}

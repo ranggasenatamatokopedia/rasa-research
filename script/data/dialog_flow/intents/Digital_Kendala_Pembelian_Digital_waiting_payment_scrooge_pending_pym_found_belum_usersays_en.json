@@ -1,0 +1,80 @@
+[
+  {
+    "id": "afd21046-1a84-4ec7-a6d0-982222987009",
+    "data": [
+      {
+        "text": "blm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "12a28242-8407-48ed-b7d8-5a7f79555575",
+    "data": [
+      {
+        "text": "belum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b49b55c3-f379-4a42-8770-63468dc5fba3",
+    "data": [
+      {
+        "text": "blum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1bf8b130-f494-4c0e-85c1-7105e6315f4e",
+    "data": [
+      {
+        "text": "blmmmmm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b9e800cc-64d2-4e85-b2fb-9c45863103e6",
+    "data": [
+      {
+        "text": "blom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a912c206-dc54-408a-a23c-a13c82be06cc",
+    "data": [
+      {
+        "text": "blmm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "43f5ed57-1a0f-4464-bca0-c8a2c4e0a55f",
+    "data": [
+      {
+        "text": "belom",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "id": "dbbb1e17-3271-4c65-b2a2-5cb80603b2a4",
+  "name": "Digital_Voucher_Tidak_Dapat_di_Redeem",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetInvoiceListDigital",
+      "affectedContexts": [
+        {
+          "name": "Digital_Voucher_Tidak_Dapat_di_Redeem-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa beritahu Toped, transaksi mana yang berkendala?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "digital_voucher_tidak_dapat_di_redeem"
+    }
+  ]
+}

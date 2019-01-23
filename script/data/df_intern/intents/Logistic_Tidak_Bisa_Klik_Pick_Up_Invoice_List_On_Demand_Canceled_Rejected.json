@@ -1,0 +1,55 @@
+{
+  "id": "1b1425c5-775a-46b7-b2fe-76039c74279e",
+  "parentId": "a85dec08-cb07-4059-b4d9-a72a5d19e461",
+  "rootParentId": "b375e190-8e6c-475d-ac8e-0e3e3ac5900d",
+  "name": "Logistic_Tidak_Bisa_Klik_Pick_Up_Invoice_List_On_Demand_Canceled_Rejected",
+  "auto": true,
+  "contexts": [
+    "Logistic_Tidak_Bisa_Klik_Pick_Up_Invoice_List_On_Demand-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Tidak_Bisa_Klik_Pick_Up_Invoice_List_On_Demand_Canceled_Rejected-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Maaf, Toped cek pesanannya sudah batal dan dananya sudah Toped kembalikan ke Pembeli."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538556997,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_batal_otomatis_oleh_sistem"
+    },
+    {
+      "name": "invoice_canceled"
+    },
+    {
+      "name": "invoce_refund"
+    },
+    {
+      "name": "invoice_pesanan_ditolak_penjual"
+    },
+    {
+      "name": "invoice_payment_due"
+    }
+  ]
+}

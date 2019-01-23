@@ -1,0 +1,46 @@
+[
+  {
+    "id": "f84a3c50-562a-413d-93d2-0ccca52bb37f",
+    "data": [
+      {
+        "text": "invoice_fraud_review",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8c946495-9b94-4f6d-b02a-b75b361f7d3e",
+    "data": [
+      {
+        "text": "invoice_finished",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f9cf0d68-6b7a-41d6-9efc-9cb4fdfba736",
+    "data": [
+      {
+        "text": "invoice_cancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c63b0de7-e8f2-4f54-8d54-15a7b4bcccf1",
+    "data": [
+      {
+        "text": "invoice_suspect_fraud",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

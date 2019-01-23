@@ -1,0 +1,313 @@
+[
+  {
+    "id": "c52787bf-44dc-483c-a364-1f099b883ff4",
+    "data": [
+      {
+        "text": "minta bantuan update nomor AWB, saya tidak bisa ubah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "28c623f8-5e2b-4457-9c2a-fd234b281669",
+    "data": [
+      {
+        "text": "bagaimana jika resi yang saya masukkan ada kesalahan, saya tidak bisa edit nomor resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "69b3f205-a539-4f10-9c56-058d4b13a624",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tolong bantu ubah resi pesanan ini ya, statusnya sudah terkirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "962e8564-7108-4fe0-9e2e-471d74741150",
+    "data": [
+      {
+        "text": "tolong ubah resi invoice ini ya, status sudah delivered ke ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "26c288dc-e654-40ab-9eb8-44f836f8a793",
+    "data": [
+      {
+        "text": "bantu edit resi ya, saya tidak bisa edit karena status sudah terkirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "711684c8-5f01-4788-b825-54a249e1a960",
+    "data": [
+      {
+        "text": "request ubah resi saat status delivered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6fd91202-3bed-48c3-9c09-26a4186366c7",
+    "data": [
+      {
+        "text": "status resi sudah sampai, tapi saya ada kekeliruan. tolong bantu ubah ke nomor resi yang benar ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fb67153c-5df2-4b0b-b771-4f0f5c9e4351",
+    "data": [
+      {
+        "text": "sudah tidak bisa ubah resi krn sudah terkirim. ini resi yang benar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a5d2e58a-4bfd-4d8a-a9e6-06e72737cb8f",
+    "data": [
+      {
+        "text": "saya salah input nomor resi, statusnya sudah diterima. berikut saya lampirkan resi yang benar, mohon bantu ubah ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6aa48f23-30c1-42ab-aa54-9c7d0c0e2cff",
+    "data": [
+      {
+        "text": "berikut resi yang benar, tolong dibantu ubah krn status di saya sudah terkirim ke ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cefc3176-26bc-4255-8d84-8012a2049a51",
+    "data": [
+      {
+        "text": "ada kesalahan tulis resi, pesanan terlanjur delivered. bantu ubah ke resi yang benar ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "028d8c12-675e-4549-b166-d796d11aa68c",
+    "data": [
+      {
+        "text": "bantu edit resi, namun status sudah terkirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b711c05c-e670-4e3d-bf79-d3aec517166e",
+    "data": [
+      {
+        "text": "salah input resi tapi statusnya sudah terlanjur delivered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "12216b58-b22b-42a6-8628-05391c86987a",
+    "data": [
+      {
+        "text": "status pesanan sudah terkirim tapi saya salah input nomor resi. berikut saya lampirkan yang benar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "783ba837-f97a-48da-969f-008ce86ca7fb",
+    "data": [
+      {
+        "text": "status ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sudah terkirim, padahal saya salah input resi. tolong ubah ke nomor resi yg benar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "af00cb8d-73d9-453f-8e36-44358d7845aa",
+    "data": [
+      {
+        "text": "tracking pesanan sudah diterima ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tapi ternyata saya salah input resi. bantu edit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c4d17ba2-6dd3-4104-8972-32775ed0e57d",
+    "data": [
+      {
+        "text": "saya tidak bisa ubah resi karena status sudah terkirim, padahal ada kekeliruan input",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e9d85a0a-6dff-4493-92bf-acbfa8037e11",
+    "data": [
+      {
+        "text": "ada kesalahan saat input resi, saya lampirkan resinya mohon bantu update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5de4305a-4a94-40f6-9ec5-039ef67796e4",
+    "data": [
+      {
+        "text": "tolong bantu ubah nomor resi ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", status sudah terkirim jadi saya tidak bisa ubah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7fcc06ae-08bd-4cf5-bc5c-b031bd6528ce",
+    "data": [
+      {
+        "text": "mau ubah resi tidak bisa karena status sudah terkirim. minta bantuannya ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "787fbb8b-a223-4c2d-8bf8-80d3211667ad",
+    "data": [
+      {
+        "text": "nomor resi yang diinput keliru, tolong bantu ubah ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5d431064-f2ea-4c86-82a8-b325b23eb306",
+    "data": [
+      {
+        "text": "Komplain invoice dibawah sudah saya kirim ulang kekurangannya, tapi sudah ga bisa input resi INVIDTAG INVIDTAG",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ee777e0c-2b77-4f37-92aa-a21ea01074c1",
+    "data": [
+      {
+        "text": "mohon bantuan untuk merubah no resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1a050376-c101-434f-938d-d030331f17a3",
+    "data": [
+      {
+        "text": "kemarin saya salah input no resi untuk transaksi penjualan saya, berhubung status paket delivered jadi sy gak bisa revisi no resinya, mohon bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

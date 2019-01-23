@@ -1,0 +1,43 @@
+{
+  "id": "36384351-aa6b-4a8c-91a7-7f8852ecbb75",
+  "parentId": "5414a78e-3593-40f8-a638-69a001cb23dc",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Tidak_Mendapat_Cashback_Promo_Select_Invoice_Digital_Success_Fraud",
+  "auto": false,
+  "contexts": [
+    "Promo_Tidak_Mendapat_Cashback_Promo_Select_Invoice_Digital_Success-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetFraudStatus",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Mendapat_Cashback_Promo_Select_Invoice_Digital_Success_Fraud-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532070374,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_is_fraud"
+    }
+  ]
+}

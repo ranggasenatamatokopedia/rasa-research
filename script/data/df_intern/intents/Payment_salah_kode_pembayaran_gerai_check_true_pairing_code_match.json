@@ -1,0 +1,48 @@
+{
+  "id": "38aed338-404d-4290-a9fc-c97bdd4fb809",
+  "parentId": "e3307300-886e-466d-8f51-97776b432437",
+  "rootParentId": "8d6cc4ef-96f8-4de8-9cc0-b39dfd7bb0af",
+  "name": "Payment_salah_kode_pembayaran_gerai_check_true_pairing_code_match",
+  "auto": true,
+  "contexts": [
+    "Payment_salah_kode_pembayaran_gerai_check_true_pairing_code-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Payment_salah_kode_pembayaran_gerai_check_true_pairing_code_match-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped infokan kalau kode yang kamu masukkan sudah benar dan sesuai dengan invoice kamu"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu nggak perlu khawatir, untuk perkembangan status transaksi kamu bisa di cek pada Status Pemesanan ya"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532488108,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "code_match"
+    }
+  ]
+}

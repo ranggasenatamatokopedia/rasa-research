@@ -1,0 +1,55 @@
+{
+  "id": "c6e6c8b6-0c07-44f5-87e9-a66f66a4b978",
+  "parentId": "08f6a24d-389e-42cc-b746-fc58eed0cc22",
+  "rootParentId": "debdb44e-b23a-4c52-8626-59514944fd55",
+  "name": "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Buyer_Shipping",
+  "auto": true,
+  "contexts": [
+    "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Buyer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckLogisticsSLAExpirationStatus",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Buyer_Shipping-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527479896,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_sedang_dikirim"
+    },
+    {
+      "name": "invoice_kode_resi_pengiriman_tidak_valid"
+    },
+    {
+      "name": "invoice_order_berkendala_pengiriman"
+    },
+    {
+      "name": "invoice_menunggu_status_kurir"
+    },
+    {
+      "name": "invoice_melakukan_pencarian_driver_harap_menunggu"
+    }
+  ]
+}

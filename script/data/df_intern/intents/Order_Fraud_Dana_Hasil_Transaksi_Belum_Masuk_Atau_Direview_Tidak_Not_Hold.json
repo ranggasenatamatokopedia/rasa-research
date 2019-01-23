@@ -1,0 +1,43 @@
+{
+  "id": "d7a69cad-91e1-4fa8-b999-edb33c4aeaf2",
+  "parentId": "031eae87-90e5-43b3-a584-03439878ade2",
+  "rootParentId": "423ba23e-4ef9-436a-8828-c784ffb30629",
+  "name": "Order_Fraud_Dana_Hasil_Transaksi_Belum_Masuk_Atau_Direview_Tidak_Not_Hold",
+  "auto": false,
+  "contexts": [
+    "Order_Fraud_Dana_Hasil_Transaksi_Belum_Masuk_Atau_Direview_Tidak-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Order_Fraud_Dana_Hasil_Transaksi_Belum_Masuk_Atau_Direview_Tidak_Not_Hold-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah Toped cek, dana pada akun kamu tidak ada yang direview. Kamu bisa cek kembali ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532082022,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "deposit_not_hold"
+    }
+  ]
+}

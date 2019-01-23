@@ -1,0 +1,287 @@
+[
+  {
+    "id": "fe65ed39-211f-441f-b3fd-c7d68db548ec",
+    "data": [
+      {
+        "text": "saya mendapat email dan sms sebagai berikut, Tokopedia - Akun ",
+        "userDefined": false
+      },
+      {
+        "text": "TokoCash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Anda telah terhubung ke Tokopedia (xxxx) itu bukan keluarga saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4c3bb07d-7a20-40bb-86ae-cd305620d78a",
+    "data": [
+      {
+        "text": "saya dapat pesan katanya akun ",
+        "userDefined": false
+      },
+      {
+        "text": "tokocash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya terhubung ke akun lain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "275e87f9-4b30-4d96-8d49-abc520149be5",
+    "data": [
+      {
+        "text": "saya mendapat email dan sms sebagai berikut, Tokopedia - Akun ",
+        "userDefined": false
+      },
+      {
+        "text": "TokoCash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Anda telah terhubung ke Tokopedia (xxxx) tolong bantu dicek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9fa75ab8-49cb-4d14-b1a6-8206442b4d6a",
+    "data": [
+      {
+        "text": "Toko cash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya di akun xxx terhubung ke akun atas nama xxx padahal saya tidk kenal ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d1d1d2ae-15ed-4a10-b4da-f8180f47c14a",
+    "data": [
+      {
+        "text": "kok katanya ",
+        "userDefined": false
+      },
+      {
+        "text": "tokocash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya terhubung ke akun xxx sih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", itu akun siapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ad89ced1-682d-4e5e-8895-9168bd843ae8",
+    "data": [
+      {
+        "text": "saya mendapat email dan sms sebagai berikut, Tokopedia - Akun ",
+        "userDefined": false
+      },
+      {
+        "text": "TokoCash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Anda telah terhubung ke Tokopedia (xxxx) saya tidak punya email tersebut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8c8b89c4-c598-4f45-ae39-b79f18af3783",
+    "data": [
+      {
+        "text": "saya mendapat email dan sms sebagai berikut, Tokopedia - Akun ",
+        "userDefined": false
+      },
+      {
+        "text": "TokoCash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Anda telah terhubung ke Tokopedia (xxxx) saya tidak kendal email tersebut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b406ce05-dddb-45f1-a5f2-569931107f06",
+    "data": [
+      {
+        "text": "akun ",
+        "userDefined": false
+      },
+      {
+        "text": "tokocash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya terhubung ke user lain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c4382dd5-676e-43ea-a51e-30cebbe3a3ab",
+    "data": [
+      {
+        "text": "tokocash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya terhubung ke akun xxx bagaimana bisa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ba6d8a74-914b-4325-bf35-8c6a7e51ccaf",
+    "data": [
+      {
+        "text": "toko cash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya meenyambung ke akun ",
+        "userDefined": false
+      },
+      {
+        "text": "toko cash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pengguna lain, bisa minta tolong di cek ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f0931bbc-20f8-41a0-a822-b418a5174fd9",
+    "data": [
+      {
+        "text": "berdasarkan informasi katanya akun ",
+        "userDefined": false
+      },
+      {
+        "text": "toko cash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya disambungkan ke akun atas nama xxx bisaminta tolong di cek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b07b1fcc-70fe-499b-ac53-ec583e064c55",
+    "data": [
+      {
+        "text": "kayaknya ada error deh soalnya ",
+        "userDefined": false
+      },
+      {
+        "text": "toko cash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya nyambung ke akun punya user lain yang saya tidak kenal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5b3e0a4a-01b7-4ebd-a8a6-5df49ffac7f7",
+    "data": [
+      {
+        "text": "Loh kok ",
+        "userDefined": false
+      },
+      {
+        "text": "TokoCash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya terhubung sama orang lain ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

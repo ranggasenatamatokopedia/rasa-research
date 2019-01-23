@@ -1,0 +1,46 @@
+{
+  "id": "967a7745-b813-4064-94cd-92658bbe44c8",
+  "parentId": "62aff256-beda-4eb0-b13a-e9ed0d19f5f6",
+  "rootParentId": "7702a921-0bc2-479f-9cd3-aade8103768a",
+  "name": "Payment_not_verify_MP_platform_wtp_scrooge_waiting",
+  "auto": true,
+  "contexts": [
+    "Payment_not_verify_MP_platform_wtp-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckPaymentCreateTime",
+      "affectedContexts": [
+        {
+          "name": "Payment_not_verify_MP_platform_wtp_scrooge_waiting-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531368810,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "payment_scrooge_status_waiting"
+    },
+    {
+      "name": "payment_scrooge_status_expired"
+    }
+  ]
+}

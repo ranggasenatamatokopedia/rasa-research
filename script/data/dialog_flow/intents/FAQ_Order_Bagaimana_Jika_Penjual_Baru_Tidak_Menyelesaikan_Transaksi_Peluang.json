@@ -1,0 +1,31 @@
+{
+  "id": "e2d81f29-b86e-4f59-8308-4b8a1f789e0a",
+  "name": "FAQ_Order_Bagaimana_Jika_Penjual_Baru_Tidak_Menyelesaikan_Transaksi_Peluang",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Penjual baru yang tidak menyelesaikan Peluang yang diambilnya akan mendapat pengurangan 10 poin ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_order_bagaimana_jika_penjual_baru_tidak_menyelesaikan_transaksi_peluang"
+    }
+  ]
+}

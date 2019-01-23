@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2b1f8a19-9bbe-49e4-86ec-32103d3ae2c0",
+    "data": [
+      {
+        "text": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0
+  },
+  {
+    "id": "af3014f8-0784-442e-99ea-591b5622ed29",
+    "data": [
+      {
+        "text": "blacklist_status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

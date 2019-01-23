@@ -1,0 +1,38 @@
+{
+  "id": "cdc66f8a-e846-42d4-96c8-9eb6905a3d04",
+  "parentId": "b43323d7-d53e-4d11-ac74-f089ef661175",
+  "rootParentId": "dbbb1e17-3271-4c65-b2a2-5cb80603b2a4",
+  "name": "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_streaming_wifiid_verify_network",
+  "auto": true,
+  "contexts": [
+    "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_streaming_wifiid-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pastikan untuk koneksi jaringan wifi.id kamu sudah terkoneksi dengan baik ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga informasi Toped membantu kamu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536395251,
+  "fallbackIntent": false,
+  "events": []
+}

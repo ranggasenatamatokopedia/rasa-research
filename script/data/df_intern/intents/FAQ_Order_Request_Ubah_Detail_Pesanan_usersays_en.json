@@ -1,0 +1,369 @@
+[
+  {
+    "id": "1b0c4da5-e7dc-4a1f-93bb-97a3049b48fa",
+    "data": [
+      {
+        "text": "Orderan saya sendal...saya lupa masukin ukuran sendal yg saya order...ukuran ",
+        "userDefined": false
+      },
+      {
+        "text": "42",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5dca2730-2d6d-415f-aa23-5401cbad15ed",
+    "data": [
+      {
+        "text": "saya salah pilih variasi, tolong diubah seperti gambar nomor ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e9359cc9-b3d8-4d7f-8dfa-214aeb6df678",
+    "data": [
+      {
+        "text": "duh ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tolong ubah pesenan aku ya, harusnya warna ",
+        "userDefined": false
+      },
+      {
+        "text": "putih",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "308bb6de-cc1f-408f-af84-233ab4ace008",
+    "data": [
+      {
+        "text": "tolong ganti kirim jadi size ",
+        "userDefined": false
+      },
+      {
+        "text": "M",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " yaa toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e4aa2a68-5434-4c2f-b931-7b1537058775",
+    "data": [
+      {
+        "text": "kalau warna ",
+        "userDefined": false
+      },
+      {
+        "text": "merah",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ga ready, tolong kirim sesuai cataan ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "167706a1-4262-4a1d-a323-c8e6cebfb272",
+    "data": [
+      {
+        "text": "pesanan ku udah dikonfirmasi tapi salah nulis keterangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5b3e812a-31ca-47e1-809d-47856d437904",
+    "data": [
+      {
+        "text": "keliru cantumkan motif, saya mau dikirimin yang polos aja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "072517d5-ead9-4592-8b8f-5ce5a34ec97f",
+    "data": [
+      {
+        "text": "lupa belum kasih catatan ke ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", mohon dikirim yang warna ",
+        "userDefined": false
+      },
+      {
+        "text": "biru",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "01c42473-f254-4aba-9d07-876c09e362e9",
+    "data": [
+      {
+        "text": "lupa kasih keterangan, tolong kirimkan yang warna ",
+        "userDefined": false
+      },
+      {
+        "text": "merah",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "676a7b0c-0f76-4668-91a4-92f15f1f4580",
+    "data": [
+      {
+        "text": "tolong tambahin catatan di order saya, mau dikirim yang ",
+        "userDefined": false
+      },
+      {
+        "text": "hitam",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " semua ya jangan random",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "90c51473-f809-4b94-bb9c-d7e7902bb1ac",
+    "data": [
+      {
+        "text": "salah tulis keterangan di invoice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ace054b5-b42e-4f61-a643-cd1cd16a1a3d",
+    "data": [
+      {
+        "text": "tolong ubah catatan di pesenan saya ya, ganti jadi warna ",
+        "userDefined": false
+      },
+      {
+        "text": "putih",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e24a267e-ca5c-4b01-8049-ec9f7928da3a",
+    "data": [
+      {
+        "text": "Saya salah pilih warna, seharusnya warna ",
+        "userDefined": false
+      },
+      {
+        "text": "hitam",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". tolong ubah ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "be7ef1d8-4493-45f1-aea4-e6f8396b2663",
+    "data": [
+      {
+        "text": "saat checkout saya keliru pilih motif, apakah masih bisa diganti dengan motif polkadot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "31f6e64c-11d8-4ed4-894b-a2fd5c87d95d",
+    "data": [
+      {
+        "text": "saya keliru mencantumkan size sepatu yang saya pesan. tolong diubah menjadi size ",
+        "userDefined": false
+      },
+      {
+        "text": "39",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a8f78b78-d91f-4d2b-8b96-004d585b4195",
+    "data": [
+      {
+        "text": "salah pilih size yang tercantum di invoice, bantu ubah ya sebelum dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c6836e5f-bbe4-4e39-9e04-a91f50c8c361",
+    "data": [
+      {
+        "text": "saya keliru menuliskan ukuran dari pesanan yang saya beli. mohon diganti menjadi ukuran L ya toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d8891315-8b31-4770-8174-5d87d04188b2",
+    "data": [
+      {
+        "text": "belum kasih catatan di pesanan, seharusnya dikirim yang oval, jangan kirimin random ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "030447b1-3d7c-4c43-a971-8ee408fbe2d2",
+    "data": [
+      {
+        "text": "di invoice saya saya salah tulis keterangan warna, mohon sampaikan ke ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sebelum dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ca123efb-1fa8-4d33-9384-615232793bef",
+    "data": [
+      {
+        "text": "Orderan saya sendal...saya lupa masukin ukuran sendal yg saya order...ukuran 42.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "823f17b7-8ff3-41be-b248-e0e8d5336af2",
+    "data": [
+      {
+        "text": "Halo, transaksi saya di hari ini di cancel oleh seller krn alamat pengiriman tidak bisa dijangkau tapi pengembalian uang dan point yb digunakan sebelumnya belum terlihat di OVO, tolong dibantu segera karena saya akan melakukan transaksi utk merubah alama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a556cb21-bfb5-4076-8e6a-0cdee1b028fb",
+    "data": [
+      {
+        "text": "salah memasukan jumlah pesanan sedangkan barang sedang diproses penjual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3cc9058d-67b5-40fd-b9e9-0fd6597d78cc",
+    "data": [
+      {
+        "text": "toko tidak menjawab permintaan saya, saya mau ubah produknya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

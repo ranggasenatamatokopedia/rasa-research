@@ -1,0 +1,51 @@
+{
+  "id": "0413346c-a825-4fd4-93a3-2358e5ba4d1a",
+  "parentId": "c230094b-7dd5-43f4-984b-d415098c4e53",
+  "rootParentId": "c230094b-7dd5-43f4-984b-d415098c4e53",
+  "name": "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_nomor_yang_Anda_masukkan_salah",
+  "auto": true,
+  "contexts": [
+    "Digital_Tidak_Dapat_Melakukan_Transaksi-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_nomor_yang_Anda_masukkan_salah-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai, terkait kendala kamu mohon informasikan produk yang berkenala ya"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 1,
+            "quick_replies": [
+              "Pajak PBB",
+              "Tv Kabel",
+              "Air PDAM"
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535962120,
+  "fallbackIntent": false,
+  "events": []
+}

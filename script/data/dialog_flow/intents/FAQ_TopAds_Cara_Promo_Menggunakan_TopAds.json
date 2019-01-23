@@ -1,0 +1,48 @@
+{
+  "id": "8f24f44a-076a-4ef2-8ece-4f8e1224ea7f",
+  "name": "FAQ_TopAds_Cara_Promo_Menggunakan_TopAds",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_TopAds_Cara_Promo_Menggunakan_TopAds-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Produk",
+              "Toko"
+            ],
+            "type": 1
+          }
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kasih tau Toped dulu ya, apakah kamu menggunakan promo TopAds untuk Produk atau Toko?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_topads_cara_promo_menggunakan_topads"
+    }
+  ]
+}

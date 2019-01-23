@@ -1,0 +1,39 @@
+{
+  "id": "9570ef5f-a7a6-44a2-9e3f-70326977c0a2",
+  "parentId": "8f24f44a-076a-4ef2-8ece-4f8e1224ea7f",
+  "rootParentId": "8f24f44a-076a-4ef2-8ece-4f8e1224ea7f",
+  "name": "FAQ_TopAds_Cara_Promo_Menggunakan_TopAds_Produk",
+  "auto": true,
+  "contexts": [
+    "FAQ_TopAds_Cara_Promo_Menggunakan_TopAds-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_TopAds_Cara_Promo_Menggunakan_TopAds_Produk-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa ikuti langkah di bawah ini untuk tau promo produk:\n\n1. Klik \"Tambah Promo\"\n2. Pilih Produk dan Grup Promo yang kamu inginkan\n3. Masukkan produk dalam Grup Promo dan tentukan biayanya\n4. Atur jadwal sesuai keinginanmu"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537339619,
+  "fallbackIntent": false,
+  "events": []
+}

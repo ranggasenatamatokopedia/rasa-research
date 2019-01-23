@@ -1,0 +1,53 @@
+{
+  "id": "16b28a75-4781-4039-a222-2df675026b81",
+  "parentId": "de462ed0-7d36-4e8b-9fc9-4867bf96201c",
+  "rootParentId": "67024543-88fb-488f-907b-85ef94921089",
+  "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_invoice_in_resol_cancel_complain",
+  "auto": false,
+  "contexts": [
+    "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_invoice_MP_OS-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_invoice_in_resol_cancel_complain-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "023515a4-c6cb-4c89-88b4-8a3c41ab3745",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1705",
+          "isList": false
+        },
+        {
+          "id": "4dc23a39-9b1e-40db-89ea-423ebe3b95e7",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai"
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526463293,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "in_resol_cancelled_by_buyer"
+    }
+  ]
+}

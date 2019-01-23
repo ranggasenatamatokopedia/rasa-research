@@ -1,0 +1,95 @@
+[
+  {
+    "id": "5d0f1117-7c5a-4702-ba3c-631231e132dd",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kalo barang saya hilang berapa lama proses investigasi nya ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8727f688-7b29-4903-b4bd-4d50053eb802",
+    "data": [
+      {
+        "text": "bos, kalo barang saya hilang di pengiriman dan saya pake asurasi Tokopedia, proses nya berapa lama ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "289aaa88-2b9d-4aed-9448-6a8e718cc728",
+    "data": [
+      {
+        "text": "Estimasi waktu pergantian barang hilang berapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "da9518b5-878d-44f3-9c01-4a75a8285a9c",
+    "data": [
+      {
+        "text": "Berapa lama pergantiannya jika barang saya hilang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "06b7cd8f-bda2-4806-bc9a-877a9acdd622",
+    "data": [
+      {
+        "text": "Berapa sih waktu pergantian barang hilang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "59ce369c-f1d2-464d-9df1-de19f6dd7b94",
+    "data": [
+      {
+        "text": "Lama investigasi barang hilang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "af82d045-c6f8-40e3-8c94-0d597446090f",
+    "data": [
+      {
+        "text": "Kalo barang hilang itu lama ga pergantiannya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "475cd424-aa5b-4ecc-9180-77da8513ee73",
+    "data": [
+      {
+        "text": "pihak tokopedia katanya barang yg saya beli itu dinyatakan hilang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

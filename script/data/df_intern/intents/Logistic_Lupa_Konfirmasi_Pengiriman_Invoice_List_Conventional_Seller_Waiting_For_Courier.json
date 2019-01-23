@@ -1,0 +1,48 @@
+{
+  "id": "66e8a313-26a9-48b7-90b7-8593f1272ece",
+  "parentId": "fcddc333-39be-444a-baf1-ca59893f06d8",
+  "rootParentId": "35e16175-3fd0-4749-bf64-4e1b94b883f1",
+  "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Seller_Waiting_For_Courier",
+  "auto": true,
+  "contexts": [
+    "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Seller-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ShowUploadAWBLink",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Seller_Waiting_For_Courier-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532492600,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_menunggu_status_kurir"
+    }
+  ]
+}

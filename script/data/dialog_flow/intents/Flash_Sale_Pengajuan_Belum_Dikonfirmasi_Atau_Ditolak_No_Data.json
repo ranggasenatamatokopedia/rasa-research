@@ -1,0 +1,43 @@
+{
+  "id": "e8718bce-9f64-4a91-a492-1f1a8981bda9",
+  "parentId": "804799d6-e162-415c-9f2d-c7e377e413ee",
+  "rootParentId": "804799d6-e162-415c-9f2d-c7e377e413ee",
+  "name": "Flash_Sale_Pengajuan_Belum_Dikonfirmasi_Atau_Ditolak_No_Data",
+  "auto": true,
+  "contexts": [
+    "Flash_Sale_Pengajuan_Belum_Dikonfirmasi_Atau_Ditolak-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Flash_Sale_Pengajuan_Belum_Dikonfirmasi_Atau_Ditolak_No_Data-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Maaf, Toped tidak menemukan data pengajuan produk kamu untuk program Flash Sale Tokopedia. Pastikan kembali link produk yang kamu input sudah benar ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537945890,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "no_history_flash_sale"
+    }
+  ]
+}

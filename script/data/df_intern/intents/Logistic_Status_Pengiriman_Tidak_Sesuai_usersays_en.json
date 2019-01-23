@@ -1,0 +1,6743 @@
+[
+  {
+    "id": "71e17686-2f10-4a42-828b-3ee2d0f9976c",
+    "data": [
+      {
+        "text": "Status pengiriman ",
+        "userDefined": false
+      },
+      {
+        "text": "gosend",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ga jelas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6639424e-c978-48c5-8b0a-49bd2283159b",
+    "data": [
+      {
+        "text": " produk saya sudah sampai dengan baik.. tapi mengapa statusnya masih \u0027dalam pengiriman\u0027",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6978636b-d4c9-4b49-8ff3-42df8a18c8fe",
+    "data": [
+      {
+        "text": "resi terbaca invalid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e1686d94-88b4-4f9b-9ceb-9e5c357975a9",
+    "data": [
+      {
+        "text": " transaksi terakhir saya masih dalam tahap \u0027Sedang Dikirim\u0027 padahal barang sudah sampai.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "25bff4b1-514f-4739-a961-ac297c1fc8bb",
+    "data": [
+      {
+        "text": "Kak, saya tidak bisa lacak pesanan ini, bagaimana ya ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ed24d783-93b4-472b-af6c-b0d3ac9c4059",
+    "data": [
+      {
+        "text": "kenapa sy ingin lacak pengiriman sy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "febc25f1-fce1-4aa8-919e-adfc3281c4c9",
+    "data": [
+      {
+        "text": "Tapi no resi yg tertera, tdk valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c7597ad4-4ff8-4033-bb69-0d4ea3ace8f9",
+    "data": [
+      {
+        "text": "No resi tidak bisa di cek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e64bff80-e5cf-4d8b-b94b-599e9f4fbcd1",
+    "data": [
+      {
+        "text": "Paket untuk pelanggan sudah dikirim dan diterima oleh pelanggan per tgl ",
+        "userDefined": false
+      },
+      {
+        "text": "17 nov 2018",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Status di web ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pun sudah DELIVERED, namun status pengiriman di tokopedia masih belum terkirim. Mohon untum dibetulkan sesuai laporan JNE",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5ad38146-6178-4d54-a93c-f099ac514bdb",
+    "data": [
+      {
+        "text": "pagi min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " resi tidak bs di lacak sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "2x24",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " jam ",
+        "userDefined": false
+      },
+      {
+        "text": "bl",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ada histori y",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c80e40e9-a229-4979-9abf-619bcec89f39",
+    "data": [
+      {
+        "text": "pagi ..., transaksi sudah diterima sama pembeli, tp masih belum cari juga, bisa tolong dibantu...thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "231dd267-6c31-4e93-a2d3-a5926f1dce95",
+    "data": [
+      {
+        "text": "order  status pelacakannya sudah sampai, kok statusnya belum pindah ke sudah sampai ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "895ea8d7-9b12-4706-a4bc-e58d8fb0a7fb",
+    "data": [
+      {
+        "text": "Resi yang dimasukan ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " palsu, padahal saya sudah menunggu lama untuk barang tersebut. Saya minta batalkan saja, agar saya bisa beli ditempat lain. Saya sgt butuh barang itu dgn cepat.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "788e94c5-53e3-42a0-a603-83dc2cb6b40a",
+    "data": [
+      {
+        "text": "resi saya tidak bisa tercek , mohon di bantu ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "df9ff484-f008-4470-aca4-94bfa054e5a0",
+    "data": [
+      {
+        "text": "Resi pengiriman saya belum terlacak toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "12664026-cdc3-4acb-ad7b-5f73cbc7abba",
+    "data": [
+      {
+        "text": "resi ga bs di tracking ..",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bilang barang kosong dan sengaja di masukan resi palsu.. ini sdh di luar batas watu dan lg saya tdk bs ajukan komplain dikarenakan hny bs klik 1 items saja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2f26b666-c5a9-4bf4-8f61-4b79b128e316",
+    "data": [
+      {
+        "text": "Pesanan saya statusnya delivered, tp saya blm menerima pesanan saya, driver ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pun tidak ada telpon konfirmasi klo dia udah sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0ef30e0a-9983-4c0f-a566-cf01ef28c760",
+    "data": [
+      {
+        "text": "Penjualan sudah selesai, barang sudah diterima ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tapi status masih sedang dikirim. (Kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "instant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ")",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "478df34d-4eb8-4fea-bd64-c99b43a3ebcb",
+    "data": [
+      {
+        "text": "Mohon segera diupdate status pengiriman barang ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " invoice, status sudah diterima sejak tgl ",
+        "userDefined": false
+      },
+      {
+        "text": "16",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "-",
+        "userDefined": false
+      },
+      {
+        "text": "11",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "-2018",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi tdk ada update ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sistem tokopedia, dan ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " juga tidak melakukan konfirmasi penerimaan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "763eb5a0-a2fe-43d3-914e-5d16a0f60796",
+    "data": [
+      {
+        "text": "Mohon bantuannya, kami sudah rubah resinya tetapi ke refund otomatis pada nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ee58f644-0a61-4d87-8f16-2994294e5500",
+    "data": [
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sudah terima barang, nanum status masi blm terupdate , mohon di bantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e1f9991d-c271-4a3e-bd21-1940db2a342d",
+    "data": [
+      {
+        "text": " sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "dua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bln brg ga dtg krn batam lg overloaded akhirnya ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " refund dana ke ",
+        "userDefined": false
+      },
+      {
+        "text": "rek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sy ",
+        "userDefined": false
+      },
+      {
+        "text": "tp skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " barangnya dtg.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c5434023-5de4-4d1e-9e7e-aef979fcf4f1",
+    "data": [
+      {
+        "text": "Barang yg sy jual sudah sampai ke pembeli. Tp status di toped msh dalam pengiriman. Pdhl brg dikirim via gojek instant Dan sudah di konfirmasi oleh pembeli kl brg sudah diterima.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8aee4df7-941e-4772-9666-54eb1654a41f",
+    "data": [
+      {
+        "text": "Barang tdk dikirim ke alamat saya.. no resi yg dikirim toped ke saya.. bukan alamat saya.. jadi barang tsb smpe skrg tdk saya terima dan uang juga tidak dikembalikan.. mohon bantuannya..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "218d30ad-6f58-4bf0-9869-bb0a966507ba",
+    "data": [
+      {
+        "text": "ga sengaja input no resi dengan produk pengiriman lain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e8f0a842-2a84-401e-bcb8-1c73c926108f",
+    "data": [
+      {
+        "text": "Barang sampai tapi status di tokopedia masih di kirim dan belum bisa di selesaikan sementara sudah di ambil driver dan di antar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9513e6a6-a728-4f74-a685-2421662162e7",
+    "data": [
+      {
+        "text": "Gan driver tdk dtg di klik selesai dr driver yg ambil brgnya bisa tolong cancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6a590e2c-0570-4382-8ecb-f909937eb656",
+    "data": [
+      {
+        "text": "Barang belum trima tapi status di terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aef16547-6fed-4477-bed5-b80bad64845d",
+    "data": [
+      {
+        "text": "Driver membatalkan pengiriman disebabkan sakit tetapi di status sudah sampai tujuan apa yg harus saya lakukan terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "00a86cfc-3b12-4299-8268-462925685a3d",
+    "data": [
+      {
+        "text": "Tracking ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Tidak Update, mohon bantuan untuk konfirmasi nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "188ae455-4a11-4bd4-836c-4d72e51b01dd",
+    "data": [
+      {
+        "text": "Status tidak sesuai barang sudah diambil driver.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "892c7f75-3855-4b1e-abb4-6eac8ec4fe3b",
+    "data": [
+      {
+        "text": "Di status pengiriman Tokopedia driver ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " telah menyelesaikan pengiriman, padahal barang belum di ambil di ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan belum di kirimkan ke saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "491593c2-e995-4482-b21a-d1ab8f74081e",
+    "data": [
+      {
+        "text": "di sistem, driver telah melakukan ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan telah mengantar barang ke tujuan. Padahal barang masih ada di ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan belum di ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "982e0fda-27ea-4e3c-b271-11d18c2d0f3d",
+    "data": [
+      {
+        "text": "di laporan paket sudah diterima ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "siang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".. tp kenyataannya paket saya belom terima datang sama sekali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0854a6a5-a360-4f1b-a137-bf526167745c",
+    "data": [
+      {
+        "text": "AND21381",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " no pembelian saya,sy beli vitamale tp nrg sdh smpe keteranganny,,paketny blm ada,sedangkan d tokopedia sdh selesai bgaimana donk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "da6dbfae-dba4-4dbb-b673-f04043c0b520",
+    "data": [
+      {
+        "text": "saya ada komplen admin, barang sudah dikirim ",
+        "userDefined": false
+      },
+      {
+        "text": "hari sabtu kemaren",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan barang sudah di terima oleh ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi kenapa statusnya ",
+        "userDefined": false
+      },
+      {
+        "text": "malam",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " berubah jadi belum dikirim admin silahkan di cek ya admin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "27149bef-c11f-4bc7-93b8-04c8b7d085a3",
+    "data": [
+      {
+        "text": "saya suruh order ulang pembelinya , dan sy input resinya tuanya invalid , brg suda sampai di penerima nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f8444ec6-3f3d-481c-b1e6-9edfff4a715e",
+    "data": [
+      {
+        "text": "paket saya blm sampai. tapi di sistem statusnya sdh sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7180d262-bbad-40bb-9412-9b2371b8ceed",
+    "data": [
+      {
+        "text": "Saya kirim barang tpi resi tidak terlacak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1dbcbafa-e84b-4c01-8d09-ab2cd0f265a1",
+    "data": [
+      {
+        "text": "tadi saya sudah cek dan sudah dalam proses kirim tapi kenapa menjadi batal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "35da51c4-b408-436d-94b5-c45eb353e679",
+    "data": [
+      {
+        "text": "barang sudah dikirim, lalu status berubah menjadi resi invalid, kemudia status order dibatalkan oleh pihak tokopedia padahal ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " barangnya sudah diterima oleh ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e41a7777-e2e0-447c-b674-cd7e8c893277",
+    "data": [
+      {
+        "text": "nomor resi sudah saya input, tapi sistem tokopedia masih belum bisa terbaca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2668c7b0-81c9-460d-9746-a48d64344f49",
+    "data": [
+      {
+        "text": "masalah barang sudah sampai tapi tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "27769175-bcf9-474c-af32-a585fe4068ba",
+    "data": [
+      {
+        "text": "Saya sudah input no resi tapi lupa ganti kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3c4665a1-c1b4-4b25-b8a4-5f0e4d17e624",
+    "data": [
+      {
+        "text": "Produk sudah diterima berdasarkan hasil tracking resi. Tapi kenapa penjualan saya tidak kunjung selesai ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3031f157-25d5-4834-812b-be8dd9900ec7",
+    "data": [
+      {
+        "text": "barang belum sampai tapi setatus telah di terima orang tidak dikenal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b6b37418-ab3d-4bd9-a5c6-d7c7936dc542",
+    "data": [
+      {
+        "text": "barang belum sampai, ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ngakunya barang sdh dikirim padahal belum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9d84abe7-fa95-49f6-90a9-78afeed6dfeb",
+    "data": [
+      {
+        "text": "status berbeda, status belum sampai tp dinyatakan sudah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "232f7dd7-aa9b-41a6-9c2e-61321f6fb7d2",
+    "data": [
+      {
+        "text": "pesanan penjualan saya via ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " TERTERA SUDAH SAMPAI, tapi customer saya bilang belum sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "762a4984-0b05-4520-a455-56a48f03030f",
+    "data": [
+      {
+        "text": "status sdh sampai tp pelanggan saya belum terima paketnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b00d6322-3f7f-4bbf-96f2-ce48b72228cd",
+    "data": [
+      {
+        "text": "maaf ka sebelumnya.. paket belum dikirim tapi saya salah masukin no resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "95bee577-b0a5-49d8-a84d-515d2e964260",
+    "data": [
+      {
+        "text": "pengiriman saya ga terlacak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "efcb0dd3-5279-42bb-8a31-304cd30f017d",
+    "data": [
+      {
+        "text": "dear Cs tolong di bantu..pesanan saya sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "2x24",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " jam saya cek masih resi palsu..saya minta cancel saja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cbbae9e2-d8f7-4060-9541-9d77aa0c55c1",
+    "data": [
+      {
+        "text": "status pengiriman blm berubah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "160d56be-11c2-4096-97ff-3a93877095e6",
+    "data": [
+      {
+        "text": "kenapa pesanan sdh sampai ke ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tetapi status pengiriman barang sedang dikirim?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f6477f14-0ec5-4b33-a73c-ea56abacd717",
+    "data": [
+      {
+        "text": "barang sudah sampai, tapi belum bisa menyelesaikan transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "394c240a-b280-42e2-8d85-86bb1cb9b686",
+    "data": [
+      {
+        "text": "pesanan sudah sampai menurut si ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tp status di Tokopedia belum berubah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6dea9173-b917-4b25-851a-2a5845b8752d",
+    "data": [
+      {
+        "text": "barangnya sudah sampai kenapa resinya VALID",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ed70ebf4-87ee-4d26-b1a0-ca09e41c751d",
+    "data": [
+      {
+        "text": "pesanan jaket parka dan celana saya ke konfirmasi sendiri kenapa bisa seperti itu tolong tegur penjualnya agar nelacak barang saya yang dikurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "58b4a53d-b5d6-44d5-b065-ec5bac779eb1",
+    "data": [
+      {
+        "text": "kenapa nomor resi yang dikasi ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak bisa dilacak ??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7e6b8e34-63dd-4881-8c48-773ee3f8b7ec",
+    "data": [
+      {
+        "text": "barang udah sampai namun saya mu komplain produknya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7d97fb87-a1c0-4060-8328-f40975a4f29a",
+    "data": [
+      {
+        "text": "barang saya pecah...sebab dari pihak penjual gak ada memberi saran apa2..di chat aja susah banget dan sblumnya sy sudah ajukan cancel ke penjual krn pelayanan yg gak memuaskan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2af9b35b-58ce-408d-8cce-790d564d05fd",
+    "data": [
+      {
+        "text": "mohon bantuannya pengiriman barang no INVIDTAG BARANG BELUM SAMPAI TP TRANSAKSI SUDAH DI ANGGAP SELESAI KIRIM DENGAN WAHANA TP DI CEK RESINYA DI WAHANA GAK ADA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "569d8d2a-029b-4383-b4b8-bce15f72ead9",
+    "data": [
+      {
+        "text": "di status saya masih menunggu status pengiriman padahal barang sudah sampai di tujuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "780caa9f-db35-4a8f-9272-b6ff1e7e98b9",
+    "data": [
+      {
+        "text": "kenapa barang saya belum di ambil tapi pemberitahuan di aplikasi sudah sampai tujuan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "64095ab1-8515-4026-aa1c-7b24556b16cd",
+    "data": [
+      {
+        "text": "barang tidak bisa di lacak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "89ba1895-431f-4a61-bd22-714fe6d4fe05",
+    "data": [
+      {
+        "text": "salah memasukan no resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fb3d7b96-ee82-4628-b7ea-f3eaa5843df9",
+    "data": [
+      {
+        "text": "ini penjualan sya kok blm ad yg clear ya sedangkam tracking ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pos",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sudah sampe semua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0f9cb47f-344b-43c3-9e62-1fdb70263ef3",
+    "data": [
+      {
+        "text": "ini penjuala sya kok blm ad yg clear ya sedangkam tracking ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pos",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sudah sampe semua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "098b219b-305d-4113-b9d0-166fd27d7f11",
+    "data": [
+      {
+        "text": "saya ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " driver tp kenapa di status pengirimannya pesanan sedang dikirim ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "09e425e9-2f41-40e1-8760-5ee4cff19b37",
+    "data": [
+      {
+        "text": "komplain untuk cek ke kurir, tapi status resi nya sudah di terima , jadi transaksi tersebut di pending, apa boleh bantu di cek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7b871144-7b91-4dd5-aa3f-a12ef69eeeee",
+    "data": [
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sudah terima barangnya, tapi statusnya di Tokopedia ngaco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "73b1d8dd-3deb-4641-96d6-e7eb64571533",
+    "data": [
+      {
+        "text": "\u003cb\u003ebarang belom terima paket sudah di selesaikan oleh driver ",
+        "userDefined": false
+      },
+      {
+        "text": "gosend",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ?\u003c/b\u003e",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "33d7d9b2-c59d-430a-81ee-cf1e2e097958",
+    "data": [
+      {
+        "text": "barang kalau di lacak sudah dikirim, tapi posisi masih saja di batam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5c547688-dc48-489d-9737-9c29eda295dc",
+    "data": [
+      {
+        "text": "transaksi di batalkan, padahal sudah saya ganti dengan resi sesuai dan ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " juga sudah terima barang,, dengan nomer resi 0110871805068344",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c1e26782-c1d7-4292-b409-8e2e5b7a8e42",
+    "data": [
+      {
+        "text": "resi tak terlacak dan tiba tiba pesan batal secara otomatis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cf537740-4b32-4b10-80ed-5fad0e38c51e",
+    "data": [
+      {
+        "text": "mohon bantuannya untuk menyelesaikan secara otomatis karena kami salah dalam memasukkan no resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3672e932-cfc7-4402-af6a-3e96b76c1331",
+    "data": [
+      {
+        "text": "saya sudah kirim barang dan upload no resi. tapi status ko masih minta saya untuk memasukkan no. resi ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e66b0381-72fe-4b23-b7bb-20e52ed5e7af",
+    "data": [
+      {
+        "text": "hallo ",
+        "userDefined": false
+      },
+      {
+        "text": "malam",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mau tanya saya ada orderan barang sudah saya kirim juga tapi setelah barang dikirim no resi nga bisa di lacak tetapi no resinya sesuai no resi ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tikinya itu gimana yah mohon bantuannya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2ab1504f-8a3e-485f-924f-b72bb7738cbf",
+    "data": [
+      {
+        "text": "\u003cb\u003esaya mengirim barang, di resi sudah sampai\u003c/b\u003e",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2edd1d41-ede0-4aa1-8c10-215afe854043",
+    "data": [
+      {
+        "text": "Tp sudah diselesaikan oleh driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5e98a5f1-bfa9-4bd6-857b-228681caa80c",
+    "data": [
+      {
+        "text": "barang sudah dipick up, statusnya kenapa ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " masih cari driver kembali yah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7abdbf02-98f9-4938-9ec7-ec1615c18537",
+    "data": [
+      {
+        "text": "kenapa barang penjualan saya tidak terlacak ditokped padahal barang sudah diterima oleh ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "84565a0a-fe8d-458c-8d76-edadad6c8418",
+    "data": [
+      {
+        "text": "pengiriman ",
+        "userDefined": false
+      },
+      {
+        "text": "j\u0026t",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " invalid padahal sudah dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6aacccae-d52a-4962-ae8f-dd56e09ca594",
+    "data": [
+      {
+        "text": "sy ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mohon info untuk pengiriman toko beb beb ke pelanggan ",
+        "userDefined": false
+      },
+      {
+        "text": "hari Minggu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tgl ",
+        "userDefined": false
+      },
+      {
+        "text": "28",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", smp dg ",
+        "userDefined": false
+      },
+      {
+        "text": "skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belom bs terlacak.. terimakasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4dba078d-bd3b-4825-afda-e39e07702af2",
+    "data": [
+      {
+        "text": "Kenapa statusnya masih pesanan dikirim? Padahal tracking barang sudah delivered to Novi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "89d1a8ea-53a7-4f4f-acb6-2070263780b7",
+    "data": [
+      {
+        "text": "barang sudah sampai. kok status belum berubah ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "00c7aca1-bd1a-4e77-8b1a-03008afdb295",
+    "data": [
+      {
+        "text": "status pengiriman tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3e023f19-0246-49cd-8e23-8f934a3d09e3",
+    "data": [
+      {
+        "text": "status pengiriman harusnya sudah delivered. knp di tokopedia ga delivered?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f41ba41f-a99b-46b4-829a-0c53b530d6e6",
+    "data": [
+      {
+        "text": "pesanan sudah tiba di ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " namun ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tak kunjung konfirmasi barang sudah sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c7c8b3cb-ff31-40af-a37f-87c56484e19a",
+    "data": [
+      {
+        "text": "Barang sudah sampai, tapi cust belum konfirmasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6afe6498-b923-46f5-a75a-b9e545f4cf84",
+    "data": [
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sudah terima barang tp kenapa status pengiriman ditempat saya belum terkirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d6b8ac61-2cdb-482a-9752-7f567054fdbf",
+    "data": [
+      {
+        "text": "knp tracking tidak berubah ya? sedangkan ",
+        "userDefined": false
+      },
+      {
+        "text": "buyer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bilang udh sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "540d4599-e7f5-4929-a4e8-a460165394c3",
+    "data": [
+      {
+        "text": "barang sudah sampai tpi ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak bisa menyelesaikan transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "12cdb67a-2cfb-47fc-8a2e-f8d6d9f2c717",
+    "data": [
+      {
+        "text": "Barang ini sudah di terima dan ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ingin konfirmasi barang sudah di terima, tetapi tidak bisa.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "22ab1c70-da39-4077-a593-1f056e44a224",
+    "data": [
+      {
+        "text": "Pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sudah terima barang tapi tidak bisa selesai transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8044e7a4-25bf-41c8-b230-b804ade1e683",
+    "data": [
+      {
+        "text": "saya sudah tanyakan ke ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " katanya barang sudah sampai tapi statusnya masih invalid.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ee1ce876-d80b-4168-84d5-5c26efd17cbc",
+    "data": [
+      {
+        "text": "Paket sudah tiba, belum update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a6be78c4-84cd-4922-9312-c9fe3af10444",
+    "data": [
+      {
+        "text": "barang sudah diambil sendiri oleh ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " karena tapi keterangan di tokped masih belum berubah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "94ef12ee-f886-441f-856f-ee517c6e529f",
+    "data": [
+      {
+        "text": "barang sudah diterima ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tapi di sistem tokopedia tidak ada update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1989c46b-24c7-41d3-80a0-f4ebcf22158e",
+    "data": [
+      {
+        "text": "kode resi tidak valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ae079934-0cf1-4fc1-90fd-d0d4590590f7",
+    "data": [
+      {
+        "text": "sy sdh cek resi tidak terdaftar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "55ee7665-36cb-4ea5-ad67-845df4ec3e8a",
+    "data": [
+      {
+        "text": "kenapa saya tidak konfirmasi pesanan saya padahal pesanan saya sudah saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "702cce2f-5f45-4736-b9c2-e12b7be5dbbf",
+    "data": [
+      {
+        "text": "no resi yang dicantumkan tidak dapat di track",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "da2f4b01-e19d-4768-83e1-1bdaef61d434",
+    "data": [
+      {
+        "text": "Resi yang dkirimkan ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak tepat, pengiriman tidak bs di tracking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "44b9716f-24ce-4330-af8f-8e959087cf2b",
+    "data": [
+      {
+        "text": "resi tidak ditemukan dan saya sdh cek langsung ke kurir nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "87017101-7067-44b6-ae71-03656e72d2e2",
+    "data": [
+      {
+        "text": "no resi tidak terdaftar di pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "354820f0-9b31-42e0-9343-958e9a491b09",
+    "data": [
+      {
+        "text": "resi tdk bisa di cek atau tdk valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2b9aaaf6-b99e-4404-977c-3af0793ef822",
+    "data": [
+      {
+        "text": "Barang sdh sy terima dg baik. Tapi sy tidak dapat klik selesai.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "57aab86d-7a14-4ac2-92d1-93debaa62e8c",
+    "data": [
+      {
+        "text": "resi tidak bisa di cek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d6ae4f6b-7551-474e-a5fe-89a41b2acc64",
+    "data": [
+      {
+        "text": "Barang sudah diterima ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tetapi status masih on process",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3bb177f7-322e-467c-a99c-854b7d7ef7bf",
+    "data": [
+      {
+        "text": "Di sistem masih belum di terima, padahal paket sudah di terima customernya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "00680349-80b2-44fd-a725-e3872c94007f",
+    "data": [
+      {
+        "text": "Paket sudah sampai ke ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", status masih dalam proses pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cdd7b848-f9db-465a-9a6d-e340b896cff5",
+    "data": [
+      {
+        "text": "barang sudah di terima oleh ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", mohon dana di teruskan ke saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c71c97bb-5846-43bf-923c-594a9e2e2115",
+    "data": [
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ternyata sudah terima barang, namun statusnya tidak update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ab231a64-5d0b-4ed5-aed4-0240e3dcb999",
+    "data": [
+      {
+        "text": "resi tidak ditemukan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4163eb66-01f3-433d-8a78-c03f23510f5c",
+    "data": [
+      {
+        "text": "Mohon dibantu konfirmasi penerimaan, barang sudah diterima ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d1549c01-a40b-4f07-823f-ffce4cc68cc4",
+    "data": [
+      {
+        "text": "kenapa blm di update? barang sudah diterima ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "93e633a4-b9fb-49ab-9f3f-ff644f35e91f",
+    "data": [
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " memasukin resi tidak valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9f8c1b99-0eb4-46da-83bd-4bffba3515b2",
+    "data": [
+      {
+        "text": "Barang sudah diterima ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tapi masih dalam pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5a61c6a8-a2c8-493e-bfcc-c73bb76074af",
+    "data": [
+      {
+        "text": " resi tidak valid dan tidak dapat di track",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "028a4d94-0131-486f-a46c-1ecad6a89636",
+    "data": [
+      {
+        "text": "Ini paket saya sudah sampai, tapi kok distatus pengirimannya masih belum berubah ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b79840de-654c-43d8-ac63-f7dfc1ea091f",
+    "data": [
+      {
+        "text": "Barang sudah sampai ke ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tapi ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak bisa mengkonfirmasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "052857d9-bf05-4b95-88e7-074fde72238a",
+    "data": [
+      {
+        "text": "no resi tidak valid tidak bisa di tracking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1553b46e-a2d0-4060-b0b5-24e96c07e736",
+    "data": [
+      {
+        "text": "Nomor resi tidak invalid, resi not found",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "540e3128-e978-4115-8f67-80be1f8c8d13",
+    "data": [
+      {
+        "text": "Resi tidak dapat di lacak dan tidak valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "02127ece-3523-4346-bdb4-5a3b8d81157f",
+    "data": [
+      {
+        "text": "Barang sudah diterima, tapi tidak bisa konfirmasi terima barang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bd419aaf-3167-42fb-b5e5-16205cb133e2",
+    "data": [
+      {
+        "text": "no resi tdk terdftr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e2524dab-70c6-4716-90cd-55131a1550e4",
+    "data": [
+      {
+        "text": "pesanan sudah tiba di ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", namun ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tak kunjung konfirmasi barang sudah sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fd4cb5a4-2cbc-4e11-bb86-bee5cece6d1f",
+    "data": [
+      {
+        "text": "itu paket sudah sampai kenapa input distts masih mengirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b0f337bd-4d09-4383-b5d6-56add5aa1f2e",
+    "data": [
+      {
+        "text": "tercantum resi tidak sesuai. pdhal barang sudah sy terima ",
+        "userDefined": false
+      },
+      {
+        "text": "pagi td",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". sehingga sy tidak bisa konfirm penerimaan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "73f53000-5128-46aa-9f2b-666603374d15",
+    "data": [
+      {
+        "text": "Barang sudah di terima oleh ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "  dengan ambil sendiri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f165f8f3-ef95-49cf-9353-539f40c9afd1",
+    "data": [
+      {
+        "text": "iya,trackingnya juga valid terus,gak bisa saya cek barangnya lagi dimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "926f4972-042c-472d-9003-082402904b57",
+    "data": [
+      {
+        "text": "hi sis. salah penginputan resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ccf72807-1165-4455-bc60-0f5bddc44ad4",
+    "data": [
+      {
+        "text": "status pengiriman pada penujualan saya sepertinya eror",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5e3eb0c6-79f4-486f-a59c-3001727fea77",
+    "data": [
+      {
+        "text": "no resi tidak bisa di cek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b6c50734-b004-47b1-a4be-3faa6a01993e",
+    "data": [
+      {
+        "text": "barang saya uda sampai di pembeli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "87fa5b97-4650-4fe6-8f8d-cfe17db72ba4",
+    "data": [
+      {
+        "text": "INVIDTAG Untuk invoice ini barangnya sudah sampai min, tapi ga bisa klik selesai?! Knp yah min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a6228ebc-a3d7-43bf-bb19-006847e6c611",
+    "data": [
+      {
+        "text": "pesanan sudah sampai kok dibilang blum sukses?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "505f0d1f-4030-4a7f-a290-9c7424465bae",
+    "data": [
+      {
+        "text": "kenapa pengirman saya resi nya salah yah padahal sudah bener",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a0e31e26-b5e9-4efa-bdfb-151a80a0e9c8",
+    "data": [
+      {
+        "text": "orderan saya resi tidak terdeteksi oleh sistem. status resi tidak sesuai, sementara paket sudah saya kirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fc35640f-3ed0-4031-81b9-6193990f1038",
+    "data": [
+      {
+        "text": "seller sudah memasukan resi tidak valid dan chat kesaya kalau dia tidak bisa kirim barang yang saya beli.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "41ff115d-6d43-4e96-a255-2992cdb22ba6",
+    "data": [
+      {
+        "text": "saya input resi kurang 1 digit angka",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "03464a9b-0491-4c31-b063-142a9cada40a",
+    "data": [
+      {
+        "text": "karena saya salah input no resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4270ad49-a077-4490-9995-343046ce4741",
+    "data": [
+      {
+        "text": "siang, sy memesan barang,diberi no resi yg dalah. beda alamat dan saya tidak pernah tetima barang !",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "405b0dba-5ee7-492c-b95e-31cc8bfee541",
+    "data": [
+      {
+        "text": "Kenapa paket saya dari bandung ke jakarta, di system tokopedia dari rangkasbitung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d2550b11-9b9b-4305-90f5-11dbd759ed7b",
+    "data": [
+      {
+        "text": "nomor resi pengiriman yg di input penjual tidak bisa di tracking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "35cf6b59-57d5-47f6-a75b-2c1bad832dd2",
+    "data": [
+      {
+        "text": "Bukan, gitu, pihak J\u0026amp;T nya yg salah kasih resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c23ad4d0-eff4-4e1a-91ce-2996bc8b09d6",
+    "data": [
+      {
+        "text": "mau tnya dong ad pen baju di topi baseball unisex lbh dr pcs. memang utk bales lama. abis itu waktunya dilama2in buat ngirim. pas ngirim pertama resi ga sesuai. hanya diganti sama resi yg ber. pas dicek resi yg benarnya ternyata msih blm ber. resi on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "50683d8d-4fd6-4f76-86c4-3e2339de5136",
+    "data": [
+      {
+        "text": "masalahnya drivernya engak nganter barang, tapi dapet ongkos kirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5e8ecc3d-fb51-44a9-987e-c24c95fe549a",
+    "data": [
+      {
+        "text": "sama tidak bisa di tracking resinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "19f83944-8919-4aa2-9707-3af3fa449e6c",
+    "data": [
+      {
+        "text": "Cuman kok status nya sudah terkirim, padahal belum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ba3c452d-9108-4eab-b5b7-1be0587904eb",
+    "data": [
+      {
+        "text": "min tolong dicek penjualan saya sudah sampai tp status blm delivered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d29fa402-17c9-4e84-a28c-e236b950b07b",
+    "data": [
+      {
+        "text": "kenapa pesanan sudah sampai tapi di status masih dikirim terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "39f7bc66-6cc6-47d5-93b0-b87f9a2deddb",
+    "data": [
+      {
+        "text": "barang nya udah sampai kepenerima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "136e7b08-335d-4992-96e7-e0de65b58ad3",
+    "data": [
+      {
+        "text": "barang sudah sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "eba091d2-d179-4570-b2a3-d7e3f323cf66",
+    "data": [
+      {
+        "text": "invoice tersev\u003dbut harusnya sudah sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cc5c8571-70eb-4eee-9f28-42dc653c14d5",
+    "data": [
+      {
+        "text": "ini invoice sudah sampe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "217de0f1-d9d9-4714-b5cf-d5b9b0ae99d7",
+    "data": [
+      {
+        "text": "pesanan sudah sampai...tapi status di kolom konfirmasi tidak keluar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "beb114d2-37e5-42ee-8e1e-93ded9638e35",
+    "data": [
+      {
+        "text": "Kurir sudah antar dan sampai tujuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2a3507f6-8003-42e2-bc92-b874075c6cca",
+    "data": [
+      {
+        "text": "Tulisannya sudah sampai ke tujuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d7f87df5-17d0-4ccb-96e9-b330dd69f5f1",
+    "data": [
+      {
+        "text": "hai, barang sudah sampai dan dr sistem pelacakan jg sudah sampai tp tidak ada tombol selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a0e69f5b-f342-4356-817c-563a58baabdd",
+    "data": [
+      {
+        "text": "Jualan saya sudah diterima dari kemarin tapi penerima belum confirm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "29a796b8-ad80-4b3a-b89f-6aaec77d091a",
+    "data": [
+      {
+        "text": "barang sudah sampai tujuan tapi tidak bisa klik selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5f0f116b-852a-46d5-9d16-57843c6d8be9",
+    "data": [
+      {
+        "text": "Barangnya belum di pickup tetapi di status sudah terkirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4a55f889-78a6-4abc-9cc9-1be427d03d8b",
+    "data": [
+      {
+        "text": "Saya barusan melakukan perubahan kurir, kenapa di status pengiriman belum berubah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cabc0eea-5c3c-4505-b1c2-9fafe58096ba",
+    "data": [
+      {
+        "text": "saya lacak barang sudah sampai lama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "43e94445-f5c2-48dc-9e73-a6c6074cc290",
+    "data": [
+      {
+        "text": "barang sudah sampai ke konsumen dan kurir sudah memberikan status terkirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a004200c-69e2-46ee-a6a1-2fb046257a03",
+    "data": [
+      {
+        "text": "Barangnya sdh Sampai di Sy, Gojeknya juga sdh menyelesaikan antaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3a6f06f4-3b6b-4be1-a366-6a7ce7378385",
+    "data": [
+      {
+        "text": "saya memesan barang namun penjual pada saat habis waktu respon menggunakan resi orang lain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c9e1a34d-1de4-44c8-a5b3-ab5ef34683fa",
+    "data": [
+      {
+        "text": "hai toped.. saya order di salah satu toko melalui toped.. barangnya lambat dikirim, tiba2 sdh keterima sm ibu agus.. sementara di rmh saya tdk ada yg merasa menerima barang tsb smpe hari ini.. bgmn solusinya ya.. tokonya sndri sdh saya chat tapi no respo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cae760de-e962-401c-acd0-d99298057338",
+    "data": [
+      {
+        "text": "tetapi barang tsb telah dikirim oleh penjual n telah diterima oleh saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0e5e6163-66f4-42ab-92f5-1fc3e7ebff48",
+    "data": [
+      {
+        "text": "soalnya ada transaksi saya yg resi tidak bisa di lacak. . padahal resi sudah benar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "42bae5e2-6d1f-4779-9baa-b669e8161521",
+    "data": [
+      {
+        "text": "Kak penjualan daya atas no inv/20181023/XVIII/X/221081299 kenapa resinya tidak valid ya? Padahal resi yg saya masukan sudah benar dan sudah saya upload buktinya ke tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f44caf7b-4770-46fc-bd10-10ee6722397a",
+    "data": [
+      {
+        "text": "msalah nya gk di ambil barang nya sama mang gojek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b16d9907-917f-4d77-90c5-7cc7a57251fc",
+    "data": [
+      {
+        "text": "Statusnya masih mencari driver. Sedangkan di menu lacak. Statusnya sudah shipping atau selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "aac0a01a-8cf7-4f19-9cc6-e87039c32ab7",
+    "data": [
+      {
+        "text": "itu yg saya tnyakan knapa sttus ny masih d proses penjual..sedangkan barang sudah d pickup dan sudah d ambil driver grab..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fbeb4542-7d13-47c7-8ab4-0976c3d12c97",
+    "data": [
+      {
+        "text": "solusinya bagaimana? brg nya sdh di ambil oleh kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a548f3cf-d745-404b-836d-94d53f9459c9",
+    "data": [
+      {
+        "text": "Siang Min..cust sy ada pesan brg via gosend instant....brg blm di pick up. Tp status terkirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2f000ee4-4489-46ea-8149-65b230bcaa3e",
+    "data": [
+      {
+        "text": "resi sudah benar kak, dan saya proses setelah pesanan masuk bukan sebelum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dc0652fc-5da6-4622-af20-57e5d51066e0",
+    "data": [
+      {
+        "text": "barang sudah dikirim tapi diaplikasi masi belum terkirim .apa kah lagi gangguan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "34cdc1b4-035e-499c-ad6f-55ff0f9b08a8",
+    "data": [
+      {
+        "text": "tetapi status tracking stuck di tanggal 18 Oktober",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "440b1e92-533a-4ede-8588-de868f70218b",
+    "data": [
+      {
+        "text": "Saya kan ngirim barang trus status di jnenya pas saya lacak \u0026#34;damage case\u0026#34;",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "24389a41-a270-41d9-bcea-8949d05fab10",
+    "data": [
+      {
+        "text": "ini status nya complete, tapi se benar nya transaksi ini batal , barang tidak di kirim , i mau minta info di dalam system Tokopedia transaksi nya juga batal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c626cb1b-9b8e-435e-af00-79a05824d0da",
+    "data": [
+      {
+        "text": "saya memesan meja plastik dengan nomor invoice INVIDTAG kemudian status pengirimannya dua hari ini terus saja menunggu status dari kurir apakah bermasalah atau bagaimana sedangkan barangnya akan saya gunakan segera, bisakah saya cancel jika sudah seperti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f5be2f3d-9ba2-4d12-98a8-02ad4a3bed6d",
+    "data": [
+      {
+        "text": "tolong di bantu,, hubungi pihak J\u0026amp;T,, konfirmasi pengiriman nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3d55d996-7930-4855-bd8c-16ec16a83233",
+    "data": [
+      {
+        "text": "bagaimana cara komplain ke penjual karena resi tidak valid dari kemarin, alias dikasih resi palsu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4178a5b1-dec5-49c9-b586-cca1347e31d8",
+    "data": [
+      {
+        "text": "di sistem status nya msh sedang dikirim oleh kurir grab,tp brg sudah sampai tujuan,transaksi ini pada harimkamis kemarin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "55716d2b-7fd8-4729-b058-db8aa076610d",
+    "data": [
+      {
+        "text": "Ko resi tidak terlacak yah? saya menggunakan indah cargo dikarenakan JNE atau J\u0026amp;T tidak bisa menerima pengiriman Vape",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8dec6fa8-1c77-44e7-a384-5db5871cead8",
+    "data": [
+      {
+        "text": "halo, saya salah input no resi. tapi status pengiriman sudah diterima, bagaimana cara mengganti resi? terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8b4b37b7-fa36-473c-bb50-0754113c9fb5",
+    "data": [
+      {
+        "text": "tombol pixkup sudah di klik dan sudah diambil oleh driver (ada screenshotnya) tapi di bagian bawah tombol request pickup tetap ada dan pesanan saya tidak berpindah ke tab yg \u0026#34;SEDANG DIKIRIM\u0026#34;",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0d4b0abb-5846-4bf1-a1e4-76edfd69f6fb",
+    "data": [
+      {
+        "text": "udah tapi masih ada tulisan request pickup padahal udah dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7750d024-a61f-4d71-bddc-4498cb526ac0",
+    "data": [
+      {
+        "text": "sudah datang namun orderrannya tidak bisa diselesaikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "660f930c-0e25-485c-b04c-c6c36d0950a9",
+    "data": [
+      {
+        "text": "INVIDTAG barang sudah sampai. kok status belum berubah ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a38a4e93-cf0c-4e8b-b2ea-bab9f5df7c3f",
+    "data": [
+      {
+        "text": "Pengiriman saya dengan no invoice : INVIDTAG Kenapa statusnya masih pesanan dikirim? Padahal tracking barang sudah delivered to Novi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7288d82a-e581-4709-a576-f78a64eb459b",
+    "data": [
+      {
+        "text": "sy penjual mohon info untuk pengiriman toko beb beb ke pelanggan hari Minggu tgl 28, smp dg skrg belom bs terlacak.. terimakasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c28c09cd-bc99-497e-bfd9-1bbed5abc8d6",
+    "data": [
+      {
+        "text": "pengiriman j\u0026amp;t invalid padahal sudah dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6a077205-9252-48f2-9ddc-be4d1eefff76",
+    "data": [
+      {
+        "text": "kenapa barang penjualan saya tidak terlacak ditokped padahal barang sudah diterima oleh pembeli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "83baafaf-4bb3-4807-a19b-00bfdbcded59",
+    "data": [
+      {
+        "text": "Siang, INVIDTAG invoice ini sudah diambil driver pada tanggal 28/10/2018 dengan driver an/ Wawan, no kontak 081316220681 nopol : b 3757 bef statusnya kenapa sekarang masih cari driver kembali yah? terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e0c693a3-47e0-40d9-bfa7-5d030ca30b06",
+    "data": [
+      {
+        "text": "saya mengirim barang, di resi sudah sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c6d0dcc9-2917-4b1b-a4b4-d43de1303f3b",
+    "data": [
+      {
+        "text": "Account lupa password",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5dcc1429-823a-4bd0-8c39-b98a9296cd37",
+    "data": [
+      {
+        "text": "INVIDTAG transaksi di batalkan, padahal sudah saya ganti dengan resi sesuai dan pembeli juga sudah terima barang,, dengan nomer resi 0110871805068344",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "eddde282-622b-4d7f-8e2e-cc4ff06c1dd1",
+    "data": [
+      {
+        "text": "kami sebagai penjual memiliki kendala bahwa resi 22201100979960 an emma budi astuti kurir rex kiriman ekspres. status pengiriman barang sudah terkirim/pengiriman oleh kurir akan tetap barang masih ada dalam pihak kami",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "771f5dca-5788-4d53-9ca9-bf0fb8cddbb8",
+    "data": [
+      {
+        "text": "barang belom terima paket sudah di selesaikan oleh driver gosend ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9b997c0c-3747-46ca-a026-4dcf007d71d1",
+    "data": [
+      {
+        "text": "Halo, barangnya sudah dianter oleh grab ke pembeli dan pembeli sudah terima barangnya, tapi statusnya di Tokopedia ngaco. tolong dibantu, jangan diulang2 terus pertanyaannya. 😥😥",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9bab6dfd-de95-40b0-8821-b5f6519ad69c",
+    "data": [
+      {
+        "text": "Bugs Logistic pemilihan kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "55486e9b-7562-402f-adcd-22b1c4a946d9",
+    "data": [
+      {
+        "text": "Tidak ada perubahan kurir cuma j\u0026amp;t kalau di track hanya sampai jakarta, pengiriman dari jakarta juga.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "02cce2ce-57bf-44c1-923a-2244070a10bf",
+    "data": [
+      {
+        "text": "ada pembeli yang mengajukan komplain untuk cek ke kurir, tapi status resi nya sudah di terima , jadi transaksi tersebut di pending, apa boleh bantu di cek, no invoice INVIDTAG",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cbe6407e-5341-42e3-a8a9-b2c81abccd52",
+    "data": [
+      {
+        "text": "Halo mbak, ada orderan masuk ke toko saya. Customer piliha jasa pengiriman memakai grab same day, saya pickup driver tp kenapa di status pengirimannya pesanan sedang dikirim ya? Harusnya kan ada info drivernya, ini tidak ada sama sekali.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f3a257b2-01b5-4aef-876c-cfa02690cd53",
+    "data": [
+      {
+        "text": "ini penjuala sya kok blm ad yg clear ya sedangkam tracking dari pos sudah sampe semua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1fb8d2c6-d3ac-4f26-b0bb-20c8d8321d1e",
+    "data": [
+      {
+        "text": "pesanan penjualan saya via gojek TERTERA SUDAH SAMPAI, tapi customer saya bilang belum sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "04add9f8-d3a3-4931-9c3d-0f79bb2ab9ab",
+    "data": [
+      {
+        "text": "status belum sampai tapi paket sudah sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "997b9587-3c68-4116-b822-29046d4291c6",
+    "data": [
+      {
+        "text": "barang belum sampai, penjual ngakunya barang sdh dikirim padahal belum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "87c0eda8-e774-43be-ab17-1572b06e6831",
+    "data": [
+      {
+        "text": "mohon bantuannya pengiriman barang no INVIDTAG NO RESI 22201100999770 BARANG BELUM SAMPAI TP TRANSAKSI SUDAH DI ANGGAP SELESAI KIRIM DENGAN WAHANA TP DI CEK RESINYA DI WAHANA GAK ADA MOHON BANTUANNY",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "399cc4b1-b790-4dcf-9c05-63c012253e5d",
+    "data": [
+      {
+        "text": "kenapa nomor resi yang dikasi penjual tidak bisa dilacak ??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "15ac5c71-4742-4aa6-9d61-1d69a3a45b28",
+    "data": [
+      {
+        "text": "pesanan sudah sampai menurut si pembeli tp status di Tokopedia belum berubah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "913d4144-778e-4a38-a01a-1f6a12d6da3f",
+    "data": [
+      {
+        "text": "kenapa pesanan sdh sampai ke pembeli tetapi status pengiriman barang sedang dikirim?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "857d47b9-b608-4e86-a789-e8acd956db60",
+    "data": [
+      {
+        "text": "dear Cs tolong di bantu..pesanan saya sudah 2x24 jam saya cek masih resi palsu..saya minta cancel saja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7ab7d516-a609-469e-a75d-d83b216aa717",
+    "data": [
+      {
+        "text": "Mohon dibantu. Produk sudah diterima berdasarkan hasil tracking resi. Tapi kenapa penjualan saya tidak kunjung selesai ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9a68531d-90a1-46fd-bb8c-bda3bbb340f8",
+    "data": [
+      {
+        "text": "Transaksi tersebut ud dipick up kmaren sore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ac6cd1fc-1e1b-475e-a383-0603d6b8e96d",
+    "data": [
+      {
+        "text": "barang sudah dikirim, lalu status berubah menjadi resi invalid, kemudia status order dibatalkan oleh pihak tokopedia padahal sekarang barangnya sudah diterima oleh pembeli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4f28731d-138c-4c74-9a34-ec20f3ee878e",
+    "data": [
+      {
+        "text": "pengiriman saya tidak bisa di track",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2e573a60-fd92-446c-b7b5-c82b5b66d9a5",
+    "data": [
+      {
+        "text": "sy dr kemarin tdk bisa lacak pengiriman sy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2ba3a7e0-c4e3-47a2-91f5-f383adc5e726",
+    "data": [
+      {
+        "text": "kenapa tidak bisa melihat tracking kurir di tokped? sedangkan di website bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "057c66ea-135c-485e-ba49-85d30f939dad",
+    "data": [
+      {
+        "text": "hallo kak saya sebagai penjual tidak bisa masukan resi..biasanya disuruh tambahan 1 angka terus sekarang di email mau dibatalin..jadi gimana ya...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "afccecc9-2353-498e-bba3-ea4776094fa7",
+    "data": [
+      {
+        "text": "jadi saya krim pake grab pribadi, skrg statusnya masih dalam pengiriman nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f5e6887e-5906-4094-8d0d-32e095999949",
+    "data": [
+      {
+        "text": "resi yang di kasih penjual tidak bisa di lacak, tolong bantu dong toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a14bb5b6-5044-44b7-8012-758b28658d8d",
+    "data": [
+      {
+        "text": "Barang telah diterima oleh pembeli .. Namun pembeli tidak dapat klik selesaikan pesanan .. Mohon bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b74856cd-f637-4bbb-806a-eaec4d69c24a",
+    "data": [
+      {
+        "text": "saya ganti kurir karena jne tutup dan saya ganti via POS INDONESIA tapi saya masukan resi ternyata resi tidak valid. tapi saya tracking via website POS indonesia resi nya ok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "497a0b21-2fce-4da5-9c11-20a29faa1bb9",
+    "data": [
+      {
+        "text": "kenapa barang saya tidak bisa dilacak no resinya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a30b0bec-061d-4d26-a055-404f68ee5d11",
+    "data": [
+      {
+        "text": "pas aku mau lacak, gak keliatan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dd7a4214-1022-41ab-96bf-c7fd746aeb62",
+    "data": [
+      {
+        "text": "saya telah merevisi no resi yg bener Kok status Masih menunggu.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "030f4256-c862-455e-a014-85a2aaa036c4",
+    "data": [
+      {
+        "text": "saya kirim ke pembeli dan resi saya cek lwt web jnt dh terkirim tp kok di menu layaknya toped gagal kirim ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e8312636-0455-424b-97ef-cfd5a4e909a6",
+    "data": [
+      {
+        "text": "no resi sudah diinput tapi tokopedia mengatakan resi diinput sebelum pesanan dibuatdan invalid, dan akan batalkan pesanan pdhal barang sudah dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b2a1ebdc-212f-4cde-9153-a9d7a06c9acc",
+    "data": [
+      {
+        "text": "saya uda memasukkan resi pengiriman . knp statusny masih menunggu pembeli memasukkan resi pengembalian..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0005c8cf-28b4-43ce-92d6-aac870906599",
+    "data": [
+      {
+        "text": "barang sudah sampai ke tujuan pembeli tapi status masih belum diterima di toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f6caf0bd-a3c2-4007-bc94-31a75d48fbc5",
+    "data": [
+      {
+        "text": "nomer resi palsu. sy sdh tny ke penjual..jawabannya, harap sabar, nanti update otomatis..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2896a44c-04f0-45e5-91d0-622e41933783",
+    "data": [
+      {
+        "text": "penjualan ini sudah sampai ke customer tapi status toped nya masih cari driver aja, pembeli gak bisa konfirmasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "04ec1cb8-0ea6-4348-bd07-2819ec9c950c",
+    "data": [
+      {
+        "text": "status info kurir malah kurir sedang dalam pengiriman barang sedangkan barangnya masih di tempat saya sebagai penjual.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7421ac28-1511-47ee-be48-6e5d53914ae1",
+    "data": [
+      {
+        "text": "Kemarin saya salah memasukkan resi ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9a0e48ee-93f1-49c0-ae0f-83847100d3a2",
+    "data": [
+      {
+        "text": "barang belum diterima tapi di sistem sudah tertulis barang sudah sampai tujuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "96018b76-fcdd-4f3f-b220-2624183cf5a6",
+    "data": [
+      {
+        "text": "mohon bantuannya krena orderan sdh sampai terima ksih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e8bdb936-e90d-4229-83fd-302579470e34",
+    "data": [
+      {
+        "text": "saya sebagai penjual sudah menginput resi tapi tidak terlacak mohon bantuannya untuk masalah ini ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "90fbf1ba-f890-4423-b71b-fc80fdd95e89",
+    "data": [
+      {
+        "text": "Pesanan sudah diterima oleh pembeli, namun status transaksi belum berubah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cd7e8ff1-0fcb-41ee-93f7-b95e9c826d64",
+    "data": [
+      {
+        "text": "saya sudah memasukan no resi tetapi status komplain masih di menu menunggu penjual memasukan resi. harus nya menunggu pembeli menerima barang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "50bf0916-b3e5-483b-9f93-3bff1fffb3db",
+    "data": [
+      {
+        "text": "sudah sampai, tapi status belum berubah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "01d5c3c7-4d9e-418e-a5bc-af5dab48c4fb",
+    "data": [
+      {
+        "text": "kiriman saya sudah sampai tujuan, tapi status di toped masih dikirim. jd pembayaran juga gantung. tolong follow up nya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "55487a78-626d-49b1-978f-78267df277fd",
+    "data": [
+      {
+        "text": "sy tracking barang sudah sampai lokasi, namun status masih dalam pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d4c99f2f-4b79-4bf4-821b-a79ba76af03a",
+    "data": [
+      {
+        "text": "status di tokopedia belum delivered. Padahal di web statusnya sudah delivered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4fc9e4ef-f670-4f70-a67a-9a5cbfeb8534",
+    "data": [
+      {
+        "text": "hai toped, ak ga bs cek resi knp ya? tp kl di cek di webnya JNE bisa.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "98d6ebc0-0ca4-42fb-a5d8-b3e6bfed090d",
+    "data": [
+      {
+        "text": "kenapa resi yang saya input di refund belum di cek?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0256d900-5588-4e27-9704-2f50a9330e92",
+    "data": [
+      {
+        "text": "transaksi saya resinya dinyatakan tdk valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2fdefed4-b99c-44b6-949a-a3717030bc28",
+    "data": [
+      {
+        "text": "barang udah saya kirim. tapi status brg tb2 menghilamg?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a86dbd5e-fa78-4261-aa4b-2228b5a8b4c2",
+    "data": [
+      {
+        "text": "nomer resi yang dikirimkan tidak sesuai dengan alamat saya,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dc66d1f0-64a4-4876-8d3e-b4dc6e94f562",
+    "data": [
+      {
+        "text": "pihak kurir/gosend tidak melanjutkan pickup dan memilih opsi selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cf7b8ad8-13b1-49a1-b816-36f1f3d35aad",
+    "data": [
+      {
+        "text": "saya mau tanya td kan saya pencet request pickup ..kok langsung muncul barang terkirim n sudah muncul resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2700eb86-91c8-4916-83ff-2304a41cc5de",
+    "data": [
+      {
+        "text": "penjual memasukan no resi orang lain pada saat waktu respon habis tolong tindak lanjuti penjual seperti ini saya fanny engriana alamat di bandungnamun pengiriman kejakarta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a4486e70-60f7-4ef8-bc57-1967a6a163e6",
+    "data": [
+      {
+        "text": "Barang belum saya terim hingga sekarang tapi keterangan sudah sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "694a3b7e-287b-45e6-b0cb-db520c9c68d0",
+    "data": [
+      {
+        "text": "tolong bantu selesaikan transaksi ini, pembeli tidak dapat menyelesaikan transaksi padahal paket sudah terkirim ke pembeli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "25721844-b5f1-40a4-b02e-eef326e12abf",
+    "data": [
+      {
+        "text": "paket sudah diterima pembeli dan pihak kurir juga sudah menyatakan telah dikirim. tetapi di aplikasi toped masih berstatus sedang dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2082933f-d478-4cb0-90c4-b129f435c215",
+    "data": [
+      {
+        "text": "saya kan uda masukkin resi nya juga. barangnya uda sampe. kok dananya ga muncul di saya sihh malah dibalikkin lg orgnya!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "59861fd7-0075-4ce7-b813-0bef578f8aa8",
+    "data": [
+      {
+        "text": "Dear Tokopedia, keterangan sudah di pick up dan sudah sampai di tujuan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cd67b15d-9280-4ed5-914c-8cc586003379",
+    "data": [
+      {
+        "text": "resi tidak valid..padahal sy sudah memasukan resi asli dari jne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "aa03911f-4256-4fcc-bc12-c6a2a5db290e",
+    "data": [
+      {
+        "text": "Saya melakukan transaksi dgn Hippo Power Bank. saya sudah TERIMA barangnya tapi statusnya dalam proses pengiriman sedangkan No.Resi ANC94942 saya belum terima barangnya tapi status sudah DITERIMA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "71705590-dd23-4b28-9c19-a767656a782b",
+    "data": [
+      {
+        "text": "kenapa waktu saya mau lacak pengiriman status nya pagi ini selalu ada masalah dengan koneksi dan di minta mencoba lagi. padahal saya coba lacak utk pembelian dari seller lain status tracking nya tdk bermasalah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "daf24a5b-5c1e-4bb9-9e46-a63c7042ea24",
+    "data": [
+      {
+        "text": "penjual memakai kode resi palsupadahal barang tidak ready",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "554cd34d-d8b9-427e-80cf-5905cce65aaa",
+    "data": [
+      {
+        "text": "pengiriman saya dgn invoice INV/20181113/XVIII/XI/230766211 saya cek resi di pos indonesia status Valid dan paket sudah di terima 3 hari Lalu ..tapi status di tokopedia status resi nya masih menunggu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "aa23078b-bc2b-44af-baa2-47f05a95627a",
+    "data": [
+      {
+        "text": "saat konfirmasi resi saya coba ganti kurir menjadi JNE tetapi selalu gagal dan muncul notifikasi bahwa barang ini tidak dapat menggunakan service reguler. system Tokopedia membaca resi saya menjadi invalid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6c60bde5-2140-45df-8596-3a270451847a",
+    "data": [
+      {
+        "text": "Saat resi mau dilacak/ternyata tracking bermasalah.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "395fd143-985a-47d4-adfa-3a37c86cae3e",
+    "data": [
+      {
+        "text": "min ini saya udah masukin resi kok ada keterangn tidak valid ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2958151e-9900-475f-9c14-3b27031ae499",
+    "data": [
+      {
+        "text": "sebelumnya pembeli menggunakan ekspedisi sicepat. kemudian pesanan dibatalkan sistem diganti jne. sedangkan barang sdh terkirim via sicepat. sehingga resi tdk valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "331747e2-41ca-47aa-bd6a-a5743eef3857",
+    "data": [
+      {
+        "text": "siang kak..ada barang penjualan saya yg belum dipickup sama driver grab..tapi distatus  sudah sampai tujuan..gimana caranya saya sudah hubungin driver grabnya ..tapi katanya gak tahu menahu ..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "91be0144-57f1-4d39-98db-81fbd501d744",
+    "data": [
+      {
+        "text": "nomer resi: 010490214475818invoice dan resi tersebut invalid,mohon bantuannya min.makasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "193b154c-ac01-4250-a71b-9c2041875d98",
+    "data": [
+      {
+        "text": "status sdh diterima ,tp sy blm terima barangnya,tlg dibantu scepatnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "30a1e81e-f926-410e-9d06-e99f97ac5972",
+    "data": [
+      {
+        "text": "saya mau tanya, kenapa paket saya no resinya bukan nama dan tujuan yg saya berikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "64b8d491-7b30-4daa-8ced-354367f8b5c6",
+    "data": [
+      {
+        "text": "barangnya udah smp ke pembeli tp statusnya masih menunggu yah, tolong bantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e4c573ec-e5c1-4f88-b27a-89a8f2349558",
+    "data": [
+      {
+        "text": "ini driver sudah antar pesanan dan barang sudah diterima pembeli kenapa status masih belum yah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4edb65ff-4de7-4400-9480-20bfa35aafdb",
+    "data": [
+      {
+        "text": "pas masukin resi lupa ga ganti kurir nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f0fa23fc-ced7-487c-8f20-71bc55963d39",
+    "data": [
+      {
+        "text": "saya salah melakukan input resi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1793ec5d-b4b4-4859-96e7-bafaf8315689",
+    "data": [
+      {
+        "text": "barang pun sudah saya terima...tetapi ada kendala d sistem buat menyelesaikan orseran tidak bisa...mohon bantuan nya...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3cbe41c0-6ddb-4216-a4eb-51cea2e9ab7c",
+    "data": [
+      {
+        "text": "Barang sudah di pickup dan saya sudah menanyakan via telp  ke pembeliii apakah brg sudah sampai . Brg sudah sampai .tapi di system masih pencarian driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "15d8e069-d949-4b22-a85c-30dd85c493b1",
+    "data": [
+      {
+        "text": "produk memang sudah sampai ke tangan pembeli. jadi emang sebelum dia klik beli, saya udh kirim barangnya soalnya sudah hubungi lewat wa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6fe1b728-fdc4-4e43-ad01-b72375af2271",
+    "data": [
+      {
+        "text": "tolong diperhatikan dari kemarin proses pengiriman tidak berubah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f065dea8-2b13-46b2-8158-35b2f5e73043",
+    "data": [
+      {
+        "text": "min mohon bantuan untuk orderan INVDTAG karena telat diupdate resinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8cdde899-5649-4501-8de6-264ead38e462",
+    "data": [
+      {
+        "text": "saya mengirim dengan JNE OKE , BUKAN DENGAN KODE BOOKING YG DI KASIH SISTEM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2a8a22ec-a2a7-453b-ba53-47704364dc1b",
+    "data": [
+      {
+        "text": "mengenai pengiriman barang yg resinya diinput tapi menggunakan no resi yg tdk bisa dilacak.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "504e2585-b9a9-46d5-8f9f-de331bc27367",
+    "data": [
+      {
+        "text": "kok statusnya blm ganti.. pdhl sdh dikirim dan sdh diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b0f9f147-6238-4157-ada0-51d9fc2e29b5",
+    "data": [
+      {
+        "text": "saya sudah beberapa kali lo masukkin nomer resi. bahkan barangnya sdh mau sampe ke seller. kl statusnya masi menunggu pembeli memasukkan nomor resi terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "42756777-b2f7-4842-88a3-cf0c281ee5d3",
+    "data": [
+      {
+        "text": "barang sdh diambil driver dan sdh diterima pembeli. tp disitu tdk muncul brg sudah terkirim.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "153a98f2-f824-49bd-892e-6198d41ae2f7",
+    "data": [
+      {
+        "text": "sistem pelacakan sudah sampai tp stausnya masih dalam pengiriman, seperti nyangkut, apa lg ada masalah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "13fe9d34-62bf-4365-9c74-beeb11f52683",
+    "data": [
+      {
+        "text": "Barang belum sampai tp sudah dikomplain oleh pembeli krn resi tdk bs track. Kami sudah bantu track kasih bukti tp pembeli tdk mau konfirmasi dan bukan salah kami kl resi ga bs track di tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d2f6e604-2fb1-41ac-84fa-b41a8db88a23",
+    "data": [
+      {
+        "text": "pesanan saya no resi tidak valid.. penjual bilang sudah sampai.. tapi kenyataannya blm ada sampai skrg..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6e0e088e-7e8e-4f4d-868b-42571e47a8bf",
+    "data": [
+      {
+        "text": "mas sy mau minta di cek resi ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4c45b296-b8e0-48bc-96b7-1ce114f60ff8",
+    "data": [
+      {
+        "text": "bagaimana jika resi yang diberikan tidak sesuai dengan penerima?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9a745ef6-3659-4542-96aa-23347de64d24",
+    "data": [
+      {
+        "text": "barang saya tidak sampai. tapi status selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6c7ad64d-dfd3-4340-9db8-6ccd5a1acb24",
+    "data": [
+      {
+        "text": "barang saya di status telah sampai tapi kenyataan belum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1128f046-38a5-4f0e-ba12-103444c013fa",
+    "data": [
+      {
+        "text": "barang sy di status j\u0026t sudah sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f333f849-f05a-4711-a90d-d6bc1d9d1eda",
+    "data": [
+      {
+        "text": "saya ingin menanyakan, mengapa sampai saat ini laporan pengiriman masih belum diterima, sedangkan barang telah sampai dan diterima,,,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "754c048c-f768-49e9-a42f-e170a4ea53e6",
+    "data": [
+      {
+        "text": "barang belum diterima tp status sudah sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c8554565-3a1f-4de6-8e25-353c35f5d4c6",
+    "data": [
+      {
+        "text": "status pengiriman yang belum berubah di tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "aa77b13b-457a-423d-950f-77d83e96ba72",
+    "data": [
+      {
+        "text": "barang ku belum sampe tapi notif nya udah diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e69fd1a8-ef48-42ed-af6b-17186890afad",
+    "data": [
+      {
+        "text": "status pengiriman dari ekspedisi delivered, tetapi barang belum sampai ditangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7745b5bc-eff3-4d33-b365-2d8cc6a1853a",
+    "data": [
+      {
+        "text": "masih menunggu status pengiriman padalah barang sudah sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2b2404dc-950f-4264-8c8d-b80057e37aed",
+    "data": [
+      {
+        "text": "tapi di status pemesanan katanya barang sdh di kirim via J\u0026T,tapi sampai sekarang saya belum terima resi pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f0117dc1-af2c-488f-8981-91e7fd573fb2",
+    "data": [
+      {
+        "text": "barang saya belum sampai kok transaksi sudah selesai?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8a9e0d83-9999-4c2a-81df-f914a3645a74",
+    "data": [
+      {
+        "text": "Barang saya tertera sudah sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8651b815-4a33-49fd-a2f0-a3a1e6cc889e",
+    "data": [
+      {
+        "text": "barangnya belum di pickup tetapi statusnya sudah sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cf0aab0b-0651-4e87-a862-071ea187db15",
+    "data": [
+      {
+        "text": "pesanan saya belum sampai tapi di track laporannya sudah sampai ... tolong di bantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "055a54c9-82fc-4bde-98a9-113ed4f62379",
+    "data": [
+      {
+        "text": "saya sudah terima barang tapi statusnya belum sampai.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "97c2ac29-4559-47aa-9b66-ff7cdd1e8155",
+    "data": [
+      {
+        "text": "sudah lebih dari 3 jam barang belum sampai. tapi di aplikasi sudah dianggap barang sudah sampai oleh kurir. saya kecewa.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8279232c-c803-4c7f-ba07-48c8da7c6392",
+    "data": [
+      {
+        "text": "kenapa barang saya belum sampai tetapi status dipengiriman sampai. mohon dibantu tracking.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d256370a-29dd-44a6-ad46-83e0c3d84932",
+    "data": [
+      {
+        "text": "Menurut notifikasi pesanan Saya sudah sampai, tapi Aku belum menerima paket hari ini.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bcf62076-10c5-4b7d-ba68-1d1a94700369",
+    "data": [
+      {
+        "text": "barang belum saya terima, tapi diriwayat pengiriman barang dah nyampe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f2a5cf75-2958-4ce3-aad5-965d3e30dba4",
+    "data": [
+      {
+        "text": "status barang sudah sampai, tetapi barang belum kami terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "53a2a59c-8e70-4324-8ca0-de3c8e8b1357",
+    "data": [
+      {
+        "text": "barang saya belum sampai tapi dibilang sudah sampai...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "95db9f94-17a7-4dfc-8a17-d758cfdd8a33",
+    "data": [
+      {
+        "text": "-barang sudah sampe tapi masih bersetatus belum dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b61b780a-e5b1-48db-b758-9b2dbbd93a9f",
+    "data": [
+      {
+        "text": "saya mengajukan pembatalan tp ga direspon sama penjual, status barang dikirim dan saya tidak terima, nama penerima pun saya tidak kenal. gimana tuh yah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0ae04fa9-b047-48cb-85c7-d107fc73fadb",
+    "data": [
+      {
+        "text": "Ini saya pesan brang, barang belum dikirim tpi driver sudah tulis pesnan selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f6dd9d9c-7b17-44dc-ba3d-c7afe2852251",
+    "data": [
+      {
+        "text": "saya penjual, saya sudah input resi tetapi kenapa sistem Tokopedia tidak bisa melacak dan resi tidak valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "109698f9-af97-41dc-a26e-99d78993840f",
+    "data": [
+      {
+        "text": "Merchant sengaja input resi yang salah untuk menghindari pembatalan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4be3d9ca-e6e2-47ab-a3d7-bfc735fa514f",
+    "data": [
+      {
+        "text": "kenapa barang yang saya pesan tidak bisa dilacak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5d66a29b-e7d7-4db0-a86a-797a71e35f22",
+    "data": [
+      {
+        "text": "Saya order barang dan yang diinput adalah resi palsu... bagaimana yah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "79bea92d-2c44-4f10-bfb3-47494228e31e",
+    "data": [
+      {
+        "text": "dg status resi pengiriman invalid yg inputkan oleh penjual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c3a190fb-912a-4eb7-8f2c-a70d3d2be575",
+    "data": [
+      {
+        "text": "pesanan sudah saya terima. namun di sistem masih dalam proses.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e1834883-35f4-45eb-b18f-07326d2452d6",
+    "data": [
+      {
+        "text": "barang udah tiba ke pembeli tp statusnya masih pengiriman aja, saya udah kontak pembeli untuk konfirmasi tp gak di jawab2, gimana dong uang saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "99d7e6f7-9e17-4dfc-9e6f-961aebc7339b",
+    "data": [
+      {
+        "text": "pembeli komplain, saya merasa di curangi padahal paket ny sudah di terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "70b6d747-b02b-46a7-80c4-0689434a7a76",
+    "data": [
+      {
+        "text": "tlg d bantu status nya. brg sdh sampe ke tujuan. tks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "147f1d51-3998-414c-9de9-54d6b43d4853",
+    "data": [
+      {
+        "text": "Barang yang saya kirim sudah sampai di pembeli tapi kenapa dana saya belum masuk ke saldo saya ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ee73a9a8-8dda-4436-9aef-cd9af31d6c55",
+    "data": [
+      {
+        "text": "no resi tdk bisa di cek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9bfc985d-bccf-40f6-a7c5-f4741737059d",
+    "data": [
+      {
+        "text": "sy minta bantuan krn input no resi tdk valid,bgm caranya ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "07996ca8-1fa9-4f2b-891d-486e26a5dd92",
+    "data": [
+      {
+        "text": "resi nya sdh sy input dgn benar, itu menggunakan kurir ninja, resi otomatis,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8487c805-425e-408a-80cb-68d97a80c73b",
+    "data": [
+      {
+        "text": "ekarang barang sudah dipickup driver dan keterangan driver sudah ada di layar hp tapi tombol request pickup tetap ada dan pesanan saya tidak berubah ke bagian sedang dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8658eb36-9e28-466b-a720-7f639af6de7d",
+    "data": [
+      {
+        "text": "No. resi di blg tdk valid, padahal sekarang barangnya sdh sampai di costumer..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ade262bf-18cf-4a8c-83e6-e1743afd4c9e",
+    "data": [
+      {
+        "text": "grab nya tidak datangtapi statua orderan selesaicustomer belum terima barang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "168a7b27-0213-4552-ac3b-0434db9d7638",
+    "data": [
+      {
+        "text": "kendalanya sptnya tiap sy pengiriman menggunakan pos ind",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "55f6a258-b46d-4000-8cec-0d02a1868832",
+    "data": [
+      {
+        "text": ". jadi ada 2 gojek yg menuju alamat pickup saya.. tapi yg terdeteksi di tokopedia hanya gojek yg kedua.. tapi yg pick up barang saya gojek pertama..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4a9eadcf-f283-4042-a335-e5262eb78fdd",
+    "data": [
+      {
+        "text": "Mohon update status lacak kiriman, karna info suplier paketan sudah sampai. terimakasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0d8af800-5a03-4f7c-8827-482883ed5db8",
+    "data": [
+      {
+        "text": "barang sudah di terima pembeli dan sudah konfirmasi terima barang di toped tapi saldo toped tidak ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "86478965-7457-4089-a409-91f809af3fda",
+    "data": [
+      {
+        "text": "kami mengirim kan pesanan ke grab yg mana pembeli mengorder lewat gosend. sehingga tidak terdetect secara penerimaan barang. ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "64a52233-e1b5-49a7-9cc7-4f4163d74653",
+    "data": [
+      {
+        "text": "saya cek no resinya tidak terdaftar di jne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7ec00c36-cffb-4cf7-a608-643050f5574b",
+    "data": [
+      {
+        "text": "no resi tidak valid padahal sdh sesuai dg no resi yg saya kirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "052f0fa7-37ac-4850-be68-48a471b34e42",
+    "data": [
+      {
+        "text": "resi tidak.update barang sudah terkirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7a4331ef-bdce-49e9-b166-8cb77036d313",
+    "data": [
+      {
+        "text": "kak ini produk sudah delivered atas Nama EKO Security alamat trsbt kok belum di update?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "98e655ef-2c87-4e7a-8ff0-f8af014e231d",
+    "data": [
+      {
+        "text": "maaf ni saya sdh masukan nomor resi yg benar kok sistemnya ga bisa dilacak padahal resi sdh benar saya kirim barang dari tgl 28/10/18",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "24062326-9424-47fc-a719-6545b3abe30e",
+    "data": [
+      {
+        "text": "Saya menerima orderan kemarin, saya sudah kirim barangnya. Tapi pagi ini tiba2 batal. biasanya tidak secepat ini. tolong saya. saya mau input resiny jadi ga bisa krn batal.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "36ca9d36-626b-4597-b612-d088c12cdfb7",
+    "data": [
+      {
+        "text": "saya menunggu pesanan saya dan saya lacak sudah ga bisa krn sudah sampai dan ada yg menghubungi saya mengaku si penjual dan mengatakan bahwa jam tangan tersebut ada di bandung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0bfbf1d8-7b97-4784-9ff5-1b2a7c6ebf9f",
+    "data": [
+      {
+        "text": "nomer resi saya tidak valid, barang sudah saya kirim.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "55463d0a-45ba-4b2b-95de-313949c84c84",
+    "data": [
+      {
+        "text": "saya tdi buru2 masukin resi, jdi saya masukin resi customer lain ke invoice ini INV/20181029/XVIII/X/223772730 ..sedangkan status resi itu statusnya sudah sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c36e8c9b-0100-4e5f-9614-3b637c620e8d",
+    "data": [
+      {
+        "text": "Pesanan sudah diterima oleh pembeli, namun status transaksi belum berubah.  Dari status tracker via MyJNE paket telah sampai ke alamat penerima pada tgl 28 Oktober, tapi kenapa status di sistem Tokopedia belum berubah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7fbfa16b-b02e-4379-a62c-142a7baac387",
+    "data": [
+      {
+        "text": "saya melakukan pembelian dan sdh melakukan pembayaran, namun blm berubah di status nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a2984942-1e74-4c91-84bd-55a16b722430",
+    "data": [
+      {
+        "text": "maaf mau nanya resi yang saya kirim tidak terlacak.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1d6ee0cb-3cc1-4cee-b87f-d5202d2b1f03",
+    "data": [
+      {
+        "text": "no resi yg saya masukkan kok masih menunggu status dari kurir, kenapa ya min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "663a6062-a3c7-4ddd-b8bf-9facfd3216ff",
+    "data": [
+      {
+        "text": "barang sudah diterima oleh pembeli,tapi kok status aplikasi masih mengirim ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "19e91d7f-b364-46a8-868e-eb5bba7593ab",
+    "data": [
+      {
+        "text": "no resi yang dikasih penjual tidak bs di lacak di jne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cd28e8f2-1add-46b0-b648-ea1b06966dd3",
+    "data": [
+      {
+        "text": "nomor resi transaksi saya tidak bisa dilacak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "80d07709-7abd-4e92-b8d4-a6f3f1cfdbb2",
+    "data": [
+      {
+        "text": "saya udah terima barangnya tp penjual salah input resi, apa benar dananya akan dikembalikan ke saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e6fe772a-0736-4e55-86b8-391744263544",
+    "data": [
+      {
+        "text": "resi tidak dapat di cek...........",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dba6cad9-f784-4767-9b08-4323ae18db64",
+    "data": [
+      {
+        "text": "statusnya gak berubah2, paket sudah sampai ke tujuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ca0d14d2-86fe-4974-a19c-ee40d7357cd4",
+    "data": [
+      {
+        "text": "resi pengiriman saya kenapa tidak terdeteksi sistem ya? saya gak bisa lacak pengiriman jadinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5fb22457-8e4b-4c01-89b8-d9c1b1766b08",
+    "data": [
+      {
+        "text": "Resi Invalid. Apakah jika salah memasukkan no resi ongkos kirim akan di potong?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9d5294ed-8656-4e04-9ae4-3ffd4d1f2845",
+    "data": [
+      {
+        "text": "Kurir Wahana Resi AMR32768Mgpa barang blum ditrima....tapi status sdah di ok kan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6189b574-8490-45e5-abd5-14ca73c48951",
+    "data": [
+      {
+        "text": "saya mau tanya,kenapa lacak resi pos indonesia selalu error yah?lacak melalui toped ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "93bdd199-6af1-49cd-8ec0-8e3aea8b8f3c",
+    "data": [
+      {
+        "text": "di kasih no resi palsu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3d1b8117-124e-4506-9336-5e7aca79dce5",
+    "data": [
+      {
+        "text": "hai toped, ak ga bs cek resi knp ya? ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8c942c0e-f637-41b9-a455-b0eccb7a1e15",
+    "data": [
+      {
+        "text": "kenapa resi saya status invalid padahal benar2 dr jne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1faf22a2-8085-4da3-b886-94a20301b8f1",
+    "data": [
+      {
+        "text": "kenapa resi yang saya input tidak terlacak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "66568ccf-5a13-46ac-b622-88e3862d85d5",
+    "data": [
+      {
+        "text": "barang yg diterima oleh pembeli sudah sampai semua ya, mohon untuk mencairkan dana saya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6b820165-d94e-45d0-a1bf-27c166bdadb3",
+    "data": [
+      {
+        "text": "kendalanya barang sudah sampai tapi buyer ngak bisa konfrim dananya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "43f8ebab-9527-4fb0-ace7-4d390fc11aa4",
+    "data": [
+      {
+        "text": "setelah barang sampai, si pihak pembeli tidak bisa konfirmasi dikarenakan no resi tdk valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "27ce5271-5b19-41ba-bcad-66b1225a5775",
+    "data": [
+      {
+        "text": "tidak bisa terbaca resi oleh sistem, karena saya ganti kurir dari JNE ke internet, bisa bantu diselesaikan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "47a39cf4-9770-43c3-81d0-e11c8c80787c",
+    "data": [
+      {
+        "text": "resi tiki tidak valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f0cc832d-4251-449d-970d-6af76adf0106",
+    "data": [
+      {
+        "text": "saya kirim pake gojek aplikasi, jadi saya terpaksa ganti kurir menjadi pos, skrg resinya gak bisa terlacak, mohon bantu admin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c1d18c1a-4498-4117-8e39-3a3e1d0dd045",
+    "data": [
+      {
+        "text": "mohon untuk tdk mengcancel transaksi penjualan saya karena barangnya udah saya kirim tp saya belum dapat nomor resinya, jadi saya masukin resi asal dulu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2f177f1b-b234-4c41-bfb4-164a04c7b5a5",
+    "data": [
+      {
+        "text": "barang sudah sampai namun status tidak berubah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0a361b69-905d-4542-b9e4-890c03aaeb66",
+    "data": [
+      {
+        "text": "resi pembelian saya tidak bisa dilacak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "21cb7542-a915-476e-8e9a-143c4c16bb5a",
+    "data": [
+      {
+        "text": "no. resi yg diberikan penjual sebagai bukti kirim dan barang sudah diterima ila. Padahal jelas2 alamat dan penerima beda dengan data saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "66b50d7f-5994-4f6d-983f-cd40052ed272",
+    "data": [
+      {
+        "text": "bahwa ada keterangan No resi salah input.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "563800a5-5242-4b58-b27f-fdaf95990853",
+    "data": [
+      {
+        "text": "terjadi kesalahan katanya resi tidak valid sedagkan saya masukin resi bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7e0bd417-7ddf-4e37-b992-9400220e5c01",
+    "data": [
+      {
+        "text": "kemarin ada salah input resi. tolong dibantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "76b41d7c-8f62-4f65-ad55-35223afaf0cc",
+    "data": [
+      {
+        "text": "pesanan sudah delivered tapi di status shipping terus dan pembeli gabisa klik terima pesanan . knapa ini?kan seharusnya statusnya pesanan telah sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5cc13ca2-998b-40e8-8594-9860abeea44c",
+    "data": [
+      {
+        "text": "saya cek kok resinya sudah sampai ditujuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1b7d631b-699e-4946-bf69-4f510ddda4b8",
+    "data": [
+      {
+        "text": "status orderan tokopedia jne tidak terverifikasi sejak tadi pagi sampai malam ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0cae2da5-5b14-42db-9f3c-8086da1c14f1",
+    "data": [
+      {
+        "text": "barang sudah saya kirim,tetapi status nya tercancel karena salah input no resi,,mohon informasi nyano resi : ams444482 harus nya ams44482",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9520910f-a3d7-4ac9-99a8-f7269fa91831",
+    "data": [
+      {
+        "text": "sore..mau Tanya apakah Ada kendala tracking Jne? karena pengiriman Saya yg per tanggal 5 November semuanya tidak bisa terlacak..trima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ba0301fd-6117-4b56-856f-701b0945619d",
+    "data": [
+      {
+        "text": "No resi tidak valid. Tidak bs di tracking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1162016f-ee81-46b5-a092-8386313cb6a1",
+    "data": [
+      {
+        "text": "saya ingin melihat pengiriman melalui lacak, kenapa tidak bisa ya?  pesanan sudah 3hari yg lalu,  status pengiriman di sedang dikirimkurir ninja expres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3c6c3231-10b8-4508-883f-a1898686aa30",
+    "data": [
+      {
+        "text": "saya sudah input resinya, tapi lupa mengganti kurirnya menjadi JNE, sehingga tidak bisa dilacak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "de1d3680-d767-4282-8b3a-a3a809eb67bb",
+    "data": [
+      {
+        "text": "barang sudah sampai sesuai informasi dari pembeli, namun belum di lakukan konfirmasi penerimaan barang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "af63f19d-2844-4b2e-9a82-b78df0d0cb31",
+    "data": [
+      {
+        "text": "paket sudah di ambil driver tapi sistem bilangnya batal,tlg d bantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "40e3056f-64d6-4467-ba9a-710ebe80a113",
+    "data": [
+      {
+        "text": "Mau nanya Invoice itu sudah saya kirim sejak kemarin, tapi kenapa gak bisa dilacak,, padahal di web bisa dilacak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c157ef6e-f699-498a-81b7-14f7deb23f0d",
+    "data": [
+      {
+        "text": "status pesanan saya dari tgl 25 kenapa masih driver mengantar pesanan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "83014e50-080b-4290-92c7-a11fd265c397",
+    "data": [
+      {
+        "text": "Barang sudah sampai tujuan tetapi status masih sedang mengirim.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "52bd45c4-1607-4ea4-aeae-75a2d9faa9b7",
+    "data": [
+      {
+        "text": "Nomor resi belum bisa di track",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0bfc33ee-b80f-4332-b439-f7bf5c637a5d",
+    "data": [
+      {
+        "text": "saya kirim. j\u0026t resi manual tapi kok dapat kode booking? saya pakai hp tidak bisa cetak kode booking.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a32e6193-fcc2-4019-a0ee-9605734944a0",
+    "data": [
+      {
+        "text": "saya sudah komplain tp penjual tidak merespon, resi yang di input penjual itu tidak terdaftar di website kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fb0a551a-fcb8-483f-a4c5-9461e96bd484",
+    "data": [
+      {
+        "text": "barang dah seminggu gak sampe juga, salah input resi juga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b6139f9e-7191-4683-a8ff-df9d2c67a461",
+    "data": [
+      {
+        "text": "saya udah kirim bukti resi dan sudah di validasi tim tokopedia, saya kirim pake kurir berbeda atas persetujuan pembeli, tolong bantu ubah status penjualan saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "abf12b52-80e1-41bb-9289-f9b9107170ae",
+    "data": [
+      {
+        "text": "prosesnya lama dan ribet, resi selalu tidak bisa dilacak, tolong di update dong resinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2825ac27-1e49-42bb-a10c-70e220e5c6ba",
+    "data": [
+      {
+        "text": "kenapa transaksinya batal otomatis padahal barangnya sudah sampai di tujuan, mohon bantuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7cf09ccb-6a85-439d-9970-f89a62e219f8",
+    "data": [
+      {
+        "text": "trx berhasil namun saldo dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "44b64e2a-42cc-4527-950f-c3bd4029efad",
+    "data": [
+      {
+        "text": "admin ada masalah.barang sudah sampai tetapi status di pengiriman tidak berubah.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ad94c081-4caa-4f28-a9c6-73c32dd8c2c7",
+    "data": [
+      {
+        "text": "resi keterangannya tidak valid,padahal resi betul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e4313791-d17a-4405-b5a8-1393ce10314f",
+    "data": [
+      {
+        "text": "saat di cek nomor resi tidak valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "197e18f1-139b-4c10-b208-8c7cf04ed78f",
+    "data": [
+      {
+        "text": "nomer resi tidak terbaca karena penjual salah kirim menggunakan kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "25869d48-d3b8-4145-86a5-e0676feb5a4d",
+    "data": [
+      {
+        "text": "mohon bantuan. barang sudah sampe ke pembeli.. status tdak bisa di konfrmasi penerimaan barang.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bc14fd96-bdf2-40da-ae28-242e892b858b",
+    "data": [
+      {
+        "text": "untuk invoice sbb no resi tdk bisa di track seteleh di rubah/di ganti,..statusnya jadi menunggu pengiriman / di bisa di lacak no resi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "af070df7-6c55-4b20-9b12-7207afe4036e",
+    "data": [
+      {
+        "text": "nomor resi pengiriman sudah saya input,tapi kenapa statusnya masih siap dikirim saja ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "75c1a5d9-8ecb-4dcf-9150-0e97cd40ebbd",
+    "data": [
+      {
+        "text": "Barang status sudah sampai tujuan,  tapi di aplikasi toped masi penjemputan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dfe8767a-e615-4949-8b93-7746296d580f",
+    "data": [
+      {
+        "text": "transaksi ini,barang sudah sampai bisa di lacak tapi kenapa resi tidak valid,padahal resi sudah benar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2c99224d-7e8d-4f77-9fb4-f6ac6fcb9ed2",
+    "data": [
+      {
+        "text": "Seller mendapatkan sms nomor resi tidak terlacak,  padahal bisa dilacak,  kita akan lampirkan foto resi fisik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "07c82537-2dd2-4b32-81ad-2d9f5b688f3b",
+    "data": [
+      {
+        "text": "no resi tidak bisa dilacak. kolom komplain ga ada pilihan utk masalah ini. tolong dibantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "51bd0d47-b1c0-48e2-9c8c-a29838d99359",
+    "data": [
+      {
+        "text": "saya sudah melakukan pengiriman barang pada tanggal 6 oktober dan sampai sekarang barang tersebut belum sampai ke pembeli, padahal kurir menyampaikan barang tersebut sudah sampai.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6dcafa41-9f16-41b1-bd8e-67d7f76f6af0",
+    "data": [
+      {
+        "text": "ada kesalahan input kode resi, semantara costumer telah menerima barangnya dah sudah melakukan pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ec64596a-e36e-4c21-897a-54cb419b7c08",
+    "data": [
+      {
+        "text": "Invoice ini suda ditrima lama, kok status nya ngga selesai2 ya kak? Kami ada beberapa transaksi spt ini.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8637cadc-3f73-4d14-a9f8-51204cedaacc",
+    "data": [
+      {
+        "text": "resi yang di input seller tidak valid. Request kurir saya via pos indonesia, namun seller input resi dari kurir lain. saat di track nama dan alamat di resi berbeda dengan nama penerima dan alamat yang tertera pada invoice.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "23d4c639-e002-4b35-9b9a-10866d1bbfbd",
+    "data": [
+      {
+        "text": "iya invoice ini tp ko bs barang nya sudah sampai tp blm bs diselesaikan tiki nya sudah benar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "aabbd456-46ad-4d71-92d2-a0c2a9f2f450",
+    "data": [
+      {
+        "text": "transaksi selesai tapi saya belum menerima orderan saya, ketika di cek di website pos item masih on the way",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9d3f3c6d-5247-46f1-8ff2-30d7dfe7e523",
+    "data": [
+      {
+        "text": "order penjualan saya yg sy kirim melalui kurir JNE, sy sdh upload resi sesuai resi yg sy trima dr JNE.. tp status pengirimannya masih menunggu status update kurir. knp ya min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4a24f909-3dff-4795-be2d-9e719918e9aa",
+    "data": [
+      {
+        "text": "untuk nomor resi yg tidak valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "49160558-9c46-45ee-96b1-25e7076ab4b2",
+    "data": [
+      {
+        "text": "maaf utuk resi yang tidak terbaca itu bagaimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3b1fda41-b825-4b0d-9621-d425c07c2d53",
+    "data": [
+      {
+        "text": "Soalnya Barang Belum di Ambil Dari Toko,Tapi Kurir Sudah Menyelesaikan Transaksi Pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "100fb814-2305-45e4-96b8-9a0d8d2cc877",
+    "data": [
+      {
+        "text": "kok kurirnya sudah mengantarkan pesanan ya? pdhl barang belom dipickup,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "427e81a1-84b8-4671-bf00-8fb5702e7d02",
+    "data": [
+      {
+        "text": "sdh saya kirim tapi ga bisa upload resi dgn Ket no resi SDH digunakan 2kali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9a42bfb9-f16c-425c-80cf-5d5417f613cf",
+    "data": [
+      {
+        "text": "invoice ini driver tidak pickup brg. bgaimna ini? masa 3 menit barang sampai ke pembeli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "02308013-7f45-47d9-bfe6-3b00d72d4289",
+    "data": [
+      {
+        "text": "v",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d6ed7df5-8599-4f35-8517-0cdfe1c7c579",
+    "data": [
+      {
+        "text": ".tp ketika masukin no resi ti tolak..ini gmn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d5f45076-f4b6-4220-8ee6-7351cc326fe1",
+    "data": [
+      {
+        "text": "invoce yg diatas , sudah smpai kepembeli tapi oleh sistem tidak terlacak. pembeli ini jujur dan mau mnyelesaikan pesanan.  tpi tidak bsa mohon dibantu...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a498bf31-e965-4d92-9aa4-2a9ff3e5bc27",
+    "data": [
+      {
+        "text": "status resi nya belum terlacak padahal resi sudah valid dan bisa di tracking di web jne nya.. tolong di bantu ya .terimakasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "af354fb6-d5d2-4f8c-ba83-018a4e46f9ec",
+    "data": [
+      {
+        "text": "no resi saya kok trk valid atau tdk terdeteksi..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "22c1c703-948e-425b-b783-08f741646ff5",
+    "data": [
+      {
+        "text": "Saya kirim barang kepada pembeli..  pembeli sudah terima barang dari saya lewat jasa GoSend...  tapi status nya masih dalam pengiriman..  bagaimana ini y?  mohon bantuannya..  terimakasih...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2eb72f0c-c3de-42a6-94ed-c9ca7c45e539",
+    "data": [
+      {
+        "text": "Barang sudah di terima oleh pembeli, tapi complaint pembeli tidak bisa cabut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8f988eaa-7137-49c7-ac19-0e262c6841fd",
+    "data": [
+      {
+        "text": "penjual memasukkan nomer resi palsu ke sistem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "45dc3227-8fb6-494e-a5d9-7f3dab6f3e0b",
+    "data": [
+      {
+        "text": "Inv ini tdk bs di track. Padahal one day service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "942f9c09-e7cb-4afb-a92b-b51817d26af2",
+    "data": [
+      {
+        "text": "Kenapa pesanan saya tidak bisa dilacak no resinya? Sudah cek melalui jne langsung tetap tidak ada. terimakasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7651d91c-de28-480a-88e5-22a4dd9bbc9b",
+    "data": [
+      {
+        "text": "mohon sy mnt bantuannya, kl tdk salah 3 hari yg lalu sy order akan tetapi si penjual kasih no resi yg salah atau no resi palsu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c7c64c5f-433d-4ded-9ab5-bf10125a9693",
+    "data": [
+      {
+        "text": "no resi yg dikasih salah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2f6282b1-cfc5-4132-b7d7-5ecbc2def205",
+    "data": [
+      {
+        "text": "Saya penjual sistem dropsip cust saya pakai expedisi jne tapi supplier saya malah pakai sicepat,  akhirnya resi tidak terlacak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "825a6280-fb26-46ef-ab2c-3ed7c50eab8d",
+    "data": [
+      {
+        "text": "driver tidak pickup barang tapi status barang sudah sampai tujuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1e93a453-0d5d-43de-a597-2f54cbc952f9",
+    "data": [
+      {
+        "text": "saya sdh menghubungi pihak pembeli dan sudah dicek di tujuan barang belum sampai,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0e32ca61-b223-4de0-aecf-9ec63d3ba824",
+    "data": [
+      {
+        "text": "ini barang belum di ambil driver grab tapi distatusnya dalam pengantaran ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cc349c31-c000-4012-b794-53fee48b1265",
+    "data": [
+      {
+        "text": "barang blum di pick up.. tapi statusnya sudah terkirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2066c15d-5d30-4221-b115-b191585ff752",
+    "data": [
+      {
+        "text": "Barang sudah saya kirimkan dengan jasa kurir grab dan sdh selesai namun kenapa orderannya masih menggantung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ffe78e8a-2e3f-4637-9e7d-9b3ca474a1df",
+    "data": [
+      {
+        "text": "td sekitar jam 10 driver dgn no.resi GK-129318894 sudah melakukan pick up dan. sudah d terima oleh pihak pembeli. namun d aplikasi masih terjadi pencarian driver baru.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "da48b328-b98f-4d31-9d59-5b8c010faebd",
+    "data": [
+      {
+        "text": "Ini ada pesanan tidak di pickup up tapi sudah selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4e4c622b-ac18-493e-8e33-61bf9e006a7c",
+    "data": [
+      {
+        "text": "saya masukin no resi retur barang tapi gak tidak valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "db81cc70-acde-4c98-b9c7-0d41b9674990",
+    "data": [
+      {
+        "text": "kalau barang Belum di pick kurir Dan keterangan sudah terkirim bagaimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8b6c5490-7d56-49f6-b692-089b0c5aff93",
+    "data": [
+      {
+        "text": "penjualan saya yg realme c1... statusnya gojek gagal melakukan pick up padahal barangnya uda di pick up kmarin...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e596940e-e104-4858-a750-dafdc3c5da91",
+    "data": [
+      {
+        "text": "barang saya udh terima koq pas saya klik terima pesanan jadi batal ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6424d976-9613-4010-bc8d-546b7314419e",
+    "data": [
+      {
+        "text": "saya sudah melakukan pengiriman, resi sudah di input dan barang sudah sampai ke penerima, tapi pesanan saya dibatalkan otomatis oleh tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "16108cc0-3d72-481f-9a42-ec4ce70c4e88",
+    "data": [
+      {
+        "text": "Barang belum dikirim tapi konudah ada yang terima. ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "287ae68a-087c-4b97-934a-a831b0248d9a",
+    "data": [
+      {
+        "text": "barang saya tidak samapi tapi notifikasi sudah diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "30c7fd8c-5837-4aba-904e-b3c7f9f393a9",
+    "data": [
+      {
+        "text": "sampai hari ini belum diambil. tapi status sudah berubah menjadi brg sudah sampai tujuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b41561b8-2692-4a19-8923-43d568ba55da",
+    "data": [
+      {
+        "text": "Status dan transaksi blom selesai sedangkan barang sudah terkirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c565913d-775e-4bc8-a269-0310da2f4c99",
+    "data": [
+      {
+        "text": "No resi wahana yg di masukan di orderan pesanan yg kami terima keterangan nya tidak valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5cc39192-c3bd-4a7d-8950-cafb110145ad",
+    "data": [
+      {
+        "text": "Status pengiriman sejak tanggal 22/10/18 tidak berubah - with delivery kurir.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0c3f6da0-05d1-434e-aa9f-6d3eb9ef44d2",
+    "data": [
+      {
+        "text": "nomor resi ga valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3515b725-5f11-4cf4-b432-884eb2ba4b2d",
+    "data": [
+      {
+        "text": "saat saya buka aplikasi saya pun kaget bawa status sudah selesai padahal barang blm sy terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0c4666f8-190a-4013-8de9-5e35d04eae33",
+    "data": [
+      {
+        "text": "tracking gak jln,sehingga dana penjualan blm cair.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ae3303ff-2225-455c-b186-c6aae9e4b9d8",
+    "data": [
+      {
+        "text": "pembeli belum konfirmasi sedangkan produk sudah sampai sudah 2x24 jam ka",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a0355cee-fddf-4517-aee4-44bc8135f741",
+    "data": [
+      {
+        "text": "saya tidak bisa lacak pengiriman barang nya, padahal barang sudah diterima, Mau konfirmasi terima barang juga tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c53b6cbd-901b-4a52-825d-85cc850c36d0",
+    "data": [
+      {
+        "text": "Transaksi tidak dinyatakan selesai..padahal org gojek sudah ambil barang dan kirim ke tempat tujuan..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1ca793a0-70b6-45cd-837b-c0456ae8686e",
+    "data": [
+      {
+        "text": "minta resi ini di bantu selesaikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "847b08ba-6f2a-4da9-9045-f93a5e427f6f",
+    "data": [
+      {
+        "text": "no. resi diinput sesuai tetapi sistem mengatakan no resi diinput sebelum pesanan dibuat dan invalid.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "25a2c797-402c-4a2f-a6e5-736c4895c903",
+    "data": [
+      {
+        "text": "ini sdh sampai dsn sdh diambil oleh pembeli, krn oleh jne blm dirubah statusnya, maka uang blm bisa masuk ke saya. trim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d4e24a0f-26c9-4e73-abac-922703fcab40",
+    "data": [
+      {
+        "text": "hai toped ak ga bs lacak resi knp ya? kl di web jne justru bisa. thanks ☺",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 6
+  },
+  {
+    "id": "4300cc88-017b-4faa-8474-80d7f52514b5",
+    "data": [
+      {
+        "text": "saya mendapatkan toko bermasalah, keterangan di toko pedia sedang dikirim, dan mencantumkan no resi. Tapi no resi palsu dan barang belum dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "91654ce6-f6a4-40e5-a5fd-eba84ec9183b",
+    "data": [
+      {
+        "text": "system toped error, barang masih sama seller tpi sdh ke close dan diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e92835a3-e35f-4d68-988e-f9a226e91977",
+    "data": [
+      {
+        "text": "kak ini pesanan nya blm di ambl sma kurir nya, dan costumer kami tidak sengaja memencet selesai pdhl barang blm sampai, brang nya pun msh ada di kami, min tolong di carikan kurir baru ya kak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "29f4edb5-7cc5-491d-b328-71c8fa458297",
+    "data": [
+      {
+        "text": "transaksi dibatalkan, saya lupa input resi pengiriman.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "72fdd2fc-31f8-4dcd-abb3-43b87cc75944",
+    "data": [
+      {
+        "text": "resi pengiriman yg di input oleh penjual kepada saya apa sudah benar atau blm krn pembeli alamat di depok kenapa no resi kok tujuan surabaya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "50e2ea92-3e65-47f2-858b-c9787e312e63",
+    "data": [
+      {
+        "text": "barang sudah di kirim tapi status di batalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3d4d8e0a-237f-4f0d-954f-cd27fa0d5e38",
+    "data": [
+      {
+        "text": "Tidak bisa ngetrack pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "75534b47-15e4-4f5c-aab7-af734680f480",
+    "data": [
+      {
+        "text": "pengiriman barang saya belum sampai ke penerima, nomor resi yg benar sudah saya lampirkan, tdk bisa di ubah udah keburu di komplain pembeli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e49ca028-27a9-4caa-888a-5644d1eb437c",
+    "data": [
+      {
+        "text": "barang sudah sampai tp kenapa pembeli saya gak  bisa tekan terima ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8b0d528d-7791-495d-b8fc-4784baeefcca",
+    "data": [
+      {
+        "text": "di notif kataya nomer resi salah padahal benar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "78e55da5-0ab4-4568-8727-7e16f0e4a8fb",
+    "data": [
+      {
+        "text": "Saya seller kirim jne awb dari kemarin tapi sampai sekarang resi belum kedetect. Semua paket seperti itu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4713efd8-2efa-4091-b9b0-153dfe9ee5fd",
+    "data": [
+      {
+        "text": "saya tidak bisa track driver grab untuk pesanan INV/20181031/XVIII/X/224649125 sudah ada dimana karna nomor telepon nya tdk bisa di hubungisaya sudah coba telpon ke penjual juga tdk ada respon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3ea81950-97d8-409f-8ed5-2e48aacd916e",
+    "data": [
+      {
+        "text": "barang status sedang dikirim, setelah diklik ternyata tidak ada transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f4d1d80b-5215-4cd7-ae8e-f50c2ab34550",
+    "data": [
+      {
+        "text": "saya udah mengirimkan barang melalui gosend, tp kok di keterangan tidak ada ya pengirimannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "381c73f9-167d-4ba7-b2f0-bdb12540706f",
+    "data": [
+      {
+        "text": "saya klik terima paket malah dapat konfirmasi dari tokopedia, transaksi saya dibatalkan. Gimana ini ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5250d6af-3eff-4eba-a181-ab49811ab601",
+    "data": [
+      {
+        "text": "akan tetapi sampai sekarang status masih dikirim...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6e377029-59ec-44cc-bee6-0eeff397b2da",
+    "data": [
+      {
+        "text": "saya mau lacak barang saya sudah sampai dimana tidak bisa..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "550f9578-2e9d-489f-890a-b67df6f0a479",
+    "data": [
+      {
+        "text": "penjual tidak memberikan noresi dengan benar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "40c76fce-2191-4d5d-b36f-b741c6991294",
+    "data": [
+      {
+        "text": "saya kirim barang dengan gojek sameday, drivernya tidak bisa terlacak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "936dbf69-9973-4504-859b-b8e638fae88e",
+    "data": [
+      {
+        "text": "sdh dikirim ke penerima. Tp status di aplikaisnya BELUM DIKIRIM.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a6204ee5-524c-4009-9436-65209b52ac12",
+    "data": [
+      {
+        "text": "knpa resi saya tdk terlacak.. pdhl sdh saya scan kemarin..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0f00b7c2-5813-4fed-b8b9-14b894472385",
+    "data": [
+      {
+        "text": "Status pesanan belum terkirim. Resi benar, tidak bisa lacak.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7b6aff91-fb33-42ce-8976-9b1bba0c791c",
+    "data": [
+      {
+        "text": "saya sbg penjual, dan ada 3 penjualan saya yg tidak terlacak resi pengirimannya dari si cepat package",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3d327be3-6e6a-492d-be11-4fda98956d13",
+    "data": [
+      {
+        "text": "kalau saya kirim via jne apa bs masukin no resi secara manual ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d73639dc-aa87-4614-a172-4d45c8224b2d",
+    "data": [
+      {
+        "text": "barang sudah saya terima tetapi tidak ad tombol penerimaan brng",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0a55d819-365b-4a93-a016-5a7aa5d8f808",
+    "data": [
+      {
+        "text": "ini barang sdh sampe tapi knpa status pembeli nya driver sedang ke tujuan ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8cd0dd15-29a4-44b4-bd16-35d7f48ade24",
+    "data": [
+      {
+        "text": "ada keterangan \" produk kurir tidak valid\" saat mengubah no resi pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bc67c951-0e9f-4bb4-9a0e-5f320bf5c211",
+    "data": [
+      {
+        "text": "saya sebagai dropsiper external barang sdh di kirim via kurir yang berbeda dengan kurir pembeli dan barang sdh sampai atau adh diterima ,sedangkan resi dari kurir dri external dropsip tidak bisa terlacak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a638b07b-6e38-46c3-9197-93db64df3c61",
+    "data": [
+      {
+        "text": "tolong dana nya diteruskan secara langsung kepada seller penjualan 2 bh led bara karena saya gak bisa tekan tombol klik selesai dikarenakan no resinya yg ditulis gak valid...tapi  barang sudah diterima dengan baik....",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "08a2e09f-6408-4417-8140-2299fa2a7daa",
+    "data": [
+      {
+        "text": "Dari pihak toko salah mengisi no resi, mohon menginformasikan ke pihak toko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d4167591-b4fd-4e2e-9e18-381e55e0b464",
+    "data": [
+      {
+        "text": "pelanggan mau ambil di exp.si pusat ...sehingga di exp.si tidak ada perubahan stts barang diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b37e47e5-b7ca-4884-9de7-70bb096dfe00",
+    "data": [
+      {
+        "text": "katanya sudah dikirim. lalu tengah malam tadi ada notifikasi kalau pesanan dibatalkan dan dana dikembalikan ke akun saya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bddd9edd-8e7c-4766-93c3-9e0fe8d58a80",
+    "data": [
+      {
+        "text": "saya belum terima dana.. saya hari ini baru kirim balik mouse yang dibeli tidak sesuai.. pada saat mau upload foto kirim barang dan resi tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "313f7e5f-35d3-40da-a3cc-1495c26ea534",
+    "data": [
+      {
+        "text": "tlong bntu di pusat resolusi minta tenggang waktu, resi kan blm deliv,. sudah mau limit waktu, dan refund ke pembeli cuma senilai barang,.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "19747bea-4860-4dc0-9dd1-a7b40a0ccdcd",
+    "data": [
+      {
+        "text": "aya order voucher map 10 jt minta pengiriman menggunakan grab instant tapi diganti tanpa seijin saya menggunakan JNT.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2da4fffc-94ce-4dcf-85b0-707418a7d0be",
+    "data": [
+      {
+        "text": "kami dr pihak penjual salah melakukan pengiriman, jadi status resinya tidak terlacak, saya mau upload bukti foto resinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7eb510e9-4e50-4edd-8950-789bd29bdbeb",
+    "data": [
+      {
+        "text": "saya udah melakukan pengiriman dengan ninja express, barangnya sudah di ambil saya ninja tp statusnya belum berubah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8a8227a6-106a-4a66-967b-860efaa8beba",
+    "data": [
+      {
+        "text": "transaksi ddiatas resi ga bisa di track..krm chat ke buyer no respon..tlg buyer utk segera merubah resi..jika memang brg tdk ada segera refund aja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0c05e8cc-8eaf-4a80-819b-d55c242d231b",
+    "data": [
+      {
+        "text": "pesanan sy dg resi 00006757656767 tdk bisa dilacak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0e07a65b-1d1b-49ab-9a2e-b6ed0b251ffc",
+    "data": [
+      {
+        "text": "Pesan barang tanggal 3 Desember sampe sekarang resi nya gak jelas..Resi palsu pun lolos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "25f1ad1a-9cfc-4b46-91b1-9e4152f60418",
+    "data": [
+      {
+        "text": "pengiriman dengan ninja ko tidak bisa dilacak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "08c9aaf4-7e57-4cfa-94b1-0877a5a6785b",
+    "data": [
+      {
+        "text": "kenapa resi tdk terlacak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c6b2539b-762f-4c85-92c6-51281cfa9bde",
+    "data": [
+      {
+        "text": "ada masalah di     INV/20181206/XVIII/XII/242742084   resi tak trlacak ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6f88de4c-7310-4d9c-9adc-d6589740210c",
+    "data": [
+      {
+        "text": "INV/20181119/XVIII/XI/233743083, pembelian di RR Petshop, no resi tidak valid, sampai saat ini pesanan belum tiba. ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "53ef5ea6-d1a1-42ad-a264-0404b972c7a8",
+    "data": [
+      {
+        "text": "No resi dari penjual tidak valid tidak dapat ditrace",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "31abc23f-7b6b-4f6c-839f-1e509eff6467",
+    "data": [
+      {
+        "text": "Saya sebagai penjual. Saya udah memasukkan no resi jnt yg benar tetapi dr tokopedia menganggap resi tdk valid.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "726771f4-c748-4c9d-be47-ffbf39b5a751",
+    "data": [
+      {
+        "text": "Kenapa pesanan saya gak bisa ditracking??Padahal statusnya sudah dikirim, menunggu konfirmasi pengiriman dari pihak kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "efebe0dc-4dd9-4dce-b917-56cc2c8a9a1f",
+    "data": [
+      {
+        "text": "No resi tdk valid saya tracking gak ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ac2453e0-37dc-4d7b-a964-706853c96eb2",
+    "data": [
+      {
+        "text": "INV/20181119/XVIII/XI/234033314 barang tidak dikirim juga, resi tidak valid,dana tidak dikembaliin,g ada info apa2 dari penjual,penjual nya parah tidak profesional",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "124bfe0a-e999-41a9-a15f-8c70d1c18a77",
+    "data": [
+      {
+        "text": "INV/20181202/XVIII/XII/240521809 resi sudh benar namun status belum diupdate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c5e10354-6d87-44c3-af8e-e9c50fe20445",
+    "data": [
+      {
+        "text": "komplain kk nomer resi yang dikirimkan tidak valaid.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7899ed1d-0ef1-4036-a6d2-1445628d7bad",
+    "data": [
+      {
+        "text": "Resi sudah benar, tp keterangan resi tidak valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0ddab89d-6a44-48c0-ac35-328d25fb85ac",
+    "data": [
+      {
+        "text": "no resi yang dimasukkan penjual tidak bisa dilacak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f54ba454-00b7-48c1-9cd5-cb71fe74bd2b",
+    "data": [
+      {
+        "text": "Barang uda sampai pembeli ga bs klik selesai karena resi jne ga valid dengan gojek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e2c079ba-cc3e-4748-9115-b123766636e2",
+    "data": [
+      {
+        "text": "Saya melakukan pembelian. Barang lagi dikirim tapi tidak bisa dilacak.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f35d90c0-2c29-4f16-9a54-f92d82928762",
+    "data": [
+      {
+        "text": "Pesanan sudah sampai di rumah saya, tetapi ketika saya mau klik Selesai tidak bisa. Katanya nomor resi tidak valid.Lalu tiba-tiba hari ini saya mendapat pengembalian dana.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2e5fdf25-175c-48e7-a5d9-bafe78fb0079",
+    "data": [
+      {
+        "text": "sy mau unggah resi ga bs. tp sy udH ubah nomer resi nya yg benar. jd gmn ya...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dc60c5b2-2805-4180-80dd-bad0ebb21344",
+    "data": [
+      {
+        "text": "sy mendapatkan psan bahwa resi tidak valid karena resi dibuat sebelum pesanan masuk,,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "01c25f6f-31c0-4cd5-89d0-a9826a365a1e",
+    "data": [
+      {
+        "text": "ini nomor resi yg di masukin penjual tapi kenapa tidak bisa di lacak saya beli nya sudah lebih dari 3 hari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "60799b7e-5e7f-4a5d-ae40-b0d7e255b35b",
+    "data": [
+      {
+        "text": "status tidak bisa dilacak ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "427f6985-d883-4737-9a7a-5e31f64c0384",
+    "data": [
+      {
+        "text": "saya sudab input resi  yg benar.  namun resi  tidak sesuai karna pengiriman  via J\u0026T",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9ece444b-a903-49cb-a0e4-d8971f4adf00",
+    "data": [
+      {
+        "text": "pengiriman SD-2-0HY7BBUNJSA5FM8BYI75 tidak bisa dilacak, selalu terjadi kesalahan koneksi. mohon bantuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c174fa5d-f162-409f-9f6a-a8adaf21455e",
+    "data": [
+      {
+        "text": "No resi pengiriman tidak valid.. sy tidak bs membuat komplain. Mohon dibantu. Karna sy belum terima barangnya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fc670142-606b-455c-8b0d-a563f7d612a6",
+    "data": [
+      {
+        "text": "belum kak, cmn tidak bisa ditrack",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "36e0d920-099a-4e45-8d09-59c735c4308d",
+    "data": [
+      {
+        "text": "barang sdh saya terima . no resinya salah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "044fe834-cba5-43fd-acaf-4b965468fa1f",
+    "data": [
+      {
+        "text": "karena jne error jadi status penjualan saya tidak terselesaikan padahal barang sudah di terima user. berikut saya kasih bukti dari partner jne saya sudah mengecek barang sudah samapai di customer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8b2da290-d24c-435a-99a5-e56cba302dbd",
+    "data": [
+      {
+        "text": "saya sudah mengirimkan barang pesanan untuk invoice berikut, namun nomor resi katanya invalid, padahal benar nomernya dan dana saat ini tidak masuk ke saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fd993eee-10e7-4341-9c2a-cbd6ab304e8d",
+    "data": [
+      {
+        "text": "Saya track kok alamat beda? Sebelumnya saya beli alamat ndak masalah kok.Jne: 5403211801394987Kok jadi boyolali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "de0d1d6d-66bf-4da4-bb62-80ba1accdde7",
+    "data": [
+      {
+        "text": "penjual dengan nama toko Atomy indonesia onlineKaryawan saya salah kirim barang denga expedisi jne pdhal pembeli minta tiki.. Mohon bantuannya untuk dirubah ekspedisinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4f45dd67-48aa-44f5-8517-dc1e82852f6a",
+    "data": [
+      {
+        "text": "kenapa barang yang saya pesan sudah sampai tetapi pesanan tidak dapat saya konfirm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "323f10d5-91b9-46ef-b89b-a835b5fb8e78",
+    "data": [
+      {
+        "text": "Barang kosong tapi sudah masuk resi jne ..gimna itu ???",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f3df871b-2825-40bb-8f49-776c9c9a6b7c",
+    "data": [
+      {
+        "text": "mohon bantu refund dana saya dengan alasan penjual memasukan resi palsu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4379bfd5-786a-44e1-9eb7-de1738b246e1",
+    "data": [
+      {
+        "text": "Tdk bs membatalkan transaksi pembelian krn seller menginput no.resi fiktif.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "639798c4-c234-4c34-b853-a211dae3dbf0",
+    "data": [
+      {
+        "text": "Saya udah bayar barang. Trus dichat sama penjual kalo barangnya ga ada. Saya minta cancel, belum juga dibatatalin.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "755c91ee-0268-4da9-94d0-874ec5df5339",
+    "data": [
+      {
+        "text": "Transaksi terakhir dibatalkanPenjual menyatakan warna yg diminta tidak ada... Padahal sudah chat sebelumnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c3bea51d-401c-4c72-812a-dbd51755d4bf",
+    "data": [
+      {
+        "text": "Penjual blm konfirmasi belanja saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "219efa90-380b-4a65-9260-d20acce62be3",
+    "data": [
+      {
+        "text": "proses kirim by JNE kenapa ga ke detect yaa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0e92d04c-b41a-4152-920b-1eb90212f700",
+    "data": [
+      {
+        "text": "gara\" resi gak valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "db45ef3e-4c75-447c-bef1-8c7545ace420",
+    "data": [
+      {
+        "text": "tolong kak bantu saya , kenapa resi tidak valid padahal resinya benar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "adfdcb6c-e0ba-48e9-a562-16e57dffa405",
+    "data": [
+      {
+        "text": "resi tidak bisa dilacak di tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b7057468-6aa0-4485-8099-421096cd507c",
+    "data": [
+      {
+        "text": "resi ga bener",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "10bb95a4-3601-4d68-8510-89c57017c71e",
+    "data": [
+      {
+        "text": "baran sudah sampai tapi kenapa pembeli saya gak bisa tekan terima ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6b1db133-edee-482b-8d6f-6cb80780ea06",
+    "data": [
+      {
+        "text": "Saya ingin ubah pengiriman si cepat jadi menggunakan JNE reg kenapa resi tidak valid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

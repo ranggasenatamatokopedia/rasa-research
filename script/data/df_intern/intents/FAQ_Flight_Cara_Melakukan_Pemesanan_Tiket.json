@@ -1,0 +1,42 @@
+{
+  "id": "3d822d0c-00ab-47f4-a35b-a0677fd6dd12",
+  "name": "FAQ_Flight_Cara_Melakukan_Pemesanan_Tiket",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flight_Cara_Melakukan_Pemesanan_Tiket-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu dapat melakukan pembayaran tiket pesawat dengan metode OVO Cash, Kartu Kredit, Transfer Bank, VA, \u003ci\u003eInstant Payment\u003c/i\u003e dan Gerai ya. Kamu bisa pesan tiket pesawat dengan ikuti langkah dibawah ini:\n\n1. Lakukan pencarian penerbangan sesuai yang diinginkan\n2. Pilih dan pesan penerbangan\n3. Isi data penumpang sesuai kartu identitas kamu\n4. Lakukan pembayaran sesuai dengan metode yang dipilih.\n5. Setelah itu, E-ticket akan dikirimkan ke email kamu yang terdaftar ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga informasi dari Toped membantu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_flight_cara_melakukan_pemesanan_tiket"
+    }
+  ]
+}

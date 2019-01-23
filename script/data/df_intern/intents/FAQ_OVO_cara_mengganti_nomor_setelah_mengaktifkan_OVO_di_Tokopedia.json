@@ -1,0 +1,36 @@
+{
+  "id": "7450d093-65fc-4c7c-ba5c-19b7b1c5dcb1",
+  "name": "FAQ_OVO_cara_mengganti_nomor_setelah_mengaktifkan_OVO_di_Tokopedia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu buka dulu ya aplikasi OVO nya. Lalu,  ikuti langkah ini:"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "1. Dari halaman awal aplikasi OVO, tekan logo \"pengaturan\" .\n2. Pilih Edit Profile.\n3. Di bagian ‘Nomor Ponsel’, tekan Ubah.\n4. Masukkan nomor ponsel baru Kamu, tekan \u0027Simpan\u0027.\n5. OVO akan mengirimkan kode 4 digit ke nomor baru, masukkan kode tersebut ke dalam kotak yang tersedia.\n6. Setelah nomor berhasil diperbarui di aplikasi OVO, silakan perbarui nomor baru Kamu di akun Tokopedia lalu aktifkan ulang metode pembayaran OVO."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_ovo_cara_mengganti_nomor_setelah_mengaktifkan_ovo_di_tokopedia"
+    }
+  ]
+}

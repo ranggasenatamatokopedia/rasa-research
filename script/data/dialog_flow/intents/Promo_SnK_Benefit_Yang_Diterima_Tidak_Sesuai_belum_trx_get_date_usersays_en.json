@@ -1,0 +1,104 @@
+[
+  {
+    "id": "f1b4d202-e8a0-4c52-8c08-d4709a5900e3",
+    "data": [
+      {
+        "text": "15 Maret 2018",
+        "alias": "tkpd_date",
+        "meta": "@tkpd_date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6933b594-c76c-43c1-8ed9-edc8ab8cdca1",
+    "data": [
+      {
+        "text": "12 Januari",
+        "alias": "tkpd_date",
+        "meta": "@tkpd_date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0a5efed2-7a9f-43b0-9e75-076ac88be978",
+    "data": [
+      {
+        "text": "12 Januari 2018",
+        "alias": "tkpd_date",
+        "meta": "@tkpd_date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ba8b2fa1-307d-4c0a-aca9-dcc87fc32d9a",
+    "data": [
+      {
+        "text": "12 mei 2018",
+        "alias": "tkpd_date",
+        "meta": "@tkpd_date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "98656188-cdb7-4472-9536-5bed41776520",
+    "data": [
+      {
+        "text": "12 Jan 2018",
+        "alias": "tkpd_date",
+        "meta": "@tkpd_date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1b50256e-8a2e-4969-8804-e64ac4fbfc41",
+    "data": [
+      {
+        "text": "@tkpd.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0
+  },
+  {
+    "id": "3a1d6bf3-7733-4051-8581-0e06fe8f46cb",
+    "data": [
+      {
+        "text": "1 Mei 2018",
+        "alias": "tkpd_date",
+        "meta": "@tkpd_date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "601e9468-4171-4486-9cbf-440ff2ba8d1a",
+    "data": [
+      {
+        "text": "2 April 2018",
+        "alias": "tkpd_date",
+        "meta": "@tkpd_date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

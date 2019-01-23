@@ -1,0 +1,40 @@
+{
+  "id": "4544aaee-afd5-407f-8b66-888dee9ef48b",
+  "name": "smalltalk.agent.help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Ada yang bisa Toped bantu? Kamu bisa bertanya kapan pun ke Toped ya :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": [
+            "Jangan khawatir! Toped akan memberi informasi yang sedang kamu butuhkan :)",
+            "Informasi apa aja yang sedang kamu butuhkan? Toped akan kasih tau kamu :)",
+            "Kamu bisa bertanya kapan pun ke Toped ya :)"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "smalltalk_agent_help"
+    }
+  ]
+}

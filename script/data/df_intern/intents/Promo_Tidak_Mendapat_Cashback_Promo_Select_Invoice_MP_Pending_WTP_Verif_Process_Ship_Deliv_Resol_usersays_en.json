@@ -1,0 +1,79 @@
+[
+  {
+    "id": "bed294c0-90ad-4c34-8576-e83e55a86b70",
+    "data": [
+      {
+        "text": "invoice_delivered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7620c3ca-7c7f-4a48-b385-4374b0e6237f",
+    "data": [
+      {
+        "text": "invoice_resolution",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2917f23e-4f8c-405d-8579-ccd9c1e3ef19",
+    "data": [
+      {
+        "text": "invoice_waiting_third_party",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a339b873-5235-4011-8b42-a627b0fe7406",
+    "data": [
+      {
+        "text": "invoice_shipping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4f1bdaa4-873a-4d04-9ad9-24fef3f9d127",
+    "data": [
+      {
+        "text": "invoice_pending",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6b02f3cb-799e-4690-a9fb-4b3069dd6731",
+    "data": [
+      {
+        "text": "invoice_process",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c9296d27-a932-4b24-8d87-840a5909bbfd",
+    "data": [
+      {
+        "text": "invoice_verified",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

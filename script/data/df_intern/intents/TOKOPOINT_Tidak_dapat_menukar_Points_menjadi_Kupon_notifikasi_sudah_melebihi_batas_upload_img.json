@@ -1,0 +1,63 @@
+{
+  "id": "7eedacf3-0e28-45b5-ba2b-3635ce77755d",
+  "parentId": "e6c54e47-06f8-4007-aa51-da3d1c05c415",
+  "rootParentId": "3702cbdf-e0ed-4db6-ae17-f7e78b7ba6f0",
+  "name": "TOKOPOINT_Tidak_dapat_menukar_Points_menjadi_Kupon_notifikasi_sudah_melebihi_batas_upload_img",
+  "auto": false,
+  "contexts": [
+    "TOKOPOINT_Tidak_dapat_menukar_Points_menjadi_Kupon_notifikasi_sudah_melebihi_batas-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Tidak_dapat_menukar_Points_menjadi_Kupon_notifikasi_sudah_melebihi_batas_upload_img-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5c640593-a022-46e0-835f-be8fc4a5a209",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1417"
+        },
+        {
+          "id": "2917020d-939b-43fc-9231-814904a4044d",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "TOKOPOINT_Tidak_dapat_menukar_Points_menjadi_Kupon"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon tunggu sebentar ya :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped bantu buatkan tiketnya ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523434379,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

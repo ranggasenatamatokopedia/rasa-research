@@ -1,0 +1,33 @@
+{
+  "id": "a36a4991-1a96-4bde-8c13-16086818e4c0",
+  "name": "FAQ_Mitra_Tokopedia_Product_Apa_Saja_Yang_Tersedia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Mitra_Tokopedia_Product_Apa_Saja_Yang_Tersedia-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Melalui aplikasi Mitra Tokopedia, kamu bisa menjadi mitra untuk pengisian pulsa, paket data, pembayaran tagihan listrik, BPJS dan pembayaran digital lainnya, ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

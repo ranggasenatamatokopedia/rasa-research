@@ -1,0 +1,70 @@
+{
+  "id": "7f1f1df8-a221-4a34-9263-fdb1e20f8158",
+  "parentId": "82c0505b-bfff-4bd5-926c-24c74f625243",
+  "rootParentId": "7f287c44-496d-4df8-b6b5-0c29a68454fc",
+  "name": "Merchant_Toko_Di_Moderasi_Inactive_Not_Success",
+  "auto": false,
+  "contexts": [
+    "Merchant_Toko_Di_Moderasi_Inactive-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Toko_Di_Moderasi_Inactive_Not_Success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "fc5ed490-5482-460d-a099-6ed51cadc637",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1036",
+          "isList": false
+        },
+        {
+          "id": "8867bd9f-800a-41c4-b991-fd1114b23587",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Merchant_Toko_Di_Moderasi",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped gagal mengaktifkan toko kamu. Tapi jangan khawatir, Toped akan bantu buatkan tiket bantuannya ya. Agar dapat dilakukan pengecekan oleh customer care, mohon tunggu sebentar."
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "data": {
+              "show_rating": false
+            },
+            "type": 0
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534249943,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "is_not_success"
+    }
+  ]
+}

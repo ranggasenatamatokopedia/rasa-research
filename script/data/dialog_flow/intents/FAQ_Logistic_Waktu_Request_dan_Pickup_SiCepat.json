@@ -1,0 +1,33 @@
+{
+  "id": "92f6d114-e9f7-42f6-853e-7ae4878c4d9b",
+  "name": "FAQ_Logistic_Waktu_Request_dan_Pickup_SiCepat",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Logistic_Waktu_Request_dan_Pickup_SiCepat-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Tidak ada batas waktu dalam melakukan request pickup SiCepat. Namun, mohon perhatikan ketentuan berikut ya:\n\n1. Jika kamu melakukan request pickup pada pukul 15.00 - 16.59 WIB, pihak kurir akan melakukan pickup pada pukul 18.00 - 20.00 WIB.\n2. Pesanan yang direquest pickup pada pukul 17.00 - 18.59 WIB, akan dipickup oleh kurir pada pukul 20.00 - 22.00 WIB.\n3. Apabila kamu melakukan request pickup diluar waktu yang telah disebutkan, pesanan akan dipickup pada pukul 16.00 - 18.00 WIB."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "7d9c21a0-8b46-4bb7-a278-91ecfac897be",
+  "parentId": "70490bf6-c131-4510-86a6-01bd64d0e920",
+  "rootParentId": "70490bf6-c131-4510-86a6-01bd64d0e920",
+  "name": "Peluang_Tidak_Bisa_Menerima_Order_Peluang_Not_Required",
+  "auto": true,
+  "contexts": [
+    "Peluang_Tidak_Bisa_Menerima_Order_Peluang-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Peluang_Tidak_Bisa_Menerima_Order_Peluang_Not_Required-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Maaf, kamu tidak bisa mengambil peluang karena beberapa hal berikut:\n#not_required.payload"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537159307,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "not_required"
+    }
+  ]
+}

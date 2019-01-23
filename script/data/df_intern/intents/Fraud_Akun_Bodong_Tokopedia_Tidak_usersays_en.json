@@ -1,0 +1,80 @@
+[
+  {
+    "id": "4d3d2d91-f321-4fa1-9177-62b394ab7343",
+    "data": [
+      {
+        "text": "enggak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3177a08a-7982-4f0c-87fe-f1b3eebae4a4",
+    "data": [
+      {
+        "text": "nggak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "72c5919b-2500-40ba-8a86-f7c48c5a05be",
+    "data": [
+      {
+        "text": "tdk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "067e8df2-a5f8-43a6-8200-87aaf4509c81",
+    "data": [
+      {
+        "text": "no",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e4cfd4f0-c6d8-4a2e-986e-d41b41bd9824",
+    "data": [
+      {
+        "text": "tida",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bb9e9d0e-23cb-4e3d-83de-f250d889c538",
+    "data": [
+      {
+        "text": "tidak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f9bcfa74-1d26-4fd5-bc9f-1f5aac8c41fc",
+    "data": [
+      {
+        "text": "sudah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

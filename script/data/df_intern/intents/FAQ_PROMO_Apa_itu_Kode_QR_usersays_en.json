@@ -1,0 +1,517 @@
+[
+  {
+    "id": "f80a2ce5-079c-4310-84c4-a0d3444c4671",
+    "data": [
+      {
+        "text": "sebenernya apa sih kode qr itu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "736633ce-fcd2-43c7-8f2f-aca8bc241ec4",
+    "data": [
+      {
+        "text": "malam min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kode qr itu apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2b272413-7df7-475f-bddf-81d2f74e37a7",
+    "data": [
+      {
+        "text": "apakah qr code itu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9763764-31d7-4f50-90b0-d2626fac5b81",
+    "data": [
+      {
+        "text": "kode qr itu untuk apa sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ff4da76-de18-44dc-97f1-d6bb208ca05e",
+    "data": [
+      {
+        "text": "saya mau tanya kode qr itu apa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "71927e69-21df-4833-9501-92b794c9b21c",
+    "data": [
+      {
+        "text": "apa yang dimaksud qr code?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d458b3e0-5d9f-476c-ad6e-5aa34fe5398e",
+    "data": [
+      {
+        "text": "pake kode qr ini gimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98262af1-0baa-409e-9284-6d3cc9789cad",
+    "data": [
+      {
+        "text": "saya mau tanya dong kode qr itu apa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "98304b57-4a7e-4d72-ba80-12787b1f15e6",
+    "data": [
+      {
+        "text": "selamat ",
+        "userDefined": false
+      },
+      {
+        "text": "pagi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kode qr itu apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0c001262-4fcc-4cec-b183-fee47811b198",
+    "data": [
+      {
+        "text": "caranya gimana mau pake kode qr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "195970a6-1bbf-4923-890f-bafe6aba1061",
+    "data": [
+      {
+        "text": "gimana saya bisa pake kodenya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b787014-4509-4556-8f89-f4789f9fcae1",
+    "data": [
+      {
+        "text": "buat apa si kode qr itu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9cecd1d3-cfe7-461d-8b43-b7dbc3abb806",
+    "data": [
+      {
+        "text": "siang min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kode qr itu apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c7c16aa9-d260-4139-86ac-7bc4c22b3955",
+    "data": [
+      {
+        "text": "code qr itu dimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "273683a8-42b8-4912-a9b1-6c4af2c514ae",
+    "data": [
+      {
+        "text": "mau tanya kode qr itu apa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a20aa8cd-1d3b-46ba-967c-42d4d532a5d5",
+    "data": [
+      {
+        "text": "saya mau gunakan kode qr itu gimana langkahnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae82eeb2-3e47-414c-8664-4d5349c57229",
+    "data": [
+      {
+        "text": "selamat ",
+        "userDefined": false
+      },
+      {
+        "text": "sore",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kode qr itu apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "28bee24a-3272-4d3f-b8fd-fdbc37dd9997",
+    "data": [
+      {
+        "text": "sore min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kode qr itu apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3bfecb54-8450-4373-a19e-9790488eb841",
+    "data": [
+      {
+        "text": "selamat ",
+        "userDefined": false
+      },
+      {
+        "text": "malam",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kode qr itu apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "19f8ca91-a49e-48c6-9de7-cfafd18891e0",
+    "data": [
+      {
+        "text": "saya mau tanya nih kode qr itu apa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7f0e2229-a04b-4c3d-80a5-483c8cf790c6",
+    "data": [
+      {
+        "text": "kode qr itu apa ya min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "081112c3-c69d-4a00-b2cc-61771b121494",
+    "data": [
+      {
+        "text": "kode qr itu yang kaya apa ya? terus pakenya gimana tuh?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1fa3f2b-4b90-4f91-9cad-3d03044fa993",
+    "data": [
+      {
+        "text": "saya mau nanya dong kode qr itu apa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "58f8573f-2548-4541-80bd-d9adf4b7e844",
+    "data": [
+      {
+        "text": "apa fungsi qr code?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0401657d-63c2-4a3a-bf83-c8267deb47c6",
+    "data": [
+      {
+        "text": "QR code apaan sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "cf784db7-31eb-4ddc-8eb2-93827e3bf859",
+    "data": [
+      {
+        "text": "saya mau nanya kode qr itu apa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cacd6bd5-524f-4da4-a607-8878b9607352",
+    "data": [
+      {
+        "text": "met ",
+        "userDefined": false
+      },
+      {
+        "text": "sore",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kode qr itu apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e4f7b53b-4744-4871-966e-030ff2d09224",
+    "data": [
+      {
+        "text": "met ",
+        "userDefined": false
+      },
+      {
+        "text": "pagi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kode qr itu apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3aa8d930-043c-43e2-bb9d-99406c0f90f1",
+    "data": [
+      {
+        "text": "si kode qr ini berfungsi apa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b311a27b-7ba0-42bd-8bbc-58bcc7ac8a67",
+    "data": [
+      {
+        "text": "selamat ",
+        "userDefined": false
+      },
+      {
+        "text": "siang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kode qr itu apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f3cb7699-ffac-489e-9d7f-cf394f4c42ce",
+    "data": [
+      {
+        "text": "mau nanya kode qr itu apa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f39623d7-30bd-457f-9d15-c5b1e855f661",
+    "data": [
+      {
+        "text": "met ",
+        "userDefined": false
+      },
+      {
+        "text": "malam",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kode qr itu apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d5da4c8e-0303-4991-9abc-3f2766beb356",
+    "data": [
+      {
+        "text": "pagi min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kode qr itu apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "38f2661d-95ff-400a-8104-ec50f4c04a37",
+    "data": [
+      {
+        "text": "kasih tau cara pake kodenya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "da4a88b6-f38b-4e77-b4b5-69ea42387727",
+    "data": [
+      {
+        "text": "saya mau nanya nih kode qr itu apa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0b1f0643-ff83-4b6f-a2ff-7c6f74dca004",
+    "data": [
+      {
+        "text": "met ",
+        "userDefined": false
+      },
+      {
+        "text": "siang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kode qr itu apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "852d8ef9-825c-4ad5-babc-684605438773",
+    "data": [
+      {
+        "text": "qr kode itu untuk apa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

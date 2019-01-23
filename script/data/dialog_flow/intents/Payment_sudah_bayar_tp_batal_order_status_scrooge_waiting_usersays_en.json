@@ -1,0 +1,68 @@
+[
+  {
+    "id": "553e3350-3a53-4f84-a87c-83cc8cd69928",
+    "data": [
+      {
+        "text": "payment_scrooge_status_preauth",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1c3ef75e-551c-471f-bc74-c91cb49b66f6",
+    "data": [
+      {
+        "text": "payment_scrooge_status_pending",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a1a220f2-c0e8-4f81-992c-07155fc69787",
+    "data": [
+      {
+        "text": "payment_scrooge_status_expired",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2cce29ba-4f5b-4823-8368-6ca1906b573b",
+    "data": [
+      {
+        "text": "payment_scrooge_status_void",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "17129deb-3f77-4712-a504-96d44a03bd70",
+    "data": [
+      {
+        "text": "payment_scrooge_status_failed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "44e150d4-c779-4359-b619-664136e85968",
+    "data": [
+      {
+        "text": " payment_scrooge_status_waiting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

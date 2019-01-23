@@ -1,0 +1,43 @@
+{
+  "id": "2698c246-8b1f-4c6b-b6b9-53bb69ce42a8",
+  "parentId": "64d974bc-ebc2-43aa-b431-6c6c9b5eb447",
+  "rootParentId": "b3e075f6-aae4-44df-ad4e-bea75b498908",
+  "name": "KAI_Kendala_Pembelian_Tiket_Kereta_scrooge_expired_or_failed_cc_more_24_hr",
+  "auto": false,
+  "contexts": [
+    "KAI_Kendala_Pembelian_Tiket_Kereta_scrooge_expired_or_failed_cc-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckRefundListExist",
+      "affectedContexts": [
+        {
+          "name": "KAI_Kendala_Pembelian_Tiket_Kereta_scrooge_expired_or_failed_cc_more_24_hr-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539575365,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "more_than_24_hour"
+    }
+  ]
+}

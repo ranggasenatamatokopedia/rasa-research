@@ -1,0 +1,90 @@
+[
+  {
+    "id": "df27d733-4a0b-453c-b0ad-e8b705eaeacc",
+    "data": [
+      {
+        "text": "3",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c0700e47-6c49-4d8f-a73a-be3f3cce4212",
+    "data": [
+      {
+        "text": "official store",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5d8033d5-781b-4c0e-be15-cb8d19cf5777",
+    "data": [
+      {
+        "text": "digital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8a43d5a6-a5b1-4904-ac89-08f88c835855",
+    "data": [
+      {
+        "text": "1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "034bf34e-62a7-498d-9ef8-5980c912fa4b",
+    "data": [
+      {
+        "text": "2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "90fdd5fb-02ce-4b76-b7f7-b2eba1f8fbb3",
+    "data": [
+      {
+        "text": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0
+  },
+  {
+    "id": "66f0f293-c73d-40f5-a168-c8632357fcea",
+    "data": [
+      {
+        "text": "marketplace",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9bc0d974-c50c-4ccb-b08f-ef4a2e568c3b",
+    "data": [
+      {
+        "text": "add_text_platform",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

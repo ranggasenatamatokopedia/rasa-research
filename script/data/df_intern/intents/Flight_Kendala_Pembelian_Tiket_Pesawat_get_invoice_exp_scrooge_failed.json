@@ -1,0 +1,46 @@
+{
+  "id": "3825b076-f645-4f15-9c1b-85707279cfd8",
+  "parentId": "9ab8c280-3cb7-4db2-a281-eefc6757c1ac",
+  "rootParentId": "7f7a8cb1-cbe8-48a9-9930-7686b772cf99",
+  "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_get_invoice_exp_scrooge_failed",
+  "auto": false,
+  "contexts": [
+    "Flight_Kendala_Pembelian_Tiket_Pesawat_get_invoice_expired-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetPaymentMethodFlight",
+      "affectedContexts": [
+        {
+          "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_get_invoice_exp_scrooge_failed-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537934413,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "payment_scrooge_status_failed"
+    },
+    {
+      "name": "payment_scrooge_status_expired"
+    }
+  ]
+}

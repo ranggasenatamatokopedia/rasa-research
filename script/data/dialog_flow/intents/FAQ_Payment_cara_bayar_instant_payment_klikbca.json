@@ -1,0 +1,39 @@
+{
+  "id": "37629421-c7cb-4e65-9745-e0231653b841",
+  "parentId": "dfd5c5d7-f8a2-4c65-b4f6-2dc2bd8c057f",
+  "rootParentId": "bc8f4622-0f27-4009-a4cd-f030fe0388ae",
+  "name": "FAQ_Payment_cara_bayar_instant_payment_klikbca",
+  "auto": true,
+  "contexts": [
+    "FAQ_Payment_cara_bayar_instant_payment-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Payment_cara_bayar_instant_payment_klikbca-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut langkah - langkahnya untuk melakukan pembayaran dengan KlikBCA:\n1. Masukkan produk ke Keranjang Belanja.\n2. Setelah masuk ke keranjang belanja, silakan klik \u0027Checkout\u0027\n3. Tentukan alamat pengiriman dan kurir yang diinginkan, lalu klik bayar.\n4. Setelah di layar pembayaran, pilih KlikBCA\n5. Masuk ke akun KlikBCA Anda lewat halaman KlikBCA.\n6. Pilih menu Pembayaran e-Commerce.\n7. Klik kategori Market Place, lalu pilih PT. Tokopedia.\n8. Klik Lanjutkan.\n9. Periksa kembali pesanan, lalu klik Lanjutkan.\n10. Masukkan respon dari token, klik Kirim."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540457905,
+  "fallbackIntent": false,
+  "events": []
+}

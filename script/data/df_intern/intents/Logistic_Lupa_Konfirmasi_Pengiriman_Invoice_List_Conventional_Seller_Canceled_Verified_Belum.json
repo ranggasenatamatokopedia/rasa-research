@@ -1,0 +1,44 @@
+{
+  "id": "00326210-04f8-48df-ad89-214d0b9ac733",
+  "parentId": "2a69a9e2-feca-4871-a1b1-e87652a23b5a",
+  "rootParentId": "35e16175-3fd0-4749-bf64-4e1b94b883f1",
+  "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Seller_Canceled_Verified_Belum",
+  "auto": true,
+  "contexts": [
+    "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Seller_Canceled_Verified-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Seller_Canceled_Verified_Belum-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sayang sekali Kak, pesanannya sudah batal dan dananya sudah Toped kembalikan ke pembeli."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped harap kedepannya kamu bisa mengirimkan pesanan sesuai dengan batas waktu yang ditentukan, ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532520453,
+  "fallbackIntent": false,
+  "events": []
+}

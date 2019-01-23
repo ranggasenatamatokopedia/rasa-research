@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1f253307-1f95-4cba-8be9-8475c4ca65c1",
+    "data": [
+      {
+        "text": "produk tlp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b81cb812-4be9-452b-9679-20aeff8b3da3",
+    "data": [
+      {
+        "text": "produk air",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7868f2ac-a64d-431e-b676-fa9dfd9d869e",
+    "data": [
+      {
+        "text": "pdam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7c199702-d670-448e-bd24-24def2ca7c7a",
+    "data": [
+      {
+        "text": "produk telkom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e532c8ca-205b-4378-9a47-c1daa4f26bce",
+    "data": [
+      {
+        "text": "telkom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0f514c56-16da-4e93-afcc-cb59135500eb",
+    "data": [
+      {
+        "text": "air pdam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4bcf04ad-3804-4db5-98c4-afbcc8536904",
+    "data": [
+      {
+        "text": "tlpn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f4a87c87-60e1-44f0-87d9-90e363b39e53",
+    "data": [
+      {
+        "text": "tlkom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8b038476-1ee1-4bf5-b7c2-a3f299c21242",
+    "data": [
+      {
+        "text": "air pdm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "071ab8ea-e0a9-4765-a793-f0b9de3a617e",
+    "data": [
+      {
+        "text": "telepon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

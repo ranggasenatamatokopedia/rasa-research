@@ -1,0 +1,49 @@
+{
+  "id": "4587b9b6-224a-4a84-815d-159d7d0c8e64",
+  "parentId": "da5d9175-16ba-41dd-bcce-9b16460a7474",
+  "rootParentId": "78a8a659-1f88-470b-8cae-9de1dbc1f058",
+  "name": "Payment_kode_pembayaran_not_found_invoice_select_gerai_wtp",
+  "auto": true,
+  "contexts": [
+    "Payment_kode_pembayaran_not_found_invoice_select_gerai-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ShowTransactionCode",
+      "affectedContexts": [
+        {
+          "name": "Payment_kode_pembayaran_not_found_invoice_select_gerai_wtp-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai, berikut kode pembayaran Gerai Retail untuk transaksi kamu ya"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531637265,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_pending"
+    },
+    {
+      "name": "invoice_belum_bayar"
+    },
+    {
+      "name": "invoice_payment_confirm"
+    }
+  ]
+}

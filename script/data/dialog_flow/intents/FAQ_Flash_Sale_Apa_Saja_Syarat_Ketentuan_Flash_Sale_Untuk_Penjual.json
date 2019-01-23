@@ -1,0 +1,37 @@
+{
+  "id": "c108110a-c5bf-402a-9d71-34f8ca126138",
+  "name": "FAQ_Flash_Sale_Apa_Saja_Syarat_Ketentuan_Flash_Sale_Untuk_Penjual",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flash_Sale_Apa_Saja_Syarat_Ketentuan_Flash_Sale_Untuk_Penjual-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa cek detail Syarat dan Ketentuan Flash Sale sebagai Penjual di laman !TKPD_URL_S\u0026K_FLASH_SALE_PENJUAL! ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_flash_sale_apa_saja_syarat_ketentuan_flash_sale_untuk_penjual"
+    }
+  ]
+}

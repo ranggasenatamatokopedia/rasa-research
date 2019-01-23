@@ -1,0 +1,38 @@
+{
+  "id": "3bf7ce35-d37e-4620-8d30-e9cf1f2fb1bf",
+  "name": "FAQ_Mitra_Tokopedia_Cara_Beli",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Mitra_Tokopedia_Cara_Beli",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut Toped infokan cara pembelian dan pembayaran di Mitra Tokopedia:\n1. Masuk ke akun Mitra Tokopedia kamu, lalu pilih salah satu produk digital yang ingin kamu beli\n2. Pilih nominal atau nomor tagihan yang ingin di bayar\n3. Pilih metode pembayaran dan segera lakukan pembayaran\n4. Transaksi atau pembayaran tagihan kamu sudah selesai apabila pembayarannya dianggap berhasil."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Selamat mencoba ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "9d28a678-91a4-473d-abc9-43a7185f7331",
+  "parentId": "423ba23e-4ef9-436a-8828-c784ffb30629",
+  "rootParentId": "423ba23e-4ef9-436a-8828-c784ffb30629",
+  "name": "Order_Fraud_Dana_Hasil_Transaksi_Belum_Masuk_Atau_Direview_Ya",
+  "auto": true,
+  "contexts": [
+    "Order_Fraud_Dana_Hasil_Transaksi_Belum_Masuk_Atau_Direview-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetInvoiceList",
+      "affectedContexts": [
+        {
+          "name": "Order_Fraud_Dana_Hasil_Transaksi_Belum_Masuk_Atau_Direview_Ya-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa pilih invoice yang dimaksud."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532081377,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,60 @@
+{
+  "id": "58f1ead5-ec57-44f2-a53a-47bd60791fc0",
+  "parentId": "3c5c7f06-5414-4cd2-9c0a-9a96a9a60e93",
+  "rootParentId": "a561d098-021e-47e7-941b-bfa12101c49c",
+  "name": "Fraud_Penyalahgunaan_Data_Akun_Oleh_Pihak_Lain_Belum_Unggah",
+  "auto": true,
+  "contexts": [
+    "Fraud_Penyalahgunaan_Data_Akun_Oleh_Pihak_Lain_Belum-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Penyalahgunaan_Data_Akun_Oleh_Pihak_Lain_Belum_Unggah-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1c0f6835-1e31-4581-bea3-f7c4a7ba985f",
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1641"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Terima Kasih untuk bukti yang kamu lampirkan. Mohon tunggu sebentar ya akan Toped bantu buatkan tiketnya."
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "data": {
+              "show_rating": false
+            },
+            "type": 0
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539234602,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

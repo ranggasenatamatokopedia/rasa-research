@@ -1,0 +1,31 @@
+{
+  "id": "f6c2f4ef-dc62-49b0-a732-beca13fda646",
+  "name": "FAQ_Play_Cara_Keluar_Play",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk keluar dari Play, kamu bisa klik tombol back (kembali)  atau langsung keluar dari aplikasi Tokopedia."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_play_cara_keluar_play"
+    }
+  ]
+}

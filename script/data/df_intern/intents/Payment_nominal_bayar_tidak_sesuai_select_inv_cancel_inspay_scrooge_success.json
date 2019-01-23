@@ -1,0 +1,43 @@
+{
+  "id": "9ce058e3-150d-4719-8971-bb0fdf03c7c9",
+  "parentId": "faf4effc-2e2d-44d9-8e3b-eb0c5481ab0a",
+  "rootParentId": "feb54c5b-52cd-4135-8fbe-6ef49ccb8866",
+  "name": "Payment_nominal_bayar_tidak_sesuai_select_inv_cancel_inspay_scrooge_success",
+  "auto": true,
+  "contexts": [
+    "Payment_nominal_bayar_tidak_sesuai_select_inv_cancel_sudah_bayar_inspay-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CalculateScroogeSuccessTime",
+      "affectedContexts": [
+        {
+          "name": "Payment_nominal_bayar_tidak_sesuai_select_inv_cancel_inspay_scrooge_success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531658346,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "payment_scrooge_status_success"
+    }
+  ]
+}

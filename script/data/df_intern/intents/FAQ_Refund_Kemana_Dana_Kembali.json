@@ -1,0 +1,26 @@
+{
+  "id": "2cef08fe-f373-4cd8-8c46-33f3133c0444",
+  "name": "FAQ_Refund_Kemana_Dana_Kembali",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520238508,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_refund_kemana_dana_kembali"
+    }
+  ]
+}

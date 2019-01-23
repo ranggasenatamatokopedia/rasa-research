@@ -1,0 +1,57 @@
+[
+  {
+    "id": "5674bb43-1149-44cb-be16-ee7188b027ce",
+    "data": [
+      {
+        "text": "tombol di aplikasi tidak berfungsi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e3b45c75-b524-46b3-8a97-045e1393f268",
+    "data": [
+      {
+        "text": "tombol di aplikasi tidak bisa di klik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4a461e99-9c6b-4a04-a529-66390f53e1a9",
+    "data": [
+      {
+        "text": "tombol gabisa di klik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "19133d99-17c2-4ff3-a528-b1e1e016b7b1",
+    "data": [
+      {
+        "text": "tombol nggak bisa dipencet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "49a78a1a-f596-4bb2-8ea3-6283f4992ec8",
+    "data": [
+      {
+        "text": "tombol tidak berfungsi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

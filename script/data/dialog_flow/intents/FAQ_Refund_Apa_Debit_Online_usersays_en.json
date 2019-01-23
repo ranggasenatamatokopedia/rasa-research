@@ -1,0 +1,107 @@
+[
+  {
+    "id": "f8b703c2-e9a2-46e3-aac5-4230138cdffd",
+    "data": [
+      {
+        "text": "pakai debit online kena biaya tambahan ya ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d7dc35c3-1831-4ae4-baaa-c6b986d2c69e",
+    "data": [
+      {
+        "text": "saya menggunakan kartu debit online bni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67fee41f-1a52-461c-b7c9-58c3fb290c1e",
+    "data": [
+      {
+        "text": "yg debit online maksudny gmn y",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "77cd68f0-70c5-4416-b366-ccf26cb79ac6",
+    "data": [
+      {
+        "text": "saya kemarin memakai debit online",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26d92b53-196a-4836-8dd7-3b8ab9e0f7d8",
+    "data": [
+      {
+        "text": "saya menggunakan debit online bukan kartu kredit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5fe77a33-5e02-41c9-97cd-5550266f35af",
+    "data": [
+      {
+        "text": "sebenernya saya menggunakan debit online",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97b23fb0-9ff8-4aac-8faf-4e1418095c5a",
+    "data": [
+      {
+        "text": "mau tanya,apakah ",
+        "userDefined": false
+      },
+      {
+        "text": "ada",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " untuk pembayaran debet online?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0d3ba99-99ce-4ed3-a43b-cf20fc702202",
+    "data": [
+      {
+        "text": "debit online apaan sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

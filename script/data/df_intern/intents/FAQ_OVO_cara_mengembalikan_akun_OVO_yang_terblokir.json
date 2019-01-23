@@ -1,0 +1,31 @@
+{
+  "id": "ecfa3640-9a22-483d-9629-5cea1d2baff7",
+  "name": "FAQ_OVO_cara_mengembalikan_akun_OVO_yang_terblokir",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika Kamu sebelumnya sudah melakukan pemblokiran Akun OVO Kamu dan ingin mengaktifkannya kembali, Silakan hubungin customer service OVO untuk pengaktifkan kembali.. Silahkan link kembali akun Tokopedia Kamu ke akun OVO Kamu yang baru."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_ovo_cara_mengembalikan_akun_ovo_yang_terblokir"
+    }
+  ]
+}

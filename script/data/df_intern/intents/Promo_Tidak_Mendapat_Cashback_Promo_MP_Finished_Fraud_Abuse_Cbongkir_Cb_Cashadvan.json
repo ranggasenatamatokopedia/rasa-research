@@ -1,0 +1,59 @@
+{
+  "id": "15751299-d4e9-4016-bb2d-02714d9b3e52",
+  "parentId": "59692b1b-8c78-477f-a8df-4948f7bc397e",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Tidak_Mendapat_Cashback_Promo_MP_Finished_Fraud_Abuse_Cbongkir_Cb_Cashadvan",
+  "auto": false,
+  "contexts": [
+    "Promo_Tidak_Mendapat_Cashback_Promo_Select_Invoice_MP_Finished_Fraud-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectSupportMessagePage",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Mendapat_Cashback_Promo_Select_Invoice_MP_Finished_Fraud_Abuse_Cbongkir_Cb_Cashadvan-followup",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "Promo_Tidak_Mendapat_Cashback_Promo_MP_Finished_Fraud_Abuse_Cbongkir_Cb_Cashadvan-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Transaksi tersebut terindikasi tidak memenuhi Syarat dan Ketentuan, sehingga cashback belum bisa kamu terima."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531975220,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "case_status_abuse_cashback_ongkir"
+    },
+    {
+      "name": "case_status_unhold_without_cashback"
+    },
+    {
+      "name": "case_status_cash_advance"
+    }
+  ]
+}

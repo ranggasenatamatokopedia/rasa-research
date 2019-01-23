@@ -1,0 +1,495 @@
+[
+  {
+    "id": "dde8dd0c-a3e2-4f1e-8f90-2d086322d3fa",
+    "data": [
+      {
+        "text": "dana refund tiket pesawat kapan saya terima ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "541c720c-7aa4-439b-8cea-fe5cdcb198c1",
+    "data": [
+      {
+        "text": "dana pengembalian tiket penerbangan kapan saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c8012b48-dcee-483a-bde3-1f72c1c3ac1c",
+    "data": [
+      {
+        "text": "pengembalian dana tiket penerbangan saya yg sudah dibatalkan berapa lama ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c5722703-ad5c-4dbe-8567-5404e0b8699b",
+    "data": [
+      {
+        "text": "kapan saya menerima refund dana tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e316b0c8-4074-4c3a-8ac5-178c723308d2",
+    "data": [
+      {
+        "text": "kapan refund tiket pesawat diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "105324bc-abdf-474f-92aa-29caaae98b84",
+    "data": [
+      {
+        "text": "kapan dana refund tiket penerbangan saya terima?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5a39c099-6b2e-4ab4-b113-5767900e4941",
+    "data": [
+      {
+        "text": "kapan nih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dana pengembalian tiket pesawat saya dapatkan kembali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "647e2fb0-cbda-4659-8e45-407801f4ea66",
+    "data": [
+      {
+        "text": "kapan ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dana pengembalian tiket pesawat saya terima?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bf9c7349-bccd-49e8-b399-295ecafc3cd5",
+    "data": [
+      {
+        "text": "saya harus menunggu sampai kapan utk pengembalian tiket pesawaat sayaa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "892bc50f-6678-403e-a777-26861c4c013b",
+    "data": [
+      {
+        "text": "dana refund tiket pesawat saya kapan saya terima ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6072e491-6c0e-41ee-9830-4d302e2ae693",
+    "data": [
+      {
+        "text": "saya hrs menunggu sampai kapan ya pengembalian utk tiket penerbangan saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "28867eb1-b800-4318-b461-d4234698f699",
+    "data": [
+      {
+        "text": "tunggu sampai kapan ya utk pengembalian tiket pesawat saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "24ca6b48-15f6-41f2-8aef-8f66f5bbb74c",
+    "data": [
+      {
+        "text": "tunggu sampai kapan nih dana refund tiket pswat saya trima?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2440d97f-9f6b-4311-b5cf-e0a0c96a2924",
+    "data": [
+      {
+        "text": "jadi kapan dana refund tiket pesawat saya terima yah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6dba1a20-75f2-4d06-8332-bb4b6373db76",
+    "data": [
+      {
+        "text": "tunggu brp lama nih utk pengembalian dana tiket psawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ff8b54b8-3e25-456f-bc83-0cc4e6d7866f",
+    "data": [
+      {
+        "text": "kapan pengembalian dana dari pembatalan tiket pesawat akan diterima?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "59bfba65-4c96-40f1-b549-7b43fbbe85b7",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tlg infokan pengembalian tiket pesswat saya, kapan saya terima?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e14aff8f-a8fc-4d35-93cd-014e83a0d199",
+    "data": [
+      {
+        "text": "infokan pengembalian dana tiket pesawat saya kapan saya terimanya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b4d0e311-003b-444b-a36b-e51498e73e66",
+    "data": [
+      {
+        "text": "pengembalian dana tiket penerbangan kapan diterima?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d6718f50-7a1b-480f-820e-1115d2fc7cfb",
+    "data": [
+      {
+        "text": "refund tiket pesawat kapan diterima yaaaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "50ecc2ce-2dca-409a-a6eb-34addffcad73",
+    "data": [
+      {
+        "text": "kapan dana refund tiket pesawat saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3547be13-921f-4322-bbfa-a32fb7c8e8f9",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mau tnya utk dana refund tiket flight saya kapan diterima ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bf200536-e2ef-4245-95b4-1c69a03ddb5f",
+    "data": [
+      {
+        "text": "kapan dana refund tiket pesawat akan saya terima?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "df32e8e2-8d1e-4396-be68-5b22e612bd0c",
+    "data": [
+      {
+        "text": "refund dana tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8e5020e2-df4e-4ec4-8591-3bae4d184582",
+    "data": [
+      {
+        "text": "kapan dana refund flight bisa saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c20c5ba6-65c1-4315-bd93-1f41cc1923b9",
+    "data": [
+      {
+        "text": "tgl berapa pengembalian dana dari pembatalan tiket pesawat diterima?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "be861c25-2392-4bf7-9c75-2a683bf2708e",
+    "data": [
+      {
+        "text": "kapan refund dana tiket flight diterima?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "795e4ed0-f21e-4fcb-8df0-172a0956a9c2",
+    "data": [
+      {
+        "text": "kapan ya dana refund tiket penerbangan saya terima?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a7aaca80-c89d-4c32-9954-993aa2cfa622",
+    "data": [
+      {
+        "text": "saya harus menunggu sampai kapan ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " utk dana tiket penerbangan saya trima?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "104e5039-39cb-4fb3-b003-cffe3f782eb3",
+    "data": [
+      {
+        "text": "jadi hrs menunggu sampai kapan utk pengembalian dana tiket pesawat saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5e2087b0-d4af-4521-b1e4-347363c9249c",
+    "data": [
+      {
+        "text": "tanggal berapa ya refund dr tiket penerbangan akan diterima?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "621c5ebf-4926-4d64-9faa-a665b4644bc3",
+    "data": [
+      {
+        "text": "kapan dana refund tiket pesawat saya terima?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "03dea59f-da93-42df-92ec-b1a2bf2e61c0",
+    "data": [
+      {
+        "text": "mau tanya utk dana pengembalian tiket flight saya kapan diterimanya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cf531df9-7309-4e06-9e61-43c5649d9710",
+    "data": [
+      {
+        "text": "kapan ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dana tiket pesawat yg sudah saya klaim dapat saya terima?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "58e48892-3554-4459-b219-a4a9f11eb25f",
+    "data": [
+      {
+        "text": "kapan dana tiket pesawat hasil refund bisa saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b126ad7d-4720-4a19-b6a8-4f88c5c9d511",
+    "data": [
+      {
+        "text": "mau tnya ",
+        "userDefined": false
+      },
+      {
+        "text": "dong",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " utk dana pengembalian tiket penerbangan kapan saya terima?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9ac3efe2-2a3f-4b4a-8ecf-a6590bf41fc7",
+    "data": [
+      {
+        "text": "refumd dari cancel tiket belum kembali, padahal sudah 7 hari kerja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6b370fe9-cc5d-4d91-af2b-97e88012ba27",
+    "data": [
+      {
+        "text": "jika saya cancel tiket pesawat saya, berapa lama pengembalian uang refund nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4efa73db-ee7c-4a02-b0e7-14c32be9faba",
+    "data": [
+      {
+        "text": "mau tanya untuk progres refund pembelian tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

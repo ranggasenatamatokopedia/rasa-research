@@ -1,0 +1,37 @@
+{
+  "id": "fe11974a-29e9-435a-a4ba-0d998ea10da7",
+  "parentId": "c25a0c46-473b-4c0c-9c1d-0eb4813f0dee",
+  "rootParentId": "c25a0c46-473b-4c0c-9c1d-0eb4813f0dee",
+  "name": "FAQ_Logistic_Bagaimana_Mengaktifkan_Online_Booking_JNE",
+  "auto": false,
+  "contexts": [
+    "FAQ_Logistic_Bagaimana_Mengaktifkan_Online_Booking-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut Toped beri tahu cara aktifkan online booking JNE ya, kamu bisa akses akun Tokopedia di laptop/komputer dan ikuti langkah berikut:\n\n1. Klik \"Pengaturan Toko\"\n2. Klik \"Pengiriman\" dan centang kurir JNE\n3. Klik kolom kurir JNE (Sistem AWB (resi) Otomatis"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528171809,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "jne"
+    }
+  ]
+}

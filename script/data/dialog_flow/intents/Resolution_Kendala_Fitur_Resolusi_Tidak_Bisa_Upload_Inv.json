@@ -1,0 +1,54 @@
+{
+  "id": "69d39efe-9f66-4d57-877d-6fe56d97a61c",
+  "parentId": "02426099-b3a2-4744-9b92-1589b5c554cb",
+  "rootParentId": "844540fa-3db4-42cc-a62e-c3d9bc90793a",
+  "name": "Resolution_Kendala_Fitur_Resolusi_Tidak_Bisa_Upload_Inv",
+  "auto": true,
+  "contexts": [
+    "Resolution_Kendala_Fitur_Resolusi_Tidak_Bisa_Upload-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Resolution_Kendala_Fitur_Resolusi_Tidak_Bisa_Upload_Inv-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Video",
+              "Gambar"
+            ],
+            "type": 1
+          }
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kasih tau Toped dulu ya, kamu mau upload video atau gambar?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536743902,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "select_invoice"
+    }
+  ]
+}

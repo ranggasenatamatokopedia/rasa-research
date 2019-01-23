@@ -1,0 +1,31 @@
+{
+  "id": "ff8f2fe1-089b-47f3-b4eb-2693ad85d33a",
+  "name": "FAQ_TopAds_Dimana_Melihat_Iklan_TopAds",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk iklan TopAds, kamu bisa lihat di beberapa halaman tertentu seperti di bawah :\n\n1. Halaman Beranda\n2. Halaman Katalog Produk\n3. Halaman Kategori\n4. Halaman Pencarian Produk\n5. Halaman Toko Favorit\n6. Halaman Hot List\n7. Aplikasi dan Mobile Site"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_topads_dimana_melihat_iklan_topads"
+    }
+  ]
+}

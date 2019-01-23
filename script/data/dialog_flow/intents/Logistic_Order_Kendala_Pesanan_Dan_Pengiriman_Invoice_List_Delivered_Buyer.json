@@ -1,0 +1,48 @@
+{
+  "id": "0f62f52b-44a7-498c-8b08-ea9781d692be",
+  "parentId": "c6b00c8a-46e7-460d-8742-af8f5a0bda65",
+  "rootParentId": "d19f77a0-9fc1-4329-9b8c-1f9cb2ed3084",
+  "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Delivered_Buyer",
+  "auto": true,
+  "contexts": [
+    "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Delivered-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Delivered_Buyer-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Status pesanan kamu sudah terkirim ya. Kamu bisa cek kembali, jika pesanan sudah kamu terima dan sesuai, kamu bisa konfirmasi penerimaan pesanan agar dana transaksi ini bisa diteruskan ke penjual."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Namun jika pesanan belum diterima, kamu bisa mengajukan komplain dengan masuk ke halaman \"Konfirmasi Penerimaan\" dan klik tombol \"Komplain\". Dengan begitu, dana kamu aman bersama Toped :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541142475,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "user_is_buyer"
+    }
+  ]
+}

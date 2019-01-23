@@ -1,0 +1,44 @@
+{
+  "id": "4a224e98-fcdd-444d-b50d-aa8480a3fd67",
+  "parentId": "dfdca2c6-201f-4e41-8cde-d79615cf05fe",
+  "rootParentId": "c230094b-7dd5-43f4-984b-d415098c4e53",
+  "name": "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_id_pelanggan_tidak_ditemukan_GAS",
+  "auto": true,
+  "contexts": [
+    "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_id_pelanggan_tidak_ditemukan-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_id_pelanggan_tidak_ditemukan_GAS-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Saat ini pembayaran hanya bisa untuk GAS PGN saja, bukan pertagas niaga. Kamu juga bisa pastikan dulu nomor yang dimasukkan sudah sesuai ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh lampirkan bukti screenshot yang terdapat nomor pelanggan yang tercantum di Toped?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535958832,
+  "fallbackIntent": false,
+  "events": []
+}

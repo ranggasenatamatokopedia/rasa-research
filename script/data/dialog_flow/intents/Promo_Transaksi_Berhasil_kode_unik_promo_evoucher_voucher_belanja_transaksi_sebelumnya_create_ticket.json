@@ -1,0 +1,50 @@
+{
+  "id": "7cd174be-bb58-489e-8101-66f60a74d122",
+  "parentId": "783553cf-c351-457c-9f18-169d7b3de668",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Transaksi_Berhasil_kode_unik_promo_evoucher_voucher_belanja_transaksi_sebelumnya_create_ticket",
+  "auto": false,
+  "contexts": [
+    "Promo_Transaksi_Berhasil_Tapi_kode_unik_promo_evoucher_voucher_belanja_transaksi_sebelumnya-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "be833eef-6663-455d-89f2-133063b7bbb3",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1082"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon menunggu sebentar ya, Kak :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped coba bantu buatkan tiketnya ya, Kak."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522999568,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "select_invoice"
+    }
+  ]
+}

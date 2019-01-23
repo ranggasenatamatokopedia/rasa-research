@@ -1,0 +1,42 @@
+{
+  "id": "6e71e860-52fa-4f82-a973-6bf4a7addf70",
+  "name": "FAQ_Referral_Apakah_Toppers_Bisa_Menerima_Bonus_Jika_Transaksi_Teman_Melanggar_SNK",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Referral_Apakah_Toppers_Bisa_Menerima_Bonus_Jika_Transaksi_Teman_Melanggar_SNK-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Bonus untuk Toppers tidak bisa diberikan apabila transaksi Teman kamu tidak sesuai dengan Syarat dan Ketentuan Program Referral Tokopedia."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jadi pastikan transaksinya sukses dan sesuai Syarat dan Ketentuan ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_referral_apakah_toppers_bisa_menerima_bonus_jika_transaksi_teman_melanggar_snk"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "985f35a2-b3e3-477c-b645-a4f676f2851a",
+  "parentId": "c261c9c1-8f83-4b1b-be98-0d6039e660fc",
+  "rootParentId": "2857f78e-0f0e-4f9f-a32c-1bf155c0c208",
+  "name": "Logistic_Barang_Tidak_Dapat_Dikirim_Invoice_List_Buyer_Finished",
+  "auto": true,
+  "contexts": [
+    "Logistic_Barang_Tidak_Dapat_Dikirim_Invoice_List_Buyer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Tidak_Dapat_Dikirim_Invoice_List_Buyer_Finished-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "afc5ee04-fa8e-4dff-81e0-43a7ff73d67e",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1339"
+        },
+        {
+          "id": "6a4b4212-6a12-4cf8-96a9-76ae2a5073f3",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Logistic_Barang_Tidak_Dapat_Dikirim"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu sebentar ya, Toped akan bantu buatkan tiket Layanan Pengguna untuk dicek lebih lanjut dan informasi selanjutnya akan dikirim melalui email :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536568856,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_finished_refund_voucher"
+    },
+    {
+      "name": "invoice_selesai"
+    }
+  ]
+}

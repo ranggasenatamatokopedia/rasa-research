@@ -1,0 +1,40 @@
+{
+  "id": "66f54922-9ef9-4ea7-bafd-540f46f81c7c",
+  "parentId": "2edb01cd-2078-4123-851e-a6a1f148234c",
+  "rootParentId": "9413a6be-1e59-431f-b086-229dfc670fe6",
+  "name": "TOKOPOINT_Transaksi_berhasil_tapi_tidak_mendapatkan_lucky_egg_select_invoice_success",
+  "auto": true,
+  "contexts": [
+    "TOKOPOINT_Transaksi_berhasil_tapi_tidak_mendapatkan_lucky_egg_select_invoice-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckInvoiceStatusInSauron",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Transaksi_berhasil_tapi_tidak_mendapatkan_lucky_egg_select_invoice_success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523434083,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "transaction_finished_but_less_than_24_hour"
+    },
+    {
+      "name": "transaction_finished_and_more_than_24_hour"
+    }
+  ]
+}

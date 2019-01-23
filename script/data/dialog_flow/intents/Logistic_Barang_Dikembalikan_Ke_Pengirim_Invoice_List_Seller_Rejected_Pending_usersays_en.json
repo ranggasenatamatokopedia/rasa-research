@@ -1,0 +1,24 @@
+[
+  {
+    "id": "f48f4330-c21f-4f86-9042-d114f21f80ee",
+    "data": [
+      {
+        "text": "rejected pending",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "01e778d4-13d1-44ba-846a-aedf3a76b440",
+    "data": [
+      {
+        "text": "invoice_pencarian_barang_pengganti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

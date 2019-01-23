@@ -1,0 +1,49 @@
+{
+  "id": "51c20fa2-ae2a-4264-871b-0de0dd3e0c82",
+  "parentId": "dde8ae2a-9271-4847-a8b2-05c8604fa637",
+  "rootParentId": "bc8f4622-0f27-4009-a4cd-f030fe0388ae",
+  "name": "FAQ_Payment_cara_bayar_virtual_account_CIMB",
+  "auto": true,
+  "contexts": [
+    "FAQ_Payment_cara_bayar_virtual_account-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Payment_cara_bayar_virtual_account_CIMB-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut langkah - langkah untuk melakukan pembayaran CIMB Virtual Account:\n1. Untuk bayar melalui ATM CIMB, silakan masukkan Kartu ATM dan PIN CIMB Kamu.\n2. Pilih menu Pembayaran \u003e Lanjut \u003e Virtual Account.\n3. Masukkan nomor virtual account 6449-081234567890.\n4. Pilih rekening debit.\n5. Nomor, nama virtual account dan jumlah billing ditampilkan pada layar.\n6. Pilih OK untuk melakukan pembayaran.\n7. Konfirmasi pembayaran ditampilkan pada layar."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "CIMB Virtual Account juga dapat dibayar melalui CIMB Clicks. Berikut langkah - langkahnya:\n1. Login ke CIMB clicks.\n2. Pilih menu Bayar Tagihan / Pay Bills.\n3. Pilih Rekening Sumber / Source Account dan Jenis Pembayaran / Payment Type \u003e Virtual Account.\n4. Masukkan nomor virtual account 6449-081319426219.\n5. Pastikan Nomor, nama virtual account dan jumlah billing ditampilkan pada layar sudah sesuai.\n6. Masukkan 6 digit mPIN dan tekan tombol Submit.\n7. Konfirmasi pembayaran ditampilkan pada layar."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa melakukan pembayaran CIMB Virtual Account di ATM Bersama, Internet Banking lainnya, serta Go Mobile CIMB Niaga. Untuk informasi lebih lengkap, cek disini ya: https://www.tokopedia.com/bantuan/cara-pembayaran-via-cimb-virtual-account/\n"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534826656,
+  "fallbackIntent": false,
+  "events": []
+}

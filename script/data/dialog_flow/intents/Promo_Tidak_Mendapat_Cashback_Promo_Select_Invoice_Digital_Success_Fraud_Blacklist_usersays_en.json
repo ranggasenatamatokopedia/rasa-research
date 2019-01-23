@@ -1,0 +1,35 @@
+[
+  {
+    "id": "3db662b0-6120-4266-b950-6810f6bc52d5",
+    "data": [
+      {
+        "text": "blacklist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9b4e4180-ca49-4d31-979f-2dfec6e70b7d",
+    "data": [
+      {
+        "text": "status blacklist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4e2ccb19-7a77-40d0-82b4-983ac173fb0b",
+    "data": [
+      {
+        "text": "case_status_blacklist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

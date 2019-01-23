@@ -1,0 +1,31 @@
+{
+  "id": "892d1925-5d30-4e76-80d7-88080c9f2559",
+  "name": "smalltalk.greetings.test_calling",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Iya, ada apa? :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "smalltalk_greetings_test_calling"
+    }
+  ]
+}

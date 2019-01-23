@@ -1,0 +1,161 @@
+[
+  {
+    "id": "b1ff700c-aa7b-4aaf-9668-2fe136e52b54",
+    "data": [
+      {
+        "text": "ovo saya kenapa tidak bisa upgrade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f85a7915-6a4d-44a1-a7ed-0761f8da392d",
+    "data": [
+      {
+        "text": "ovo saya kok gak bisa upgrade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a699516f-be03-4522-8d39-41c6da600fee",
+    "data": [
+      {
+        "text": "permohonan upgrade ovo saya ditolak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0f9a719f-2456-43cf-88f2-6a61603002a9",
+    "data": [
+      {
+        "text": "permohonan upgrade ovo kok ditolak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9c707214-99db-462b-b9ea-8dc3333f7752",
+    "data": [
+      {
+        "text": "sudah mengajukan upgrade namun ditolak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e166559f-3e6c-4785-8da9-a99426185277",
+    "data": [
+      {
+        "text": "tidak bisa upgrade ovo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "49cfda91-52d8-4a9b-90f3-c92c6fabf3d6",
+    "data": [
+      {
+        "text": "ditolak saat mau upgrade ovo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "29d49220-2cac-4847-bf49-fcd10a9488b0",
+    "data": [
+      {
+        "text": "ada penolakan saat mau upgrade ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "07dd73b1-2bc7-46f0-a387-fb22d8b6a6d2",
+    "data": [
+      {
+        "text": "ovo saya kenapa tidak bisa upgrade sih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dff89339-67f2-40b7-8a5c-c03ec2e2f418",
+    "data": [
+      {
+        "text": "kenapa tidak bisa upgrade ovo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3ce7af29-bd5c-4aec-8d6e-b9d6768ace43",
+    "data": [
+      {
+        "text": "permohonan upgrade ovo di tolak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9ae64c17-2425-43e5-aab7-6dbcf5f7afde",
+    "data": [
+      {
+        "text": "saya sudah mengajukan upgrade ke premier namun ditolak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "86860087-e3ff-4cde-aeca-07e3f393e456",
+    "data": [
+      {
+        "text": "ada penolakan saya mau upgrade ovo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "97cd8d09-54ec-4cbf-9ccf-97e8a762b25f",
+    "data": [
+      {
+        "text": "ovo saya tidak bisa diupgrade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "id": "cdbc58f8-d586-41c6-b6f8-cb44491a2d8c",
+  "parentId": "e50e6877-0108-4b77-be3b-f898d3b6397e",
+  "rootParentId": "e50e6877-0108-4b77-be3b-f898d3b6397e",
+  "name": "FAQ_Flight_Cara_Mengajukan_Refund_Tiket_versi_Android",
+  "auto": true,
+  "contexts": [
+    "FAQ_Flight_Cara_Mengajukan_Refund_Tiket-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flight_Cara_Mengajukan_Refund_Tiket_versi_Android-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Silakan pilih transaksi yang ingin dibatalkan kemudian klik \"Batalkan Tiket\". Untuk pembatalan tiket pesawat kamu akan dikenakan biaya pembatalan Rp 20.000/penumpang."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538365968,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ff3b379c-7d90-4594-9961-38f24268b26e",
+  "parentId": "66e8a313-26a9-48b7-90b7-8593f1272ece",
+  "rootParentId": "35e16175-3fd0-4749-bf64-4e1b94b883f1",
+  "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Seller_Waiting_For_Courier_Success",
+  "auto": true,
+  "contexts": [
+    "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Seller_Waiting_For_Courier-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Seller_Waiting_For_Courier_Success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek resi pengiriman tersebut tidak terlacak :("
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau kamu merasa resi pengirimannya sudah sesuai namun masih tidak terlacak, kamu bisa unggah \u003ca href\u003d#is_success.url/#is_success.order_id/#is_success.shop_id?invoice\u003d#is_success.invoice_num rel\u003d\"nofollow\" target\u003d\"_blank\"\u003edisini\u003c/a\u003e"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538133088,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "is_success"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "dd728bf6-29be-4c3b-af17-993b96384040",
+  "parentId": "df783d7a-8790-49fa-96f7-e09d3244eb22",
+  "rootParentId": "844540fa-3db4-42cc-a62e-c3d9bc90793a",
+  "name": "Resolution_Kendala_Fitur_Resolusi_Tidak_Bisa_Upload_Inv_Video_Uploaded_Invalid",
+  "auto": true,
+  "contexts": [
+    "Resolution_Kendala_Fitur_Resolusi_Tidak_Bisa_Upload_Inv_Video_Uploaded-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Resolution_Kendala_Fitur_Resolusi_Tidak_Bisa_Upload_Inv_Video_Uploaded_Invalid-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon maaf Toped belum berhasil mengunggah lampiran kamu karena saat ini sedang mengalami perbaikan. Coba kembali nanti dan pastikan kamu mengikuti format yang Toped kasih tau :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536745589,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_invalid"
+    }
+  ]
+}

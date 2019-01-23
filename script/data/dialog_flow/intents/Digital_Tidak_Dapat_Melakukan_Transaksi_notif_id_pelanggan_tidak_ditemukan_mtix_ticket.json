@@ -1,0 +1,63 @@
+{
+  "id": "8e8ab49f-3845-4f10-987f-8dcfd6ab94c8",
+  "parentId": "cb2af1e4-9edb-4ade-82a2-854ad1226277",
+  "rootParentId": "c230094b-7dd5-43f4-984b-d415098c4e53",
+  "name": "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_id_pelanggan_tidak_ditemukan_mtix_ticket",
+  "auto": false,
+  "contexts": [
+    "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_id_pelanggan_tidak_ditemukan_mtix-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_id_pelanggan_tidak_ditemukan_mtix_ticket-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "bbe07043-ef0c-47db-96a2-f1f34ec710bf",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1477"
+        },
+        {
+          "id": "06f923ff-04a2-49ef-9ee4-2089fb212cfb",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Digital_Tidak_Dapat_Melakukan_Transaksi"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu sebentar, Toped bantu buatkan tiket atas kendala kamu :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Info selanjutnya akan dikirim lewat layanan pengguna :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535959670,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

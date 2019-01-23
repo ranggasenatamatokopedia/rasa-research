@@ -1,0 +1,51 @@
+{
+  "id": "65dff9ea-1f38-457f-927b-0e303f89b23e",
+  "parentId": "665cc0f7-7282-4e23-bd69-474a0e9a17c4",
+  "rootParentId": "dbbb1e17-3271-4c65-b2a2-5cb80603b2a4",
+  "name": "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_game_others_prompt_questions_ticket",
+  "auto": true,
+  "contexts": [
+    "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_game_others_prompt_questions-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d180e24a-971d-481c-8fbb-c7b36a73cd88",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1241",
+          "prompts": [],
+          "isList": false
+        },
+        {
+          "id": "27065e48-cfc6-4937-9806-c12a0f82176a",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Digital_Voucher_Tidak_Dapat_di_Redeem",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu sebentar ya, Toped akan bantu buatkan tiket untuk dicek lebih lanjut. Informasi selanjutnya akan dikirim lewat layanan pengguna."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536394655,
+  "fallbackIntent": false,
+  "events": []
+}

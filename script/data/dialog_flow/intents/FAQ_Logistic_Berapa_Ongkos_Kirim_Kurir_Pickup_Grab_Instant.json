@@ -1,0 +1,42 @@
+{
+  "id": "fba9efe8-db8f-44bb-8fc7-0df86b7a9e46",
+  "parentId": "3c656bc5-50c4-4182-ab6a-c6629fb01600",
+  "rootParentId": "73840e93-ca95-444a-a2dd-d1deaab1d5eb",
+  "name": "FAQ_Logistic_Berapa_Ongkos_Kirim_Kurir_Pickup_Grab_Instant",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Berapa_Ongkos_Kirim_Kurir_Pickup_Grab-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "635783b5-d6bb-42cc-a79d-50007960c262",
+          "required": false,
+          "dataType": "@layanan_kurir_pick_up",
+          "name": "layanan_kurir_pick_up",
+          "value": "$layanan_kurir_pick_up",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut ini biaya pengiriman untuk wilayah Jabodetabek:\n\n1. Jarak 0 - 1 km Rp 1.000 per km \n2. Jarak 2 - 10 km Rp 2.500 per km\n3. Jarak \u003e 10 km Rp 3.000 per km, dengan minimum biaya pengiriman sebesar Rp 13.000.\n\nUntuk wilayah di luar Jabodetabek, kamu bisa cek di halaman !TKPD_URL_INFOPENGIRIMAN!."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528788056,
+  "fallbackIntent": false,
+  "events": []
+}

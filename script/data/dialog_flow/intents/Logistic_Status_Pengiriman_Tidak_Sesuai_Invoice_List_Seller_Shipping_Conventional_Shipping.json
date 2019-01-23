@@ -1,0 +1,48 @@
+{
+  "id": "1241c2c5-6eb6-425d-96aa-a2d0b3ab956c",
+  "parentId": "f8255b6c-7549-4e73-8447-f0243a5cfc18",
+  "rootParentId": "d9d2ac31-d864-4f6e-836c-94fff4d54ef6",
+  "name": "Logistic_Status_Pengiriman_Tidak_Sesuai_Invoice_List_Seller_Shipping_Conventional_Shipping",
+  "auto": true,
+  "contexts": [
+    "Logistic_Status_Pengiriman_Tidak_Sesuai_Invoice_List_Seller_Shipping_Conventional-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Status_Pengiriman_Tidak_Sesuai_Invoice_List_Seller_Shipping_Conventional_Shipping-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Saat ini pesanan kamu masih dalam proses pengiriman, mohon menunggu ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu juga bisa hubungi kurir pada !TKPD_URL_PENGIRIMAN_REGULER! ya untuk pastikan proses pengantaran paketnya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532401597,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "track_shipping"
+    }
+  ]
+}

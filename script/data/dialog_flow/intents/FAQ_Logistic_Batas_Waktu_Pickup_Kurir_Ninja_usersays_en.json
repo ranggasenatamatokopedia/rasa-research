@@ -1,0 +1,15 @@
+[
+  {
+    "id": "5a94b349-4c3f-4f3d-ab88-218208ad7e5f",
+    "data": [
+      {
+        "text": "ninja",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

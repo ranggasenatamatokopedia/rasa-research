@@ -1,0 +1,52 @@
+{
+  "id": "2487d6d2-816a-4503-a0a3-a52f278de4fa",
+  "parentId": "d2c37f3a-76c9-42b6-8fd7-e184557f83eb",
+  "rootParentId": "36de46a2-13d2-4f09-9ff4-8abcbcb54ba3",
+  "name": "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Buyer_Shipping",
+  "auto": true,
+  "contexts": [
+    "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Buyer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckCourierType",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Buyer_Shipping-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533891669,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_sedang_dikirim"
+    },
+    {
+      "name": "invoice_order_berkendala_pengiriman"
+    },
+    {
+      "name": "invoice_menunggu_pick_up"
+    },
+    {
+      "name": "invoice_melakukan_pencarian_driver_harap_menunggu"
+    }
+  ]
+}

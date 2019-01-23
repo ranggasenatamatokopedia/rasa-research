@@ -1,0 +1,33 @@
+{
+  "id": "c8f0b827-5192-4ddf-b444-ee60d90f6370",
+  "name": "smalltalk.appraisal.thank_you",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.appraisal.thank_you",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sama sama, semoga Toped bisa selalu membantu kamu "
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1517861502,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "smalltalk_appraisal_thank_you"
+    }
+  ]
+}

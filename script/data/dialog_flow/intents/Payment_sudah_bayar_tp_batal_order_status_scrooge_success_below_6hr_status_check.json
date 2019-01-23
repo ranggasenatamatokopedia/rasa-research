@@ -1,0 +1,43 @@
+{
+  "id": "eb9007bc-712e-4341-b3f0-57b918ea2d60",
+  "parentId": "08bcacfc-634c-4c08-b364-661b9e4d686d",
+  "rootParentId": "96f23e85-fae0-4896-8203-08e968aef1b9",
+  "name": "Payment_sudah_bayar_tp_batal_order_status_scrooge_success_below_6hr_status_check",
+  "auto": true,
+  "contexts": [
+    "Payment_sudah_bayar_tp_batal_order_status_scrooge_success_below_6hr-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetRealTimeOrderStatusMarketplace",
+      "affectedContexts": [
+        {
+          "name": "Payment_sudah_bayar_tp_batal_order_status_scrooge_success_below_6hr_status_check-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532916105,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "resync_payment"
+    }
+  ]
+}

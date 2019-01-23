@@ -1,0 +1,43 @@
+{
+  "id": "95115e41-20b7-4739-8455-986fe64bee53",
+  "parentId": "d5878ff1-1dee-4044-94d3-241f7a66f3c0",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_waiting_payment_resync_get_order_then_success",
+  "auto": false,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_waiting_payment_scrooge_success_resync_get_order-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_waiting_payment_resync_get_order_then_success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Tidak perlu khawatir, Toped akan bantu teruskan ke agen ya. Cek berkala pada Daftar Transaksi Digital kamu."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534147976,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_success"
+    }
+  ]
+}

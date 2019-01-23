@@ -1,0 +1,111 @@
+[
+  {
+    "id": "007837e0-564b-481b-b983-abcd654b5bca",
+    "data": [
+      {
+        "text": "no. ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "31a3656c-c617-4ccb-9b14-0adf9b04c253",
+    "data": [
+      {
+        "text": "transaksi sebelumnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6e402ede-99e3-478c-8a10-cd85e3726fb9",
+    "data": [
+      {
+        "text": "pertama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e88ba039-44a2-42d4-9772-584f97ca2261",
+    "data": [
+      {
+        "text": "satu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "67f40918-7e8c-43fb-8212-d6383bc38fb4",
+    "data": [
+      {
+        "text": "1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ff69afad-9338-4fe7-957e-0b1156dfc5ba",
+    "data": [
+      {
+        "text": "one",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e2e5205b-78be-4d46-a036-9b70aee2ae78",
+    "data": [
+      {
+        "text": "no ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fb328fe2-b3f7-4435-b48a-cec25d7dd2d4",
+    "data": [
+      {
+        "text": "first",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f9748087-dc2a-4780-b045-c1c8f5f8ff20",
+    "data": [
+      {
+        "text": "transaksi_sebelumnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

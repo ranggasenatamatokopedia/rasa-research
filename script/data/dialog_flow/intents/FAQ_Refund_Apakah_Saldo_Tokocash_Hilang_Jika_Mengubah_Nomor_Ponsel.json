@@ -1,0 +1,32 @@
+{
+  "id": "dc95d52a-2cae-47ab-a0c1-73fa294996dd",
+  "name": "FAQ_Refund_Apakah_Saldo_Tokocash_Hilang_Jika_Mengubah_Nomor_Ponsel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mengingat sekarang TokoCash sudah digantikan dengan OVO, maka pastikan nomor HP yang terdaftar di akun OVO kamu, sudah sesuai dengan yang terdaftar di Tokopedia, ya!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520238505,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_refund_apakah_saldo_tokocash_hilang_jika_mengubah_nomor_ponsel"
+    }
+  ]
+}

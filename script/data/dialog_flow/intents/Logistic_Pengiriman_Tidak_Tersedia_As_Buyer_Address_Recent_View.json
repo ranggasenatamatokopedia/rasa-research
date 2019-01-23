@@ -1,0 +1,39 @@
+{
+  "id": "2fc7fdf6-b728-49d2-be64-2e466e19c22c",
+  "parentId": "14201e37-7c59-48ed-9da0-aef512f5b6e7",
+  "rootParentId": "e1fd67c7-5a72-4184-9a6c-bda4c6e61524",
+  "name": "Logistic_Pengiriman_Tidak_Tersedia_As_Buyer_Address_Recent_View",
+  "auto": true,
+  "contexts": [
+    "Logistic_Pengiriman_Tidak_Tersedia_As_Buyer_Address-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SelectRecentViewProduct",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Pengiriman_Tidak_Tersedia_As_Buyer_Address_Recent_View-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538037249,
+  "fallbackIntent": false,
+  "events": []
+}

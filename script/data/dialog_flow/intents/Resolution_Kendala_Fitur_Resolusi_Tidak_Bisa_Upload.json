@@ -1,0 +1,43 @@
+{
+  "id": "02426099-b3a2-4744-9b92-1589b5c554cb",
+  "parentId": "844540fa-3db4-42cc-a62e-c3d9bc90793a",
+  "rootParentId": "844540fa-3db4-42cc-a62e-c3d9bc90793a",
+  "name": "Resolution_Kendala_Fitur_Resolusi_Tidak_Bisa_Upload",
+  "auto": true,
+  "contexts": [
+    "Resolution_Kendala_Fitur_Resolusi-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetResolutionInvoiceList",
+      "affectedContexts": [
+        {
+          "name": "Resolution_Kendala_Fitur_Resolusi_Tidak_Bisa_Upload-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa informasikan Toped, invoice mana yang berkendala?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536743252,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "cant_upload"
+    }
+  ]
+}

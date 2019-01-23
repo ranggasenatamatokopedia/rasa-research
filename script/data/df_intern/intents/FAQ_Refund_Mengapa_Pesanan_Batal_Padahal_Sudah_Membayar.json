@@ -1,0 +1,38 @@
+{
+  "id": "61dbc702-54e6-480d-950f-cde6c51a34bc",
+  "name": "FAQ_Refund_Mengapa_Pesanan_Batal_Padahal_Sudah_Membayar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Refund_Mengapa_Pesanan_Batal_Padahal_Sudah_Membayar-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hal seperti ini bisa saja kamu alami tapi kemungkinannya sangat kecil. Alasan pesanan yang dibatalkan tiba-tiba ini biasanya ada tiga, yaitu:\n\n- Tidak ditemukan riwayat pembayaran karena dana yang ditransfer tidak sesuai dengan yang ada di invoice\n\n- Penjual menolak pesanan\n\n- Penjual tidak merespons pesanan sampai 1x24 jam setelah pembayaran terverifikasi atau penjual tidak mendaftarkan nomor resi lewat dari 4 hari sejak pembayaran diverifikasi"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520238522,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_refund_mengapa_pesanan_batal_padahal_sudah_membayar"
+    }
+  ]
+}

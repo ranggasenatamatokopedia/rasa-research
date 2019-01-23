@@ -1,0 +1,49 @@
+{
+  "id": "6f5a3f14-d1e3-439d-92d9-cdd77e2da07f",
+  "name": "Seller_Merchant_Produk_Tidak_Muncul",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Seller_Merchant_Produk_Tidak_Muncul-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped ingin konfirmasi, dimana produk kamu tidak muncul?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 1,
+            "quick_replies": [
+              "Halaman Pencarian",
+              "Etalase/Halaman Toko"
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "seller_merchant_produk_tidak_muncul"
+    }
+  ]
+}

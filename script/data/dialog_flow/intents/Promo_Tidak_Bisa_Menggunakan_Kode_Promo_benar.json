@@ -1,0 +1,48 @@
+{
+  "id": "e540ae13-6993-4973-bead-401b5c3abcf5",
+  "parentId": "c7f4912e-adb4-4b20-b6d7-619488033c81",
+  "rootParentId": "52ec60f4-3e96-4394-855f-4b7f7c4c5110",
+  "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar",
+  "auto": false,
+  "contexts": [
+    "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_ketik_kode-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar-followup",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh kasih tahu Toped notifikasi error yang muncul di aplikasi kamu seperti apa?\r\n\r\n1. Akun Tokopedia kamu tidak memenuhi Syarat dan Ketentuan untuk mengikuti promo ini\r\n2. Akun Tokopedia kamu sudah melebihi batas penggunaan promo ini\r\n3. Promo ini khusus pengguna baru\r\n4. Kode promo telah berakhir\r\n5. Kuota sudah habis\r\n6. Hanya berlaku untuk pembelian produk/platform tertentu\r\n7. Kode promo sudah digunakan\r\n8. Total harga produk belum memenuhi minimal pembelian\r\n9. Kamu telah mencoba lebih dari 10x\r\n10. Kode promo tidak berlaku untuk akun kamu\r\n11. Metode Pembayaran yang saya pilih Tidak Muncul"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa pilih antara nomor 1 sampai 11 ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523604328,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "kode_promo_benar"
+    }
+  ]
+}

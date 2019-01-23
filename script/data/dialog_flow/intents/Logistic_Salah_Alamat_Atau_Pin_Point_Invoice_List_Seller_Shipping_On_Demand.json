@@ -1,0 +1,43 @@
+{
+  "id": "a14b0f47-46e6-4e33-9060-bb63d1de0986",
+  "parentId": "17f115aa-73c8-40ce-888a-e9e742e02ac7",
+  "rootParentId": "b5d703e5-b4ee-4716-a78d-6a74da4e1538",
+  "name": "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Seller_Shipping_On_Demand",
+  "auto": true,
+  "contexts": [
+    "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Seller_Shipping-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetCourierName",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Seller_Shipping_On_Demand-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536504680,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "courier_type_is_on_demand"
+    }
+  ]
+}

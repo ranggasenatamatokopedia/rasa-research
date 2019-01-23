@@ -1,0 +1,41 @@
+{
+  "id": "9c2d0cc3-84a7-4177-bf5d-b8523f82fc4e",
+  "name": "FAQ_Digital_Cara_Redeem_Voucher_Mobile_Legends",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped infokan untuk cara redeem voucher Mobile Legends ya, Kak:\n\n1. Buka situs resmi !TKPD_URL_SITUS_MOBILE_LEGENDS!\n2. Masukkan Redemption Code atau kode voucher yang dikirimkan ke SMS/Whatsapp/Email kamu ya.\n3. Masukkan Game ID. Perlu diingat Kak, ID yang dimasukkan dari bagian depan, tidak termasuk angka yang ada di dalam tanda kurung.\n4. Isi kotak captcha\n5. Klik “Send”, dan tunggu kode verifikasi yang akan dikirim ke fitur Message akun Mobile Legends. Kode verifikasi hanya berlaku 30 menit"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "6. Setelah menerima kode verifikasi, masukkan kode ke kolom yang disediakan kemudian klik “Redeem”\n7. Setelah sukses, klik “Message” dengan judul Redeemed Successfully\n8. Setelah itu klik “Claim” dan tunggu sampai berhasil."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga informasi Toped membantu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_digital_cara_redeem_voucher_mobile_legends"
+    }
+  ]
+}

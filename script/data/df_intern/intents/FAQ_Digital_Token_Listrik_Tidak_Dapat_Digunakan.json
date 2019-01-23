@@ -1,0 +1,41 @@
+{
+  "id": "59188b29-3b4f-433b-9266-d62e057fb40d",
+  "name": "FAQ_Digital_Token_Listrik_Tidak_Dapat_Digunakan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai, kamu bisa cek meteran listrik dengan menekan angka 54, lalu klik \"enter\". Setelah itu kamu akan melihat nomor token yang sebelumnya dimasukkan."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau nomor yang muncul berbeda dengan nomor yang kamu dapatkan dari Toped atau muncul keterangan GAGAL, maka kamu bisa hubungi PLN 123 untuk mengkonfirmasikan hal tersebut ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga informasi dari Toped membantu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_digital_token_listrik_tidak_dapat_digunakan"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "685c0311-1f6a-4017-9a49-677ba620e1cb",
+  "name": "FAQ_Digital_Cara_Redeem_ITunes_Dengan_Mengubah_Akun_US",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Digital_Cara_Redeem_ITunes_Dengan_Mengubah_Akun_US-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai, Toped infokan untuk region akun Apple bisa diganti dengan atau tanpa kartu kredit ya. Saat ini apakah kamu punya kartu kredit yang terdaftar di akun Apple?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 1,
+            "quick_replies": [
+              "Ya, Punya",
+              "Tidak"
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_digital_cara_redeem_itunes_dengan_mengubah_akun_us"
+    }
+  ]
+}

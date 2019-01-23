@@ -1,0 +1,37 @@
+{
+  "id": "5f5a621a-1046-490e-a15d-30b32091fa6a",
+  "name": "FAQ_Flight_Apakah_Harga_Tiket_Sudah_Termasuk_Tax",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flight_Apakah_Harga_Tiket_Sudah_Termasuk_Tax-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Seluruh maskapai penerbangan menetapkan harga tiket pesawat yang tercantum sudah termasuk airport tax untuk semua rute domestik dan internasional."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_flight_apakah_harga_tiket_sudah_termasuk_tax"
+    }
+  ]
+}

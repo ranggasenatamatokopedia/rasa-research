@@ -1,0 +1,43 @@
+{
+  "id": "836a90c8-31f5-48f8-a047-07e542c0793b",
+  "parentId": "d9393172-10d0-43d8-ad5f-e6bbb2d8e52b",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_select_invoice_failed",
+  "auto": false,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_select_invoice-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CalculateDeltaTimeByFailedTime",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_select_invoice_failed-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sayang sekali, transaksi kamu saat ini belum berhasil. Dana akan Toped kembalikan ke Saldo Tokopedia/Limit Kartu Kredit kamu ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533021461,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_failed"
+    }
+  ]
+}

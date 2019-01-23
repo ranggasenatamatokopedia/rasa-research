@@ -1,0 +1,609 @@
+[
+  {
+    "id": "2c40cea7-fd69-4530-a599-42c6c94ab8d2",
+    "data": [
+      {
+        "text": "saya sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ke rekening tokopedia namun berbeda dengan jumlah tagihan yang diminta karena kata ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya dapat diskon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7c79b2f9-f081-4397-aa84-81caee0b8187",
+    "data": [
+      {
+        "text": "Saya sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ke rekening tokopedia namun jumlah ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya adalah jumlah kesepakatan saya dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " jadi nominal nya lain dari yang diminta oleh tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2b023971-df9c-4fe5-9c91-fd02ea90608c",
+    "data": [
+      {
+        "text": "Jika melakukan pembayaran berbeda dengan nominal yang ditetapkan tokopedia, apakah akan berkendala?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "06a0ecc3-3f72-4e23-88e9-b60b506e8d93",
+    "data": [
+      {
+        "text": "saya mau bayar transaksi tokopedia tapi kata ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya dapet diskon, jadi saya bayar cuma sejumlah xxx",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b6f2546d-3937-4dfa-9c22-40c3404c2ff1",
+    "data": [
+      {
+        "text": "Karna ditawarkan harga murah, saya jadi ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dengan nominal yang berbeda dengan sistem Tokopedia. Saya ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sejumlah dana sesuai dengan arahan ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "36f51769-8b31-4aed-8e93-ce4b7bfcb285",
+    "data": [
+      {
+        "text": "Pertama",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sejumlah ",
+        "userDefined": false
+      },
+      {
+        "text": "Rp",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3.500.000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sesuai arahan ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", karena takut tidak terverif saya langsung ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " lagi kekurangannya. bantu cek ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "df0850ed-bd79-41b5-b952-56d65f74a674",
+    "data": [
+      {
+        "text": "saya ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ke Tokopedia baru ",
+        "userDefined": false
+      },
+      {
+        "text": "setengah",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", sisanya bisa nyusul kan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fffa689e-7b39-4589-a92f-dc0ee0d647e4",
+    "data": [
+      {
+        "text": "nominal yang disarankan ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " lebih murah, jadi saya pakai niominal itu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f94b6c8e-68f7-4a5b-9bbe-9049b3cdea92",
+    "data": [
+      {
+        "text": "kata ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bayarnya ",
+        "userDefined": false
+      },
+      {
+        "text": "setengah",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " harga saja karena saya dapat diskon, apakah bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d7cce52e-b757-4c43-bfd6-6fcf1e5befbb",
+    "data": [
+      {
+        "text": "saya tadi ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ke tokopedia tapi nominal harganya berbeda, apakah akan berpengaruh?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c95879f9-89fb-485d-b7ef-fd7ce3c9acb8",
+    "data": [
+      {
+        "text": "saya dapet diskon dari ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " harganya jadi beda, boleh nggak sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "86a8b88c-9f94-4909-ae9c-9c6b8d94e56f",
+    "data": [
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " minta nya ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " harga lain ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9dc570a3-8bb1-4372-8fd5-4bf144e9f628",
+    "data": [
+      {
+        "text": "apakah bermasalah jika nominal harga yang diminta ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " berbeda?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7d82637b-1731-44f5-b1ec-b773801c4f7e",
+    "data": [
+      {
+        "text": "Penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " WA nomor saya dan memberikan promo sehingga nominal pembayaran lebih murah dari sistem Tokopedia, apakah transaksi saya akan tetap terverifikasi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "031e6199-83c8-4ba9-a4ec-e8c0a9ebe572",
+    "data": [
+      {
+        "text": "saya disuruh ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ke tokopedia cuma sejumlah xxx nanti akan bermasalah di sistem nggak ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aedb752d-0db3-428a-b06d-542e25584343",
+    "data": [
+      {
+        "text": "Saya disuruh ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sejumlah harga diskon yang diberikan ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "74e4ade4-62da-41b6-b04a-fe11bbb228f6",
+    "data": [
+      {
+        "text": "tagihan saya sejumlah xxx tapi saya cuma bayar separuhnya katanya dapat diskon dari ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2ec65d77-08e1-4745-b7f0-9e8146b0d238",
+    "data": [
+      {
+        "text": "pihak ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kasih diskon ke saya jadi harganya berbeda. Apakah boleh?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c156882d-501b-4f18-8df6-0471b18c0a4d",
+    "data": [
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " suruh saya bayar sejumlah (xxx) tapi tagihan Tokopedia (xxx) pengaruhnya apa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "acc310a2-9c74-42d1-af0a-1d44d5d54d17",
+    "data": [
+      {
+        "text": "saya sedang melakukan pembelian sepeda,penjual tiba2 telp minta kode untuk masuk yg dikirimkan oleh tokped lewat sms. knp hrs minta kode? itu kode utk masuk kemana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5eaeddc1-c838-4620-a489-831675c7009c",
+    "data": [
+      {
+        "text": "pembelian saya dengan inv tersebut kenapa yasaya di minta pembayaran lagi oleh penjual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "43afcba0-a960-4bec-b795-006fdffa496e",
+    "data": [
+      {
+        "text": "Pak, saya telah di tipu oleh penjual asean komputer karena saya tidak pernah membatalkan transaksi inv/20181117/XVIII/XI/233613884",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "11a75ee3-e3ef-4c75-b331-26653182e54b",
+    "data": [
+      {
+        "text": "skrng malah minta transfer manual... Saya Abaikan... Bahayaa...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e1f6ceda-c808-410f-aef3-5f8ea2c090ad",
+    "data": [
+      {
+        "text": "penjual minta uang tambahan melalui transfer diluar harga yg di posting dgn alasan salah posting harga belum update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e0b33d38-ccbd-426a-a1bc-2df17b35e764",
+    "data": [
+      {
+        "text": "saya mau tanya...tadi ada yg telpon saya dan bilang saya dapat uang tunai 3jt dengan memberikan kode tokopedia saya,apa itu benar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "da642821-861d-41c8-bfe3-976cfa554464",
+    "data": [
+      {
+        "text": "barang diambil sendiri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6c0145d3-af6f-4661-b1b9-dd74925a00d8",
+    "data": [
+      {
+        "text": "selamat sore berusan sy melakukan transaksi dan disuruh melakukan pembayaran melalui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2ca7c082-1aa9-4f20-a59b-f6968dd5b9d1",
+    "data": [
+      {
+        "text": "seller nya penipu. seller menelpon minta kode dari toped alasan adalah kode antara penjual dan pembeli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d0aab242-144f-4ab9-ba67-edb80cf1ae37",
+    "data": [
+      {
+        "text": "ada yg minta jharga tambahan fi trasfer ke rekening toko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "id": "8f45ceee-4534-4381-86ec-de9e2939f9f9",
+  "name": "FAQ_Refund_Bagaimana_Cara_Membatalkan_Pesanan_Yang_Tidak_Direspon_Penjual",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Refund_Bagaimana_Cara_Membatalkan_Pesanan_Yang_Tidak_Direspon_Penjual-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau pesanan kamu tidak direspons Penjual dalam waktu lama, kamu bisa batalkan pesanan tersebut dengan cara berikut ini ya: \n1. Klik profil dan pilih menu \"Pembelian\"\n2. Pilih menu \"Status Pemesanan\" dan klik \"Ajukan Pembatalan\" pada pesanan yang ingin dibatalkan\n3. Isi alasan pengajuan pembatalan\n4. Pengajuan pembatalan akan diteruskan ke Penjual untuk direspons\n\nSebelum ajukan pembatalan, Toped sarankan kamu untuk hubungi Penjual terlebih dulu melalui fitur \"Tanya Penjual\" untuk berdiskusi."
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 1,
+            "quick_replies": [
+              "tombol batal tidak muncul",
+              "tombol batal tidak ada",
+              "Berapa lama proses refund",
+              "Penjual minta batalkan"
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520238523,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_refund_bagaimana_cara_membatalkan_pesanan_yang_tidak_direspon_penjual"
+    }
+  ]
+}

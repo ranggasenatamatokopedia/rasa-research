@@ -1,0 +1,53 @@
+{
+  "id": "e07c63dc-4666-406e-b011-fba90b066e87",
+  "parentId": "de462ed0-7d36-4e8b-9fc9-4867bf96201c",
+  "rootParentId": "67024543-88fb-488f-907b-85ef94921089",
+  "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_invoice_not_in_resol_reject_by_seller",
+  "auto": false,
+  "contexts": [
+    "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_invoice_MP_OS-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_invoice_not_in_resol_reject_by_seller-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Halo, Toped cek transaksi kamu dibatalkan/ditolak Penjual ya. Kalau transaksi kamu dibatalkan keseluruhan dalam satu pembayaran, maka kode promo bisa kamu gunakan kembali selama masih dalam periode promo ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pada promo cashback, jika dibatalkan sebagian, maka cashback yang kamu terima hanya dari transaksi yang berhasil saja ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pada promo diskon ongkir atau diskon produk, dana yang dikembalikan tidak termasuk diskon ongkir atau produk yang disubsidi oleh Tokopedia ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526461873,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "not_in_resol_reject_seller"
+    }
+  ]
+}

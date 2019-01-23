@@ -1,0 +1,73 @@
+{
+  "id": "58bb905d-0c93-4501-a025-d9b11770f4d2",
+  "parentId": "e24c0d6b-ef5c-4d53-ac56-e76f47176faf",
+  "rootParentId": "e24c0d6b-ef5c-4d53-ac56-e76f47176faf",
+  "name": "User_Play_Tidak_Bisa_Masuk_Ke_Play_sudah",
+  "auto": true,
+  "contexts": [
+    "User_Play_Tidak_Bisa_Masuk_Ke_Play-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "User_Play_Tidak_Bisa_Masuk_Ke_Play_sudah-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau fitur shake shake nya sudah aktif, pastikan koneksi internet kamu stabil dan aplikasi Tokopedia mu sudah di update ke versi terbaru."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kasih tahu Toped ya, notifikasi error apa yang muncul di perangkat kamu?"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Silakan pilih salah satu kendala di bawah ini ya."
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "button_actions": [
+              {
+                "message": "Tidak ada koneksi internet"
+              },
+              {
+                "message": "Terjadi kesalahan koneksi"
+              },
+              {
+                "message": "Anda belum terhubung dengan Play"
+              },
+              {
+                "message": "Play telah berakhir"
+              },
+              {
+                "message": "Koneksi timeout"
+              }
+            ],
+            "type": 2
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539588025,
+  "fallbackIntent": false,
+  "events": []
+}

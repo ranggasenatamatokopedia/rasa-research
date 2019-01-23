@@ -1,0 +1,43 @@
+{
+  "id": "1a031bdf-c8bf-4bf9-895b-0cbc97fa3ba6",
+  "parentId": "07ea3342-ee05-44d2-9324-18e6130957f9",
+  "rootParentId": "844540fa-3db4-42cc-a62e-c3d9bc90793a",
+  "name": "Resolution_Kendala_Fitur_Resolusi_Tombol_Bantuan_Tdk_Muncul_Conventional_Less_3_Days",
+  "auto": true,
+  "contexts": [
+    "Resolution_Kendala_Fitur_Resolusi_Tombol_Bantuan_Tdk_Muncul_Inv-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Resolution_Kendala_Fitur_Resolusi_Tombol_Bantuan_Tdk_Muncul_Conventional_Less_3_Days-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sudah Toped bantu cek, komplain kamu belum lebih dari 3 hari. Tombol \"Minta Bantuan\" akan muncul dalam 3x24 jam sejak komplain dibuat, ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536723237,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "conven_less_than_3"
+    }
+  ]
+}

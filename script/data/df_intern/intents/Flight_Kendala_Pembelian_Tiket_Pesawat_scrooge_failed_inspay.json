@@ -1,0 +1,49 @@
+{
+  "id": "b2522c7a-41af-4cbb-8d2b-65587b5f5d5a",
+  "parentId": "3825b076-f645-4f15-9c1b-85707279cfd8",
+  "rootParentId": "7f7a8cb1-cbe8-48a9-9930-7686b772cf99",
+  "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_scrooge_failed_inspay",
+  "auto": false,
+  "contexts": [
+    "Flight_Kendala_Pembelian_Tiket_Pesawat_get_invoice_exp_scrooge_failed-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CalculateDeltaTimeByCreateTime",
+      "affectedContexts": [
+        {
+          "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_scrooge_failed_inspay-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537958193,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "inspay"
+    },
+    {
+      "name": "gerai"
+    },
+    {
+      "name": "va"
+    }
+  ]
+}

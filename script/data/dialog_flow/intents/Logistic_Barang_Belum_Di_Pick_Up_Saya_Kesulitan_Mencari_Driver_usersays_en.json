@@ -1,0 +1,5532 @@
+[
+  {
+    "id": "59c96355-bdb8-420d-b9e8-a8b0e05b4b47",
+    "data": [
+      {
+        "text": "Status order masih pencarian driver sejak ",
+        "userDefined": false
+      },
+      {
+        "text": "siang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "af86d1c3-5816-49f6-b3ef-d9d141e3da5e",
+    "data": [
+      {
+        "text": "saya udh ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " driver dan driver blm ",
+        "userDefined": false
+      },
+      {
+        "text": "dtg2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "51f0a15a-90fe-4a59-a233-28af209e166b",
+    "data": [
+      {
+        "text": "Saya cancel request ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " karena barang sedang dikirim teman. Untuk melakukan request ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " lagi bgmn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ea670439-e393-4131-b555-903a72d6f4ab",
+    "data": [
+      {
+        "text": "barang ini blm di ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sama sekali oleh driver ",
+        "userDefined": false
+      },
+      {
+        "text": "Grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2361473b-68a8-4885-aac9-683e3b7e41c1",
+    "data": [
+      {
+        "text": "invoice ini driver tidak pickup brg. bagaimana ini?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "55166a8c-2d14-4c7b-bb02-51bddf518cae",
+    "data": [
+      {
+        "text": "Pending untuk ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "gosend",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", karena driver belum datang juga hingga toko tutup.. dan waktu ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sudah melebihi batas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "79849c0d-bb86-45b9-8dbb-d150524a5f94",
+    "data": [
+      {
+        "text": "Mohon dibantu kiranya bisa diproses ulang mengingat sebelumnya ada masalah komunikasi dengan driver driver yang mau ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Terkahir driver atas nama sulaiman.. tapi belum tercancel padahal driver sudah tidak mau pick up. MOhon dibantu ya Min, proses pick up langnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "826eff56-9c13-44b4-b7e9-faa39f33d093",
+    "data": [
+      {
+        "text": "Finding driver sudah lebih dr ",
+        "userDefined": false
+      },
+      {
+        "text": "24",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " jam belum diketemukan driver yang harus dijadwalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cfc124b2-0f20-40d6-93a3-c78ee5dd5fb1",
+    "data": [
+      {
+        "text": "Toko belum kirim barang, sudah ganti driver berkali-kali.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "167a48e7-b828-4a03-9c14-03d91cbedcac",
+    "data": [
+      {
+        "text": "Kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "rex",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dr tgl ",
+        "userDefined": false
+      },
+      {
+        "text": "24 november 2018",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak ",
+        "userDefined": false
+      },
+      {
+        "text": "datang2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mengambil pesanan / paket yg customer beli. Mohon solusi dan tidak lanjut nya saya sudah complain ke ",
+        "userDefined": false
+      },
+      {
+        "text": "rex",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nya dan jawaban nya hanya akan di pick up hari ini dan selalu begitu jawab nya. thanks..... no resi dan orederan nya saya lampirkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "38834635-e945-4bf2-a17a-04ce3a4ddd24",
+    "data": [
+      {
+        "text": "namun statusnya saya lihat sedang dikirim , padahal belum dipickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "129047f0-6e64-4cd9-8213-bc530707b577",
+    "data": [
+      {
+        "text": "barang belum dipickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a48367b8-b024-47f1-950a-c15e039ebf27",
+    "data": [
+      {
+        "text": "barang belum di ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "783d07c0-6b7f-4937-a7d5-06749c1901a4",
+    "data": [
+      {
+        "text": "Paket belum dipickup ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "df2334e2-2c17-4c66-a8b8-2aac594f4149",
+    "data": [
+      {
+        "text": "halo kita melakukan pemanggilan ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tetapi belum dipickup jg sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "adf62ec8-d620-466f-8891-41309ae5fd5d",
+    "data": [
+      {
+        "text": "kenapa pesanan saya belum di carikan draver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "08cb2357-5b96-41b0-a561-6796ffa1560c",
+    "data": [
+      {
+        "text": "Kenapa barang saya belum di ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b26e4e07-d936-4fce-87ac-9a29b2d3bd33",
+    "data": [
+      {
+        "text": "masih belum di ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sampai akhirnya terpending ",
+        "userDefined": false
+      },
+      {
+        "text": "esok",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " harinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "98182989-4075-457e-a025-a1b7cd0c524a",
+    "data": [
+      {
+        "text": "tp knp keterangan dipick up besok ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3ef9fddb-e083-4fbf-95a0-d73bb64b488a",
+    "data": [
+      {
+        "text": "Bagai mana cara nya mengubah kurir sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari tetap dalam pencarian driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "29c89d69-9b82-4380-8ebc-7e62d0493708",
+    "data": [
+      {
+        "text": "barang masih di penjual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "45b1131c-ddfd-4f18-af94-d82542f3d1ab",
+    "data": [
+      {
+        "text": "Kapan barang saya di ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fe67d22d-78d3-4162-8278-cee21205d8f1",
+    "data": [
+      {
+        "text": "\u0027Bagaimana solusinya, barang belum di ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tetapi keterangannya barang sudah di ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan sudah sampai dan di terima oleh ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", sedangkan pihak ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bilang tidak ada terima barang ??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "399c612a-671b-4340-9d62-8be7eac2a978",
+    "data": [
+      {
+        "text": "barang belum dipickup tapi status sudah berubah sudah sampai di tujuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "74910523-49e0-441a-915c-4a738bbca595",
+    "data": [
+      {
+        "text": "jadi barang belom sampai ke customer tetapi di status driver telah menyerahkan barang ke atas nama customer mohon bantuan agar dicarikan driver kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "29b9aea0-f15c-436c-9b78-d69064383977",
+    "data": [
+      {
+        "text": "Driver belum pick up, tapi sudah menyelesaikan order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b540499f-f393-4b35-9a4c-a51dc93a94da",
+    "data": [
+      {
+        "text": "driver tidak melakukan pick up tapi sudah konfirmasi barang diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9addbf3b-2773-4f93-a39a-29fcf2aa0e3a",
+    "data": [
+      {
+        "text": "kurir tidak melakukan pick up dan barang masih ada di saya. jadi saya minta tolong di gantikan kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7dee697d-0a6e-45c8-b198-f7052b528794",
+    "data": [
+      {
+        "text": "Mohon bantuannya untuk retry pick up ",
+        "userDefined": false
+      },
+      {
+        "text": "go jek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pada pesanan atau invoice tsb , dikarenakan sebenarnya driver tidak mengambil paket tersebut dan paket tsb belum di terima oleh customer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "437480db-317a-498c-83c4-970260d94ceb",
+    "data": [
+      {
+        "text": "sudah lama sekali status masih pencarian driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2ce6f98a-c3a0-4c87-86ca-28619e6e858b",
+    "data": [
+      {
+        "text": "barang belum d pick up minta ganti driver soalnya butuh ",
+        "userDefined": false
+      },
+      {
+        "text": "cepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b43b85f6-40ce-4c86-9294-1645ab6ed31f",
+    "data": [
+      {
+        "text": "barang belum di pick up, driver tidak bisa di telpon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4004ea0b-0a37-433b-b8f5-7f6efa23a37f",
+    "data": [
+      {
+        "text": "belum menemukan driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "966dd17c-3dc5-4909-a480-6f021eded310",
+    "data": [
+      {
+        "text": "pesanan belum di jemput driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "71a7c8b8-246d-4589-ba17-cc97be874544",
+    "data": [
+      {
+        "text": "driver tidak dapat dihubungi, tolong untuk dicrikan driver yang baru",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bb8bb208-be15-48ad-9dc9-ceb2aefdfb0b",
+    "data": [
+      {
+        "text": "Saya sedang menunggu barang untuk di pick up oleh pihak ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belom di pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "32716ed1-62fe-4c74-bf41-0073b500eae2",
+    "data": [
+      {
+        "text": "saya belum dapat driver, sudah lama request pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "96a778e5-e07b-4d7e-b263-643a46ff02a8",
+    "data": [
+      {
+        "text": "order saya belum di ambil driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1cbf83d1-221a-4061-a231-25bc40a6ccb8",
+    "data": [
+      {
+        "text": "saya belum mendapat driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9cdce817-16fd-476f-914f-dae5593c32f9",
+    "data": [
+      {
+        "text": "barang belum di pick up tapi status sudah di pick up dan dalam pengantaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "35168b77-09a3-4305-be17-1e285091c6e3",
+    "data": [
+      {
+        "text": "mohon bantuan untuk transaksi saya, barang belum dipick up dari tadi driver jg tidak bisa dihubungi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "192618c0-207e-4468-a238-df604a2ac302",
+    "data": [
+      {
+        "text": "tolong carikan driver lagi segera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e48592dc-8e79-4b57-bcb9-ae3a83c83312",
+    "data": [
+      {
+        "text": "aku kesulitan cari driver ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "34e0ea36-93af-4807-952b-47f2d0f90084",
+    "data": [
+      {
+        "text": "order ini susah dapat driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3861dfa4-2da1-481c-9e0d-93101b581be8",
+    "data": [
+      {
+        "text": "Barang belum di pick up kurir,  tapi status berubah sudah sampai di tujuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e05ffefd-5a14-4b77-8c32-2f7f52ced402",
+    "data": [
+      {
+        "text": "mohon diganti drivernya ya karena paket tidak bs dipick up oleh driver yang tercantum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f023691e-9999-496d-8ed7-0066f44cf4c6",
+    "data": [
+      {
+        "text": "kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum ambil pesanan saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1cd71ff9-e1ac-4f83-9803-aa694c7813ff",
+    "data": [
+      {
+        "text": "masih pencarian driver terus, belum ada yang pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cbeeb761-4233-4c1a-bfec-d378da8b9469",
+    "data": [
+      {
+        "text": "Mohon bantuan untuk retry pick up, barang belum dipick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "22c07faf-75ce-441c-8c73-65094ab4e02a",
+    "data": [
+      {
+        "text": "sudah request pick up daritadi tapi masih pencarian driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "11945045-1952-4c70-88cb-51bbdba49550",
+    "data": [
+      {
+        "text": "saya tunggu driver pick up ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3f7bff59-6774-45f8-bc4f-8cb0915c67b5",
+    "data": [
+      {
+        "text": "pesanan saya belum di ambil driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e275d4ba-3ad7-4871-986d-f6d3b1abf505",
+    "data": [
+      {
+        "text": "barang tidak dipick up tapi status pesenan telah sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "05301e15-a903-423c-a9a9-865e6a81f3c5",
+    "data": [
+      {
+        "text": "driver lama banget belum dateng",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8b45b631-6be7-44d2-81f6-0ee6fb9d397d",
+    "data": [
+      {
+        "text": "Saya order menggunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "instant courier",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tetapi sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "hari ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " brg blm sampai, karena driver tidak pick up dari ",
+        "userDefined": false
+      },
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bcd8508f-42e5-4946-a634-a3f0009aeb69",
+    "data": [
+      {
+        "text": "barang belum dipick up dari ",
+        "userDefined": false
+      },
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan status resinya berganti terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "62c70345-cdf4-438a-aaca-caa0b5175466",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", driver belum pick up ke toko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0f87a9f9-d9e1-4ebb-ad0e-cc88e92a24b5",
+    "data": [
+      {
+        "text": "orderan dari ",
+        "userDefined": false
+      },
+      {
+        "text": "buyer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum di pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9555aff9-87d8-4141-a62f-4bfdefa8b32e",
+    "data": [
+      {
+        "text": "driver belum ambil barang ke saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bec5c648-2627-4aa6-a259-d772cec3f57c",
+    "data": [
+      {
+        "text": "mohon cek pesanan saya, belum diambil ambil oleh kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "21f099e3-0507-4651-baab-d0bb7ad27ae5",
+    "data": [
+      {
+        "text": "saya kesulitan mecari driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d66456f0-6a14-4d88-acdc-a0a2bc9558f8",
+    "data": [
+      {
+        "text": "sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum d pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "35d11234-ce52-4194-8ed9-2196d93ea625",
+    "data": [
+      {
+        "text": "sudah request pick up, tapi tetap belum di ambil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1abf978e-ea89-4b37-9d01-cdca6b8b7408",
+    "data": [
+      {
+        "text": "minta tolong di retry pick up carikan driver baru,karena dari ",
+        "userDefined": false
+      },
+      {
+        "text": "hari sabtu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saat pembelian sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " driver ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum mengambil barangnya dari ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "66e1d59e-9f25-4e4a-bcdd-e183f551dc4a",
+    "data": [
+      {
+        "text": "Barang masih belum di ambil sama driver, akan tetapi status sudah diselesaikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5c86dfe6-bfcf-40c8-9f2c-07764b680140",
+    "data": [
+      {
+        "text": "pengiriman menggunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "same day",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", statusnya driver sedang menuju lokasi untuk pick up dari ",
+        "userDefined": false
+      },
+      {
+        "text": "pagi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " status tidak berubah, mohon bantuannya, driver juga tidak dapat dihubungi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8cbb4bd1-96cb-4594-afd7-a7b34f520b9b",
+    "data": [
+      {
+        "text": "daritadi masih pencarian driver terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bad9df89-bf78-42f3-b5e1-20d1819f532a",
+    "data": [
+      {
+        "text": "kenapa driver belum ambil barang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cc89b64c-1368-429b-b782-616982487da2",
+    "data": [
+      {
+        "text": "tolong carikan driver pengganti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b57fc931-3f62-4832-8b33-882f264574f6",
+    "data": [
+      {
+        "text": "driver tdk bisa pick up, tolong segera carikan driver lain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d43ac092-9adc-4963-98f6-6eba44778485",
+    "data": [
+      {
+        "text": "order ",
+        "userDefined": false
+      },
+      {
+        "text": "ini hari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ini gagal pick up. tolong ",
+        "userDefined": false
+      },
+      {
+        "text": "besok",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pencarian driver dimulai jam ",
+        "userDefined": false
+      },
+      {
+        "text": "11",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1a1c35f2-ce02-4217-b341-685a1813ed12",
+    "data": [
+      {
+        "text": "Driver belum pick up barang tapi sudah delivered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "27950f0e-49e0-4b51-9039-ada784ae8721",
+    "data": [
+      {
+        "text": "Paket belum diambil tp driver menyelesaikan pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "34456863-7e24-4253-b295-91cb2284f972",
+    "data": [
+      {
+        "text": "Driver tidak melakukan pick up barang malah bilang barang sudah sampai di tujuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8b714189-267f-4278-9269-7cb4ad5d0caa",
+    "data": [
+      {
+        "text": "driver belom pick up pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5fefc9cb-5c8c-49e5-8848-f88e4b4d6f60",
+    "data": [
+      {
+        "text": "Barang belum di pick up oleh ",
+        "userDefined": false
+      },
+      {
+        "text": "go-send",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7ad1bba2-e044-494f-b6d4-dbe52c89345a",
+    "data": [
+      {
+        "text": "no transaksi ini barangnya masih di kami boleh dibantu untuk pencarian driver lagi ngga kak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e70ddf21-2630-4c59-af4f-d59d8d132136",
+    "data": [
+      {
+        "text": "driver tidak bisa dihubungi, barang belum diambil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "260d0536-899f-4133-a74c-30eae51a67fb",
+    "data": [
+      {
+        "text": "kurir belum ambil pesanan ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a63240af-f26b-4202-af0a-416959d626ca",
+    "data": [
+      {
+        "text": "belum ada driver yang mau pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "47762f83-fde5-4088-a676-ce72b216a6c7",
+    "data": [
+      {
+        "text": "tolong bantu pencarian driver, dari ",
+        "userDefined": false
+      },
+      {
+        "text": "pagi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum ada driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dc90ad7e-2854-430c-b4bd-972cee3422f0",
+    "data": [
+      {
+        "text": "sudah menunggu lama, driver belum ambil pesanan ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1cf2a5f9-8472-4a89-a960-1658850b3b3e",
+    "data": [
+      {
+        "text": "driver belum pick up pesanan saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dd2408e2-451e-4291-b182-ceaf48a777e5",
+    "data": [
+      {
+        "text": "pesanan sudah siap kirim tapi belum diambil kurirnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "48758365-f1b4-450c-bd39-6f46a9abc177",
+    "data": [
+      {
+        "text": "tolong dibantu untuk carikan driver baru, driver yang ",
+        "userDefined": false
+      },
+      {
+        "text": "pertama",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bermasalah, barang belum di pick up/di ambil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "236b29be-fab2-4270-bec5-1d615480815b",
+    "data": [
+      {
+        "text": " status pengiriman tertulis paket sudah sampai di tempat customer,  tapi paket belum dipick up oleh driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b4dca154-ed05-4984-afdf-7bd417b348aa",
+    "data": [
+      {
+        "text": "belum dapat driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9e1a9e73-f95e-47ea-b78a-07d3d7964ee8",
+    "data": [
+      {
+        "text": "hp kurir tidak aktif, sampe ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum di pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ac2cf663-6710-41b3-9caa-a5000c292bba",
+    "data": [
+      {
+        "text": "Order saya belum jg di pick up oleh ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". No hp tidak dapat dihubungi, saya butuh barang ",
+        "userDefined": false
+      },
+      {
+        "text": "ini hari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ini jg. tolong ganti saja drivernya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b21adf50-63af-4498-ad3f-c4ed0eb1b74b",
+    "data": [
+      {
+        "text": "sudah order pick up dari jam ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pagi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". kurir belum datang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "02ee18c5-1748-433e-a446-37312a1e49b8",
+    "data": [
+      {
+        "text": "tolong ",
+        "userDefined": false
+      },
+      {
+        "text": "cepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cariin kurir, dari ",
+        "userDefined": false
+      },
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum dipick up, ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya sudah marah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b2f1fecc-dd46-4032-be96-fa058d5537c9",
+    "data": [
+      {
+        "text": "sudah di pick up ",
+        "userDefined": false
+      },
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " driver belum juga tiba kurir melalui ",
+        "userDefined": false
+      },
+      {
+        "text": "rex",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2612ac65-888c-4af3-bfbe-fb52f6c8666f",
+    "data": [
+      {
+        "text": "barang belum juga diambil driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "763292de-5291-4e85-82c3-2f6792ecf888",
+    "data": [
+      {
+        "text": "barang belum di pick up sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "malam",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", status masih pencarian driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e5ed68d9-7e1b-4c50-9e1f-2780c5b68af8",
+    "data": [
+      {
+        "text": "saya pencet pick up tapi gagal terus ya. saya tidak ",
+        "userDefined": false
+      },
+      {
+        "text": "bisa2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pickup gojeknya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c83427e1-04eb-4206-b277-2798f2fe2b37",
+    "data": [
+      {
+        "text": "Tadi saya sudah pick up ",
+        "userDefined": false
+      },
+      {
+        "text": "go send",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dari ",
+        "userDefined": false
+      },
+      {
+        "text": "siang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi kok driver nya ga datang datang ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "26443913-6e8f-4b58-a175-ebee4b1e4453",
+    "data": [
+      {
+        "text": "paket masih ada di toko kami, mohon di pick up ulang, driver tidak datang ambil sampai saaat ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4b742109-fe53-4cb8-9022-aa39f58b1909",
+    "data": [
+      {
+        "text": "sudah klik pick up tapi driver belum datang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7b417ae7-04e7-4938-9070-5233b94d67cd",
+    "data": [
+      {
+        "text": "mohon segera di pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f3c09bbe-8257-4341-9b01-5b54143d5605",
+    "data": [
+      {
+        "text": "sudah request dari ",
+        "userDefined": false
+      },
+      {
+        "text": "pagi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tapi pesanan belum di pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c358d427-585c-4f7f-aeb5-7ee0498f6316",
+    "data": [
+      {
+        "text": "belum mendapatkan driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "03a1c8c3-d4c5-45e3-abd9-36074489e717",
+    "data": [
+      {
+        "text": "Driver menyelesaikan pesanan tanpa mengambil barangnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "831eac65-818b-4fa0-b7d9-d29c802acb9b",
+    "data": [
+      {
+        "text": "belum mendapat driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ff191b8f-41a9-4126-aa22-44949bbcbabc",
+    "data": [
+      {
+        "text": "Belum dapat driver sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", mohon diretry pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0979b976-a6ed-4030-a702-f7a7b5f0d36c",
+    "data": [
+      {
+        "text": "Pengiriman dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "same day",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tapi sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "H+1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " masih gagal pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "25334cfd-86be-4e2e-84b0-1164947cfdd5",
+    "data": [
+      {
+        "text": "pesanan nya belum di pick up tapi malah statusnya sudah dalam pengantaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8db167e9-3c1b-4e69-8c11-d5eed30d4949",
+    "data": [
+      {
+        "text": "driver ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum pick up barang di kami (",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ")",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "97ec2679-5eaf-4b6d-ac10-53a1b91d9c6c",
+    "data": [
+      {
+        "text": "barang sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " blm juga di pick up oleh driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9415f3de-eb01-4cfa-8e03-903e4ddb0ace",
+    "data": [
+      {
+        "text": "belum menemukan driver, belum di pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9ff624ae-ae57-45f7-94b3-a4689bca380d",
+    "data": [
+      {
+        "text": "apakah bisa dilakukan pembatalan pencarian driver? Karena ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " minta dikirim ",
+        "userDefined": false
+      },
+      {
+        "text": "besok",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "719d8707-7ef1-44d7-8993-4d149bb17f67",
+    "data": [
+      {
+        "text": "tolong bantu carikan driver ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", sudah klik pick up tapi belum dapat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "16a2adc9-b2ac-4f95-96ad-3fd2a0cd2caa",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", barang sudah ready tapi driver belum pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fd52d4b7-722e-498a-b71b-dd9451d00b18",
+    "data": [
+      {
+        "text": "driver belum mengambil pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7174a9de-a934-4d2a-b93f-cae71cb03fb5",
+    "data": [
+      {
+        "text": "minta tolong pencarian driver ulang. dari ",
+        "userDefined": false
+      },
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum di pick up barangnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8f40cdbe-a2ec-4bf0-9f39-ef613abd7537",
+    "data": [
+      {
+        "text": "sudah saya tunggu, driver belum dateng",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5650b0cc-ec6b-45b7-b98c-0eec643d497f",
+    "data": [
+      {
+        "text": "Barang seharusnya di pick up oleh ",
+        "userDefined": false
+      },
+      {
+        "text": "ninja express",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya sudah klik pick up dari jam ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tetapi hingga ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " driver belum kesini.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0f021d3b-67a1-4b4e-8a2a-36780d4e4262",
+    "data": [
+      {
+        "text": "saya belum dapet driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "da84dd1c-cef0-4778-9ba3-8bd2f939f3b0",
+    "data": [
+      {
+        "text": "order saya masih belum di pick up sama kurir nya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a73d536e-3f78-40bb-b968-a844b0d08b2e",
+    "data": [
+      {
+        "text": "barang belum di angkut sama driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "359a227b-8215-4e39-bcef-4b1c097481b2",
+    "data": [
+      {
+        "text": "barang belum di pick up oleh pihak driver namun di status barang sudah sampai ditujuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a566ad8a-0352-49a6-9889-25e69b140ed9",
+    "data": [
+      {
+        "text": "bantu carikan driver ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bfbecfa8-1a1d-45a7-92d6-9a774f527e02",
+    "data": [
+      {
+        "text": "Di keterangan barang sudah di pick up tapi sebenarnya belom di pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d8d1fbcf-cd04-48b6-80f5-fc23b1ab221f",
+    "data": [
+      {
+        "text": "halo admin, saya minta tolong untuk retry pickup orderan ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "db153210-91fe-4660-96ee-88da8ae143fc",
+    "data": [
+      {
+        "text": "paket atas transaksi ini masih belum di pick up driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e5bdcccb-ba67-4856-b207-4b071b4d584c",
+    "data": [
+      {
+        "text": "Pelanggan meminta barang segera di pick up tapi sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum ada yang menghubungi dari kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "909d96aa-71d4-4c25-95d4-3d851fd3af0f",
+    "data": [
+      {
+        "text": "mohon agar menjadwalkan pick up lagi karena sampai sekarang gojeknya belum datang dan saya hubungi katanya pesanannya sudah tidak ada dilist aplikasinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d7b2bc8b-188b-48d1-8ffc-a97d8437c4bc",
+    "data": [
+      {
+        "text": "saya belum dapat driver pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "184737d3-509d-4f5e-8d77-f5a106fd04c5",
+    "data": [
+      {
+        "text": "mohon untuk di jadwalkan kembali jadwal pick up ulang di karenakan barang belum di pickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "22402910-6806-4680-a687-90042302b400",
+    "data": [
+      {
+        "text": "Status barang sudah di terima oleh customer sedangkan barang masih ada pada ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0b651b58-6c50-4580-a8a7-c053a0d457f3",
+    "data": [
+      {
+        "text": "belum ada driver yang menjemput pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2e0085f7-fa85-445e-82c1-ef9196e1196f",
+    "data": [
+      {
+        "text": "kurir belum juga ambil barang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ade58327-b4b2-43e6-b484-8ce9df1c99a0",
+    "data": [
+      {
+        "text": "pesanan ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " masih di saya, kurir belum pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1ec3a537-0c46-425d-90a4-51b15f765b35",
+    "data": [
+      {
+        "text": "pengiriman tertunda, driver ",
+        "userDefined": false
+      },
+      {
+        "text": "gosend",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "  belum pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "21d0cc62-5ecc-44c2-afab-921047d2603e",
+    "data": [
+      {
+        "text": "Barang belum juga di pick up dari pagi kak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "672da694-427e-4145-8e41-672072023662",
+    "data": [
+      {
+        "text": "barang belum di pick up, gimana nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "401b4834-6976-43d0-b74a-0384cf42da94",
+    "data": [
+      {
+        "text": "mohon bantuan untuk pencarian driver ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4a32e062-d059-410d-bd94-e353af6f0680",
+    "data": [
+      {
+        "text": "sudah bayar tapi belum di pick up barangnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "875fac08-551c-40b6-8f46-7d5dea33b2b1",
+    "data": [
+      {
+        "text": "Transaksi pengiriman via ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "instant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", proses pick up dari ",
+        "userDefined": false
+      },
+      {
+        "text": "pagi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi pencarian driver ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum ditemukan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "77448c17-969d-465a-81d4-1ebe4f1ce8a3",
+    "data": [
+      {
+        "text": "sudah klik pick up, tapi belum dapat driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "073ba901-001e-4607-ba2c-9bf2b78a271d",
+    "data": [
+      {
+        "text": "belum ada driver yang mengambil barang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0ecb17f1-8dac-4990-a428-5d1ad8654e93",
+    "data": [
+      {
+        "text": "Tolong melakukan retry pick up karena ",
+        "userDefined": false
+      },
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " driver batal pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cb6ba7fc-2f73-44bc-8946-f1e7f2d25863",
+    "data": [
+      {
+        "text": "Barang belum di pick up oleh driver, tapi di aplikasi statusnya sudah terkirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ce277bd2-42d0-405b-aa5d-ad917aec64c8",
+    "data": [
+      {
+        "text": "pesanan belum diambil sama driver, tapi tapi status sudah diterima ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aa80187b-a476-4876-be42-57b39c70d336",
+    "data": [
+      {
+        "text": "Minta bantuan pihak Tokopedia untuk melakukan retry pick up, saya sudah menghubungi ke call center ",
+        "userDefined": false
+      },
+      {
+        "text": "Gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", mereka meminta saya melaporkan ke pihak Tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4d0c3b5b-3d66-4dfd-81a4-3ed311bbdfd6",
+    "data": [
+      {
+        "text": "barang masih di tempat saya belum di pick up driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1f888fe0-a538-4f8c-9390-1b5f563c8c86",
+    "data": [
+      {
+        "text": "Barang saya belum di pick up dr ",
+        "userDefined": false
+      },
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " oleh kurir pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "Gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Sameday",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". tolong minta di carikan driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7db3b587-ac8c-410b-9d07-b387e00a0009",
+    "data": [
+      {
+        "text": "Dari ",
+        "userDefined": false
+      },
+      {
+        "text": "tadi pagi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " masih searching driver. apakah bisa dibantu untuk proses pencarian drivernya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ecdab40f-8e4e-489c-b7ad-66f2172776e7",
+    "data": [
+      {
+        "text": "order ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " masih di saya, belum di pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "534f8297-0d2d-4dfc-a1db-287090324329",
+    "data": [
+      {
+        "text": "Barang sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum di pick up driver, mohon bantuannya, urgent.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "70093c74-ad86-465f-b670-1374060248e0",
+    "data": [
+      {
+        "text": "pesanan saya belom di ambil oleh driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0dbad83d-8a0f-45a0-858a-2212266f4146",
+    "data": [
+      {
+        "text": "proses pencarian driver lama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "242291e7-3fb0-4948-9aa8-713b9b41cc52",
+    "data": [
+      {
+        "text": "driver belum pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0d1e9ca3-5ac7-4c20-9d66-0496a0c01954",
+    "data": [
+      {
+        "text": "hp kurir tidak aktif, sampe ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum di ambil barangnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1ef766f7-f264-4dc3-a0c0-e2fac4639cef",
+    "data": [
+      {
+        "text": "Tolong hubungi pihak ",
+        "userDefined": false
+      },
+      {
+        "text": "REX",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " untuk pick up barang. Banyak sekali transaksi yg belum di pick up oleh pihak ",
+        "userDefined": false
+      },
+      {
+        "text": "REX",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b5a4c1d1-183f-4f58-80ca-40cc143f155b",
+    "data": [
+      {
+        "text": "barang belum di pick up dan driver tidak bisa di telpon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1dd94e45-c68c-4268-b18c-672d58751943",
+    "data": [
+      {
+        "text": "barang saya belum di pick up driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a703b1f1-4e86-49b1-a42d-4e1c6fdc11b4",
+    "data": [
+      {
+        "text": "sy melakukan proses pick up, kok tumben agak lama menunggu driver ",
+        "userDefined": false
+      },
+      {
+        "text": "go send",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eb9ce06f-85bd-4b71-97a8-9bfea580f2dc",
+    "data": [
+      {
+        "text": "Halo Tokopedia, pesanan berikut sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum ada driver yg datang untuk pick up. tolong segera dibantu untuk pecarian driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9876e8e6-5700-42f5-abcf-03884228476d",
+    "data": [
+      {
+        "text": "sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " jam masih belum juga di pick up barangnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "091e9704-5f57-4168-be48-e2695de870a3",
+    "data": [
+      {
+        "text": "driver tidak bisa di hubungi, sedangkan pesanan belum di pick up. Gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5eb059b9-3d68-4dc3-ae41-538a87ead094",
+    "data": [
+      {
+        "text": "saya mengalami masalah pada pemesanan barang saya,driver tidak pick up barang yang saya pesan dari ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "71527103-0dba-4730-b1c4-fe82e606211e",
+    "data": [
+      {
+        "text": "barang belum di pick up ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak bisa dihubungi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "89f78356-80ec-457d-ae9c-d32afb0f1c6c",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", pesanan saya belum di pick up nih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "06c3f558-68a2-44f7-826d-6e31a6f04680",
+    "data": [
+      {
+        "text": "Mohon bantu supaya ",
+        "userDefined": false
+      },
+      {
+        "text": "cepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di pick up karena customer butuh sebelum jam ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sore",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ab9c0a35-ba22-4896-a55e-072f654be647",
+    "data": [
+      {
+        "text": "dari tadi belum dapet driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "53c50dae-101a-478a-a815-6c67533e7375",
+    "data": [
+      {
+        "text": "Mohon dibantu untuk pencarian driver ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " untuk pickup barang karena sampai dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " masih lama dan belum ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4b8bcf8a-785d-4b90-8e50-18f24beada4f",
+    "data": [
+      {
+        "text": "driver di sistem belum ambil barang saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "adfef356-63f1-421b-bdf4-5b6246c59813",
+    "data": [
+      {
+        "text": "Kami memiliki kendala dengan pengiriman ",
+        "userDefined": false
+      },
+      {
+        "text": "REX",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", sudah minta pick up dari tanggal ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum juga dipick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a5e94a9c-b185-48bf-be5b-ad8d0e6ba9a4",
+    "data": [
+      {
+        "text": "Barang belum di pick up dari ",
+        "userDefined": false
+      },
+      {
+        "text": "siang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", nomor telephone driver tidak aktif saat di hubungi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1523bf7d-4615-4746-90ce-e0595e2a4fb6",
+    "data": [
+      {
+        "text": "Mohon segera di pick up, sudah dari ",
+        "userDefined": false
+      },
+      {
+        "text": "kemaren",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nya belum datang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7d62e216-c328-4629-af18-6daa3e4d338d",
+    "data": [
+      {
+        "text": "barang pesenan saya belum di pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dab2e0db-8a5b-4564-a4ed-c7a3fe06216a",
+    "data": [
+      {
+        "text": "driver yang tercantum belum datang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "271e6dec-4e6b-45d8-9256-787b7fdb98af",
+    "data": [
+      {
+        "text": "Tolong carikan driver karena tumben saya pick up belum kunjung keluar data drivernya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a2aaef90-bf8d-4b71-91db-5639abb3d427",
+    "data": [
+      {
+        "text": "barang blm dipick up tp statusnya sudah pengantaran ke tujuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0cdd3393-c4b6-4778-92e5-4d402c343921",
+    "data": [
+      {
+        "text": "Barang pesanan konsumen sampai dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "hari ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belom di pick up oleh driver ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ad71796f-12f2-4a68-8826-e7aa389b9788",
+    "data": [
+      {
+        "text": "Barang belum juga di pick up dari ",
+        "userDefined": false
+      },
+      {
+        "text": "pagi min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4ddec63c-f712-42de-922f-a054939df1c3",
+    "data": [
+      {
+        "text": "driver belum pick up barang ke toko kami",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2027e667-f78e-41d4-af70-e24a44274008",
+    "data": [
+      {
+        "text": "kenapa belum dapat driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0ad39494-780c-4732-a8a0-bc58b2eb1498",
+    "data": [
+      {
+        "text": "Mohon toped, ini masih pencarian driver. minta bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a47c63e8-fd9e-4a70-bf02-dd03abde6762",
+    "data": [
+      {
+        "text": "sudah pencet pick up dari ",
+        "userDefined": false
+      },
+      {
+        "text": "pagi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tapi driver belum tiba",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b2464501-390c-41c8-aacf-55d0435d4112",
+    "data": [
+      {
+        "text": "barang belum di pickup, sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " jam driver tidak bisa di hubungi. Mohon bantuan utk pencarian driver ulang.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "752ae29f-2578-4b63-9862-2879299112fd",
+    "data": [
+      {
+        "text": "driver belum ambil barangnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "686e7282-4034-4ad1-9665-2b066c71060f",
+    "data": [
+      {
+        "text": "barang belum diambil driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1d866f23-d375-4272-ad37-2b9f2aaa0ab1",
+    "data": [
+      {
+        "text": "Barang belum di pick up dr ",
+        "userDefined": false
+      },
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", customer sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "tanya2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " terus. padahal barang sudah ready",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "481bdd0b-4bb7-4815-a53b-8fc013f79b9c",
+    "data": [
+      {
+        "text": "saya tidak bisa membuat pick up layanan ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "85b4a3e3-74d9-42b8-b4dd-5cbec7b464db",
+    "data": [
+      {
+        "text": "Barang belum dipick up, saya hubungi driver tapi dia bilang diaplikasi dia tidak ada pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "326ede49-c1b2-4374-9aa3-cdabd22319e0",
+    "data": [
+      {
+        "text": "Admin, tolong di bantu untuk barang tersebut status nya masih ada di tempat saya belum di pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5433f101-1fc3-4ada-87ca-dd925c24646b",
+    "data": [
+      {
+        "text": "mau tny ",
+        "userDefined": false
+      },
+      {
+        "text": "kmrn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sy ada transaksi tp gojeknya cancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "40c87d3f-c90a-4eac-ad96-8a360f47dc17",
+    "data": [
+      {
+        "text": "mohon bantuannya, dari ",
+        "userDefined": false
+      },
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " paket saya masih belum di pick up sama driver ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "792f6547-e026-42d8-b1f8-829cd86bf835",
+    "data": [
+      {
+        "text": "sudah request pick up dari ",
+        "userDefined": false
+      },
+      {
+        "text": "pagi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum di pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "13610d0d-bb9e-4bf2-a613-63196bb9c517",
+    "data": [
+      {
+        "text": "Pesanan saya belum dipick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bbf38768-b4f8-4a06-92e6-d219ba6640b6",
+    "data": [
+      {
+        "text": "belum juga dapet driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b27b4f0f-4332-4000-800d-c8e0cf20434c",
+    "data": [
+      {
+        "text": "Status ",
+        "userDefined": false
+      },
+      {
+        "text": "gosend",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dari ",
+        "userDefined": false
+      },
+      {
+        "text": "pagi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "malam ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " masih melakukan pencarian driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "63abfd11-ebce-4461-a2af-0cc867d46b56",
+    "data": [
+      {
+        "text": "Hingga ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " barang belum di pick up dan driver ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tdk bisa dihubungi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f04ca585-f164-4cd4-a969-32ad50a556de",
+    "data": [
+      {
+        "text": "saya masih menunggu barang di pick up driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f0c0f1f0-4e5d-4d06-a81f-6034a26e0f9d",
+    "data": [
+      {
+        "text": "kurir belum ambil barang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e07c4088-e5f4-43c2-ab31-0d9ac7e9e89c",
+    "data": [
+      {
+        "text": "Pesanan belum di pick up driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eb4aa3ff-dc3f-41b2-9da3-0640dd562f10",
+    "data": [
+      {
+        "text": "Pengiriman bermasalah, sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " paket saya blm dipick up oleh ",
+        "userDefined": false
+      },
+      {
+        "text": "Ninja Express",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "17dfba17-1009-41ae-b2e9-0d56073c555a",
+    "data": [
+      {
+        "text": "Mohon bantu supaya ",
+        "userDefined": false
+      },
+      {
+        "text": "cepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di pick up karena customer butuh ",
+        "userDefined": false
+      },
+      {
+        "text": "cepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "257f6ef7-2f94-4510-97e4-479fb98d5842",
+    "data": [
+      {
+        "text": "Harap segera dicek invoice ini. status driver sudah menuju lokasi tujuan pengiriman sementara barang belum dipick up dan driver tidak dapat dihubungi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9be3aa80-59ac-4828-8078-5c7cfe295f9d",
+    "data": [
+      {
+        "text": "halo toped transaksi ini sudah diatur pick up dari tadi namun belum juga mendapatkan driver bisa tolong dibantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c6b087cd-1834-48e0-9829-28d241fc76b4",
+    "data": [
+      {
+        "text": "barang smpai ",
+        "userDefined": false
+      },
+      {
+        "text": "skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " blm di pick up, tadi kurir bilang mau dicancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "61df8ec6-788c-4e2c-864c-8ef63600d1f6",
+    "data": [
+      {
+        "text": "Sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum juga mendapatkan driver yang akan pick up orderan saya, tolong di bantu untuk pencarian driver nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ef7fdeed-84ce-4317-bc62-f0eda77a484b",
+    "data": [
+      {
+        "text": "ini kan pengiriman dengan menggunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "ninja express",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". saya sdh tekan pick up tp ko kurir nya ga dateng ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e4ae4471-d347-47a9-afdf-5e6f6ead8746",
+    "data": [
+      {
+        "text": "Barangnya belum di pickup tetapi di status sudah terkirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "747dc0e8-4c37-45e6-80bc-a394f627872f",
+    "data": [
+      {
+        "text": "saya order barang kemaren, belum dikirim oleh penjual karena gak daoat driver gojek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "693c2af6-9fe9-4714-a905-bbc9b2c5f42e",
+    "data": [
+      {
+        "text": "Tadi saya ada order,status pengiriman sudah terkirim,tapi ternyata belum,info toko gojeknya nakal,jd barang masih di toko,saya mau lanjutkan ordernya,dikirim besok saja bisa kan ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "55daf3bb-d164-4b45-933b-8f9b79673a23",
+    "data": [
+      {
+        "text": "barang blm di pickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "150f7e96-ebe6-48f7-9d81-4cf4db8ec613",
+    "data": [
+      {
+        "text": "d ga mo pickup brg sy,d suruh sy yg cancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "98dbac03-4d17-47aa-8df0-84b7ad261f50",
+    "data": [
+      {
+        "text": "sy mau menanyakan kok sy klik request pickup utk grab dr kmaren ga bisa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d8965d34-b8ce-4dc5-8ada-54ef3d69dac6",
+    "data": [
+      {
+        "text": "dimana pembelian untuk saya dibatalkan pembeli..alasan nya karena grab setelah jam 4 sudah tidak bisa terima order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1e7be0bf-5c1b-413b-8ae2-da28d13fb982",
+    "data": [
+      {
+        "text": "mohon bantu untuk pengiriman Grab tidak bisa di pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "772c27e8-fcb6-4fed-8665-b46170d1e999",
+    "data": [
+      {
+        "text": "pengiriman minta dicarikan ulang kurir nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7776058b-574a-468a-b518-c7ce896a7485",
+    "data": [
+      {
+        "text": "jadi gimana kalau brg gak dijemput grab ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f60c827e-2dc7-4f7f-b5b7-98aa1f6c9bdc",
+    "data": [
+      {
+        "text": "Gojek belom sampai untuk menjemput barang yg akan dikirim....",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "befad7c5-ee8d-4841-844b-19755bc24aed",
+    "data": [
+      {
+        "text": "grab belum dateng lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "06846549-0ffe-4310-8c28-222d2f16f0d0",
+    "data": [
+      {
+        "text": "sore .. kami dari surabaya xp mau menanyakan mengenai penjualan kami yang menggunakan jasa Grab. sampai saat ini tidak ada ojol yang mengirimkan barang. bagaimana solusinya ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b82bef1e-c4cc-4a13-95d9-2da469297e4b",
+    "data": [
+      {
+        "text": "saya sudah klik pickup sejak 10 30. sampai skrg belum dipickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a9851128-e50c-4d83-ba9c-d24e02009294",
+    "data": [
+      {
+        "text": "saya pesan barang dr kemarin dgn jasa go send same day. sama penjual sdh pesanan gosend nya, tapi drivernya cancel, dan sampai detik ini pun statusnya still finding driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "66cb862b-64f8-4ae5-8083-7191565a7403",
+    "data": [
+      {
+        "text": "halo saya ingin bertanya kenapa kiriman saya blm jg di ambil dan dikirim oleh kurir grabnya sejak kmrn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "692234af-dd9e-458b-a092-ded94c3daead",
+    "data": [
+      {
+        "text": "Cs untuk transaksi INVIDTAG kenapa belum mendapatkan kurir sampe hari ini. tolong segera di selesaikan kendala ini.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bc00a58c-9bfd-4334-8252-e934b555019f",
+    "data": [
+      {
+        "text": "pesanan saya kok blm dipick up ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "30a0bf31-1f3f-46a5-a098-2961ab5e22a1",
+    "data": [
+      {
+        "text": "saya sudah terima barang tapi saya ambil sendiri ke rumahnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e3850df4-bd10-4fcd-80d8-ab9383c66622",
+    "data": [
+      {
+        "text": "orderan itu sudah sya pickup manual karena mang gojek gk datang ngmbil barang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "46aec2b0-6234-4824-94a7-a77627bb06ef",
+    "data": [
+      {
+        "text": "barang gagal dipickup lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a5fcc232-264a-4cf0-96ce-b9dc279108ea",
+    "data": [
+      {
+        "text": "bukan membeli, ini saya mau mengirim pemesanan, namun tidak bisa pickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "569f0e03-610c-47e5-8c69-8e4e12dbdbee",
+    "data": [
+      {
+        "text": "driver grab kenapa cancel ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a8d3fc17-6873-4af7-be5b-998f8996a7a8",
+    "data": [
+      {
+        "text": "selamat siang,saya mau tanya,bagaimna cara pickup ulang orderan yg masuk via gojek,karena sttus nya sudah 1 hari lebih masih mencari driver,mohon bantuan nya,terimakasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ef5c3b68-5ace-49a0-82e8-51e87f1ddee5",
+    "data": [
+      {
+        "text": "mau tanya untuk INVIDTAG statusnya terus mencari driver saya request pickup sebelum jam 12 siang, untuk paket yg lain sudah dipickup semua pada jam 2 siang ini sedangkan untuk inv diatas masih searching terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d84fe238-7132-4d3f-bd7f-94865ca5b190",
+    "data": [
+      {
+        "text": "mau minta bantuan pickup dari grab tp gagal terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "55b7eab7-c2da-4045-b4e0-841520409e4d",
+    "data": [
+      {
+        "text": "mau pengiriman gosend instan ke pembeli g bisa terus request pick up nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3d3328aa-df9c-4cb1-8b00-7edfe19db581",
+    "data": [
+      {
+        "text": "Tolong dibatalkan mencari driver, karena barang sudah dikirim melalui JNE. Dan sudah konfirmasi pembeli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "803aad30-80b1-43e4-a67d-eacbb1934afb",
+    "data": [
+      {
+        "text": "pengiriman dengan gojek instan dari toko IMODIMO SHOP di cancel terus oleh gojeknya..apakah bisa dibantu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f897cbb3-355b-4b70-bff6-9c3e3a65f862",
+    "data": [
+      {
+        "text": "saya beli grab sameday sudah di pickup dari siang driver grab tidak bil2 ke penjual gimana yah tanggung jawab grab?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "62a95bb0-d11e-4a4a-800e-d94dfc7a908c",
+    "data": [
+      {
+        "text": "Bagaimana solusinya, barang belum di pickup tetapi keterangannya barang sudah di pickup dan sudah sampai dan di terima oleh pembeli, sedangkan pihak pembeli bilang tidak ada terima barang ?? kasus di Inv.20181102/XVIII/XI/225803620 dengan no resi GK.1195",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "855e52e8-dca6-46df-b9ef-8aa416a18870",
+    "data": [
+      {
+        "text": "Kapan barang saya di pickup?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "941c0c9c-9e3c-4b05-a12b-b58b14edcd14",
+    "data": [
+      {
+        "text": "barang belum di pickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e316077a-a134-4429-b505-09d13a8d926a",
+    "data": [
+      {
+        "text": "Paket belum dipickup grab.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "818c368e-d196-4670-b657-a5173539ef33",
+    "data": [
+      {
+        "text": "Barang belum di pickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "95e5cc41-906b-4cb2-8d20-9861710620e8",
+    "data": [
+      {
+        "text": "masih belum di pickup sampai akhirnya terpending esok harinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "655ad8cd-47f7-4084-a756-25a135bfb9ba",
+    "data": [
+      {
+        "text": "Kenapa barang saya belum di pickup ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "500c4e1f-e4ad-4bbf-bd73-669de5435140",
+    "data": [
+      {
+        "text": "halo kita melakukan pemanggilan grab kemarin tetapi belum dipickup jg sampai skrg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "886926ca-7a82-4dd1-b491-8d3d9679da06",
+    "data": [
+      {
+        "text": "Bagai mana cara nya mengubah kurir sudah 3 hari tetap dalam pencarian driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9d2716c2-e675-43e1-b19a-5168f08c4acc",
+    "data": [
+      {
+        "text": "tidak bisa dipickup seperti biasanya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "267e82ce-af04-44e4-997e-4566abf5a36a",
+    "data": [
+      {
+        "text": "Ditelpon tidak bisa kurirnya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6f37ad0a-78c1-43a2-b213-d0f7a42f7a14",
+    "data": [
+      {
+        "text": "saya sudah terima barang tapi saya ambil sendiri ke rumahnya ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d5dd2963-736c-4891-939c-a41baf5d9b8d",
+    "data": [
+      {
+        "text": "brg blm di pickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4cb1ceed-ad18-4352-813d-7b3489860a3f",
+    "data": [
+      {
+        "text": "tapi di cancel dari drivernya jadi barang saya belum di pick up nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d97bc7b9-b7bb-49ed-a09a-604aa863ed3f",
+    "data": [
+      {
+        "text": "dari kemarin drivernya tidak datang, barang saya belum di pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e7fc09be-dd7c-4e3e-8b1a-21b7ca487bd1",
+    "data": [
+      {
+        "text": "Tolong dilakukan retry pick up grab same day. Krn kmrn di cancel oleh drivernya ini nomor resinya kemarin SD-2-0HY7BBUNJSARRSGCGIX4",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3585d2fc-b258-414f-8ade-eac225f7df9c",
+    "data": [
+      {
+        "text": "Kenapa transaksi in searching driver terus ya? padahal sudah dari kemarin...grab yang baru Hari ini udh dipickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c1490f82-cfb6-40f5-b02c-3d8f4beb149f",
+    "data": [
+      {
+        "text": "kenapa pengiriman saya belum diambil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "76dd1e80-fc02-41c8-a504-f86ef28bd809",
+    "data": [
+      {
+        "text": "saya udah klik pick up tapi sampe skrg barangnya belum di ambil, saya udah tlp driver nya tapi gak di angkat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5ee158b3-d279-462e-ac82-bcbda245c247",
+    "data": [
+      {
+        "text": "sy mau retry pick up produk mohon dibantu segera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "693025e8-84cf-4a13-ad07-cd40d5709c3c",
+    "data": [
+      {
+        "text": "driver grab membatalkan pengambilan paket untuk dikirim (grab instant), tapi driver itu ngebatalin jam 6an",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "24b2efc4-ff8c-45bd-a486-aad99584e206",
+    "data": [
+      {
+        "text": "paket belum di pick up udah masuk hari ke dua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9cee0f1a-a709-41c1-8bf7-08b925a6a345",
+    "data": [
+      {
+        "text": "mohon bantuannya, saya belum mendapatkan kurir grab untuk pengiriman barang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "00dbc168-83f1-4319-9b5f-7a58e2ca9b1d",
+    "data": [
+      {
+        "text": "setelah saya klik pickup gojeknya blm datang sampai sekarang.. sudah 2jam lebih sy menunggu,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "514bb7b9-daca-4251-8120-63b80bb82ff8",
+    "data": [
+      {
+        "text": "kurir tidak datang pick up barang ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dbfcfe75-87a2-4dbc-b0ae-abe77a158e31",
+    "data": [
+      {
+        "text": "saya mohon bantuannya untuk pick up barang karena di status masih request pick up thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8cf41189-e60a-43fa-b209-df94a47d5995",
+    "data": [
+      {
+        "text": "tidak bisa request pickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cf57fb77-1bb4-4c91-91c8-cdfa5aa0e75b",
+    "data": [
+      {
+        "text": "barang belum di pick up dari pihak driver gojek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "88b6d64b-f3f5-434e-8593-7aefb90776f5",
+    "data": [
+      {
+        "text": "Blm.dipickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "aecab1aa-f944-484c-b0e1-b981295b4842",
+    "data": [
+      {
+        "text": "yg yuliana driver blm mengambil barang sama skli, kalau yg ghani aryawan stts nya tdk brbh dri 2 hari yg lalu masih pencarian kurir, tolong dong kak di tindak lanjuti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "497733f6-b59b-4697-a598-2844053a30fe",
+    "data": [
+      {
+        "text": "barang kami belum di pickup dari hari senin. kalau sprti ini bikin lama pengiriman dan bikin customer kecewa. sdh 3 kali gnti driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "091687ba-26fb-4084-99c4-27d08f4485f6",
+    "data": [
+      {
+        "text": "Sampai saat ini barang tidak ada yang ambil, toko sudah tutup maka akan kami ubah sicepat best biar besok samapai, kamipun sudah menghubungi pembeli lewat pesan dan pembeli menyetujui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "650c365a-8564-4622-a791-95aa8f08aa48",
+    "data": [
+      {
+        "text": "kak saya mau kirimkn barang konsumen.. sampai skg gk dpt driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "941b260c-e5c3-4f4f-bddc-08f79b3c109e",
+    "data": [
+      {
+        "text": "Kok tidak dapat driver yaa malah saya di cancel dr lihak grabnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fb5b3af4-f514-4158-91ad-a1525cc9137a",
+    "data": [
+      {
+        "text": "mohon bantuannya, grab mengalami kendala mengirimkan barang, bgmn saya sebagai pihak seller agar barangnya dapat di kirim kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "37384602-1fcd-45a4-be3c-a630e63af366",
+    "data": [
+      {
+        "text": "pengiriman saya pake grab express sampai skrg barang saya lom di pick up, customer saya udah marah nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cbd868fe-7e61-49c8-8ab3-0c6862ce317a",
+    "data": [
+      {
+        "text": "sy tanya kenapa barang sy belum diambil kurir ninja xpres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5a297757-c37c-4599-8216-c1dd11392bc9",
+    "data": [
+      {
+        "text": "barang sudah diterima pembeli tapi kami penjual belum menyerahkan barang ke kurir dan barang msh ada di toko kami",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "95febd88-63f0-44e4-9c76-b0b667999bfb",
+    "data": [
+      {
+        "text": "pesanan barang blm dipick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f19203e1-cfb7-414c-8933-f5c2fdc468de",
+    "data": [
+      {
+        "text": "gojeknya jauh dari lokasi saya di gps dan saya lihat stuck tidak jalan jalan ke tmpt saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "99079378-8bbe-4be8-a5ce-e82cd9f18121",
+    "data": [
+      {
+        "text": "gojek ga mau datang ambil barang dan ga mau cancel tolong di cancel donk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a5e4f554-d2a8-4d01-881b-4f06d5d182e2",
+    "data": [
+      {
+        "text": "Driver tidak mau mengambil barang dan tidak mau mencancel, jadi tidak bisa ganti driver lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "455a9583-d490-40f7-b41a-be068f82e618",
+    "data": [
+      {
+        "text": "transaksi in sudh berhari hari tidak Ada yang pickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ae11403d-2fa5-43fe-bee2-5362b9d97604",
+    "data": [
+      {
+        "text": "saya pesen grab tapi saat ini barang saya belum di pick up juga, saya udah tlp grab nya tp tdk ada solusi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c0333954-bec7-42ab-8aea-b8289ebd0b56",
+    "data": [
+      {
+        "text": "belum ada grab instan yang pickup k rumah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "25c62e4b-1bb2-409f-bb77-25faea268061",
+    "data": [
+      {
+        "text": "sampai sekarang drivernya belum datang padahal sudah request pickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f448a983-de90-4f33-a6a1-9e6494a5f86f",
+    "data": [
+      {
+        "text": "barang orderan saya belum di pickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "231367bf-f698-45a3-96ce-b214f8bbf3cd",
+    "data": [
+      {
+        "text": "no resi tgl 15 nov sampai sekarang belum deiverifikasi oleh kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2dcdb0f4-d872-494f-ac53-f2724bf0999d",
+    "data": [
+      {
+        "text": "dari kmrn blm dipickup sampai sekarang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "816257d4-cc8a-49de-a1a7-2eb4323934fe",
+    "data": [
+      {
+        "text": "belum dipickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0c86da44-9bde-40a8-b957-2fbc09840b09",
+    "data": [
+      {
+        "text": "barang belum diambil grab same day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e6aedc20-58bb-42a4-80b3-7380db73a860",
+    "data": [
+      {
+        "text": "barang belum di pickup tetapi pada laporan transaksi sudah sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "885950ef-15e6-44bd-b05b-e64d4f7db3c9",
+    "data": [
+      {
+        "text": "Driver grab yg akan pick up tdk dpt dihubungi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b70363e2-9203-465d-89c1-6caafe48e8b8",
+    "data": [
+      {
+        "text": "tapi daritadi grabnya cancel sudah 2x",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "63da1399-4309-4d6c-adc4-7715dfc4f232",
+    "data": [
+      {
+        "text": "ingin ganti driver, pengiriman saya drivernya tidak bisa di hubungi.. ni tdk aktif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d2ac5623-6013-4379-a966-53aeadda81ba",
+    "data": [
+      {
+        "text": "barang nya belum di ambil dari rumah saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "61a376b0-49af-4ffb-9eef-902a47a8d124",
+    "data": [
+      {
+        "text": "dari pagi sampai sore ini tidak kunjung mendapatkan driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b8452f70-0eea-4f44-be4a-6d3cf165757b",
+    "data": [
+      {
+        "text": "Dari kemarin pikup nggak dapat driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4c3f3830-e7d8-4c85-a648-5fbea157d415",
+    "data": [
+      {
+        "text": "saya ada penjualan pake ninja xpress, sampe skrg paketnya belum di pickup, tolong bantu pick up secepatnya ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9dde687f-b070-4c81-b486-399e639f7cd7",
+    "data": [
+      {
+        "text": "tolong retry pick up dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "33fb8566-6629-475e-86c9-de13a99e93db",
+    "data": [
+      {
+        "text": "barang yang Saya pesan belum dikirim oleh kurir gojek, sudah dari pagi Saya pesan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2c7d480c-ca9a-4b95-bd60-08c39b164ed5",
+    "data": [
+      {
+        "text": "driver belum pick up dari kemarin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0073216b-df46-4d85-82b2-c90190f037a9",
+    "data": [
+      {
+        "text": "Tolong dilakukan retry pick up hari ini. Kemarin driver membatalkan pick up nya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "65b8dcb3-a4c4-4a07-a950-57e5d4e82945",
+    "data": [
+      {
+        "text": "dari kemarin saya pikup orderan, sampai sekarang drivernya nggak datang datang,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "462d80a5-556b-4610-b548-6131e53307ef",
+    "data": [
+      {
+        "text": "grab same day yg dipesan oleh tokopedia belum juga pick up barang ke seller sampai sekarang, padahal request grab nya udah daritadi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6b2d271e-74ff-4c02-902d-c9c52b8bbbc6",
+    "data": [
+      {
+        "text": "min driver grab batalin pick up. bisa carikan driver gak ya. belum jam 5 sore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dd3669bc-9e38-4fe9-b7c2-cc99365d9ce2",
+    "data": [
+      {
+        "text": "pagi admin toped, saya ada kendala pengiriman blm diambil driver gojek dari kmrn, tolong carikan driver baru y toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1ffb5595-6b7e-4d45-a124-bdafdd548290",
+    "data": [
+      {
+        "text": "saya memesan barang dengan kiriman 3-6 jam dengan grab instan. namun muncul notifikasi di akun saya bahwa driver membatalkan pesanan dan akan dikirimkan esok hari. saya butuh barangnya secepatnya. ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3aa2e686-f1e0-48d2-8465-bbd8228721e2",
+    "data": [
+      {
+        "text": "pembeli memakai rex... apa bisa di ambil ke toko saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "73b8ec29-9276-46b1-96b9-228aa4789cf7",
+    "data": [
+      {
+        "text": "barang belum di pick up, tolong dibantu dong grab instant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "474e042b-bf99-4ec1-8616-b24e415475a3",
+    "data": [
+      {
+        "text": "mohon dari tokopedia membantu untuk perihal pencarian ulang driver grab nya agar barang bisa di pickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a58762a3-1a31-45da-8d50-bd2923e57559",
+    "data": [
+      {
+        "text": "katanya mau cari ulang driver, kok ampe jam segini blom nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "05de8c02-12f2-4e95-b65a-25b78c8b7047",
+    "data": [
+      {
+        "text": "Driverny kok dri tadi gak dtg ambil paketny",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1ba509be-ae5b-467a-93c9-eddf27b3dc05",
+    "data": [
+      {
+        "text": "paket blum di ambil sama skali tetnyata",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5965fc90-aa58-46a8-881e-bc52c72360f7",
+    "data": [
+      {
+        "text": "paket belum di jemput oleh gojek. tapi dr driver sudah update terkirim. ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fd75a4d2-96cb-44fc-8e75-f2e8cd070ab1",
+    "data": [
+      {
+        "text": "order tidak bisa panggil driver. apakah bisa dibantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8d4bc129-1fd6-4bfa-b7f3-8eff2babb784",
+    "data": [
+      {
+        "text": "selamat siang min, transaksi penjualan saya barangnya belum di ambil oleh driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f1675aee-a0fa-4df6-a5b4-17f38e635c48",
+    "data": [
+      {
+        "text": "dear toped, brg belum di pick up, customer complain barang belum di terima seperti nya kurir melakukan kesalahan menyelesaikan kiriman padahal belum. ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7a1736fd-5d20-4d2f-ba76-7d23eec8d862",
+    "data": [
+      {
+        "text": "kenapa request gojek instabnya g bisa ya kak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "711d7f88-7021-459a-a5ee-7c4f15c98e96",
+    "data": [
+      {
+        "text": "mohon diberikan driver ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0ae0d46f-a363-4ecd-9c78-e2ad856766e3",
+    "data": [
+      {
+        "text": "Transaksi ini status nya sudah diterima,,padahal barang masih dirumah saya ,belum dipickup oleh gojek.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "775344c2-184e-4a2e-958c-d24ac9b8f64b",
+    "data": [
+      {
+        "text": "pesanan an.Putri no.INV/20181030/XVIII/X/224343706 yg memakai gosend same day GK-118616522 blm jg ada yg pick up.sedang kami melakukan request jam 2an sore tadi.tlg dibantu pencarian drivernya.makasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5728e2bf-aa54-4498-8e76-cce07c35ad6d",
+    "data": [
+      {
+        "text": "Sistem order kurir gojeknya manual atau dari pihak toped yg menyediakan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b6b4078d-8fed-4f1f-9c86-93f5f69b2947",
+    "data": [
+      {
+        "text": "Belum menemukan Gojek. Mintol di bntu crikan min. Urgent. Btuj cepat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "971b41b9-32cf-4268-b2e9-11b4d3c7847c",
+    "data": [
+      {
+        "text": "sampai saat ini kami mengalami kendala dalam pengiriman barang, belum ada driver yg mengpick barang kami, mohon bantuannya, terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ddffcf14-f4ac-464a-8d47-49e05142f7e4",
+    "data": [
+      {
+        "text": "sampai sekarang status di tokped hanya \"melakukan pencairan driver\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d68a1163-d4f9-4fad-9059-abc384027cad",
+    "data": [
+      {
+        "text": "penjual kesulitan pick up grab",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6231795b-9fb7-4b31-ae60-9614c5db1ddc",
+    "data": [
+      {
+        "text": "Tidak ada buttom req pickup.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6ecb9615-c70e-4a74-a06d-3519ba92ba4c",
+    "data": [
+      {
+        "text": "Barang yang saya pesan belum saya terima, namun distatusnya sudah diterima. saya sudah menanyakan ke penjual ternyata barang belum dipickup oleh driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8a6df1fa-df39-4209-b606-91fd008e7c21",
+    "data": [
+      {
+        "text": "pengiriman via gojek terkendala. barang belum di pickup driver.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "62d61b7f-0e8c-459b-af2c-4f83b46da974",
+    "data": [
+      {
+        "text": "layanan gosend yg ditugaskan antar pesanan saya sdh 3 jam tdk melakukan pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b57b9dcf-d055-41b5-91fc-b3f19838723d",
+    "data": [
+      {
+        "text": "barang blm dipickup dr kemaren.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e6e12fa8-d5d0-4fd0-a58c-9cc8b4319008",
+    "data": [
+      {
+        "text": "saya sudah dapat driver yg ingin mengantar pesanan pelanggan saya.tapi sampai saat ini drivernya gak datang juga untuk pickup.bisa tolong bantu retry pickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6356fbca-16b7-4c22-98d5-2035ca007785",
+    "data": [
+      {
+        "text": "INV/20181029/XVIII/X/223688827 kenapa order ini. saya tidak bisa panggil driver yah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a40c3002-ca9c-43e4-8e11-cc7d0f5ddeed",
+    "data": [
+      {
+        "text": "Barang belum di pick up oleh kurir rex-rex 10...bagaimana sy track posisi kurir tsb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f667f657-2cc7-405b-9c9c-85473f1ee98a",
+    "data": [
+      {
+        "text": "Sya tidak bsa pickup driver, tlong dibntu utk daperin driver. pembeli sy minta segera dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5a886224-17ef-4c07-b6f4-7e47616a98d9",
+    "data": [
+      {
+        "text": "saya tidak bisa request pickup sudah 4 jam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f787151e-b726-4906-84f8-9e98afb7d874",
+    "data": [
+      {
+        "text": "kurir membatalkan pickup tp kokbarang bs dikirim bsk nya lg ?? ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "396168fa-ccc9-433f-ad7e-19089b2fdd59",
+    "data": [
+      {
+        "text": "percobaan pengiriman sejak jam 4 sore hari ini, sampai sekarang telah 3x pergantian driver gojek, untuk yg terakhir ini sejak jam 5.30 sore tidak bisa dihubungi dan sms tidak bisa masuk, tlg kalau bisa dikembalikan lagi status ke siap kirim, agar besok pagi bisa dikirim ulang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7a7ef45d-e5ef-4c76-945b-cd51d2582e5f",
+    "data": [
+      {
+        "text": "barang pesanan belum d pick up selama satu minggu, payah tidak ada k jelasan, customer jadi kecewa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "59656bd8-b4f3-4ec5-8cfb-d9b0f5fc3ea9",
+    "data": [
+      {
+        "text": "min tolong retry pick up,dr td driver blm ambil brg dan tdk bs dihubungi,tolong segera min,thx.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c894c999-b427-4c2c-943a-9f3e0964dfea",
+    "data": [
+      {
+        "text": "error tidak melakukan pencarian driver sejak kemarin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4900327f-e404-400b-9065-63719c5ab2be",
+    "data": [
+      {
+        "text": "saya tidak bs request pick up barang, ninja xpress kurirnya..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dae0ce3c-7fc2-482c-a58e-71e34e763b1e",
+    "data": [
+      {
+        "text": "setelah saya melakukan pickup kenapa g ada proses pencarian driver ya. status penjualan saya lngaung sedang dikirim. itu gmn ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a5b21e34-f615-415a-af9e-2050ae45ed4e",
+    "data": [
+      {
+        "text": "sudah minta request pickup, jadi gimana? barang akan di ambil atau kita tetap kirim ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c8f4bfff-ecf7-45a5-aa5e-e5535e2f0441",
+    "data": [
+      {
+        "text": "halo. sy seller. buyer beli barang minta dikirim via gosend kemarin. tapi sampai hari ini barang belum diambil. tapi status barang sudah dipick up dan delivered (ada keterangan diterima).",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "83643cf6-b86a-4c3f-97df-925a1489c3cb",
+    "data": [
+      {
+        "text": "dari tadi searching driver grab terus. barang ditunggu buyer. min tolong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "668861a0-78f0-482a-925d-eddaee8e4a09",
+    "data": [
+      {
+        "text": "Saya mau cek untuk driver yg pickup barang saya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "038a8864-49bc-44f9-b346-637cbce1de51",
+    "data": [
+      {
+        "text": "gagal pickup beberapa kali,lebih dr 3kali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "469759de-2758-4ed3-8825-e8a20190fd85",
+    "data": [
+      {
+        "text": "kenapa saya ngak bisa panggil grabnya yah. ngak ada pilihan panggil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f0db92e9-83f1-40c8-ac13-e954f63cf564",
+    "data": [
+      {
+        "text": "baragn tak bisa dipickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3acf7a71-c256-46d3-848d-84cce06df486",
+    "data": [
+      {
+        "text": "Request pickup saya dicancel driver, tapi kok akan dicari driver lainnya esok hari?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "907d8c37-9c0b-48d3-885b-b9aaba9edb68",
+    "data": [
+      {
+        "text": "mohon dibantu untuk pencarian driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d5beda60-be35-475c-aca8-ef6371c32272",
+    "data": [
+      {
+        "text": "saya lakukan pick up tadi Siang, tetapi driver melakukan pembatalan pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4bbf9c5c-0a36-4430-86ca-b72cf034e2ba",
+    "data": [
+      {
+        "text": "kak. bisa tidak kalo cancel pesenan buyer tp sedang cr driver onlen untuk pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b333fb49-8f8e-45e3-a88b-1fbfaada658e",
+    "data": [
+      {
+        "text": "Kak mohon bantuannya utk melihat driver yg td pickup pengiriman saya Nama dan telpnya ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "97e67154-2ed0-439a-97ee-d2cbdaff3e41",
+    "data": [
+      {
+        "text": "mohon bantuannya besok untuk dicarikan driver kembali pesanan saya tidak diambil kurir hari ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d9d10676-1a98-41a5-b76f-2c83d4679f32",
+    "data": [
+      {
+        "text": "minta tolong di pickup ulang untuk orderan saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cc9de28c-eef7-48d4-88ff-4293ed876bd0",
+    "data": [
+      {
+        "text": "bs tolong restart utk pencarian driver?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "50b0010b-f6f6-49a2-9bb1-6ffc76a6ab5b",
+    "data": [
+      {
+        "text": "Hai robot INVIDTAG mohon di lacak ya ini mengapa sampai sekarang pesanannya belum menemukan driver. Terima kasih.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2270caea-4b57-47da-a69e-4414342fb639",
+    "data": [
+      {
+        "text": "INVIDTAG barang tidak diambil oleh grab",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "374dacbf-ac47-4583-bb4a-1dda29a2c251",
+    "data": [
+      {
+        "text": "sy memakai Ninja express utk pengiriman barang tapi baru saja penjual mengkonfirmasi Ninja express tidak pernah bisa menjemput barang ke rumah penjual.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4eb511b2-7ac0-4a7c-9c28-e02e04b81eb5",
+    "data": [
+      {
+        "text": "Pesanan belum dipickup sama gojek. cuma status dibuat gojeknya Pesanan sudah selesai. padahal barang masih di saya. penjualno komplain ke gojek 02033666",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f7c52e96-bb73-4e89-ae67-ddd8af3388e0",
+    "data": [
+      {
+        "text": "sudah searching driver dari pagi tapi belum dapat juga.. tolong dibantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a98d1f9a-408f-4ad1-b224-07bc03951498",
+    "data": [
+      {
+        "text": "tolong bantuan tokopedia untuk melakukan pencarian driver grab instant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fb76c23e-2d4b-4428-b5ac-ef9e7b2dcad1",
+    "data": [
+      {
+        "text": "kami sudah request driver sejak jam 11, tp sampai saat ini jam 15.09 masih blm daoat driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b41c0182-75de-482c-9bfe-73792659c296",
+    "data": [
+      {
+        "text": "tolong dibantu paket belum dipikcup oleh Rex",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a6e88131-b566-44cb-9c9c-01cf13f89291",
+    "data": [
+      {
+        "text": "retry pickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "66f87516-a240-441a-b1d8-bbc6e3c5fe39",
+    "data": [
+      {
+        "text": "mohon bantuan untuk no resi gosend GK-130992899, sudah 3hr kok status nya masi find driver terus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9df7c898-bda1-4d03-a1a4-635e20862535",
+    "data": [
+      {
+        "text": "tolong di cek sy ada orderan tp blm dpt driver grab",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6e67762c-2445-44c6-bf12-a59e678165c7",
+    "data": [
+      {
+        "text": "mohon bantuan nya untuk trx ini konsumen minta cancel karena driver Grab tidak mengambil barang nya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fa5e58b2-bb4a-4b5a-bef5-0162468093e7",
+    "data": [
+      {
+        "text": "Oke..bersedia pick up ulang. Terima kasih.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d8c34637-f864-40e3-bbcd-81c659a3727a",
+    "data": [
+      {
+        "text": "malam toped inv ini kok belum dapat driver gojek dr tgl 29/10/2018 GK-118606527.tolong di bantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "25156aaa-687d-4739-805f-b924571ebefd",
+    "data": [
+      {
+        "text": "sore kak..mohon dibantu untuknmencari driver pengganti untukntransaksi berikut ini karna dari jam 12 tidak kunjung datang Dan telling driver juga tidak aktif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d5daa088-469c-4d52-8959-5c618a6ae6b8",
+    "data": [
+      {
+        "text": "driver bisa ditlp tadinya , tiba* tidak bisa di tlp lagi , orderan saya tidak di pickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "53b323c6-fb68-4db9-9959-10167c88ee42",
+    "data": [
+      {
+        "text": "saya mau tanya track nya kok gak berubah sdh lama belum ada gosend yg ambil barang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b31631f6-e246-4c98-bdf2-2f6647fded44",
+    "data": [
+      {
+        "text": "driver gojek seperti tidak serius pickup barang, di tlp pun tidak bisa..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d6821d5c-66e2-41d3-b7af-8effe5132eeb",
+    "data": [
+      {
+        "text": "Driver gojek nya saya telepon , katanya di aplikasi gojek nya tidak ada orderan dari saya . apa bisa tolong di reset ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bdb69b6d-6f94-430a-99b5-fbad1a29ed3c",
+    "data": [
+      {
+        "text": "Saat akan mengirim pesanan menggunakan gosend, request pick up tidak dapat di proses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "043ca560-c2ad-4ae5-8fd3-580f54d124cb",
+    "data": [
+      {
+        "text": "ini kok statusnya di lanjut pencarian drivernya besok ya? ini barangnya belum di pick up barangnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "493625a2-b6a2-4598-bb36-cf3e6e7fcf15",
+    "data": [
+      {
+        "text": "barang belum d pick up tetapi status Sudah dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4b9d97a2-f118-4542-9c93-03879c1b96b7",
+    "data": [
+      {
+        "text": "pengiriman ninja dgn resi ini TKNX222194107-0. Sudah request pickup sejak kemarin sore skitar jam 3 tapi sampai sekarang belum ada driver yg menjemput barang.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d26b2c38-1f74-4ebe-848c-977866e88dd2",
+    "data": [
+      {
+        "text": "driver tidak bisa dihubungi. untuk alamat pengantaran paket mau dirubah..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9b5a978e-c6b6-43ca-a8d7-ed973028f8ff",
+    "data": [
+      {
+        "text": "tapi di status malah balik lagi pemcarian driver. jadi sangat ga relevant. tidak ada pembatalan pickup oleh driver sebelumnya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ff68b521-5651-4e12-a31f-727c5d18a470",
+    "data": [
+      {
+        "text": "grab error tidak bisa pickup kata penjual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8ad30a84-940b-4c0b-9f01-1a676fed6188",
+    "data": [
+      {
+        "text": "tidak bs klik cari driver... Barang udah kami siapin.. Tapi tombol cari driver gak bs klik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5fb0596e-394a-479b-9e5b-fa69d397703c",
+    "data": [
+      {
+        "text": "masa cari driver 4 jam lebih masih cari juga, mohon dicek kembali apakah ada masalah di sistem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "89a0b5e7-c032-4bd9-a1f7-68e5626836c6",
+    "data": [
+      {
+        "text": "Pesanan sudah lebih dari 4 jam belum juga d pickup oleh driver, sedangkan layanan tersebut dijamin dalam waktu 6 jam akan sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bf1d1707-fcc3-44e0-a2cf-5ee55d1a55de",
+    "data": [
+      {
+        "text": "Paket barang belum diambil oleh driver GRAB tapi sudah diselesaikan oleh driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d31d8a3a-c5c4-458e-b151-ba1d0586ff4a",
+    "data": [
+      {
+        "text": "Pesanan saya belum sampe, padahal saya pake gojek instan courier dari pagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d1261f75-9fb6-47c6-87d9-2f2855c85059",
+    "data": [
+      {
+        "text": "Driver tidak dapat hubungi telepon toko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6371a4d9-6625-4d04-bb1a-58175bd219ab",
+    "data": [
+      {
+        "text": "tapi belum dikirim, karena ninja Xpress bermasalah kata seller tidak pickup pickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

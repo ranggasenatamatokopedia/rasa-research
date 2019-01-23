@@ -1,0 +1,33 @@
+{
+  "id": "7914216d-9466-42c3-b7e3-6f25d4955335",
+  "name": "FAQ_Tokopoints_Sebelumnya_Muncul_Namun_Saat_Ini_Tidak_Muncul_Di_Kupon_Milik_Saya",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Tokopoints_Sebelumnya_Muncul_Namun_Saat_Ini_Tidak_Muncul_Di_Kupon_Milik_Saya-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Saat masa kedaluarsa, Kupon yang ada di halaman \"Kupon Milik Saya\" akan hangus dan tidak tampil kembali."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

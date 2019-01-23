@@ -1,0 +1,406 @@
+[
+  {
+    "id": "7df301fb-423b-4f10-816a-19ddc666f4ec",
+    "data": [
+      {
+        "text": "jika pesanan dibatalkan otomatis apakah uang akan kembali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e7ce868-7801-4096-822a-699f78429b7a",
+    "data": [
+      {
+        "text": "kalo saya batal kan nanti uang kembali ke toko cash kan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6cc6992e-bffc-4cf6-893e-6999aba24363",
+    "data": [
+      {
+        "text": "jika aku mau batalin uang aku bisa kembali mind",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6bf77449-49a1-44ad-a397-d7077be4c741",
+    "data": [
+      {
+        "text": "tadi saya pesan barang dengan nomor invoice INV/",
+        "userDefined": false
+      },
+      {
+        "text": "20180427",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "/XVIII/",
+        "userDefined": false
+      },
+      {
+        "text": "155302330",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya dapat kabar dari penjual bahwa barang yang saya pesan telah habis. Jadi saya bermaksud membatalkan pesannan saya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d5b17619-693a-46a1-9f04-69b1f4c7e485",
+    "data": [
+      {
+        "text": "apakah uang yang 100rb saya bayarkan akan kembali ke saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80bb61fe-14c5-4ccc-8420-1655ce6ab114",
+    "data": [
+      {
+        "text": "kalau kita mengajukan pembatalan . kira2 berapa lama uang kita kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b385c040-9a47-447c-af97-a630b683f72e",
+    "data": [
+      {
+        "text": "kalau dibatalkan, nanti tokocash saya akan dikembalikan juga ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56a03bdf-b86d-486f-81c2-3b9344931885",
+    "data": [
+      {
+        "text": "ga bisa skrg jg ya di prosesnya...?? kl di batalkan uangnya kembali ga ??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eec9aaa9-7582-469b-9f88-f34db2a1292f",
+    "data": [
+      {
+        "text": "nah itu cara saya bisa dapat uang nya kembali gimana ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76cef3bd-aad7-4d2c-ac69-1f900a19bb6e",
+    "data": [
+      {
+        "text": "apakah uang saya bisa kembali atau tidak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4168a03-294e-41bd-ad79-a10d5f64f3ea",
+    "data": [
+      {
+        "text": "aq dah transper tp transaksi d batal kan...uang bisa kembali g?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11d87e94-2232-41a8-b5f3-29a5219acdce",
+    "data": [
+      {
+        "text": "terima kasih atas pemberitahuannnya. trus apakah dana akan kembali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b07e5b8-dba0-40b8-b8ff-270ee8953a70",
+    "data": [
+      {
+        "text": "apakah dana tokocash nya juga akan kembali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea6b991a-7522-47a5-b399-e06a46376cb4",
+    "data": [
+      {
+        "text": "ok saya batalkan dulu ya semoga toko cashnya kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e7d4a1b-9635-4c43-a235-6a319e9ad5fa",
+    "data": [
+      {
+        "text": "kalau dibatalkan uang saya bisa kembali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd26ebec-90c2-4891-9a69-f374cf51fa62",
+    "data": [
+      {
+        "text": "apakah uang saya bisa kembali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a41518ff-1dcf-459f-b291-6f3040fa79ab",
+    "data": [
+      {
+        "text": "yang ingin saya tanyakan, apakah uang saya bisa kembali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9738969b-adc6-4042-a3a3-2cd42b13f73d",
+    "data": [
+      {
+        "text": "pembayaran belum di verifikasi tapi saya batalkan apa dana bisa di kembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "681045e8-24a9-409a-b481-d10c04ca0f2a",
+    "data": [
+      {
+        "text": "dan apakah dana tokocashnya akan kembali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f68dd469-f498-4bde-ad38-e472e46cee95",
+    "data": [
+      {
+        "text": "jika batal apakah biayaya saya akan kembali menjadi saldo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "62eb8a0f-5050-412e-8497-a717ba94e792",
+    "data": [
+      {
+        "text": "transaksi batal otomatis dana kembali gk min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "612a8bf8-8349-4fed-9cfe-9063662b49e7",
+    "data": [
+      {
+        "text": "maksudnya dana sy yg dibatalkan dari pihak penjual belom dikembalikan dari pihak tokopedia.Ada kendala apa sekira nya ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "22228f6e-0b0a-44c4-9aa4-32fb806f362e",
+    "data": [
+      {
+        "text": "mba kalo di batalin apa kah uang saya kembali cara nya bagai mna",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e1a4db6-075b-47e9-8554-b24e10ef01f5",
+    "data": [
+      {
+        "text": "apa uang saya bisa kembali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "43aa72be-c85b-4fe7-aea9-5e7d0fef6274",
+    "data": [
+      {
+        "text": "apa dana aku kembali ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1284a1f1-003d-4e66-9028-919630dafbb7",
+    "data": [
+      {
+        "text": "kalaw belanjaan di cancel penjual, apakah uang di kembalikan han",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "260e3cd8-9130-4e6a-9347-1f4a25491d22",
+    "data": [
+      {
+        "text": "dana transaksi yang di refund kembali kemana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b3eb7957-7809-4abb-8406-eb60e440c849",
+    "data": [
+      {
+        "text": "jika transaksi saya di batalkan oleh penjual, bagaimana cara refund dana jika pembayaran yang saya lakukan menggunakan pembayaran kartu kredit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1de84f86-ec58-47e7-9d9b-233fc283833b",
+    "data": [
+      {
+        "text": "mohon bantuannya untuk mengembalikan salfo toko cash karena transaksi sbelumnya telah batal terimakasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3db6e72f-1a55-4d71-9f44-1aea46d66ef8",
+    "data": [
+      {
+        "text": "Pagiii. Kalau mau refund tiket dkembalikan penuh ga? Br pesan td malam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c3dd6069-4b8a-4727-a03b-c38fd1d17651",
+    "data": [
+      {
+        "text": "saya mau belanja dari sisa dana sya yg d cancel kenapa GK bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6a3bae55-2d30-4734-9df1-2a1f7d90c70d",
+    "data": [
+      {
+        "text": "saya udah bayar pake credit card, tp penjual belum respon, apakah dana otomatis di kembalikan ke credit card saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "56d6abb6-51a8-4476-9231-763de8a0b67c",
+    "data": [
+      {
+        "text": "maaf mau mimta bantuan. pembelian saya dibatalkan dr pihak penjual. dana saya dikembalikan kemana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

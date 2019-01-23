@@ -1,0 +1,267 @@
+[
+  {
+    "id": "a31d6730-f1a1-469d-96b0-4e478b1e8d91",
+    "data": [
+      {
+        "text": "maksudnya PO itu apa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "10dfaec2-9bc6-4e9e-8d69-143a4a66d658",
+    "data": [
+      {
+        "text": "tolong dibantu ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tentang definisi PO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5ea0b0a1-0d4a-448e-a3c6-9c4134669765",
+    "data": [
+      {
+        "text": "jelaskan padaku apa itu PO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "094f7d99-02ff-44fa-a811-1643b9c2f65c",
+    "data": [
+      {
+        "text": "bantu saya kasih tau tentang pre order itu apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "15025156-7167-4a74-8145-65ac65bbcf13",
+    "data": [
+      {
+        "text": "PO dong kasih tau maksudnya apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6bc802e7-5379-4ada-9cf2-8a544bc7ce99",
+    "data": [
+      {
+        "text": "mohon kasih tau PO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "513aff51-8f01-4d5c-8479-687739b04c6c",
+    "data": [
+      {
+        "text": "jelaskan tentang PO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b8c67246-8702-4ea3-b554-f37dca2815ad",
+    "data": [
+      {
+        "text": "PO atau pre order itu apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "27abe03b-2837-478f-9e86-d00c91be0df5",
+    "data": [
+      {
+        "text": "apa sih PO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a86db117-b542-4087-a122-1fab23da5c0d",
+    "data": [
+      {
+        "text": "mohon bantuannya informasi tentang PO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f854717b-ce21-4319-9708-d084ec9edae3",
+    "data": [
+      {
+        "text": "jelasin dong PO itu apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "048f9519-7c55-46a2-8ef5-eff6039e4427",
+    "data": [
+      {
+        "text": "maksudnya PO apa sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a27c0249-9261-4885-91ee-9aefaacbf0fd",
+    "data": [
+      {
+        "text": "Berapa lama produk pre order akan dilakukan pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "38e7ac2f-d0e6-4cd0-ae52-c064c75075f4",
+    "data": [
+      {
+        "text": "Produk pre order itu apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "25f72e70-c5da-4ceb-9862-29e1f8418337",
+    "data": [
+      {
+        "text": "Kenapa ada produk preorder, bedanya apa dengan produk ",
+        "userDefined": false
+      },
+      {
+        "text": "reguler",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bcf0f0f7-6f05-4cfd-8080-e92d2ec8fc67",
+    "data": [
+      {
+        "text": "Tolong jelaskan produk pre order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c9940066-4e3a-444a-b7bc-a205bc3ac678",
+    "data": [
+      {
+        "text": "Apa sih produk pre order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1127f0fa-d137-41b7-87bb-2ec6720d48a6",
+    "data": [
+      {
+        "text": "Kalau produk yang dijual ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " adalah barang PO, berapa lama prosesnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b91cfdf7-08ae-4117-bb7b-57baa05d41df",
+    "data": [
+      {
+        "text": "Apa bedanya produk pre order dengan produk biasa lainnya di Tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8ccbb7a2-4608-4f0b-806e-1557cd38d89b",
+    "data": [
+      {
+        "text": "Barang pre order itu apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7cce2be3-e615-4c98-b907-d1039ec71899",
+    "data": [
+      {
+        "text": "Apa yang dimaksud produk pre order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1d86b15b-cf57-4c38-9349-285a0e27706e",
+    "data": [
+      {
+        "text": "ingin merubah produk untuk waktu PREORDER yg sudah d order customer, apakah bisa d cancel customer dulu, kemudian seller edit dan meminta customer untuk memesan kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

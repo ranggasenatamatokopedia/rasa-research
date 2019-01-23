@@ -1,0 +1,38 @@
+[
+  {
+    "id": "91ebd6fd-fed6-4209-95c9-80536ab7cca8",
+    "data": [
+      {
+        "text": "Virtual Account Maybank",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "14c4be79-78a3-4d32-b175-7fa31ab7b63a",
+    "data": [
+      {
+        "text": "Maybank Virtual Account",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "63a32222-5883-477b-b4e4-8d6d65cd57ad",
+    "data": [
+      {
+        "text": "maybank VA",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "id": "79399d3d-1735-4a38-83f0-804a798b2f2c",
+  "name": "Merchant_Produk_Dalam_Pengawasan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Merchant_Produk_Dalam_Pengawasan-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Bisa informasikan satu link produk yang kamu maksud ? (contoh: https://www.tokopedia.com/nama-toko/nama-produk)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "merchant_produk_dalam_pengawasan"
+    }
+  ]
+}

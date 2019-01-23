@@ -1,0 +1,49 @@
+{
+  "id": "0be58de1-eb6d-4206-8eea-a838e4438666",
+  "parentId": "28bf9452-f604-414d-816f-f00424aae84f",
+  "rootParentId": "c68db85e-e0f8-466a-8e27-ac10cd165274",
+  "name": "Digital_Transaksi_Berhasil_Namun_Voucher_Belum_Diterima_order_success",
+  "auto": false,
+  "contexts": [
+    "Digital_Transaksi_Berhasil_Namun_Voucher_Belum_Diterima_select_inv-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetDigitalVoucherCode",
+      "affectedContexts": [
+        {
+          "name": "Digital_Transaksi_Berhasil_Namun_Voucher_Belum_Diterima_order_success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped infokan saat ini transaksi #invoice_success.category_name_digital kamu sudah berhasil pada #invoice_success.success_date ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534162844,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_success"
+    },
+    {
+      "name": "invoice_to_be_settled"
+    },
+    {
+      "name": "invoice_settled"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "3b15cc03-402c-40c1-9882-3fff37020fad",
+  "name": "Payment_pengembalian_limit_tdk_sesuai",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetInvoiceList",
+      "affectedContexts": [
+        {
+          "name": "Payment_pengembalian_limit_tdk_sesuai-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh informasikan transaksi nya yang mana, Kak?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "payment_pengembalian_limit_tdk_sesuai"
+    }
+  ]
+}

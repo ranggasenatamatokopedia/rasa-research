@@ -1,0 +1,49 @@
+{
+  "id": "bc8f4622-0f27-4009-a4cd-f030fe0388ae",
+  "name": "FAQ_Payment_cara_bayar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ConvertParametersToEventName",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Payment_cara_bayar-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ca869d57-6f0f-4da6-918c-f7ef4467ca72",
+          "required": true,
+          "dataType": "@metode_bayar",
+          "name": "metode_bayar",
+          "value": "$metode_bayar",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Kamu ingin melakukan pembayaran dengan metode apa?\n- Transfer bank\n- Gerai (Indomart, Lawson)\n- Kartu kredit\n- Virtual account\n- Saldo Tokopedia\n- Pembayaran Instan (KlikBCA, e-Pay Mandiri)\n- Kredivo\n- OVO Cash\n- OVO Points"
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_payment_cara_bayar"
+    }
+  ]
+}

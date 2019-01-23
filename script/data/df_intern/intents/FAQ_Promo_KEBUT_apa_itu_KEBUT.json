@@ -1,0 +1,32 @@
+{
+  "id": "e0800acd-8cc7-4fd0-9b3a-a2f65e0e4e48",
+  "name": "FAQ_Promo_KEBUT_apa_itu_KEBUT",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "KEBUT adalah program promosi Tokopedia yang merupakan kepanjangan dari Kejutan Belanja Untung. Kamu bisa ikuti promonya dan menangkan beragam hadiah menarik. Buruan, KEBUT sekarang 🙂"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa cek promo KEBUTnya  !TKPD_URL_KEBUT!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

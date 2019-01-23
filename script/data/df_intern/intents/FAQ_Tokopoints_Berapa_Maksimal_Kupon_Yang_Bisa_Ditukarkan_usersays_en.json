@@ -1,0 +1,256 @@
+[
+  {
+    "id": "36bd58b3-2e14-4714-9d81-99bcfc5c8a8c",
+    "data": [
+      {
+        "text": "Berapa batasan kupon yang dapat saya tukar ",
+        "userDefined": false
+      },
+      {
+        "text": "dalam sehari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ddb0cade-3dee-4022-a076-eb55ccb0cfdf",
+    "data": [
+      {
+        "text": "Ternyata ada tempat makan kesukaan saya di kupon partner, saya mau tuker dong, maksimal berapa kali bisa saya tuker?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d7ed19f7-e012-4d6e-9aaa-4bcc8c858b7f",
+    "data": [
+      {
+        "text": "Ternyata ada tempat makan kesukaan saya di kupon partner, saya mau tuker dong, maksimal berapa kali bisa saya tuker ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "af69447c-6a7f-4ee3-b7bb-f11947277b28",
+    "data": [
+      {
+        "text": "Saya mau dong tuker point saya jadi kupon partner, lumayan buat jajan, berapa kali maksimal ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dce38b56-9185-4bf5-9ef1-01bef5b2886f",
+    "data": [
+      {
+        "text": "Maksimal nuker kupon partner itu berapa kali ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c8015c12-7f09-4357-ab8d-c94091d88a00",
+    "data": [
+      {
+        "text": "Berapa maksimal penukaran kupon partner?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a0e7c84d-9966-47d1-9baf-e17367c35686",
+    "data": [
+      {
+        "text": "Point saya banyak banget nih, saya mau tuker jadi kupon partner, maksimal penukarannya berapa kali ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "42456c1b-045f-47b4-bd5e-6266b95864ab",
+    "data": [
+      {
+        "text": "Saya mau tuker jadi kupon partner dong, maksimal berapa ya yg bisa saya tukarkan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c5eda2b5-3edb-410e-bf58-4b02d128c117",
+    "data": [
+      {
+        "text": "Saya mau tuker jadi kupon partner nih min, maksimal berapa kali ya? Point saya banyak banget nih *sombong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ce2456ef-95b7-486c-a36b-3bbb5faa54c9",
+    "data": [
+      {
+        "text": "Dalam sehari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " itu berapa maksimal point yang bisa saya tukar menjadi kupon partner?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f05744b1-9bb0-44bf-8c69-df330046c8df",
+    "data": [
+      {
+        "text": "Saya mau tukar point saya jadi kupon partner, maksimal tukernya berapa ya ",
+        "userDefined": false
+      },
+      {
+        "text": "dalam sehari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fd6405c2-445c-4b00-b152-fce836ec305a",
+    "data": [
+      {
+        "text": "Miiiin, kalo saya mau tuker point jadi kupon partner, maksimal ",
+        "userDefined": false
+      },
+      {
+        "text": "dalam sehari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " berapa kali ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1c83a4e9-2b79-49c7-a123-1b44b0c453ac",
+    "data": [
+      {
+        "text": "Saya mau tuker kupon nih, dalam sehari maksimal berapa yang bisa saya tukar ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d80262d3-5d7c-4af3-9084-3c36be94ef53",
+    "data": [
+      {
+        "text": "Tokopoints saya banyak nih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya mau tuker, maksimal tukernya ",
+        "userDefined": false
+      },
+      {
+        "text": "dalam sehari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " berapa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a39314b9-5e2c-4ef5-9ed0-b46a9d22fa64",
+    "data": [
+      {
+        "text": "Berapa batasan kupon yang dapat saya tukar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b5395bc6-0bbb-4967-a3ca-20d887f3c307",
+    "data": [
+      {
+        "text": "Berapa maksimal kupon yang bisa saya tukar ",
+        "userDefined": false
+      },
+      {
+        "text": "dalam sehari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

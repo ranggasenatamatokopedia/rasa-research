@@ -1,0 +1,46 @@
+[
+  {
+    "id": "c39db41e-0981-42ab-8147-3b1b9f0b27e7",
+    "data": [
+      {
+        "text": "credit card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1ecc1b82-1e2e-4bc3-8a8a-ec74858948eb",
+    "data": [
+      {
+        "text": "cc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "85822591-431f-41fc-8a44-41de609d7db2",
+    "data": [
+      {
+        "text": "kartu kredit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "653deeac-4a5f-4fd6-b91e-1e6fce589b72",
+    "data": [
+      {
+        "text": "utk pembayaran melalui cc apakah harus nama saya sendiri ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

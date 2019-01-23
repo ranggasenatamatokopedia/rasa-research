@@ -1,0 +1,38 @@
+{
+  "id": "f4099ee2-7abd-41c5-bc50-6ddcf170edcc",
+  "name": "FAQ_Merchant_Voucher_Toko_Pembelian_Dibatalkan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Merchant_Voucher_Toko_Pembelian_Dibatalkan-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau kode promo terbatalkan karena pembayaran yang terlambat atau pembeli mengganti promo, maka kuota promo yang batal akan terhitung kembali di toko penjual."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk bisa menggunakan kode promo yang sama, pembeli harus menunggu 45 menit setelah penggunaan pertama batal."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

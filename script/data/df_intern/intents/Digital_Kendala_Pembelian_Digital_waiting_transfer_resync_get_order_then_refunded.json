@@ -1,0 +1,43 @@
+{
+  "id": "b36fcf2c-024e-46e7-916f-1a670170c884",
+  "parentId": "9ca1a67f-86ed-414d-a4e3-0ccee8c4acf9",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_waiting_transfer_resync_get_order_then_refunded",
+  "auto": false,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_select_invoice_waiting_transfer_resync_get_order-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetRefundNotesFromRefundList",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_waiting_transfer_resync_get_order_then_refunded-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped informasikan saat ini dana kamu sedang dalam proses pengembalian ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534146986,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_refund"
+    }
+  ]
+}

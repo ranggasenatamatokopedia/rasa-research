@@ -1,0 +1,43 @@
+{
+  "id": "69b57621-2a1e-4b3a-8a23-4c33b146cf70",
+  "parentId": "d738d88a-7b29-4fb0-9bc5-9a569e2451c4",
+  "rootParentId": "844540fa-3db4-42cc-a62e-c3d9bc90793a",
+  "name": "Resolution_Kendala_Fitur_Resolusi_Tidak_Bisa_Upload_Inv_Image_Uploaded",
+  "auto": true,
+  "contexts": [
+    "Resolution_Kendala_Fitur_Resolusi_Tidak_Bisa_Upload_Inv_Image-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Resolution_Kendala_Fitur_Resolusi_Tidak_Bisa_Upload_Inv_Image_Uploaded-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536746179,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "image_uploaded"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "dae95589-d4e2-4278-9368-bc32533a1036",
+  "parentId": "dca357dd-5116-4d7c-9c69-517d3185cdcc",
+  "rootParentId": "e1fd67c7-5a72-4184-9a6c-bda4c6e61524",
+  "name": "Logistic_Pengiriman_Tidak_Tersedia_Wilayah_Penjual_Reguler_Courier_List_Valid_Available",
+  "auto": true,
+  "contexts": [
+    "Logistic_Pengiriman_Tidak_Tersedia_Wilayah_Penjual_Reguler_Courier_List_Valid-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Pengiriman_Tidak_Tersedia_Wilayah_Penjual_Reguler_Courier_List_Valid_Available-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu sebentar ya, Toped akan bantu buatkan tiket Layanan Pengguna untuk dicek lebih lanjut dan informasi selanjutnya akan dikirim lewat email :)"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "data": {
+              "show_rating": false
+            },
+            "type": 0
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537934408,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "courier_is_available"
+    }
+  ]
+}

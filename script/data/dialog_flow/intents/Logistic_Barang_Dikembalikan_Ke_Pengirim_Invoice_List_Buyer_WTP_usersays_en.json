@@ -1,0 +1,90 @@
+[
+  {
+    "id": "bebc5565-10c4-43ad-8bc2-98cff2238827",
+    "data": [
+      {
+        "text": "invoice_payment_confirm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5af0debd-fd95-43b3-8261-6522c22d76a3",
+    "data": [
+      {
+        "text": "invoice_pending_due",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d0b7b96d-deba-4cc6-aaa2-21483b57a2e6",
+    "data": [
+      {
+        "text": "invoice_pending_unik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cdfbb22c-b752-481c-9098-7fbf7f910c77",
+    "data": [
+      {
+        "text": "invoice_belum_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ffcac675-f74f-43b4-8297-ed12fb28cfc4",
+    "data": [
+      {
+        "text": "invoice_cc_challenge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b5682df2-e85e-4e3f-8f48-c6cb943678f6",
+    "data": [
+      {
+        "text": "invoice_payment_confirmed_unik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "06551230-34ec-47ff-b34c-d4ad958f6e58",
+    "data": [
+      {
+        "text": "invoice_checkout_state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c873c62d-fbc3-49c6-8919-f7b2d33f3941",
+    "data": [
+      {
+        "text": "invoice_pending",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "id": "f252cd69-75e1-427f-a6d8-61488dc1cdf2",
+  "parentId": "68474931-ede2-4b68-9b6c-4a0e1a2d71ec",
+  "rootParentId": "68474931-ede2-4b68-9b6c-4a0e1a2d71ec",
+  "name": "Fraud_Seller_Kirim_Link_Mencurigakan_Sudah",
+  "auto": true,
+  "contexts": [
+    "Fraud_Seller_Kirim_Link_Mencurigakan-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Seller_Kirim_Link_Mencurigakan_Sudah-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Terima Kasih sudah menghubungi Toped, senang bisa membantu kamu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539230641,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,100 @@
+{
+  "id": "3dc2ffe7-e598-4d26-aa4e-ab12e026aeff",
+  "parentId": "5a6e6e84-7cd3-4762-8ab9-6ce83a0ebe1e",
+  "rootParentId": "dbbb1e17-3271-4c65-b2a2-5cb80603b2a4",
+  "name": "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_evoucher_prompt_questions",
+  "auto": true,
+  "contexts": [
+    "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_evoucher-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_evoucher_prompt_questions-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4cc7ddf7-9e67-41cd-9924-3f05a404bc75",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "nama_customer",
+          "value": "$nama_customer",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Informasikan Nama Customer yang menggunakan voucher ini ya."
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "29888144-c2fd-4f4b-ae89-2197ebae4abf",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "date",
+          "value": "$date",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Informasikan juga hari dan tanggal saat kendala itu terjadi? (contoh: Selasa, 12 Juni 2018)"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "34e5ad45-4d29-4105-9682-ce0aaa2ff8a3",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "time",
+          "value": "$time",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Di jam berapa kamu melakukan redeem voucher? (contoh: 15:00)"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "6dd2599a-141f-4720-8545-d2fce5a3bf22",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "tempat_penukaran",
+          "value": "$tempat_penukaran",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Kamu bisa informasikan tempat penukaran vouchernya ya (Contoh: KFC, Inul Vizta, dll)"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Informasikan juga kronologis singkat kejadian saat redeem dilakukan (Contoh: Pada saat lakukan redeem di KFC, voucher sudah digunakan ataupun sudah terpakai)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536396915,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

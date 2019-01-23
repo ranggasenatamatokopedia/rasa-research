@@ -1,0 +1,54 @@
+{
+  "id": "e4ea195b-aeda-4ab3-8a09-df70ef9b8bfa",
+  "parentId": "05ca21be-38a7-44d8-b913-1bfa1a3ed963",
+  "rootParentId": "423ba23e-4ef9-436a-8828-c784ffb30629",
+  "name": "Order_Fraud_Dana_Hasil_Transaksi_Belum_Masuk_Fraud_Abuse_Cbongkir_Cb_Cashadvan",
+  "auto": false,
+  "contexts": [
+    "Order_Fraud_Dana_Hasil_Transaksi_Belum_Masuk_Atau_Direview_Ya_Select_MP_Finished_Fraud-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectSupportMessagePage",
+      "affectedContexts": [
+        {
+          "name": "Order_Fraud_Dana_Hasil_Transaksi_Belum_Masuk_Fraud_Abuse_Cbongkir_Cb_Cashadvan-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah Toped cek, transaksi tersebut tidak memenuhi Syarat dan Ketentuan ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532087354,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "case_status_cash_advance"
+    },
+    {
+      "name": "case_status_unhold_without_cashback"
+    },
+    {
+      "name": "case_status_abuse_cashback_ongkir"
+    }
+  ]
+}

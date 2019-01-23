@@ -1,0 +1,42 @@
+{
+  "id": "ece1c09d-7139-46d4-b1a8-6ae5906bafdb",
+  "name": "FAQ_Referral_Apakah_Kode_Referral_Bisa_Digunakan_Untuk_Semua_Jenis_Transaksi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Referral_Apakah_Kode_Referral_Bisa_Digunakan_Untuk_Semua_Jenis_Transaksi-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Penggunaan kode Referral tidak berlaku untuk transaksi berikut ini.\n\n1. Pembelian pulsa XL dan Axis \n2. Donasi dan Zakat\n3. Paket langganan Gold Merchant\n4. Transaksi di Oppo Official Store\n5. Top up TokoCash"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa gunakan untuk transaksi lain di Tokopedia ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_referral_apakah_kode_referral_bisa_digunakan_untuk_semua_jenis_transaksi"
+    }
+  ]
+}

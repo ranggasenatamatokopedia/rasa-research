@@ -1,0 +1,214 @@
+[
+  {
+    "id": "94366cf3-70d7-41bc-bfa4-2af656490ab2",
+    "data": [
+      {
+        "text": "menunggu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7662f0ab-795a-465e-b81b-c016b24ef04b",
+    "data": [
+      {
+        "text": "tunggu aja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8773a05c-5efa-42e0-99dd-62bd5bd953f4",
+    "data": [
+      {
+        "text": "nunggu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "653b7780-8400-4bfd-a4e4-348574d3b547",
+    "data": [
+      {
+        "text": "tunggu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "40068a3a-e6f0-40d3-8b77-ca90a0ee7fc6",
+    "data": [
+      {
+        "text": "menunggu respon ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "22826915-7443-4e5a-a30a-f5c687c453d4",
+    "data": [
+      {
+        "text": "menunggu ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "906d0d57-87e8-481c-b263-c046d887ac0a",
+    "data": [
+      {
+        "text": "menunggu respons ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "27ba2d25-7a8c-4ef1-a7c2-b2de9fcc349c",
+    "data": [
+      {
+        "text": "respon ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "57e131ec-47f0-41de-8469-00c41d0542de",
+    "data": [
+      {
+        "text": "respons ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4473188d-1b34-45a7-a9a8-9304997d42fd",
+    "data": [
+      {
+        "text": "tunggu respon ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "74324772-895c-4183-8f8e-06f3b33f7184",
+    "data": [
+      {
+        "text": "tunggu ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " merespon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "29240440-3d0e-4da6-9c97-08d7e77a79c3",
+    "data": [
+      {
+        "text": "tunggu ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "471806f5-8266-4257-909a-067ad1e007e5",
+    "data": [
+      {
+        "text": "tunggu respons ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a30b3b81-7689-4448-8214-0fb42a7bfff0",
+    "data": [
+      {
+        "text": "tunggu ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " merespons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

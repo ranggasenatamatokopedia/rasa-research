@@ -1,0 +1,49 @@
+{
+  "id": "1c7fbf19-6a83-4cbb-9773-1d99789a6c67",
+  "parentId": "dde8ae2a-9271-4847-a8b2-05c8604fa637",
+  "rootParentId": "bc8f4622-0f27-4009-a4cd-f030fe0388ae",
+  "name": "FAQ_Payment_cara_bayar_virtual_account_briva",
+  "auto": true,
+  "contexts": [
+    "FAQ_Payment_cara_bayar_virtual_account-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Payment_cara_bayar_virtual_account_briva-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut langkah - langkah untuk melakukan pembayaran BRIVA dengan ATM BRI:\n1. Lakukan pembayaran melalui ATM Bank BRI.\n2. Pilih menu Transaksi Lain.\n3. Pilih menu Pembayaran.\n4. Pilih menu Lainnya.\n5. Pilih menu BRIVA.\n6. Masukkan 5 angka kode perusahaan untuk Tokopedia: 80777 dan Nomor HP yang terdaftar di akun Tokopedia kamu.\n7. Pilih Ya untuk memproses pembayaran."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "BRIVA juga dapat dibayar melalui mobile banking BRI. Berikut langkah - langkah nya:\n1. Masuk ke aplikasi BRI Mobile dan pilih Mobile Banking BRI.\n2. Pilih menu Info.\n3. Pilih menu BRIVA.\n4. Masukkan 5 angka kode perusahaan untuk Tokopedia: 80777 dan Nomor HP yang terdaftar di akun Tokopedia kamu.\n5. Masukkan PIN Mobile/SMS Banking BRI.\n6. Kamu akan mendapatkan notifikasi pembayaran melalui SMS."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "BRIVA dapat dibayar melalui internet banking BRI, teller BRI, mini ATM BRI, ATM Bank lain dan teller Bank lainnya juga. Untuk informasi lebih lengkap, kamu bisa lihat disini ya:  https://www.tokopedia.com/bantuan/cara-pembayaran-via-briva-bri-virtual-account/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534826176,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,48 @@
+{
+  "id": "9f1250b5-6977-4097-9b81-08c3b599a65a",
+  "parentId": "59692b1b-8c78-477f-a8df-4948f7bc397e",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Tidak_Mendapat_Cashback_Promo_Select_Invoice_MP_Finished_Fraud_Abuse_Ongkir",
+  "auto": true,
+  "contexts": [
+    "Promo_Tidak_Mendapat_Cashback_Promo_Select_Invoice_MP_Finished_Fraud-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Mendapat_Cashback_Promo_Select_Invoice_MP_Finished_Fraud_Abuse_Ongkir-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah Toped cek, transaksi ini tidak menggunakan Kode Promo Cashback, melainkan potongan ongkos kirim, sehingga kamu tidak mendapat cashback."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Potongan ongkos kirim sudah mengurangi nominal yang harus kamu bayar saat chekout ya. Kamu bisa cek kembali :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532487137,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "case_status_unhold_take_amount"
+    }
+  ]
+}

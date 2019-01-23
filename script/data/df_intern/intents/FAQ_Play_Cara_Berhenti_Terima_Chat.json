@@ -1,0 +1,38 @@
+{
+  "id": "3c163f9b-4be5-46ed-8971-67f3f836fdcf",
+  "name": "FAQ_Play_Cara_Berhenti_Terima_Chat",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Play_Cara_Berhenti_Terima_Chat-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa ikuti  langkah berikut untuk berhenti menerima chat dari Tokopedia atau pengguna lain:\n1. Akses akun Tokopediamu menggunakan komputer/laptop\n2. Pilih menu Chat\n3. Klik pada chat yang tidak ingin kamu terima lagi\n4. Klik tombol titik tiga di kanan atas, kemudian pilih \"Atur Penerimaan Chat\"\n5. Geser toggle menjadi tidak aktif."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau semua langkah sudah dilakukan, secara otomatis kamu tidak akan menerima promosi/chat tersebut dalam waktu 30 hari."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

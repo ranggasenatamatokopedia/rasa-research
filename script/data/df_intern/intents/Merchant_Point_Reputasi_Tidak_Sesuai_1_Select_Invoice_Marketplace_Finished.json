@@ -1,0 +1,43 @@
+{
+  "id": "fc073c8f-75bf-44ac-aba5-4e41da7386ce",
+  "parentId": "7b515a14-6da4-41d0-950c-5a66ede34909",
+  "rootParentId": "cf17fcc0-2998-4ff8-8cf4-6a1ca0e60443",
+  "name": "Merchant_Point_Reputasi_Tidak_Sesuai_1_Select_Invoice_Marketplace_Finished",
+  "auto": false,
+  "contexts": [
+    "Merchant_Point_Reputasi_Tidak_Sesuai_1_Select_Invoice_Marketplace-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetReviewStatus",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Point_Reputasi_Tidak_Sesuai_1_Select_Invoice_Marketplace_Finished-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536553009,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_finished"
+    }
+  ]
+}

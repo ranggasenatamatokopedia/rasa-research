@@ -1,0 +1,235 @@
+[
+  {
+    "id": "de591efb-a030-493c-a86f-03eec9ea5c5d",
+    "data": [
+      {
+        "text": "Mohon bantuannya, paket pesanan saya sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum juga saya terima.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8744cdfa-f8f0-428f-9b12-60e4a522645d",
+    "data": [
+      {
+        "text": "kartu halo kapan dikirim?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d5ede906-99e3-4f39-85c5-57e0447cbe4f",
+    "data": [
+      {
+        "text": "kapan ya kartu pasca bayarnya dikirim ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3aa257c1-4925-475f-95ce-9222292dd4ce",
+    "data": [
+      {
+        "text": "Kartu perdana belum lagi sampai dan tidak adanya nomor resi yg dikirimkan ke saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cb99f6b7-2918-4423-9546-1efc30c3cd30",
+    "data": [
+      {
+        "text": "Kapan barang saya akan dikirim sama telkomsel ",
+        "userDefined": false
+      },
+      {
+        "text": "min?",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9fcb31e0-5957-4316-82f7-96edeab93940",
+    "data": [
+      {
+        "text": "saya belum menerima kartu halo yang sya daftarkan. dan informasi pengiriminnya bisa dilihat dmn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "184da195-3f66-45a4-96fa-400be48ae5c4",
+    "data": [
+      {
+        "text": "kapan kartu hallo saya dikirimkn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f1b02383-205f-43d0-92a1-eaa839294ca5",
+    "data": [
+      {
+        "text": "Status transaksi sudah berhasil, namun hingga kini barang belum diterima, adakah cara mengecek tracking pengiriman?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8f994bca-ec67-42b2-8831-9427c64a3adc",
+    "data": [
+      {
+        "text": "paket untuk kartu hallonya belum saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1489cacc-4252-44c2-82b8-a463d435f86a",
+    "data": [
+      {
+        "text": "Kapan produk halo pasca saya terima?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f807fd90-2618-47fc-b043-807da4ca7a65",
+    "data": [
+      {
+        "text": "Apakah paketnya sudah di kirim? karena kemarin tggal 07-05-2018 saya terima telpon dari pihak telkomsel utk konfirmasi dan sudah di setujui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "11a48e17-8ca0-474c-bd8c-2db6aa1eda5c",
+    "data": [
+      {
+        "text": "Aplikasi saya sudah disetujui, tapi produk belum saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "72237645-a416-406b-ae53-6f07a93eb4b6",
+    "data": [
+      {
+        "text": "Saya belum menerima kartu hallo nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "96192043-41d5-4911-a623-d1254fc2bb4a",
+    "data": [
+      {
+        "text": "transaksi sudah berhasil per tanggal ",
+        "userDefined": false
+      },
+      {
+        "text": "20 april 2018",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", namun sampai dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2 mei 2018",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum ada kepastian, kartu hallo pun belum saya terima.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6d41683c-41b9-4db8-a4ac-8f50dd2ae80b",
+    "data": [
+      {
+        "text": "produk belum diterima sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Pada tanggal ",
+        "userDefined": false
+      },
+      {
+        "text": "7 Mei 2018",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya menerima telepon dari vendor (telkomsel) bahwa kartu akan di kirim pada hari tersebut, tetapi sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari belum diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "id": "f269e2a8-89ca-45d8-9693-f261d61f1572",
+  "parentId": "61cd314d-0318-4f88-b60b-9e1cf858e373",
+  "rootParentId": "d9d2ac31-d864-4f6e-836c-94fff4d54ef6",
+  "name": "Logistic_Status_Pengiriman_Tidak_Sesuai_Invoice_List_Buyer",
+  "auto": true,
+  "contexts": [
+    "Logistic_Status_Pengiriman_Tidak_Sesuai_Invoice_List-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckInvoiceStatusID",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Status_Pengiriman_Tidak_Sesuai_Invoice_List_Buyer-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4a719fb6-1545-475b-a8fc-880e7494df89",
+          "required": false,
+          "dataType": "@user_role",
+          "name": "user_role",
+          "value": "$user_role",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530866187,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "user_is_buyer"
+    }
+  ]
+}

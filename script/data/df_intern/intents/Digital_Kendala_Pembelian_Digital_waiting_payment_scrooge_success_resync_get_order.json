@@ -1,0 +1,43 @@
+{
+  "id": "d5878ff1-1dee-4044-94d3-241f7a66f3c0",
+  "parentId": "9d4fa84d-c9b4-406e-9cb7-abaa48907e85",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_waiting_payment_scrooge_success_resync_get_order",
+  "auto": false,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_waiting_payment_scrooge_success-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetRealTimeOrderStatusDigital",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_waiting_payment_scrooge_success_resync_get_order-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534146327,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "resync_payment"
+    }
+  ]
+}

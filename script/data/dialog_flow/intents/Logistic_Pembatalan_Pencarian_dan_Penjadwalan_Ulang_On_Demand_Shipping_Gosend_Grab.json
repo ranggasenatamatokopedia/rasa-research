@@ -1,0 +1,55 @@
+{
+  "id": "ef98bf42-fe7e-4352-ba9c-3653b2c4aef2",
+  "parentId": "e00e5238-f4e6-4ef9-b58b-bc31e821ec5d",
+  "rootParentId": "25f8caf5-22b1-4b7d-8704-24a6da37b244",
+  "name": "Logistic_Pembatalan_Pencarian_dan_Penjadwalan_Ulang_On_Demand_Shipping_Gosend_Grab",
+  "auto": true,
+  "contexts": [
+    "Logistic_Pembatalan_Pencarian_dan_Penjadwalan_Ulang_On_Demand_Shipping-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckCancelRetryEligibility",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Pembatalan_Pencarian_dan_Penjadwalan_Ulang_On_Demand_Shipping_Gosend_Grab-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535530541,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "courier_go-send"
+    },
+    {
+      "name": "courier_gosend"
+    },
+    {
+      "name": "courier_gojek"
+    },
+    {
+      "name": "courier_go-jek"
+    },
+    {
+      "name": "courier_grab"
+    }
+  ]
+}

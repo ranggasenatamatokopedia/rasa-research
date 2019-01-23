@@ -1,0 +1,53 @@
+{
+  "id": "00e4f4f4-8121-44f3-a68f-83736c401c01",
+  "parentId": "63a8626c-9939-44ba-ba4e-1c41edfdbb72",
+  "rootParentId": "90b4ed65-34d8-4fd4-a8f8-c87e563d6528",
+  "name": "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_reso_refund_full",
+  "auto": false,
+  "contexts": [
+    "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_membership_grtsongkir-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_reso_refund_full-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kak, setelah Toped cek, ini transaksinya pernah masuk Pusat Resolusi dan ada pengembalian dana keseluruhannya. Jadi pesanan nya cancel."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sesuai dengan Syarat dan Ketentuan, kalau masuk Pusat Resolusi dan ada pengembalian dana keseluruhan, maka kupon ongkir dari membership tetap terhitung sudah dipakai, jadi tidak bisa dipakai kembali."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Nah, untuk pengembalian dana ke kamu, tidak termasuk ongkos kirim yang didapat dari kupon membership ini ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523500627,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "reso_refund_full"
+    }
+  ]
+}

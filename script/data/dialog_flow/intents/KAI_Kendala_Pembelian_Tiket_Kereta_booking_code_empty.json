@@ -1,0 +1,43 @@
+{
+  "id": "cf29c98c-0cdd-40d8-9142-c2129c1e89f0",
+  "parentId": "e15cbebb-51cc-4fc7-9cef-beaaaa5dfdcb",
+  "rootParentId": "b3e075f6-aae4-44df-ad4e-bea75b498908",
+  "name": "KAI_Kendala_Pembelian_Tiket_Kereta_booking_code_empty",
+  "auto": false,
+  "contexts": [
+    "KAI_Kendala_Pembelian_Tiket_Kereta_finished-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "KAI_Kendala_Pembelian_Tiket_Kereta_booking_code_empty-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Di menu \"Daftar Transaksi Tiket KAI\" kamu juga dapat cek kode booking secara lengkap. Semoga informasi Toped membantu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539334525,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "voucher_code_empty_string"
+    }
+  ]
+}

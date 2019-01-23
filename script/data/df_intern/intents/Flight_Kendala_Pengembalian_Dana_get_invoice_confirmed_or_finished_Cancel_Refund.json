@@ -1,0 +1,48 @@
+{
+  "id": "52447b2f-c773-4821-a207-1aa12bf36bb4",
+  "parentId": "056105b0-efd9-44d6-9e8e-a05e7cb9e123",
+  "rootParentId": "c0b649b7-f279-4ced-b948-85bc9276afd2",
+  "name": "Flight_Kendala_Pengembalian_Dana_get_invoice_confirmed_or_finished_Cancel_Refund",
+  "auto": true,
+  "contexts": [
+    "Flight_Kendala_Pengembalian_Dana_get_invoice_confirmed_or_finished-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Flight_Kendala_Pengembalian_Dana_get_invoice_confirmed_or_finished_Cancel_Refund-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pembatalan tiket kamu sudah berhasil dan dana sudah dikembalikan senilai #flight_cancel_status_refunded.payload"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Silakan cek Saldo Tokopedia kamu ya. Semoga informasi Toped membantu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537763636,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "flight_cancel_status_refunded"
+    }
+  ]
+}

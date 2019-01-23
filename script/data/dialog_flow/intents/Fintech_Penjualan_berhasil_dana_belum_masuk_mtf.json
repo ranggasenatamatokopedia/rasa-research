@@ -1,0 +1,39 @@
+{
+  "id": "b5c28b56-548a-4393-9854-8bb97ac3875b",
+  "parentId": "8d5186a7-0c3f-4aa7-a870-f19a17cc5ac2",
+  "rootParentId": "8d5186a7-0c3f-4aa7-a870-f19a17cc5ac2",
+  "name": "Fintech_Penjualan_berhasil_dana_belum_masuk_mtf",
+  "auto": true,
+  "contexts": [
+    "Fintech_Penjualan_berhasil_dana_belum_masuk-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetLast6IDMFsell",
+      "affectedContexts": [
+        {
+          "name": "Fintech_Penjualan_berhasil_dana_belum_masuk_mtf-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh informasikan nomor ID penjualannya?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535957335,
+  "fallbackIntent": false,
+  "events": []
+}

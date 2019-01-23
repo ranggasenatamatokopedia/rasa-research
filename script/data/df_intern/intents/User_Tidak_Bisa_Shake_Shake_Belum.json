@@ -1,0 +1,39 @@
+{
+  "id": "4df151cd-a709-4942-8edb-e489924c97b5",
+  "parentId": "7f6ccf6e-a535-4277-9fa0-f86c1e9521bd",
+  "rootParentId": "7f6ccf6e-a535-4277-9fa0-f86c1e9521bd",
+  "name": "User_Tidak_Bisa_Shake_Shake_Belum",
+  "auto": true,
+  "contexts": [
+    "User_Tidak_Bisa_Shake_Shake-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "User_Tidak_Bisa_Shake_Shake_Belum-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk aktivasinya, kamu bisa ikuti langkah berikut ini:\n1. Klik menu \"Akun\" di aplikasi Tokopediamu\n2. Tekan tombol Pengaturan\n3. Aktifkan fitur Shake Shake dengan menggeser toggle nya"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539672752,
+  "fallbackIntent": false,
+  "events": []
+}

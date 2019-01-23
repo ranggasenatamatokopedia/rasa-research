@@ -1,0 +1,53 @@
+{
+  "id": "9aae7b26-6ae1-4319-acc4-868eb73219c1",
+  "parentId": "de462ed0-7d36-4e8b-9fc9-4867bf96201c",
+  "rootParentId": "67024543-88fb-488f-907b-85ef94921089",
+  "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_invoice_finished_refund_partial",
+  "auto": false,
+  "contexts": [
+    "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_invoice_MP_OS-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_invoice_finished_refund_partial-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai, Toped cek transaksi tersebut pernah masuk ke Pusat Resolusi dengan solusi akhirnya pengembalian dana sebagian, jadi benefit yang akan kamu terima juga akan disesuaikan ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "-Pada promo Gratis Ongkir, apabila ada refund sebagian, dana yang dikembalikan tidak termasuk ongkos kirim ya.\r\nNamun jika terdapat pengembalian barang atau retur, kode promo tidak berlaku, sehingga subsidi ongkir dibatalkan.\r\n\r\n- Pada promo Cashback, benefit cashback yang diberikan hanya sesuai dengan nominal yang dinyatakan sukses dari Pusat Pesolusi, dan perhitungannya secara pro-rate ya.\r\n\r\n- Pada promo Diskon, benefit diskon yang akan diberikan berdasarkan transaksi yang dinyatakan sukses oleh Pusat Resolusi. \r\n"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jadi cashback yang kamu terima saat ini sudah disesuaikan ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526465679,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "in_resol_finished_partial_refund"
+    }
+  ]
+}

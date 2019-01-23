@@ -1,0 +1,57 @@
+[
+  {
+    "id": "06acf9ed-d9ff-4f98-80d9-421996bad20b",
+    "data": [
+      {
+        "text": "Search",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3feff0e8-f8ac-4192-8c13-04578e712127",
+    "data": [
+      {
+        "text": "searching_page",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2
+  },
+  {
+    "id": "504d6497-64fc-4e96-ae30-723443ecaa37",
+    "data": [
+      {
+        "text": "Pencarian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0aef3e39-43be-4f01-8b05-abbf4263eebf",
+    "data": [
+      {
+        "text": "Halaman Pencarian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "136af374-e21a-4234-bbc7-14fc6f9e5b2f",
+    "data": [
+      {
+        "text": "Searching",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

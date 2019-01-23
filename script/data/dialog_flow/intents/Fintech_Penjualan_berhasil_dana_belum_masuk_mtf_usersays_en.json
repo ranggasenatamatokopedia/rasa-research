@@ -1,0 +1,35 @@
+[
+  {
+    "id": "93cf8839-16c3-46b7-b68b-064b05a9441e",
+    "data": [
+      {
+        "text": "reksa dana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3443275b-6853-4d17-b47a-93e078179e6f",
+    "data": [
+      {
+        "text": "Mutual fund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "746f4311-8006-4391-a57f-1d899fe46efb",
+    "data": [
+      {
+        "text": "reksadana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

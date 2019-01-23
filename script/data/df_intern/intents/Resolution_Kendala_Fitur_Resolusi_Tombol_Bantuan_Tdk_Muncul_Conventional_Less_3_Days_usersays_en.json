@@ -1,0 +1,18 @@
+[
+  {
+    "id": "6fbe2a26-1d68-406c-bdc0-dc0ba4f2f8ac",
+    "data": [
+      {
+        "text": "conven_less_than_",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

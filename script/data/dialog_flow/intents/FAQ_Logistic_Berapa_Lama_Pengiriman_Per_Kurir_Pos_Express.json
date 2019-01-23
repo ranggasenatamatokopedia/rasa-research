@@ -1,0 +1,42 @@
+{
+  "id": "8d56339e-dde4-4c73-ad53-0912582d425d",
+  "parentId": "48042273-2cbb-4744-9953-5ebf7b459b3b",
+  "rootParentId": "62328066-6ba6-453c-b337-f9f221db5f6f",
+  "name": "FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir_Pos_Express",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir_Pos-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d64d99de-e961-4ce9-9846-048c065eda55",
+          "required": false,
+          "dataType": "@layanan_kurir_reguler",
+          "name": "layanan_kurir_reguler",
+          "value": "$layanan_kurir_reguler",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Estimasi waktu pengiriman Pos Indonesia dengan layanan Express adalah 1-2 hari kerja ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528173966,
+  "fallbackIntent": false,
+  "events": []
+}

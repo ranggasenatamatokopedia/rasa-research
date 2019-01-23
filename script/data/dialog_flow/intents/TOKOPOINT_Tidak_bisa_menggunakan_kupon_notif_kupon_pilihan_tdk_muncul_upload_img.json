@@ -1,0 +1,43 @@
+{
+  "id": "9773a1a5-0ffc-41b4-997d-c0e88700958f",
+  "parentId": "158d0bd3-4bd4-4195-b3a9-1b94b230fc85",
+  "rootParentId": "ac27f987-10da-4579-826b-fdb70eef3ed6",
+  "name": "TOKOPOINT_Tidak_bisa_menggunakan_kupon_notif_kupon_pilihan_tdk_muncul_upload_img",
+  "auto": false,
+  "contexts": [
+    "TOKOPOINT_Tidak_bisa_menggunakan_kupon_notif_kupon_pilihan_tdk_muncul-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Tidak_bisa_menggunakan_kupon_notif_kupon_pilihan_tdk_muncul_upload_img-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon lampirkan juga screenshot atau URL Link dari produk yang ingin kamu beli ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523499555,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

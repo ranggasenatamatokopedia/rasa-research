@@ -1,0 +1,48 @@
+{
+  "id": "a42c78b7-55e0-4ba0-b564-f138fe19a66e",
+  "parentId": "84c310ff-6501-4a83-b20c-83c20dddc780",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_waiting_retry_option_failed_less_than_90_minutes",
+  "auto": false,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_waiting_retry_option_request_refund_failed-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_waiting_retry_option_failed_less_than_90_minutes-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Maaf, saat ini transaksi kamu belum dapat dibatalkan karena masih dalam batas waktu proses pembelian."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Cek berkala pada Daftar Transaksi Digital kamu."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535945911,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "less_than_90_minutes"
+    }
+  ]
+}

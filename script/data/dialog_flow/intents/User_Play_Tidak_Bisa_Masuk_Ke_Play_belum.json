@@ -1,0 +1,44 @@
+{
+  "id": "976c3f8e-ccc8-4118-b400-3c91f559e506",
+  "parentId": "e24c0d6b-ef5c-4d53-ac56-e76f47176faf",
+  "rootParentId": "e24c0d6b-ef5c-4d53-ac56-e76f47176faf",
+  "name": "User_Play_Tidak_Bisa_Masuk_Ke_Play_belum",
+  "auto": true,
+  "contexts": [
+    "User_Play_Tidak_Bisa_Masuk_Ke_Play-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "User_Play_Tidak_Bisa_Masuk_Ke_Play_belum-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk aktivasinya, kamu bisa ikuti langkah berikut ini:\n1. Klik menu \"Akun\" di aplikasi Tokopediamu\n2. Tekan tombol Pengaturan\n3. Aktifkan fitur Shake Shake dengan menggeser toogle nya"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau fitur Shake Shake nya sudah aktif, pastikan koneksi internet kamu stabil dan aplikasi Tokopedia mu sudah di update ke versi terbaru."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539588048,
+  "fallbackIntent": false,
+  "events": []
+}

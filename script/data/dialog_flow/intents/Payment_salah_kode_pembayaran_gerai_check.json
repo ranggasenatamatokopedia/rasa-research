@@ -1,0 +1,43 @@
+{
+  "id": "59cd556a-b8e3-47c3-9e79-6738cff2087f",
+  "parentId": "8d6cc4ef-96f8-4de8-9cc0-b39dfd7bb0af",
+  "rootParentId": "8d6cc4ef-96f8-4de8-9cc0-b39dfd7bb0af",
+  "name": "Payment_salah_kode_pembayaran_gerai_check",
+  "auto": true,
+  "contexts": [
+    "Payment_salah_kode_pembayaran-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetPaymentMethod",
+      "affectedContexts": [
+        {
+          "name": "Payment_salah_kode_pembayaran_gerai_check-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek sebentar ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532485952,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "select_invoice"
+    }
+  ]
+}

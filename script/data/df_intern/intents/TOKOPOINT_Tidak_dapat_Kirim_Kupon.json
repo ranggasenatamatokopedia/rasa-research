@@ -1,0 +1,38 @@
+{
+  "id": "21aa44dd-8f3e-443e-89aa-2604000c5bed",
+  "name": "TOKOPOINT_Tidak_dapat_Kirim_Kupon",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckMembershipStatus",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Tidak_dapat_Kirim_Kupon-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sebentar ya, Toped cek dulu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "tokopoint_tidak_dapat_kirim_kupon"
+    }
+  ]
+}

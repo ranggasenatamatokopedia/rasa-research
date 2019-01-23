@@ -1,0 +1,54 @@
+{
+  "id": "88a7469c-e8ae-4754-bcfe-3e168a0841c1",
+  "parentId": "e3247ab8-22af-49d9-bd10-ae9ff4c5da6b",
+  "rootParentId": "99a48618-b9ce-4053-a781-474e5404f8ad",
+  "name": "Refund_Penarikan_dana_belum_masuk_rekening_not_yet_breach",
+  "auto": false,
+  "contexts": [
+    "Refund_Penarikan_dana_belum_masuk_rekening_status_hold-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Refund_Penarikan_dana_belum_masuk_rekening_not_yet_breach-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon tunggu dulu ya. Untuk proses penarikan dana membutuhkan waktu 3x24 jam"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau sudah melewati 3x24 jam dan penarikannya belum berhasil, kamu bisa hubungi Toped lagi ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513040943,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "less_than_1_day"
+    },
+    {
+      "name": "more_than_equals_1_days"
+    },
+    {
+      "name": "more_than_equals_2_days"
+    }
+  ]
+}

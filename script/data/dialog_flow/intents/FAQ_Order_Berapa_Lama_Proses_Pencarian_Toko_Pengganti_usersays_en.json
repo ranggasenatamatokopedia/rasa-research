@@ -1,0 +1,282 @@
+[
+  {
+    "id": "119d7ff5-9a0a-4b04-a749-fac8e964b6a9",
+    "data": [
+      {
+        "text": "estimasi cari toko barunya berapa lama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7fb72051-0571-470f-a647-34d6e9d8366b",
+    "data": [
+      {
+        "text": "masih melakukan pencarian pengganti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "89547380-3c79-4642-bf7d-8e48bbd7729d",
+    "data": [
+      {
+        "text": "SLA untuk dapet toko yang baru berapa ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? saya males kalo harus tunggu lama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "401ce24a-3878-4cd3-9f78-7c9a2065e846",
+    "data": [
+      {
+        "text": "berapa lama harus menunggu dapat ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " baru?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a9f029d4-c7f5-4307-9676-a38228c28d58",
+    "data": [
+      {
+        "text": "kira-kira berapa lama proses cari pengganti pesenanku?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a5b9ba85-7078-4557-b5b5-2414ecda2197",
+    "data": [
+      {
+        "text": "Berapa lama proses pencarian toko / produk pengganti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6a02a750-6652-4511-8770-9046e3cb926b",
+    "data": [
+      {
+        "text": "berapa lama sampe dapet toko yang baru?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e9d30731-8232-48cc-9a3e-47d3b7b5801b",
+    "data": [
+      {
+        "text": "berapa lama saya harus menunggu pencarian toko baru?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4a65d153-7c0a-4dd3-b32d-c6cd79b2f968",
+    "data": [
+      {
+        "text": "masih aja dalam proses pencarian toko pengganti. harus tunggu berapa lama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4f02c589-0d1a-41b4-b223-8dc1a0d42b20",
+    "data": [
+      {
+        "text": "proses pencarian penjual barunya berapa hari ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4df69c4d-28e9-4f21-9ef2-2f00c0d9b0bc",
+    "data": [
+      {
+        "text": "harus tunggu berapa hari sampai dapet penjual baru ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "61c13bcf-552c-4b41-ba26-354c1233c632",
+    "data": [
+      {
+        "text": "harus nunggu berapa hari buat dapat toko pengganti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bacd3819-5796-49ab-8c10-a5455c2d6e79",
+    "data": [
+      {
+        "text": "Pesanan saya dicarikan penjual baru, berapa lama waktu pencariannya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1f9fa4aa-a343-42ed-a08d-4355e429010b",
+    "data": [
+      {
+        "text": "stag di pencarian toko pengganti, nunggu nya berapa lama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "26724185-10c0-4001-962a-524e91e65720",
+    "data": [
+      {
+        "text": "sampe kapan pesenan saya dalam pencarian pengganti terus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "63be17e8-7fed-4978-8001-a853f43c44a3",
+    "data": [
+      {
+        "text": "berapa lama proses mencari toko pengganti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c3ac10db-2d2a-4ba5-b67b-41e1274e846a",
+    "data": [
+      {
+        "text": "sampe kapan statusnya pencarian pengganti terus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "adbd2e4d-ebb4-483f-b2ab-77a9f477d4c3",
+    "data": [
+      {
+        "text": "berapa lama waktu untuk cari toko pengganti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7f621ba7-6d12-44cd-84f5-7f8df0a4c628",
+    "data": [
+      {
+        "text": "dicarikan produk penggantinya berapa lama?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c3722227-1cf7-4339-a267-f76fb2234018",
+    "data": [
+      {
+        "text": "pencarian toko pengganti nya lama gak ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "11d9c166-306b-45db-aaa1-ab23b8eeb4f9",
+    "data": [
+      {
+        "text": "berapa lama untuk dapat ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " baru",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "76bf0c1c-ca53-4afb-b511-1f50f717ce29",
+    "data": [
+      {
+        "text": "lama ga sih pencarian penggantinya? kalo lama saya mau batal aja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "79f5b161-97c3-4bcc-89b8-f05a0c540024",
+    "data": [
+      {
+        "text": "saya harus tunggu berapa lama sampai dapat pengganti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

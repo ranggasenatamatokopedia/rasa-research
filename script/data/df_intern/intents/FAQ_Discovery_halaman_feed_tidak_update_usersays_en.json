@@ -1,0 +1,985 @@
+[
+  {
+    "id": "5bc132c7-0558-4c4d-93ea-2474522a3427",
+    "data": [
+      {
+        "text": "kenapa ga berubahan feednya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "88c0931c-ddb7-4d31-8c55-acc00cb20479",
+    "data": [
+      {
+        "text": "feed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cbb493df-272b-45f4-94a1-91fb351ee1cd",
+    "data": [
+      {
+        "text": "page feed ga berubah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6d56de17-0c5f-4085-9a68-132922001455",
+    "data": [
+      {
+        "text": "feed error nih, masa ga ada update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3e32a048-1efe-4cad-acb0-660e84e79b9d",
+    "data": [
+      {
+        "text": "feed akun saya ga ada update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "519df8f6-19a7-4166-9ee7-d3867ea0c6f9",
+    "data": [
+      {
+        "text": "halaman feed ga ada perubahan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9281e055-65ed-4ee7-8ef6-bf4ca6294693",
+    "data": [
+      {
+        "text": "feed saya ga muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6d0c49f1-7f51-4cdf-96a3-b3918f950b5a",
+    "data": [
+      {
+        "text": "Admin toped, mau tanya nih. Kok stiap kali update feeds refreshnya ke tgl yg lama trus ya. Misal ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya buka tgl ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " trus aku refresh lg ",
+        "userDefined": false
+      },
+      {
+        "text": "dia jd tgl 9/9 gitu. Ini kenapa ya min utk refresh feednya",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4643df69-fc24-445f-9e66-c2378ac646d8",
+    "data": [
+      {
+        "text": "gimana cara update feed di akun saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1a8ee90a-d4a1-4314-8d8e-aeea2aa718f7",
+    "data": [
+      {
+        "text": "halaman feed ga update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5a564d83-4cda-4280-ad21-ce1072434615",
+    "data": [
+      {
+        "text": "page feed di akun saya ga update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "53af687b-1578-4220-94fd-b4e3e2b43bdc",
+    "data": [
+      {
+        "text": "halaman feed saya ga ada update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "acd8c6f0-b626-4dc7-b321-0941e48cfb51",
+    "data": [
+      {
+        "text": "toko yang saya favorit kan upload produk baru, tapi di feed saya ga berubah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "32cea411-f75c-4650-910d-17ea87c16376",
+    "data": [
+      {
+        "text": "ubahin feed saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "83def6a6-5369-4b8f-95f3-3c8b0d9428b2",
+    "data": [
+      {
+        "text": "Halaman feed tidak update,feed yang muncul produk ",
+        "userDefined": false
+      },
+      {
+        "text": "tahun lalu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " padahal toko tersebut sudah mengeluarkan produk terbarunya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "07b5beab-54f1-4955-8db0-5bdec8524b4f",
+    "data": [
+      {
+        "text": "Setiap saya merefresh content feed dari ",
+        "userDefined": false
+      },
+      {
+        "text": "toko2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " yg saya subscribe. list jualan bukan terupdate, namun jadi semakin lama malah menjadi semacam yang menampilkan ",
+        "userDefined": false
+      },
+      {
+        "text": "barang2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " yg lama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "841f5efa-d2e7-4024-94b2-57899bd41ad2",
+    "data": [
+      {
+        "text": "feed ga update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e1dc8c34-56d9-4a54-aecd-8e1322832cdf",
+    "data": [
+      {
+        "text": "Setiap saya coba update feeds, bukannya malah update, justru yg tampil adalah feeds hari sebelumnya. coba tutup dan buka aplikasi kembali juga sama saja malah tampil hari yg sebelumnya lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0fe2ab7a-389f-4a25-a4aa-db6a0ddd244b",
+    "data": [
+      {
+        "text": "Halaman feeds tidak terupdate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b9439ce6-193b-4ae0-b797-0f73cf70fac5",
+    "data": [
+      {
+        "text": "refresh berkali-kali feed ga ada perubahan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8e39e5e1-b573-4ac5-bd93-95b10902550a",
+    "data": [
+      {
+        "text": "Setiap kali refresh halaman feed, y muncul bukan yg paling baru, malah muncul yg ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "-",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari yg lalu.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b4001692-3339-4c49-a90a-9dd0f4f80104",
+    "data": [
+      {
+        "text": "Tidak terupdate malahan tanggal update mundur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e8035cb2-e2ce-43ee-a2bc-761408c71ebc",
+    "data": [
+      {
+        "text": "halaman feed tidak update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8ba7d2a0-d619-49a7-8dbb-97694a0de9b5",
+    "data": [
+      {
+        "text": "yang muncul di feed barang-barang lama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "52f2f523-11d0-4c57-9be1-afe0f3c0ae33",
+    "data": [
+      {
+        "text": "Feeds lama selalu muncul, yg terbaru malah jarang muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5cb70827-e1d6-47e0-9012-e83fa9ecea14",
+    "data": [
+      {
+        "text": "halaman feed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e44b4c59-baf8-4dc4-9185-6106ec6ecc44",
+    "data": [
+      {
+        "text": "feed ga ada perubahan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4c27fa8a-4ef3-407f-9e44-008e535b4fc9",
+    "data": [
+      {
+        "text": "halaman feed menampilkan posting-posting lama, posting produk baru dari toko favorit malah tidak ditampilkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9d94b5cd-f01a-4191-a2c5-f6a248d6a389",
+    "data": [
+      {
+        "text": "sudah direfresh, halaman feed ga ada perubahan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e8a9ed65-482b-4c5a-bed5-1d414fe3ef83",
+    "data": [
+      {
+        "text": "Halaman feeds tidak update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "71e4a240-f46b-4855-9ea7-1d2adb859f79",
+    "data": [
+      {
+        "text": "Saya ingin clear cache history pencarian saya. Karena sangat mempengaruhi feed. Tapi tidak ada pengaturan tersebut di web dan aplikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "53b27679-efa4-46bc-92ae-034f69f9f3e5",
+    "data": [
+      {
+        "text": "feed ga berubah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cc8975fc-4fc1-41bf-ac37-1e818e253a89",
+    "data": [
+      {
+        "text": "ga ada update dihalaman feed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "92c0bd6d-9253-4cf0-b8f0-c4fc0953331f",
+    "data": [
+      {
+        "text": "updatein dong feed diakun saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a218ef3e-128e-40f0-ba29-538d58af4dd4",
+    "data": [
+      {
+        "text": "tidak ada perubahan dihalaman feed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "25e96466-7e3f-4498-80ca-194299032a31",
+    "data": [
+      {
+        "text": "page feed ga update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "98f5e412-9999-48e7-a71c-576a55a82d85",
+    "data": [
+      {
+        "text": "sudah refresh ga ada yang berubah di feed saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1a47771b-b4db-4791-957e-247f8d0a62a1",
+    "data": [
+      {
+        "text": "sudah refresh yang muncul masih produk lama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "42464033-8445-453e-b8ab-05256526a7a3",
+    "data": [
+      {
+        "text": "Feeds tidak berdasarkan urutan menit, jam ataupun tanggal. Jika di refresh berubah2. Mohon bantuannya. Tidak bisa mengetahui update terbaru.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c82e4489-3301-4c14-8d2a-72a1b790a306",
+    "data": [
+      {
+        "text": "Ini kenapa ya kok tiap saya tarik dari atas ke bawah kan seharusnya refresh trus dapat update terbaru dari lapak favorit saya, lah kok ini malah nunjukin barang lapak favorit saya yg sudah lama di upload ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bf4ff147-c007-44d2-882c-98b28581b0a5",
+    "data": [
+      {
+        "text": "gimana cara update feed saya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bb4414ae-05f3-4d22-961f-40289be52e2a",
+    "data": [
+      {
+        "text": "produk lama terus yang muncul di feed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0408e105-ffc2-4bb8-a567-d77532aeec25",
+    "data": [
+      {
+        "text": "Halaman feed tidak terupdate setiap diupdate tanggal semakin mundur halaman terbaru pada tanggal ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "juli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " setelah d refresh mundur ke tanggal ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "juli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5ab288bb-0f09-483c-811f-b24b1a806315",
+    "data": [
+      {
+        "text": "Koq feeds yang di halaman depan, untuk toko yang saya follow selalu berubah feeds nya..  Asal d refresh pasti feeds yang lama yg terupdate, bukan feeds baru yang muncul.  Dan selalu berubah-ubah setelah selesau refresh.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "98e82729-d1c9-46d9-a636-8a09eb709787",
+    "data": [
+      {
+        "text": "feeds gag berubah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ab01640c-b7e7-4fb3-a43d-b8ad8ea16cbe",
+    "data": [
+      {
+        "text": "gimana sih biar feed update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c89f2a34-3b91-4c06-97e7-42e936d86696",
+    "data": [
+      {
+        "text": "feed aneh ga update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "403ea86a-ffb0-492b-a301-0f89f7eb7ea5",
+    "data": [
+      {
+        "text": "halaman ga update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9ccbcfd7-2440-4ce4-92f8-ef6b8011f74b",
+    "data": [
+      {
+        "text": "Halaman feeds sering kacau. Tanggal terus berubah-ubah dan tidak sesuai. Contoh : tanggal ",
+        "userDefined": false
+      },
+      {
+        "text": "13",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "July",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi feeds yg muncul tanggal ",
+        "userDefined": false
+      },
+      {
+        "text": "28",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Juni",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c50302ff-bc17-4be4-b105-e43833c78016",
+    "data": [
+      {
+        "text": "setiap kali buka halaman feed tidak terupdate, direfresh malah mundur tanggal upload produk dr toko favorit saya, sudah coba dibuka di pc dan aplikasi hp juga tetap sama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1ba2a319-af59-4ce4-8b3d-e865e27e0b51",
+    "data": [
+      {
+        "text": "barang lama yang muncul di feed akun saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1c6fdd3f-7763-47c5-8fcb-10104fbf41a3",
+    "data": [
+      {
+        "text": " page feed ga update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6be38a3f-33b9-488e-a1ff-6f86f6a7390c",
+    "data": [
+      {
+        "text": "ga ada perubahan di feed akun saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ce096fdd-e554-4874-924c-664d74aaf51e",
+    "data": [
+      {
+        "text": "ketika refresh halaman feed yang muncul malah postingan lama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9e11f6bd-2a5b-415b-9b98-21d95642f7fb",
+    "data": [
+      {
+        "text": "Pas refresh feed yg keluar tanggal yg sebelumnya atau mundur jadi tidak tambah update tapi malah mundur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8829e217-0a70-4352-bdbf-02b13864829d",
+    "data": [
+      {
+        "text": "Di aplikasi android tokopedia, feeds yg tampil adalah feeds yg lama, bahkan yg ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bln lalu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " yg ditampilkan bukan feeds yg terupdate, sy harap segera ada perbaikan..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "045ac5a2-6136-4ded-bade-38f86aceae2a",
+    "data": [
+      {
+        "text": "halaman feed ga bener nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "905e4b78-a866-475c-be4e-6ba09d551c04",
+    "data": [
+      {
+        "text": "Halaman feeds tidak terupdate, tolong bantuannya admin tokopedia terimakasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "073f2fd1-decf-4b3b-8482-db65b5b18c7c",
+    "data": [
+      {
+        "text": "Feeds tidak update masih tanggal lama tolong bantuannya admin tokopedia,terimakasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aa220da3-a06e-44e8-8ee8-5822f3170329",
+    "data": [
+      {
+        "text": "Setiap refresh tombil feeds berita baru malah hilang. Dan berita lama yg muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c9f207e0-0da5-4b00-895a-594058360ad0",
+    "data": [
+      {
+        "text": "Feed terakhir bulan ",
+        "userDefined": false
+      },
+      {
+        "text": "mei",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Sudah saya refresh, clear cookies \u0026amp; cache tetep sama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2ee9ae12-2918-4b62-80f5-6047c034690f",
+    "data": [
+      {
+        "text": "feed error nih, masa ga ada perubahan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1323bf78-adc9-46a2-8593-0f154b9f61fe",
+    "data": [
+      {
+        "text": "toko langganan saya upload produk, tapi ga muncul di feed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7b8b9cc2-9789-4205-a180-c7e25656e526",
+    "data": [
+      {
+        "text": "feed saya error ga ada produk baru",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "624a090c-c682-4b47-a9e0-94d2f4034c08",
+    "data": [
+      {
+        "text": "Ketika melakukan update feeds, yang terjadi adalah feeds paling baru hilang dan feeds sebelumnya menjadi yang terbaru",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "efe9c58d-6986-421f-bbbe-0792c2b19f7c",
+    "data": [
+      {
+        "text": "Feeds setiap kali di refresh malah menghilangkan ",
+        "userDefined": false
+      },
+      {
+        "text": "feed2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sebelumnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f31e4b13-88fb-436b-ae95-8fa3f642ec0b",
+    "data": [
+      {
+        "text": "Setiap di refresh feednya selalu mundur, bukan update barang baru",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "575f9dd4-adef-46f8-843a-c77e21fe5d8c",
+    "data": [
+      {
+        "text": "Apakah server bermasalah? feed ny saya mau update malah updatenya feed lama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4ade4ed9-510e-49ad-b287-d248312a72c2",
+    "data": [
+      {
+        "text": "Tolong dibantu halaman feeds tdk update tgl terbaru setelah diperbarui malah muncul feeds lama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8e7796f8-db09-41e4-82b1-89efa7a242d3",
+    "data": [
+      {
+        "text": "bantu perbaharui feed saya dong ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", masa ga update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "76a0dcd1-44ce-41c1-a4be-8c661f11ae66",
+    "data": [
+      {
+        "text": "Halaman tidak terupdate. ketika refresh browser, waktu semakin mundur harinya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1e34a6a2-2148-4372-823c-9b3ba4355fae",
+    "data": [
+      {
+        "text": "Semakin di update semakin muncul halaman lama bkn halaman baru",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

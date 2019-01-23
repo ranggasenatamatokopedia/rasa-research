@@ -1,0 +1,58 @@
+{
+  "id": "ea07507d-6b07-4b0b-86a6-8293238a97f8",
+  "parentId": "fa857508-4c8b-4036-bb43-7a10ed136ed9",
+  "rootParentId": "79399d3d-1735-4a38-83f0-804a798b2f2c",
+  "name": "Merchant_Produk_Dalam_Pengawasan_Input_Link_Under_Supervision_Ingin_Di_Hapus_Not_Success",
+  "auto": false,
+  "contexts": [
+    "Merchant_Produk_Dalam_Pengawasan_Input_Link_Under_Supervision_Ingin_Di_Hapus-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Produk_Dalam_Pengawasan_Input_Link_Under_Supervision_Ingin_Di_Hapus_Not_Success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "069d95cf-29ac-4669-952f-b79dfdde9c5e",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1038"
+        },
+        {
+          "id": "29a31e04-8503-426f-a3a7-57dc0cf7c5db",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Merchant_Produk_Dalam_Pengawasan"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk permintaan penghapusan produk dalam pengawasan, Toped bantu buatkan tiket bantuan ya. Mohon tunggu sebentar."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539168610,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "is_not_success"
+    }
+  ]
+}

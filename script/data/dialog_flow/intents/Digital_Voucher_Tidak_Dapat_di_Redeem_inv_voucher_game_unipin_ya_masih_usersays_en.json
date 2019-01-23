@@ -1,0 +1,58 @@
+[
+  {
+    "id": "96c51390-aaf2-48c6-bfd4-069fc8beda57",
+    "data": [
+      {
+        "text": "ya, masih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8c9e3122-39cf-4f67-8ec8-623bfa4b91d2",
+    "data": [
+      {
+        "text": "sama",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c8a274cd-245d-43d5-b2aa-09fc8d3b0dc6",
+    "data": [
+      {
+        "text": "masih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "57b6948c-3186-43bc-a7af-743d1e1bdf67",
+    "data": [
+      {
+        "text": "ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "88cc881e-2987-487f-a202-ad0866e11b97",
+    "data": [
+      {
+        "text": "tetep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

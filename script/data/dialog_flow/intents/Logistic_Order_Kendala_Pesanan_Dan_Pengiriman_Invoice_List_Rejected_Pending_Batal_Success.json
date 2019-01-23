@@ -1,0 +1,43 @@
+{
+  "id": "068b4815-93a6-485c-8c43-78580631f7d7",
+  "parentId": "26bdb7d3-5f50-476e-af71-2772b1957d41",
+  "rootParentId": "d19f77a0-9fc1-4329-9b8c-1f9cb2ed3084",
+  "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Rejected_Pending_Batal_Success",
+  "auto": true,
+  "contexts": [
+    "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Rejected_Pending_Batal-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Rejected_Pending_Batal_Success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Saat ini pesanan kamu sudah berhasil dibatalkan ya. Kamu bisa cek pengembalian dana di OVO Cash/OVO Points/Limit Kartu Kredit/Limit Kredivo, bergantung pada metode pembayaran yang kamu gunakan. Selain itu, maka akan dikembalikan ke Saldo Tokopedia. Semoga informasi Toped membantu kamu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541154840,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "api_success_cancel_replacement_order"
+    }
+  ]
+}

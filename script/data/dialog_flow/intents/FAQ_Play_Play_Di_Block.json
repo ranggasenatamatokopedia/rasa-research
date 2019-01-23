@@ -1,0 +1,36 @@
+{
+  "id": "c921bc32-4c8a-493e-9b01-c5e37d164be0",
+  "name": "FAQ_Play_Play_Di_Block",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk setiap pengguna yang dianggap melanggar ketentuan Play, akan di block dan tidak bisa berpartisipasi dalam waktu tertentu."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pastikan kamu selalu mengikuti syarat dan ketentuan Play ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_play_play_di_block"
+    }
+  ]
+}

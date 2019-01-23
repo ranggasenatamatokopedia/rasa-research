@@ -1,0 +1,32 @@
+[
+  {
+    "id": "7dd56569-0f9c-408c-b59d-ac1466948bca",
+    "data": [
+      {
+        "text": "seller",
+        "alias": "user_role",
+        "meta": "@user_role",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "947e1c17-cb01-43e5-ac47-677438f22ed3",
+    "data": [
+      {
+        "text": "user_is_",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "alias": "user_role",
+        "meta": "@user_role",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

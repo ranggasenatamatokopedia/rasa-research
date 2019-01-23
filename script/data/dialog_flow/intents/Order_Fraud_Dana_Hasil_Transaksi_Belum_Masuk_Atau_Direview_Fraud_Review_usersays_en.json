@@ -1,0 +1,46 @@
+[
+  {
+    "id": "43b3c77d-b005-4b0e-8686-239dcf9fb8c7",
+    "data": [
+      {
+        "text": "case_status_invalid_awb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cab61856-4b09-4644-be58-ff7ef6027462",
+    "data": [
+      {
+        "text": "case_status_hold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cb5313d3-3bbb-4e9d-8393-130cbc7680aa",
+    "data": [
+      {
+        "text": "case_status_active",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "91fbbf70-9b80-49cb-a74f-8a6c3846554e",
+    "data": [
+      {
+        "text": "case_status_awb_retry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

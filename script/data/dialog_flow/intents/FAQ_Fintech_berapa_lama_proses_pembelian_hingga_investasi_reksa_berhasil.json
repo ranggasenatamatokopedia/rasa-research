@@ -1,0 +1,32 @@
+{
+  "id": "944818db-6794-454a-b252-6a8ab7a5a752",
+  "name": "FAQ_Fintech_berapa_lama_proses_pembelian_hingga_investasi_reksa_berhasil",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika kamu melakukan pembelian Reksa Dana dan sudah melakukan pembayaran dibawah pukul 11:00, maka pembelian Reksa Dana akan berhasil maksimal 1x24 jam hari kerja."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Namun jika kamu melakukan pembelian Reksa Dana dan melakukan pembayaran di atas pukul 11:00 maka pembelian Reksa Dana akan berhasil maksimal 2x24 jam hari kerja."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

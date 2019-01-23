@@ -1,0 +1,39 @@
+{
+  "id": "e28347b8-b09b-4896-a8ba-891ade65ac7a",
+  "parentId": "c51687f5-c136-4dbc-979e-a84aea977f82",
+  "rootParentId": "c51687f5-c136-4dbc-979e-a84aea977f82",
+  "name": "Fraud_Akun_Bodong_Tokopedia_Tidak",
+  "auto": true,
+  "contexts": [
+    "Fraud_Akun_Bodong_Tokopedia-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Akun_Bodong_Tokopedia_Tidak-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Terima Kasih sudah menghubungi Toped, senang bisa membantu kamu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539233149,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,52 @@
+{
+  "id": "edb48e77-6039-408f-8044-05abd6c9c256",
+  "parentId": "75ff3ca8-b338-428a-a276-4970c86e879f",
+  "rootParentId": "b5d703e5-b4ee-4716-a78d-6a74da4e1538",
+  "name": "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Buyer_Delivered",
+  "auto": true,
+  "contexts": [
+    "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Buyer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Buyer_Delivered-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika pesanan belum diterima, kamu bisa mengajukan komplain dengan masuk ke halaman \"Konfirmasi Penerimaan\" dan klik tombol \"Komplain\". Dengan begitu, dana kamu aman bersama Toped :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536500202,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_pesanan_sampai"
+    },
+    {
+      "name": "invoice_delivered_due_limit"
+    },
+    {
+      "name": "invoice_delivery_due"
+    },
+    {
+      "name": "invoice_pesanan_telah_diterima"
+    }
+  ]
+}

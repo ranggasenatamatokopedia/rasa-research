@@ -1,0 +1,36 @@
+{
+  "id": "e5506a4b-842a-4c79-941a-9fde698812e8",
+  "name": "FAQ_OVO_apakah_OVO_bisa_digabungkan_dengan_metode_lain",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Tentu bisa, dong. Kamu dapat meggabungkan metode pembayaran OVO dengan metode bayar lainnya yang tersedia di Tokopedia."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu dapat memilih metode pembayaran lainnya jika OVO Cash kamu tidak mencukupi total pembayaran."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_ovo_apakah_ovo_bisa_digabungkan_dengan_metode_lain"
+    }
+  ]
+}

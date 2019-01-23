@@ -1,0 +1,15 @@
+[
+  {
+    "id": "68624fca-7cd0-4392-93db-1b7b31e763c2",
+    "data": [
+      {
+        "text": "reguler",
+        "alias": "layanan_kurir_reguler",
+        "meta": "@layanan_kurir_reguler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

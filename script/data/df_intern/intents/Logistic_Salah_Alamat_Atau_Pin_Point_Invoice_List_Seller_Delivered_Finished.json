@@ -1,0 +1,73 @@
+{
+  "id": "b89a6dff-def8-4392-bbaf-329ee893647f",
+  "parentId": "c7f54be0-7fab-4476-a3ce-c073f7f3a133",
+  "rootParentId": "b5d703e5-b4ee-4716-a78d-6a74da4e1538",
+  "name": "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Seller_Delivered_Finished",
+  "auto": true,
+  "contexts": [
+    "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Seller-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Seller_Delivered_Finished-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "09737e59-ee33-4d21-8282-345ca40a5668",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1340"
+        },
+        {
+          "id": "f0823b36-3dd4-45d6-8119-3df8efa6d720",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Logistic_Salah_Alamat_Atau_Pin_Point"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu sebentar ya, Toped akan bantu buatkan tiket Layanan Pengguna untuk dicek lebih lanjut dan informasi selanjutnya akan dikirim lewat email :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536503186,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_pesanan_sampai"
+    },
+    {
+      "name": "invoice_delivered_due_limit"
+    },
+    {
+      "name": "invoice_pesanan_telah_diterima"
+    },
+    {
+      "name": "invoice_delivery_due"
+    },
+    {
+      "name": "invoice_selesai"
+    },
+    {
+      "name": "invoice_finished_refund_voucher"
+    }
+  ]
+}

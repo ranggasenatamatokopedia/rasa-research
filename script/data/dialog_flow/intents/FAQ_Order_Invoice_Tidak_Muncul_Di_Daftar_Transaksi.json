@@ -1,0 +1,69 @@
+{
+  "id": "b9b204e8-ba73-4e60-8662-8ab3561b1657",
+  "name": "FAQ_Order_Invoice_Tidak_Muncul_Di_Daftar_Transaksi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Order_Invoice_Tidak_Muncul_Di_Daftar_Transaksi-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh infokan jenis transaksinya ke Toped? Kamu bisa klik pada salah satu pilihan nya ya :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "contoh : Tiket KAI"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 2,
+            "button_actions": [
+              {
+                "message": "Marketplace / Official Store"
+              },
+              {
+                "message": "Top-Up \u0026 Tagihan"
+              },
+              {
+                "message": "Tiket KAI"
+              },
+              {
+                "message": "Tiket Pesawat"
+              },
+              {
+                "message": "Reksadana"
+              },
+              {
+                "message": "Tokopedia Emas"
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_order_invoice_tidak_muncul_di_daftar_transaksi"
+    }
+  ]
+}

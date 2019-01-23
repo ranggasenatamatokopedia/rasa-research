@@ -1,0 +1,43 @@
+{
+  "id": "c614b8d5-cdc0-4011-bd43-77929cab828b",
+  "parentId": "73840e93-ca95-444a-a2dd-d1deaab1d5eb",
+  "rootParentId": "73840e93-ca95-444a-a2dd-d1deaab1d5eb",
+  "name": "FAQ_Logistic_Berapa_Ongkos_Kirim_Kurir_Pickup_Gojek",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Berapa_Ongkos_Kirim_Kurir_Pickup-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Logistic_Berapa_Ongkos_Kirim_Kurir_Pickup_Gojek-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa ketik jenis layanan Gojek yang ingin kamu tanyakan ya, apakah Same Day atau Instant Courier?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528787195,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "gojek"
+    }
+  ]
+}

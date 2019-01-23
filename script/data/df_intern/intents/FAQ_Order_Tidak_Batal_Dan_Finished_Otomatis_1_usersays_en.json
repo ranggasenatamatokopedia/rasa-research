@@ -1,0 +1,25 @@
+[
+  {
+    "id": "a58301c5-909d-4847-9271-ae1e047b815d",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "404a6b24-9a47-4e7f-b3c2-c1f9931c49e6",
+    "data": [
+      {
+        "text": "Order tidak batal otomatis atau berstatus extend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

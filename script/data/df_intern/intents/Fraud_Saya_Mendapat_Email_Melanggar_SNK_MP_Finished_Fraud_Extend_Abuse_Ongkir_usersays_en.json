@@ -1,0 +1,46 @@
+[
+  {
+    "id": "5205d8f3-5ee2-4aba-8105-eb024b126dee",
+    "data": [
+      {
+        "text": "extend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ece21d3a-3586-486b-8ae2-1798bccdbb59",
+    "data": [
+      {
+        "text": "case_status_extend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b8a85f6b-fe32-4d9e-a8ba-68bfd4abe033",
+    "data": [
+      {
+        "text": "case_status_unhold_take_amount",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "27a529cf-73c9-46a4-a14f-40445a9d40f9",
+    "data": [
+      {
+        "text": "abuse ongkir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

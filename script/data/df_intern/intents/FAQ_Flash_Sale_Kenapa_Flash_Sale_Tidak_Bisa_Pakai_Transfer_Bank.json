@@ -1,0 +1,42 @@
+{
+  "id": "a94b6a49-8de1-4d0b-b479-ffb407e18b46",
+  "name": "FAQ_Flash_Sale_Kenapa_Flash_Sale_Tidak_Bisa_Pakai_Transfer_Bank",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flash_Sale_Kenapa_Flash_Sale_Tidak_Bisa_Pakai_Transfer_Bank-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Maaf ya Toppers, antusiasme pada Flash Sale kali ini sangat tinggi, maka metode pembayaran transfer bank tidak bisa digunakan karena perlu waktu lebih lama untuk proses verifikasinya. Kamu bisa gunakan metode pembayaran instan ya :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_flash_sale_kenapa_flash_sale_tidak_bisa_pakai_transfer_bank"
+    }
+  ]
+}

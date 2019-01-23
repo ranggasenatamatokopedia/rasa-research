@@ -1,0 +1,27 @@
+{
+  "id": "0d207e8c-faab-4c2d-8a18-bf498122f294",
+  "name": "FAQ_Promo_KEBUT_perbedaan_KEBUT_dan_Flashsale",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Flash sale menjadi salah satu promo yang ada di program KEBUT ini. Dengan mengikuti promo flash sale di periode 5-7 Desember 2018, berarti kamu sudah mengikuti KEBUT di Tokopedia 🙂"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": "651b1be9-3d7e-466d-a9ab-babcd387916c",
+  "parentId": "7702a921-0bc2-479f-9cd3-aade8103768a",
+  "rootParentId": "7702a921-0bc2-479f-9cd3-aade8103768a",
+  "name": "Payment_not_verify_check_platform",
+  "auto": true,
+  "contexts": [
+    "Payment_not_verify-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckInvoiceIsMarketplace",
+      "affectedContexts": [
+        {
+          "name": "Payment_not_verify_check_platform-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d7e2e140-5c47-4ec8-9945-d80614d8343a",
+          "dataType": "@day",
+          "name": "day",
+          "value": "$day",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Baik, sebentar ya, Kak. Toped cek terlebih dahulu."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531191403,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "select_invoice"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "b96fc82a-b737-4c09-91d3-129216c3c78e",
+  "parentId": "1779db74-eaf4-4259-832c-c496df1d00e8",
+  "rootParentId": "9413a6be-1e59-431f-b086-229dfc670fe6",
+  "name": "TOKOPOINT_Transaksi_berhasil_tapi_tidak_mendapatkan_lucky_egg_not_exists_token_is_uncracked",
+  "auto": false,
+  "contexts": [
+    "TOKOPOINT_Transaksi_berhasil_tapi_tidak_mendapatkan_lucky_egg_not_exists-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa pecahkan Lucky Egg yang diterima di halaman Tokopoints untuk mendapatkan hadiah berupa Points, Loyalty, atau Kupon ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526360242,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "token_is_uncracked"
+    },
+    {
+      "name": "token_active"
+    }
+  ]
+}

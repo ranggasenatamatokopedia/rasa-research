@@ -1,0 +1,38 @@
+{
+  "id": "1017c3b1-055d-4fa7-83d9-1374d0afc6ac",
+  "name": "FAQ_Ed_Sheeran_Cara_Beli_Tiket",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Ed_Sheeran_Cara_Beli_Tiket-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa beli tiket konser Ed Sheeran dengan cara:\n1. Akses halaman tiket !TKPD_URL_TIKET_ED_SHEERAN!\n2. Ikuti langkah petunjuk untuk dapat sampai ke bagian pilih \"Tiket dan Kursi\"\n3. Selesaikan pengisian data kamu dalam waktu 15 menit\n4. Cek mengenai email yang tertera untuk konfirmasi tiket\n5. Pilih metode bayar lalu isi data yang sesuai (batas waktu transfer bank max. 2 jam dan kartu kredit max. 15 menit)\n6. Klik \"Bayar\""
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jangan lupa untuk dapat memahami syarat dan ketentuan pembelian tiket konser Ed Sheraan terlebih dulu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

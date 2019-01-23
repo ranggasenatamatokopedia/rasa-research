@@ -1,0 +1,63 @@
+{
+  "id": "e67d275e-59b9-4556-828d-ab698a2ef3df",
+  "parentId": "a85dec08-cb07-4059-b4d9-a72a5d19e461",
+  "rootParentId": "b375e190-8e6c-475d-ac8e-0e3e3ac5900d",
+  "name": "Logistic_Tidak_Bisa_Klik_Pick_Up_Invoice_List_On_Demand_Delivered",
+  "auto": true,
+  "contexts": [
+    "Logistic_Tidak_Bisa_Klik_Pick_Up_Invoice_List_On_Demand-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Tidak_Bisa_Klik_Pick_Up_Invoice_List_On_Demand_Delivered-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek status transaksi kamu sudah terkirim, apakah paket kamu sudah dipick up oleh pihak driver?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Sudah",
+              "Belum"
+            ],
+            "type": 1
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538564680,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_pesanan_sampai"
+    },
+    {
+      "name": "invoice_delivered_due_limit"
+    },
+    {
+      "name": "invoice_delivery_due"
+    },
+    {
+      "name": "invoice_pesanan_telah_diterima"
+    }
+  ]
+}

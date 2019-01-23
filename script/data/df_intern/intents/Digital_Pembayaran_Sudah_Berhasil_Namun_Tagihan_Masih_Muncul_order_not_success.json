@@ -1,0 +1,73 @@
+{
+  "id": "1deaead9-f78a-4b8f-b693-af781c87fefb",
+  "parentId": "8b51d836-9060-4193-93cc-6392c737598b",
+  "rootParentId": "440cef8c-a263-47ad-b658-e035da03a8e0",
+  "name": "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_order_not_success",
+  "auto": false,
+  "contexts": [
+    "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_select_inv-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_order_not_success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Saat ini, status pesanan kamu belum sukses. Kamu bisa cek di menu Daftar Transaksi Produk Digital. Semoga membantu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534217359,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_pending"
+    },
+    {
+      "name": "invoice_waiting_scheduler"
+    },
+    {
+      "name": "invoice_waiting_retry_option"
+    },
+    {
+      "name": "invoice_waiting_third_party"
+    },
+    {
+      "name": "invoice_queue"
+    },
+    {
+      "name": "invoice_retry"
+    },
+    {
+      "name": "invoice_waiting_payment"
+    },
+    {
+      "name": "invoice_waiting_transfer"
+    },
+    {
+      "name": "invoice_refund"
+    },
+    {
+      "name": "invoice_failed"
+    },
+    {
+      "name": "invoice_cancelled"
+    }
+  ]
+}

@@ -1,0 +1,788 @@
+[
+  {
+    "id": "d5d7b8ee-6b29-4e56-a7d4-b14b300d9440",
+    "data": [
+      {
+        "text": "jadi saya kan belanja sebagai dropsiper terus mau masukin nomor resinuya, tapi gabisa ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cb48d01f-e588-4e00-8ed3-1c0588f8d887",
+    "data": [
+      {
+        "text": "tidak bisa memasukan nomor resi ebagai ",
+        "userDefined": false
+      },
+      {
+        "text": "dropshipper",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fba8af31-3853-4744-8829-7a83dc84332b",
+    "data": [
+      {
+        "text": "tidak bisa memasukan nomor resi ebagai dropshiper",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "95806c38-76bc-44c1-b65d-15cd237e6fa0",
+    "data": [
+      {
+        "text": "gabsisa masukin resi sebagai dropsiper",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b8ba00d0-2ec2-4ea7-ad8b-bc29879ed3e3",
+    "data": [
+      {
+        "text": "saya mau input resi sebagai dropshiper tapi gabsia itu kenapa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c0b02108-a072-48a3-9582-dc6a39c1187c",
+    "data": [
+      {
+        "text": "saya mau masukin resi dropsiper kenapa gabisa sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "37b0087a-094b-4df1-a79b-d090958e5711",
+    "data": [
+      {
+        "text": "input resi ",
+        "userDefined": false
+      },
+      {
+        "text": "dropshipper",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ko gabisa sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3dc26bfb-2c33-4ae7-b6b6-5f99babeb47a",
+    "data": [
+      {
+        "text": "gabisa input resi ",
+        "userDefined": false
+      },
+      {
+        "text": "dropship",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7c6617e4-f781-44a3-990a-04b6c86d9709",
+    "data": [
+      {
+        "text": "ngga bisa input resi ",
+        "userDefined": false
+      },
+      {
+        "text": "dropshipper",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a4c8b510-01d1-4f61-ae95-944542ea4260",
+    "data": [
+      {
+        "text": "saya tidak bisa input resi sebagai dropsiper apakah ada masalah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fd7c3ffc-17de-4884-9eeb-034a46ec03c5",
+    "data": [
+      {
+        "text": "saya belanja pake sistem dropshiper kenapa tidak bisa input resi ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "579f5f95-de2a-4c89-bc00-61aac4b20e59",
+    "data": [
+      {
+        "text": "saya sebagai dropsipher mau input resi tapi tidak bisa kenapa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1347682b-8fb1-486d-8af8-0b76b4670525",
+    "data": [
+      {
+        "text": "saya kok nggabisa input resi dropsiper ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0b5aea0d-ba8d-4392-a400-17b94ae7129e",
+    "data": [
+      {
+        "text": "kenapa saya tidak bisa masukin resi dropshiper ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2355605f-f683-4a1d-8fac-843b624d36a0",
+    "data": [
+      {
+        "text": "saya ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pake sistem dropsipper tapi nggak bisa input resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "62fa0ef7-70dc-4b4a-a980-36da8dcc1157",
+    "data": [
+      {
+        "text": "resi dropsip saya gimana cara masukinnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cedc9b2c-e464-45f1-b328-c81c1840e23e",
+    "data": [
+      {
+        "text": "masukin resi ",
+        "userDefined": false
+      },
+      {
+        "text": "dropshipper",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "088d94b2-6094-4442-a549-0da1bfdc517b",
+    "data": [
+      {
+        "text": "saya nggak bisa input resi sebagai ",
+        "userDefined": false
+      },
+      {
+        "text": "dropship",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a642c42e-9689-4323-9e54-456c27b57144",
+    "data": [
+      {
+        "text": "tidak bisa input resi ",
+        "userDefined": false
+      },
+      {
+        "text": "dropshipper",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3328cc91-e96d-4825-8d01-840aab59753b",
+    "data": [
+      {
+        "text": "tidak bisa masukan resi sebagai ",
+        "userDefined": false
+      },
+      {
+        "text": "dropship",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "38289489-62e9-47e5-a62a-7b84122d6a63",
+    "data": [
+      {
+        "text": "bagaimana cara input resi sebagai ",
+        "userDefined": false
+      },
+      {
+        "text": "dropship",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b06d3c41-38f3-46ed-884d-61b1d630c1b6",
+    "data": [
+      {
+        "text": "mau input resi sebagai dropsip ",
+        "userDefined": false
+      },
+      {
+        "text": "ko",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gabisa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a14b41bd-5846-47e5-afe3-9aa177a8f240",
+    "data": [
+      {
+        "text": "saya mo input resi dropsiper tapi gabisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3f484744-4369-4ab8-bd3a-039782267535",
+    "data": [
+      {
+        "text": "tolong bantu saya masukan resi ke sistem karena saya dropshiper",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9f80f87c-22aa-4f4d-8504-b95d89122add",
+    "data": [
+      {
+        "text": "tolong bantu saya input resi dong sebagai dropshiper",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b62410b7-299e-4522-b304-f2bef0d4daa3",
+    "data": [
+      {
+        "text": "bagaimana jika dropshiper mau input resi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "20451239-bf32-4330-8b1b-4fe2c9e52c81",
+    "data": [
+      {
+        "text": "sebagai ",
+        "userDefined": false
+      },
+      {
+        "text": "dropship",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya kecewa ngga bisa input resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "79ad6b83-f76f-4fb1-ae3d-54aac63ecac5",
+    "data": [
+      {
+        "text": "sya dropsip trus mau masukin resi kenapa ngga bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "20eda5ff-2ea6-46ab-8630-81386bb21db3",
+    "data": [
+      {
+        "text": "ngga bisa masukin resi ",
+        "userDefined": false
+      },
+      {
+        "text": "dropship",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5f849baf-2dd1-4f47-b403-02b909de114f",
+    "data": [
+      {
+        "text": "resi ",
+        "userDefined": false
+      },
+      {
+        "text": "dropship",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya nggak bisa dimasukin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "94734015-d0a0-4068-9c40-af08d6bf715d",
+    "data": [
+      {
+        "text": "saya mau masukin resi ",
+        "userDefined": false
+      },
+      {
+        "text": "dua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kali tapi nggak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5b568393-7f32-404e-b561-439b6d1df461",
+    "data": [
+      {
+        "text": "masa nggak bisa input resi ",
+        "userDefined": false
+      },
+      {
+        "text": "dua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7b29d650-411b-4e3d-a1e0-befcfe7a2a56",
+    "data": [
+      {
+        "text": "resinya gak bisa di input padahal saya kan dropshiper",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "237e3743-8c93-4176-a51b-869671215086",
+    "data": [
+      {
+        "text": "tidak bisa input resi seagai dropsiper",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a096140e-4774-4f64-bb45-d8a45752cf92",
+    "data": [
+      {
+        "text": "nggak bisa masukin resi padahal saya sistemnya ",
+        "userDefined": false
+      },
+      {
+        "text": "dropship",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "518485b5-0c84-4601-8416-6234a15ea641",
+    "data": [
+      {
+        "text": "tidak bisa masukin resi ",
+        "userDefined": false
+      },
+      {
+        "text": "dua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kali ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " padahal saya pakai sistem ",
+        "userDefined": false
+      },
+      {
+        "text": "dropshipper",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a6d3d2bc-0bab-465f-95a1-905b283879a5",
+    "data": [
+      {
+        "text": "tidak bisa input resi dropsip",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b3f45a29-aeaf-4c20-825f-9f3dffa01210",
+    "data": [
+      {
+        "text": "kenapa saya nggak bisa input resi sebagai dropsip ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1d71d5ca-7a40-4774-86f5-d39c3df19eb2",
+    "data": [
+      {
+        "text": "ada sistem ",
+        "userDefined": false
+      },
+      {
+        "text": "dropship",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tpai nggak bisa input resi gimana sih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "41d0c3f1-0201-4eb8-9800-49011c5b6a20",
+    "data": [
+      {
+        "text": "dropshipper",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak bisa input resi ",
+        "userDefined": false
+      },
+      {
+        "text": "dua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ccf9382f-96ba-4c1a-aee8-3619fb4b6aca",
+    "data": [
+      {
+        "text": "saya mau input resi ",
+        "userDefined": false
+      },
+      {
+        "text": "dropship",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi nggak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "58af42c9-c227-475f-8b87-e0d01575ac0e",
+    "data": [
+      {
+        "text": "kenapa saya gabisa input resi dropsip",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f716bf18-8f18-472e-9906-b5208e985e64",
+    "data": [
+      {
+        "text": "mengapa saya tidak bisa input resi dropdhipper ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fd679eac-8dd4-4bac-ba2c-7148ec86823f",
+    "data": [
+      {
+        "text": "saya sebagai ",
+        "userDefined": false
+      },
+      {
+        "text": "dropshipper",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mau input resi ",
+        "userDefined": false
+      },
+      {
+        "text": "dua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kali kenapa tidak bisa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a38970c9-e617-424b-9a63-eeac45cc836e",
+    "data": [
+      {
+        "text": "mengapa saya tidak bisa input resi ",
+        "userDefined": false
+      },
+      {
+        "text": "dua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kali ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6bf1d4c7-eac2-44c5-9716-1908c614893d",
+    "data": [
+      {
+        "text": "saya mau input resi untuk pengiriman ke ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kok tidak bisa ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? saya sebagai ",
+        "userDefined": false
+      },
+      {
+        "text": "dropshipper",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ba55d769-4ac0-4039-828c-a7b3740f4d08",
+    "data": [
+      {
+        "text": "saya tidak bisa input resi ",
+        "userDefined": false
+      },
+      {
+        "text": "dua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kali padahal saya ",
+        "userDefined": false
+      },
+      {
+        "text": "dropshipper",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "34c15812-839c-4da5-bd2b-b82d3bde6ef3",
+    "data": [
+      {
+        "text": "kenapa saya tidak bisa input resi ",
+        "userDefined": false
+      },
+      {
+        "text": "dropshipper",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

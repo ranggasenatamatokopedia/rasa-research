@@ -1,0 +1,32 @@
+{
+  "id": "5c908093-660c-46a8-8a4b-c8cdc734a9c0",
+  "name": "FAQ_Promo_KEBUT_metode_bayar_untuk_KEBUT",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Metode bayar yang bisa digunakan tergantung dengan promo apa yang sedang berjalan. Jadi sebelum mengikuti promo KEBUT, kamu bisa cek syarat dan ketentuan dari promo yang ada !TKPD_URL_KEBUT!, ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Catat tanggalnya dan jangan sampai kelewatan! :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

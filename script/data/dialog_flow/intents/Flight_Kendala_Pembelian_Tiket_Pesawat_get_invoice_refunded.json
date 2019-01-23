@@ -1,0 +1,48 @@
+{
+  "id": "5c7b14ca-eeea-4fbf-97e8-8a84689af5f3",
+  "parentId": "ab8df0a2-b9ca-41e7-b2a1-d535fe009b5f",
+  "rootParentId": "7f7a8cb1-cbe8-48a9-9930-7686b772cf99",
+  "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_get_invoice_refunded",
+  "auto": false,
+  "contexts": [
+    "Flight_Kendala_Pembelian_Tiket_Pesawat_get_invoice-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_get_invoice_refunded-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek transaksi kamu sudah diajukan pembatalan sebelumnya dan saat ini dana kamu sudah dikembalikan ke Saldo Tokopedia kamu ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk kartu kredit atau cicilan, dibutuhkan 14 hari kerja sampai dana kamu berhasil kembali dalam limit Kartu Kredit ya. Semoga informasi Toped membantu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537433193,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_refunded"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "d5105af9-1817-4eea-9ccb-a82604de0b77",
+  "name": "FAQ_Tokopoints_Apa_Itu_Kupon_Partner",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Tokopoints_Apa_Itu_Kupon_Partner",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kupon Partner adalah Kupon yang didapat saat kamu menukarkan sejumlah Points tertentu dari Tokopoints kamu."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kupon Partner bisa kamu gunakan sesuai syarat dan ketentuan yang berlaku di website partner Tokopedia (online) atau di outlet tertentu."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

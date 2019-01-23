@@ -1,0 +1,47 @@
+{
+  "id": "c25a0c46-473b-4c0c-9c1d-0eb4813f0dee",
+  "name": "FAQ_Logistic_Bagaimana_Mengaktifkan_Online_Booking",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ConvertParametersToEventName",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Logistic_Bagaimana_Mengaktifkan_Online_Booking-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "fb108644-868e-44da-93b4-f17ba697fe40",
+          "required": true,
+          "dataType": "@kurir_reguler",
+          "name": "kurir_reguler",
+          "value": "$kurir_reguler",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Layanan online booking untuk JNE atau J\u0026T, Kak?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_logistic_bagaimana_mengaktifkan_online_booking"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "4f5a45fc-5066-49f1-a891-266bd279988a",
+  "parentId": "7f6ccf6e-a535-4277-9fa0-f86c1e9521bd",
+  "rootParentId": "7f6ccf6e-a535-4277-9fa0-f86c1e9521bd",
+  "name": "User_Tidak_Bisa_Shake_Shake_Sudah",
+  "auto": true,
+  "contexts": [
+    "User_Tidak_Bisa_Shake_Shake-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "User_Tidak_Bisa_Shake_Shake_Sudah-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "de02f948-29b7-4d05-830d-d506d08657ee",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "usertime",
+          "value": "$usertime",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Kamu coba Shake Shake nya di jam berapa? (contoh 10.00 atau 21.00)"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "771d3fca-f394-432a-90dc-17261f4af2c3",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "userprovider",
+          "value": "$userprovider",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Kamu menggunakan provider apa? (contoh Indosat)"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Tolong lampirkan screenshot yang berkendala saat ingin masuk ke Play ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544500138,
+  "fallbackIntent": false,
+  "events": []
+}

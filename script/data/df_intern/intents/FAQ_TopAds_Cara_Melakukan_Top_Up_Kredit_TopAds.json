@@ -1,0 +1,31 @@
+{
+  "id": "4ce76303-68a1-4c76-a391-11f4944f141b",
+  "name": "FAQ_TopAds_Cara_Melakukan_Top_Up_Kredit_TopAds",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa melakukan Top Up TopAds dengan cara di bawah ini :\n\n1. Pilih Menu \"TopAds\"\n2. Klik \"Tambah Kredit\" dan pilih jumlah yang kamu inginkan\n3. Pilih metode bayar yang kamu inginkan dan lakukan pembayaran"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_topads_cara_melakukan_top_up_kredit_topads"
+    }
+  ]
+}

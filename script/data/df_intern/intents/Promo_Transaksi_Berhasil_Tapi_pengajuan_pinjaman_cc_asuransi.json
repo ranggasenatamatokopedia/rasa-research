@@ -1,0 +1,48 @@
+{
+  "id": "e442040c-78d5-414a-9ee7-c8716a88db7b",
+  "parentId": "132cb91e-5a62-4eee-9342-4eddcc768695",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Transaksi_Berhasil_Tapi_pengajuan_pinjaman_cc_asuransi",
+  "auto": true,
+  "contexts": [
+    "Promo_Transaksi_Berhasil_Tapi_Tidak_Mendapat_Benefit_giftcard_tokopedia-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetEmailAddress",
+      "affectedContexts": [
+        {
+          "name": "Promo_Transaksi_Berhasil_Tapi_pengajuan_pinjaman_cc_asuransi-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon menunggu sebentar ya, Kak :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kak, boleh bantu infokan akun email mana yang digunakan untuk pengajuannya? :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523015494,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "pengajuan_pinjaman_kartu_kredit_asuransi"
+    }
+  ]
+}

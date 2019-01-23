@@ -1,0 +1,36 @@
+[
+  {
+    "id": "99b3b15b-8639-44d9-a2bc-0a7ffb208cd8",
+    "data": [
+      {
+        "text": "ecash ,mandiri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "18265d22-cfcb-4291-8b87-6812a516fadc",
+    "data": [
+      {
+        "text": "mandiri ecash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1427066b-8f19-4af5-985a-5fd6dc72280e",
+    "data": [
+      {
+        "text": "mandiri e-cash",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

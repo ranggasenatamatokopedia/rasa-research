@@ -1,0 +1,43 @@
+{
+  "id": "80c53ea4-4f9a-421c-a3e2-c2d01476439a",
+  "parentId": "986f7572-bac0-45c8-b5f5-7b2d73d5939a",
+  "rootParentId": "b3e075f6-aae4-44df-ad4e-bea75b498908",
+  "name": "KAI_Kendala_Pembelian_Tiket_Kereta_scrooge_success_less_than_1_hr_refund_on_progress",
+  "auto": false,
+  "contexts": [
+    "KAI_Kendala_Pembelian_Tiket_Kereta_scrooge_success_less_than_1_hr_refund_exist-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetPaymentMethod",
+      "affectedContexts": [
+        {
+          "name": "KAI_Kendala_Pembelian_Tiket_Kereta_scrooge_success_less_than_1_hr_refund_on_progress-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sayang sekali, transaksi kamu telah batal. Saat ini dana kamu sedang dalam proses pengembalian ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539340381,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "refund_status_on_progress"
+    }
+  ]
+}

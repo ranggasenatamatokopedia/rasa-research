@@ -1,0 +1,898 @@
+[
+  {
+    "id": "f19415d0-e10c-4056-9d72-425207c53213",
+    "data": [
+      {
+        "text": "mohon bantuannya agar membatalkan penarikan dana yang saya lakukan kamaren ",
+        "userDefined": false
+      },
+      {
+        "text": "malam",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya kena tipu ,dengan ditelpon oleh orang yang mengaku ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pihak tokopedia dan dia telah mengganti no rekening di tokopedia saya dengan rekening si penipu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8fb2951b-8f19-4fed-983d-56f1312c5b16",
+    "data": [
+      {
+        "text": "penarikan dana tidak pada rekening saya karena akun tokped saya dihack orang. saya tidak pernah memakai ",
+        "userDefined": false
+      },
+      {
+        "text": "bank BNI",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "01351cb1-aaff-4cca-bc46-444ff0aaa6ca",
+    "data": [
+      {
+        "text": "mau tanya di tagihan ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya kok ada sejumlah tagihan dari toped yang saya mau tanyakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c249a0e2-be12-4673-b5bc-1cf2b963f012",
+    "data": [
+      {
+        "text": "saya mau tanya di ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya ada ke pake di tgl ",
+        "userDefined": false
+      },
+      {
+        "text": "16",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "okt",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sejumlah nominal ",
+        "userDefined": false
+      },
+      {
+        "text": "871.702",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " drtd saya mengecek daftar pembelian sepertinya saya tidak menemukan transaksi tersebut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "db938542-5395-439c-85fb-c2559c02b0ae",
+    "data": [
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya terpakai untuk transaksi tokopedia yang tidak saya ketahui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "409a83ff-ab95-4211-873f-4c3e25f8bee1",
+    "data": [
+      {
+        "text": "perasaan saya ga belanja di tokopedia kenapa terdebet untuk bayar ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fe7cca1a-e099-4332-8d79-f655d8b7a23e",
+    "data": [
+      {
+        "text": "saya tidak merasa belanja di tokopedia tapi kok ada pembayaran sejumlah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9d0011f4-2a81-48e5-9d41-3e506dc67870",
+    "data": [
+      {
+        "text": "ada daftar pembayaran ke tokopedia, saya tidak belanja kok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e048c320-52da-4d4f-8634-52f2e70daa59",
+    "data": [
+      {
+        "text": "kok saya ada transaksi pembayaran ke tokopedia padahal saya tidak meras belanja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "99969fd9-5688-46d9-81a8-6be2a921ebb1",
+    "data": [
+      {
+        "text": "saya ada ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ke tokopedia padahal saya tidak merasa belanja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "275cf846-06bb-4197-a3c4-4e55278f31d3",
+    "data": [
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya dipakai untuk belanja di tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "42b300fd-a1a2-4581-bdab-b5156357991f",
+    "data": [
+      {
+        "text": "ada transaksi ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ke tokopedia, itu transaksi apa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9f9b8102-d43c-480f-89a7-fbb9c8b31825",
+    "data": [
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya dipakai orang untuk belanja di tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cfdbfc6e-ccb3-4622-875a-45c6d4c75155",
+    "data": [
+      {
+        "text": "cc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya dipakai orang untuk belanja di tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5fc45a47-f8a7-4456-ac90-5888169df7a5",
+    "data": [
+      {
+        "text": "ada transaksi ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya untuk belanja di tokopedia tapi saya tidak merasa belanja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9671985f-0737-488b-93e8-e449c6a3e60f",
+    "data": [
+      {
+        "text": "saya dapet kiriman paket dari tokopedia tapi bukan atas nama saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "efae8269-b09a-40be-9d32-3668058e64f7",
+    "data": [
+      {
+        "text": "kok bisa ya alamat saya dipake orang lain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d9cbdab6-fe63-4d9e-a414-f771d86cf540",
+    "data": [
+      {
+        "text": "kok data saya bisa dipakai orang lain ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "27d09047-ef81-47da-b188-e9ac48770129",
+    "data": [
+      {
+        "text": "ada orang yang pake data saya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tolong dibantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0432256c-3a65-4782-9dfa-e34ea4657e0b",
+    "data": [
+      {
+        "text": "data saya dipake orang lain untuk transaksi ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "787f87bd-1946-469e-b777-fceee03be975",
+    "data": [
+      {
+        "text": "saya mendapatkan paket yang tidak pernah saya pesan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "06009f60-f4d0-47d1-a400-570329829bfe",
+    "data": [
+      {
+        "text": "ini maksudnya apa? kenapa saya dapat paket kosong dari transaksi yang nggak pernah saya lakukan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "db912513-4771-4bb8-b3e0-7c0b8b0ac9ba",
+    "data": [
+      {
+        "text": "ada yang belanja pake alamat saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ad0133ff-1839-403c-9f99-12dd65ff2849",
+    "data": [
+      {
+        "text": "Alamat saya digunakan orang lain untuk melakukan pemesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "de6b64d1-a26d-4cb2-ab82-0e8469d928af",
+    "data": [
+      {
+        "text": "nomor telepon saya dipake orang lain untuk transaks ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c2c6860f-49a8-4f81-94ad-d14ada24be11",
+    "data": [
+      {
+        "text": "Tidak pesan barang, cuma dapat pesan kosong. dari mana mereka medapatkan data-data saya tersebut. Tokopedia tidak aman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fd53f5d7-d0db-4974-bf1a-1bb2d15f672a",
+    "data": [
+      {
+        "text": "saya selalu terima paket dari transaksi yang tidak pernah saya lakukan, sebenarnya ada apa dengan akun saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fd8969cf-c7f4-4617-ba92-0ccc8880f77a",
+    "data": [
+      {
+        "text": "sepertinya data saya dipake oleh orang lain untuk membeli barang ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "11597eb2-7e45-4754-8183-d20ea53f9a3a",
+    "data": [
+      {
+        "text": "saya terima paket kosong yang tidak saya pesan, tolong di cek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fbfa3bac-36b9-4a05-ac60-742bfb11e0ab",
+    "data": [
+      {
+        "text": "pengguna lain pakai data saya untuk transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "abddc5ed-d136-419e-b11b-1467af671895",
+    "data": [
+      {
+        "text": "kenapa data saya bisa sampai dipakai orang lain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4395e333-6377-4b4d-99b9-97259cb9c36c",
+    "data": [
+      {
+        "text": "ada yang pake alamat saya buat belanja, padahal saya gak pernah pesan apa apa dari tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d783a4a8-934f-43a7-8bb5-720e820062fa",
+    "data": [
+      {
+        "text": "Halo tokopedia kok data saya bisa digunakan orang lain untuk belanja ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "32ef93f2-02e2-45da-a564-7dfb14e60815",
+    "data": [
+      {
+        "text": "data saya dipakai orang lain gimana nih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "567f0920-6d24-4324-adfb-39bb3c0a9d66",
+    "data": [
+      {
+        "text": "Pagi ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya dapet kiriman dari pihak kurir isinya robekan kertas, setelah saya cek ini transaksi di Tokopedia. Saya khawatir jika data saya bocor dan akan disalahgunakan, tolong ditindak tegas.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "11002611-86d6-40dc-84eb-153ea161c68c",
+    "data": [
+      {
+        "text": "saya tidak melakukan pemesanan namun ada barang yang datang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "588259de-9d81-413a-b71c-09878473076a",
+    "data": [
+      {
+        "text": "data dan akun saya dipakai orang lain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ad1370fa-99ee-4dc3-aa40-8d35bc736fd8",
+    "data": [
+      {
+        "text": "Kenapa ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Tokopedia bisa menggunakan data alamat dan nomor hp saya, saya merasa terganggu dengan hal ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4d90cf89-a983-4747-ab09-3e14898c305a",
+    "data": [
+      {
+        "text": "saya tidak pesan barang tapi ada barang datang berupa paket kosong, sepertnya data saya digunakan orang lain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e0dfe3b9-5e8f-4ef7-8f29-a13cc6c7acc8",
+    "data": [
+      {
+        "text": "Kenapa mereka bisa menggunakan alamat saya sebagai alamat pembelian?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3b364a91-d307-4d6b-b5b1-b3045c3201a6",
+    "data": [
+      {
+        "text": "Saya resah karena hampir setiap hari terima paket yang tidak saya pesan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "383be2a1-8253-4ce6-a4ac-9cc464e09464",
+    "data": [
+      {
+        "text": "Sepertinya Akun saya digunakan oleh orang lain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "31267522-bbba-4d69-9013-254da8e0c988",
+    "data": [
+      {
+        "text": "data saya dipake orang ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", bagaimana bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0f6d8da0-6a21-45ff-9fe9-91d1615502e8",
+    "data": [
+      {
+        "text": "akun saya digunakan untuk berbelanja oleh orang lain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8b940dd2-94b0-41d6-a54c-0f5f565c4f9c",
+    "data": [
+      {
+        "text": "alamat dan nomor hp saya dipakai orang lain, tolong  dibantu cek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "91e5c953-49f6-4b1a-8e10-1a2768d51ef7",
+    "data": [
+      {
+        "text": "alamat saya digunakan orang lain untuk pengiriman ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "86cd16df-824a-41e8-9502-5b30e7802209",
+    "data": [
+      {
+        "text": "Saya tidak melakukan pemesanan, tapi kenapa saya mendapatkan kiriman dari salah ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " toko di Tokopedia dengan nama xxxx, kenapa mereka  bisa tau detil alamat saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4aa070bb-d49b-495f-9ebb-f7b5064ad917",
+    "data": [
+      {
+        "text": "jdbya gimn sm nasib uang sy yg di ovo....sy tlp ke ovo nya katany ada yg pernah upgrade akun sy , sedangkan sy tdk pernah upgrade akun ovo sy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "556da136-9de9-4a75-bdb1-1f0150b992ae",
+    "data": [
+      {
+        "text": "saya butuuh keterangan transaksi pada kartu cc BNI 5426-4000-0246-4037 tgl transakso 10/10/18 dan tgl pembukuan 11/10/18 tp. 278.537 (ket: VT-TOKOPEDIA)Transaksi pembelian apa ya ini?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a8afe796-07c1-4d16-8207-846dead10f27",
+    "data": [
+      {
+        "text": "akun saya kena hack ada yang ganti no rekeningnya min",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "14c0a960-6d7e-4fea-9d19-cb95058aa9bb",
+    "data": [
+      {
+        "text": "mau tanya di tagihan kartu kredit saya kok ada sejumlah tagihan dari toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "34d6ee93-5053-4317-825a-1b20619ee4e8",
+    "data": [
+      {
+        "text": "penarikan dana tidak pada rekening saya karena akun tokped saya dihack orang.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2d268f31-6f6f-45ee-933b-800c6d239cc3",
+    "data": [
+      {
+        "text": "order tgl 2 kita sama2 ok. setelah saya bayar di indomartpagi,  sore jam 2an ktnya ngaku dari pihak toko pedia srh masukkan kode? setalah itu aplikasi toped saya gk bisa di buka ?  sampai jam 9 mlm baru bisa, setelah di bobol kok ada nmer rekening ?tapi itu bukan nmer rekening saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "65d746a3-f1ae-461d-8a3f-2a9700f3d64e",
+    "data": [
+      {
+        "text": "Pagi, ini kali kesekian saya mendapati percobaab transaksi dengan akun saya, untuk kejadian yg lalu sudah saya laporkan ke BCA \u0026amp; langkah yang diambil adalah memblokir \u0026amp; mengganti kartuâ€ saya. Adapun saya hanya pernah 1x melakukan transaksi onli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2fad69fc-c7b6-4fd6-8a32-f362951590ba",
+    "data": [
+      {
+        "text": "saya tidak melakukan transaksi beli pulsa kenapa saldo akun saya terpotong ...dan tidak ada pulsa masuk di hp saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "54dedf22-9d12-472e-bca0-2cc90a5d384c",
+    "data": [
+      {
+        "text": "Malam, saya baru nerima tagihan kartu kredit dan menemukan transaksi cicilan tokopedia yang tidak saya lakukan boleh tolong dibantu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1e592fc9-25be-4a1a-8fd0-80326552a9de",
+    "data": [
+      {
+        "text": "tidak ada transaksi saya pada tgl 28/11/18 kenapa toped melakukan tagihan ke kartu kredit saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f58dd975-5018-4f7e-b80f-e4dbd15418a0",
+    "data": [
+      {
+        "text": "tiba2 ada yang Tokopedia kasih no otp saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a6cee3cf-512d-4e41-a0d6-1d93e342464d",
+    "data": [
+      {
+        "text": "saya ditelepon oleh orang yang mengaku dr tokopedia dan dia jg mengirimkan kode otp melalui sms yang tertulis resi dr tokopedia. ada yg berusaha utk msk ke akun tokped saya dan berusaha mengganti password tokped saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "21fa0f49-1482-471d-85e3-ad38800c8256",
+    "data": [
+      {
+        "text": "baru saja saya tertipu, saya di telp mengaku dr toko yg saya beli di toped, dia meminta kode yg di kirim by sms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "451d5877-f122-4282-8f2e-41e7f7e4b3f4",
+    "data": [
+      {
+        "text": "akun saya digunakan orang lain untuk transakasi ini mohon pendingkan dulu, saya perlu ke cs nya ASAP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dbcf78fb-36d0-4b8d-ad82-6d21b9692057",
+    "data": [
+      {
+        "text": "Saya buka akun jual, ketika saya konfirmasi email, tertulis bukan nama saya. Keliatannya orang ini menggunakan email saya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "61ac43f3-ecc2-465b-b416-b2d6b64af8c3",
+    "data": [
+      {
+        "text": "rincian pembayaran,transaksi utk apa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "12b26d6e-d905-414d-9800-6a9589dde03c",
+    "data": [
+      {
+        "text": "barusan sy mendpt email untuk segera melakukan pembayaran tiket lewat tokopedia tiket atas nm Belinda , selama ini saya tidak pernah membeli tiket kereta lwt tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d465714a-e78e-443c-b5ba-9d1345a012c7",
+    "data": [
+      {
+        "text": "Saya ingin membatalkan pesanan saya di karenakan toko ini ingin menipu dengan cara menelfon dan meminta kode otp yg di kirim dari tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

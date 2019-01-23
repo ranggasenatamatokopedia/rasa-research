@@ -1,0 +1,59 @@
+{
+  "id": "2f9a9cf3-8043-46d1-bf31-887ec6060df2",
+  "parentId": "c230094b-7dd5-43f4-984b-d415098c4e53",
+  "rootParentId": "c230094b-7dd5-43f4-984b-d415098c4e53",
+  "name": "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_akun_melebihi_batas_pembelian",
+  "auto": true,
+  "contexts": [
+    "Digital_Tidak_Dapat_Melakukan_Transaksi-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_akun_melebihi_batas_pembelian-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "50fec905-064a-4d14-b7b7-f81b54d48584",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1656"
+        },
+        {
+          "id": "d98c7b21-c0bb-4160-8bb9-197f6b6b036a",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Digital_Tidak_Dapat_Melakukan_Transaksi"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu sebentar ya, Toped bantu buatkan tiket atas kendala kamu :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Info selanjutnya akan dikirim lewat layanan pengguna ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535957628,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "e99babf9-1ac2-486c-ba7f-0de5289c7f7c",
+  "parentId": "685c0311-1f6a-4017-9a49-677ba620e1cb",
+  "rootParentId": "685c0311-1f6a-4017-9a49-677ba620e1cb",
+  "name": "FAQ_Digital_Cara_Redeem_ITunes_Dengan_Mengubah_Akun_US_No",
+  "auto": true,
+  "contexts": [
+    "FAQ_Digital_Cara_Redeem_ITunes_Dengan_Mengubah_Akun_US-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Digital_Cara_Redeem_ITunes_Dengan_Mengubah_Akun_US_No-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau tidak ada kartu kredit, kamu bisa lakukan aktivasi Play Store Carrier Billing, lalu ubah billing address menjadi region yang diinginkan"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga informasi dari Toped membantu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533270875,
+  "fallbackIntent": false,
+  "events": []
+}

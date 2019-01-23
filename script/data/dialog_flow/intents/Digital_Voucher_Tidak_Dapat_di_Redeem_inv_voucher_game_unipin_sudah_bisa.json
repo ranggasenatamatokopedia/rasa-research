@@ -1,0 +1,33 @@
+{
+  "id": "9a3f0ffc-bc39-4302-a3e2-32b980e940c5",
+  "parentId": "63bab58f-8e8c-4773-995c-07cfa91f078d",
+  "rootParentId": "dbbb1e17-3271-4c65-b2a2-5cb80603b2a4",
+  "name": "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_game_unipin_sudah_bisa",
+  "auto": true,
+  "contexts": [
+    "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_game_unipin-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Baik, jika ada kendala lain kamu dapat hubungi Toped kembali ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536392488,
+  "fallbackIntent": false,
+  "events": []
+}

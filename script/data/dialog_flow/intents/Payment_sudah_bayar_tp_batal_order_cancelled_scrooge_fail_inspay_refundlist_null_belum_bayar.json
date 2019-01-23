@@ -1,0 +1,39 @@
+{
+  "id": "d0051483-d8f5-4e6a-bcd7-03426fa4bf38",
+  "parentId": "c6ccb836-8167-4dd7-8417-4dd933948864",
+  "rootParentId": "96f23e85-fae0-4896-8203-08e968aef1b9",
+  "name": "Payment_sudah_bayar_tp_batal_order_cancelled_scrooge_fail_inspay_refundlist_null_belum_bayar",
+  "auto": true,
+  "contexts": [
+    "Payment_sudah_bayar_tp_batal_order_cancelled_scrooge_fail_inspay_refundlist_null-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Payment_sudah_bayar_tp_batal_order_cancelled_scrooge_fail_inspay_refundlist_null_belum_bayar-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Baik, kedepannya Kakak dapat melakukan pembayaran sebelum batas waktunya ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531454216,
+  "fallbackIntent": false,
+  "events": []
+}

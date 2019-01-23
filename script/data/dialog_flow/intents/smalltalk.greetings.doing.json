@@ -1,0 +1,43 @@
+{
+  "id": "2aa5e10d-f93b-4b73-8a9f-34a10550e72b",
+  "name": "smalltalk.greetings.doing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a826f9e6-dd70-4d67-9739-f344fd6e2ddc",
+          "required": false,
+          "dataType": "@sys.language",
+          "name": "language",
+          "value": "$language",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": [
+            "Toped Lagi ngobrol sama kamu :)",
+            "Toped lagi chat sama kamu :)"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "smalltalk_greetings_doing"
+    }
+  ]
+}

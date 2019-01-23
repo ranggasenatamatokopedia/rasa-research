@@ -1,0 +1,54 @@
+{
+  "id": "a14e06f5-2b5b-4479-a2eb-1c5b9cb491db",
+  "parentId": "d3aa9fb3-4472-47eb-b0a0-28232062077a",
+  "rootParentId": "35e16175-3fd0-4749-bf64-4e1b94b883f1",
+  "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer_Canceled_Verified_Sudah",
+  "auto": true,
+  "contexts": [
+    "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer_Canceled_Verified-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer_Canceled_Verified_Sudah-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e8b83bbb-554e-4769-9ed9-1c8a5222864d",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1341"
+        },
+        {
+          "id": "3d3393a8-8513-493e-b7e5-dec94d942490",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Logistic_Lupa_Konfirmasi_Pengiriman"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu sebentar, untuk kendala ini, Toped bantu buatkan tiketnya ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532579125,
+  "fallbackIntent": false,
+  "events": []
+}

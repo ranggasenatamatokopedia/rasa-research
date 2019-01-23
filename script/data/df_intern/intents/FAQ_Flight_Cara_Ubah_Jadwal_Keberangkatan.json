@@ -1,0 +1,46 @@
+{
+  "id": "3d8891e7-c97a-4c0a-a8e2-9e2a780eadb5",
+  "name": "FAQ_Flight_Cara_Ubah_Jadwal_Keberangkatan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flight_Cara_Ubah_Jadwal_Keberangkatan-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1ee7128a-b2d0-4efd-b033-ad064d1e6773",
+          "required": false,
+          "dataType": "@bank_withdrawal",
+          "name": "bank_withdrawal",
+          "value": "$bank_withdrawal",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu dapat menghubungi maskapai untuk perubahan jadwal keberangkatan. Biaya administrasi untuk perubahan jadwal tergantung dari kebijakan maskapai. Silakan kunjungi !TKPD_URL_KONTAK_MASKAPAI! ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_flight_cara_ubah_jadwal_keberangkatan"
+    }
+  ]
+}

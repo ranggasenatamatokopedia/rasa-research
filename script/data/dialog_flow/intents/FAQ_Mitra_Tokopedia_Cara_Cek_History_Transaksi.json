@@ -1,0 +1,38 @@
+{
+  "id": "8969a341-e614-48c1-844f-560f90a3d1f1",
+  "name": "FAQ_Mitra_Tokopedia_Cara_Cek_History_Transaksi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Mitra_Tokopedia_Cara_Cek_History_Transaksi-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut Toped infokan cara melihat Riwayat Transaksi di Mitra Tokopedia, ya:\n1. Masuk ke akun Mitra Tokopedia\n2. Klik \"Riwayat Saldo\", lalu akan dimunculkan transaksi yang telah kamu lakukan\n3. Kamu bisa klik salah satu transaksi untuk melihat detailnya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga informasi Toped membantu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

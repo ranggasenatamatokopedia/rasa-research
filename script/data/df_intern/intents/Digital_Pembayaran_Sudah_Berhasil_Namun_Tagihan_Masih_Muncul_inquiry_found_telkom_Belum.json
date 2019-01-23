@@ -1,0 +1,39 @@
+{
+  "id": "19cf75e0-fa9f-4792-a6f4-a3156d49bd3c",
+  "parentId": "d85bd81f-9efd-40b2-b5b3-3009e29883ef",
+  "rootParentId": "440cef8c-a263-47ad-b658-e035da03a8e0",
+  "name": "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_inquiry_found_telkom_Belum",
+  "auto": true,
+  "contexts": [
+    "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_inquiry_found_telkom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_inquiry_found_telkom_Belum-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa menghubungi pihak Telkom di 147 dulu ya untuk mengaktifkan nomornya kembali :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534230210,
+  "fallbackIntent": false,
+  "events": []
+}

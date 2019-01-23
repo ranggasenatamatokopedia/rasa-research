@@ -1,0 +1,63 @@
+{
+  "id": "a285f2f9-2c48-480c-ba99-b5c102332d3d",
+  "parentId": "5006078e-a841-41bb-901f-bcd35090042d",
+  "rootParentId": "7f7a8cb1-cbe8-48a9-9930-7686b772cf99",
+  "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_waiting_third_party_success_still_wtp_upload",
+  "auto": false,
+  "contexts": [
+    "Flight_Kendala_Pembelian_Tiket_Pesawat_waiting_third_party_success_do_resync_still_wtp-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_waiting_third_party_success_still_wtp_upload-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "041969a1-e630-4b1a-b7aa-fa1b1207af99",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1439"
+        },
+        {
+          "id": "e77dbafc-9c2f-4a1c-9a9e-d5269fb48a8d",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Flight_Kendala_Pembelian_Tiket_Pesawat"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu sebentar ya, Toped akan bantu buatkan tiket kendala untuk dicek lebih lanjut dan informasi selanjutnya akan dikirim lewat layanan pengguna."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Senang bisa membantu kamu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538048955,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "resync_payment"
+    }
+  ]
+}

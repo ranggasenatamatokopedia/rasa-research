@@ -1,0 +1,36 @@
+[
+  {
+    "id": "16bf6b01-cc74-4b94-ad6e-52d65808e3fb",
+    "data": [
+      {
+        "text": "Ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5cc7e939-1ee8-4333-9287-1e200437d67d",
+    "data": [
+      {
+        "text": "Iya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9cec91a3-0611-43be-aae9-a40653642cea",
+    "data": [
+      {
+        "text": "Yes",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

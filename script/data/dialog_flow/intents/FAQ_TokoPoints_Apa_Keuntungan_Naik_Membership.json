@@ -1,0 +1,42 @@
+{
+  "id": "1a8d24a9-c4c2-4872-a5f9-f3953656bb87",
+  "name": "FAQ_TokoPoints_Apa_Keuntungan_Naik_Membership",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_TokoPoints_Apa_Keuntungan_Naik_Membership-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut Toped kasih tau beberapa keuntungan kalau Status Membership kamu naik ya:\n\n1. Katalog Spesial (untuk setiap status Membership)\n2. Akses Kirim Kupon ke teman (untuk Membership Gold ke atas)\n3. Layanan Pelanggan Prioritas (untuk Membership Platinum 1 ke atas)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Yuk tingkatkan terus transaksi kamu, kumpulkan Loyalty dan dapatkan benefit naik Status Membership!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_tokopoints_apa_keuntungan_naik_membership"
+    }
+  ]
+}

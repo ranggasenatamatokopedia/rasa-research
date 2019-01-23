@@ -1,0 +1,24 @@
+[
+  {
+    "id": "87039061-14bd-4955-8496-23793e61aebc",
+    "data": [
+      {
+        "text": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0
+  },
+  {
+    "id": "c53ce694-73e7-4e3b-97b0-460a8a39e3cf",
+    "data": [
+      {
+        "text": "input_product_and_nominal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

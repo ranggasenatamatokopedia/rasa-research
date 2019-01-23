@@ -1,0 +1,43 @@
+{
+  "id": "7bd3af73-a82e-45a8-a4f4-a445bd8b75d2",
+  "parentId": "264567fe-ab44-4c9b-9c35-4941441b6131",
+  "rootParentId": "7f7a8cb1-cbe8-48a9-9930-7686b772cf99",
+  "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_waiting_payment_success_resync_then_waiting_pym",
+  "auto": false,
+  "contexts": [
+    "Flight_Kendala_Pembelian_Tiket_Pesawat_waiting_payment_scrooge_success_do_resync-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DoResyncPayment",
+      "affectedContexts": [
+        {
+          "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_waiting_payment_success_resync_then_waiting_pym-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu sebentar ya, Toped akan bantu untuk proses ulang :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538119388,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_waiting_for_payment"
+    }
+  ]
+}

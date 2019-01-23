@@ -1,0 +1,64 @@
+{
+  "id": "e9a8ec4d-4887-495f-95b7-0359d9a002c2",
+  "parentId": "73682839-494c-41e0-9a9a-7eabf02d805c",
+  "rootParentId": "7702a921-0bc2-479f-9cd3-aade8103768a",
+  "name": "Payment_not_verify_MP_platform_else",
+  "auto": true,
+  "contexts": [
+    "Payment_not_verify_MP_platform-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Payment_not_verify_MP_platform_else-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk transaksi ini sudah tidak terdapat kendala pembayarannya lagi ya, Kak. Mengingat transaksi nya sudah berlangsung."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531447152,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_sedang_diproses_penjual"
+    },
+    {
+      "name": "invoice_sedang_dikirim"
+    },
+    {
+      "name": "invoice_kode_resi_pengiriman_tidak_valid"
+    },
+    {
+      "name": "invoice_pesanan_sampai"
+    },
+    {
+      "name": "invoice_pesanan_telah_diterima"
+    },
+    {
+      "name": "invoice_delivery_due"
+    },
+    {
+      "name": "invoice_menunggu_status_kurir"
+    },
+    {
+      "name": "invoice_pesanan_ditolak_penjual"
+    }
+  ]
+}

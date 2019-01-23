@@ -1,0 +1,25 @@
+[
+  {
+    "id": "60c6a927-e2e6-4a12-be2a-cea8c904d44e",
+    "data": [
+      {
+        "text": "Mandiri virtual account",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d9b91ba4-a06f-4402-9b3d-052e3ccc8bab",
+    "data": [
+      {
+        "text": "mandiri VA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

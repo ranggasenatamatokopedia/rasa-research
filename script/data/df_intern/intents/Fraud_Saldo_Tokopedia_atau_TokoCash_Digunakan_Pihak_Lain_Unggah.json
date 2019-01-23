@@ -1,0 +1,52 @@
+{
+  "id": "d74216c9-b8b9-4f0a-918e-3585dba296fc",
+  "parentId": "97b8dee9-c18a-464e-81ff-25eed5cf59ac",
+  "rootParentId": "97b8dee9-c18a-464e-81ff-25eed5cf59ac",
+  "name": "Fraud_Saldo_Tokopedia_atau_TokoCash_Digunakan_Pihak_Lain_Unggah",
+  "auto": true,
+  "contexts": [
+    "Fraud_Saldo_Tokopedia_atau_TokoCash_Digunakan_Pihak_Lain-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Saldo_Tokopedia_atau_TokoCash_Digunakan_Pihak_Lain_Unggah",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "82e75195-27fd-4cdc-af40-55b38cb69887",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1641",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Terima Kasih untuk bukti yang kamu lampirkan. Toped bantu buatkan tiketnya. Mohon menunggu."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539232430,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

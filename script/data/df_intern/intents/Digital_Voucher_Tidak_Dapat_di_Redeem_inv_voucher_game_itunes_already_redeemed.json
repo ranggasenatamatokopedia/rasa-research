@@ -1,0 +1,39 @@
+{
+  "id": "45e43c6d-3fae-4f6d-8750-7e57564fd75b",
+  "parentId": "4c79035d-678b-45c3-8636-114848247608",
+  "rootParentId": "dbbb1e17-3271-4c65-b2a2-5cb80603b2a4",
+  "name": "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_game_itunes_already_redeemed",
+  "auto": true,
+  "contexts": [
+    "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_game_itunes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_game_itunes_already_redeemed-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Bisa sertakan screenshot kendalanya terlebih dulu ke Toped?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536391999,
+  "fallbackIntent": false,
+  "events": []
+}

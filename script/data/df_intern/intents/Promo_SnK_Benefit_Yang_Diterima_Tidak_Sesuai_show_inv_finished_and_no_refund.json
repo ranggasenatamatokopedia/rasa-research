@@ -1,0 +1,53 @@
+{
+  "id": "3d479c6d-0010-49ef-997c-02903ffbad59",
+  "parentId": "62cebc3c-7c9c-4719-94b5-e5aa772e8bc1",
+  "rootParentId": "67024543-88fb-488f-907b-85ef94921089",
+  "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_inv_finished_and_no_refund",
+  "auto": false,
+  "contexts": [
+    "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_kupon_tokopoints_show_inv_MP_OS-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_inv_finished_and_no_refund-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d128d763-9a85-462f-891b-73e987bd9bee",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1705",
+          "isList": false
+        },
+        {
+          "id": "8173a0f3-a08e-4d86-897c-c9b29b677063",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai"
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526542566,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "in_resol_finished_no_refund"
+    }
+  ]
+}

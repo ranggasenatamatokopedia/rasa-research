@@ -1,0 +1,58 @@
+{
+  "id": "09ec832c-fb5d-4cfd-b453-49fe640998de",
+  "parentId": "8401644b-6014-4d88-9d34-5255101017ec",
+  "rootParentId": "d19f77a0-9fc1-4329-9b8c-1f9cb2ed3084",
+  "name": "Logistic_Order_Kendala_Seller_Conventional_Over_SLA_Upload",
+  "auto": true,
+  "contexts": [
+    "Logistic_Order_Kendala_Seller_Conventional_Over_SLA-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Order_Kendala_Seller_Conventional_Over_SLA_Upload-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ee8a0789-432b-4cac-942d-e6472dc08d4f",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1250"
+        },
+        {
+          "id": "ec2a4e8f-8cdc-4911-ac26-d01ca1f837d7",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Terima kasih, ya. Boleh tunggu sebentar, Toped akan bantu buatkan tiket Layanan Pengguna untuk dicek lebih lanjut dan informasi selanjutnya akan dikirim lewat email :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541071528,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

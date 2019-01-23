@@ -1,0 +1,24 @@
+[
+  {
+    "id": "dd80a419-652a-478e-a7ae-3ae6584f6565",
+    "data": [
+      {
+        "text": "upload image",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "de90b743-7b58-4a21-bd97-f4ec2fe313d7",
+    "data": [
+      {
+        "text": "upload_image",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "id": "a60f76ba-f7ce-401b-91ce-3fbaba577553",
+  "parentId": "3ce5e458-efc3-4b99-8fee-962bd6ddb52d",
+  "rootParentId": "2f8cbeef-ace2-4920-b98a-19f47da047c4",
+  "name": "Fraud_Saya_Mendapat_Email_Melanggar_SNK_Select_Invoice_MP_Finished_Fraud_Refund_Pesan",
+  "auto": false,
+  "contexts": [
+    "Fraud_Saya_Mendapat_Email_Melanggar_SNK_Select_Invoice_MP_Finished_Fraud_Refund-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Saya_Mendapat_Email_Melanggar_SNK_Select_Invoice_MP_Finished_Fraud_Refund_Pesan-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533804149,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "direct_support_message_page"
+    }
+  ]
+}

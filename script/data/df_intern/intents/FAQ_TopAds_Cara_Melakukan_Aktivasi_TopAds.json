@@ -1,0 +1,31 @@
+{
+  "id": "b0f2690b-0f3a-4869-a605-b461deb50ae6",
+  "name": "FAQ_TopAds_Cara_Melakukan_Aktivasi_TopAds",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk melakukan aktivasi TopAds, kamu cukup menambahkan Kredit TopAds. Setelah Kredit TopAds ditambahkan, promo produk dan toko bisa langsung dilakukan. Mudah sekali ya!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_topads_cara_melakukan_aktivasi_topads"
+    }
+  ]
+}

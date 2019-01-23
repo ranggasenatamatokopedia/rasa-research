@@ -1,0 +1,57 @@
+[
+  {
+    "id": "c5b6403a-826e-4316-b9ea-9c15a863e05c",
+    "data": [
+      {
+        "text": "Delivered / Terkirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d3eec8e9-c221-4552-b574-9a6cb80c184e",
+    "data": [
+      {
+        "text": "deliv",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "577a3637-b2b8-48a1-a8c3-b06cd211cd15",
+    "data": [
+      {
+        "text": "sudah sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "51784712-1055-4787-ab38-e2e39aa917a2",
+    "data": [
+      {
+        "text": "terkirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9c235ee6-40e5-4732-bb60-981ac97ad896",
+    "data": [
+      {
+        "text": "Delivered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

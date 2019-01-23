@@ -1,0 +1,91 @@
+[
+  {
+    "id": "7eb52857-0382-4813-b1cc-d0f8c4575137",
+    "data": [
+      {
+        "text": "no ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d8b29e8d-fca0-47cf-9fc7-69012c4f609b",
+    "data": [
+      {
+        "text": "kesatu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4e037cd6-fb7e-4b7d-b618-e6d61b65c14d",
+    "data": [
+      {
+        "text": "yg ",
+        "userDefined": false
+      },
+      {
+        "text": "pertama",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dfd1bf84-99c6-4cac-b441-e08a1dd29764",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0f65b233-0533-449f-b24d-09663dcc31b0",
+    "data": [
+      {
+        "text": "ke email yg terdaftar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ee24ce1c-d013-46bf-a0b2-72e011c9dbf6",
+    "data": [
+      {
+        "text": "email terdaftar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "da8cb6e2-0108-4dec-9433-fbd6a5616dbe",
+    "data": [
+      {
+        "text": "ke email terdaftar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

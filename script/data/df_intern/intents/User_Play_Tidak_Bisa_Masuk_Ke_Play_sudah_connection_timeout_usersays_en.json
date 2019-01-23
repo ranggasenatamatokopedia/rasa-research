@@ -1,0 +1,57 @@
+[
+  {
+    "id": "4fe19fe3-0f68-4d38-9dbf-e0a411edcafe",
+    "data": [
+      {
+        "text": "koneksi timeout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "73d87765-938b-45dd-ba49-4ab1d01e20c6",
+    "data": [
+      {
+        "text": "play telah berakhir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "83ebd682-b112-4c2a-8b4d-225b9817a950",
+    "data": [
+      {
+        "text": "terjadi kesalahan koneksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eae1d777-2c5d-482a-8a54-4427134c137c",
+    "data": [
+      {
+        "text": "tidak ada koneksi internet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dd996852-e693-4e11-9939-745e8b38831e",
+    "data": [
+      {
+        "text": "connection_timeout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "id": "2bcac9af-48e6-447c-8404-13c79a150c87",
+  "parentId": "14928c61-f972-43ab-b9fb-dd3bda5ae6e1",
+  "rootParentId": "14928c61-f972-43ab-b9fb-dd3bda5ae6e1",
+  "name": "FAQ_Digital_Cara_Redeem_Voucher_Unipin_smartphone_device",
+  "auto": true,
+  "contexts": [
+    "FAQ_Digital_Cara_Redeem_Voucher_Unipin-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Digital_Cara_Redeem_Voucher_Unipin_smartphone_device-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai, kalau ingin redeem kode UPGC di smartphone kamu bisa ikuti cara ini ya:\n\n1. Klik \"Profil\"\n2. Pilih menu \"Isi Ulang\" yang terletak di sebelah UP Point"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Selamat mencoba :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533279891,
+  "fallbackIntent": false,
+  "events": []
+}

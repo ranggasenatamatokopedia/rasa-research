@@ -1,0 +1,52 @@
+{
+  "id": "3ca7d7df-36f4-4dbf-bd84-ab576446f748",
+  "name": "FAQ_Referral_Apakah_Kode_Referral_Bisa_Digabung_Dengan_Kode_Promo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Referral_Apakah_Kode_Referral_Bisa_Digabung_Dengan_Kode_Promo-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c154a29f-4764-4c45-b637-43ded3ebf576",
+          "dataType": "@day",
+          "name": "day",
+          "value": "$day",
+          "isList": false
+        },
+        {
+          "id": "91d38d77-119d-4c92-a92a-4873b09faf38",
+          "dataType": "@sys.language",
+          "name": "language",
+          "value": "$language",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Penggunaan Kode Referral dan Kode Promo tidak bisa digabungkan dalam satu transaksi ya, tapi kamu bisa pilih salah satu dan dapatkan benefitnya!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_referral_apakah_kode_referral_bisa_digabung_dengan_kode_promo"
+    }
+  ]
+}

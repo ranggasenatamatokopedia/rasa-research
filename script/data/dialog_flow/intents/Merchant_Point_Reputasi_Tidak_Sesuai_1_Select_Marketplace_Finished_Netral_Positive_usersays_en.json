@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1ba104fc-be93-4f1d-8b33-b539d6b5e4e1",
+    "data": [
+      {
+        "text": "is_",
+        "userDefined": false
+      },
+      {
+        "text": "buyer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_netral_",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_positive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

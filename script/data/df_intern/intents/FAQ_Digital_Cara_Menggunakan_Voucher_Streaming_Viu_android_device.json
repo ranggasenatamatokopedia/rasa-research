@@ -1,0 +1,44 @@
+{
+  "id": "c248555c-55fa-4f41-ba61-445c3507372a",
+  "parentId": "1e92450b-06a1-43f0-ab75-5072713b7924",
+  "rootParentId": "1e92450b-06a1-43f0-ab75-5072713b7924",
+  "name": "FAQ_Digital_Cara_Menggunakan_Voucher_Streaming_Viu_android_device",
+  "auto": true,
+  "contexts": [
+    "FAQ_Digital_Cara_Menggunakan_Voucher_Streaming_Viu-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Digital_Cara_Menggunakan_Voucher_Streaming_Viu_android_device-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau menggunakan Android, kamu bisa ikuti langkah ini:\n1. Buka aplikasi Viu dan masuk ke akun kamu\n2. Klik \"Paket Saya\", lalu klik \"Berlangganan\"\n3. Klik \"Promo Code\", masukkan kode voucer dari Tokopedia, lalu klik \"Memeriksa\" atau \"Get Viu\"."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Selamat mencoba ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533286014,
+  "fallbackIntent": false,
+  "events": []
+}

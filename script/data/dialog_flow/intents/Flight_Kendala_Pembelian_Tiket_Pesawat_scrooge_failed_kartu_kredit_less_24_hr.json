@@ -1,0 +1,43 @@
+{
+  "id": "facf07e8-2ff8-4aaf-8baf-41c56d6b8aac",
+  "parentId": "fde90636-5c19-446c-b28e-53c7d9762ad7",
+  "rootParentId": "7f7a8cb1-cbe8-48a9-9930-7686b772cf99",
+  "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_scrooge_failed_kartu_kredit_less_24_hr",
+  "auto": false,
+  "contexts": [
+    "Flight_Kendala_Pembelian_Tiket_Pesawat_scrooge_failed_kartu_kredit-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_scrooge_failed_kartu_kredit_less_24_hr-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Bisa lampirkan bukti bayar kamu terlebih dulu ke Toped?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537953619,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "less_than_24_hour"
+    }
+  ]
+}

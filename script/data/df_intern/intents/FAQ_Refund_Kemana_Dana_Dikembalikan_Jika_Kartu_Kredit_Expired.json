@@ -1,0 +1,32 @@
+{
+  "id": "e252e6e3-ba44-449d-9a27-d503f84751ca",
+  "name": "FAQ_Refund_Kemana_Dana_Dikembalikan_Jika_Kartu_Kredit_Expired",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jangan khawatir ya, dana kamu akan tetap dikembalikan ke kartu kredit yang kamu gunakan pada transaksi sebelumnya. Kamu bisa hubungi bank penerbit kartu untuk pastikan proses pengembalian dana tersebut."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520238449,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_refund_kemana_dana_dikembalikan_jika_kartu_kredit_expired"
+    }
+  ]
+}

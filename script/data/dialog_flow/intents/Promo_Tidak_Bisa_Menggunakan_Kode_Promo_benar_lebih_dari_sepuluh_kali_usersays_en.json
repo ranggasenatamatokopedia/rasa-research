@@ -1,0 +1,99 @@
+[
+  {
+    "id": "ff772a7c-524d-4f2c-93fc-b15be6917530",
+    "data": [
+      {
+        "text": "ke9",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2f9d1e36-1af3-47f9-9fb4-3a1be4dd572d",
+    "data": [
+      {
+        "text": "sembilan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9100bd66-3905-418b-87ed-d1d0ac90e3a6",
+    "data": [
+      {
+        "text": "9",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "982fddff-233a-477f-88e5-d621d229a1d0",
+    "data": [
+      {
+        "text": "mencoba lebih dari 10 kali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9ee7347a-6c56-4453-93fc-ce91e970d5c3",
+    "data": [
+      {
+        "text": "ke 9",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "225288f7-60c4-4e95-9d54-4eb6bd0306bf",
+    "data": [
+      {
+        "text": "kesembilan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bbfe9425-e581-4175-aaae-21ec04652908",
+    "data": [
+      {
+        "text": "mencoba_lebih_dari_sepuluh_kali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cc13a9a5-96d4-4091-b155-b46354eb65ff",
+    "data": [
+      {
+        "text": "lebih dari ",
+        "userDefined": false
+      },
+      {
+        "text": "sepuluh",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,63 @@
+{
+  "id": "2996b6d1-3b8f-47b2-9177-f5da76a33c0f",
+  "parentId": "cc8ae242-4164-4f44-9a1c-d52a592d2364",
+  "rootParentId": "52ec60f4-3e96-4394-855f-4b7f7c4c5110",
+  "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_metode_pembayaran_tdk_muncul_create_ticket",
+  "auto": false,
+  "contexts": [
+    "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_metode_pembayaran_tdk_muncul_upload2-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_metode_pembayaran_tdk_muncul_create_ticket-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6f4e1e7b-0bf9-46d0-a4ea-c3f45bc035a6",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1073"
+        },
+        {
+          "id": "395799f6-65ae-4fcf-b9dd-6c3de9d82c3b",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon tunggu sebentar ya :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped bantu buatkan tiketnya ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523836104,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

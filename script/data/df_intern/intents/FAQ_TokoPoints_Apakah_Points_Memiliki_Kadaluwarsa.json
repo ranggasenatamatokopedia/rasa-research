@@ -1,0 +1,43 @@
+{
+  "id": "0e26ab6d-dc37-4f62-b4b9-d103663fb73c",
+  "name": "FAQ_TokoPoints_Apakah_Points_Memiliki_Kadaluwarsa",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_TokoPoints_Apakah_Points_Memiliki_Kadaluwarsa-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Points yang kamu dapatkan setelah transaksi akan berlaku sampai 31 Desember di tahun berikutnya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped kasih tahu contohnya ya, Points yang kamu dapatkan pada 1 Agustus 2018 bisa digunakan sampai 31 Desember 2019, dan akan kedaluwarsa pada 1 Januari 2020."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_tokopoints_apakah_points_memiliki_kadaluwarsa"
+    }
+  ]
+}

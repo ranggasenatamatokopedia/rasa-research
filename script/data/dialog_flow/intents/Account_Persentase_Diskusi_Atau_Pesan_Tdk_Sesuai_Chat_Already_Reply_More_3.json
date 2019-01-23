@@ -1,0 +1,43 @@
+{
+  "id": "b233f271-0d3d-4db8-81b2-d314c713be37",
+  "parentId": "a2bea612-b769-4cc5-95d4-92a4f9b22de1",
+  "rootParentId": "fdda2498-0a41-423b-9805-8948dabcbac1",
+  "name": "Account_Persentase_Diskusi_Atau_Pesan_Tdk_Sesuai_Chat_Already_Reply_More_3",
+  "auto": true,
+  "contexts": [
+    "Account_Persentase_Diskusi_Atau_Pesan_Tdk_Sesuai_Chat_Already_Reply-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Account_Persentase_Diskusi_Atau_Pesan_Tdk_Sesuai_Chat_Already_Reply_More_3-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk kendala ini Toped bantu buatkan tiketnya, ya. Mohon tunggu sebentar."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540785138,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "more_than_3"
+    }
+  ]
+}

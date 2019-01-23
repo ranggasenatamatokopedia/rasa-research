@@ -1,0 +1,44 @@
+{
+  "id": "35e872bb-fe61-4ef3-92f3-60da9cdd089c",
+  "parentId": "b05a9a69-de9f-4a57-a434-b5c557e9473a",
+  "rootParentId": "cf17fcc0-2998-4ff8-8cf4-6a1ca0e60443",
+  "name": "Merchant_Point_Reputasi_Tidak_Sesuai_2_Not_Null_Tidak_Sesuai",
+  "auto": true,
+  "contexts": [
+    "Merchant_Point_Reputasi_Tidak_Sesuai_2_Not_Null-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Point_Reputasi_Tidak_Sesuai_2_Not_Null_Tidak_Sesuai-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh kamu informasikan kepada Toped, invoice nomor berapa saja yang tidak sesuai? Misalnya: 1 \u0026 2"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536564442,
+  "fallbackIntent": false,
+  "events": []
+}

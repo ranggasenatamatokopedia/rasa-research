@@ -1,0 +1,43 @@
+{
+  "id": "c4edb03a-3b29-44c9-a636-19a5da57d4d4",
+  "parentId": "cf17fcc0-2998-4ff8-8cf4-6a1ca0e60443",
+  "rootParentId": "cf17fcc0-2998-4ff8-8cf4-6a1ca0e60443",
+  "name": "Merchant_Point_Reputasi_Tidak_Sesuai_2",
+  "auto": true,
+  "contexts": [
+    "Merchant_Point_Reputasi_Tidak_Sesuai-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetPenaltyReputation",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Point_Reputasi_Tidak_Sesuai_2-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped bantu cek, tunggu dulu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536562462,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "select_number"
+    }
+  ]
+}

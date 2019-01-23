@@ -1,0 +1,1688 @@
+[
+  {
+    "id": "a0b802fc-7a62-41a4-99cf-eeee16a33d97",
+    "data": [
+      {
+        "text": "Salah input no resi, transaksi mohon diaktifkan kembali karena paket sudah di terima oleh pembeli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "081feecc-5f9a-4008-aa72-b30ba994824c",
+    "data": [
+      {
+        "text": "Pesanan dibatalkan otomatis, padahal sudah terkirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ed2e0889-4bd4-437d-abfa-6bf2001b273f",
+    "data": [
+      {
+        "text": "Barang pesanan saya sudah saya terima ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Zidan Cloth, dan saya sudah chat ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " utk diupdate di sistem Toped.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f26ee9fb-15c9-459b-8fbb-58afb5e11379",
+    "data": [
+      {
+        "text": "kenapa saya tidak bisa update konfirmasi pengiriman?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7a2bd8d0-5a5b-45d7-bc4c-50ccbb5b77e2",
+    "data": [
+      {
+        "text": "Kenapa barang saya hilang ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " daftar belanja barang belum saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "01764ca2-eccf-44e1-bd38-924ac196cb9a",
+    "data": [
+      {
+        "text": "ini barangnya sudah sampai tapi saya gak bisa klik terima karena status resi nya belum ada di tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3dd60942-4e30-4a39-ade4-267a71fe0e76",
+    "data": [
+      {
+        "text": "saya sudah kirim paket tapi belum konfirmasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4206b700-b1c2-48af-8b00-c761531b2367",
+    "data": [
+      {
+        "text": "lupa konfirmasi pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c0796510-fff0-4070-8778-5235d08f49c4",
+    "data": [
+      {
+        "text": "saya sudah kirim dan lupa untuk mengirim resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "74d04a7a-6f93-48e1-bf8e-42e46f67b8c2",
+    "data": [
+      {
+        "text": "pesanan terbatalkan karena lupa memasukkan resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "778af356-7851-4745-8209-0c9507223a93",
+    "data": [
+      {
+        "text": "Lupa masukin resi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "714f6541-6572-40ca-9e30-08f99b494d08",
+    "data": [
+      {
+        "text": "saya lupa input resi pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f2fdb0a3-a23c-4251-8e81-2455c44ba71e",
+    "data": [
+      {
+        "text": "saya sudah kirim tapi batal otomatis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9a172732-ef56-4564-b1bf-8306d40ad6d1",
+    "data": [
+      {
+        "text": "barang sudah saya kirim tetapi saya lupa konfirmasi barangnya dan otomatis batal sendiri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1df03bbf-1ec7-4156-9140-b38d91ef74cd",
+    "data": [
+      {
+        "text": "saya lupa klik terima pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "84db0cb8-d53c-4713-8270-e6922fc7e6bc",
+    "data": [
+      {
+        "text": "Resi nya waktu itu lupa saya input, Jadi order gagal otomatis dari sistem.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "92f1b443-ec0e-45c0-875d-0cd459547c02",
+    "data": [
+      {
+        "text": "orderan terkena cancel otomatis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "51dd466b-e20b-43be-8818-9b7b6435eb9c",
+    "data": [
+      {
+        "text": "untuk kiriman sudah dikirim ",
+        "userDefined": false
+      },
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hanya resi belum sempat terinput",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cb170c55-6a0c-445a-b19f-8232058e5c39",
+    "data": [
+      {
+        "text": "Pas saya mau masukin nomor resi statusnya batal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a723806f-f64f-4863-864a-56c0f0a7bcc4",
+    "data": [
+      {
+        "text": "Barang sudah dikirimkan dan sudah ada no resi, tapi lupa respon pesanan sehingga transaksi dibatalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "faa77a1c-6db1-4117-b015-475609785d96",
+    "data": [
+      {
+        "text": "lupa untuk proses pesanan di toko, tapi barang sudah terlanjur di kirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ffe77e58-e069-45d9-b5dd-e18df359c9e2",
+    "data": [
+      {
+        "text": "saya lupa melakukan konfirmasi resi pengiriman melebihi batas waktu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1e016991-3c89-4368-b647-eefb7aa3afc4",
+    "data": [
+      {
+        "text": "saya terlanjur kirim barang, statusnya malah batal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4e55db1c-cdbe-4043-b488-3b1ac2490cc6",
+    "data": [
+      {
+        "text": "saya lupa konfirmasi pengiriman smpe akhirnya dibatalin sm tokopedia, tp barang udah dikirim, gimana ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3fd4f2a9-1338-4bfa-b24a-746314c104e8",
+    "data": [
+      {
+        "text": "Saya lupa input konfirmasi pengiriman, resi blm saya masukkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1e69e6a2-7b68-49c4-9bfd-0c23ac25579a",
+    "data": [
+      {
+        "text": "Lupa input resi, mohon dibantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f0057edc-239c-4e93-9291-f3e3cc6a1b30",
+    "data": [
+      {
+        "text": "Ini kenapa pas saya mau masukin resinya malah status transaksinya batal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4df5132e-fa9b-4f22-a071-591c6272f35e",
+    "data": [
+      {
+        "text": "Saya sudah kirim barangnya, tetapi lupa memasukan nomor resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6fe77bf7-771f-44ac-bed5-e8054e6b5824",
+    "data": [
+      {
+        "text": "Saya sudah mengirimkan barang tapi pesanan sudah dibatalkan oleh sistem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e57c5cbb-1258-409c-8f66-7416c5c45566",
+    "data": [
+      {
+        "text": "pesanan sudah batal otomatis karena melebihi batas waktu yang ditentukan saya tidak bisa konfirmasi nomor resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "18642608-0f95-4bd4-b8e2-466729f118e2",
+    "data": [
+      {
+        "text": "paket udah kita kirim ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari yg lalu, tolong bantuannya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " , karena transaksi telah di batalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5cec740c-68cc-4253-aafb-6b82fe99f40d",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tadi saya telat input resi. pesanan batal otomatis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ccfc58f4-95ef-42e2-a4ab-6a6b86b0e343",
+    "data": [
+      {
+        "text": "lupa konfirmasi no. resi pengiriman, barang sudah dikirim tetapi lupa memasukkan no. resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d836d368-51f1-4978-81d0-2415ce302709",
+    "data": [
+      {
+        "text": "Lupa konfirmasi kiriman, Barang sudah dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ca575488-8031-4ff4-a159-e5c333eaa7c8",
+    "data": [
+      {
+        "text": "statusnya kok batal ya, padahal barangnya sudah saya kirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "80c56392-6184-4ea4-b856-c3e78897b906",
+    "data": [
+      {
+        "text": "Status kiriman saya terbatalkan padahal barangnya sudah saya kirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "540fcc94-f69a-47d2-b641-955bf54618c3",
+    "data": [
+      {
+        "text": "saya sudah melakukan pengiriman ke customer, namun saya lupa untuk input resi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6820e78d-7297-4d4b-82d5-6d9f2a82dc74",
+    "data": [
+      {
+        "text": "saya sudah mengirim brg. tp lupa konfirmasi pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3f04c1ca-f0dc-4b0a-98d9-5541167fa90d",
+    "data": [
+      {
+        "text": "Saya sudah mengirimkan barang nya tapi knp penjualna ini batal oleh sistem ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a629a199-95b6-4804-b1c5-e5be59529162",
+    "data": [
+      {
+        "text": "saya lupa konfirmasi pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "34737eee-15e6-4e9c-8856-7315587e8c4f",
+    "data": [
+      {
+        "text": "kalo saya lupa masukkin nomor resi gimana ya, ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " transaksinya udah batal nih padahal barangnya udah saya kirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "df47fb9e-e6fd-490c-9d43-e9bc8ca3ba6a",
+    "data": [
+      {
+        "text": "saya lupa konfirmasi pengiriman. sementara barang sudah dikirimkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a9655b9a-ab4d-419e-9a01-cc0165c962f1",
+    "data": [
+      {
+        "text": "mohon bantuan tokopedia karena lupa konfirmasi pengiriman dan sudah terkirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d6e51c34-cad0-47ab-b6c8-4fe831762ce8",
+    "data": [
+      {
+        "text": "lupa input no resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3eeea853-6f24-4736-bdc9-f8e1a6273d2f",
+    "data": [
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " barang sudah kami kirim, tapi lupa menginput resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d8e2c4df-0ae0-4d62-ba2c-0ab309d4d23f",
+    "data": [
+      {
+        "text": "Saya lupa konsfirmasi menerima pesanan, sementara barang sudah saya kirim ",
+        "userDefined": false
+      },
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d5da1031-8387-488e-9e2c-a60e2eed01a2",
+    "data": [
+      {
+        "text": "pesanan dibatalkan, barang sudah dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9b12aac3-e232-421f-baa9-d1b82887eacc",
+    "data": [
+      {
+        "text": "statusnya batal, resinya belum saya input",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "52a490da-d3f3-40ec-8730-f76814453246",
+    "data": [
+      {
+        "text": " statusnya canceled padahal barangnya sudah saya kirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2011ffd4-a410-4331-b1e4-3dc377968d02",
+    "data": [
+      {
+        "text": "saya lupa klik proses pesanan.. barang sudah ready siap dikirim ",
+        "userDefined": false
+      },
+      {
+        "text": "besok",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " lsng diupdate resi nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "040d0932-d0e2-4195-9218-2dca3e2750ff",
+    "data": [
+      {
+        "text": "Saya lupa konfirmasi pengiriman. Barang sudah dikirimkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6947d4d9-6605-4f35-ab8d-8dbf82047a34",
+    "data": [
+      {
+        "text": "saya lupa masukan no resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "858cde64-3f9a-40e8-9d3a-c8fc5c4ef229",
+    "data": [
+      {
+        "text": "Transaksinya sudah dibatalkan secara otomatis dan barang sudah saya kirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cdcfcdc3-36d8-4669-a66a-db80d01a274a",
+    "data": [
+      {
+        "text": "saya sudah kirim barang, tapi kenapa statusnya dibatalkan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b4d95089-9265-4887-9dec-9840df1ace5a",
+    "data": [
+      {
+        "text": "Saya sudah mengirim tp lupa memasukin no resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7df5a6f2-8591-4ded-810f-143b83ff59bc",
+    "data": [
+      {
+        "text": "barang sudah dikirim, tapi pesanan dibatalkan oleh tokopedia secara otomatis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bcffdaf1-d7a1-40db-80ac-738240037b9e",
+    "data": [
+      {
+        "text": "order sudah saya kirim namun pesanan sudah batal otomatis oleh sistem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "923cf78c-6da1-4c88-8e0a-7c5a3a2a73af",
+    "data": [
+      {
+        "text": "Saya lupa memasukan nomor resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "737c20d1-424b-4061-a9ed-52c1f63b4c22",
+    "data": [
+      {
+        "text": "resinya lupa saya input, tapi barang sudah dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7e7c49fc-bdc5-419d-9a71-ab1adc1d29e1",
+    "data": [
+      {
+        "text": "kenapa transaksi saya dibatalkan ? padahal barang sudah sampai ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fa12d0fb-2c7a-4623-8d25-83ea9e03a997",
+    "data": [
+      {
+        "text": "kenapa orderan saya di batalkan padahal sudah di kirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ad63f497-1be6-41ca-bf6f-bb5adbfcbdc5",
+    "data": [
+      {
+        "text": "Tapi uang saya malah balik semua, padahal barang sdh diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "615f8016-104f-4402-a34c-d75e3442e90e",
+    "data": [
+      {
+        "text": "takutnya tercancel klw tdk masukan resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "35bfc9a8-077d-4981-9e29-a93b294d66fb",
+    "data": [
+      {
+        "text": "Barang pesanan saya sudah sampai sebenarnya,tapi penjual ada soal invalid resi , jadi pesanan saya dibatalkan . sebenarnya pesanan saya sudah saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e8a42618-3ed8-47f5-9f2b-b21b5380241f",
+    "data": [
+      {
+        "text": "barang sdh di terima oleh customer saya. bagaimana itu bisa batal ? pihak jne pun sudah memberikan konfirmasi bahwa brg sdh di terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "10e39ce8-1590-4822-901c-c29461ae00c1",
+    "data": [
+      {
+        "text": "Siang Tokopedia, saya tempo hari pesan helm Cargloss barang sudah saya terima dengan baik menggunakan pos Indonesia, namun karena nomor resi tidak valid saya tidak bisa klik tombol selesai, dan transaksi dibatalkan oleh sistem. Dana saya kembali lg. Bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e0d95ef0-1e4c-4d42-82f7-2221960acb69",
+    "data": [
+      {
+        "text": "koq barang sudah sampai, status masih di proses?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "99905a56-a177-4333-a577-39fb8d447f3e",
+    "data": [
+      {
+        "text": "Kenapa barang saya hilang dari daftar belanja barang belum saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3d261917-957d-471f-a6c2-f7ab31401cb2",
+    "data": [
+      {
+        "text": "INVIDTAG kenapa saya tidak bisa update konfirmasi pengiriman?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "278f3c48-05e0-45ad-880b-c7ca2731b7bd",
+    "data": [
+      {
+        "text": "pesanan udah dibatalin tapi tetap dikirim .dan udah saya terima .gimana caranya mau bayar ke penjual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "09aa87b1-3d57-450d-a704-2e34de33010a",
+    "data": [
+      {
+        "text": "Paket Pembeli sudah dikirimkan..tapi dibatalkan otomatis transaksi oleh tokopedia...Saya sudah hubi pembeli via chat..blm direspon..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7ddcfbb4-e81d-44a0-92e9-c035093f0fa9",
+    "data": [
+      {
+        "text": "no invoice penjualan dibatalkan. kenapa ya?barang tsb sudah saya kirimkan ke pembeli.keesokan harinya, stok saya habis krn saya juga ada jual di tempat lain, tidak hanya di tokopedia.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0f91a80c-a432-4227-8506-23897b03bb6e",
+    "data": [
+      {
+        "text": "barang sudah dikirim, transaksi keburu dibatalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8f98c356-2617-4f66-b525-2cacde63bc8e",
+    "data": [
+      {
+        "text": "sy sdh melakukan pembelian dan barang sdh dikirim ke saya. tp dana saya dikembalikan secara otomatis oleh sistem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "be756fa0-c7ec-4d04-89ef-00fe4981b3c9",
+    "data": [
+      {
+        "text": "itu sttus nya dibatalkan oleh penjual. sedangkan barang sdh sy terima. kemudian uang nya jadi refund ke account sya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1dfc9ffb-9ca8-42f0-9aeb-29a0cdebd46c",
+    "data": [
+      {
+        "text": "penjualan yg terlambat dikonfirmasi tapi barang sudah saya kirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "486a2501-76c3-4648-8e5b-84c9ee9922a0",
+    "data": [
+      {
+        "text": "transaksi saya di batalin, uang kembali ke saya, tp penjual info kalo barangnya udah di kirim, tp saya belum terima barangnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c52ceff4-2b2f-446f-b326-4b3a0bcff647",
+    "data": [
+      {
+        "text": "kendala no resi lupa input. pesanan dibatalkan tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fc1cb699-9f7f-47bf-b457-9d415725ad4d",
+    "data": [
+      {
+        "text": "Barang sudah kami kirim, namun kami lupa input resi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a29ef0f8-3b04-4fcc-be4e-0ae1c246f32a",
+    "data": [
+      {
+        "text": "Barang sudah dikirim, saat ingin input resi selalu error. saya sudah menanyakan ke pembeli tapi belum ada respon. tapi di web tiki barang sudah diterima. ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5ca44617-097c-43dd-a3aa-23a5c75a5ceb",
+    "data": [
+      {
+        "text": "untuk transaksi ini saya mendapatkan notif kalau brg ini di stok kosongkan karena tidak ada respond dr penjual?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5066cd84-167e-4189-9933-340935d199b2",
+    "data": [
+      {
+        "text": "saya sudah kirim via JNE siang ini, tapi lupa input resi shg transaksi dibatalkan otomatis di tokped. bisa dibantu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f6702097-fe10-40ac-b046-364bab4369a9",
+    "data": [
+      {
+        "text": "barang ini udah saya kirim bareng pesanan sebelumnya tp saya lupa input resinya, tlg bantu dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "116f25bc-506b-47db-8687-610bccda43cf",
+    "data": [
+      {
+        "text": "Saya baru mendapat pesan dari toped di cancel karena tidak di respons padahal tadi siang sdh saya kirim dan di input no resi nya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7bcf6249-afda-4f0c-b0d7-5d4727e4d795",
+    "data": [
+      {
+        "text": "order saya kena cancel tokopedia padahal sdh saya kirimkan barangnya, tolong dibantu maaf dan terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a1a07f28-3358-4080-993f-8309a4db2f06",
+    "data": [
+      {
+        "text": "Transaksi tiba-tiba hilang,barang Sudah sampai tujuan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d841729e-3ac6-4e4b-b765-4d9bb80158ac",
+    "data": [
+      {
+        "text": "Pengirimam order saya dicancel oleh cs toped. Tadinya seller salah masukin alamat penjemputan barang. Tapi dia bersedia nganterin barang ke alamat tersebut. ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "010fa748-288a-426b-bcaa-068342584830",
+    "data": [
+      {
+        "text": "sudah dibatalkan namun proses pengiriman barang oleh kurir sedang berjalan. Seller lupa menginput resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a89f972b-dab3-4f79-b8e8-378b7121d576",
+    "data": [
+      {
+        "text": "order penjualan saya tercancel karena saya terlambat input resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "63f2980e-0e18-4f3f-b814-cb832eba7d09",
+    "data": [
+      {
+        "text": "saya sebagai penjual ada 2 orderan kami dicancel otomatis karena lupa/telat konfirmasi resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4984cb27-22e0-4176-8c03-26933466b66c",
+    "data": [
+      {
+        "text": "saya telat input resi, padahal barang udah saya kirim, skrg duitnya balik ke pembeli, tolong bantu dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3ac6dbdf-c94b-458b-b5d3-3a1b9f6c9d92",
+    "data": [
+      {
+        "text": "admin, ini statusnya udah di batalkan sm tokped karena resinya salah input, skrg duitnya balik ke pembeli pdhl barangnya udah smp ke pembeli, tlg bantu dong admin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "18399815-830b-421f-8cfa-e86ee32759bf",
+    "data": [
+      {
+        "text": "barang sudah dikirm tp status di cancel tokped, barang udah di terima pembeli, pembeli juga dapet uangnya dong, duit buat saya mana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f8beaaf8-1f66-4926-94d7-a4bc08744366",
+    "data": [
+      {
+        "text": "barang sudah di terima pembeli tapi status transaksinya di cancel oleh tokped karena di bilang resinya invalid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "db9690a7-5170-4798-b447-6960ebea1d3f",
+    "data": [
+      {
+        "text": "Saya menjual barang terhadap Customer saya, barang / paket sudah diterima, tetapi transaksi penjualan dibatalkan langsung oleh Tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ccdaf1bf-395c-40fe-9416-e0b1f7b52c9a",
+    "data": [
+      {
+        "text": "Saya lupa memasukan resi sehingga transaksi terbatalkan bagaimana ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3d710476-89b7-4d61-9bc4-c98d65b35448",
+    "data": [
+      {
+        "text": "tapi saya lupa input konfirmasi pengiriman,gmn solusinya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4b878057-7e9d-4a4a-a8c0-58a0897eb570",
+    "data": [
+      {
+        "text": "Kog ke cancel ya padhal barang sudah saya krm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0b213c98-f054-4ad2-9d1c-db5145917872",
+    "data": [
+      {
+        "text": "saya kirim pesanan orang kok status nya malah gagal ? barang sudah sampe ke tangan pembeli namun saldo saya gak masuk dan dana nya masuk ke pembeli lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c45fd617-621a-41ea-8bb2-3b96ae4e22bb",
+    "data": [
+      {
+        "text": "Kenapa tiba2 penasa buyer saya dibatalin ya? padahal aku uda konfirm pesenan dan uda kirim barang. tinggal nunggu resi dari kurir jne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5bf83a1f-2257-4e2f-86d1-87770da3d436",
+    "data": [
+      {
+        "text": "saya beli barang, duitnya udah di balikin sama seller tp barangnya dateng, saya gimana bayar nih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "65ce86a2-5c14-4491-ab39-bc040a55f276",
+    "data": [
+      {
+        "text": "saya baru dapat nomor resinya dari kurir, tlg aktifin lagi transaksi saya agaar bisa saya input resinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bd190056-cf03-4958-a030-c9f53b7c7b75",
+    "data": [
+      {
+        "text": "penjual lupa isi resi sedangkan barangnya sudah saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e5825552-b171-4eca-b0ab-0e91959ff513",
+    "data": [
+      {
+        "text": "kami terlambat memasukan resi nya, tetapi barang sudah di kirim sebenarnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "768dc7d5-12bc-4b7b-a743-757130a4359b",
+    "data": [
+      {
+        "text": "saya udah kirim barang tp pesanan di batalkan oleh sistem, mohon bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8a3f44c6-348e-43b8-b113-3ec96480479c",
+    "data": [
+      {
+        "text": " padahal saya sudah mengirim barang ke pembeli dan pesanan sampai di tujuan. Bahkan di transaksi selesai juga tidak ada. Lalu uang saya kemana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b3406bbd-2c53-4f5a-902e-58c6f59065cb",
+    "data": [
+      {
+        "text": "mau minta tolong, saya lupa masukin no resinya, pdahal pake sudah dikirimkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e136a359-b5b9-4e0d-be29-edc10d7a0429",
+    "data": [
+      {
+        "text": "pesanan ini bisa diaktifkan lagi engga ya?  masalahnya. barang sudah saya kirim kemaren sore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5de2b618-63f2-4e07-9459-086dbf2b2d87",
+    "data": [
+      {
+        "text": "barang sudah saya terima tapi tokopedia membatalkan transaksi saya. kasihan penjualnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "eead9a54-532d-4409-94b3-00a56ffdd1b9",
+    "data": [
+      {
+        "text": "saya sudah mengirimkan pesanan, tp resinya belum di kasih oleh pihak kurir, saat ini pesanan di sistem dibatalkan oleh Tokopedia, tolong bantu ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c60ef5e0-7b30-4378-af27-b7d0c5938890",
+    "data": [
+      {
+        "text": "kemarin saya terlambat masukan resi penjualan saya, skrg statusnya batal, padahal barangnya udah di terima pembeli, tolong bantu admin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c70d8d7c-832a-4f86-99c7-5941e7d7ff79",
+    "data": [
+      {
+        "text": "saya ada penjualan di invoice berikut, item sudh dikirim tp karena saya telat memasukkan no resi jadi dicancel oleh tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ff95bb56-6e52-4cbb-bf37-36ff157cc268",
+    "data": [
+      {
+        "text": "Barang sudah dikirim ke pembeli, tapi batal otomatis karena salah masukan nomor resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1b71da4a-2bca-4ffd-b082-084f86e8a6a6",
+    "data": [
+      {
+        "text": "lupa memasukan No resi hingga transaksi dibatalkandua transaksi yg dibatalkan karena lupa input resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5d76eced-4d5e-40d0-b0fe-12968929a606",
+    "data": [
+      {
+        "text": "statusnya penjualan saya cancel padahal barangnya sudah saya kirimkan dan saya sudah punya resinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f78577be-76ab-46c1-8f09-0330fe1eec10",
+    "data": [
+      {
+        "text": "saya sebagai penjual sebelumnya udh kirim resi namun telat masukkan resi lalu tercancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8a735779-61ad-449f-9a21-bd0ba0ecda12",
+    "data": [
+      {
+        "text": "sudah saya kirim namum telat menginput sehingga terbatalkan oleh sistem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "447e4f21-8d9a-48f8-a6cd-25be0c0c52e8",
+    "data": [
+      {
+        "text": "barang yg saya kirim sudah sampai tapi dana tidak sampai.status dibatalkan system. untung yg beli konfirmasi saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8ffd82a9-a8eb-4ed3-9f84-1a810d9e99b9",
+    "data": [
+      {
+        "text": "kak. saya mau masukin no resi tpi kok sudah di batalin sama toko pedia.  ini gimana padahal barang sudah di kirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "661464fa-3934-4f2c-a487-bfaf1a97fd6a",
+    "data": [
+      {
+        "text": "barang yg terkirim tp telat input resi sudah d terima barangnya oleh pembeli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5dfefe85-a8d3-4f2e-a2bd-2448e7e5d550",
+    "data": [
+      {
+        "text": "saya sdh terima barang tp kok dananya malah di refund ya sama tokopedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "73a383d9-77dd-4c5f-ace2-b2fd364d26cb",
+    "data": [
+      {
+        "text": "transaksi penjualan saya batal padahal pembeli sdh terima barang saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b99ee374-97ad-4948-8ba4-385e7ed43838",
+    "data": [
+      {
+        "text": "barang sudah dikirim namun transaksi dibatalkan bagaimana dengan uang saya apakah bisa masuk saldo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6fa464b9-4cbb-4349-b16b-5926d5471bce",
+    "data": [
+      {
+        "text": "bagaimana bayar brg yg sudah sampai krn d sini statusnya sdh refund?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3cf38d08-5566-4de2-8b34-5b8bd6c2d63a",
+    "data": [
+      {
+        "text": "saya ada satu transaksi barang sudah dikirim ,tapi resi blm diinput,boleh diaktikan kembali unutk transaksi nya kak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "11fc8ee2-cbd3-465d-862c-29196e25a5e9",
+    "data": [
+      {
+        "text": "transaksi terlanjur terkirim dan baru ada info email jika ada pembatalan, bagaimana ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f0db2ac2-0a4f-4524-851f-4517e142e84f",
+    "data": [
+      {
+        "text": "saya abis transaksi , brg sudah sampai ke pembeli tp transaksi kok di batal kan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8b960f9a-a20d-4c89-806b-1edd9425f456",
+    "data": [
+      {
+        "text": "order terbatalkan karena telat input resi. tolong utk pencairan dananya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5c4d0d3a-9e2d-4858-abc2-fa594fb17909",
+    "data": [
+      {
+        "text": "barang sudah dikirim tapi belum sempat memasukan nomor resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4baddf8d-9bef-42c4-865e-9c4710bca7ed",
+    "data": [
+      {
+        "text": "transaksi menunggu resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1b325bfe-7d7f-40bb-98c3-d112ec11e66e",
+    "data": [
+      {
+        "text": "saya lambat masukan no resi....jd di status resi invalid bagaimana solusinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fbd717f4-7d3f-49ec-b9b8-e053ac77b67c",
+    "data": [
+      {
+        "text": "barang sudah ditrima pembeli. napa uang dikembalikan ke pembeli?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ec61e12e-c8e1-4bca-8c82-ea7557264af4",
+    "data": [
+      {
+        "text": "dia ga mau klik batal krn nanti reputasi toko dia turun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7181d6c6-d95a-4ac7-81b3-d36e68478e5a",
+    "data": [
+      {
+        "text": "bantu utk cancel transaksi krn inj bukan kesalahan saya. kl saya cancel mengurangi reputasi saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dd4f15b1-4e04-47d5-9afe-cf854a190504",
+    "data": [
+      {
+        "text": "seller gak bisa menampilkan nomor resi. dana sudah kembali ke akun saya.  namun 17.30 kurir datang membawa barang pengganti. jadi saya ada kelebihan dana 17499 sesuai harga barang. saya harus kembalikan kemana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "377b7cd2-cf98-4112-acef-37bd91a6dd33",
+    "data": [
+      {
+        "text": "pembatalan  INV/20181031/XVIII/X/224594538 sedangkan barang sudah terkirim dan saya terlambat mengupdate resi.sebelum ini sudah dlaporkan tetapi blum ada kejelasan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ea4fa223-ab49-456c-8af8-7da7a6460cea",
+    "data": [
+      {
+        "text": "baru pertama kali kirim pake gosend..sy udh kirim manual ternyata ada tools kirim di tokopedia..bagaimana cara mengaturnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "83e31fc5-45a2-425c-a334-c15568fb61b0",
+    "data": [
+      {
+        "text": "Dana senilai Rp 102.000 telah dikembalikan ke Saldo Anda. (INV/20181020/XVIII/X/219808551)paketnya sudah sampai. mohon bisa dikembalikan lagi dananya ke penjual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7fffc02c-919d-4bc9-8a9f-0e6c0f2d46ab",
+    "data": [
+      {
+        "text": "invoic ini kenapa batal ya kak padahal kita sudah kirim resi yang benarberikut no resinya020900059344818tolong kak kalau batal otomatis kita rugi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8128c9f1-8847-4e81-943f-637de7cd0a8e",
+    "data": [
+      {
+        "text": "barang saya kok di cancel ya padahal nomer resi nya sudah ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0ec36001-49a9-405a-b549-0c0d0e156cd0",
+    "data": [
+      {
+        "text": "saya telat memasukan resi dr orderan sebelumnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d455538e-aceb-460b-855b-8a5fc4199cdd",
+    "data": [
+      {
+        "text": "invoice ini kenapa dibatalkan? Sedangkan barang telah sy  terima.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1073c72c-3572-40ad-8591-e7570b30ec08",
+    "data": [
+      {
+        "text": "Dear Toped, untuk invoice INV/20181130/XVIII/XI/239280617 sudah Saya terima tapi tidak bisa klik selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5071d884-2069-438d-87d7-b7c678549b90",
+    "data": [
+      {
+        "text": "pagi ini saya mendapatkan paket saya ketika saya tap order selesai, tb2 dibatalkan secara sepihak oleh Tokopedia.saya mendapatkan produk yang saya beli + uang saya kembali ke saldo tokopedia.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bd1645ae-05b2-4925-8403-2a9378b5fd9a",
+    "data": [
+      {
+        "text": "pesanannya batal otomatis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

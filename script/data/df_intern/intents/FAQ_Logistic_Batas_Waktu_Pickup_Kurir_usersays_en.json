@@ -1,0 +1,343 @@
+[
+  {
+    "id": "27b49153-a979-4671-911e-257ce8285748",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", batas waktu request pickup ",
+        "userDefined": false
+      },
+      {
+        "text": "Ninja Xpress",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " jam berapa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7df853c8-71b1-4eff-bab8-92af572d9e89",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", batas waktu request pickup ",
+        "userDefined": false
+      },
+      {
+        "text": "Grab",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " jam berapa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "80ac6f81-6cc4-4b70-88b6-05c3cb413d05",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", batas waktu request pickup masing-masing ",
+        "userDefined": false
+      },
+      {
+        "text": "Instan Kurir",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dari jam berapa hingga jam berapa mn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a332cf8a-2010-4058-b414-a3571769cbc5",
+    "data": [
+      {
+        "text": "Request pick up pake kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "instan",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", bisa sampe kapan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "31c90276-982d-4b32-8e8f-dde94b80a1df",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", batas waktu request pickup ",
+        "userDefined": false
+      },
+      {
+        "text": "Rex 10",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " jam berapa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ff9f01c7-5d72-4798-aa98-5e45ab6d8a7b",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", batas waktu request pickup ",
+        "userDefined": false
+      },
+      {
+        "text": "Gojek",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " jam berapa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a4259a75-b0b2-46f9-9dba-1a6dcab711a4",
+    "data": [
+      {
+        "text": "Kalo mau request pick up ",
+        "userDefined": false
+      },
+      {
+        "text": "instan kurir",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", bisa sampe ",
+        "userDefined": false
+      },
+      {
+        "text": "sore",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ga?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2a6390b9-0791-4ad6-a0f2-726fbfca3964",
+    "data": [
+      {
+        "text": "Kalo saya pakai kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "instan",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", batas request pick upnya sampe kapan ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aa1f1b13-40e4-4430-92ca-a20715f1a0d7",
+    "data": [
+      {
+        "text": "jam terakhir pick up gojek sameday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f8a4332a-b201-4759-8207-16387ee97f9b",
+    "data": [
+      {
+        "text": "saya sbg penjual.. apakah bisa request pick up grab same day setelah pkl 15.00? sbelum pkl. 16.00?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "42b0fb52-f9df-477e-9e53-3028770fb36d",
+    "data": [
+      {
+        "text": "batas maksimal pick up gosend instant jam brp ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "51311e51-822f-4666-8651-0fa789d7f018",
+    "data": [
+      {
+        "text": "pukul brp batas wkt terakhir pick up grab same day?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9e89a247-a551-468b-a52d-c3c6f856fdf0",
+    "data": [
+      {
+        "text": "go-send instant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ed9574cb-1212-4131-883d-2caa3eabd8d8",
+    "data": [
+      {
+        "text": "batas waktu kirim gosend instan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8d05989b-0ea9-436e-9edf-53da64aaccd7",
+    "data": [
+      {
+        "text": "gojek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ac50bfb2-98be-4c22-864d-7acd8aa52a45",
+    "data": [
+      {
+        "text": "kurir ninja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "500b7a56-6790-4bae-860c-11c322a37106",
+    "data": [
+      {
+        "text": "saya sbh penjual.. apakah bisa pick up setelah pkl 15.00?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "99038678-81fa-4b1d-84b8-28a955a2975e",
+    "data": [
+      {
+        "text": "ham berapa terakhir pickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4b3a2321-3069-4be4-a1cf-faade4d1f9d9",
+    "data": [
+      {
+        "text": "Hi Toped, tanya, apakah ada batas waktu pick up untuk gojek instant delivery seperti halnya same day (15.30)? Txs ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7064a6ab-6048-4b7b-910a-1c0e12157f0e",
+    "data": [
+      {
+        "text": "drivernya lama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f85d2595-4fb0-4fcd-9dc5-07b244e4ee25",
+    "data": [
+      {
+        "text": "Informasi mengenai pengiriman via Instan courier. Cut off time pengiriman jam berapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

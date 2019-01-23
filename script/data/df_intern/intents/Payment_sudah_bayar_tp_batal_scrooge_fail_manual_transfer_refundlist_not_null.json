@@ -1,0 +1,43 @@
+{
+  "id": "53d7ee33-9588-4ad5-9e60-c692d582b555",
+  "parentId": "791ae1ec-aac9-4dbe-b4b0-3f1469eb28c1",
+  "rootParentId": "96f23e85-fae0-4896-8203-08e968aef1b9",
+  "name": "Payment_sudah_bayar_tp_batal_scrooge_fail_manual_transfer_refundlist_not_null",
+  "auto": true,
+  "contexts": [
+    "Payment_sudah_bayar_tp_batal_order_cancelled_scrooge_fail_manual_transfer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetRefundStatus",
+      "affectedContexts": [
+        {
+          "name": "Payment_sudah_bayar_tp_batal_scrooge_fail_manual_transfer_refundlist_not_null-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531450831,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "refund_list_is_not_null"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+[
+  {
+    "id": "35b72caa-7bb0-450e-a7fc-5eb17c4ff38d",
+    "data": [
+      {
+        "text": "dua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "97b7672f-d96f-407c-beec-e075d20e90a8",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f7e3e9d0-4a4f-499d-a93c-834f3d680f09",
+    "data": [
+      {
+        "text": "android",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d2290722-f7cc-48fa-949d-87cf9e8390e3",
+    "data": [
+      {
+        "text": "saya pakenya android",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b5d7640e-9dfc-4f42-97ae-3534ad56cdd9",
+    "data": [
+      {
+        "text": "oppo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "66a09fef-6fe4-4baa-9de5-9a95b5001537",
+    "data": [
+      {
+        "text": "xiaomi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c2385964-e1d7-4af3-96b5-ad1fb44d0dcc",
+    "data": [
+      {
+        "text": "samsung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fb8d356f-7700-450c-90c0-538127d1905d",
+    "data": [
+      {
+        "text": "OS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c6da2592-f5b8-4486-9c53-b5ee1d7dfdc3",
+    "data": [
+      {
+        "text": "Andro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

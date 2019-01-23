@@ -1,0 +1,56 @@
+{
+  "id": "77ad025f-7856-4907-b473-4d4bd71e52ae",
+  "parentId": "1a807b46-0b99-4b2c-b48c-ff2df9481fc9",
+  "rootParentId": "90b4ed65-34d8-4fd4-a8f8-c87e563d6528",
+  "name": "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_cashback_finished_without_resolution",
+  "auto": false,
+  "contexts": [
+    "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_cashback-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_cashback_finished_without_resolution-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9485ed15-6add-4720-a3f7-beed996f9a98",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "solution_id",
+          "value": "1420"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon menunggu sebentar ya, Kak :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped coba bantu buatkan tiketnya ya, Kak."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523506850,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "order_finished_without_in_resolution"
+    }
+  ]
+}

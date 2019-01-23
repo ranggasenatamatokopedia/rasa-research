@@ -1,0 +1,41 @@
+[
+  {
+    "id": "53bdbc47-f202-4fa7-bffd-e32ff84c0710",
+    "data": [
+      {
+        "text": "ekspres",
+        "alias": "layanan_kurir_reguler",
+        "meta": "@layanan_kurir_reguler",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "63de7eb4-c7b5-4ae1-a4ea-8816605e45ba",
+    "data": [
+      {
+        "text": "xpress",
+        "alias": "layanan_kurir_reguler",
+        "meta": "@layanan_kurir_reguler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9c04d2e2-5c8b-4ed3-b3b8-7b5f8ffb42a7",
+    "data": [
+      {
+        "text": "express",
+        "alias": "layanan_kurir_reguler",
+        "meta": "@layanan_kurir_reguler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

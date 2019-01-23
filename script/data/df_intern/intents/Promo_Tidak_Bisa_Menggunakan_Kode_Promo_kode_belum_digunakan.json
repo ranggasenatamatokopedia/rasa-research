@@ -1,0 +1,43 @@
+{
+  "id": "58a4e050-acaf-44de-9dab-4b09e710a6b1",
+  "parentId": "9a1e0a5d-c8a3-4870-8e72-42c7f2262113",
+  "rootParentId": "52ec60f4-3e96-4394-855f-4b7f7c4c5110",
+  "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_kode_belum_digunakan",
+  "auto": true,
+  "contexts": [
+    "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_kode_sudah_digunakan-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_kode_belum_digunakan-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon unggah screenshot notifikasi error yang kamu terima ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524474373,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "kode_promo_belum_digunakan"
+    }
+  ]
+}

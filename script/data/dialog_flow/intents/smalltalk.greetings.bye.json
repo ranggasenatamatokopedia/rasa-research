@@ -1,0 +1,33 @@
+{
+  "id": "8f1857ba-850a-4380-8d77-070c334698d0",
+  "name": "smalltalk.greetings.bye",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.greetings.bye",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Terima kasih sudah bertanya pada Toped. Semoga kedepannya Toped bisa membantu lebih banyak lagi :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504183892547,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "smalltalk_greetings_bye"
+    }
+  ]
+}

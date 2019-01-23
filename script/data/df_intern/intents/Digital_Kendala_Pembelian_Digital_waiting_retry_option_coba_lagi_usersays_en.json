@@ -1,0 +1,46 @@
+[
+  {
+    "id": "bd2c3d29-a268-4137-b05d-1dc0878c57ba",
+    "data": [
+      {
+        "text": "teruskan transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "958e42a8-52b0-4bc0-9d63-ddc27df281f4",
+    "data": [
+      {
+        "text": "dicoba lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5cb17a29-c26c-4192-ab98-b004470b1052",
+    "data": [
+      {
+        "text": "coba lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3a36ab74-0ebb-4715-94c1-7d4bc505eeb8",
+    "data": [
+      {
+        "text": "coba_lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

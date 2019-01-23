@@ -1,0 +1,46 @@
+[
+  {
+    "id": "8fba221d-81f5-4428-941b-e5eee993bac2",
+    "data": [
+      {
+        "text": "sukses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9ce5dfb3-c759-44e1-8c77-4f7f49fc3472",
+    "data": [
+      {
+        "text": "invoice sukses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b64f357e-ad04-454d-b21c-8a8fde154254",
+    "data": [
+      {
+        "text": "invoice_success",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "866e2dad-3fda-4913-ae1a-8f72c85d437a",
+    "data": [
+      {
+        "text": "success",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

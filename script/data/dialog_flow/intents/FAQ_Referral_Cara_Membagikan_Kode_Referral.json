@@ -1,0 +1,51 @@
+{
+  "id": "1bf6ca3f-3313-4b33-ad0a-00040aac0df1",
+  "name": "FAQ_Referral_Cara_Membagikan_Kode_Referral",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Referral_Cara_Membagikan_Kode_Referral-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a0766b2f-02f3-446a-babc-bdf654c90cec",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa membagikan kode Referral dengan langkah berikut:\n\n1. Login dan masuk ke halaman utama Aplikasi Tokopedia \n2. Klik Tombol Akun pada pojok kanan bawah\n3. Klik “Raih Cashback 20Rb”\n4. Klik “Bagikan Kode Referral” dan pilih salah satu icon media untuk berbagi, misalnya WhatsApp. Kemudian kirim ke Teman yang kamu pilih"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga info Toped membantu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_referral_cara_membagikan_kode_referral"
+    }
+  ]
+}

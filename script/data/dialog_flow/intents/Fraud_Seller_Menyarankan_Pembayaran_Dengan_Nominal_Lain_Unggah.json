@@ -1,0 +1,43 @@
+{
+  "id": "e6d87b43-178c-4e83-a8d3-627873be3d24",
+  "parentId": "e7ae5067-fc76-47fb-91aa-e559b0ac231a",
+  "rootParentId": "e7ae5067-fc76-47fb-91aa-e559b0ac231a",
+  "name": "Fraud_Seller_Menyarankan_Pembayaran_Dengan_Nominal_Lain_Unggah",
+  "auto": true,
+  "contexts": [
+    "Fraud_Seller_Menyarankan_Pembayaran_Dengan_Nominal_Lain-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Seller_Menyarankan_Pembayaran_Dengan_Nominal_Lain_Unggah-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Terima Kasih untuk bukti yang kamu lampirkan. Toped bantu buatkan tiketnya. Mohon menunggu."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539235005,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

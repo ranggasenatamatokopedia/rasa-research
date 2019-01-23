@@ -1,0 +1,43 @@
+{
+  "id": "4540192c-1ff9-419a-913b-a3f9d1d1d105",
+  "parentId": "4478aa0e-af0d-4751-abb1-3f22a0826119",
+  "rootParentId": "2f8cbeef-ace2-4920-b98a-19f47da047c4",
+  "name": "Fraud_Saya_Mendapat_Email_Melanggar_SNK_Select_Invoice_Digital_Success_Not_Fraud_False_Positive",
+  "auto": false,
+  "contexts": [
+    "Fraud_Saya_Mendapat_Email_Melanggar_SNK_Select_Invoice_Digital_Success_Not_Fraud-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Saya_Mendapat_Email_Melanggar_SNK_Select_Invoice_Digital_Success_Not_Fraud_False_Positive-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah Toped cek, transaksi tersebut tidak melanggar syarat dan ketentuan. Cashback juga telah diteruskan ke ovo point dan dapat digunakan untuk bertransaksi. "
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532070947,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "case_status_false_positive"
+    }
+  ]
+}

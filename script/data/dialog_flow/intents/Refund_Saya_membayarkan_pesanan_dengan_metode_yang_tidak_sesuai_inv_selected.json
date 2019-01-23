@@ -1,0 +1,43 @@
+{
+  "id": "5d9c0e62-cdd6-483f-b266-554c2e31597f",
+  "parentId": "f9ec542f-62a1-4f00-a77f-a5b3cb164296",
+  "rootParentId": "f9ec542f-62a1-4f00-a77f-a5b3cb164296",
+  "name": "Refund_Saya_membayarkan_pesanan_dengan_metode_yang_tidak_sesuai_inv_selected",
+  "auto": true,
+  "contexts": [
+    "Refund_Saya_membayarkan_pesanan_dengan_metode_yang_tidak_sesuai-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckInvoiceIsInstantPayment",
+      "affectedContexts": [
+        {
+          "name": "Refund_Saya_membayarkan_pesanan_dengan_metode_yang_tidak_sesuai_inv_selected-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek dulu ya, mohon tunggu sebentar :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523869432,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "select_invoice"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "3399c3b4-f589-411b-ac93-f6c41fba1a05",
+  "parentId": "47be2bd4-9225-4f46-99eb-835fbba83228",
+  "rootParentId": "e5ddb095-11e2-44d0-a686-c477add0deaf",
+  "name": "TokoPoints_Tidak_Dapat_Memainkan_Lucky_Egg_Tidak_Bisa_Ditekan_Belum_Tutup",
+  "auto": true,
+  "contexts": [
+    "TokoPoints_Tidak_Dapat_Memainkan_Lucky_Egg_Tidak_Bisa_Ditekan-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "TokoPoints_Tidak_Dapat_Memainkan_Lucky_Egg_Tidak_Bisa_Ditekan_Belum_Tutup-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "35128c04-6725-4a73-92da-a16242b41cca",
+          "required": false,
+          "dataType": "@sys.language",
+          "name": "language",
+          "value": "$language",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Coba tutup dulu aplikasi Tokopedia kamu, lalu buka lagi dan pecahkan Lucky Egg kamu serta dapatkan benefitnya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534390685,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,58 @@
+{
+  "id": "5ca81d2a-ac6a-408d-a3f1-4377b89624a9",
+  "parentId": "8e0e7501-8730-4a21-b3ec-40bf3f49d928",
+  "rootParentId": "feb54c5b-52cd-4135-8fbe-6ef49ccb8866",
+  "name": "Payment_nominal_bayar_tidak_sesuai_select_inv_wtp_scrooge_success_breach_6hr",
+  "auto": true,
+  "contexts": [
+    "Payment_nominal_bayar_tidak_sesuai_select_inv_wtp_scrooge_success-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Payment_nominal_bayar_tidak_sesuai_select_inv_wtp_scrooge_success_breach_6hr-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "36f4bc0a-ff89-4f34-8b83-66c1739ca7a0",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1506"
+        },
+        {
+          "id": "a3b1305a-43ab-45e1-94f4-3539d67ae508",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Payment_nominal_bayar_tidak_sesuai"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Baik, Toped buatkan tiket ya Kak, nanti akan dibantu cek sama temen Toped"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531708860,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "more_than_6hr"
+    }
+  ]
+}

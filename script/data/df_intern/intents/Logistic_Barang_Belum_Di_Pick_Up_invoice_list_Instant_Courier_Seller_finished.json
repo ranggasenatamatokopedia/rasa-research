@@ -1,0 +1,78 @@
+{
+  "id": "9614e64e-cceb-4ed5-bdb0-d19c31bc254d",
+  "parentId": "843b1180-85e0-4ca4-8914-f782413ed44d",
+  "rootParentId": "debdb44e-b23a-4c52-8626-59514944fd55",
+  "name": "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Seller_finished",
+  "auto": false,
+  "contexts": [
+    "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Seller-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Seller_finished-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "59a0b39b-8778-4726-8e37-a7b9e5c0c30b",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1358"
+        },
+        {
+          "id": "36298863-499e-433c-ab22-83ab4892583c",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Logistic_Barang_Belum_Di_Pick_Up_Saya_Kesulitan_Mencari_Driver"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai! Mohon maaf, pesanan kamu tidak bisa dilakukan retry pick up karena status pesanan sudah selesai."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Tapi jangan khawatir, Toped bantu buatkan tiket Layanan Pengguna guna pengecekan kendala kamu. Mohon tunggu sebentar :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513040943,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_selesai"
+    },
+    {
+      "name": "invoice_pesanan_telah_diterima"
+    },
+    {
+      "name": "invoice_bounce_back"
+    },
+    {
+      "name": "invoice_finished_refund_voucher"
+    },
+    {
+      "name": "invoice_refund"
+    },
+    {
+      "name": "invoice_bad_order"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "7ff85876-5681-43cb-acca-ad4c01680c9f",
+  "parentId": "671b2d35-2c77-4772-8460-7f92a913d33e",
+  "rootParentId": "b5d703e5-b4ee-4716-a78d-6a74da4e1538",
+  "name": "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Seller_Verified_Process_On_Demand",
+  "auto": true,
+  "contexts": [
+    "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Seller_Verified_Process-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Seller_Verified_Process_On_Demand-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2bfa713c-890f-4df3-85af-726fc2059930",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1351",
+          "isList": false
+        },
+        {
+          "id": "0aa95c9b-7087-4c9e-8d35-edb47815f30a",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Logistic_Salah_Alamat_Atau_Pin_Point",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu sebentar ya, Toped akan bantu buatkan tiket Layanan Pengguna untuk dicek lebih lanjut dan informasi selanjutnya akan dikirim lewat email :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546424747,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "courier_type_is_on_demand"
+    }
+  ]
+}

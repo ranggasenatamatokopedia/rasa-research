@@ -1,0 +1,43 @@
+{
+  "id": "7165beee-5c0e-40a2-b06b-73884a08ecb4",
+  "parentId": "d2c37f3a-76c9-42b6-8fd7-e184557f83eb",
+  "rootParentId": "36de46a2-13d2-4f09-9ff4-8abcbcb54ba3",
+  "name": "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Buyer_Rejected_Pending",
+  "auto": true,
+  "contexts": [
+    "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Buyer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Buyer_Rejected_Pending-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pesanan kamu saat ini sedang dicarikan produk penggantinya lewat fitur peluang. Boleh tunggu dulu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533891394,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_pencarian_barang_pengganti"
+    }
+  ]
+}

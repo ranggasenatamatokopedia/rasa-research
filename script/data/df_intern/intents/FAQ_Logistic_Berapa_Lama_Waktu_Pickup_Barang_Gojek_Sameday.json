@@ -1,0 +1,46 @@
+{
+  "id": "bdbcc854-486f-4fe4-a339-57b60a9b68d8",
+  "parentId": "59fc613a-f00f-4ba3-9b88-3e03c7e32ac6",
+  "rootParentId": "71a33cbf-81d5-44bf-a8e3-e4ab7880b670",
+  "name": "FAQ_Logistic_Berapa_Lama_Waktu_Pickup_Barang_Gojek_Sameday",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Berapa_Lama_Waktu_Pickup_Barang_Gojek-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FAQ_Logistic_Berapa_Lama_Waktu_Pickup_Barang_Gojek.FAQ_Logistic_Berapa_Lama_Waktu_Pickup_Barang_Gojek-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cbbeb659-cc42-40e1-8ef4-4581c1c4b116",
+          "required": false,
+          "dataType": "@layanan_kurir_pick_up",
+          "name": "layanan_kurir_pick_up",
+          "value": "$layanan_kurir_pick_up",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk Same Day, estimasi waktu penjemputan oleh kurir adalah 3 jam setelah penjual  melakukan permintaan pick-up."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528326671,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "sameday"
+    }
+  ]
+}

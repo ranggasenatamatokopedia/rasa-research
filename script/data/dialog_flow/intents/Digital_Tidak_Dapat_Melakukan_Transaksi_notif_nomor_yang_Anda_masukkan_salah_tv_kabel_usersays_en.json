@@ -1,0 +1,68 @@
+[
+  {
+    "id": "aaca270d-0aa1-4166-8956-268d37996338",
+    "data": [
+      {
+        "text": "tv",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "56056327-55c7-4d35-a7fb-0e0010d235b8",
+    "data": [
+      {
+        "text": "cable",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9cc73e8a-f52d-46bf-b744-2f2ef3b797c9",
+    "data": [
+      {
+        "text": "Tv Kabel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4e0425ce-439f-4720-99e1-e65ef68d1bff",
+    "data": [
+      {
+        "text": "kabel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "12db0cb3-05e0-44c8-928d-08d21bd0c1f3",
+    "data": [
+      {
+        "text": "tv cable",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "62d5ba5f-b8fd-459b-9ef9-3b65a840d5c6",
+    "data": [
+      {
+        "text": "cable tv",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

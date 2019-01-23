@@ -1,0 +1,48 @@
+{
+  "id": "8d5f3b82-4540-4be2-8d26-2fa3342dcaff",
+  "parentId": "5552fa51-7a13-4f1c-944d-faf0a5f1c9c6",
+  "rootParentId": "b3e075f6-aae4-44df-ad4e-bea75b498908",
+  "name": "KAI_Kendala_Pembelian_Tiket_Kereta_paid_pending_in_SLA",
+  "auto": false,
+  "contexts": [
+    "KAI_Kendala_Pembelian_Tiket_Kereta_paid_pending-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "KAI_Kendala_Pembelian_Tiket_Kereta_paid_pending_in_SLA-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Saat ini pemesanan tiket kereta kamu masih dalam proses. Boleh tunggu maksimal 1 jam dari pembayaran terverifikasi ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Cek berkala juga pada \"Daftar Transaksi Kereta Api\" kamu untuk mengetahui perkembangan informasinya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539333316,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "in_sla"
+    }
+  ]
+}

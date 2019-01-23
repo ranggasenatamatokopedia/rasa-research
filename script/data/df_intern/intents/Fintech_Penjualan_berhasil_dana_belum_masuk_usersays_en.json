@@ -1,0 +1,194 @@
+[
+  {
+    "id": "17d1b9c1-3ec4-4f3f-b777-3a9b190b6ce9",
+    "data": [
+      {
+        "text": " penjualan reksadana ",
+        "userDefined": false
+      },
+      {
+        "text": "dr kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kok blm masuk.. Trimakasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fb1f25cf-eb63-4716-9f1c-cafc8ddc5eb0",
+    "data": [
+      {
+        "text": " penjualan emas ",
+        "userDefined": false
+      },
+      {
+        "text": "dr kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kok blm masuk.. Trimakasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2a7afa8b-af49-44ea-baa5-ec99ac0e1502",
+    "data": [
+      {
+        "text": "emas reksa dana di jual dana belum masuk ke rekening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "44b3853d-5175-4d88-84a8-04c06955d9ff",
+    "data": [
+      {
+        "text": "reksa dana di jual dana belum masuk ke rekening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4796c9a4-d29e-4fa3-bfde-43c656d70cfd",
+    "data": [
+      {
+        "text": "Kenapa dana jual reksa saya belum masuk ke ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo tokopedia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8f7536f3-17ad-435d-a21d-efe7e4f75a0c",
+    "data": [
+      {
+        "text": "Kenapa dana jual emas saya belum masuk ke ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo tokopedia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ca1adb9e-4cc2-4dd7-8ce5-18097a80bad7",
+    "data": [
+      {
+        "text": " Sy udah jual reksa emas tp uang blm msuk kerekening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "78128db3-bd22-42aa-bed3-1fcda9db3650",
+    "data": [
+      {
+        "text": " Transaksi penjualan emas berhasil namun dana belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7a28ceee-3085-4350-be5d-4ef9d6874208",
+    "data": [
+      {
+        "text": "Saya ada melakukan penjualan reksa dana tapi dana nya blm saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5584a9cb-7b31-4e14-9707-1fea03ebd0a4",
+    "data": [
+      {
+        "text": " Saya sudah melakukan penjualan reksa dana dan berhasil tapi dana di ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo tokopedia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "masih",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 0.mohon penjelasannya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b6747edd-96a2-4e3e-8bb1-5db34223d116",
+    "data": [
+      {
+        "text": "Penjualan berhasil namun dana belum masuk ke ",
+        "userDefined": false
+      },
+      {
+        "text": "TokoCash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Saldo Tokopedia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1260474a-2ac8-4dcc-9f30-74fb03ebc9a8",
+    "data": [
+      {
+        "text": "Uang penjualan belum masuk juga, padahal status berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

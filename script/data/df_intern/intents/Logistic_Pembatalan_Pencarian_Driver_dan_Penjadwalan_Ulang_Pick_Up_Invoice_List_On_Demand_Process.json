@@ -1,0 +1,46 @@
+{
+  "id": "fde1f29a-551c-4205-8fd3-0e700c701a95",
+  "parentId": "e34e6067-39f2-4155-888b-91af1ef33ae2",
+  "rootParentId": "25f8caf5-22b1-4b7d-8704-24a6da37b244",
+  "name": "Logistic_Pembatalan_Pencarian_Driver_dan_Penjadwalan_Ulang_Pick_Up_Invoice_List_On_Demand_Process",
+  "auto": true,
+  "contexts": [
+    "Logistic_Pembatalan_Pencarian_Driver_dan_Penjadwalan_Ulang_Pick_Up_Invoice_List_On_Demand-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Pembatalan_Pencarian_Driver_dan_Penjadwalan_Ulang_Pick_Up_Invoice_List_On_Demand_Process-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek kamu sedang memproses pesanan. Jika pesanan sudah siap dikirim, silakan kamu lakukan konfirmasi pengiriman :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546423284,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_sedang_diproses_penjual"
+    },
+    {
+      "name": "invoice_barang_diganti"
+    }
+  ]
+}

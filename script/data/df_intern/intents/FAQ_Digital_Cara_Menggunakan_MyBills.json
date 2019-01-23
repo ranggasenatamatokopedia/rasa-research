@@ -1,0 +1,42 @@
+{
+  "id": "a1390a90-d72a-4e1c-be50-ea33f111b347",
+  "name": "FAQ_Digital_Cara_Menggunakan_MyBills",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Digital_Cara_Menggunakan_MyBills-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu dapat menggunakan MyBills dengan cara:\n1. Kamu bisa menggunakan Apps dan akses halaman MyBills. Kemudian klik \"Tambah Pembayaran Baru\" jika kamu membayar tagihan.\n2. Pilih produk yang ingin dibayar secara langganan, masukkan nomor pelanggan atau nomor telepon yang bersangkutan\n3. Masukkan informasi pembayaran secara lengkap\n4. Klik \"Aktifkan Auto Debit\" untuk mengaktifkan fitur Auto Debet\n5. Pilih tanggal dimulainya Auto Debet sesuai dengan tanggal yang kamu inginkan untuk mendapat tagihan\n6. Pilih metode Auto Debet (TokoCash atau Kartu Kredit)\n7. Klik \"Simpan\""
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Selamat mencoba ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_digital_cara_menggunakan_mybills"
+    }
+  ]
+}

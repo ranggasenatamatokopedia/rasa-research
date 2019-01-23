@@ -1,0 +1,48 @@
+{
+  "id": "602af5a1-c22a-421a-a502-f8ff7e954180",
+  "parentId": "7f3ce9b4-d5ac-4155-857c-fdd60897f3a6",
+  "rootParentId": "b3e075f6-aae4-44df-ad4e-bea75b498908",
+  "name": "KAI_Kendala_Pembelian_Tiket_Kereta_scrooge_expired_or_failed_tokocash_refund_on_progress",
+  "auto": false,
+  "contexts": [
+    "KAI_Kendala_Pembelian_Tiket_Kereta_scrooge_expired_or_failed_tokocash_refund_exist-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "KAI_Kendala_Pembelian_Tiket_Kereta_scrooge_expired_or_failed_tokocash_refund_on_progress-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Saat ini, dana kamu sedang dalam proses pengembalian ke TokoCash. Coba cek berkala selama 1x24 jam ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga informasi Toped membantu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539579225,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "refund_status_on_progress"
+    }
+  ]
+}

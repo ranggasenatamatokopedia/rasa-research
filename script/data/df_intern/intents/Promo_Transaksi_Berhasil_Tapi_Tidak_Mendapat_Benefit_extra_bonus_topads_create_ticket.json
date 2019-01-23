@@ -1,0 +1,51 @@
+{
+  "id": "2ba72ecb-ece1-40ab-ab6b-a9c70eba9d96",
+  "parentId": "90d5a3e0-9bc1-485d-b530-7fd3e2fc8053",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Transaksi_Berhasil_Tapi_Tidak_Mendapat_Benefit_extra_bonus_topads_create_ticket",
+  "auto": false,
+  "contexts": [
+    "Promo_Transaksi_Berhasil_Tapi_Tidak_Mendapat_Benefit_extra_bonus_topads_pilih_invoice-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "09c36c6e-540e-4811-9d35-46f9dc6f584c",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1082",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon menunggu sebentar ya, Kak :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped coba bantu buatkan tiketnya ya, Kak."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523275758,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "select_invoice"
+    }
+  ]
+}

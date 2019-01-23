@@ -1,0 +1,48 @@
+{
+  "id": "662992cf-67c0-43bc-95a5-651ea3820759",
+  "parentId": "3a5f2ee0-dc0d-46c6-99c4-1d20535ae23e",
+  "rootParentId": "d19f77a0-9fc1-4329-9b8c-1f9cb2ed3084",
+  "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_In_Resolution",
+  "auto": true,
+  "contexts": [
+    "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_In_Resolution-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah Toped cek, Pesanan ini sedang di Pusat Resolusi ya. Pembeli dan Penjual bisa mengkomunikasikan kendala pesanan secara langsung di Pusat Resolusi."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika memerlukan bantuan, kamu bisa klik tombol \"Bantuan\" melalui akun Tokopedia kamu. Semoga kendalanya segera terselesaikan ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541140892,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_pesanan_dikomplain"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "459d0211-4867-4a45-9c60-59d972eaf3ca",
+  "parentId": "e6486eb9-98e2-4a63-9ec9-23b44bfb9c74",
+  "rootParentId": "531bada3-61be-44f9-9ccf-a308436b6e0f",
+  "name": "Flash_Sale_Harga_Dibeli_Berbeda_Dengan_Harga_Coret_Sudah_Checkout_Invoice_Product_FS_Not_In",
+  "auto": true,
+  "contexts": [
+    "Flash_Sale_Harga_Dibeli_Berbeda_Dengan_Harga_Coret_Sudah_Checkout_Invoice_Product_FS-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Flash_Sale_Harga_Dibeli_Berbeda_Dengan_Harga_Coret_Sudah_Checkout_Invoice_Product_FS_Not_In-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah Toped cek, kamu membeli produk tersebut diluar waktu Flash Sale yang ditentukan, sehingga harga produk yang kamu dapatkan berbeda dengan harga saat Flash Sale."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kedepannya, pastikan segera checkout saat Flash Sale masih berjalan ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535709619,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "is_not_in_fs_time_frame"
+    }
+  ]
+}

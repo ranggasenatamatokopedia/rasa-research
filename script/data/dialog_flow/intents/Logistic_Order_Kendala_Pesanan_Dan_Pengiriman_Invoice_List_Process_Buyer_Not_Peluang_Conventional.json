@@ -1,0 +1,48 @@
+{
+  "id": "3e81d9ea-13df-40c6-ac05-c4d7ec810d2e",
+  "parentId": "5b1759e2-9233-474b-bff7-6c18a7f57faf",
+  "rootParentId": "d19f77a0-9fc1-4329-9b8c-1f9cb2ed3084",
+  "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Process_Buyer_Not_Peluang_Conventional",
+  "auto": true,
+  "contexts": [
+    "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Process_Buyer_Not_Peluang-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Process_Buyer_Not_Peluang_Conventional-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Saat ini order kamu masih menunggu untuk dikirim. Penjual punya waktu 2x24 jam di hari kerja untuk memproses dan mengirimkan pesanan kamu, terhitung sejak pesanan kamu terverifikasi."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Lebih dari batas waktu itu, pesanan akan otomatis batal dan dana kamu akan dikembalikan ke Saldo Tokopedia/Limit Kartu Kredit. Sebagai tambahan info, Toped tidak bisa membatalkan pesanan yang sudah diproses penjual. Kamu bisa hubungi penjual ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541387573,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "courier_type_is_conventional"
+    }
+  ]
+}

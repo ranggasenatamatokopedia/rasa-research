@@ -1,0 +1,43 @@
+{
+  "id": "208c6817-fe72-4eea-b027-38aa9ab4b51e",
+  "parentId": "7a7d1807-4382-4bf0-8163-294e4050023d",
+  "rootParentId": "440cef8c-a263-47ad-b658-e035da03a8e0",
+  "name": "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_tagihan_cc_bank_BNI",
+  "auto": false,
+  "contexts": [
+    "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_inquiry_found_tagihan_cc-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_tagihan_cc_bank_BNI-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pembayaran tagihan Kartu Kredit kamu sudah berhasil pada #bank_BNI.time_success. Beri tahu Toped nama pemilik Kartu Kredit ini ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534230819,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "bank_BNI"
+    }
+  ]
+}

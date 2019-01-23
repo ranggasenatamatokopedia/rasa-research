@@ -1,0 +1,27 @@
+{
+  "id": "ad946c38-7863-4d8a-bc3d-f9ff53f5a1c7",
+  "name": "FAQ_Merchant_Bagaimana_Jika_Kembali_Menemukan_Produk_Melanggar_Hak_Merek",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Penghapusan produk hanya dilakukan sesuai link yang kamu laporkan. Kalau menemukan produk lain yang juga melakukan pelanggaran hak merk, kamu bisa mengisi form !TKPD_URL_PELAPORAN_HAK_MEREK! dan melakukan pelaporannya kembali."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,69 @@
+{
+  "id": "7f22e8f9-1265-4d8f-be7b-2077a4d5c2c2",
+  "parentId": "e5a3a3eb-0e1d-4a2c-aeaf-0eb015acc951",
+  "rootParentId": "96f23e85-fae0-4896-8203-08e968aef1b9",
+  "name": "Payment_sudah_bayar_tp_batal_order_status_else",
+  "auto": true,
+  "contexts": [
+    "Payment_sudah_bayar_tp_batal_order_status-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Payment_sudah_bayar_tp_batal_order_status_else-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek, transaksi ini tidak dibatalkan kok, Kak."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon pastikan terlebih dahulu ya Kak transaksinya memang sudah benar dibatalkan atau belum."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531469373,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_selesai"
+    },
+    {
+      "name": "invoice_pembayaran_diterima"
+    },
+    {
+      "name": "invoice_sedang_diproses_penjual"
+    },
+    {
+      "name": "invoice_sedang_dikirim"
+    },
+    {
+      "name": "invoice_pesanan_sampai"
+    },
+    {
+      "name": "invoice_pesanan_dikomplain"
+    },
+    {
+      "name": "invoice_menunggu_status_kurir"
+    },
+    {
+      "name": "invoice_pesanan_ditolak_penjual"
+    }
+  ]
+}

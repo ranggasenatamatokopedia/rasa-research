@@ -1,0 +1,41 @@
+{
+  "id": "29446bd1-42d5-4f0c-969d-08173d3fc3ff",
+  "name": "FAQ_OVO_tidak_bisa_menghubungkan_akun_Tokopedia_dengan_OVO",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika Kamu mempunyai aplikasi OVO sebelumnya, pastikan nomor handphone yang terdaftar pada aplikasi OVO sama dengan yang terdaftar di Tokopedia."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Apabila Kamu pengguna baru OVO, silahkan aktifkan OVO dengan mengikuti panduan berikut:\n1. Login ke akun Tokopedia Kamu, lalu klik Tombol Aktifkan OVO. \n2. Aktivasi OVO akan otomatis menggunakan nomor handphone yang terdaftar di akun Tokopedia Kamu, Isi formulir Pendaftaran.\n3. Masukkan Kode OTP dan registrasi PIN OVO Kamu."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mungkin karena OVO sudah terhubung ke maksimal akun Tokopedia. Cek pada halaman OVO di akun Tokopedia lainnya yang terhubung dan non aktifkan salah satunya terlebih dahulu."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_ovo_tidak_bisa_menghubungkan_akun_tokopedia_dengan_ovo"
+    }
+  ]
+}

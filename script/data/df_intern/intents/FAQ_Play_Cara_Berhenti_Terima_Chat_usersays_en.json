@@ -1,0 +1,493 @@
+[
+  {
+    "id": "2766c16e-d082-4602-a2e3-bbc9c39dd131",
+    "data": [
+      {
+        "text": "jangan ",
+        "userDefined": false
+      },
+      {
+        "text": "chat2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d2588ca1-9285-424f-b23b-bea51ff9042c",
+    "data": [
+      {
+        "text": "jangan ",
+        "userDefined": false
+      },
+      {
+        "text": "chat2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b3291ea1-0237-4546-9e90-ff8916423eec",
+    "data": [
+      {
+        "text": "stop chat saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ca5e3a62-ce78-40db-ada5-b33698ed1e82",
+    "data": [
+      {
+        "text": "berhentikan chat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "92036e8a-d4c4-4877-919d-209ebeffa5f2",
+    "data": [
+      {
+        "text": "berhentikan fitur chat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3f6e8ee7-e197-4d57-801d-63806b46f450",
+    "data": [
+      {
+        "text": "chatnya distop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4ca03842-47bf-4871-b8d6-68ba8e17f5aa",
+    "data": [
+      {
+        "text": "chatnya di stop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d6c94220-e5d0-4fb1-afc0-40fdaa36a9e5",
+    "data": [
+      {
+        "text": "stop terima chat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3422d790-2e5d-4dca-987f-b0e9275a8855",
+    "data": [
+      {
+        "text": "tolong stopin chat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "91160642-eabc-4eeb-8f31-da3b56555d9a",
+    "data": [
+      {
+        "text": "cara stop chat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6b16bbb9-0e70-45c5-bbb4-2b501b32b43f",
+    "data": [
+      {
+        "text": "ilangin chat dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "94baabec-833b-4b4f-a8ae-c465fa702da9",
+    "data": [
+      {
+        "text": "berhentiin chat dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1603e1e9-02c6-412c-8bac-cc67698e0834",
+    "data": [
+      {
+        "text": "saya gamau terima chat lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ada4fda2-d248-4534-bf53-165fccc424b3",
+    "data": [
+      {
+        "text": "tolong berentiin chat saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c214c7c4-737a-482a-8773-9ad4e5208a09",
+    "data": [
+      {
+        "text": "cara hentikan chat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4d4cdae2-83eb-44f5-97b4-570705173caa",
+    "data": [
+      {
+        "text": "cara berhenti terima chat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dbbb3cc6-bb97-4aff-86eb-f578ebe07139",
+    "data": [
+      {
+        "text": "Chat dari tokopedia tentang acara play sangat mengganggu, matiin!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f477454b-aeb9-4a1d-ad6f-eadfe4a6c4a3",
+    "data": [
+      {
+        "text": "Chat promosi dari toped ganggu bgt, matiin dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5e0a83e6-3950-4243-9ddc-3bf3e8c9874b",
+    "data": [
+      {
+        "text": "Saya gamau lagi terima chat pomosi dari tokopedia, cepetan matiin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bb52ba5f-b92e-4c5b-89c0-8aee97422ed9",
+    "data": [
+      {
+        "text": "Cara ilangin fitur chat dari toped gimana ya? Ngeganggu banget deh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ba9c638d-ce9b-4fae-89d2-d6b7639e98b9",
+    "data": [
+      {
+        "text": "chat dari toped sangat ganggu, gimana cara matiinnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "00d84b85-db3c-4a87-946a-284bd172c51f",
+    "data": [
+      {
+        "text": "ganggu banget ini chat promosi dari tokopedia ttg play, tolong matiin ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f7f98230-dfef-4911-9bd7-2745308acf5f",
+    "data": [
+      {
+        "text": "saya keganggu bgt nerima iklan mulu dari toko ini, matiin dong chat otomatisnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8443ae46-32d0-4034-8f13-19e235c1f56f",
+    "data": [
+      {
+        "text": "saya merasa terganggu menerima chat dari toko ini, tolong di matiin dong chat otomatisnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "af9cdac4-c210-4432-98fc-9a62ca4309ff",
+    "data": [
+      {
+        "text": "Kalo saya mau ilangin chat dari tokopedia gimana ya caranya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d1cfedd0-ff5f-452c-a50c-5ef32a2a19e8",
+    "data": [
+      {
+        "text": "Cara ilangin chat dari toped giimana ya caranya? Ganggu banget nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "70c6b4a1-f304-4a3e-8836-1efcf34a06da",
+    "data": [
+      {
+        "text": "Chat dari toped ini sangat mengganggu sekali, gimana cara ilanginnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c67651d2-88b2-497d-b326-23e656c8b3f6",
+    "data": [
+      {
+        "text": "Gimana ilangin promosi chat dari toped?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b7838516-5584-4186-acb5-96d728cda2c1",
+    "data": [
+      {
+        "text": "Caranya gimana ya matiin chat dari toped ttg play ini? Ganggu bgt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a0c78b0a-48f6-41d4-a05f-fa813285ac59",
+    "data": [
+      {
+        "text": "Ngeganggu banget ini chat dari tokopedia, gimana matiinnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "74943794-f58a-4aa5-bbbd-14a3ce884133",
+    "data": [
+      {
+        "text": "Cara ilangin fitur chat dari tokopedia gimana ya? Ngeganggu banget deh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7c3594dc-9490-4eed-bec3-d2734ef3c279",
+    "data": [
+      {
+        "text": "Gimana ya caranya ilangin fitur chat dari tokopedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ea75bd76-962e-40aa-b951-35d78c4c1524",
+    "data": [
+      {
+        "text": "Ini apaansih masuk mulu chat dari toped buat fitur play? Ganggu banget",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d9d50ec6-77b8-4948-9d50-662dc4618d68",
+    "data": [
+      {
+        "text": "Chat promosi dari toped mau saya matiin gimana ya caranya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cf937cc5-70c4-480a-a54d-d8a420d70c53",
+    "data": [
+      {
+        "text": "Ini apaansih chat dari tokopedia tentang play ini, ganggu!!!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b245103e-86cb-4550-9b05-cc3fa0f2ffdd",
+    "data": [
+      {
+        "text": "Cara matiin chat yang di kirim sama tokopedia gimana ya caranya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "184e2c94-bd34-45be-8ec0-b90a48910dd6",
+    "data": [
+      {
+        "text": "Gimana sih caranya kalo saya mau matiin auto chat dari tokopedia? Mengganggu sekali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c89b877c-6c89-41b4-ad09-560a398a0f3f",
+    "data": [
+      {
+        "text": "Gimana sih kalo mau matiin fitur chat dari tokopedia? Saya gak pingin ikutan play",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "53ac73b5-ef60-4915-8f43-0633d96e42cb",
+    "data": [
+      {
+        "text": "Cara matiin pesan yang di kirim tokopedia tentang net play ini gimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "841c324a-dff5-4ea7-96a2-67d8c5b64c6a",
+    "data": [
+      {
+        "text": "Cara hilangin chat dari tokopedia ttg play atau promosi ini gimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "87e082e8-3179-4e2d-bc93-b622af79d0f0",
+    "data": [
+      {
+        "text": "Cara matiin chat dari tokopedia tentang play net play ini gimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f055f5ea-008f-4894-981e-9677c7d45d37",
+    "data": [
+      {
+        "text": "Chat dari tokopedia ttg play ini sungguh mengganggu, gimana cara matiinnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "78fa581b-d5c1-4854-b592-563816c11693",
+    "data": [
+      {
+        "text": "Chat tentang play ini sangat mengganggu, gimana cara matiin chat nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

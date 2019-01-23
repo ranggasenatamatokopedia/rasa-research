@@ -1,0 +1,263 @@
+[
+  {
+    "id": "bf07c53c-010a-4105-9655-42cb798bf16e",
+    "data": [
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " otomatis tapi mau ngirim lewat agen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f4154af6-a407-4c4e-8279-bde7315c27f4",
+    "data": [
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " otomatis kirimnya di agen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9052a8e5-a4a6-406f-9c0c-cf9591a52e45",
+    "data": [
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " otomatis tapi kirim di agen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "43571653-4fe4-4957-821c-8fc05c897941",
+    "data": [
+      {
+        "text": "saya mau kirim di agen tapi pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a740b906-9922-42e2-9708-33f21ba92376",
+    "data": [
+      {
+        "text": "saya mau pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " otomatis tapi ga pake driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1b9e95c8-8d77-4da1-89c6-f5039c3b624b",
+    "data": [
+      {
+        "text": "mau kirim ke agen tapi pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " otomatis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ab1700ee-9b05-4e11-b9de-ac32004ef8e6",
+    "data": [
+      {
+        "text": "pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " otomatis tapi kirim diagen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "179e30e2-9e3f-47d4-b473-7c565070940d",
+    "data": [
+      {
+        "text": "mau kirim langsung aja tapi pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " otomatis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e370d786-2ae6-4df0-8bbf-32ab01c62704",
+    "data": [
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kirimnya di agen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "edfbe187-f7e2-4058-9e68-25dc324be9d1",
+    "data": [
+      {
+        "text": "pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi kirim di agen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "777e0e48-f3ae-4bcf-b8a1-30ee0e93c73e",
+    "data": [
+      {
+        "text": "ini gimana ya saya mau kirim di agen tapi pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7b84da2b-8702-4c4d-b81e-67a341ccfb28",
+    "data": [
+      {
+        "text": "saya mau tetep ke agen namun menggunakan fitur ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", apakah bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

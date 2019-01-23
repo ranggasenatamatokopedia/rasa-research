@@ -1,0 +1,54 @@
+{
+  "id": "108b800a-b334-4a5d-9791-945d2836685a",
+  "parentId": "2fc7fdf6-b728-49d2-be64-2e466e19c22c",
+  "rootParentId": "e1fd67c7-5a72-4184-9a6c-bda4c6e61524",
+  "name": "Logistic_Pengiriman_Tidak_Tersedia_As_Buyer_Address_Product",
+  "auto": true,
+  "contexts": [
+    "Logistic_Pengiriman_Tidak_Tersedia_As_Buyer_Address_Recent_View-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Pengiriman_Tidak_Tersedia_As_Buyer_Address_Product-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Beri tahu Toped ya, jenis kurir apa yang mau kamu gunakan?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Reguler",
+              "Pick Up"
+            ],
+            "type": 1
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534237000,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "selected_data"
+    }
+  ]
+}

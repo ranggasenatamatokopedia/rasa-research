@@ -1,0 +1,801 @@
+[
+  {
+    "id": "27fe1ce9-85cb-40bd-bee0-ea86fefc01cc",
+    "data": [
+      {
+        "text": "Group chat apa ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? Gimana mainnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bbfae0a2-30ca-49ef-9de7-a5027ad3b0e7",
+    "data": [
+      {
+        "text": "apa saja isi play",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6461a8aa-dda9-4c15-a5cf-8386455d8709",
+    "data": [
+      {
+        "text": "Group chat itu apaya min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "231a5e9f-4905-466c-a5d8-fde390b6c257",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya mau tanya, Group chat itu apa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1d5aca71-2b24-4802-9327-ef3524e8f784",
+    "data": [
+      {
+        "text": "Group chat apasih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "21408c2d-87bb-47bd-9e80-99e87e20b62a",
+    "data": [
+      {
+        "text": "Group chat apaansih? Baru ya itu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6c2f6360-85a7-40f7-8c59-626af994f2b0",
+    "data": [
+      {
+        "text": "Min, itu apaan Group chat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "16878e9a-cab1-403f-82d1-dc7569346e1f",
+    "data": [
+      {
+        "text": "Apaan sih min Group chat itu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "170cc554-c3dd-412d-862f-586a6568712d",
+    "data": [
+      {
+        "text": "Min, Group chat itu apa sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d054f2bf-5e8e-4bda-be15-32e5790d3afb",
+    "data": [
+      {
+        "text": "Group chat apaan itu min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "556f42bb-a497-48ff-9b13-eebe8217e78b",
+    "data": [
+      {
+        "text": "Group chat apaan ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ed19e781-f947-4bcf-a7b3-dba5bde3520c",
+    "data": [
+      {
+        "text": "Min, nanya dong, Group chat apaansih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "31283557-26f5-43d8-853f-b8c19ddab7c9",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", sy mau tanya Group chat itu apaansih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "062ab4e4-97ec-4bc1-a302-afd67166af3a",
+    "data": [
+      {
+        "text": "Group chat apaansih min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0e68c4f8-dd3f-4215-ada1-157520c308cb",
+    "data": [
+      {
+        "text": "Group chat apa min? Kok saya baru denger",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e2f30549-2636-4d79-b736-6dd22aaf93ee",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya mau tanya Group chat itu apa sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5db19723-d58a-45b1-882d-b9650ccdbe0f",
+    "data": [
+      {
+        "text": "Group chat itu apa sih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c640a7e7-f8cc-4d79-8d7a-a6dcf917cfe5",
+    "data": [
+      {
+        "text": "Group chat apaan dah min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "55e9e050-58ce-4eb0-846a-8b1f8bec83bf",
+    "data": [
+      {
+        "text": "Group chat apaan min? Saya kok gak tau ya sebelumnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f971d3b5-e51f-4c33-b30e-3600312f93d6",
+    "data": [
+      {
+        "text": "play itu apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1dd91a26-9db2-4bd0-8072-cb6a2990a901",
+    "data": [
+      {
+        "text": "Apaan sih Group chat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bffded7b-8dee-468d-a4d3-1085ad228f02",
+    "data": [
+      {
+        "text": "apa itu play",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fe7a30a6-f6ac-4920-be04-a8df2733ceca",
+    "data": [
+      {
+        "text": "Min, sy mau tanya Group chat itu apasih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "881986a9-9cdd-4351-b929-a314958e3b86",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya mau tanya Group chat itu apaan sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2a04048e-967b-4ec1-816e-fca350b32dbb",
+    "data": [
+      {
+        "text": "Group chat apa ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? Kok saya baru tau deh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9542d318-f64b-4f73-950d-f7020b433c70",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", itu Group chat maksudnya apaan ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7ef583b9-6528-4382-83cd-5648e0625a45",
+    "data": [
+      {
+        "text": "Apaan deh min Group chat itu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "38a8dfff-909b-44a0-93dc-59055db9d9e4",
+    "data": [
+      {
+        "text": "Group chat itu apa ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d2cd4d05-9384-4d93-a97d-e1fc88f59cda",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", sy mau tanya dong, Group chat itu apaan ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3bf5a7b9-2ff6-4d52-9772-1475d343f76e",
+    "data": [
+      {
+        "text": "Apaan deh min Play itu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "399bae09-6d9d-4c18-a4cc-514f9b813270",
+    "data": [
+      {
+        "text": "Play itu apa sih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "771691a9-124a-4ebb-8e0d-bc18f71f8303",
+    "data": [
+      {
+        "text": "Play apaan ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? Saya kok gak tau ya sebelumnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "92caaaaa-24ea-47d5-8df8-3b746247371a",
+    "data": [
+      {
+        "text": "Play apaan dah min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "34747b3f-1849-480c-85ae-859a0f307131",
+    "data": [
+      {
+        "text": "Play apa ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? Kok saya baru denger",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4619ec3c-eb99-4be0-9bca-44e1f143fad4",
+    "data": [
+      {
+        "text": "Min saya mau tanya, Play itu apa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6d3816af-e95c-4a09-a956-1ae5cf6346f5",
+    "data": [
+      {
+        "text": "Play apaansih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bf6a1986-e13b-48b4-947b-e474cd34f889",
+    "data": [
+      {
+        "text": "Play apasih min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6060f499-7bff-46c2-9575-c314b3b6c804",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", itu apaan Play?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aa6db26a-be02-4d24-939e-f3aceb8e24f2",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya mau tanya Play itu apa sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4e9aa8fc-1e24-4be4-9872-3132db6c8b49",
+    "data": [
+      {
+        "text": "Play itu apaya min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "32bcdc4a-7ea2-4277-9cd1-a5f824853274",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", itu Play maksudnya apaan ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3d82ec91-b7e6-499b-93b5-d96ee106a649",
+    "data": [
+      {
+        "text": "Play apaan itu ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "61a81807-3721-4aba-99f0-6fd4362c163d",
+    "data": [
+      {
+        "text": "Play apa min? Kok saya baru tau deh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c8cf52ad-676b-48f4-8b7b-ed37ca4fe8c8",
+    "data": [
+      {
+        "text": "Play apa ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? Gimana mainnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9520f0d0-2c71-453c-8c3c-47f71e733f70",
+    "data": [
+      {
+        "text": "Play apaansih? Baru ya itu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "60b142a8-2e72-41e5-b4ac-1bab35b0606c",
+    "data": [
+      {
+        "text": "Play itu apa ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2a236dd4-9321-4559-8448-122a779aee90",
+    "data": [
+      {
+        "text": "Apaan sih Play?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "09764c2d-685c-454e-9440-48009fcd86bd",
+    "data": [
+      {
+        "text": "Apaan sih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Play itu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "70244130-f0a7-4fe9-ab9f-0cbe45073e1a",
+    "data": [
+      {
+        "text": "Min, saya mau tanya Play itu apaan sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fafe8435-786d-4b33-81a3-f7dcdf20767b",
+    "data": [
+      {
+        "text": "Min, nanya dong, Play apaansih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "113ac69b-1e50-4809-b6fa-eaa4e9a0cad7",
+    "data": [
+      {
+        "text": "Play apaan min??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "938fd2cc-867a-4c77-a418-d8377dd76c97",
+    "data": [
+      {
+        "text": "Min, sy mau tanya Play itu apaansih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cd87a60b-1f7f-4488-82e3-026b16e92079",
+    "data": [
+      {
+        "text": "Min, Play itu apa sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "65ec8bcf-ffcf-4b2d-bfcb-e902ff6794b0",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", sy mau tanya dong, Play itu apaan ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3003accd-b6a8-4394-bb30-b9efc395d4fe",
+    "data": [
+      {
+        "text": "Min, sy mau tanya Play itu apasih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

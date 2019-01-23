@@ -1,0 +1,500 @@
+[
+  {
+    "id": "cbdf9784-4ec2-4a86-8e01-72a0f9170fb6",
+    "data": [
+      {
+        "text": "saya salah ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nominal, bagaimana cara pengembalian dan pemotongan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a666097d-e002-46b4-86e1-8dd319e66642",
+    "data": [
+      {
+        "text": "saya udh transfer tapi salah nominal... kelanjutannya bagaimana ya???",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4c7a84c-eee6-4546-9e0c-fddac9f9bb80",
+    "data": [
+      {
+        "text": "Saya melakukan pembayaran tetapi salah ketik ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " angka kode unik bagaimana y?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cd5180de-b1db-4648-a710-fa5defee5483",
+    "data": [
+      {
+        "text": "ada kesalahan transfer pada nominal pembayarannya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc398d76-b703-4b4a-ab79-8da66de61024",
+    "data": [
+      {
+        "text": "saya salah ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " nominal,apakah dana saya kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "057dece2-8127-4976-8392-db2bf1c60252",
+    "data": [
+      {
+        "text": "kalo salah nominal waktu transfer bagaimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df2c4999-c127-4aba-a05c-d5a53de36dc4",
+    "data": [
+      {
+        "text": "terlanjur transfer. salah nilai transaksi, pemesanan saya batalkan, tetapi dana belum kembali.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f82c290-e432-4553-8142-a4b53e22a359",
+    "data": [
+      {
+        "text": "kalau saya pesan ulang kurang dr nominal yg saya sdg transfer, sisanya gmn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ddbcc09-90f0-46ba-a5be-6e4c8e9a4c52",
+    "data": [
+      {
+        "text": "mau beratanya soal kesalahan nominal yang ditransfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6cdd96e8-9bb7-49cd-a508-dd5f2e061cbc",
+    "data": [
+      {
+        "text": "transfer pertama kurang dri harga yg hrus dibayarkan seharusnya Rp 103.771 hanya Rp 103.000 saja. mau di tranfer kekurangannya tidak bisa hanya Rp 771,-.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ffa1164-e427-4510-a203-2a6805b64761",
+    "data": [
+      {
+        "text": "iya saya salah transfer nya tidak sesuai nominal bagaimana itu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64e95eb4-10d9-419a-b3f6-4be2f089d7f8",
+    "data": [
+      {
+        "text": "ini saya tadi transfer untuk pembelian tapi salah nominalnya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7d7a4cfb-34b4-4cb5-a08e-98314a7716d0",
+    "data": [
+      {
+        "text": "salah transfer nominalnya gimana dong susah verifikasinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25ab49ca-65c9-4443-aea5-10135210a051",
+    "data": [
+      {
+        "text": "Ini ",
+        "userDefined": false
+      },
+      {
+        "text": "kemaren malam",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya transfet salah nominal,,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6eeb03b4-4656-4fcf-8328-1c5dca327994",
+    "data": [
+      {
+        "text": "saya tadi salah memasukkan nominal transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c12f9bc9-ab48-4128-bab6-4d5f08548d23",
+    "data": [
+      {
+        "text": "kalau kurang transfer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d604b785-3be9-452e-b341-1eeacad60101",
+    "data": [
+      {
+        "text": "saya salah transfer,harusny 229222 saya trnsfer 292222 ,nah saya minta pengajuan pengembalian dana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "20e79ab6-c286-45f9-b08f-d52f58123288",
+    "data": [
+      {
+        "text": "padahal saya transfer 484.159",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0d4ee88c-f174-4039-bc3b-0b3252146e3b",
+    "data": [
+      {
+        "text": "maaf saya ada salah transfer ke virtual account tokped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "30f081a1-6a94-450d-a282-04495f7ae947",
+    "data": [
+      {
+        "text": "saya salah transfer, kurang transfer tepatnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "61929070-69bf-4c3c-9022-01dde98fbe5a",
+    "data": [
+      {
+        "text": "permisi saya mau tanya,, saya barusan transaksi, dan saya salah transfer,, transfernya kurang di 3digit terakhir.. gimana penyelesaiannya ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c18e7dae-41ce-46dc-9c7c-e86ff26a7037",
+    "data": [
+      {
+        "text": "Yth admin toko pedias saya salah transfer gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ce075f33-cb52-4120-aef3-1b6570901387",
+    "data": [
+      {
+        "text": "saya salah transfer kelebihan Rp 100.000,-dari toko sudah transfer kembali ketoko Pedia.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cb7af976-7cf3-4646-858d-83202336b2b5",
+    "data": [
+      {
+        "text": "Tadi saya salah transfer utk pembelian barang.. Tolong Segera do proses pengembalian nya terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dd3e0706-2517-49ef-a477-be51e01582c5",
+    "data": [
+      {
+        "text": "maaf sy salah jumlah transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b6d20015-c19f-40c0-ae9a-75bca14b5514",
+    "data": [
+      {
+        "text": "sudah transfer ke rekening tokped mau dibatalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bfb0eb97-0a1d-4462-8d1f-89f82e8128da",
+    "data": [
+      {
+        "text": "saya salah jumlah yg ditrf, yg sy trf 710.030 seharusnya 711.030 sehingga rekening saya sdh didebet tapi order sy tdk diproses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bead3961-e6ad-4011-8564-6e9e40e07cf1",
+    "data": [
+      {
+        "text": "saya salah transfer nominal, bagaimana cara pengembalian dan pemotongan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "093cfc4b-65dd-429b-a7d8-89ab4f0bb1d8",
+    "data": [
+      {
+        "text": "transfer dgn nominal berbeda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8046000d-c7a6-4a0c-b971-0632d06af6b4",
+    "data": [
+      {
+        "text": "salah trf 3 kode digit terakhir utk pembayrn kartu kredit BNI",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "78459b31-e5e3-4275-bc77-71ae1ef181fb",
+    "data": [
+      {
+        "text": "saya salah nominal transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "55020ec8-4f1b-47cb-95b6-e2951f5a2ef6",
+    "data": [
+      {
+        "text": "saya salah transfer, 3 digit belakang salah ketik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b209b4c7-0745-44c8-9d7e-54289da6b76d",
+    "data": [
+      {
+        "text": "Saya salah transfer jumlah uang bagaimana ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ea825c1c-c5f9-47da-bd57-9d84045d735d",
+    "data": [
+      {
+        "text": "Tadi saya berbelanja sebesar Rp. 170.335 lalu saya transfer lewat M-Banking saya lsg byr aja Rp. 170.156 \u0026amp; saya sdh melakukan pembayaran tp stlh diperhatikan ternyata jumlahnya salah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d7e171d3-5ce5-4472-8f69-a782b0374d92",
+    "data": [
+      {
+        "text": "sy menyalin harga barang yg ada di tagihan, stelah sy copypaste, trnyata hasil salin harga kurang 1 digit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "227189f4-d4d0-4ec1-8a78-19aef318fd71",
+    "data": [
+      {
+        "text": "Saya malam ini mentransfer 2 kali, dari cimb niaga.  saya transfer ulang sesuai dengan 3 angka dibelakang. Apakah transferan pertama saya sebesar 61.000 bisa dikembalikan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f799b10a-05cd-4ddc-831b-d22dd1d8a5e6",
+    "data": [
+      {
+        "text": "Saya salah memasukkan jumlah transfer seharusnya 80.633, saya sudah transfer 80.663",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7309ae94-2dcb-44cc-8d2a-af9de48072f3",
+    "data": [
+      {
+        "text": "Saya transfer via internet bankingtapi tidak mengikuti 3 digit dr tokped dikarenakan buru2.. apakah tetap diproses?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ca31f12d-906d-4a0e-bbc1-fe902e55aa00",
+    "data": [
+      {
+        "text": "selamat siang, untuk invoice yg saya lampir, saya transfer 2 kali, sayan lampirkan jg bukti transfer nya, sisa dana tolong di kembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1e24d281-1c93-41dd-ad7e-d6ad94868f33",
+    "data": [
+      {
+        "text": "di pemesanan tiket makerfest saya membaca 80.000 untuk ditransfer, setelah saya transfer 80.000 saya ingin unggah bukti, ternyata ada biaya tambahan sebagai kode unik, bagaimana ya solusinya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "00d8c826-c032-49a9-99e4-86b3599c40ed",
+    "data": [
+      {
+        "text": "Saya bayar telkom melalui tokped. Kedobelan bayar nya. Bagaimana cara supaya bisa refund? ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

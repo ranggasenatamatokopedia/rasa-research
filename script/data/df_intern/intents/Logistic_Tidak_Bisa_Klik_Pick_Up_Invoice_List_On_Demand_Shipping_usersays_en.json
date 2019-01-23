@@ -1,0 +1,73 @@
+[
+  {
+    "id": "cbd8a390-d20d-4142-a3fd-5ab8963c0b21",
+    "data": [
+      {
+        "text": "invoice_melakukan_pencarian_driver_harap_menunggu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5d6bc5aa-35cb-4526-ade4-223ce40db3f7",
+    "data": [
+      {
+        "text": "invoice_kode_resi_pengiriman_tidak_valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6f141ede-baf9-431a-ac9c-ae1d4bb3cede",
+    "data": [
+      {
+        "text": "invoice_sedang_dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f0d8a6d7-6e15-4a5a-936e-a40af5a5dccb",
+    "data": [
+      {
+        "text": "invoice_menunggu_",
+        "userDefined": false
+      },
+      {
+        "text": "pick_up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f18e25a8-f0cc-49aa-b718-7f1bd3fdb690",
+    "data": [
+      {
+        "text": "invoice_order_berkendala_pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2cfbd323-3570-431c-9a19-9e88771b9003",
+    "data": [
+      {
+        "text": "invoice_menunggu_status_kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

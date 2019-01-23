@@ -1,0 +1,414 @@
+[
+  {
+    "id": "3ad14c24-b6db-4c28-bc4a-fa364dace5e9",
+    "data": [
+      {
+        "text": "sampai kapan batas request ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d87f6862-66d0-4ed3-b829-83ad6d42ef42",
+    "data": [
+      {
+        "text": "sampe kapan ya ini buat request ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "265ad054-8a3c-48b3-8a87-f604cba9ac2a",
+    "data": [
+      {
+        "text": "request ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bisanya sampe kapan ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0a5124f9-5da4-464d-8713-11d302be89c6",
+    "data": [
+      {
+        "text": "batas waktu order ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0cec47d4-8b07-404e-911b-873249796fe8",
+    "data": [
+      {
+        "text": "batas order ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "639c81da-568b-4472-bc17-3dd1006c6112",
+    "data": [
+      {
+        "text": "batas pesan ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7f1ddba2-6640-458e-8b58-1fe35c504cf6",
+    "data": [
+      {
+        "text": "batas pesen ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "38e4dc5c-01ba-46d1-9352-c9dfd345ae1e",
+    "data": [
+      {
+        "text": "waktu maksimal buat order ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ba181a80-8504-4928-80b6-6e235dacd773",
+    "data": [
+      {
+        "text": "kapan sih driver ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8d1ea520-a0f9-4247-b807-34a9554243a1",
+    "data": [
+      {
+        "text": "kapan waktu driver ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4e112665-b798-4058-be0a-961fb0d5c5a9",
+    "data": [
+      {
+        "text": "waktu request ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0dd735b2-f27d-4c1d-b613-b39646f6ccd2",
+    "data": [
+      {
+        "text": "jam request ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d76c3c31-8408-4d5b-b7f1-cb4164d26cce",
+    "data": [
+      {
+        "text": "batas request ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4e476766-4b8c-4df0-bc0f-00d4227cb543",
+    "data": [
+      {
+        "text": "batas request ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f556721d-325a-4c94-88a4-b541e34b718c",
+    "data": [
+      {
+        "text": "batas waktu request ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a279a466-4790-4acf-9003-4af23ca1b699",
+    "data": [
+      {
+        "text": "batas waktu pesan ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "805e3b3f-2863-4365-85ad-a66bfe54b4d1",
+    "data": [
+      {
+        "text": "sampai kapan saya bisa request ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "447a215d-81e4-423a-9c44-f1d6505cbc33",
+    "data": [
+      {
+        "text": "jam request ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4ea7c455-6553-466c-bdc9-a0271e1a0671",
+    "data": [
+      {
+        "text": "waktu buat pesan kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5b3b9f36-35cb-4c2c-9b16-d842a6edd41e",
+    "data": [
+      {
+        "text": "waktu buat request ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4903f3f3-3fc0-4789-bed1-eb15ba0cbfc4",
+    "data": [
+      {
+        "text": "batas waktu request ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

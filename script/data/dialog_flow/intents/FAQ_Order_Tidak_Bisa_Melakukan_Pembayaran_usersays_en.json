@@ -1,0 +1,1957 @@
+[
+  {
+    "id": "42278575-8ee1-427d-bc70-7bdbfbd9d52b",
+    "data": [
+      {
+        "text": "Halo kak, kenapa pembayaran menggunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "Bank Mandiri",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " masih tidak bisa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b28b041c-6797-49ee-b200-716efc022ea9",
+    "data": [
+      {
+        "text": "Pilihan bayar dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak ada???",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6f318a94-36fd-4e2f-bcd3-5434ae7a9ac1",
+    "data": [
+      {
+        "text": "Pembayaran pake ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ovo tidak bisa, kenapa ya??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b527f159-0e67-403f-930c-fca9995fc430",
+    "data": [
+      {
+        "text": "Pembayaran melalui ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer bank",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mandiri tidak tersedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "412b7e21-735d-4903-88a7-4c24f282b795",
+    "data": [
+      {
+        "text": "Tidak ada pilihan metode pembayaran lewat ",
+        "userDefined": false
+      },
+      {
+        "text": "indomart",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fa16af1a-7216-4301-a0c3-bc3be338d4ee",
+    "data": [
+      {
+        "text": "Gagal pembayaran dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo cash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", Saya ingin pembayaran di split, sebagian dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "cicilan kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", sebagian dengan ovocash. Tetapi proses checkout selalu gagal setelah mengisi pin ovo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b94e28a6-f79b-4058-8050-9f5cc1983523",
+    "data": [
+      {
+        "text": "Tidak muncul pembayaran lewat ovo.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "66d296bb-e3a1-4e10-a41c-36406f2fc86a",
+    "data": [
+      {
+        "text": "Tokopedia, kenapa ",
+        "userDefined": false
+      },
+      {
+        "text": "Ovo cash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya tidak bisa digunakan? Termasuk point ",
+        "userDefined": false
+      },
+      {
+        "text": "toko cash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "09b19f92-0689-4af6-bcbe-244857749b05",
+    "data": [
+      {
+        "text": "Muncul notifikasi error saat pilih metode pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0bc15f13-3a21-4e79-a4ec-02941dc37c2d",
+    "data": [
+      {
+        "text": "saya gak bisa ke halaman pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c54e7f96-8362-433c-9cf8-eba0dacb9e6b",
+    "data": [
+      {
+        "text": "ga bisa membayar pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "adb2e08c-fc78-462a-b5f4-a4ba43198001",
+    "data": [
+      {
+        "text": "tidak bisa bayar, selalu error",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bc9d4ea7-4f31-4f05-9aeb-eeba5aeed8ab",
+    "data": [
+      {
+        "text": "tidak bisa membayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0ec94d41-0ead-476a-aafa-5094158c4ce5",
+    "data": [
+      {
+        "text": "kenapa tidak bisa bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cdab3d82-62e0-413c-8c9c-ce3fdb446bbc",
+    "data": [
+      {
+        "text": "ada notif error di halaman pilih metode pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "50c2d6b6-cc8f-4e4e-b82b-99cba08a0dd0",
+    "data": [
+      {
+        "text": "loh ini kenapa sih kok mau masuk ke halaman pembayaran gak bisa-bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6e844e7f-4166-41a9-9360-22a68dc668a8",
+    "data": [
+      {
+        "text": "saya gak bisa bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7a80abce-1ab6-481d-a47b-201c974c546d",
+    "data": [
+      {
+        "text": "tidak bisa checkout ke halaman pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6dff7621-29b9-46af-81ed-65d98b0caa9e",
+    "data": [
+      {
+        "text": "kenapa ga ada pilihan ",
+        "userDefined": false
+      },
+      {
+        "text": "klikBCA",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " yaa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "709dbd53-c95b-4354-9ba4-00e438292e70",
+    "data": [
+      {
+        "text": "gak bisa melakukan pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2bc2210a-c7c3-4137-8292-e5b759a571f6",
+    "data": [
+      {
+        "text": "kenapa tidak muncul metode pembayaran pilihan saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "77b6d5be-7eac-4df6-b280-ce6fe23cf7b9",
+    "data": [
+      {
+        "text": "muncul notif error di halaman pembayarn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d999180b-434c-45f0-bdc5-08ae3ea5c5f1",
+    "data": [
+      {
+        "text": "kenapa gak bisa melakukan pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1130dd9f-6e83-49b7-8a4a-e08eff122bc2",
+    "data": [
+      {
+        "text": "gak muncul metode bayar yg di inginkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bad335ad-7f47-4d92-9e9b-3cd7fdc6a926",
+    "data": [
+      {
+        "text": "error terus di halaman bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "55986061-d5e0-4f67-bd4a-93caa32ae646",
+    "data": [
+      {
+        "text": "gak bisa ke halaman pembayaran, kena error notif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "36013636-fcfa-4ca2-86a0-48a0bdc42040",
+    "data": [
+      {
+        "text": "ga bisa bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "31659a1b-9b37-4a90-8648-8ad2828363db",
+    "data": [
+      {
+        "text": "halaman pembayaran error",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "175b10d6-9eb6-416b-ab28-cc4ae55a3f10",
+    "data": [
+      {
+        "text": "saya ga bisa bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7f32a71e-fa39-428d-9647-b5583155398d",
+    "data": [
+      {
+        "text": "tidak bisa lanjut ke halaman pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "14fb250d-8511-45a6-ba9e-94fe82c92c7e",
+    "data": [
+      {
+        "text": "mau bayar pesanan dari tadi ga bisa mulu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1c26ff42-627a-4672-b9b6-af549ada8193",
+    "data": [
+      {
+        "text": "kenapa tidak ada pilihan ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer bank",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "74566b77-3350-46c4-bbc9-39d0596f8b1b",
+    "data": [
+      {
+        "text": "tidak bisa bayar pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "deea3638-66e1-4681-b981-c88d9abb5969",
+    "data": [
+      {
+        "text": "error kendala teknis pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f91b29ca-15f5-48ff-835b-e1276bee0aa4",
+    "data": [
+      {
+        "text": "kok metode pembayaran yg saya pilih malah ga muncul sih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "76c5bcbb-560b-4135-bd50-f22af6413ed6",
+    "data": [
+      {
+        "text": "tidak mau masuk ke pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "51bf732a-70ad-4e7c-9cd9-e252e326cf2a",
+    "data": [
+      {
+        "text": "saya gak bisa membayar pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c8730d4c-1b4e-4ad3-a558-ca69ee94feeb",
+    "data": [
+      {
+        "text": "gak bisa masuk halaman pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "68f12777-db06-4592-86db-fa8daffa8df6",
+    "data": [
+      {
+        "text": "error saat memilih metode pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1de0b3d1-deba-414f-a4f3-ff3066006144",
+    "data": [
+      {
+        "text": "gimana sih ini tidak bisa melakukan pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f5921da1-59ce-44f6-8882-4840b6c96bdf",
+    "data": [
+      {
+        "text": "toped, tolong cek kenapa saya ga bisa melakukan pembayaran ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1f44d46d-f964-4c4d-99a7-7f0c9c29a1d9",
+    "data": [
+      {
+        "text": "kenapa tidak bisa bayar, kena error terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "868c095f-227e-4dc8-8999-0b4c838e5dad",
+    "data": [
+      {
+        "text": "error ke halaman pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d46d5493-aa6d-433b-8d65-6650eefe483b",
+    "data": [
+      {
+        "text": "tidak muncul metode bayar yang saya pilih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "80ed6509-4ef5-4a70-80bf-260a172018ae",
+    "data": [
+      {
+        "text": "Tidak muncul metode pembayaran diinginkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e2820740-75a6-4ff4-a6e6-448f03c0d765",
+    "data": [
+      {
+        "text": "gak bisa melakukan checkout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bc24001a-f8f4-4873-803f-d0211213073a",
+    "data": [
+      {
+        "text": "kok ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer bank",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mandiri ga ada pilihannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d5d5aa2b-f14d-4a7d-a0b0-145a50542828",
+    "data": [
+      {
+        "text": "metode pembayaran yang saya pilih tidak muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "baae54fd-5469-4d55-bf31-f5e5c8ee36ee",
+    "data": [
+      {
+        "text": "tidak bisa melakukan pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fe6b0bb7-422d-4ce8-97d6-32e4757c7dbc",
+    "data": [
+      {
+        "text": "mau beli tapi ga bisa bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ff4eaae0-398d-4bf4-b8df-511a20fee67b",
+    "data": [
+      {
+        "text": "ada notifikasi error saat di halaman bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "99a9fc97-a945-4e42-9cc8-b59e46531b2c",
+    "data": [
+      {
+        "text": "kenapa saya ga bisa bayar, error terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "80b9cc6d-c210-427e-8d7b-09d351239b09",
+    "data": [
+      {
+        "text": "di halaman pembayaran kena error teknis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "636c50cf-73c6-4ea6-a557-f7fd787025c0",
+    "data": [
+      {
+        "text": "saya tidak bisa ke halaman pembayaran, error kendala teknis terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "839b439d-1628-4a86-a059-f61917dbce8e",
+    "data": [
+      {
+        "text": "tidak ada pilihan metode pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5c6fb3d0-6a37-440f-94c3-82930bd02671",
+    "data": [
+      {
+        "text": "pas mau bayar tidak bisa jadi error kendala teknis terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "21dee792-cae4-4a7d-9a14-74eda03549aa",
+    "data": [
+      {
+        "text": "gimana ya  kok aku ga bisa bayar pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dced625a-b8b0-497e-b0f5-73a088d7465b",
+    "data": [
+      {
+        "text": "toped, tolong cek kenapa saya ga bisa melakukan pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6f8bdbbf-8522-43cc-ad8c-d36597bcd265",
+    "data": [
+      {
+        "text": "error di halaman metode pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "abcd5bc8-ac99-4a99-a479-48a09aea90f7",
+    "data": [
+      {
+        "text": "ga bisa melakukan pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b6fce637-ad2c-44d6-8332-8ca08d4b19a8",
+    "data": [
+      {
+        "text": "tidak bisa bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "11a97db1-79f0-40c9-aaf2-280ed37df4c0",
+    "data": [
+      {
+        "text": "gak bisa lanjut ke halaman pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "760a13b7-3918-4b64-825a-648941acc5af",
+    "data": [
+      {
+        "text": "haloo bot, kenapa saya ga bisa bayar pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fc8f3b34-8483-465d-9ab2-cb5ff9ed4ab6",
+    "data": [
+      {
+        "text": "muncul notifikasi error saat di halaman pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c8d3fa69-5862-402d-9d9f-c10446d961b8",
+    "data": [
+      {
+        "text": "mau bayar ga bisa terus nih gimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "063bd7d4-02a6-4666-bfbe-6d02476a0f75",
+    "data": [
+      {
+        "text": "kok pilihan ",
+        "userDefined": false
+      },
+      {
+        "text": "klikbca",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ga muncul ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0a380ab2-50ba-4f37-922b-aa8c7c8bde66",
+    "data": [
+      {
+        "text": "tidak bisa melanjutkan ke pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3b5a0743-2fb3-4c44-a427-218cad647ad7",
+    "data": [
+      {
+        "text": "ada notifikasi error saat pilih metode bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2b715807-d1df-4a1c-84d4-8db9482a576f",
+    "data": [
+      {
+        "text": "tidak bisa membayar pesanan, error terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a50b5880-4439-411a-acb0-fdf89fed6976",
+    "data": [
+      {
+        "text": "kenapa ga ada pilihan ",
+        "userDefined": false
+      },
+      {
+        "text": "mandiri ecash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d4d724e7-8ee9-4d61-8ba0-47c04002b00e",
+    "data": [
+      {
+        "text": "gak bisa ke halaman pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d6e29868-5131-4b70-9271-6fe77e1f797b",
+    "data": [
+      {
+        "text": "kenapa saya tidak bisa membayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7edf776b-23e1-4fb0-b9b2-b88251145531",
+    "data": [
+      {
+        "text": "tdk bisa melakukan pembayarn drtd ",
+        "userDefined": false
+      },
+      {
+        "text": "siang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f8bc4826-9dec-46fc-8e30-e377a356fc5a",
+    "data": [
+      {
+        "text": "halo toped apakah bisa dibantu, kenapa transaksi saya gagal terus untuk pembayaran pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "BNI",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", menu bayar tidak bisa di klik, sya coba pakai smaetphone dan PC, gagal terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "53570bbf-e726-4cc4-9229-e957c2dc83da",
+    "data": [
+      {
+        "text": "knp ",
+        "userDefined": false
+      },
+      {
+        "text": "klik bca",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ga bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f630af08-010e-4da6-b508-72b8bf2a8d06",
+    "data": [
+      {
+        "text": "saya mau melakukan pembayaran kok gk bs terus ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f929e2c9-dcc7-4884-ac8d-c57279c83571",
+    "data": [
+      {
+        "text": "bot.. saya kok ga bisa bayar ",
+        "userDefined": false
+      },
+      {
+        "text": "cc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bni",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kenapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9e829d81-abb2-45d8-a4c0-eae518252e41",
+    "data": [
+      {
+        "text": "Kenapa tidak bisa bayar pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "mandiri eCash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b5fce80e-0e96-4684-83d3-ce3a4abc1d42",
+    "data": [
+      {
+        "text": "metode ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mandiri kok ga ada pilihannya ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e269fb96-71d8-4897-ab30-8b1625c4b3a6",
+    "data": [
+      {
+        "text": "saya mau pilih ",
+        "userDefined": false
+      },
+      {
+        "text": "mandiri ecash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kenapa ga ada pilihannya ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c5b40ad3-9d0b-4467-890c-cb97701a1264",
+    "data": [
+      {
+        "text": "mau tanya apakah lagi ada kendala pembayaran dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account bca",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b093873c-1ea4-46f3-ae1b-268f6f004893",
+    "data": [
+      {
+        "text": "melalui kartu kredit. sampau sekarang saya belum tau apakah status berhasil atau tidak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a832ef9c-7fbc-4479-97ec-ace06ca2ef04",
+    "data": [
+      {
+        "text": "pembayaran kartu kredit saya kok di tolak yaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c329a413-21ac-497e-b123-feefa4722615",
+    "data": [
+      {
+        "text": "kenapa pembayaran kartu kredit saya belum berhasil ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9bf066ab-4d79-45c0-98a5-dcebc1366f49",
+    "data": [
+      {
+        "text": "Pembayaran kartu kredit gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3c0f5214-8055-4f0c-8bb6-04be9cc2ebca",
+    "data": [
+      {
+        "text": "mau nanya sy ada kendala di pembayaran, begitu pilih pembayaran dgn kartu kredit, koneksi terputus. mohon bantuan cek ke bagian sistemnya... terima kasih sebelumnya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a096297c-cd71-4373-aeea-a126ec0faf71",
+    "data": [
+      {
+        "text": "selalu keterangannya transaksi tidak dapat di proses saat sy coba transfer dari mba",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3cfce08d-53e2-4170-a49a-733e857c3402",
+    "data": [
+      {
+        "text": "Tidak ada pilihan metode pembayaran dengan kartu kredit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d79089f7-7353-4f1a-b733-e4e623fd99ea",
+    "data": [
+      {
+        "text": "ga bisa melanjutkan pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c80948d6-dc93-4b65-8979-a4fd75bee27a",
+    "data": [
+      {
+        "text": "Maaf mau tanya sebelumnya,,saya kan mau bayar pinjaman online saya tapi saat mau melakukan transfer via atm bca saya coba transfer ke tiga no virtual avcount nya koq ga bisa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d995aeb1-387e-4744-a86b-f79d7994c74b",
+    "data": [
+      {
+        "text": "Saya mau melakukan pembayaran, krn akan menggunakan CC BNI anehnya jika memilih menggunakan rewards points BNI pembayaran tdk berhasil,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dc2762bc-9b1e-4534-9d9c-487339f58532",
+    "data": [
+      {
+        "text": "saat saya ingin membeli item tidak ada pilihan penbayaran menggunakan saldo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f554b165-1b10-4386-b472-bd6e76cb1507",
+    "data": [
+      {
+        "text": "Pembayaran tagihan hanya bisa pakai kartu kredit, padahal biasa bisa dengan virtual account.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c6e03af5-372d-47d6-ba82-dee20f112e7f",
+    "data": [
+      {
+        "text": "apakah saat ini tokped ada masalah dalam pembayaran?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9475b0dd-7d70-42c5-a522-ecd9ca6489bc",
+    "data": [
+      {
+        "text": "saya mau belanja pas mau pembayaran ga bisa kepake untuk kode untuk promo saya d BFI.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ea879ed0-abec-4b9c-99f8-79001ae43faa",
+    "data": [
+      {
+        "text": "pembayaran angsuran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "377ab798-4709-4840-a30c-04cfb44f0544",
+    "data": [
+      {
+        "text": "sy membeli pulsa, pembayarannya saya pilih manual transfer. tp waktu sy transfer dr rekening jenius btpn nomor rekening virtual tokopedia tidak dikenali.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ce975e89-a34c-4dea-b266-be121d7c166b",
+    "data": [
+      {
+        "text": "Ga bisa bayar pakai mandiri kenapa? Padahal sy cmn punya akun bank mandiri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "55ea2d16-8ef7-4db5-9b52-5b543438ad06",
+    "data": [
+      {
+        "text": "Pembayaran menggunakan transfer mandiri tidak bisa digunakan untuk produk digital, kenapa ya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "07d6bef3-ed5a-40d6-a4e0-8b177a123b50",
+    "data": [
+      {
+        "text": "status pembayaran kartu kredit citibank melalui toped seperti attachment terlampir. apakah akan dibayarkan hari ini.t",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8464712b-5327-46e7-bc24-c87265faa654",
+    "data": [
+      {
+        "text": "kenapa saya mau bayar ga bisa . tertulis kode eror",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e43dffa5-f47f-4943-acd0-c279303aee12",
+    "data": [
+      {
+        "text": "Apakah sekarang ada perubahan kebijakan pembayaran dgn virtual acct bni?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "872059fd-6fcd-40aa-aead-fd86167c1eb7",
+    "data": [
+      {
+        "text": "Kenapa Pembeli saya tdk bisa transaksi dengan saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2df69bcb-ca36-4402-af12-86015debe637",
+    "data": [
+      {
+        "text": "saya melakukan pembelian dengan pembayaran virtual account bca dan melakukan pembayaran melalui atm bri namun muncul notif nomor rekening invalid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "25475ca4-b573-4387-8fd1-2d0e6f49a330",
+    "data": [
+      {
+        "text": "sekarang transfer bank mandiri tidak bisa di pakai untuk transaksi digital. alasannya apa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "97a00a1d-1a2b-4285-bc33-8f2350b2b119",
+    "data": [
+      {
+        "text": "saya mau bayar pinjaman online saya kenapa gak bisa ya, muncul nomor rekening tidak terdaftar, gimana nih, tolong bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "174fda3a-357c-41e7-b4a5-e63af040bf47",
+    "data": [
+      {
+        "text": "kenapa pada saat mau melakukan pembayar angsuran tidak bisa menggunakaan transfer via bank mandiri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "43c87ffb-147a-49e6-b515-3e8f31899a4e",
+    "data": [
+      {
+        "text": "aq mau bayar transaksi pakai metode BNI manual tp skg di non aktifkan solx rekening aq pakai BNI",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "016c3b8b-7cff-4334-ad70-d2eca2e732e2",
+    "data": [
+      {
+        "text": "Ada kendala pembayaran kartu kredit BNI",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d30e1716-1c36-40aa-97f1-fcbbde9ab3b5",
+    "data": [
+      {
+        "text": "saya mau bayar angsuran motor MCF via toped tapi kenapa tidak bisa transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5067aeb7-3266-4192-afe3-b0f53bf09cb5",
+    "data": [
+      {
+        "text": "ada beberapa customer mau bayar tapi error",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b678d192-00f3-42b1-9e4b-cd3cae28724a",
+    "data": [
+      {
+        "text": "Saya mau pembayaran lewat Transfer Mandiri kenapa ga bisa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bda25cfd-e7e8-498c-9cdb-ea301b3a19b5",
+    "data": [
+      {
+        "text": "saya ingin melakukan pembayaran dengan klik bca, tp klik bca nya skrg lg error, jd gmn pembayaranya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "37baf021-175d-4b5d-a6c3-168a164e6458",
+    "data": [
+      {
+        "text": "pembayaran via Bank Mandiri lagi gak bisa semuah ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "128d7c8f-14dc-41aa-9f13-ec45414ef173",
+    "data": [
+      {
+        "text": "Tidak ada pilihan transfer bank BNI. adanya VA BNI. kenapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "99f20081-9678-4369-9f52-bb236f3fdd83",
+    "data": [
+      {
+        "text": "mandiri banking kapan bisa di pake transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1cff7ead-aa77-4ee2-ab74-2d594e89e1b3",
+    "data": [
+      {
+        "text": "problem nya ketika klik beli maka yg muncul terjadi kesalahan krn itu saya gak bisa beli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "38a7ff82-cb05-4288-a7dc-e7ec4b6a92b3",
+    "data": [
+      {
+        "text": "tidak bisa membayar cicilan via tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dd0b52ea-1989-46e1-955d-186ec0418407",
+    "data": [
+      {
+        "text": "gak bisa order di tokped...apah tokped lagi gangguan kak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "89e0c918-1fdd-4b37-994a-a224ac94acd3",
+    "data": [
+      {
+        "text": "Aplikasi saya eror ketika masuk ke proses pemesanan maka akan kembali lagi ke homr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5d70fcf5-9b86-4fde-8867-8c3e2346ffc9",
+    "data": [
+      {
+        "text": "dear admin,pembayaran via cicilan kartu kredit BCA saya selalu di tolak, padahal limit masih banyak, mohon bantuannya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f3c9bc23-ebbf-45ad-90fb-67e6f7abb438",
+    "data": [
+      {
+        "text": "tokocash saya td masih ada, sewaktu mau checkout pake bca klikplay halamannya error tp tokocash saya sudah kedebet, mohon kembalikan dana saya, terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "217ca58f-d027-4cd5-b27c-9189689bd5b2",
+    "data": [
+      {
+        "text": "saya tidak bisa pembayaran menggunakan kk std ctd saya. pdhal promo nya Sudah benar premiummplalu pada saat payment tulisannya hrs menggunakan kk std ctd",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7bc71267-494b-4098-8cd8-631b7ca9c713",
+    "data": [
+      {
+        "text": "transfer via bni lagi gak bisa y ka?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "412849de-8c74-444e-a5fd-969e933f98c7",
+    "data": [
+      {
+        "text": "sering kali saya batal bertransaksi memekai tokopedia karena pembayaran tidak bisa menggunakan bank mandiri.  kenapa hal tersebut sering terjadi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "21181685-fcec-4f24-b44a-c2cd7a8c217e",
+    "data": [
+      {
+        "text": "saya ga bisa belanja barang . setiap diklik beli tulisannya terjadi kesalahan terus . liat keranjang belanja juga ga bisa tolong diperbaiki ya saya mau belanja vitamin untuk kucing saya . urgent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4dbe1741-8541-42e4-af57-a42c5953dd35",
+    "data": [
+      {
+        "text": "tidak bisa transfer ke rekening tujuan BNI Tokopedia, nomor rekening salah dimesin atm, biasanya saya lancar trf ke rek BNI",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b4dffa96-a9ef-4b06-bc63-47b9929d1e6d",
+    "data": [
+      {
+        "text": "sistem pembayaranannya sedang bermasalah ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1ee86e66-c01e-4441-9c86-c9f061161fe4",
+    "data": [
+      {
+        "text": "skrg mau byr lagi nga bias krn jaringan tokped selalu tulis kendala teknis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5c9b097f-2be0-4532-83bc-2db535e4a191",
+    "data": [
+      {
+        "text": "sudah beberapa kali saya coba bayar tapi tetap tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "73e9c579-c01d-4e9e-b18a-5f1c6ee52ba0",
+    "data": [
+      {
+        "text": "tidak bisa dibayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "939f31a8-057e-40c6-80e7-31ec090f8a23",
+    "data": [
+      {
+        "text": "ovo point dan ovo cash tidak bisa untuk pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "51055eee-9306-4c2a-9b65-fc12517854d9",
+    "data": [
+      {
+        "text": "saya mau bayar angsuran kredit ko terjadi kesalahan mulu yaa..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b5226fa6-b552-48bb-9261-38fba316bfb0",
+    "data": [
+      {
+        "text": "saya mau bayar tagihan tokopedia kenapa kok tidak bisa di temukan no pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9fa54a25-3320-405f-92d7-824da13392d2",
+    "data": [
+      {
+        "text": "saya mau bayar tagihan pdam kok pembayaran pake ovo gak ada?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c3c7567c-a6c8-4426-b0bc-6c8e3e3b12f1",
+    "data": [
+      {
+        "text": "saya tidak bisa memasukan no debit card saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2add9240-2e63-4a89-8088-342e71263147",
+    "data": [
+      {
+        "text": "kenapa transaksi transfer pakai mandiri tidak bisa ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7d1ce00e-149a-4276-8b5c-ae7659316b1d",
+    "data": [
+      {
+        "text": "saya tidak bisa melakukan pembayaran dengan kredivosaat klik bayar tidak ada respon apa apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e5d5650d-8bb6-4852-8072-bcd38f1b4635",
+    "data": [
+      {
+        "text": "tidak bisa membyar melalui BNI",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d616fe6a-e927-47ec-9764-54a9a069efe7",
+    "data": [
+      {
+        "text": "tidak bisa melakukan pembayatan dgn ovo cash...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a41994e8-bb0b-4bf1-b0f6-31d0b328311a",
+    "data": [
+      {
+        "text": "Tidak bisa melakukan pembayaran dengan kartu kredit.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ff0565f4-045f-4e79-afa9-3fbb33601dd2",
+    "data": [
+      {
+        "text": "mengapa transaksi pembayaran tagihan kartu kredit selalu gagal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8bdacc12-558a-48ff-af80-73a37b4d566a",
+    "data": [
+      {
+        "text": "Saya mau cb transaksi Deals voucher Boga Group dgn menggunakan kode promo COBAINDEALS, pas mau melakukan pembayaran kok error ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b1e0f65a-8e73-4582-b99b-a3c33d88d6b7",
+    "data": [
+      {
+        "text": "pilihan pembayaran menggunakan ovo kok tidak ada juga dengan bri epay . info ovo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8370747a-100b-44e9-9d15-28bd5961aaa0",
+    "data": [
+      {
+        "text": "Pembayaran tidak bisa terus. Bayar BPJS kesehatan pakai cicilan n CC ga bisa2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "87418f24-7e47-4f63-9360-2addc43eae6a",
+    "data": [
+      {
+        "text": "Tidak bisa bayar cc BNI selalu kendala teknis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "26ff2f43-394a-4094-b8c0-f5e5d8f07805",
+    "data": [
+      {
+        "text": "kenapa sekarang pembayaran melalui mandiri gak bisa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1744d803-49b5-479f-870c-43271efce806",
+    "data": [
+      {
+        "text": "saya tidak bisa melakukan pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "061955bc-f2f0-41ea-b497-fa17bb84f9ce",
+    "data": [
+      {
+        "text": "Mau beli tiket, ngga bisa bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6f5e8836-104f-47a6-aac4-0159f8704722",
+    "data": [
+      {
+        "text": "bayarnya aja ga bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a408b650-283d-4f12-b676-2b43551dfc0e",
+    "data": [
+      {
+        "text": "Mau melakukan pembayaran tagihan kartu kredit pake promo tapi selalu di bilang gangguan teknis gimana ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9ab6ee0e-5472-455a-b1d1-6a54807749d9",
+    "data": [
+      {
+        "text": "Mau Tanya, saya mau coba transaksi senilai hampir 4jt. Dengan menggunakan cara Kartu Kredit CICILAN. Tapi kenapa tidak ada pilihan CICILAN ya?Hanya tersedia bayar PENUH.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "80973390-f04b-4236-a570-2b9e73285286",
+    "data": [
+      {
+        "text": "Cicilan kartu kredit 24 bulan periode s.d. 31 desember 2018 ko ga ada di pilihan pas bayar ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3a0381f7-aabe-4786-9c81-dace1d588440",
+    "data": [
+      {
+        "text": "Sy tdk bisa belanja dengan transfer bca langsung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "93093e5d-ecb2-49eb-a82f-162f51e46f82",
+    "data": [
+      {
+        "text": "Saya tdk bisa membayar melalui virtual acct bca .keterangan no pelanggan tdk di temukan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "95f17b48-6ab6-4d9a-97a7-f0a5a859a085",
+    "data": [
+      {
+        "text": "saya mau bayar pakai BNI skrg susah ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "647ed378-7fc6-421f-96f7-9cb6a7deb435",
+    "data": [
+      {
+        "text": "Tidak bisa bayar via virtual account bca, sudah coba lebih dari 10x",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6cea182c-7ffb-4c58-8570-62027cbfac83",
+    "data": [
+      {
+        "text": "Ada masalah dalam sistem, gagal memproses data pembayaran anda. ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

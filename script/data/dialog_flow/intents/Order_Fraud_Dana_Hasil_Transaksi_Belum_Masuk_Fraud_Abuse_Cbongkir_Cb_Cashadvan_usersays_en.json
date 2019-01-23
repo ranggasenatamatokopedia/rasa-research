@@ -1,0 +1,35 @@
+[
+  {
+    "id": "7770c04d-efe7-4135-ae9b-c2f57b01209b",
+    "data": [
+      {
+        "text": "case_status_unhold_without_cashback",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a8d47f43-8af3-4f6c-a2f5-35f8c3a6777e",
+    "data": [
+      {
+        "text": "case_status_cash_advance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "92585055-09fd-4410-9283-6430dc6a6166",
+    "data": [
+      {
+        "text": "case_status_abuse_cashback_ongkir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "id": "b72e2352-8425-44f8-8675-19b2576cd4b0",
+  "name": "FAQ_TopAds_Cara_Cek_Statistik_TopAds",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_TopAds_Cara_Cek_Statistik_TopAds-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa cek statistik TopAds dengan langkah di bawah ini :\n\n1. Pilih menu TopAds\n2. Klik statistik\n3. Pilih periode sesuai keinginan kamu"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_topads_cara_cek_statistik_topads"
+    }
+  ]
+}

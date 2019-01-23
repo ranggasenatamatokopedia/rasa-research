@@ -1,0 +1,43 @@
+{
+  "id": "418d0819-b0e5-4683-b3c1-36af0987c9bd",
+  "parentId": "ac27f987-10da-4579-826b-fdb70eef3ed6",
+  "rootParentId": "ac27f987-10da-4579-826b-fdb70eef3ed6",
+  "name": "TOKOPOINT_Tidak_bisa_menggunakan_kupon_notif_tidak_memenuhi_tnc",
+  "auto": false,
+  "contexts": [
+    "TOKOPOINT_Tidak_bisa_menggunakan_kupon-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetEmailAddress",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Tidak_bisa_menggunakan_kupon_notif_tidak_memenuhi_tnc-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh infokan alamat email yang kamu gunakan untuk promo ini?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523431557,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "notifikasi_akun_tidak_memenuhi_tnc"
+    }
+  ]
+}

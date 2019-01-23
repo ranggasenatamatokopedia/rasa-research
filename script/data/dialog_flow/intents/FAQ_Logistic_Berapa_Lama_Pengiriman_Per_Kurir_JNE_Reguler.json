@@ -1,0 +1,46 @@
+{
+  "id": "4707a86c-61db-4b8b-8f86-d65390cd130f",
+  "parentId": "e80cc040-b0e2-49a1-89a3-b0664768712c",
+  "rootParentId": "62328066-6ba6-453c-b337-f9f221db5f6f",
+  "name": "FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir_JNE_Reguler",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir_JNE-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3d22a969-7387-4687-8b4c-786125b452fd",
+          "required": false,
+          "dataType": "@layanan_kurir_reguler",
+          "name": "layanan_kurir_reguler",
+          "value": "$layanan_kurir_reguler",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Estimasi waktu pengiriman kurir JNE dengan layanan Reguler adalah 3-6 hari kerja ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528172324,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "reguler"
+    }
+  ]
+}

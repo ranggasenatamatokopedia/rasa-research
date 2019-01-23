@@ -1,0 +1,24 @@
+[
+  {
+    "id": "8c85b43f-aac9-4ed1-8acd-c4eb87179c6e",
+    "data": [
+      {
+        "text": "case_status_refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d9ec07b8-fde3-4ea4-ade1-1f4ea0f332ce",
+    "data": [
+      {
+        "text": "refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

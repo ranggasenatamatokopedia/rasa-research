@@ -1,0 +1,33 @@
+{
+  "id": "fc012ea9-25ea-4536-ab8b-586ab1006eab",
+  "name": "FAQ_Topads_Status_Iklan_Produk_Topads_Tidak_Aktif",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Topads_Status_Iklan_Produk_Topads_Tidak_Aktif-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Status iklan produk TopAds \u0027Tidak aktif\u0027 bisa disebabkan beberapa hal, diantaranya:\n1. Produk digudangkan\n2. Produk diset kosong\n3. Produk dihapus\n4. Produk baru diupload\n\nYuks, lakukan pengecekan kembali atas status produk kamu."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

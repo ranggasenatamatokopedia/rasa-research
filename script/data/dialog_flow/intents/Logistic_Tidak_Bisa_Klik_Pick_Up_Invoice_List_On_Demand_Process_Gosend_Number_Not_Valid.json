@@ -1,0 +1,48 @@
+{
+  "id": "21e3832e-096c-4e15-ba1d-15fe625f305e",
+  "parentId": "8b95b794-6b22-460b-bd87-013e1b6ad9c4",
+  "rootParentId": "b375e190-8e6c-475d-ac8e-0e3e3ac5900d",
+  "name": "Logistic_Tidak_Bisa_Klik_Pick_Up_Invoice_List_On_Demand_Process_Gosend_Number_Not_Valid",
+  "auto": true,
+  "contexts": [
+    "Logistic_Tidak_Bisa_Klik_Pick_Up_Invoice_List_On_Demand_Process_Gosend-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Tidak_Bisa_Klik_Pick_Up_Invoice_List_On_Demand_Process_Gosend_Number_Not_Valid-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek nomor telepon dari pihak Pembeli tidak valid. Beberapa validasi tersebut adalah:\n\n1. Nomor telepon harus diawali dengan angka (0), (08) atau (62). \n2. Nomor telepon yang diawali angka (08), punya jumlah nomor yang dapat diinput yaitu 10-14 nomor.\n3. Selain nomor telepon dengan angka depan (08), jumlah nomor yang dapat diinput adalah 9-15 nomor.\n4. Kalau terdapat tanda (+) pada awal nomor telepon, jumlah nomor yang dapat diinput yaitu 9-15 nomor."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped sarankan kamu menghubungi Pembeli untuk melakukan perubahan nomer telepon, dengan cara masuk ke \"Pengaturan\" lalu klik \"Daftar Alamat\" dan ubah nomor telepon pada alamat yang digunakan ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538724457,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "buyer_number_is_not_valid"
+    }
+  ]
+}

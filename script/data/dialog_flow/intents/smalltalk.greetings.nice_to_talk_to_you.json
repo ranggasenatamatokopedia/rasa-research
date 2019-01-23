@@ -1,0 +1,33 @@
+{
+  "id": "ea519621-1712-4822-9b52-d7cedc7f2a79",
+  "name": "smalltalk.greetings.nice_to_talk_to_you",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.greetings.nice_to_talk_to_you",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped juga senang bisa ngobrol sama kamu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1517874448,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "smalltalk_greetings_nice_to_talk_to_you"
+    }
+  ]
+}

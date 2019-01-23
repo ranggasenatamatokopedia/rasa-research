@@ -1,0 +1,29 @@
+[
+  {
+    "id": "96d6b232-fd2e-4bb3-9cbc-5bb8a7b6037d",
+    "data": [
+      {
+        "text": "invoice_barang_diganti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fc19b158-9da4-4250-8bf4-80545e7d8708",
+    "data": [
+      {
+        "text": "invoice_sedang_diproses_",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

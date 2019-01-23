@@ -1,0 +1,365 @@
+[
+  {
+    "id": "8b04e55d-7dee-44a6-9196-42dab9e66c99",
+    "data": [
+      {
+        "text": "berapa nominal dana utk pengembalian tiket psawat saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3a4638d1-1c99-456d-9b9a-25344376d4bc",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", berapa nominal pengembalian dana utk tiket psawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "350ddea3-c9f5-4254-9071-c1eb194713c9",
+    "data": [
+      {
+        "text": "berapa nominal dana pengembalian yg saya terima dr refund tiket pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9189fd4b-cebf-4d94-a981-6ebee03922bd",
+    "data": [
+      {
+        "text": "tlg informasikan nominal refund yg semestinya saya terima utk pembatalan tiket penerbangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bd190da5-c34a-468a-b117-f98f5810049c",
+    "data": [
+      {
+        "text": "nominal refund yg dterima setelah pembatalan tiket penerbangan brp ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8925da53-17cf-48ae-93f5-fc5e83810ab4",
+    "data": [
+      {
+        "text": "berapa nominal dana pengembalian tiket pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d22a98ba-fcb9-46e2-be99-438360060574",
+    "data": [
+      {
+        "text": "berapa nominal pengembalian dana tiket pesawat saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5264d7d7-616e-4894-9e23-c39e9923896b",
+    "data": [
+      {
+        "text": "saya mau tnya utk dana refund yg saya terima dr pembatalan tiket pesawat berapa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "07390b03-529b-4c2a-ab8d-bd1cc9a8286f",
+    "data": [
+      {
+        "text": "mau tnya berapa nanti dana pengembalian yg saya terima utk tiket pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7b2d53a7-fe97-442d-b5d6-a0883fdd5093",
+    "data": [
+      {
+        "text": "berapa nominal pengembalian dana tiket penerbangan saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bb9dea39-60bc-4309-bb29-5984a4934c47",
+    "data": [
+      {
+        "text": "tlg infokan berapa nominal refund yg harus saya terima utk pembatalan tiket pswat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cb921eef-6c24-4c88-a9ca-1c8aea6da2fc",
+    "data": [
+      {
+        "text": "nominal pengembalian tiket psawat saya berapa ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c9c52902-cf08-4a5b-a36f-1957bdf18361",
+    "data": [
+      {
+        "text": "utk pengembalian dana tiket pesawat, berapa nominal refund yang saya terima?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "54c18f7e-d50a-4ea2-b5c4-e5735ee0a067",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", mnta tolong info berapa nominal refund yg saya terima utk pembatalan tiket pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cab5da0a-b263-4f6a-9175-0a4ddded6202",
+    "data": [
+      {
+        "text": "utk tiket pesawat saya, mau tanya nominal nya berapa yg saya terima ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "166fea09-3ad7-455a-aca7-59a1230d0206",
+    "data": [
+      {
+        "text": "nominal dana pengembalian yg saya terima utk tiket pesawat yg dibatalkan itu brp ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1aeee9af-d160-4ad6-a3ee-16226c92ec86",
+    "data": [
+      {
+        "text": "brp nominal dana pengemballian tiket penerbangan yg saya terima?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "78e0130d-02d3-44a5-aa3d-bbbfcf10c719",
+    "data": [
+      {
+        "text": "tiket penerbangan saya direfund, saya mau tnya berapa nominal pengembalian yg harus saya terima?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ef59aea1-1fae-43bf-a589-33dbf76ebc1b",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", mnta tolong info berapa nominal refund yg saya terima utk pembatalan tiket penerbangan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "86d6c4bb-8981-48ec-b116-c33a7b6f80e7",
+    "data": [
+      {
+        "text": "nominal pengembalian dana dari pembatalan tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "207f189d-17e3-40be-8b3f-f65f4f1f09e8",
+    "data": [
+      {
+        "text": "tiket pesawat saya direfund, berapa nominal dana yg kembali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c115da2c-5ac1-42e0-93f8-90863d50b296",
+    "data": [
+      {
+        "text": "nominal dana pengembalian tiket pesawat saya berapa ya yg diterima?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "967b8a6e-f2f6-4b5c-b7fd-11fef034425c",
+    "data": [
+      {
+        "text": "berapa nominal dana pengembalian tiket pesawat yg saya terima?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c5cae97c-bfd1-4cf5-ae4c-daee3ce0971a",
+    "data": [
+      {
+        "text": "saya mau tnya berapa nominal pengembalian tiket penerbangan yg saya terima?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3ac6230b-a581-45aa-905c-347e106d5482",
+    "data": [
+      {
+        "text": "jika tiket penerbangan saya direfund, berapa nominal pengembalian dana yg saya terima?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f984bc72-e00d-4e64-a194-0f4554e60115",
+    "data": [
+      {
+        "text": "saya ada pembatan tiket pesawat minggu lalu. tapi potongannya kenapa banyak sekali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d18358fc-80c7-4002-b834-b67ddf5fc6c2",
+    "data": [
+      {
+        "text": "terkait refund tiket pesawat dana yg kembali berpa persen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6929e6ef-391c-4bec-bc39-8c11ac4e2e33",
+    "data": [
+      {
+        "text": "saya mau refund tiket brp biaya yg dikenakan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "89fb486b-0073-4add-8b29-a76029d3fc4c",
+    "data": [
+      {
+        "text": "sy ada kesalahan pengetikan nama dipembelian tiket pesawat, apa bsa saya cancel? apa ada tambahan biaya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "901801c3-481b-4ee3-bcf4-049f5bd81da8",
+    "data": [
+      {
+        "text": "saya baru beli tiket pesawat garuda rute palembang medan jika mau refund apakah dana 100% akan di kembalikan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

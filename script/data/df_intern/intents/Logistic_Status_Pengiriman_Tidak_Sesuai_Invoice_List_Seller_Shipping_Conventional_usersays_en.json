@@ -1,0 +1,46 @@
+[
+  {
+    "id": "5150efb3-b066-47a3-9f6f-34c10d96b215",
+    "data": [
+      {
+        "text": "conventional",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "38c9503b-c639-43ea-bd69-2b64a62513cc",
+    "data": [
+      {
+        "text": "conven",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1ea6d60d-18c9-4b0c-9334-be2a9954fd38",
+    "data": [
+      {
+        "text": "konvensional",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6a96f42d-fcbb-4988-ba3a-abfc054b86c2",
+    "data": [
+      {
+        "text": "courier_type_is_conventional",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

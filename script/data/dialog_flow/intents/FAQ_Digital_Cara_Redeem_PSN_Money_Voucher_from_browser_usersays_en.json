@@ -1,0 +1,55 @@
+[
+  {
+    "id": "adfd2d5a-1590-4360-afea-75ccc0665a31",
+    "data": [
+      {
+        "text": "browser ",
+        "userDefined": false
+      },
+      {
+        "text": "desktop",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "/smartphone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "67b8fc55-dea8-48a7-a6fd-b6cb28b5239e",
+    "data": [
+      {
+        "text": "smartphone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c0554034-49fa-415c-b9e6-187b294b7292",
+    "data": [
+      {
+        "text": "desktop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ac7670d8-74a9-4ed0-860c-91b0a6f69f30",
+    "data": [
+      {
+        "text": "browser",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

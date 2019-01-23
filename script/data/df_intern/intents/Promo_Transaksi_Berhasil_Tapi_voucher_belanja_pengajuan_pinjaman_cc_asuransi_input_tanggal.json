@@ -1,0 +1,48 @@
+{
+  "id": "4ae82e8a-65ca-4478-84dd-5c81c26e2848",
+  "parentId": "33494ae3-de1b-4eb1-bfef-84e9bf198ece",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Transaksi_Berhasil_Tapi_voucher_belanja_pengajuan_pinjaman_cc_asuransi_input_tanggal",
+  "auto": false,
+  "contexts": [
+    "Promo_Transaksi_Berhasil_Tapi_voucher_belanja_pengajuan_pinjaman_cc_asuransi-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "InsertDate",
+      "affectedContexts": [
+        {
+          "name": "Promo_Transaksi_Berhasil_Tapi_voucher_belanja_pengajuan_pinjaman_cc_asuransi_input_tanggal-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon menunggu sebentar ya, Kak :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Infokan juga tanggal pengajuannya ya, Kak"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522999714,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "input_email_address"
+    }
+  ]
+}

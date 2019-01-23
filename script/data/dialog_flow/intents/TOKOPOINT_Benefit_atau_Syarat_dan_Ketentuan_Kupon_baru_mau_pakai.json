@@ -1,0 +1,53 @@
+{
+  "id": "2aa48e79-245f-4699-a807-fe4c7b127958",
+  "parentId": "90b4ed65-34d8-4fd4-a8f8-c87e563d6528",
+  "rootParentId": "90b4ed65-34d8-4fd4-a8f8-c87e563d6528",
+  "name": "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_Kupon_baru_mau_pakai",
+  "auto": false,
+  "contexts": [
+    "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_Kupon_Tidak_Sesuai-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_Kupon_baru_mau_pakai-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kak, boleh tolong lampirkan ketidaksesuaian yang kamu maksud?"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Misalnya cashback nya tidak sesuai di halaman kupon dan potensi cashback yang muncul saat Kakak coba."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Silakan Kakak berikan screenshot notifikasi benefit yang akan kamu dapatkan."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523518409,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "tnc_tidak_sesuai_kupon_mau_dipakai"
+    }
+  ]
+}

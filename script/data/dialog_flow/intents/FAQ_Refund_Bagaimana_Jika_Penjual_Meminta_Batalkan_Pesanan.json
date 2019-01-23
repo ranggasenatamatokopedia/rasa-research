@@ -1,0 +1,33 @@
+{
+  "id": "9bc7b657-b252-4afb-953f-2d2ca6cb73c6",
+  "parentId": "8f45ceee-4534-4381-86ec-de9e2939f9f9",
+  "rootParentId": "8f45ceee-4534-4381-86ec-de9e2939f9f9",
+  "name": "FAQ_Refund_Bagaimana_Jika_Penjual_Meminta_Batalkan_Pesanan",
+  "auto": true,
+  "contexts": [
+    "FAQ_Refund_Bagaimana_Cara_Membatalkan_Pesanan_Yang_Tidak_Direspon_Penjual-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FAQ_Refund_Bagaimana_Cara_Membatalkan_Pesanan_Yang_Tidak_Direspon_Penjual.FAQ_Refund_Bagaimana_Cara_Membatalkan_Pesanan_Yang_Tidak_Direspon_Penjual-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pesanan yang sudah masuk ke tahap proses oleh penjual tidak bisa kamu dan Tokopedia batalkan secara sepihak. Kamu bisa menghubungi penjual dan memintanya untuk membatalkan pesanan.\n\nSebagai informasi tambahan, pesanan yang tidak dikirimkan oleh penjual hingga lebih dari 4x24 jam akan otomatis dibatalkan dan dana akan dikembalikan ke Saldo Tokopedia."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520238554,
+  "fallbackIntent": false,
+  "events": []
+}

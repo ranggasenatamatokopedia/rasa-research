@@ -1,0 +1,1349 @@
+[
+  {
+    "id": "f5a4ba18-652a-43e9-890c-e3deb84f1857",
+    "data": [
+      {
+        "text": "pesanan ini gak bisa ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bcf3efee-ed67-4d38-95d6-77159dc81c04",
+    "data": [
+      {
+        "text": "akan tetapi pada saat request ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "465489c5-09ae-46dd-a839-b9f155a89aae",
+    "data": [
+      {
+        "text": "apakah tokopedia sedang ada kendala utk ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?krn sy request ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9e69dcff-9570-4606-875e-ae36ff4c4ee6",
+    "data": [
+      {
+        "text": "tidak dapat request ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". tolong segera di cek apakah ada kesalahan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "44ce5395-f5f7-4b10-9ac7-33292cf8cb0f",
+    "data": [
+      {
+        "text": "siang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mw tanya sy request ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kok ga muncul yah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c167542e-ac33-4a56-8f37-804aacaa1dfb",
+    "data": [
+      {
+        "text": "halo tidak bisa ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5c440ed8-86ca-42e3-9c07-37cbfd4ef573",
+    "data": [
+      {
+        "text": "nomer invoice ini ko gabisa request ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "same day",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bdd69d92-e373-41e1-8ae8-490e4baa8f3e",
+    "data": [
+      {
+        "text": "Saya gak bisa bisa nih klik ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " padahal buyernya sudah minta barangnya ",
+        "userDefined": false
+      },
+      {
+        "text": "hari ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " juga di kirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9fcdb7b3-3f84-445e-883a-4194fca7da5c",
+    "data": [
+      {
+        "text": "Barang udah siap tapi orderannya gak bisa saya klik ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " eror terus. kenapa ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d4aea69b-9672-4063-9067-213550ebb3f3",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", ini kenapa saya gak bisa klik ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ya ",
+        "userDefined": false
+      },
+      {
+        "text": "Gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ya? pembelinya udah nunggu nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "946652c4-3117-4a7a-882b-9f59ae08ba2c",
+    "data": [
+      {
+        "text": "Saya sudah klik ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi ",
+        "userDefined": false
+      },
+      {
+        "text": "ko",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " keterangannya tidak bisa silahkan coba lagi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f130c18c-2a7e-4c3f-89a6-19386913a583",
+    "data": [
+      {
+        "text": "Buyer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " butuh barangnya, tp klik pick upnya error. Tolong dibenerin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e312a6ae-8657-4b1c-96e7-1c88317bec3d",
+    "data": [
+      {
+        "text": "Tokped lagi error? Saya request ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " selalu ga bisa.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6704b470-558d-4190-aed7-dd7c673c7e78",
+    "data": [
+      {
+        "text": "Seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak bisa request ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4e895108-1722-4ce3-a033-b42107c294e1",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya udah klik ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi muter-muter aja ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? Itu kenapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b8101d61-d80d-4cb6-9553-4ec2f1830c31",
+    "data": [
+      {
+        "text": "Saya ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " baru, mau coba request ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi selalu ga bisa. Mohon dibantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bdc0e86c-9645-481a-bf7e-169a92a5735e",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", aplikasi Tokopedia error ya? saya ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " muter-muter doang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6f35b04c-6d22-4671-825b-840b363df4f3",
+    "data": [
+      {
+        "text": "Padahal masih di sekitar jakarta ko tapi saya gak bisa klik ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "79c8115f-f818-4b38-8771-0b032e966025",
+    "data": [
+      {
+        "text": "Hai, Tokopedia lagi error ya? ini saya klik ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kok gak bisa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cfdfd575-3aac-46db-99ad-870d7095e2d2",
+    "data": [
+      {
+        "text": "Saya udah klik ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi ga bisa bisa, lagi kenapa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "50e708fe-9651-45f6-aa10-7392a453b3ec",
+    "data": [
+      {
+        "text": "saya tidak bs request ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9ce146b4-62f4-412a-b88e-387f8a1fe61f",
+    "data": [
+      {
+        "text": "tidak bisa ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6f1da68a-ef05-4653-8ad5-faab99f168a1",
+    "data": [
+      {
+        "text": " Di ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hanya keluar loading muter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a7a732f1-dd08-4d88-b187-a9a93f891af3",
+    "data": [
+      {
+        "text": "ga bisa klik ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "34683073-d56c-4e1a-bb3f-46f47688cb7c",
+    "data": [
+      {
+        "text": "apakah sedang ada kendala pada klik ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "850a54b2-c265-4316-b99f-c63043f58a2e",
+    "data": [
+      {
+        "text": "tidak bisa klik ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "43b41003-24f8-4967-9325-47071d655deb",
+    "data": [
+      {
+        "text": "pencarian driver error",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5bc4ca15-726a-4bcb-b359-056ec4abb58b",
+    "data": [
+      {
+        "text": "tidak bisa melakukan pencarian driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dc8aba06-a3bc-4c0b-a679-f2d0df164637",
+    "data": [
+      {
+        "text": "setiap di pilih ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " selalu keluar aplikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3e5bb216-41e9-4972-9815-cde5ce560ef4",
+    "data": [
+      {
+        "text": "tidak bisa klik pencarian driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b28cd2ff-c8c5-426f-b62c-b50c7e802553",
+    "data": [
+      {
+        "text": "kami tidak bisa klik ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f681b57d-5d0b-4757-8ddf-fe9e63be175f",
+    "data": [
+      {
+        "text": "Tolong kenapa saya tidak bisa proses untuk ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9a9593c8-9a18-4651-b165-68c4218b590e",
+    "data": [
+      {
+        "text": "menu ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ga bisa di pencet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e5f2bbdc-5e0c-4936-b90b-c16d27283fe1",
+    "data": [
+      {
+        "text": "saat kami klik ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum juga berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "416baa63-6e71-445f-a26e-591a670c3aca",
+    "data": [
+      {
+        "text": "saya tidak bisa masuk ke bagian klik pencarian driver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9520b49b-57e0-446e-978c-a68fa73a5dfd",
+    "data": [
+      {
+        "text": "gagal request ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ef2b2eae-0c94-4763-9eb6-0b3c728c2b59",
+    "data": [
+      {
+        "text": " tidak dapat kami proses ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "baf6d6d6-834e-46ad-983a-92b5132d9892",
+    "data": [
+      {
+        "text": "pencarian driver gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "015e1a6f-60f9-44dc-ab05-f68e02790d6a",
+    "data": [
+      {
+        "text": "saya tidak bisa melakukan request ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "04cd393e-4788-47d1-9b5d-e50982a4a498",
+    "data": [
+      {
+        "text": "Saya ada kendala tidak bisa request ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4fb49e35-4759-4ffb-8a56-eac50fd4bc28",
+    "data": [
+      {
+        "text": "ini min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " setiap kali kita tekan ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " selalu gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "07d137d0-ce93-4eb0-a4fe-140383a31348",
+    "data": [
+      {
+        "text": "ga bisa ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2
+  },
+  {
+    "id": "a29430e5-8c5d-486f-8226-d39d2fa15da4",
+    "data": [
+      {
+        "text": "menu ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sedang ada kendala ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f7d9d9b9-5c30-408f-bf97-f95dd346afb2",
+    "data": [
+      {
+        "text": "error saya pencet menu ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9aedd538-6a6e-4131-ad3a-a05f8211e542",
+    "data": [
+      {
+        "text": "kendala klik ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c681021e-63b9-422a-bd02-c58ffe7e415b",
+    "data": [
+      {
+        "text": "ga bisa klik menu ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3d190645-ebe3-41ba-8286-0a2cc2ef06f7",
+    "data": [
+      {
+        "text": "tidak bisa ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cc3e82a5-7129-4239-90a1-b37c155f9510",
+    "data": [
+      {
+        "text": "kenapa tidak bisa request ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c81d1312-d94e-403e-abfd-17714faa5536",
+    "data": [
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " error",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "05ae86e8-6e4a-418c-8873-00c93aefe035",
+    "data": [
+      {
+        "text": "pickupnya ga bisa di klik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "412e3626-9503-42b1-99f1-3576f2a8c679",
+    "data": [
+      {
+        "text": "error ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eaecde37-bbca-40e9-9cb9-9ca5ba91f1ce",
+    "data": [
+      {
+        "text": "tidak bisa di ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e30b0197-0001-442b-83bf-e1a5ecc1a86f",
+    "data": [
+      {
+        "text": "setiap menekan tombol ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", muncul pop up: maaf, Permohonan Anda ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak dapat kami proses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d6097e84-29d9-4745-8d3b-2406a2525a2e",
+    "data": [
+      {
+        "text": "Tidak bisa pick-up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b703a008-0d39-49a1-836a-756c849c3257",
+    "data": [
+      {
+        "text": "saya coba klik ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak bisa karena berkendala",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e9551454-12b7-498f-91b7-440567897c6c",
+    "data": [
+      {
+        "text": "kami tidak dapat pick-up order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "12b44625-7dfe-4025-9ee9-e3f1674c4ffc",
+    "data": [
+      {
+        "text": "ga bisa klik ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8fb13a3c-11f5-4879-a9c2-6fef59a5f91d",
+    "data": [
+      {
+        "text": "tidak bisa request ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7f19830f-a0ca-4c16-9d55-10cd65bed57f",
+    "data": [
+      {
+        "text": "request ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " error",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7c0d7732-050e-4d13-a5fe-5f70c3978f36",
+    "data": [
+      {
+        "text": "request ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "482a958a-59f1-4406-8f07-f3308e25da5d",
+    "data": [
+      {
+        "text": "tidak bisa proses ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "675366c8-c296-4e79-9703-1d5594ee00d9",
+    "data": [
+      {
+        "text": "saya tidak bisa klik ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "34f373fb-cb8e-49dd-8812-5d73137e2134",
+    "data": [
+      {
+        "text": "tidak bisa proses ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2837351e-a2ce-455f-9264-37551120c47a",
+    "data": [
+      {
+        "text": "tidak bisa klik ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "973ba6b8-7ed0-488e-ab6d-18c02d46ac75",
+    "data": [
+      {
+        "text": " no transaksi ini kenapa tidak bisa di ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "53081b9d-85d1-4f97-b71c-26e7e80fff9d",
+    "data": [
+      {
+        "text": "ada kendala pada menu ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7e6a7de3-dbb0-4367-a292-2ddfaf167248",
+    "data": [
+      {
+        "text": "ada kendala saat mau klik ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2d9bbe09-71a1-4371-935b-02090abedbb3",
+    "data": [
+      {
+        "text": "Kaga bisa di ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9c9e5c79-c149-4a07-a714-594555ff1748",
+    "data": [
+      {
+        "text": "apakah sedang ada kendala pada klik ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c10b0917-b216-4991-830f-2677ce96ab27",
+    "data": [
+      {
+        "text": "menu ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ga bisa di klik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

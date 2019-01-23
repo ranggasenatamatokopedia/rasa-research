@@ -1,0 +1,69 @@
+[
+  {
+    "id": "8acb00cd-dacd-4b8d-9a16-a997a5dd1e10",
+    "data": [
+      {
+        "text": "berkurang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "86d9a8c6-85dc-41f4-a571-9507b2811962",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "446807a4-86a1-45ad-a206-168b13f4cb06",
+    "data": [
+      {
+        "text": "kurang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6fa3184b-4f0d-41d9-a34c-ea693be578ab",
+    "data": [
+      {
+        "text": "Point reputasi berkurang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e07f14c2-fa77-42c8-9d3b-addd0e21ca05",
+    "data": [
+      {
+        "text": "select_number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "66d1e4c0-e90e-41e3-96f6-be21dc25a334",
+    "data": [
+      {
+        "text": "pointnya berkurang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

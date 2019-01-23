@@ -1,0 +1,37 @@
+{
+  "id": "1e457bae-a43b-4d99-b9f0-2401aefa15d4",
+  "parentId": "e43a0818-1946-45ec-921e-2ed9de59d71c",
+  "rootParentId": "e43a0818-1946-45ec-921e-2ed9de59d71c",
+  "name": "FAQ_Logistic_Wilayah_Pengiriman_Dan_Tujuan_Kurir_Ninja_Xpress",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Wilayah_Pengiriman_Dan_Tujuan_Kurir-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pengiriman dengan Ninja Xpress hanya bisa dilakukan kalau Penjual berada di wilayah JABODETABEK dan dengan tujuan pengiriman Bandung, Bali, Batu, Garut, Malang, Medan, Semarang, Subang, Surabaya, Tasikmalaya dan Yogyakarta ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528776822,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "ninja"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "d1004889-e442-42c2-85ee-5b40d18cfec9",
+  "parentId": "a70a50ca-ee27-41c6-ab10-002ca5c9ec96",
+  "rootParentId": "36de46a2-13d2-4f09-9ff4-8abcbcb54ba3",
+  "name": "Logistic_Barang_Dikembalikan_Ke_Pengirim_Sudah_Ninja_Rex",
+  "auto": true,
+  "contexts": [
+    "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Seller_Shipping_On_Demand_Sudah-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Dikembalikan_Ke_Pengirim_Sudah_Ninja_Rex-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk kelanjutan transaksi, apakah kamu ingin melakukan perubahan menjadi kurir Reguler atau dibatalkan saja?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Ubah Kurir",
+              "Batal Transaksi"
+            ],
+            "type": 1
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533883391,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "courier_ninja"
+    },
+    {
+      "name": "courier_rex"
+    }
+  ]
+}

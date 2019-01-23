@@ -1,0 +1,49 @@
+{
+  "id": "e24c0d6b-ef5c-4d53-ac56-e76f47176faf",
+  "name": "User_Play_Tidak_Bisa_Masuk_Ke_Play",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "User_Play_Tidak_Bisa_Masuk_Ke_Play-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk mengikut acara Play, pastikan kamu sudah mengaktifkan fitur shake shake di perangkatmu melalui halaman pengaturan."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Apakah kamu sudah mengaktifkan fitur shake shake?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Sudah",
+              "Belum"
+            ],
+            "type": 1
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

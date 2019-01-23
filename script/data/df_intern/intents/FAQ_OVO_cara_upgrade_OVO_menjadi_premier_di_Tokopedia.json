@@ -1,0 +1,36 @@
+{
+  "id": "afd73615-79d8-439b-8f91-85a31d065276",
+  "name": "FAQ_OVO_cara_upgrade_OVO_menjadi_premier_di_Tokopedia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika Kamu ingin meng-upgrade akun OVO mu menjadi Premier, Kamu dapat melakukan upgrade di aplikasi OVO nya langsung, ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Karena upgrade akun OVO tidak dapat dilakukan di Tokopedia."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_ovo_cara_upgrade_ovo_menjadi_premier_di_tokopedia"
+    }
+  ]
+}

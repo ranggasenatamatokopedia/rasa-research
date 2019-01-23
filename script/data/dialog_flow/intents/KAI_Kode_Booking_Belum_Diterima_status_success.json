@@ -1,0 +1,68 @@
+{
+  "id": "0c828cc9-4183-4700-abc8-63a6f60d4b18",
+  "parentId": "f68ed418-e125-45a9-87af-f0dff53499f9",
+  "rootParentId": "a7e1b254-86ed-4335-a90a-f9746590e450",
+  "name": "KAI_Kode_Booking_Belum_Diterima_status_success",
+  "auto": false,
+  "contexts": [
+    "KAI_Kode_Booking_Belum_Diterima_select_inv-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "KAI_Kode_Booking_Belum_Diterima_status_success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped ingatkan terlebih dulu agar email kamu masih aktif, kotak masuk (\u003ci\u003einbox\u003c/i\u003e) tidak penuh dan tidak atur \u003ci\u003espam\u003c/i\u003e email dari Tokopedia ya"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Beritahu Toped ya email transaksi ingin dikirim ke email terdaftar atau ke email yang lain?"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pilih salah satu dibawah ini ya,"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "button_actions": [
+              {
+                "message": "ke email terdaftar"
+              },
+              {
+                "message": "ke email yang lain"
+              }
+            ],
+            "type": 2
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540357335,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_finished"
+    }
+  ]
+}

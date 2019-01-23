@@ -1,0 +1,43 @@
+{
+  "id": "25a22f03-e3c9-4034-bb6e-11d950139108",
+  "parentId": "59692b1b-8c78-477f-a8df-4948f7bc397e",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Tidak_Mendapat_Cashback_Promo_Select_Invoice_MP_Finished_Fraud_Refund",
+  "auto": false,
+  "contexts": [
+    "Promo_Tidak_Mendapat_Cashback_Promo_Select_Invoice_MP_Finished_Fraud-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectSupportMessagePage",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Mendapat_Cashback_Promo_Select_Invoice_MP_Finished_Fraud_Refund-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Transaksi tersebut dibatalkan karena tidak memenuhi Syarat dan Ketentuan, sehingga cashback tidak bisa diberikan, dan dana transaksi dikembalikan ke Saldo / TokoCash / Limit Kartu Kredit ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531975537,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "case_status_refund"
+    }
+  ]
+}

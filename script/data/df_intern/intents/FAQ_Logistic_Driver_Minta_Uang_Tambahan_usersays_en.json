@@ -1,0 +1,262 @@
+[
+  {
+    "id": "d2b08a42-118f-4ba9-b09a-39d357427fdd",
+    "data": [
+      {
+        "text": "Kurir minta uang parkir ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tempat ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", apakah kewajiban saya membayar biaya tambahan, kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " maksa untuk saya memberikan biaya tambahan atas parkir dia di ruko ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pada saat pick up barang. Apakah kewajiban saya membayar biaya tersebut? Saya kan sudah bayar biaya pengiriman.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f8f6db69-fd79-4e8f-8fe6-be8ca7aa19fd",
+    "data": [
+      {
+        "text": "Kurir minta dibayar, kurir mengatakan biaya pengiriman ditanggung ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Tapi ternyata biaya pengiriman sdh termasuk dlm saat ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " jadi sudah terbayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f77cea23-281c-4f5c-9c4c-fbaeccf3175a",
+    "data": [
+      {
+        "text": "Kok tadi driver minta uang tambahan lagi ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7ad62484-041f-42bf-9b10-4978b9cb95bc",
+    "data": [
+      {
+        "text": "Driver minta ongkos kirim tambahan ke saya dengan alasan alamat pengirimannnya jauh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "54de4a97-2563-41d0-9638-df95c44852fe",
+    "data": [
+      {
+        "text": "Kok saya ditagihin uang lagi, padahal kan saya udah bayar di Tokped.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6371b678-1c7c-4a84-968f-59615f94861e",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya di mintain duit tambahan dari dari driver, uangnya bisa di kembaliin gak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d5895831-8848-47f4-8288-f525873e7ea0",
+    "data": [
+      {
+        "text": "Kok drivernya minta uang lagi ya, padahal kan saya sudah bayar ongkos kirimnya di Tokopedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1a8611f2-b450-4490-b696-55a4223225d0",
+    "data": [
+      {
+        "text": "Saya sedang tidak di rumah, yang terima barangnya pembantu saya. Katanya driver minta uang lagi ",
+        "userDefined": false
+      },
+      {
+        "text": "20",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ribu. Gimana nih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6bae768c-cb1d-4034-8afd-e3912450d9a9",
+    "data": [
+      {
+        "text": "Driver minta uang tambahan, terus saya kasih. Emang bener ya itu driver boleh minta gitu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cb2b0ef6-398f-4c7e-bd00-3d9fb296ee34",
+    "data": [
+      {
+        "text": "Uang tambahan yang saya kasih ke driver bisa dikembaliin ga ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "70f96144-aae7-44bf-aa89-761c77663571",
+    "data": [
+      {
+        "text": "Saya kasian td driver minta uang tambahan. Tp gapapa emangnya ya kalo gitu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8d44b755-84ef-4fde-a181-4f9c7d5ab248",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", masa saya di mintain duit parkir sama driver, balikin dong duitnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "010cf994-458f-45a8-9bf0-128be7c1dd80",
+    "data": [
+      {
+        "text": "Gan drivernya hubungin saya bilang mau kembaliin barangnya soalnya pembelinya gak bisa dihubungin tapi saya harus bayar ongkos kirim lagi ke dia baru barang di kembaliin ke saya. saya harus gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8bc4aae0-03c7-45ce-b8ae-173e57a6d15e",
+    "data": [
+      {
+        "text": "mengapa driver go-send meminta ongkir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8b00b77e-5366-4a99-bf92-caeb4e7d4f7f",
+    "data": [
+      {
+        "text": "driver gojek meminta tambahan ongkos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5df72ad1-d0cc-4e98-a745-5af49257d196",
+    "data": [
+      {
+        "text": ".kami mendapat komplen dari pembeli karena kurir grabsameday menagihkan biaya parkir.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8be5cf80-f43d-46e7-ad00-4b90777b9208",
+    "data": [
+      {
+        "text": "saya order barang pake grab, pas di terima oleh karyawan saya, driver tsb meminta uang 10rb karena ada biaya parkir saat ambil barang ke penjual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

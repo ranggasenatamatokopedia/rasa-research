@@ -1,0 +1,79 @@
+[
+  {
+    "id": "bfbd23cf-4526-469b-afac-914e6f58fa71",
+    "data": [
+      {
+        "text": "pake ",
+        "userDefined": false
+      },
+      {
+        "text": "sameday",
+        "alias": "layanan_kurir_pick_up",
+        "meta": "@layanan_kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4f8eb0b9-eef2-4157-b97a-d8932cfbd7cf",
+    "data": [
+      {
+        "text": "same day",
+        "alias": "layanan_kurir_pick_up",
+        "meta": "@layanan_kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "572b52fe-6122-463d-ae46-46f1821cf87a",
+    "data": [
+      {
+        "text": "yang ",
+        "userDefined": false
+      },
+      {
+        "text": "same day",
+        "alias": "layanan_kurir_pick_up",
+        "meta": "@layanan_kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b5e05f4b-8075-4801-bc52-a536fcfb9c1b",
+    "data": [
+      {
+        "text": "sameday",
+        "alias": "layanan_kurir_pick_up",
+        "meta": "@layanan_kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "90c02ab3-3e6d-470f-988e-449ca0acd77a",
+    "data": [
+      {
+        "text": "pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "same day",
+        "alias": "layanan_kurir_pick_up",
+        "meta": "@layanan_kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

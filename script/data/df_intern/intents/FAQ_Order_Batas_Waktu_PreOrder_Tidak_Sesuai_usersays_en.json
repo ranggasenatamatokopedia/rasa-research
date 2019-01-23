@@ -1,0 +1,191 @@
+[
+  {
+    "id": "067ab21c-db4a-4127-ac7d-6a9b17e7a5ee",
+    "data": [
+      {
+        "text": "pre order tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "89fa953f-b1e8-452f-8bad-b93995263cc1",
+    "data": [
+      {
+        "text": "Proses barangnya kenapa lebih lama dari awal saya pesan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "767ba065-0d02-4da1-98e9-8d07478377a4",
+    "data": [
+      {
+        "text": "Terdapat perbedaan waktu dari waktu awal melakukan pembelian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ddf9c654-7dca-4faa-8382-4fb17acd9769",
+    "data": [
+      {
+        "text": "Kenapa waktu prosesnya jadi berbeda pada barang preorder saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c26693fd-1f83-4f3a-ab38-ea9e80c1585c",
+    "data": [
+      {
+        "text": "Waktu preorder tidak sesuai deskripsi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b3539e82-cfd2-48f1-bf73-d2ce2cad6142",
+    "data": [
+      {
+        "text": "Saya butuh barangnya Pre order nya segera, dan ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " waktu prosesnya menjadi ilebih lama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "af2ea383-6531-4eaa-ac41-d6e03d1383a0",
+    "data": [
+      {
+        "text": "Waktu PO saat awal checkout dan sesudah melakukan pembayaran berbeda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eca41c90-02d7-4c7b-845d-5f93b6968320",
+    "data": [
+      {
+        "text": "Waktu preorder menjadi lebih lama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b1777f7b-e212-4c8d-ab8c-c1d0f1d8f49a",
+    "data": [
+      {
+        "text": "Ada perubahan waktu preorder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2
+  },
+  {
+    "id": "fb9a4e7e-f266-44e7-932a-831f2af84ace",
+    "data": [
+      {
+        "text": "Kenapa lama sekali dikirimnya barang pre order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5afa50b1-e204-4584-b057-1f45b1e62dd3",
+    "data": [
+      {
+        "text": "Barang preorder yang saya pesan belum dikirim ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0f5c1fbf-0f0d-4d02-97ec-6541a6e48722",
+    "data": [
+      {
+        "text": "kok waktu pre order pesanan saya tidak sesuai ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "42d055f3-313e-46fc-b92b-3f729f0f5f30",
+    "data": [
+      {
+        "text": "Penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum mengirimkan barang preordernya hingga ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1a6df3ce-e0a4-4d97-bfd6-0a71a4eafe33",
+    "data": [
+      {
+        "text": "Pesanan saya tidak sampai-sampai!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e8ba580f-0ce3-47b9-9c69-4067abfa4121",
+    "data": [
+      {
+        "text": "saya mau menjual barang pre order.estimasi barang datang 30 hari.yg saya tanyakan apakah saat barang datang kurang dalam 30 hari. sistem bisa dirubah? misal barang siap dikirim  pada hari ke 20",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

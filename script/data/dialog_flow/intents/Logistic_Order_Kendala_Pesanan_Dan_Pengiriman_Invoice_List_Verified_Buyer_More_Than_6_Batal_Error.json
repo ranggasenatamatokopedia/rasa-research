@@ -1,0 +1,48 @@
+{
+  "id": "e6408ac4-5331-409f-8d99-ec4c6abc9c17",
+  "parentId": "a2b56312-02d5-4c05-94e5-c0b2a80d71ac",
+  "rootParentId": "d19f77a0-9fc1-4329-9b8c-1f9cb2ed3084",
+  "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Verified_Buyer_More_Than_6_Batal_Error",
+  "auto": true,
+  "contexts": [
+    "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Verified_Buyer_More_Than_6_Batal-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Verified_Buyer_More_Than_6_Batal_Error-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon maaf, Toped gagal mengajukan pembatalan pesanan kamu ke Penjual. Pastikan kamu belum pernah mengajukan pembatalan sebelumnya ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa coba lagi nanti, atau bisa ajukan pembatalan dari akun kamu melalui menu \"Status Pemesanan\"."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541160628,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "api_error_cancel_order"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "8ae4fc23-4d53-40bb-86e7-8b71c0ad073a",
+  "parentId": "c7f54be0-7fab-4476-a3ce-c073f7f3a133",
+  "rootParentId": "b5d703e5-b4ee-4716-a78d-6a74da4e1538",
+  "name": "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Seller_Rejected_Pending",
+  "auto": true,
+  "contexts": [
+    "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Seller-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Seller_Rejected_Pending-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Maaf, saat ini transaksi kamu sedang dicarikan produk pengganti melalui fitur peluang."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536503632,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_pencarian_barang_pengganti"
+    }
+  ]
+}

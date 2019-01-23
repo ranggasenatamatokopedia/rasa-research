@@ -1,0 +1,65 @@
+{
+  "id": "c54aacf7-f12b-4f26-bc42-443b39c66e64",
+  "parentId": "49b34e54-4bb9-4a14-8efd-adf61220feab",
+  "rootParentId": "d19f77a0-9fc1-4329-9b8c-1f9cb2ed3084",
+  "name": "Logistic_Order_Process_Buyer_Not_Peluang_On_Demand_Gosend_Grab",
+  "auto": true,
+  "contexts": [
+    "Logistic_Order_Process_Buyer_Not_Peluang_On_Demand-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Order_Process_Buyer_Not_Peluang_On_Demand_Gosend_Grab-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Saat ini order kamu masih menunggu dikirim dari penjual. jika verifikasi pesanan kamu sebelum pukul 15.00 WIB, penjual akan memproses dan mengirim dalam waktu maksimal 2x24 jam di hari kerja, sejak pesanan kamu terverifikasi."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sedangkan jika verifikasi pesanan lebih dari pukul 15.00 WIB akan diproses dan dikirim H+2 dari pukul 16.00 WIB di hari kerja sejak pesanan kamu terverifikasi. Lebih dari batas waktu itu, pesanan akan otomatis batal dan dana kamu akan dikembalikan ke Saldo Tokopedia/Limit Kartu Kredit."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sebagai tambahan info, Toped tidak bisa membatalkan pesanan yang sudah diproses penjual. Kamu bisa hubungi penjual ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541387942,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "courier_grab"
+    },
+    {
+      "name": "courier_go-send"
+    },
+    {
+      "name": "courier_gojek"
+    },
+    {
+      "name": "courier_go-jek"
+    },
+    {
+      "name": "courier_gosend"
+    }
+  ]
+}

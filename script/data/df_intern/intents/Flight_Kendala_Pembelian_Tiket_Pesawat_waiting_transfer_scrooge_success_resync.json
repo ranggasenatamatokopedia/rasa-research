@@ -1,0 +1,43 @@
+{
+  "id": "ca6f0047-5198-42aa-9b9c-6058bd8b85ae",
+  "parentId": "d2532507-53fe-4faa-a0ab-284dead12f15",
+  "rootParentId": "7f7a8cb1-cbe8-48a9-9930-7686b772cf99",
+  "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_waiting_transfer_scrooge_success_resync",
+  "auto": false,
+  "contexts": [
+    "Flight_Kendala_Pembelian_Tiket_Pesawat_get_invoice_waiting_transfer_scrooge_success-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetRealTimeOrderStatusFlight",
+      "affectedContexts": [
+        {
+          "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_waiting_transfer_scrooge_success_resync-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537962940,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "resync_payment"
+    }
+  ]
+}

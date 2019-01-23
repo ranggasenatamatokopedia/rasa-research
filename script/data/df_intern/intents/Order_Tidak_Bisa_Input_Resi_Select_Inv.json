@@ -1,0 +1,43 @@
+{
+  "id": "9d000de8-a3b0-4dbd-8374-7ff704d4594e",
+  "parentId": "0c60f8a5-c89d-4057-9ddc-8071a3ac4418",
+  "rootParentId": "0c60f8a5-c89d-4057-9ddc-8071a3ac4418",
+  "name": "Order_Tidak_Bisa_Input_Resi_Select_Inv",
+  "auto": true,
+  "contexts": [
+    "Order_Tidak_Bisa_Input_Resi-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SelectInvoice",
+      "affectedContexts": [
+        {
+          "name": "Order_Tidak_Bisa_Input_Resi_Select_Inv-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538020881,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "select_invoice"
+    }
+  ]
+}

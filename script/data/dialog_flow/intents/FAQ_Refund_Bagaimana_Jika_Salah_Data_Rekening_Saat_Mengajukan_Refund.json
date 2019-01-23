@@ -1,0 +1,32 @@
+{
+  "id": "0ded405a-6d9e-49d4-a8f6-e96ea9c5bc45",
+  "name": "FAQ_Refund_Bagaimana_Jika_Salah_Data_Rekening_Saat_Mengajukan_Refund",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sayang sekali, kamu tidak bisa batalkan pengajuan pengembalian dana (refund) yang sudah diisi sebelumnya. Tapi, bank bisa menolak penarikan dana jika ditemukan kesalahan informasi rekening yang kamu berikan dan dana akan kembali ke Saldo Tokopedia kamu."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520238515,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_refund_bagaimana_jika_salah_data_rekening_saat_mengajukan_refund"
+    }
+  ]
+}

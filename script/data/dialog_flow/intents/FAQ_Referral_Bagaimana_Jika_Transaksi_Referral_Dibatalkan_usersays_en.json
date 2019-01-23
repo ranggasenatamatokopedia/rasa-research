@@ -1,0 +1,419 @@
+[
+  {
+    "id": "ab357175-fec5-4889-903d-a2963ca1a6c0",
+    "data": [
+      {
+        "text": "bagaimana nasib saya klo pembelian yg pake referral ternyata dibatalin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d29dc5fb-8cf1-4795-87b8-c8c31429c294",
+    "data": [
+      {
+        "text": "klo transaksi referralnya tidak berhasil bagaimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "58157dc6-d281-4ff5-b5f0-860c72bcc631",
+    "data": [
+      {
+        "text": "lah klo transaksi saya yg pake referral dibatalkan ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c1cd90a0-231c-45fa-8a59-5fe638e28efe",
+    "data": [
+      {
+        "text": "gimana kalo pembelian saya yg pake referral batal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cb890f17-0b8e-4a7c-897a-8817bee46fdc",
+    "data": [
+      {
+        "text": "gimana kondisinya klo pembelian yg pake referral batal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3fa18fb0-2073-4575-b08d-37fc3a0285f6",
+    "data": [
+      {
+        "text": "klo pembelian pake referral tapi gagal gimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2bd1ba7e-3eaf-46da-ab74-18e82688a93d",
+    "data": [
+      {
+        "text": "pesanan dengan kode referral saya batal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8751819e-aa6e-4410-8ee2-ed8c4cf7d89f",
+    "data": [
+      {
+        "text": "kalau transaksi yg pake kode referral ternyata gagal gimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "192c1646-e940-485e-98c6-1a65b42f58ed",
+    "data": [
+      {
+        "text": "klo pembelian referral dibatalkan gimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6d7f94dd-2fb5-496d-93b7-a30ed32b75ca",
+    "data": [
+      {
+        "text": "gimana jadinya klo pembelian ku yg pake kode referral dibatalkan..?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bae0cd77-5003-4f9d-85c4-b5811a8658ad",
+    "data": [
+      {
+        "text": "bagaimana jika transaksi referral saya dibatalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b10f0a1c-c2c8-4aa3-b151-bcaf69df9bdf",
+    "data": [
+      {
+        "text": "pembelian referral saya dibatalkan, bonusnya gimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "02439e6d-51dd-4afb-a578-f667a6e77bb8",
+    "data": [
+      {
+        "text": "apakabar pembelian referral saya yg batal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4873c9fa-374a-4b5f-8e36-c0cdc9a4b35a",
+    "data": [
+      {
+        "text": "pembelian saya yg sebelumnya pake referral di cancel, gimana tentang cashbacknya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2a95a7cb-a7fd-4a8c-9626-c412bad1bc0c",
+    "data": [
+      {
+        "text": "pembelian dengan kode referral batal, gimana bonusnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "88766747-6bd3-456e-bd21-65c047b8d726",
+    "data": [
+      {
+        "text": "cashback referral gimana klo transaksinya gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "85dd78bb-2988-4e80-9c44-d7327c1f7632",
+    "data": [
+      {
+        "text": "klo pesanan saya ditolak ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", cashback referralnya gimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a5d0af6d-eef1-47bc-a6b5-45db5653807a",
+    "data": [
+      {
+        "text": "transaksi yg pake kode referral ditolak ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", apa masih bisa dapet bonus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "53725e23-f357-42dd-99e4-ab88a45ca653",
+    "data": [
+      {
+        "text": "klo pembelian referral saya dibatalin gimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "39dd5ed7-f768-4116-9a09-cdfc81c05864",
+    "data": [
+      {
+        "text": "gimana kalo pembelian batal, saya pake kode referal. Cashbacknya dpt ga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "03c006a7-3380-4c87-bda4-c6254273986e",
+    "data": [
+      {
+        "text": "transaksi referral saya batal, gimana bonusnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3110b735-8a8b-4b27-8204-c1b17d4c482a",
+    "data": [
+      {
+        "text": "klo transaksi referral dibatalin gimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "414af5fd-c3f8-48e3-941e-3ead70d368ec",
+    "data": [
+      {
+        "text": "pembelian referral saya batal, gimana cashbacknya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "118457ab-8f7c-4083-bcf9-87649222745f",
+    "data": [
+      {
+        "text": "gimana dengan cash back dari referral yg sebelumnya batal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b749d57c-5438-4589-9b83-e79ff559a174",
+    "data": [
+      {
+        "text": "pesanan dengan kode referral dibatalkan, apa saya masih dapet bonus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fa27cf0e-7c7d-4beb-a5d0-42b067d3f5e5",
+    "data": [
+      {
+        "text": "pembelian referral ku batal,cashback nya gimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3a5e8038-89e6-4ea6-b99b-1a3327224592",
+    "data": [
+      {
+        "text": "gimana jadinya kalo transakaksi referral dibatalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a2fe4337-cb9f-4246-9bf7-5dd896281e21",
+    "data": [
+      {
+        "text": "pembelian referral sudah di batalkan oleh ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", gimana cashback dan  bonusnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "71b54e01-05c8-464e-8543-55259c1fdb40",
+    "data": [
+      {
+        "text": "transaksi referral dibatalkan ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", gimana bonusnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7aeea9cf-0761-460e-b4ae-0e786028f865",
+    "data": [
+      {
+        "text": "cashback dari pembelian pake referral apakah masih dapat klo pesanan sy ditolak ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", bukan kesalahan saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bb9c5080-3f3a-45a3-bfdf-ad300d85b8de",
+    "data": [
+      {
+        "text": "gimana jika transaksi teman saya yg pake referral ternyata gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0ef28fe9-d0b2-40e1-9d12-543589441c04",
+    "data": [
+      {
+        "text": "pembelian saya yg pake kode referral batal, gimana tuh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "393e8937-8436-4a6d-918d-e761257d7491",
+    "data": [
+      {
+        "text": "klo pembelian yg pake kode referral batal gimana dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

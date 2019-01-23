@@ -1,0 +1,776 @@
+[
+  {
+    "id": "10357a57-a860-481d-8730-ce03f82b1e49",
+    "data": [
+      {
+        "text": "Penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak pernah respon, harus pastiin diabada gk barang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0a0aba47-b7ec-4ae4-a7e6-bb1d23601009",
+    "data": [
+      {
+        "text": "Tidak ada  info dr ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " apakah mau dikirim soalnya saya paket jasa ",
+        "userDefined": false
+      },
+      {
+        "text": "go send",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8955f7a6-ab49-47f7-9440-3eddd17d736f",
+    "data": [
+      {
+        "text": "di chat ga direspon respon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ca1e398a-bada-4ade-8b73-f956c12cde81",
+    "data": [
+      {
+        "text": "trus dia nanta apakah pesanan bpk jd dikirim atw di cancel. trus saya jwb. klw jd di kirim kpan dikirimnya. nahh dia diam aja.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "040548fd-985f-44fc-8661-f300450a1641",
+    "data": [
+      {
+        "text": "chat ke ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ga ada yang di bales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3ca93b4a-ef55-441e-a64f-c96e348a4980",
+    "data": [
+      {
+        "text": "bisa minta tolong hubungi ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ga? saya sudah chat tapi belum dibalas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "126cd4b2-c724-493c-96fe-4c5353240e72",
+    "data": [
+      {
+        "text": "Penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nya tidak ada kabar sama sekali di chat inbox gak di balas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4b4fa52d-1a69-432c-aea2-c1d8175e53e4",
+    "data": [
+      {
+        "text": "kesal lama lama chat ke ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi ga ada tanggapan apa apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "000c132a-fe4b-47da-bd6a-87a920436d35",
+    "data": [
+      {
+        "text": "udah chat dari ",
+        "userDefined": false
+      },
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi belum ada tanggapan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3e107ed9-3c73-46bb-8682-645b14b07d00",
+    "data": [
+      {
+        "text": "belum ada kabar dari ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mengenai pesanan saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "11856a58-9fe9-4ae2-b286-a842b465bc01",
+    "data": [
+      {
+        "text": "saya sudah hubungi lewat pesan tokopedia, tapi ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak membalas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "91624de8-9496-4343-8b82-1d16ebd5b319",
+    "data": [
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ga balas chat yang saya kirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "274be0f8-5724-40af-9c33-916c9d787c4e",
+    "data": [
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sangat tidak responsif, chat tidak ditangapi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5bba74dc-9548-4c0b-a372-2de6fb2faf97",
+    "data": [
+      {
+        "text": "udah kirim pesan ke ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " berkali kali tapi di diemin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "612099f2-034c-4fda-9150-16f1a393c195",
+    "data": [
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak menanggapi pesan yang saya kirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a4ef6ed6-9eda-4cc8-87d6-e54f30ac3f3d",
+    "data": [
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " udah saya chat beberapa kali tapi belum balas nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bbe755f1-89ca-47b4-9a98-72e58d6a1554",
+    "data": [
+      {
+        "text": "saya sudah chat ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " lewat aplikasi, tapi ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum membalas sama sekali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1f33fc3b-8bd3-43d2-ac9d-0fda3243e02d",
+    "data": [
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " udah saya hubungi tapi sama sekali tidak ada respon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e7b68883-aa31-49a0-8d94-dbf90d07ea89",
+    "data": [
+      {
+        "text": "saya udah hubungi ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi ga direspon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f9b4e699-cede-44d7-b204-4eac29b48f3e",
+    "data": [
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak responsif, sudah saya chat tapi tidak ada balasan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "01901141-0e6f-4acf-b791-1b19e9294569",
+    "data": [
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " apa sih ini di chat kok ga ada respon sama sekali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ca8161a7-069a-41e3-a469-4a212363f973",
+    "data": [
+      {
+        "text": "saya chat ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gak dibalas, padahal saya butuh sekali barang yang saya pesan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1c79e760-81e1-4e69-8a71-fb521a25706a",
+    "data": [
+      {
+        "text": "kirim pesan ke ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ga ada respon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6b8497d6-18d7-4bca-9763-b47181da7290",
+    "data": [
+      {
+        "text": "saya udah kirim pesan ke ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi ga dibalas balas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d3e7cd27-6147-4dc2-a5f6-886c6b763910",
+    "data": [
+      {
+        "text": "udah chat ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " beberapa kali tapi masih ga di bales juga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "981b8619-61b3-496c-96ec-d1ed086d1ddc",
+    "data": [
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tdk merespon, saya sdh menghubungi beberapa kali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0ffb43fb-a33e-4be2-9044-3e984b2a2351",
+    "data": [
+      {
+        "text": "saya chat penjualnya tidak di balas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dee3a4b5-5e5b-4f7c-9d31-4dc2f8d9f58b",
+    "data": [
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " udah ku kirimin pesan tapi ga bales bales deh ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9813901c-3827-4d69-973e-1671b0f3d5d2",
+    "data": [
+      {
+        "text": "belum ada balasan chat dari ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7248ee8a-1893-4b1b-a425-0a56306dd8c3",
+    "data": [
+      {
+        "text": "tidak ada kabar dari ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6bec284a-d66a-4892-b801-14a975794874",
+    "data": [
+      {
+        "text": "sudah di chat berkali-kali tapi ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak membalas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "855fc12a-b35b-469c-88b4-4f8bf39e360b",
+    "data": [
+      {
+        "text": "chat saya belum juga direspon ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d5d68390-d62f-43b5-92cf-a843d4d9dbd1",
+    "data": [
+      {
+        "text": "Penjual tidak merespon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "45f04caa-f6a5-4b2c-aef0-ed0a88bfa171",
+    "data": [
+      {
+        "text": "sudah tp tdk di respon si penjual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b12db943-a99f-404b-acf2-4e9fcbbdddfb",
+    "data": [
+      {
+        "text": "slow respon dr pihak penjual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "268679c5-73b6-472d-9c01-24ab4051b849",
+    "data": [
+      {
+        "text": "td udh di chat sama penjualnya katanya saptu minggu dia ttup . trus dia nanta apakah pesanan bpk jd dikirim atw di cancel. trus saya jwb. klw jd di kirim kpan dikirimnya. nahh dia diam aja.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "619f43f8-e6f2-4a91-9e8e-5e04bed4573f",
+    "data": [
+      {
+        "text": "saya ajukan pertanyaan tdk djawab2 penjual sampai kapan saya. dsuruh nunggu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6be93e87-2750-4553-be4e-3205f51f7fef",
+    "data": [
+      {
+        "text": "- Kenapa complain saya blm direspon oleh penjual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d294d5ab-901f-4371-815f-fa34e841de9b",
+    "data": [
+      {
+        "text": "penjual gak mau respon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fe54c97a-939c-47f0-a5e2-3e856a93c21b",
+    "data": [
+      {
+        "text": "penjualnya online tapi responnya sangat lama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "33727d0e-2d93-496a-81b2-e044bf115e79",
+    "data": [
+      {
+        "text": "penjual respon lama dan gak mau ganti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5a6ce4f7-0176-420f-9714-b6c71c293f44",
+    "data": [
+      {
+        "text": "penjual tidak merespon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6fe0ef75-a082-4ac8-9c91-21526bc270a8",
+    "data": [
+      {
+        "text": "penjual tidak respon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "26e488b7-94dd-43ea-8bb8-4e68c40bf888",
+    "data": [
+      {
+        "text": "ini penjualnya tidak merespon komplainan saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7aacec74-3640-4e29-9ad9-eb257454284b",
+    "data": [
+      {
+        "text": "Sdh coba tdk direspon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2d864171-8ba6-4584-b953-0e27c0cbe8b4",
+    "data": [
+      {
+        "text": "penjual tidak merespon komplain apakah uang pembeli bisa kembali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "886a6521-aa9f-4870-bb3e-d64f8465213f",
+    "data": [
+      {
+        "text": "saya mau beli tp chat saya tidak pernah di balas oleh penjual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "210c4edc-6d3f-4d5e-9685-811240c8be4a",
+    "data": [
+      {
+        "text": "sy cm mau tanya kok sy chat ke penjual gak ada respon sampe skrg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2bbd6186-ca79-4594-9647-290e8479ec8e",
+    "data": [
+      {
+        "text": "toko tidak menanggapi chat saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9b6121cd-2b9a-48e2-932c-68966ac1b47b",
+    "data": [
+      {
+        "text": "waktu saya chat penjual kok ga ada respon ya, wah saya jadi was was..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

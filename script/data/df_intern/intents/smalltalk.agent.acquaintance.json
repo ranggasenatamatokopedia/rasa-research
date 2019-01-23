@@ -1,0 +1,33 @@
+{
+  "id": "20913fbd-2542-4cb3-a9d0-612e0a1a31b2",
+  "name": "smalltalk.agent.acquaintance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai, salam kenal. Namaku Toped, jangan malu untuk bertanya sama aku ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1517266957,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "smalltalk_agent_acquaintance"
+    }
+  ]
+}

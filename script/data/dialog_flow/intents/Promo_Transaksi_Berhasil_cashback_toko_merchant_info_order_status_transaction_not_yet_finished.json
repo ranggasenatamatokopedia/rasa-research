@@ -1,0 +1,42 @@
+{
+  "id": "bad50475-2c56-4f60-84b1-93829158499b",
+  "parentId": "2f477485-a0b7-4045-a629-2cec00598a02",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Transaksi_Berhasil_cashback_toko_merchant_info_order_status_transaction_not_yet_finished",
+  "auto": false,
+  "contexts": [
+    "Promo_Transaksi_Berhasil_cashback_toko_merchant_info_order_status-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai Kak, Toped cek status pesanannya belum finished karena Kakak belum melakukan konfirmasi penerimaan."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped sarankan untuk menunggu terlebih dahulu ya. Cashback akan diterima maksimal 1x24 jam setelah transaksi finished dan tidak melanggar Syarat Ketentuan."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522928015,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "transaction_not_finished"
+    }
+  ]
+}

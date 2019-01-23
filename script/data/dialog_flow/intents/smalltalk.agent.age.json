@@ -1,0 +1,42 @@
+{
+  "id": "240aeca3-d8bd-45eb-a3f3-b67a8069e7c9",
+  "name": "smalltalk.agent.age",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.age",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6c1e9d01-b5ba-4568-9e5a-75e5fc5a61d0",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "age",
+          "value": "$age",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped adalah generasi milenial yang siap membantu kamu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504183892382,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "smalltalk_agent_age"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "0e0a1005-f886-435e-9c6c-17d54cc09b2f",
+    "data": [
+      {
+        "text": " payment_scrooge_status_expired",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "28e30d0d-c699-4804-a10c-7d4da133f9fc",
+    "data": [
+      {
+        "text": " payment_scrooge_status_pending",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "92a7499c-4eb8-433e-83bb-ddbc7533d678",
+    "data": [
+      {
+        "text": " payment_scrooge_status_failed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2424c5bf-ef66-4969-8f72-0a7db9ffd417",
+    "data": [
+      {
+        "text": " payment_scrooge_status_waiting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "950172be-06a7-465e-ab61-566c03e1f626",
+    "data": [
+      {
+        "text": " payment_scrooge_status_refunded",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c2681664-f72f-42ff-97a2-4796c302da74",
+    "data": [
+      {
+        "text": " payment_scrooge_status_cancelled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

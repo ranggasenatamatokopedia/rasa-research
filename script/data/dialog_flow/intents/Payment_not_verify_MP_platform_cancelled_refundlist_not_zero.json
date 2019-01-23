@@ -1,0 +1,43 @@
+{
+  "id": "3856ec2d-78b7-40a6-81c3-12eba2180d52",
+  "parentId": "1fcb73bc-97cb-4c4a-8e95-edf1fdce3d01",
+  "rootParentId": "7702a921-0bc2-479f-9cd3-aade8103768a",
+  "name": "Payment_not_verify_MP_platform_cancelled_refundlist_not_zero",
+  "auto": true,
+  "contexts": [
+    "Payment_not_verify_MP_platform_cancelled_cc-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetRefundStatus",
+      "affectedContexts": [
+        {
+          "name": "Payment_not_verify_MP_platform_cancelled_refundlist_not_zero-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531275771,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "refund_list_is_not_null"
+    }
+  ]
+}

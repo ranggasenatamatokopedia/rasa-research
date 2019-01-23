@@ -1,0 +1,63 @@
+{
+  "id": "bea3f111-6702-4646-ba6b-285bd71dfcaf",
+  "parentId": "dbb2c66b-b6c8-48e2-bb82-b17b05de15f9",
+  "rootParentId": "c230094b-7dd5-43f4-984b-d415098c4e53",
+  "name": "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_id_pelanggan_tidak_ditemukan_PDAM_ticket",
+  "auto": false,
+  "contexts": [
+    "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_id_pelanggan_tidak_ditemukan_PDAM_Telkom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_id_pelanggan_tidak_ditemukan_PDAM_ticket-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c08cbad0-3e45-47b8-9aec-05cb0c6bc86c",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1105"
+        },
+        {
+          "id": "3aae4de7-edac-445c-aaed-f3773a2da4c4",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Digital_Tidak_Dapat_Melakukan_Transaksi"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu sebentar ya, Toped bantu buatkan tiket atas kendala kamu :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Info selanjutnya akan dikirim lewat layanan pengguna :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535958685,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

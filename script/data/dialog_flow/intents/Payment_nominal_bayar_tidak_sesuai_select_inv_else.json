@@ -1,0 +1,55 @@
+{
+  "id": "494c3fed-8e95-4196-a371-8ed89d67b55d",
+  "parentId": "1b42339a-69c6-41c5-9761-256c99b4fd4d",
+  "rootParentId": "feb54c5b-52cd-4135-8fbe-6ef49ccb8866",
+  "name": "Payment_nominal_bayar_tidak_sesuai_select_inv_else",
+  "auto": true,
+  "contexts": [
+    "Payment_nominal_bayar_tidak_sesuai_select_inv-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Payment_nominal_bayar_tidak_sesuai_select_inv_else-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kak, pesanan ini tidak ada kendala pada pembayarannya kok, karena pembayaran Kakak pada transaksi ini sudah terverifikasi sebelumnya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531710840,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_pembayaran_diterima"
+    },
+    {
+      "name": "invoice_sedang_diproses_penjual"
+    },
+    {
+      "name": "invoice_sedang_dikirim"
+    },
+    {
+      "name": "invoice_pesanan_sampai"
+    },
+    {
+      "name": "invoice_menunggu_status_kurir"
+    }
+  ]
+}

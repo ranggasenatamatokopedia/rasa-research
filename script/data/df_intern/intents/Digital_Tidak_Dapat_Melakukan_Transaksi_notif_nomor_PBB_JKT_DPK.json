@@ -1,0 +1,50 @@
+{
+  "id": "3b676d32-13fe-4e9b-a60d-e57aa178c822",
+  "parentId": "1538cd2f-a120-4f0f-9f05-6d640ee2b5e5",
+  "rootParentId": "c230094b-7dd5-43f4-984b-d415098c4e53",
+  "name": "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_nomor_PBB_JKT_DPK",
+  "auto": true,
+  "contexts": [
+    "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_nomor_yang_Anda_masukkan_salah_PBB-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_nomor_PBB_JKT_DPK-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Saat ini tagihan PBB kamu sudah keluar atau belum?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 1,
+            "quick_replies": [
+              "Sudah",
+              "Belum"
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535962404,
+  "fallbackIntent": false,
+  "events": []
+}

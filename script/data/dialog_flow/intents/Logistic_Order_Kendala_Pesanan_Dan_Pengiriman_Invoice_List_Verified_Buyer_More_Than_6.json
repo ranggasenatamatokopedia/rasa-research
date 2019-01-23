@@ -1,0 +1,68 @@
+{
+  "id": "d27055e7-3270-402f-bd33-15bc5e185aeb",
+  "parentId": "fd282d53-7c35-4f56-85ea-c14ac3b7bc07",
+  "rootParentId": "d19f77a0-9fc1-4329-9b8c-1f9cb2ed3084",
+  "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Verified_Buyer_More_Than_6",
+  "auto": true,
+  "contexts": [
+    "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Verified_Buyer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Verified_Buyer_More_Than_6-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek pesanan kamu masih menunggu respons penjual. Pesanan yang menggunakan kurir Reguler, akan diproses maksimal dalam 1x24 jam. \n\nPesanan yang menggunakan kurir Same day dan Instant Service yang terverifikasi sebelum pukul 15.00 WIB, akan diproses penjual maksimal dalam 1x24 jam. Sedangkan pesanan yang  terverifikasi lebih dari pukul 15.00 WIB akan diproses penjual maksimal H+1 dari pukul 15.00."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika diperlukan cepat, Toped bisa bantu mengajukan pembatalan pesanan ke penjual. Jadi, apa kamu mau Toped bantu \"Ajukan Pembatalan\" atau menunggu respons penjual?"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Contoh: Ajukan Pembatalan"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "button_actions": [
+              {
+                "message": "Ajukan Pembatalan"
+              },
+              {
+                "message": "Tunggu Respons Penjual"
+              }
+            ],
+            "type": 2
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541159429,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "more_than_6_hours_from_verified"
+    }
+  ]
+}

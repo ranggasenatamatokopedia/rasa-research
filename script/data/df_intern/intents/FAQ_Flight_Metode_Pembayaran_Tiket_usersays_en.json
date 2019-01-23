@@ -1,0 +1,224 @@
+[
+  {
+    "id": "7c9e0870-9e45-46ae-a540-f2f5340aa1b8",
+    "data": [
+      {
+        "text": "infokan metode apa aja utk beli tiket pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f3a2c404-c04a-4f94-a858-09f5479b3649",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kasi tau metode nya apa aja ya utk beli tiket pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1520a7d3-8d8f-4cbb-9e68-b10c99f79a9f",
+    "data": [
+      {
+        "text": "apa saja metode bayar utk beli tiket pesawat di toped?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6c843442-d4a1-419e-bf8c-03994b9a11ad",
+    "data": [
+      {
+        "text": "bs informasikan metode bayar nya apa saja utk beli tiket psawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "26523f96-f7bc-4456-93c1-e7b0a5c19ab8",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", infokan metode pembayaran utk beli tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f653a8d6-147a-4f43-9774-6d183e27b012",
+    "data": [
+      {
+        "text": "metode bayar utk pembelian tiket pesawat bs minta tlg informasikan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "574ae305-408f-4db5-a1d2-fcaf2e54895c",
+    "data": [
+      {
+        "text": "metode apa utk bayar tiket pesawat di toped?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ee052c17-12bc-430a-9bdb-f581b48ac0ca",
+    "data": [
+      {
+        "text": "saya mau beli tiket pesawat di tokopedia menggunakan metode apa saja ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7fb5683d-9ce6-476e-800d-adec3e01e9dd",
+    "data": [
+      {
+        "text": "metode pembayarannya apa saja ya utk beli tiket pesawat bs infokan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8e386c77-9f59-4ef1-819f-2d4e57cb5723",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tiket pesawat pakai metode bayar apa saja?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "42bd2b12-2840-4704-8b9c-d2d55373fb15",
+    "data": [
+      {
+        "text": "metode pembayaran apa utk pembelian tiket pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fb025d5e-96b7-4caa-a784-c7b8a719d632",
+    "data": [
+      {
+        "text": "Apa saja metode pembayaran yang digunakan untuk pembelian tiket pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ee48b7ed-01dc-4651-9cbc-c917a952a29d",
+    "data": [
+      {
+        "text": "metode bayarnya apa ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " utk beli tiket pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b095f97d-eb8d-4d20-b013-014ccc5cebf8",
+    "data": [
+      {
+        "text": "apa saja metode pembayaran utk tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e50f4a68-f8f8-4da2-a653-552fa8522369",
+    "data": [
+      {
+        "text": "bgmna cara bayar tiket pesawat dgn ovo ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "14ea49ac-6dab-43ee-b31b-bc96b03de419",
+    "data": [
+      {
+        "text": "Untuk pemesanan tiket pesawat kenapa tidak ada pilihan ovo di motede pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f5aa16f8-34f4-4395-ad5b-777ed93b1511",
+    "data": [
+      {
+        "text": "Mau tanya ovo point ga bisa dipakai di pembelian tiket pesawat ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5fd52730-9276-4ae8-8102-dcec285fc234",
+    "data": [
+      {
+        "text": "pembayaran tiket pesawat g bisa lwt atm bri y min?? biasanya bisa ini kx g bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

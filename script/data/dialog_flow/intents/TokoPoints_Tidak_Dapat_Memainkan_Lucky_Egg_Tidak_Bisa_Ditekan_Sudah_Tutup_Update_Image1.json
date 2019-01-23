@@ -1,0 +1,43 @@
+{
+  "id": "424b3a12-71b9-4685-a46f-cfa25090641f",
+  "parentId": "0f4dfb1d-d79a-461f-8d5d-c1842b0d4a42",
+  "rootParentId": "e5ddb095-11e2-44d0-a686-c477add0deaf",
+  "name": "TokoPoints_Tidak_Dapat_Memainkan_Lucky_Egg_Tidak_Bisa_Ditekan_Sudah_Tutup_Update_Image1",
+  "auto": true,
+  "contexts": [
+    "TokoPoints_Tidak_Dapat_Memainkan_Lucky_Egg_Tidak_Bisa_Ditekan_Sudah_Tutup_Sudah_Update-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "TokoPoints_Tidak_Dapat_Memainkan_Lucky_Egg_Tidak_Bisa_Ditekan_Sudah_Tutup_Update_Image1-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Tolong lampirkan screenshot info versi Aplikasi Tokopedia kamu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534391807,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

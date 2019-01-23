@@ -1,0 +1,27 @@
+{
+  "id": "5cc76c21-58bf-44b4-a2eb-7b231492ad66",
+  "name": "FAQ_Fintech_berapa_lama_reksa_dana_cair_ke_saldo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Penjualan Reksa Dana ke saldo Tokopedia akan otomatis (real time) masuk ke saldo saat kamu menjualnya, ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

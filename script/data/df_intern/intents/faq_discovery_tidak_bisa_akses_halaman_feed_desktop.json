@@ -1,0 +1,39 @@
+{
+  "id": "4a71dd2b-bba6-4328-920f-17c7acb1c0c3",
+  "parentId": "0582dc40-ccf3-4de5-9a02-af6083948e23",
+  "rootParentId": "0582dc40-ccf3-4de5-9a02-af6083948e23",
+  "name": "faq_discovery_tidak_bisa_akses_halaman_feed_desktop",
+  "auto": true,
+  "contexts": [
+    "faq_discovery_tidak_bisa_akses_halaman_feed-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "faq_discovery_tidak_bisa_akses_halaman_feed_desktop-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Apabila kamu menggunakan desktop, Toped sarankan beberapa hal berikut ini:\n1. Akses Tokopedia menggunakan browser atau perangkat berbeda sebagai pembanding. \n2. Lakukan \"clear cache\" dan \"clear cookies\" pada browser yang digunakan.\n3. Coba kembali akses halaman feeds ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539247753,
+  "fallbackIntent": false,
+  "events": []
+}

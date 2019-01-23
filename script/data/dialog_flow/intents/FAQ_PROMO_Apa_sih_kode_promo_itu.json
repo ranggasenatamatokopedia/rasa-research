@@ -1,0 +1,31 @@
+{
+  "id": "dadbf21a-f858-4caf-a94d-c507b3961483",
+  "name": "FAQ_PROMO_Apa_sih_kode_promo_itu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kode Promo adalah kode yang diberikan Tokopedia agar kamu bisa berbelanja dan bayar apapun dengan lebih hemat. Kode promo bisa kamu dapatkan di halaman \u003ca  rel\u003d\"nofollow\" target\u003d\"_blank\"  href\u003d\"tokopedia://webview?url\u003dhttps://www.tokopedia.com/promo\"\u003epromo\u003c/a\u003e Tokopedia.\n\nKode Promo bisa kamu gunakan dengan klik \"Gunakan Kode Promo atau Kupon\" dibagian bawah detail pesanan sebelum memilih metode pembayaran."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_promo_apa_sih_kode_promo_itu"
+    }
+  ]
+}

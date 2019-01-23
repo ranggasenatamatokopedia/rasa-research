@@ -1,0 +1,46 @@
+{
+  "id": "a62c9df6-0360-4fae-9dd8-1079485b3fd1",
+  "parentId": "722bae71-72fd-4072-9a48-bb6965668746",
+  "rootParentId": "5e652467-1f9f-4b2b-a3db-89af64cabeef",
+  "name": "FAQ_Logistic_Berapa_Lama_Waktu_Pengantaran_Kurir_Pickup_Grab_Instant",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Berapa_Lama_Waktu_Pengantaran_Kurir_Pickup_Grab-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e4f167f0-f21e-487a-aff4-49d8d20f8c93",
+          "required": false,
+          "dataType": "@layanan_kurir_pick_up",
+          "name": "layanan_kurir_pick_up",
+          "value": "$layanan_kurir_pick_up",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk Instant, estimasi waktu pengantaran oleh kurir adalah 3 jam setelah Penjual melakukan permintaan pick-up."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528335588,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "instant"
+    }
+  ]
+}

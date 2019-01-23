@@ -1,0 +1,33 @@
+{
+  "id": "b27c837c-c905-4c2a-8211-2d8bf2ab8ecd",
+  "parentId": "b3271317-a51a-4d51-9f94-8a5a54865963",
+  "rootParentId": "b3271317-a51a-4d51-9f94-8a5a54865963",
+  "name": "FAQ_Logistic_Ubah_Kurir_Pengiriman_Reguler_ke_Pickup",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Ubah_Kurir_Pengiriman-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FAQ_Logistic_Ubah_Kurir_Pengiriman.FAQ_Logistic_Ubah_Kurir_Pengiriman-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Perubahan kurir hanya bisa dilakukan dari sistem pick-up ke kurir reguler. Misalnya, dari Go-Send ke JNE. Sebaliknya, untuk perubahan dari kurir reguler ke sistem pick-up seperti dari JNE ke Go-Send tidak dapat dilakukan."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528704169,
+  "fallbackIntent": false,
+  "events": []
+}

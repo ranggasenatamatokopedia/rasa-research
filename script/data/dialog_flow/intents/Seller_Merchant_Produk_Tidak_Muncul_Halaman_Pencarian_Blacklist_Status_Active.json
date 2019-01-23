@@ -1,0 +1,43 @@
+{
+  "id": "1356c72e-451d-4900-961e-56ce826f4834",
+  "parentId": "dc3f35e6-997b-4f87-ae30-7dfbf59ab4c4",
+  "rootParentId": "6f5a3f14-d1e3-439d-92d9-cdd77e2da07f",
+  "name": "Seller_Merchant_Produk_Tidak_Muncul_Halaman_Pencarian_Blacklist_Status_Active",
+  "auto": true,
+  "contexts": [
+    "Seller_Merchant_Produk_Tidak_Muncul_Halaman_Pencarian_Blacklist_Status-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Seller_Merchant_Produk_Tidak_Muncul_Halaman_Pencarian_Blacklist_Status_Active-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon maaf, ya. Produk yang kamu cari tidak muncul karena keywordnya merupakan barang terlarang/bahan berbahaya/produk dewasa."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531906619,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "blacklist_status_active"
+    }
+  ]
+}

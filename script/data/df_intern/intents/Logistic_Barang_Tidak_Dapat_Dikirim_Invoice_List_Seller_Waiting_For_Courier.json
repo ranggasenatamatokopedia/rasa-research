@@ -1,0 +1,43 @@
+{
+  "id": "5c1b3034-864f-495a-9b8b-3650e53125f9",
+  "parentId": "29cb181d-c5b0-4f4e-97ed-0b087f2ca2ff",
+  "rootParentId": "2857f78e-0f0e-4f9f-a32c-1bf155c0c208",
+  "name": "Logistic_Barang_Tidak_Dapat_Dikirim_Invoice_List_Seller_Waiting_For_Courier",
+  "auto": true,
+  "contexts": [
+    "Logistic_Barang_Tidak_Dapat_Dikirim_Invoice_List_Seller-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ShowUploadAWBLink",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Tidak_Dapat_Dikirim_Invoice_List_Seller_Waiting_For_Courier-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536575731,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_menunggu_status_kurir"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "65201994-5aee-4efe-b2a7-14656ee2bbba",
+    "data": [
+      {
+        "text": "operator_steam_wallet_usd",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5a01623f-82e8-4a69-bed3-c8a809f4ca31",
+    "data": [
+      {
+        "text": "operator_steam_wallet_idr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

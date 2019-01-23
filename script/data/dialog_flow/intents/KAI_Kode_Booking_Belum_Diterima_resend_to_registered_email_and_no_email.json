@@ -1,0 +1,48 @@
+{
+  "id": "80e011f3-bf94-48c4-81de-c3af93c23b79",
+  "parentId": "0b617227-57f6-4a6e-a74c-d5492c2b4e07",
+  "rootParentId": "a7e1b254-86ed-4335-a90a-f9746590e450",
+  "name": "KAI_Kode_Booking_Belum_Diterima_resend_to_registered_email_and_no_email",
+  "auto": false,
+  "contexts": [
+    "KAI_Kode_Booking_Belum_Diterima_status_success_resend_to_registered_email-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "KAI_Kode_Booking_Belum_Diterima_resend_to_registered_email_and_no_email-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek akun kamu saat ini belum memiliki email. Untuk lengkapi email, kamu bisa isi di halaman pengaturan akun."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah dilengkapi, kamu bisa kirim kode booking transaksi kereta di Daftar Transaksi Kereta Api kamu. Semoga info Toped membantu kamu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540366495,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "resend_no_email"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "53c392d0-16aa-43fc-9d25-add72c33d77c",
+  "parentId": "0a63d0ba-acb1-42cc-9327-458279363787",
+  "rootParentId": "b3e075f6-aae4-44df-ad4e-bea75b498908",
+  "name": "KAI_Kendala_Pembelian_Tiket_Kereta_booked",
+  "auto": false,
+  "contexts": [
+    "KAI_Kendala_Pembelian_Tiket_Kereta_select_inv-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "KAI_Kendala_Pembelian_Tiket_Kereta_booked-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek saat ini pembayaran kamu masih aktif ya. Kamu dapat bayar terlebih dulu sesuai metode bayar yang sudah dipilih."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga informasi Toped membantu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539332446,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_ticket_is_booked"
+    }
+  ]
+}

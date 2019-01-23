@@ -1,0 +1,65 @@
+[
+  {
+    "id": "4fbef567-a9f5-4d1c-ab1f-9ebc3a128270",
+    "data": [
+      {
+        "text": "dua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a1d2b32d-4070-4d0a-9f12-9ed06ad303ef",
+    "data": [
+      {
+        "text": "kedua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f8146f89-e906-4e46-b5c8-ca944335ec3e",
+    "data": [
+      {
+        "text": "kode tidak valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "22d6fedb-bda0-48eb-b419-2d745145665b",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f25aaf93-0591-458b-9326-5fb8af14ed0c",
+    "data": [
+      {
+        "text": "no ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

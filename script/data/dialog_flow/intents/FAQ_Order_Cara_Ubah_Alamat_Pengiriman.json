@@ -1,0 +1,31 @@
+{
+  "id": "f5a97a7c-e7b5-42d6-9c1d-50bf3b55a9c9",
+  "name": "FAQ_Order_Cara_Ubah_Alamat_Pengiriman",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Yang bisa mengubah alamat pengiriman adalah penjual. Kakak bisa menghubungi penjual melalui ditur “Chat” atau “Tanya Penjual”, ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_order_cara_ubah_alamat_pengiriman"
+    }
+  ]
+}

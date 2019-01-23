@@ -1,0 +1,541 @@
+[
+  {
+    "id": "f501b076-12a8-4073-99de-b35201b4e735",
+    "data": [
+      {
+        "text": "Saya tertipu, ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " yang chat saya di OLX kemudian meminta untuk trx di tokopedia via ",
+        "userDefined": false
+      },
+      {
+        "text": "indomaret",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". saya sudah terlanjur mengikuti arahan ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tertahan di ",
+        "userDefined": false
+      },
+      {
+        "text": "indomaret",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " karena ditagihkan transaksi (xxxxx)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a1f75c98-3ecd-4995-970a-f16321e3e75e",
+    "data": [
+      {
+        "text": "saya disuruh bayar transaksi yang tidak saya lakukan di ",
+        "userDefined": false
+      },
+      {
+        "text": "indomaret",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dcf9d7f8-1329-431e-9a1e-ca205b5aa42c",
+    "data": [
+      {
+        "text": "Penipuan pembayaran. harusnya saya hanya membayar (xxxx)  utk biaya transaksi ",
+        "userDefined": false
+      },
+      {
+        "text": "indomaret",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi malah harus bayar (xxxx) utk pencairan dana nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3c9c08b4-6dec-4e49-a1eb-bf0ec733cb1e",
+    "data": [
+      {
+        "text": "Saya diberikan kode ",
+        "userDefined": false
+      },
+      {
+        "text": "indomaret",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " (xxxxxxx), calon ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " informasi silakan cairkan dana dengan tukar kode tersebut ke pihak ",
+        "userDefined": false
+      },
+      {
+        "text": "indomaret",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "59a823a1-607f-46ec-97bf-a9b4962ce4bd",
+    "data": [
+      {
+        "text": "Saya mengalami penipuan, orang tersebut telpon dan meminta agar saya membayarkan tagihannya dengan toko pedia dengan kode pembayaran ",
+        "userDefined": false
+      },
+      {
+        "text": "indomaret",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " (xxxx)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "db4987bb-febb-46fa-ba92-7796b81014b5",
+    "data": [
+      {
+        "text": "saya kena tipu nih di tokopedia, katanya saya disuruh bayar tagihan belabja di ",
+        "userDefined": false
+      },
+      {
+        "text": "indomaret",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dd6bb1a4-ef45-48c3-bcbb-1179c835d93e",
+    "data": [
+      {
+        "text": "saya ada tagihan ",
+        "userDefined": false
+      },
+      {
+        "text": "indomaret",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " padahal saya tidak belanja apapun, saya harus apa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ef5ff0d7-add6-4a2a-a1cc-eb640b038790",
+    "data": [
+      {
+        "text": "Mohon dengan sangat, saya telah tertipu oleh oknum yang mengatasnamakan Tokopedia, saya menyetor sejumlah uang kurang lebih (xxxx)  di ",
+        "userDefined": false
+      },
+      {
+        "text": "indomaret",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fd647577-ec51-43e9-8c13-b35bca9ef3a4",
+    "data": [
+      {
+        "text": "kata kasir ",
+        "userDefined": false
+      },
+      {
+        "text": "indomaret",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya ada tagihan dari tokopedia, padahal saya tidak pernah belanja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "991ca1b3-ecc3-4efc-9bbe-a5b4b4b0f9bf",
+    "data": [
+      {
+        "text": "saya kena penipuan pembayaran via ",
+        "userDefined": false
+      },
+      {
+        "text": "indomaret",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "144b9c80-6c35-47a7-9741-1dca7f72862a",
+    "data": [
+      {
+        "text": "saya ditahan kasir ",
+        "userDefined": false
+      },
+      {
+        "text": "indomaret",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " katanya saya melakukan transaksi tokopedia, padahal saya tidak pernah beli barang itu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "42a10e6d-36aa-4ab9-9c36-44bf2762b1e9",
+    "data": [
+      {
+        "text": "saya kena tipu pembayaran di ",
+        "userDefined": false
+      },
+      {
+        "text": "indomaret",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ni ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "70fe7f61-4fe2-43bc-afbc-0167e91de9be",
+    "data": [
+      {
+        "text": "saya disuruh membayar transaksi tokopedia di ",
+        "userDefined": false
+      },
+      {
+        "text": "indomaret",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " yang tidak saya lakukan. Tolong dibantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d3e2e8ec-7cf8-4428-8af9-ceefc1dcb131",
+    "data": [
+      {
+        "text": "Bantu batalkan transaksi dengan kode pembayaran (xxxxx) , saya ditipu calon ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di OLX. saya ditahan oleh kasir ",
+        "userDefined": false
+      },
+      {
+        "text": "indomaret",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "269c25f1-4f79-4b85-b6f8-cdbbede9717c",
+    "data": [
+      {
+        "text": "Saya tertahan di ",
+        "userDefined": false
+      },
+      {
+        "text": "indomaret",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " karena penipuan oleh salah ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pengguna Tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8d2a13dc-39a8-4aba-b8d0-9259d22b66ed",
+    "data": [
+      {
+        "text": "Penipuan pembayaran via ",
+        "userDefined": false
+      },
+      {
+        "text": "gerai",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Indomaret",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "df3175fd-6a7e-4301-b57b-f99349bd73dc",
+    "data": [
+      {
+        "text": "saya kena penipuan pembayaran ",
+        "userDefined": false
+      },
+      {
+        "text": "indomaret",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f885e4d3-af4c-41a7-85df-d8aea46bf91a",
+    "data": [
+      {
+        "text": "saya dapat kode unik pembayaran pake ",
+        "userDefined": false
+      },
+      {
+        "text": "Indomaret",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " padahal tidak transaksi, penipuan ini namanya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "778c54bc-eb10-448d-a2ed-8de004859924",
+    "data": [
+      {
+        "text": "saya tidak belanja tapi ada tagihan dari ",
+        "userDefined": false
+      },
+      {
+        "text": "indomaret",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya harus apa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1c7cb82f-4ffd-492a-a38f-2aeff76a221d",
+    "data": [
+      {
+        "text": "penipuan pembayaran dari ",
+        "userDefined": false
+      },
+      {
+        "text": "gerai",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "indomaret",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9ad96027-bf32-46ab-991b-676f451997ad",
+    "data": [
+      {
+        "text": "saya kena tipu pembayaran Tokpedia melalui ",
+        "userDefined": false
+      },
+      {
+        "text": "indomaret",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tolong dibantu ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "35e7b777-e6a8-4d4e-b1fd-b86a4e056cdc",
+    "data": [
+      {
+        "text": "saya ada transaksi yang bayar pake ",
+        "userDefined": false
+      },
+      {
+        "text": "Indomaret",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", padahal tidak belanja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3a98c67a-9ebe-4c1a-b0f6-808a804e9377",
+    "data": [
+      {
+        "text": "kata kasir ",
+        "userDefined": false
+      },
+      {
+        "text": "indomaret",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya ada tagihan di tokopedia, padahal tidak belanja.  boleh minta tolong di cek?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9c030aff-e06e-4d81-b023-c2916c07ed70",
+    "data": [
+      {
+        "text": "Saya ditipu dengan disuruh melakukan pembayaran transaksi yang tidak saya lakukan di Tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

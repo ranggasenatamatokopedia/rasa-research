@@ -1,0 +1,42 @@
+{
+  "id": "63cf2f55-ab9d-4d31-8792-755675a0feb3",
+  "name": "FAQ_Account_Cara_Melengkapi_Email_di_Akun_Tokopedia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Account_Cara_Melengkapi_Email_di_Akun_Tokopedia-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika kamu menggunakan nomor ponsel saat mendaftar, tentu kamu belum memiliki email dan kata sandi. Kamu bisa melengkapi data diri dengan cara:\n1. Akses www.tokopedia.com atau m.tokopedia.com di mobile website\n2. Klik menu \"Pengaturan\" lalu pilih Akun\n3. Pilih Data Diri/Biodata Diri\n4. Isi email kamu di kolom yang sudah disediakan\n5. Klik \"Simpan\"."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga informasi Toped membantu kamu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_account_cara_melengkapi_email_di_akun_tokopedia"
+    }
+  ]
+}

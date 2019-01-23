@@ -1,0 +1,47 @@
+{
+  "id": "5e652467-1f9f-4b2b-a3db-89af64cabeef",
+  "name": "FAQ_Logistic_Berapa_Lama_Waktu_Pengantaran_Kurir_Pickup",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ConvertParametersToEventName",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Logistic_Berapa_Lama_Waktu_Pengantaran_Kurir_Pickup-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "74734296-4f46-4cd0-a0ca-4cbdd3185c7c",
+          "required": true,
+          "dataType": "@kurir_pick_up",
+          "name": "kurir_pick_up",
+          "value": "$kurir_pick_up",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Kakak menggunakan kurir Gojek, Grab, Ninja Xpress atau REX?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_logistic_berapa_lama_waktu_pengantaran_kurir_pickup"
+    }
+  ]
+}

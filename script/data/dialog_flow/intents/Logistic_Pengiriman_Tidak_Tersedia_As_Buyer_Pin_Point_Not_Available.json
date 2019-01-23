@@ -1,0 +1,43 @@
+{
+  "id": "3e37da06-fd95-4946-ae69-8da8a503e7b4",
+  "parentId": "1a3a3682-5850-42e8-956b-aae52e870ee2",
+  "rootParentId": "e1fd67c7-5a72-4184-9a6c-bda4c6e61524",
+  "name": "Logistic_Pengiriman_Tidak_Tersedia_As_Buyer_Pin_Point_Not_Available",
+  "auto": true,
+  "contexts": [
+    "Logistic_Pengiriman_Tidak_Tersedia_As_Buyer_Address_Product_Pick_Up-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Pengiriman_Tidak_Tersedia_As_Buyer_Pin_Point_Not_Available-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped lihat kamu belum memasukkan lokasi Pin Point. Coba masukkan Pin Point dulu ya di halaman \"Pengaturan\" dan klik \"Alamat\" :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534315028,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "Pin_point_is_not_available"
+    }
+  ]
+}

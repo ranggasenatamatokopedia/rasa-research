@@ -1,0 +1,2905 @@
+[
+  {
+    "id": "73af2c47-b4d7-4552-aa9c-3932dea99d0c",
+    "data": [
+      {
+        "text": "tolong kurir diganti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "98a85270-7425-452a-9a88-04fe3d08fe31",
+    "data": [
+      {
+        "text": "bisakah saya mengubah kurir (sudah konfirmasi dengan penjual)?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "88e1a040-b3d6-40a5-936b-da5a7f658f06",
+    "data": [
+      {
+        "text": "mohon bantuan saya salah memasukan resi untuk no pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7f0b2117-e8f2-43d3-8994-cda41f8d314a",
+    "data": [
+      {
+        "text": "Saya sudah keburu klik konfirmasi pengiriman tanpa melihat lagi kalau customer toko saya pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Sedangkan yang dikirim suplier barang tersebut menggunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "pos indonesia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0e61b28b-2765-4858-b19c-40fb6838ecdc",
+    "data": [
+      {
+        "text": "hi tokped, ada order masuk ke toko saya ,",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pilih kiriman ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ,",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mau ganti ke ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "same day",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", baiknya bagaimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c91a8603-98bf-4427-92d6-4d531d6b0ebb",
+    "data": [
+      {
+        "text": "Lupa ganti kurir saat input ressi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e27fec8e-7fa3-4df5-8778-62ce5b7ce3e3",
+    "data": [
+      {
+        "text": "itu saya ganti kurir, tapi ketika input resi lupa ganti kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1b742092-4a36-4d5d-85e3-eb2ece1fa888",
+    "data": [
+      {
+        "text": "Selamat siang, kemarin saya kirim paket nya ganti jasa ekspedisi karena Tiki trouble. Tapi tadi waktu input resi, lupa tidak mengganti jasa kirim nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3d556b97-d25d-48c7-9446-1959aae2c32f",
+    "data": [
+      {
+        "text": "time limit ganti resi ",
+        "userDefined": false
+      },
+      {
+        "text": "Hari ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Jem ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b31c3299-5026-4c09-ac2d-e75da858d975",
+    "data": [
+      {
+        "text": "ubau resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4f352ebf-9bee-4825-9866-9e042f86d842",
+    "data": [
+      {
+        "text": "resi tidak bsa di rubah ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a665d93d-b4fc-47a3-ae2d-06bc364b8feb",
+    "data": [
+      {
+        "text": "saya lupa mengubah kurir pada pengirinan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "587b89d3-f5b0-41fc-a388-52219e72c63e",
+    "data": [
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sudah ubah nomor resi dari ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " menjadi ",
+        "userDefined": false
+      },
+      {
+        "text": "JNT",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sesuai permintaan ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tp di sistem masih ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tolong bantu ubah ke ",
+        "userDefined": false
+      },
+      {
+        "text": "JNT",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ya. Terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4db74034-6782-4109-95d1-903351d76ea2",
+    "data": [
+      {
+        "text": "Pelanggan ingin mengganti kurir pengiriman dari ",
+        "userDefined": false
+      },
+      {
+        "text": "GRAB",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " menjadi ",
+        "userDefined": false
+      },
+      {
+        "text": "GOJEK",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " karena sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak mendapatkan driver..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5b4b1ec1-0f8f-473a-8283-e116b2ea8e81",
+    "data": [
+      {
+        "text": "Siang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya sulit mendapatkan driver ",
+        "userDefined": false
+      },
+      {
+        "text": "Grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", apa bisa lgsg di ubah menjadi ",
+        "userDefined": false
+      },
+      {
+        "text": "Gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? Atau harus customer yg mengajukan? Terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1051256d-d475-40e1-97e6-c183c76a7d6e",
+    "data": [
+      {
+        "text": "tolong di bantu menyelesaikan transaksi barang sudah di terima oleh ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cuman status di toko pedia tidak ada..kita salah input resi seharusnya pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kita kirim pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "J\u0026T",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bef7e816-e9a5-4c2d-be9b-3e8219bcd3d5",
+    "data": [
+      {
+        "text": "Mohon dibantu ganti kurir , ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sudah setuju untuk diganti kurir via ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "YES",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " , sebab jika menunggu ",
+        "userDefined": false
+      },
+      {
+        "text": "besok",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " lagi kami tidak buka",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c91b7f08-b8bf-47da-93fc-198c8fafda1c",
+    "data": [
+      {
+        "text": "Kami sudah proses pickup sejak ",
+        "userDefined": false
+      },
+      {
+        "text": "dua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari namun tidak juga mendapatkan driver.Dan ",
+        "userDefined": false
+      },
+      {
+        "text": "Pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Meminta Merubah Expedisi Ke ",
+        "userDefined": false
+      },
+      {
+        "text": "Jne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d229c746-c180-4deb-b67d-a8ebfaef28db",
+    "data": [
+      {
+        "text": "Salah input nomor resi yg skrng 000131192302 yg benar harusnya 000131192402 mohon di bantu ubah karna dari ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sudah tidak bisa ubah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "379df4aa-77cc-472e-a8f3-297bee3e316f",
+    "data": [
+      {
+        "text": "saya ingin mengubah kuriri ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " menjadi ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ..MOHON DI bantu pengantian kurir nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fab47fc5-e917-42ac-9456-6ee83c088282",
+    "data": [
+      {
+        "text": " saya ada keliru input resi pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8f0d8dfb-cd1e-4cce-9856-7626c3e8c59e",
+    "data": [
+      {
+        "text": "barang tidak di pick up dari ",
+        "userDefined": false
+      },
+      {
+        "text": "tadi pagi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " minta tolong di rubah ke ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8c445aee-806c-40a3-a981-c8bf2eaa79ac",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya lupa nonaktifkin layanan ",
+        "userDefined": false
+      },
+      {
+        "text": "Grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ada ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " yg pesen pake ",
+        "userDefined": false
+      },
+      {
+        "text": "Grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", paket udah saya kirim pake ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "YES",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", terima kasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cb028c69-ca5e-44c3-9353-85faf5665ce5",
+    "data": [
+      {
+        "text": "saya mau ubah kurir aja karena paket saya gak di pickup terus sama driver udah berhari hari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cc035b8c-98ed-425a-b19b-bc62eee37583",
+    "data": [
+      {
+        "text": "karena salah input resi pengiriman dan tidak dapat diedit karena status resi sudah diterima,  paket sudah dikirim via ",
+        "userDefined": false
+      },
+      {
+        "text": "Wahana",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dengan resi ",
+        "userDefined": false
+      },
+      {
+        "text": "AJK27774",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "56c26849-f256-4dfc-922a-97e8eef3c9db",
+    "data": [
+      {
+        "text": "tolong bantu ubahin nomor resi pada Invoice ini dong, ini nomor resinya 0019184795890",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "827fb4e0-c4e5-4b08-9eb7-b1905052229c",
+    "data": [
+      {
+        "text": "kita ganti pengiriman ke expedisi ",
+        "userDefined": false
+      },
+      {
+        "text": "J\u0026T",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "REG",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f31f34a4-a125-4e7c-883c-daf607a0b370",
+    "data": [
+      {
+        "text": "Saya berkendala dalam pengiriman dengan jasa pengiriman ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ingin mengubah pengiriman menjadi ",
+        "userDefined": false
+      },
+      {
+        "text": "Go-Send",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5cecb6d9-e44b-4db4-8427-92af3d2294e9",
+    "data": [
+      {
+        "text": "Karena ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " susah dpt driver maka dirubah menjadi ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "YES",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan paket sdh dikirim kan. Mohon bantuannya untuk merubah jasa kirim dr ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " menjadi ",
+        "userDefined": false
+      },
+      {
+        "text": "jne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "yes",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5c6a0308-d757-4d5d-8e8b-327823d80518",
+    "data": [
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak mau pickup, saya dan ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " berdiskusi untuk mengirimkan via ",
+        "userDefined": false
+      },
+      {
+        "text": "jne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "yes",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "10401b1b-1019-4b90-abf8-10fc9389dd1f",
+    "data": [
+      {
+        "text": "tolong segera ubah kurir . ke ",
+        "userDefined": false
+      },
+      {
+        "text": "Go-Send",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "instant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " / ",
+        "userDefined": false
+      },
+      {
+        "text": "sameday",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dikarenakan ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "instant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dr ",
+        "userDefined": false
+      },
+      {
+        "text": "kemarin siang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sama ",
+        "userDefined": false
+      },
+      {
+        "text": "hari ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " status nya tidak mendapatkan driver.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e9ecc57a-dabf-420d-af55-ff84b26d096b",
+    "data": [
+      {
+        "text": "Cs, karena tidak ada driver yg dateng, dan ",
+        "userDefined": false
+      },
+      {
+        "text": "besok",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " toko tutup, maka kami ubah jadi ",
+        "userDefined": false
+      },
+      {
+        "text": "tiki",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ons",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dengan resi 030096064573 dan ongkir ",
+        "userDefined": false
+      },
+      {
+        "text": "15.000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5bf26fcf-e0c6-40d7-a008-3e1f1a53df5b",
+    "data": [
+      {
+        "text": "saya sebagai ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ingin mengirim barang dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tapi tidak di pick up terus, lalu setelah saya berdiskusi dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", beliau ingin meubah ke ",
+        "userDefined": false
+      },
+      {
+        "text": "jne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", jadi saya harus bagaimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "973a2d95-0b72-489b-b31b-9c91013f6083",
+    "data": [
+      {
+        "text": "gimana caranya ubah nomor resi ya karena ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " minta di kirim pake kurir lain aja nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6c3ae60d-fc75-4ef5-a674-0503fd393a1c",
+    "data": [
+      {
+        "text": "Tolong dirobah jasa pengirimannya ke ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "297e91b1-ffbc-4a01-9620-24f697aafe54",
+    "data": [
+      {
+        "text": "saya mau ubah kurir dari ",
+        "userDefined": false
+      },
+      {
+        "text": "Grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ke ",
+        "userDefined": false
+      },
+      {
+        "text": "Gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dong karena barang saya gak di pick up terus nih miiin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8291023e-ebc7-4982-a1f3-60afd5070c04",
+    "data": [
+      {
+        "text": "Tolong bantu ubah pengiriman dari ",
+        "userDefined": false
+      },
+      {
+        "text": "Grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " menjadi ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "YES",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ya karena susah mendapatkan driver nya, ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " udah setuju dan barang sudah di kirim pake ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "YES",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c05b0387-2586-4fd4-a3f3-6cc3c409862d",
+    "data": [
+      {
+        "text": "Halo Toped, saya dan ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sudah setuju untuk ubah pengiriman dari ",
+        "userDefined": false
+      },
+      {
+        "text": "Grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Sameday",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " jadi ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "REG",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " karena ",
+        "userDefined": false
+      },
+      {
+        "text": "Grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gak ",
+        "userDefined": false
+      },
+      {
+        "text": "dateng2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tolong bantuannya segera ya, terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1d2b0627-f275-4cca-a9af-3dcab68bdf60",
+    "data": [
+      {
+        "text": "karena driver tidak ada yang ambil kami ubah ke ",
+        "userDefined": false
+      },
+      {
+        "text": "jne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "reguler",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". mohon untuk diubah.. terimakasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0d98cefa-7ec3-4575-be17-bb7d2a71a341",
+    "data": [
+      {
+        "text": "Paket pengiriman telah di rubah menjadi ",
+        "userDefined": false
+      },
+      {
+        "text": "j\u0026t",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tetapi yang tercantum tetap ",
+        "userDefined": false
+      },
+      {
+        "text": "jne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", mohon bantuan apakah ada kesalahan di Input? Terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d29b279e-f8ca-4008-8939-3ab5eeb5e90b",
+    "data": [
+      {
+        "text": "Bagaimana cara ubah kurir pengiriman?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "efcc3f8a-dc7d-4459-9dd6-2c6434a96d66",
+    "data": [
+      {
+        "text": "Layanan ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sedang demo hri ini sya minta di ubah ke ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "instant courier",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4646aadf-ade4-4efb-ab4d-64b88099afe5",
+    "data": [
+      {
+        "text": "karena ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " blm pick up sejak ",
+        "userDefined": false
+      },
+      {
+        "text": "2 hari lalu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " maka ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " minta dikirim dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "jne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saja. mohon dibantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cef5f226-3943-4d0f-bfed-8134358075fa",
+    "data": [
+      {
+        "text": "Pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " berharap pake ",
+        "userDefined": false
+      },
+      {
+        "text": "Grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " , namun sampe ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Kurir tidak datang dan ingin di kirim pake ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "YES",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tolong di bantu Tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "368635d9-39da-45e5-8de6-5a9b9e08e0d1",
+    "data": [
+      {
+        "text": "siang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " admin. saya salah input resi jasa pengiriman. saya mengirim pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "jne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi saat memasukannya malah ke pengiriman ",
+        "userDefined": false
+      },
+      {
+        "text": "tiki",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". \\",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "75016ae6-4287-4ccb-aff0-94899add4430",
+    "data": [
+      {
+        "text": "paket belum dipickup sama kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "Go-Send",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sejak ",
+        "userDefined": false
+      },
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", apakah bisa dirubah menajdi kuri ",
+        "userDefined": false
+      },
+      {
+        "text": "Grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0f9295e4-7093-4270-88c1-ad9ee44bb1d1",
+    "data": [
+      {
+        "text": "permintaan ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " untuk di ubah pengiriman dikarenakan pencarian kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak ",
+        "userDefined": false
+      },
+      {
+        "text": "dapat2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "32f1fe07-ee37-490f-882f-bbaae88987c2",
+    "data": [
+      {
+        "text": "Tolong Diganti Kurir pengiriman saja, ganti jadi ",
+        "userDefined": false
+      },
+      {
+        "text": "jne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "reguler",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e5a16d00-e5c5-4ccb-80e1-f937249308c0",
+    "data": [
+      {
+        "text": "satus salah input resi dan berikut resi yang benar. harap dibantu status nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7c3bd875-9037-424e-9fa9-6a6896651c5f",
+    "data": [
+      {
+        "text": "kl misal na lg pencarian kurir mau ubah kurir bs ga ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " setuju untuk mengubah kurir dr ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " menjd ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", apakah bs d ubah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "51231f24-15ea-4a68-b624-bba3e649c734",
+    "data": [
+      {
+        "text": "saya lupa mengganti kurir jd ",
+        "userDefined": false
+      },
+      {
+        "text": "jne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2ccabbbc-b02c-4057-937c-e6aeaa5a73ad",
+    "data": [
+      {
+        "text": "diganti ke ",
+        "userDefined": false
+      },
+      {
+        "text": "jne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "yes",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " aja.  sudah k konfirm k customer. karena barang udah ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari gak ad yg ambil. barang juga udah dikirim pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "jne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "yes",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". thx",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eb58c1eb-28bf-4ed2-b858-8d095431b5ab",
+    "data": [
+      {
+        "text": "Ubah pengiriman pakai agen karna barang terlalu besar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a2e61349-91b2-4256-a822-42aba8767748",
+    "data": [
+      {
+        "text": "saya mau merubah kurir pengiriman dari ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " menjadi ",
+        "userDefined": false
+      },
+      {
+        "text": "jne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "/ ",
+        "userDefined": false
+      },
+      {
+        "text": "pos",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7cf654ea-bc78-49a3-975b-f32200cd6c9e",
+    "data": [
+      {
+        "text": "tolong diganti kurir pengirimnya ganti ke ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "YES",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sdh menyetujuinya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1e29041e-62e0-4938-b509-b3d1f1156f1c",
+    "data": [
+      {
+        "text": "tolong ubah kurir jadi ",
+        "userDefined": false
+      },
+      {
+        "text": "jne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "..permintaan ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " karena ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak ambil barang nya..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3bf88ec7-5415-43ff-ad15-b1709be26dfd",
+    "data": [
+      {
+        "text": "saya pick up ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "instant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dari ",
+        "userDefined": false
+      },
+      {
+        "text": "jam 11 siang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " smpe ",
+        "userDefined": false
+      },
+      {
+        "text": "skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dibatalkan tokopedia krna gak ada driver ambil . saya minta diubah kiriman ke ",
+        "userDefined": false
+      },
+      {
+        "text": "J\u0026T",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4
+  },
+  {
+    "id": "7f2b3c90-796a-4a73-a056-fdc306ecba5f",
+    "data": [
+      {
+        "text": "Sis tolong di rubah invoice ini saya salah memasukan kurir harus nya ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ",, saya masukin ",
+        "userDefined": false
+      },
+      {
+        "text": "J\u0026T",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan status pengiriman distu tidak berubahh.. Sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari belom berubah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b0bae71f-29ec-451b-8d0b-dfed0bf67102",
+    "data": [
+      {
+        "text": "Cust minta perubahan kurir karena menunggu terlalu lama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5cf43e04-656a-4d09-bd5c-1d1dd45517d7",
+    "data": [
+      {
+        "text": "kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak mau trima pesanan... mohon di ganti dengan kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " aja..dan saya sudah sepakat sma ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ganti kurir nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8f327521-080e-427a-9e72-4004211cdc9c",
+    "data": [
+      {
+        "text": "saya ingin mengubah expedisi pengiriman karena driver tidak kunjung pickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8d82ebb4-d76d-44a1-9467-857a363ce58f",
+    "data": [
+      {
+        "text": "dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " setuju untuk ubah kurir ke ",
+        "userDefined": false
+      },
+      {
+        "text": "jne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kelebihan ongkir di potong saja ke ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "65dc1fb9-acf7-4e47-bb83-8c0e0e2c294d",
+    "data": [
+      {
+        "text": "tolong dibantu pengiriman dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".a. ",
+        "userDefined": false
+      },
+      {
+        "text": "buyer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " minta dicancel. karna tidak bisa segera sampai. atau tolong digantikan dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f8b19db0-e581-4211-9d67-6fb2190c8b03",
+    "data": [
+      {
+        "text": "Saya mau pakai Gojek tp saya klik Wahana. Penjualnya gak bisa proses, tapi dana sdh masuk. Penjualnya bilang utk dibatalkan saja... ganti kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a9e891e0-beec-4561-acb0-b2541adcd549",
+    "data": [
+      {
+        "text": "resi pengiriman menggunakan kurir yang berbeda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ebe24b03-3b9e-4f6d-af88-d0c13cf83845",
+    "data": [
+      {
+        "text": "bagaimana cara mengganti resi orderan yang salah kurir?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "62aea23c-75d9-4535-8b1b-81b4881c08bb",
+    "data": [
+      {
+        "text": "boleh kan saya rubah kurirnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7b40ca0e-3747-4588-adf5-eed635eec6d0",
+    "data": [
+      {
+        "text": "no resi sudah benar. tapi beda kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "198bacb6-50d0-4e17-8a56-ba05d3521592",
+    "data": [
+      {
+        "text": "dapatkah mengubah kurir yang sudah di pesan oleh pembeli?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9491d29f-7e7a-478c-8683-d11019a81f2a",
+    "data": [
+      {
+        "text": "takytnya kalo saya request pick up skrg. kurir lain akan dtg lg pick up. trus brg saya yg dibawa kurir tdi bagaimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c2d89bee-969e-4128-9a3b-2ad6f9b04bbd",
+    "data": [
+      {
+        "text": "mau konfirmasi untuk resi yang saya masukan... mau ganti ke jnt .. tadinya tiki ... saya sudah input resinya tpi lupa mwngganti jnt nya , bisa tlg dibantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "806443ea-b37a-4507-aab5-9d17e6304126",
+    "data": [
+      {
+        "text": "resi tidak bsa di rubah min",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "51bada80-ceb3-4131-a42d-de0a23ac361f",
+    "data": [
+      {
+        "text": "time limit ganti resi Hari ini Jem 1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "385b36a8-6a72-4378-8a42-249d0eadc07b",
+    "data": [
+      {
+        "text": "sy td pas ngklik lupa ganti resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2b02610c-1cdf-4376-bd1a-6f597719ff9b",
+    "data": [
+      {
+        "text": "Selamat siang, kemarin saya kirim paket nya ganti jasa ekspedisi karena Tiki trouble. Tapi tadi waktu input resi, lupa tidak mengganti jasa kirim nya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6e161c4d-81e3-4a10-af42-d3a5de3cd16a",
+    "data": [
+      {
+        "text": "Saya ada penjualan, buyer memilih dengan TIKI, namun saya mengirimkan dengan JNE.. pada kolom ganti kurir, knapa tidak bisa diganti ? Biasanya tidak ada masalah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "20034b2c-2001-43e8-ae68-e534d37d8557",
+    "data": [
+      {
+        "text": "kenapa pengiriman dng ninja ekspres tdk bisa di rubah. padahal sebelumnya bisa di pindah ke jne ataupun j\u0026amp;t. sy sdh melakukan pengiriman lewat jne. dan transaksi terpaksa di batalkan otomatis, karna tdk bisa ganti kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b84bcae3-b50b-41bc-a2d6-e9f6519b9f1e",
+    "data": [
+      {
+        "text": "Salah pilih kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "baee18fe-2509-45a2-b734-f4f3855b05e5",
+    "data": [
+      {
+        "text": "kenapa tidak bisa ganti kurir JNE ke jnt INVIDTAG",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "41a51edb-93a1-42f5-b36f-99431cfba0ec",
+    "data": [
+      {
+        "text": "KNP saya gak bisa ganti kurir pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7113ce08-42fc-47ef-9dee-181bfa880dfe",
+    "data": [
+      {
+        "text": "mau ubah kurir gimana caranya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8fb9595f-a285-4249-99db-d2a646afe4a2",
+    "data": [
+      {
+        "text": "kalau mau ganti kurir gimana yah Ka",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "29a95c3f-a208-4e1c-92a7-b1525270d80d",
+    "data": [
+      {
+        "text": "tadi pagi saya melakukan pengiriman barang harusnya tiki reguler saya kirim via jne  no resi 031710104405518 mohon bantuannya agar bisa dikoreksi thq",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b331bd77-b522-4397-a6dd-8ec3849ceb33",
+    "data": [
+      {
+        "text": "Pembeli pesan pakai Jnt. Kemarin saya kirim via jne. Karena ini produk gas. Biasanya di tolak jne atau jnt. Cuma jne bisa alihkan ke darat kalau tidak lolos xray dari bandara. Saya sudah koordinasi sama pembeli dan setuju ganti jne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b69ab400-7398-4b08-a8dc-d6171bbf389b",
+    "data": [
+      {
+        "text": "Buyer minta ganti kurir dr jne reg ke jne yes. Apakah kode booking masih relevan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a7242a17-2e17-42eb-a149-7213874b67fb",
+    "data": [
+      {
+        "text": "bagaimana cara merubah no resinya ya, saya salah masukin nomor resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e8be0f05-99f2-4c90-a4a9-caf8dd5123de",
+    "data": [
+      {
+        "text": "apakah pengiriman dengan gosend bisa diganti dengan kurir lain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0cb2fa13-010f-452b-9c98-66a2c57d3a1b",
+    "data": [
+      {
+        "text": "Gimana ya cara ganti resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a0b37392-3f8a-4509-a1d4-578de77de089",
+    "data": [
+      {
+        "text": "hallo, ini saya salah input resi gimana ya? mau ubah resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "85052409-4e30-4912-bd4f-60c4f5cf80c8",
+    "data": [
+      {
+        "text": "invoice ini awalnya pembeli pakai pos tapi saya kirim pakai jne, saya sdh input resi tapi lupa untuk merubah kurirnya, ini saya berikan bukti resi fisiknya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ff2956e3-7080-4398-b923-cce4ec0419b8",
+    "data": [
+      {
+        "text": "hi cs mohon bantuannya, saya tidak bs mengubah kurir menjadi jne reg. Pos kilat sedang mengalami overload yg sangat lama.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ab524481-c2f5-4c2c-9fdd-47834f1d853b",
+    "data": [
+      {
+        "text": "mohon ganti kurir grab menjadi pengiriman reguler karena terjadi kesalahan pin point alamat saat melakukan pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "53d7bd84-5cbe-46cc-a664-43fe1cd93f36",
+    "data": [
+      {
+        "text": "Gimana cara sy lupa mengganti kurir tapi sudah terlanjur memasukkan nomor resi gimana cara memggantinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3e0663f8-cecf-4c27-8b88-e35c708a91e7",
+    "data": [
+      {
+        "text": "saya ingin memintaan bantuan pihak tokopedia utk mengubah kurir pengirimanbdr jne reg ke jnt reg.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9411bdf0-710a-448a-be96-0fc60417013b",
+    "data": [
+      {
+        "text": "Ada pengiriman pake JNE.Tapi saya kirim pake JNT.Bisa ga, dan bagaimana caranya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "69605054-e8c3-432b-9f4d-c49da931d571",
+    "data": [
+      {
+        "text": "tidak bisa ganti kurir. Saya mau kirim pakai J\u0026T",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8234099f-72eb-475a-ae63-9820afc4e153",
+    "data": [
+      {
+        "text": "saya ingin mengganti kurir buyer saya dari sameday ke instan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c225a372-d009-489a-b8cd-47341f4517c2",
+    "data": [
+      {
+        "text": "customer saya pesen pake wahana tp wahana nya tutup jd saya kirim pake JNE, saya mau ubah nomor resinya gimana ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "44efe57f-47ad-4452-b845-1a092f39789d",
+    "data": [
+      {
+        "text": "pengiriman barang pembeli minta pengiriman lewat jne terus saya alihkan ke J\u0026T keterangan nomor tidak valid padahal resi sudah sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "143941a6-2a8f-416d-b714-7bcc8ab9ed52",
+    "data": [
+      {
+        "text": "sy ada pesanan dengan kurir via jne tapi sy kirim via tiki gimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e9b645d0-795b-426d-8be6-04ea37c99f06",
+    "data": [
+      {
+        "text": "Semalam kita lupa klik konfirmasi ganti kurir dari JNE ke JnT akhirnya tidak bisa terlacak di sistem Tokopedia,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a8470f29-22c6-4856-bd87-e8c598439305",
+    "data": [
+      {
+        "text": "merubah resi..dari sicepat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f3ac0c17-8201-4b92-a5e7-f5e7ceb32095",
+    "data": [
+      {
+        "text": "bagaimana mengubah resi karena mengirim dari ekspedisi yang berbeda mohon bantuan nya ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "439986d0-4789-4acb-b42c-e047e4a14e81",
+    "data": [
+      {
+        "text": "salah input resi pengiriman harusnya pakai POS kliru kepilih JNE",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0bf46367-4202-4d8d-94be-b01d6f895787",
+    "data": [
+      {
+        "text": "cara mengubah kurirnya bagaimana ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4e00ee40-bb47-4a4a-8fde-97fa83025379",
+    "data": [
+      {
+        "text": "maaf saya salah memasukan resi mohon bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ca7ca303-df83-435c-b8aa-a802a442c886",
+    "data": [
+      {
+        "text": "saya mau menanyakan kalau salah memasukan resi pengiriman bagaimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "27694779-041d-4e0f-ae74-abf29e6e3ac9",
+    "data": [
+      {
+        "text": "gimana caranya kak, disana cuma ada pilihan ubah resi tapi tidak ada ubah kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "32429f95-2847-4388-b3d5-0a9e7d7ad1d5",
+    "data": [
+      {
+        "text": "Gagal di pick up dan saya mau rubah kurir ke JNE yes saja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "30096c10-62be-4786-8524-a0c1c974cb3d",
+    "data": [
+      {
+        "text": "Saya salah memasukkan no resi pengiriman dari ninja EXPRESS ke jne reg tolong di ubah untuk jasa pengiriman dan no resinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8dfeb318-fe7f-42f8-919b-a1ff97ed5df1",
+    "data": [
+      {
+        "text": "kalo mau ubah dari JNE AWB ke kurir JNE Reguler gimana caranya ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "30d4db2f-72f0-494d-bf42-8149f85f329c",
+    "data": [
+      {
+        "text": "sicepat gak buka saya ngirim diwahana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "faa63540-9455-4687-8e61-c6e01e611baa",
+    "data": [
+      {
+        "text": "Bagaimana merubah resinya ya min",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "39738217-5a19-4275-ba8f-cb7c8772eee2",
+    "data": [
+      {
+        "text": "Mau mengganti ekspedisi pengiriman bagaimana caranya ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b7ec5e2a-1790-45f8-a22a-02ac687dac1c",
+    "data": [
+      {
+        "text": "jd ceritanya sy sebagai penjual, kmrn saya ada pesanan pake JNT Reguler tp akhirnya saya kirim pake JNE Reguler, saya lupa ubah kurirnya, mohon bantu ubah ya kak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ce856a2f-04cc-407d-8a6b-50fd8a09a4cc",
+    "data": [
+      {
+        "text": "saya Ada salah masukan no resi, gmn cara ubahnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c92f105b-49d5-443d-b206-7706ff624ccf",
+    "data": [
+      {
+        "text": "bagaimana cara hendak merevisi kurir, setelah proses pembayaran selesai dilakukan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a7ee2f84-ee09-4fad-a619-ed4820e29721",
+    "data": [
+      {
+        "text": "cara isi gosend...pembeli pilih grab...kami kirim dengan gosend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9d033c49-5974-45ac-86d7-84e7ab241990",
+    "data": [
+      {
+        "text": "apakah bisa saya mengirim barang pesanan customer dengan ekspedisi yang beda dengan yg di pesan customer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c9ce5c4e-1388-4f4f-9264-5bc6d378ab17",
+    "data": [
+      {
+        "text": "kenapa saya tidak bisa ganti kurir ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f3d1e387-eac0-47eb-809b-77e64d8f74ed",
+    "data": [
+      {
+        "text": "saya mau ganti kurir instan bagaimana cara ny y",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3d8af45d-5051-42fd-a58d-96660923d55c",
+    "data": [
+      {
+        "text": "aku mau kurir di ganti dgn kantor pos kilat khusus ya thx atas kerjasamanya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "aaa5f57a-382b-4f11-ae49-8431de6db9cf",
+    "data": [
+      {
+        "text": "saya mau tanya kalo ingin ganti kurir (dari ninja xpress ke jne) utk pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f6b5625a-881f-4342-b996-4b68c1f5c2e5",
+    "data": [
+      {
+        "text": "tadi pagi saya melakukan kesalahan pengiriman barang harusnya tiki reguler saya kirim via jne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "94497dd0-4fb9-46c5-8cea-a5a73c1cde9e",
+    "data": [
+      {
+        "text": "bisa dibantu penggantian kurir nya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cc15d639-c977-4ddf-97e8-af466a274337",
+    "data": [
+      {
+        "text": "saya ingin mengubah metode pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bd2cde4e-aa52-4ec3-866b-81bd56a28c05",
+    "data": [
+      {
+        "text": "bisa diganti dengan kurir lain gak ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6bf4de79-5bf4-41e9-839d-3fae1f720851",
+    "data": [
+      {
+        "text": "mohon maaf admin ini kenapa aplikasi tidak bisa konfirmasi ganti kurir ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c9e4f644-8199-4cbf-907b-9ecf597195a6",
+    "data": [
+      {
+        "text": "jadi kurir pos sedangkan resi si cepat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fb85c9a3-1e9e-4379-b401-9a549993e872",
+    "data": [
+      {
+        "text": "apakah saya bisa ganti kurir? karena katanya kendala di kurir yg saya pilih kmrn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4c59e7da-5f6b-45a6-8918-6c613900f988",
+    "data": [
+      {
+        "text": "saya lupa merubah nama ekspedisi pembeli. mohon bantu di rubah menjadi jne reg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6ac03003-8297-4b36-bcca-a49c22eb9434",
+    "data": [
+      {
+        "text": "apakah bisa mengalihakan pengiriman melalu gojek?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "588fbdde-e2cb-4707-b0d4-74db01b0f9d4",
+    "data": [
+      {
+        "text": "mw Masukan No. Resi tp di mana yah itu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "09dfce61-4f68-4279-937e-4c642eb26168",
+    "data": [
+      {
+        "text": "saya tidak bisa ganti kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7dd4ca35-75da-4a31-ae60-6cee75efb10a",
+    "data": [
+      {
+        "text": ".barang yang saya jual tidak menggunakan jasa pengiriman yg dipilih oleh pembeli karena kendala tertentu, tapi saya menggantinya dengan jasa pengiriman LION PARCEL.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7bc14d8f-896c-434c-bfd3-65c602e8db14",
+    "data": [
+      {
+        "text": "pelanggan minta kirim pakai tiki, saya kirim pakai JNE sudah isi resi JNE tp lupa ubah kurir dari tiki ke JNE",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cb2ba61e-5d25-4009-8462-2e3c128cdba1",
+    "data": [
+      {
+        "text": "mohon bantuannya ubah transaksi ini menjadi JNE",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e662240b-aa79-4a71-a098-56fe11de81f9",
+    "data": [
+      {
+        "text": "saya ada beli barang dan sudah bayar tp saya mau ubah kurir pengirimannya, yg ubah saya atau penjual ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6062c375-17ce-4c88-ae19-fdec875bfc00",
+    "data": [
+      {
+        "text": "transaksi penjualan saya bermasalah karena kita salah masukin resi, ini nomor resi yang benernya kak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b92ed327-416f-4dc8-aef8-41048b25f4f7",
+    "data": [
+      {
+        "text": "saya lupa mengganti kurirnya, tolong di bantu admin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7cbe3208-82e0-4971-a937-82f786a16ed4",
+    "data": [
+      {
+        "text": "ini ada pembeli saya yg salah pilih kurir saat CO, nah saya sudah terima pesanannya, apakah saya bisa kirim sesuai dengan kurir permintaan dari pembeli? tlg bantu ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6b717558-e162-45ce-b890-e5c556220ea6",
+    "data": [
+      {
+        "text": "saya mau menanyakan penjual saya, saya sudah memasukan resi namun saya lupa untuk mengganti ke kurirnya, bagaimana cara mengganti kurir?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3062cbf9-e7f8-41e1-a0e9-b56c18e4325c",
+    "data": [
+      {
+        "text": "tlg dibntu utk transaksi ini saya krm menggunakan jne bukan tiki, tlg bantu ubah kurirnya dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "57dba3e2-03e0-4a4b-bdec-d4c66f0e4420",
+    "data": [
+      {
+        "text": "Saya tadi order, pingiriman dari JNE tetapi setelah saya masukan voucher pengiriman terganti ke Si cepat. Apabisa diganti ke JNE lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0662f845-5c95-4daa-9049-f455a644660c",
+    "data": [
+      {
+        "text": "grab instan ke JNE . otomatis berubah? atau seller yg eksekusi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

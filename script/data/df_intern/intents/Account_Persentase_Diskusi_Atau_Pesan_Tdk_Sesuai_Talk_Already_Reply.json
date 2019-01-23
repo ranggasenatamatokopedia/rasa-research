@@ -1,0 +1,43 @@
+{
+  "id": "611c368d-aba1-4c1d-8665-f95ca4251187",
+  "parentId": "d26e4d33-a5c8-47b0-beb8-7d1873f5b91e",
+  "rootParentId": "fdda2498-0a41-423b-9805-8948dabcbac1",
+  "name": "Account_Persentase_Diskusi_Atau_Pesan_Tdk_Sesuai_Talk_Already_Reply",
+  "auto": true,
+  "contexts": [
+    "Account_Persentase_Diskusi_Atau_Pesan_Tdk_Sesuai_Talk-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetDiscussionReloadLimit",
+      "affectedContexts": [
+        {
+          "name": "Account_Persentase_Diskusi_Atau_Pesan_Tdk_Sesuai_Talk_Already_Reply-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540800640,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "already_reply"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "bd514287-9364-415f-ab5d-e6df5b3f395f",
+  "parentId": "8d8045d0-6fea-4675-bb3b-e305b6862e63",
+  "rootParentId": "531bada3-61be-44f9-9ccf-a308436b6e0f",
+  "name": "Flash_Sale_Harga_Dibeli_Berbeda_Dengan_Harga_Coret_Belum_Checkout_Image1_Image2",
+  "auto": true,
+  "contexts": [
+    "Flash_Sale_Harga_Dibeli_Berbeda_Dengan_Harga_Coret_Belum_Checkout_Image1-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Flash_Sale_Harga_Dibeli_Berbeda_Dengan_Harga_Coret_Belum_Checkout_Image1_Image2-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped buatkan tiketnya ya, selanjutnya kamu akan dihubungi melalui email Layanan Pengguna. Semoga membantu :)"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "data": {
+              "show_rating": false
+            },
+            "type": 0
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535705461,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "d41174d6-602b-4522-be0a-bdef0d8b34ed",
+  "name": "smalltalk.agent.greetings.laughing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": [
+            "Ciyee yang lagi seneng... 😄",
+            "Lagi bahagia nih yee... 😄",
+            "Kayaknya lagi bahagia ya, Kak... 😄",
+            "Duh bahagia banget nih...😄"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "smalltalk_agent_greetings_laughing"
+    }
+  ]
+}

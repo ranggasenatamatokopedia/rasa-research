@@ -1,0 +1,43 @@
+{
+  "id": "8100fa41-787f-48c3-9953-bd541a349b15",
+  "parentId": "6768c120-09ae-4f09-b807-fb1954fa62ff",
+  "rootParentId": "e1fd67c7-5a72-4184-9a6c-bda4c6e61524",
+  "name": "Logistic_Pengiriman_Tidak_Tersedia_As_Buyer_Address_Product_Reguler_Courier_List",
+  "auto": true,
+  "contexts": [
+    "Logistic_Pengiriman_Tidak_Tersedia_As_Buyer_Address_Product_Reguler_Select_Courier-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckAvailabilityCourierBasedOnSelectedProduct",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Pengiriman_Tidak_Tersedia_As_Buyer_Address_Product_Reguler_Courier_List-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu sebentar ya, Toped cek dulu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534307443,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "selected_data"
+    }
+  ]
+}

@@ -1,0 +1,598 @@
+[
+  {
+    "id": "1fac51b5-9e9a-442c-b21a-168a42f11917",
+    "data": [
+      {
+        "text": "saya dapat link yang mencurigakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5e2502cd-b538-4df3-87f3-54ea5b5ca216",
+    "data": [
+      {
+        "text": "saya dpt link mrencurigakan ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f413de20-690a-4326-8544-42db88e81f5b",
+    "data": [
+      {
+        "text": "ada penipuan lewat link mencurigakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d8819da7-05ef-4bdf-9fe5-57f8d7105985",
+    "data": [
+      {
+        "text": "saya dapat link aneh ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ce1eb2e1-f97c-4c40-a5d0-2d52e52c9000",
+    "data": [
+      {
+        "text": "saya dapet link nggak jelas dari ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8432408b-caba-4ba7-9be6-686a3da3e134",
+    "data": [
+      {
+        "text": "apakah tokopedia punya website lain karena saya dapat link nya beda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0552d897-7ada-4cd3-9ac8-5cea669a86cd",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tolong saya klik link dan akun saya jadi aneh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7bda2154-342b-456a-baae-c3fe1449c363",
+    "data": [
+      {
+        "text": "saya dikasih link xxx katanya akan langsung muncul ke web tokopedia, apakah betul?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d6b229a7-032c-404d-b5d0-4d72f48c7fb4",
+    "data": [
+      {
+        "text": "saya dikasih link xxx yang mencurigakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "897e2e1b-2244-4dcb-9be2-a547a8f99922",
+    "data": [
+      {
+        "text": "Penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kirim link mencurigakan ke saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ff91b740-135a-4208-a8f8-1eda1db032aa",
+    "data": [
+      {
+        "text": "link xxx punya tokopedia bukan ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c8b5680e-1c5f-4231-b7e9-b176d1398a91",
+    "data": [
+      {
+        "text": "apakah link tokopedia berubah? saya masuk link yang lain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cf7b4e51-880f-42c9-8a3a-0e3044829e1e",
+    "data": [
+      {
+        "text": "katanya ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ini link resmi, tapi saya curiga tolong di cek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ec2fa941-f335-40b2-86cc-3fa923710112",
+    "data": [
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kasih link mencurigakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e2d439c6-565f-4d06-8f5c-2fdd970510e1",
+    "data": [
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nyuruh saya klik link untuk masuk ke tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e73e8f48-8b53-4e10-9bfd-4947eb93970c",
+    "data": [
+      {
+        "text": "saya dapat link mencurigakan ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3a7e30a1-4c83-44fe-b568-9088ce7def03",
+    "data": [
+      {
+        "text": "apakah link xxx memang dari tokopedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f1c34948-5823-41c7-8aea-503411eadb05",
+    "data": [
+      {
+        "text": "saya dikirimin link nggak jelas, itu apa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d4952df7-2796-4d70-9bc0-6bd2395892d5",
+    "data": [
+      {
+        "text": "saya kena penipuan karena klik link yang dikasih ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e912901c-607f-447b-84ba-839399f6da70",
+    "data": [
+      {
+        "text": "saya dapet link yang mencurigakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "66bbbde4-ea0d-4335-ab11-2903db004e89",
+    "data": [
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kirim link mencurigakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "72bd0d54-9912-4b42-b05f-56520f1cfc7a",
+    "data": [
+      {
+        "text": "saya dapet link aneh tapi saya nggak berani buka ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bf9ff2ad-62ad-4267-b469-d52012cc3741",
+    "data": [
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kasih link aneh ke saya, apakah itu penipuan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "56eac99d-8023-45dd-a5ba-4cda6f90c6d8",
+    "data": [
+      {
+        "text": "saya klik link aneh dari ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d5e05439-1a51-45a6-8707-433b4c0dd0ce",
+    "data": [
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kirim link yang aneh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8d889ade-8d2f-4c2d-8423-d7096eb8fbe7",
+    "data": [
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kirim link yang mencurigakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "18be98d6-a17c-474a-b4ec-440eed013518",
+    "data": [
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kasih link aneh ke saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6c11e523-0106-4b55-8af0-e2713c289aa4",
+    "data": [
+      {
+        "text": "saya dapat link yang menurigakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "28180010-f59e-445c-a2af-8b795ec4857d",
+    "data": [
+      {
+        "text": "link xxx mencurigakan, coba di cek ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6dd2c353-c289-4e2b-8823-16a7c98a29d5",
+    "data": [
+      {
+        "text": "saya nggak sengaja klik link yang dikasih ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d5a6b78b-e549-472e-ae47-0f5daec23c88",
+    "data": [
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kirim link yang mendurigakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7590e110-b596-4b5a-8b73-031e8dc5dc02",
+    "data": [
+      {
+        "text": "link tokopedia yang saya daapt dari ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " berbeda, apakah memang ada link lain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "88bebe83-37ee-4ff3-81e8-430f3c3e2638",
+    "data": [
+      {
+        "text": "ada link aneh yang dikasih ke saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7a7a05ba-2cbf-4e4b-acbb-8d18c5ddecd3",
+    "data": [
+      {
+        "text": "saya curiga sama link xxx apa bener dari tokopedia ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6bc50593-c453-413a-a990-9d952bdbdb88",
+    "data": [
+      {
+        "text": "saya dapet lingk mencurigakan nih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6d767c4f-4a78-473f-a23a-28d96dc4186c",
+    "data": [
+      {
+        "text": "saya dikirim link aneh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5c88803e-21cc-485e-896b-08a89b12b88e",
+    "data": [
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kirim link mencurigakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "64247913-2b45-4c86-902a-17973ea4c428",
+    "data": [
+      {
+        "text": "saya diarahkan masuk ke web tokopedia yang lain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ec021a08-be26-42cc-be49-e5ba4d1d304c",
+    "data": [
+      {
+        "text": "saya melakukan transaksi, ternyata tokonya melakukan penipuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "21aa39f9-7b0b-4674-b0ac-45bfd597cbc3",
+    "data": [
+      {
+        "text": "Curiga penipuan, invoice ini saya baru melakukan pembelian TAPI saya CURIGA, penjual kirim sms yg menunjukan nomor resi pengiriman dr pos indonesia dan saya diminta untuk membaca nomor itu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "00da9981-2fec-4df6-afd4-e1d9ab4eaf16",
+    "data": [
+      {
+        "text": "Menipu atas nama winata stores",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

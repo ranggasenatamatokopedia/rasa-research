@@ -1,0 +1,43 @@
+{
+  "id": "20a52063-9a2d-4903-9dac-e88d36f2f329",
+  "parentId": "1d65c63b-682a-44d1-bfef-08244e833733",
+  "rootParentId": "35ea81e4-4843-4cfe-b8fd-335f2f7a0eea",
+  "name": "Account_Kendala_Notifikasi_Chat_Already_Reset_Under_1_Hour",
+  "auto": true,
+  "contexts": [
+    "Account_Kendala_Notifikasi_Chat_Already_Reset-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Account_Kendala_Notifikasi_Chat_Already_Reset_Under_1_Hour-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa menunggu selama maksimal 1 jam setelah dilakukan penyesuaian pada notifikasi yang tidak sesuai sebelumnya, ya"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533873247,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "under_1_hour"
+    }
+  ]
+}

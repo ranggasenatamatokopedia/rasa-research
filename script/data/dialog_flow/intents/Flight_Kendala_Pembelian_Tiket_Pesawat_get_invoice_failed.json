@@ -1,0 +1,48 @@
+{
+  "id": "8066b7c1-230c-491d-b40c-5f8316a2b5d9",
+  "parentId": "ab8df0a2-b9ca-41e7-b2a1-d535fe009b5f",
+  "rootParentId": "7f7a8cb1-cbe8-48a9-9930-7686b772cf99",
+  "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_get_invoice_failed",
+  "auto": false,
+  "contexts": [
+    "Flight_Kendala_Pembelian_Tiket_Pesawat_get_invoice-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_get_invoice_failed-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sayang sekali, transaksi kamu saat ini belum berhasil. Dana akan Toped kembalikan ke Saldo Tokopedia/Limit Kartu Kredit kamu ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika kembali ke kartu kredit maka pengembalian dana akan diproses selama 14 hari kerja. Selain kartu kredit, dana akan diproses dalam 1x24 jam ke Saldo."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537431691,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_failed"
+    }
+  ]
+}

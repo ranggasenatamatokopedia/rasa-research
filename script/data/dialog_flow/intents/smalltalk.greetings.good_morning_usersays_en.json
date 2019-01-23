@@ -1,0 +1,367 @@
+[
+  {
+    "id": "9aa119ba-2d02-4f50-9b57-0407a7c3e6b9",
+    "data": [
+      {
+        "text": "good morn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3568b7d7-327f-4764-ad4b-eefbae1b4367",
+    "data": [
+      {
+        "text": "met pgi ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "097ef541-3bf9-4cf8-a71c-f7315206275f",
+    "data": [
+      {
+        "text": "selamat pagi buat kamu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "54064b2e-0bf5-4410-a21a-929b9e2d2d73",
+    "data": [
+      {
+        "text": "pagi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kak toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c5f92569-bc2b-4d63-8548-9da2a3ccad7f",
+    "data": [
+      {
+        "text": "morning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "69964045-454c-472c-b29a-126ef81331d1",
+    "data": [
+      {
+        "text": "selamat ",
+        "userDefined": false
+      },
+      {
+        "text": "pagi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "841fb361-35af-4115-a013-a2690b5bdee3",
+    "data": [
+      {
+        "text": "met pg kak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7952054b-ff81-4be8-a22f-88ec721c1632",
+    "data": [
+      {
+        "text": "halo selamat pagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c1ab2421-49aa-4d02-b778-b85207a4b6cb",
+    "data": [
+      {
+        "text": "pagy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "02e25a97-66d9-429e-92b1-c1ed1996e6d8",
+    "data": [
+      {
+        "text": "met pgi kak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f44de731-1208-450c-947a-9a426395f86c",
+    "data": [
+      {
+        "text": "met pg toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4f6dd6cf-2f68-41ff-8eac-b5172c6244b8",
+    "data": [
+      {
+        "text": "pagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "89e49f5c-2d03-46c7-90b4-98b10250620a",
+    "data": [
+      {
+        "text": "pag",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5bc950d4-4721-4c40-9caf-17f0acd49e41",
+    "data": [
+      {
+        "text": "pagi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "397a8ac8-bafe-420f-92c3-0249f43ed7a5",
+    "data": [
+      {
+        "text": "selamat pagi cinta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "40e1de82-c646-461d-bb06-7d8d4aa5d38b",
+    "data": [
+      {
+        "text": "met pg ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "73f7757e-1eff-48ed-8ca1-2e60d08b1678",
+    "data": [
+      {
+        "text": "semoga pagi ini menyenangkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8f4f12c7-9a9f-45a9-88f8-8b01a9417e76",
+    "data": [
+      {
+        "text": "pagii",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9ba92928-6b26-422f-b3b2-670fedb198e6",
+    "data": [
+      {
+        "text": "hai selamat pagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b1ddc1f2-162e-4f91-b5eb-6a4c1e798aa3",
+    "data": [
+      {
+        "text": "semoga pagi kamu menyenangkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "09cb9b03-e63d-4492-b9d8-adff1bef4066",
+    "data": [
+      {
+        "text": "selamat pagi ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "633ac14a-264d-4a63-9f7b-e0cb583282ad",
+    "data": [
+      {
+        "text": "good morning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "189dd14c-64a8-4aad-8ccc-27d567bcf957",
+    "data": [
+      {
+        "text": "selamat ",
+        "userDefined": false
+      },
+      {
+        "text": "pagi min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2d5a9df8-b240-4f43-9310-cccfac96c2d3",
+    "data": [
+      {
+        "text": "pg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d3c87d51-3b0b-45eb-887b-6efa7eae2cff",
+    "data": [
+      {
+        "text": "pgi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eb57c547-7a6e-417d-a5eb-b3f0c29112f3",
+    "data": [
+      {
+        "text": "Pagiiii",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0ea7fc9f-0b18-435d-8470-e3c0d1747fdb",
+    "data": [
+      {
+        "text": "selamat pagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c7b402d5-6f6f-431a-8c87-5ab03e53c26b",
+    "data": [
+      {
+        "text": "met pagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "db5a5b92-1fdd-4d46-a791-ba0f9b1c7f8d",
+    "data": [
+      {
+        "text": "met pgi toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1565de21-696c-4fe7-bb16-86eeaa20c48e",
+    "data": [
+      {
+        "text": "morn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

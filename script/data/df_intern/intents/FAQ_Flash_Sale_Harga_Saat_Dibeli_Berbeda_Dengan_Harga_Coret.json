@@ -1,0 +1,42 @@
+{
+  "id": "85493e85-ecd4-440f-a5c0-e1cfe496dd1d",
+  "name": "FAQ_Flash_Sale_Harga_Saat_Dibeli_Berbeda_Dengan_Harga_Coret",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flash_Sale_Harga_Saat_Dibeli_Berbeda_Dengan_Harga_Coret-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau harga barang yang kamu beli berbeda dengan harga Flash Sale, kamu bisa hubungi !TKPD_URL_CONTACTUS_SUBMIT! ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jangan lupa kamu lampirkan screenshot berikut ya:\n\n1. Screenshot harga produk di halaman Flash Sale\n2. Screenshot harga di Halaman Produk atau Invoice (harga yang berbeda)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 0,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_flash_sale_harga_saat_dibeli_berbeda_dengan_harga_coret"
+    }
+  ]
+}

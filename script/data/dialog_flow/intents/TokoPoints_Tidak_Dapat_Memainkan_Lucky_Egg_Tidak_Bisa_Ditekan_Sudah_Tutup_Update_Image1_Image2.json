@@ -1,0 +1,61 @@
+{
+  "id": "da2c50ac-1e45-4f0e-908d-268448b73be7",
+  "parentId": "424b3a12-71b9-4685-a46f-cfa25090641f",
+  "rootParentId": "e5ddb095-11e2-44d0-a686-c477add0deaf",
+  "name": "TokoPoints_Tidak_Dapat_Memainkan_Lucky_Egg_Tidak_Bisa_Ditekan_Sudah_Tutup_Update_Image1_Image2",
+  "auto": true,
+  "contexts": [
+    "TokoPoints_Tidak_Dapat_Memainkan_Lucky_Egg_Tidak_Bisa_Ditekan_Sudah_Tutup_Update_Image1-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "TokoPoints_Tidak_Dapat_Memainkan_Lucky_Egg_Tidak_Bisa_Ditekan_Sudah_Tutup_Update_Image1_Image2-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8395eedb-5b1d-41be-9bab-e0d3db369d35",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1416"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped bantu buatkan tiket ya, nanti kamu akan menerima informasinya melalui email Layanan Pengguna."
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "data": {
+              "show_rating": false
+            },
+            "type": 0
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534392096,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

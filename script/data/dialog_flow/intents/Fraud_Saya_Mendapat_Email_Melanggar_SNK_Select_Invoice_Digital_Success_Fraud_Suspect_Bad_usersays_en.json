@@ -1,0 +1,24 @@
+[
+  {
+    "id": "8f3f018b-9eb3-4264-bc1c-d823d73f46b5",
+    "data": [
+      {
+        "text": "case_status_suspect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "637f3b54-c46a-4e21-aed3-55fe9d9ef96d",
+    "data": [
+      {
+        "text": "case_status_bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

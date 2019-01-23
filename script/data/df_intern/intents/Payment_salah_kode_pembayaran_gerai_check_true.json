@@ -1,0 +1,43 @@
+{
+  "id": "64e80c98-13eb-4d14-babf-e0a83c3f21d5",
+  "parentId": "59cd556a-b8e3-47c3-9e79-6738cff2087f",
+  "rootParentId": "8d6cc4ef-96f8-4de8-9cc0-b39dfd7bb0af",
+  "name": "Payment_salah_kode_pembayaran_gerai_check_true",
+  "auto": true,
+  "contexts": [
+    "Payment_salah_kode_pembayaran_gerai_check-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Payment_salah_kode_pembayaran_gerai_check_true-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh kasih tahu Toped kode pembayaran yang kamu salah masukkan sebelumnya sewaktu bayar?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532487264,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "gerai"
+    }
+  ]
+}

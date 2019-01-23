@@ -1,0 +1,42 @@
+{
+  "id": "7b30a711-de51-44b7-8a60-12320fafeec3",
+  "parentId": "3c656bc5-50c4-4182-ab6a-c6629fb01600",
+  "rootParentId": "73840e93-ca95-444a-a2dd-d1deaab1d5eb",
+  "name": "FAQ_Logistic_Berapa_Ongkos_Kirim_Kurir_Pickup_Grab_Sameday",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Berapa_Ongkos_Kirim_Kurir_Pickup_Grab-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8be04719-b2de-4a87-87ea-f64bb0d513a7",
+          "required": false,
+          "dataType": "@layanan_kurir_pick_up",
+          "name": "layanan_kurir_pick_up",
+          "value": "$layanan_kurir_pick_up",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "1. Jarak 0 - 15 km Rp14.000\n2. Jarak 15,1 - 30 km Rp19.000\n3. Jarak 30,1 - 40 km Rp27.000"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528787915,
+  "fallbackIntent": false,
+  "events": []
+}

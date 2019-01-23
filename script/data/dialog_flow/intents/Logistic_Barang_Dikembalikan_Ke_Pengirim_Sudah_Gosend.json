@@ -1,0 +1,63 @@
+{
+  "id": "dab55b28-a212-44bf-aac3-7958cf9737d4",
+  "parentId": "a70a50ca-ee27-41c6-ab10-002ca5c9ec96",
+  "rootParentId": "36de46a2-13d2-4f09-9ff4-8abcbcb54ba3",
+  "name": "Logistic_Barang_Dikembalikan_Ke_Pengirim_Sudah_Gosend",
+  "auto": true,
+  "contexts": [
+    "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Seller_Shipping_On_Demand_Sudah-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Dikembalikan_Ke_Pengirim_Sudah_Gosend-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Apakah kamu bersedia Toped bantu carikan kurir lain untuk pick up ulang paket?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Bersedia",
+              "Tidak Bersedia"
+            ],
+            "type": 1
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533812541,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "courier_go-send"
+    },
+    {
+      "name": "courier_gojek"
+    },
+    {
+      "name": "courier_go-jek"
+    },
+    {
+      "name": "courier_gosend"
+    }
+  ]
+}

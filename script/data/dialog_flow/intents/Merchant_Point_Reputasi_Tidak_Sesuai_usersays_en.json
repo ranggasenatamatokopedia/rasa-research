@@ -1,0 +1,1479 @@
+[
+  {
+    "id": "0df8f075-06a8-49ca-8916-bb8bdb9012b6",
+    "data": [
+      {
+        "text": "reputasi berkurang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "055b9190-6fb0-4aa1-a7be-f7d012bcac47",
+    "data": [
+      {
+        "text": "coba cek reputasi toko saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f2d1a64f-0ff6-4287-b55d-44907e3bebb0",
+    "data": [
+      {
+        "text": "reputasi toko kenapa ga bertambah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e2349ee5-d06e-4ed4-aa2c-217751cf09ad",
+    "data": [
+      {
+        "text": "kenapa reputasi saya turun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5e2c737e-7627-4c0c-931d-ba2e1815276e",
+    "data": [
+      {
+        "text": "point reputasi tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7adae54b-e368-44d5-a045-0415764a1495",
+    "data": [
+      {
+        "text": "Poin reputasi toko saya tiba-tiba turun meskipun saya tidak terkena penalti. Poin sebelumnya Sekitar ",
+        "userDefined": false
+      },
+      {
+        "text": "470an",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Bisa tolong dijelaskan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cd7fdfb5-50e4-4cc9-98f9-543ddc3b60a6",
+    "data": [
+      {
+        "text": "Reputasi saya tidak berubah sejak ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " memberikan smiley positif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7d1b7bfd-61d3-45df-a8b9-4b7dd240ec13",
+    "data": [
+      {
+        "text": "Kenapa ada penalti poin tanggal ",
+        "userDefined": false
+      },
+      {
+        "text": "29",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mei",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? Saya lampirkan screenshot halaman penalty poin ",
+        "userDefined": false
+      },
+      {
+        "text": "25",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "22fde460-42f6-43e8-b181-a13951b52e0b",
+    "data": [
+      {
+        "text": "Update reputasi saya dong padahal sudah banyak transaksi berhasil tetap aja gak nambah-nambah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c5bc7cd2-79b8-43d2-aab0-64498fe9f4df",
+    "data": [
+      {
+        "text": "Saya sudah kasih nilai senyum ke ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tapi kok gak bertambah ya point reputasinya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a75f21d0-f2ae-44fa-a87f-a2006edff94c",
+    "data": [
+      {
+        "text": "invoice mana yang bikin reputasi saya turun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c780afe4-fe00-4a40-80ea-14b447873809",
+    "data": [
+      {
+        "text": "point toko saya, ",
+        "userDefined": false
+      },
+      {
+        "text": "tiba2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " berkurang banyak banget. mohon penjelasannya ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cdf59dc2-a4e1-4899-becd-f67ed8fd68a4",
+    "data": [
+      {
+        "text": "point reputasi saya kenapa turun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bf045407-c2a8-48a2-a8db-4fa0a5f09442",
+    "data": [
+      {
+        "text": "reputasi dari ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sudah dihitung belum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b31859ce-0618-49f8-893e-673047c3e238",
+    "data": [
+      {
+        "text": "Reputasinya belom nambah padahal uda d close terus d buka lagi tapi tetep ga nambah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "be4d9666-8c9f-4011-abed-7788436bba6b",
+    "data": [
+      {
+        "text": "Untuk akun toko saya dikenakan penalty masing-masing ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " poin, namun saya merasa tidak melakukan pelanggaran atas invoice yg dimaksud, pesanan berjalan dengan normal dan sukses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "79183d30-4c00-4716-8e23-99b35c7c01f1",
+    "data": [
+      {
+        "text": "Mohon dibantu, point belum tambah padahal udah dapat emoji smile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e0739e86-aba3-43a6-a7ac-797fda2b7eab",
+    "data": [
+      {
+        "text": "reputasi toko ada yang dikurangin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "57f552a0-8631-4450-ad07-4d3f504d116d",
+    "data": [
+      {
+        "text": "coba jelasin penyebab reputasi toko saya bisa turun banyak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b59712f6-8b99-4591-886c-afb300370958",
+    "data": [
+      {
+        "text": "kenapa reputasi toko saya kalian kurangin terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3e8b8795-10f7-4343-83c8-31ac79e91883",
+    "data": [
+      {
+        "text": "reputasi toko tidak naik-naik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "37d10521-b619-4aa7-b0df-9bb3fe9d6b0f",
+    "data": [
+      {
+        "text": "Saya tidak salah tapi kena penalti reputasi. Ini kenapa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "14f2616f-22f1-41cd-9c6a-cff5e81e61af",
+    "data": [
+      {
+        "text": "coba bantu cek point toko saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "65acf9f3-2afe-496e-9157-9b7b5f9963dd",
+    "data": [
+      {
+        "text": "Kenapa reputasi kami kena potongan ",
+        "userDefined": false
+      },
+      {
+        "text": "25",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " point sedangkan ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kasih nilai senyum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fdc89988-d418-4dca-8559-0a4e59e25a82",
+    "data": [
+      {
+        "text": "Reputasinya aneh, gak nambah-nambah nih padahal transaksi sudah selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0ec661ce-f6b9-463a-8d3e-dceeee14657b",
+    "data": [
+      {
+        "text": "Point reputasi saya gak nambah-nambah ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c3deb06b-81c6-4fda-8dec-d4651d4f5482",
+    "data": [
+      {
+        "text": "point reputasi toko berkurang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b4997342-9a00-4168-81b9-c034b66494c5",
+    "data": [
+      {
+        "text": "Dear Tokopedia reputasi aku ko engga naik, masih segituh gituh aja padahal ada transaksi lagi tapi masih segituh gituh aja mohon konfirmasi nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5a7bd3d1-b027-4423-869e-c4d3edb19764",
+    "data": [
+      {
+        "text": "Mohon bantuan dan responnya, kami mengalami kendala pinalti tokopedia. Masalahnya dimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6e38de89-e4dc-477c-add9-8c0aaecca73d",
+    "data": [
+      {
+        "text": "kenapa reputasi saya jadi bronze",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "258a371e-ef7a-4a1b-bc2e-9041e6f83731",
+    "data": [
+      {
+        "text": "reputasi toko berkurang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "426fa65d-4f0e-4eac-a560-71d9d6b66220",
+    "data": [
+      {
+        "text": "reputasi toko saya ga sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7b70aead-411d-4098-a53a-06b9683ea953",
+    "data": [
+      {
+        "text": "Pengurangan reputasi? Ada masalah apa lagi ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3f8e9018-e438-471c-b941-9343642877a2",
+    "data": [
+      {
+        "text": "Mau tanya kenapa saya kena penalti minus ",
+        "userDefined": false
+      },
+      {
+        "text": "-2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " point ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d47885b5-49b4-4a33-bafe-1ecee61f0974",
+    "data": [
+      {
+        "text": "Saya sudah kasih nilai netral ke ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tapi point saya masih gak bertambah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "145c9eb9-af0b-41e9-a4bb-14f356bbebbb",
+    "data": [
+      {
+        "text": "Mau tanya, saya sudah ada ",
+        "userDefined": false
+      },
+      {
+        "text": "2x",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " penjualan yg berhasil tapi pointnya kok gak bertambah ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "981118f8-91cf-4ffe-8e78-064868bbd88c",
+    "data": [
+      {
+        "text": "order ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum terhitung pointnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3ac21556-8538-4003-abed-0e56ead9dd6e",
+    "data": [
+      {
+        "text": "gimana nih, point reputasi saya berkurang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0ca8d083-09ae-4fc9-915a-afc916be05da",
+    "data": [
+      {
+        "text": "Poin Reputasi Diberikan Dari ",
+        "userDefined": false
+      },
+      {
+        "text": "Pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Namun Tidak Menambah Reputasi Toko Saya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "42b68000-aa65-45da-b931-3294e56352ba",
+    "data": [
+      {
+        "text": "Point reputasi saya tiba-tiba turun, sebelumnya ",
+        "userDefined": false
+      },
+      {
+        "text": "97",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "95",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Apakah ada yang salah dari transaksi saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d631da00-f5e9-4b93-ba78-022e67efecc9",
+    "data": [
+      {
+        "text": "Halo ini reputasi saya berkurang ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", dari transaksi yang mana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3c29efde-8a56-4630-bd5b-dd958cfb76d9",
+    "data": [
+      {
+        "text": "point reputasi toko kena pengurangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a5e3989e-7f0f-4125-9276-f7feb4ff981a",
+    "data": [
+      {
+        "text": "reputasi toko saya kenapa ga nambah-nambah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f1efbc36-023c-466a-96dd-e6555e2e9bce",
+    "data": [
+      {
+        "text": "reputasi saya di potong terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a8cfe2f8-325d-4263-9cab-b67b18245567",
+    "data": [
+      {
+        "text": "kok reputasi saya turun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "98b9fada-6d86-4c9f-8a36-fe3964926bc7",
+    "data": [
+      {
+        "text": "reputasi toko ada yang belum terhitung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "baaf4ae8-07fe-418d-8ae0-7429dd16d336",
+    "data": [
+      {
+        "text": "Hai Tokopedia, beberapa kali kami dapat penilaian reputasi dari ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tapi nilai reputasi toko kami tetap tidak bertambah, tetap di nilai ",
+        "userDefined": false
+      },
+      {
+        "text": "32",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", itu kenapa ya? mohon di cek untuk nilai reputasi toko kami",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8c1ccf44-6c3b-4633-9ed4-eb3841d92bb3",
+    "data": [
+      {
+        "text": "Semalam ada yg kasih saya kepuasan ",
+        "userDefined": false
+      },
+      {
+        "text": "100",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "% harusnya reputasi toko saya bertambah ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi sampai dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "pagi ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak nambah. tolong diproses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ae42815c-0b49-42e9-84e1-9a599356f0ac",
+    "data": [
+      {
+        "text": "reputasi toko ga benerr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "adfe6e41-9465-47fb-8259-dabff8291ce3",
+    "data": [
+      {
+        "text": "Kenapa reputasi yang saya punya tidak sesusai yah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a717ab54-82b8-4356-ba24-535f44de79bb",
+    "data": [
+      {
+        "text": "Maaf poin nya belum tambah kalau bisa poin nya langsung masuk biar orang senang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "48879cb8-08cf-470e-b5bb-51a2cb29dfcf",
+    "data": [
+      {
+        "text": "coba cek lagi reputasi toko saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "850302b4-b5ca-42ec-b053-f0b634cb80a6",
+    "data": [
+      {
+        "text": "reputasi ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum bertambah di toko saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "987d479a-710c-4af9-8c89-b93a069113d8",
+    "data": [
+      {
+        "text": "point toko ga bener",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dd50b640-f761-4bd9-92c1-9e4618f865f1",
+    "data": [
+      {
+        "text": "coba kamu cek lagi apa reputasi toko saya sudah terhitung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e0d6b7c8-740e-4291-b1f3-e870f5dcf7fd",
+    "data": [
+      {
+        "text": "Notifikasi pinalti reputasi untuk transaksi tanggal ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "juli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Transaksi sudah sukses, ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " juga sudah memberikan reputasi dan ulasan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4b72f713-e60f-4231-a7b7-d1a19ad97fd1",
+    "data": [
+      {
+        "text": "point reputasi ga ",
+        "userDefined": false
+      },
+      {
+        "text": "oke",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "62854105-d4bd-4a0c-9e2a-dced29f5ffa1",
+    "data": [
+      {
+        "text": "reputasi toko saya ga bener",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1ff74dec-d1b3-4dc0-8179-871ae962e11f",
+    "data": [
+      {
+        "text": "Kendalanya apa ya? Reputasi saya tidak terupdate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7cf87fd1-2cd2-4830-acea-8195d04958c0",
+    "data": [
+      {
+        "text": "Kenapa saya kena penalti reputasi untuk ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " transaksi itu? salahnya apa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0a56b4ec-df60-4277-abe4-bebdc9200249",
+    "data": [
+      {
+        "text": "Kok reputasi nya ",
+        "userDefined": false
+      },
+      {
+        "text": "8",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sih harus nya ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " loh karena ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " uda kasih nilai netral ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "623c03a3-ee12-4f28-83d6-d40d103480c0",
+    "data": [
+      {
+        "text": "Mohon bantu update point reputasi saya, kok turun ya? Apakah ada pelanggaran syarat dan ketentuan Tokopedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "436a4e0e-3906-4d9c-acf3-0475ff2b8d75",
+    "data": [
+      {
+        "text": "kenapa saya mendapatkan penalti?  ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " lagi gede banget",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e7c12c0c-6f0a-4cd8-926d-283c50dc2c89",
+    "data": [
+      {
+        "text": "\"reputasi belum bertambah. ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sudah memberikan nilai reputasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "00ba2d48-d58e-4860-b145-99404cbe5e31",
+    "data": [
+      {
+        "text": "Halo Toped mohon point saya ditambahkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2b2ea38a-12e7-4e0d-94a3-4a56d2deb5fe",
+    "data": [
+      {
+        "text": "Jumlah reputasi toko saya tidak sesuai nih. Tolong dibantu ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ebc21232-b63e-4ef3-8fbf-3e3e13af41b2",
+    "data": [
+      {
+        "text": "barusan saat saya membalas ulasan ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya lihat poin saya ",
+        "userDefined": false
+      },
+      {
+        "text": "2054",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " poin, kemudian saya cek lagi tinggal ",
+        "userDefined": false
+      },
+      {
+        "text": "2050",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " poin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9d3a204f-2d84-4093-9b56-e4aed9c15faa",
+    "data": [
+      {
+        "text": "poin saya kok berkurang... pertamanya ",
+        "userDefined": false
+      },
+      {
+        "text": "88",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". jadi ",
+        "userDefined": false
+      },
+      {
+        "text": "85",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b6ce4fbd-21f6-4ac6-a6c4-d74cce0fc340",
+    "data": [
+      {
+        "text": "Pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sudah memberikan nilai puas tapi reputasi saya belum bertambah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1ce6d02e-4698-4dac-93d9-7ccc3911d0c0",
+    "data": [
+      {
+        "text": "kenapa reputasi saya berkurang, padahal tidak ada feedback negatif pada customer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3bd09861-47c1-4bf2-8a76-d9e81426efec",
+    "data": [
+      {
+        "text": "Performa toko saya turun karena reputasi yang tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "78bcdbe5-0d38-428c-a306-d233226429d0",
+    "data": [
+      {
+        "text": "Reputasi toko saya seharusnya sudah bertambah dari transaksi terakhir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e1f14536-4a16-41f6-98be-dc9aa23330e4",
+    "data": [
+      {
+        "text": "Kembalikan point reputasi saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "58aab4ff-386b-4b7a-9779-c34c25997a20",
+    "data": [
+      {
+        "text": "Sudah banyak ulasan dari ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi point reputasi saya tidak berubah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "86a5117c-9874-4d70-9e7b-085cf1d57856",
+    "data": [
+      {
+        "text": "Point Reputasi toko saya tidak berubah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b618ea19-9b35-4db6-836f-728add0a36c2",
+    "data": [
+      {
+        "text": "Tolong bantu cek reputasi toko kami yang dari ",
+        "userDefined": false
+      },
+      {
+        "text": "hari sabtu malam",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "senin pagi ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak ada perubahan sedangkan ",
+        "userDefined": false
+      },
+      {
+        "text": "minggu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kami cek ada penambahan ulasan yg cukup banyak dari customer kami.terima kasih atas bantuan dan kerja samanya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0a741d00-045c-48fa-b92d-e25441a09641",
+    "data": [
+      {
+        "text": "kenapa reputasi akun saya tidak bertambah tambah ya? padahal sudah ada yg beberapa yg membeli nilai positif, thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a4434ce8-3121-4f6c-9a86-9a0c5112ec15",
+    "data": [
+      {
+        "text": "Reputasi toko tidak berubah padahal status transaksi sudah finished",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7003a7f5-24cf-4aa7-94fb-e165858ffeca",
+    "data": [
+      {
+        "text": "barang sudah sampai ,dia langsung konfirmasi penerimaan barang dan meberikan penilaian dan ulasan. tapi point saya tidak bertambah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7b8e152b-f8db-4685-9669-97c46a3ab63d",
+    "data": [
+      {
+        "text": "jumlah reputasi toko saya tidak sesuai. seharusnya ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". tapi hanya ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a4778cdd-17f3-43ab-a72f-b2850e57fe1e",
+    "data": [
+      {
+        "text": "poin reputasi toko saya kok tidak sesuai hitungan yaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5718943c-8a68-4356-b613-80b81119c564",
+    "data": [
+      {
+        "text": "Ini kenapa reputasi rating saya hilang ? tadi nya bronze ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kenapa jdi hilang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e7268e41-1e62-4db2-925f-3c558e5468e6",
+    "data": [
+      {
+        "text": "saya mau menanyakan perihal pemotongan reputasi toko ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " point itu karena apa ya? karena saya merasa tidak reject shipping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "79bb4c02-9b40-4056-abc7-5acaf8d4a34e",
+    "data": [
+      {
+        "text": "Transaksi bertambah tetapi point toko tidak bertambah, padahal ada transaksi sukses ",
+        "userDefined": false
+      },
+      {
+        "text": "hari ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2111300c-0254-4d7b-8401-0a1d926a5a5f",
+    "data": [
+      {
+        "text": "Data penilaian user dan jumlah poin reputasi tetap sama, padahal sudah beberapa kali melakukan transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ab747a3b-8a2c-459f-bd51-52a51d748f17",
+    "data": [
+      {
+        "text": "Performa toko saya turun karena reputasi yang tidak berubah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "845ad471-8100-48ab-8245-0affb3bc51bc",
+    "data": [
+      {
+        "text": "hi bisa kah menghapus ulasan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "20e1938c-4428-48f3-be24-3c1623d0e112",
+    "data": [
+      {
+        "text": "min itu gimana padahal kan transaksinya harusnya 100%",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "45625a0d-7358-40af-a127-e924d4b94ac3",
+    "data": [
+      {
+        "text": "ka saya mau nanya kenapa statistik saya tidak berubah yah... sedangkan saya kirim barang sudah sampai tujuaan sudah diacc sama pembeli..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "100d88ec-32ce-4920-be28-edeaa143aa96",
+    "data": [
+      {
+        "text": "statistik performa toko tidak sesuai. mohon dilakukan pengecekan.nb. kami tdk pernah menolak pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "914d521e-bf3d-4f81-aef0-5198f110287e",
+    "data": [
+      {
+        "text": "Kenapa performa toko saya turun begitu drastis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "594e1e2f-1a38-451d-89e6-78638b4d18a4",
+    "data": [
+      {
+        "text": "Kenapa indikator respon saya turun terus? Padahal pesanan yang gagal diproses hanya 2.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "db0f7b02-63fc-47cc-99c8-28e4fe1852b2",
+    "data": [
+      {
+        "text": "saya mau tanya reputasi toko saya napa gk berubah ya dr angka 3522 sdh lama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

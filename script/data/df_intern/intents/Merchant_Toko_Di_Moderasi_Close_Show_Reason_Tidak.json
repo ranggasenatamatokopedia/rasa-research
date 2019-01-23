@@ -1,0 +1,39 @@
+{
+  "id": "415e35e8-ba9c-4d91-9e31-a13eb929180b",
+  "parentId": "6d1e2509-306d-404c-ba3b-58558d345d14",
+  "rootParentId": "7f287c44-496d-4df8-b6b5-0c29a68454fc",
+  "name": "Merchant_Toko_Di_Moderasi_Close_Show_Reason_Tidak",
+  "auto": true,
+  "contexts": [
+    "Merchant_Toko_Di_Moderasi_Close_Show_Reason-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Toko_Di_Moderasi_Close_Show_Reason_Tidak-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Baik, terima kasih sudah ngobrol dengan Toped. Have a good day !"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547008600,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,295 @@
+[
+  {
+    "id": "361c0c60-6a2d-47f7-ae17-565b1f8323c4",
+    "data": [
+      {
+        "text": "pesanan saya kok malah jadi extended ya, seharusnya sudah batal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "43379999-4570-4ac4-9eab-b5ffd4d7e046",
+    "data": [
+      {
+        "text": "kok belum batal sesuai dengan estimasi? malah jadi extended",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cba9c01f-7c4c-44b8-94d8-553540857fb8",
+    "data": [
+      {
+        "text": "pesenanku kok belum batal sih,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ee666392-33d2-4064-aeb7-6880b4561823",
+    "data": [
+      {
+        "text": "pesenan ku knapa ga batal batal ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8fd872db-0080-4273-af35-1b0d4ec67109",
+    "data": [
+      {
+        "text": "kapan order saya dibatalkan, sudah seharusnya batal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e23a19d8-499c-4729-bd52-9c28bf02bcfb",
+    "data": [
+      {
+        "text": "Sudah waktunya batal, tapi status order saya masih proses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3e4d7d8e-fb4b-4c84-beef-c7ca71842ec2",
+    "data": [
+      {
+        "text": "pesanan tidak batal sesuai dengan estimasi Tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "abf55d10-ff96-423f-a183-c0f30cd52247",
+    "data": [
+      {
+        "text": "pesanan saya kenapa diperpanjang, seharusnya sudah batal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "29def85b-47f2-4bbc-9509-42bf4cda4c33",
+    "data": [
+      {
+        "text": "pihak ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak konfirmasi terima barang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4e1049c3-ae13-4331-955b-966dee70c945",
+    "data": [
+      {
+        "text": "order ku kok masih nyangkut belum batal juga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f2ef44ba-c7d7-4769-bfb9-3c2d812ff45b",
+    "data": [
+      {
+        "text": "pesanan belum batal otomatis, malah diperpanjang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "34202723-0eb4-49e5-a726-f181228aba2b",
+    "data": [
+      {
+        "text": "kok pemesanan statusnya extended yaaa . maksudnya gmn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "577fa64c-9b12-47ad-a6ea-411b24be3472",
+    "data": [
+      {
+        "text": "kenapa malah jadi extended ya pesenan ku?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ae7283b7-9543-4cf1-8463-0c6e991a98fe",
+    "data": [
+      {
+        "text": "kenapa order saya berubah jadi extend ya? seharusnya kan sudah batal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "07beffad-4017-422b-88b1-b2c8f832e852",
+    "data": [
+      {
+        "text": "belum batal malah diperpanjang sama toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "018f10de-d863-475e-a69d-e5156e3fad5d",
+    "data": [
+      {
+        "text": "kok belum batal otomatis ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a4e0b028-bcbd-494b-b964-73489df1da4d",
+    "data": [
+      {
+        "text": "mengapa pesanan tidak batal otomatis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f396e0f5-9325-4732-ad0f-79f5d3e1bed9",
+    "data": [
+      {
+        "text": "kenapa belum otomatis batal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "18c68aa1-69e0-4f33-b839-4d1e75cbf3d1",
+    "data": [
+      {
+        "text": "kenapa order saya belum batal juga? sudah melewati estimasi waktu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b604cf7e-7d1f-4efc-a1d0-45df45710d31",
+    "data": [
+      {
+        "text": "kenapa pesanan tidak batal otomatis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1f399e73-bf90-4efc-a59a-3511d0272beb",
+    "data": [
+      {
+        "text": "mengapa status pesanan berubah jadi extend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2f47c303-a4f5-4171-ab3d-4e547f456baf",
+    "data": [
+      {
+        "text": "saya tidak mau diextend batalkan saja dan uang kembali. terlalu kama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b1b94338-1470-4dab-9e56-48ee5d92ddc1",
+    "data": [
+      {
+        "text": "kenapa order ku malah jadi extended ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7d4bfe89-d33b-4601-a3a0-acf22a2fed8f",
+    "data": [
+      {
+        "text": "ini saya mau tanya kalo pesanan gagal diproses penjual,ada pilihan extended itu apa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9fd43e92-1337-41ad-96fc-7a55701ac7da",
+    "data": [
+      {
+        "text": "sudah lewat dari 2 x 24 jam, order sy belum dikirim. mengapa belum dibatalkan \u0026 di refund ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

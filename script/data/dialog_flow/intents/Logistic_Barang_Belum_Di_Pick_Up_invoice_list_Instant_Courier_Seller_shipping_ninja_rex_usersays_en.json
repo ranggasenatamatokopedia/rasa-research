@@ -1,0 +1,57 @@
+[
+  {
+    "id": "adee7b39-7bfa-4ae3-b7a2-dae8915015d1",
+    "data": [
+      {
+        "text": "rex",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8aeed013-4ecc-4679-b23b-4f849e97be6a",
+    "data": [
+      {
+        "text": "courier_ninja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "88119536-d8dd-4281-83de-71a48e0ca27e",
+    "data": [
+      {
+        "text": "ninja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a1b52dbd-a8ad-48ef-b6f3-7886d02a5520",
+    "data": [
+      {
+        "text": "courier_rex",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4837532f-e73b-4a2f-afc5-b320ed55fade",
+    "data": [
+      {
+        "text": "courier_ninja_xpress",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,58 @@
+{
+  "id": "df93b93a-c419-4a9c-9d11-13f3389f3283",
+  "parentId": "e1db25af-8da4-4ab5-877d-bc0659b44bd9",
+  "rootParentId": "e1db25af-8da4-4ab5-877d-bc0659b44bd9",
+  "name": "Fraud_Akun_TokoCash_Terhubung_Ke_User_Lain_Unggah",
+  "auto": true,
+  "contexts": [
+    "Fraud_Akun_TokoCash_Terhubung_Ke_User_Lain-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Akun_TokoCash_Terhubung_Ke_User_Lain_Unggah-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "da97e52c-6b97-4c71-81b0-6489428f645d",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1641"
+        },
+        {
+          "id": "97efd2ae-3633-470e-9fdf-a3bd8b11169c",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Fraud_Akun_TokoCash_Terhubung_Ke_User_Lain"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Terima Kasih untuk bukti yang kamu lampirkan. Toped bantu buatkan tiketnya. Mohon menunggu."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539235999,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "b8218089-db93-4f61-9bda-7bf1af3aa3e7",
+  "parentId": "8e481f2a-5e61-47c3-9cc7-acb050c8f555",
+  "rootParentId": "0c60f8a5-c89d-4057-9ddc-8071a3ac4418",
+  "name": "Order_Tidak_Bisa_Input_Resi_Select_Inv_Insert_AWB_Is_Error",
+  "auto": true,
+  "contexts": [
+    "Order_Tidak_Bisa_Input_Resi_Select_Inv_Insert_AWB-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Order_Tidak_Bisa_Input_Resi_Select_Inv_Insert_AWB_Is_Error-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "aa55c7b5-8d08-449a-af5c-f82179ab71ab",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1715"
+        },
+        {
+          "id": "fef2a6d2-924c-4094-996f-0ccc17cf9a22",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Order_Tidak_Bisa_Input_Resi"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped menemukan kendala: #is_error.payload"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk pengecekan lebih lanjut, Toped akan bantu buatkan tiketnya. Mohon tunggu sebentar, ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538021973,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "is_error"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "260555d8-81e4-4108-b27c-1015e6d84519",
+  "parentId": "22f9b153-494a-4894-8f6b-3b858f698d90",
+  "rootParentId": "21aa44dd-8f3e-443e-89aa-2604000c5bed",
+  "name": "TOKOPOINT_above_gold_notif_akun_tidak_memenuhi_tnc",
+  "auto": true,
+  "contexts": [
+    "TOKOPOINT_Tidak_dapat_Kirim_Kupon_above_gold-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetEmailAddress",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_above_gold_notif_akun_tidak_memenuhi_tnc-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tolong infokan alamat email penerima yang akan dikirimkan kuponnya?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523436218,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "notifikasi_akun_tidak_memenuhi_tnc"
+    }
+  ]
+}

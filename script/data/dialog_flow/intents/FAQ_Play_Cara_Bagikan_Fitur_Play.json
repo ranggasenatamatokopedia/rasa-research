@@ -1,0 +1,31 @@
+{
+  "id": "25d5251a-5248-412f-8fdf-51d2d205e00a",
+  "name": "FAQ_Play_Cara_Bagikan_Fitur_Play",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai, fitur Play ini dapat kamu bagikan via sosial media seperti WhatsApp, Line atau SMS melalui tombol “Share” / “Bagikan” yang sudah di sediakan ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_play_cara_bagikan_fitur_play"
+    }
+  ]
+}

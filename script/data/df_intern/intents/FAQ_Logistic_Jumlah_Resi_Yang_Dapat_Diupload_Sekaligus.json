@@ -1,0 +1,31 @@
+{
+  "id": "dd48f21c-f466-4487-82ab-808af5533f81",
+  "name": "FAQ_Logistic_Jumlah_Resi_Yang_Dapat_Diupload_Sekaligus",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jumlah minimum resi pengiriman yang dapat kamu upload sekaligus adalah 1, sedangkan jumlah maksimalnya adalah 100 resi pengiriman :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_logistic_jumlah_resi_yang_dapat_diupload_sekaligus"
+    }
+  ]
+}

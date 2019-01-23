@@ -1,0 +1,53 @@
+{
+  "id": "76a1bfcc-e983-4bdb-90d0-f66f204fea2b",
+  "name": "FAQ_Logistic_Jarak_Tempuh_Kurir_Pickup",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ConvertParametersToEventName",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Logistic_Jarak_Tempuh_Kurir_Pickup-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c28658cf-a1ed-42a2-a291-311c99424e4d",
+          "required": true,
+          "dataType": "@kurir_pick_up",
+          "name": "kurir_pick_up",
+          "value": "$kurir_pick_up",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Toped mau memastikan, kurir yang digunakan Gojek atau Grab ya, Kak?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_logistic_jarak_tempuh_kurir_pickup"
+    }
+  ]
+}

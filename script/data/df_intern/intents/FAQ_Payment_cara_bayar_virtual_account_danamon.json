@@ -1,0 +1,49 @@
+{
+  "id": "23011617-5bdb-4c34-bdea-325599fac8d4",
+  "parentId": "dde8ae2a-9271-4847-a8b2-05c8604fa637",
+  "rootParentId": "bc8f4622-0f27-4009-a4cd-f030fe0388ae",
+  "name": "FAQ_Payment_cara_bayar_virtual_account_danamon",
+  "auto": true,
+  "contexts": [
+    "FAQ_Payment_cara_bayar_virtual_account-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Payment_cara_bayar_virtual_account_danamon-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut langkah - langkah untuk melakukan pembayaran Danamon Virtual Account:\n1. Untuk pembayaran melalui ATM Danamon, silakan masukkan Kartu ATM Danamon \u0026 PIN.\n2. Pilih menu Pembayaran \u003e menu Lainnya \u003e menu Virtual Account.\n3. Masukkan 4 angka kode perusahaan untuk Tokopedia (8777) dan Nomor Handphone yang terdaftar di akun Tokopedia kamu.\n4. Di halaman konfirmasi, pastikan detil pembayaran sudah sesuai seperti No VA, Nama, Institusi, dan Total Tagihan.\n5. Pilih \u0027Ya\u0027 untuk memproses transaksi.\n6. Simpan struk transaksi sebagai bukti pembayaran."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Danamon Virtual Account juga dapat dibayar melalui D-Mobile (Mobile Banking). Berikut langkahnya:\n1. Akses D-mobile melalui handphone \n2. Masukkan User ID dan password.\n3. Pilih menu Pembayaran, lalu pilih Virtual Account kemudian Tambah biller baru pembayaran.\n4. Masukkan 4 angka kode perusahaan untuk Tokopedia (8777) dan nomor Handphone yang terdaftar di akun Tokopedia kamu.\n5. Akan muncul rincian pembayaran kamu. Jika sudah benar, masukan Pin transaksinya ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pembayaran Danamon Virtual Account juga bisa dilakukan dengan ATM Bank lain serta dengan online transfer bank lain. Cek selengkapnya disini ya https://www.tokopedia.com/bantuan/cara-pembayaran-via-danamon-virtual-account/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534827743,
+  "fallbackIntent": false,
+  "events": []
+}

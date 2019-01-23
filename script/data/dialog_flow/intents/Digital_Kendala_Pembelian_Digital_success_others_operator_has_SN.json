@@ -1,0 +1,43 @@
+{
+  "id": "c3a8673d-3c55-474f-bb1b-bf946f69c761",
+  "parentId": "a64e5185-01dc-4e9b-ae4b-bcdb28f71f47",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_success_others_operator_has_SN",
+  "auto": false,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_success_others-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetDigitalVoucherCode",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_success_others_operator_has_SN-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Status pembelian #has_SN.category_name kamu saat ini sudah berhasil pada #has_SN.success_date ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534143008,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "has_SN"
+    }
+  ]
+}

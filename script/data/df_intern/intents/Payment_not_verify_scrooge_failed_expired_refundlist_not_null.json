@@ -1,0 +1,43 @@
+{
+  "id": "247cf270-5415-4797-b4c9-ebcf94ca83ae",
+  "parentId": "64899b43-a467-43af-be28-df99a9e26890",
+  "rootParentId": "7702a921-0bc2-479f-9cd3-aade8103768a",
+  "name": "Payment_not_verify_scrooge_failed_expired_refundlist_not_null",
+  "auto": true,
+  "contexts": [
+    "Payment_not_verify_scrooge_failed_expired_cc_inspay-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetRefundStatus",
+      "affectedContexts": [
+        {
+          "name": "Payment_not_verify_scrooge_failed_expired_refundlist_not_null-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531206614,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "refund_list_is_not_null"
+    }
+  ]
+}

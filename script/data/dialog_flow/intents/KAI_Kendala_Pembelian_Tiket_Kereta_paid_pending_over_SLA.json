@@ -1,0 +1,62 @@
+{
+  "id": "e8e3dc12-707d-484d-b311-b56d3ba76ee0",
+  "parentId": "5552fa51-7a13-4f1c-944d-faf0a5f1c9c6",
+  "rootParentId": "b3e075f6-aae4-44df-ad4e-bea75b498908",
+  "name": "KAI_Kendala_Pembelian_Tiket_Kereta_paid_pending_over_SLA",
+  "auto": false,
+  "contexts": [
+    "KAI_Kendala_Pembelian_Tiket_Kereta_paid_pending-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "KAI_Kendala_Pembelian_Tiket_Kereta_paid_pending_over_SLA-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a4b5bfce-1120-408a-8ba2-50459fa0d5a1",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "9",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped akan bantu buatkan tiket kendala untuk dicek lebih lanjut. Informasi selanjutnya akan dikirim lewat layanan pengguna. Senang bisa membantu kamu :)"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "data": {
+              "show_rating": false
+            },
+            "type": 0
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539333452,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "over_sla"
+    }
+  ]
+}

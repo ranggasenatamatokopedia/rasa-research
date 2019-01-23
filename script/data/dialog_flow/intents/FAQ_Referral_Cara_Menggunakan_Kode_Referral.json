@@ -1,0 +1,42 @@
+{
+  "id": "792578c6-f0ea-4105-9d0e-7a3164357436",
+  "name": "FAQ_Referral_Cara_Menggunakan_Kode_Referral",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Referral_Cara_Menggunakan_Kode_Referral-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sebagai Teman, kamu bisa menggunakan kode Referral dengan langkah berikut : \n1. Download Aplikasi dan registrasi akun Tokopedia\n2. Aktifasi TokoCash kamu\n3. Transaksi melalui Aplikasi Tokopedia, input kode Referral dari Toppers pada kolom \"Kode Promo\"\n4. Lanjutkan transaksi, dan tunggu cashback maksimal 2x24 jam sejak pesanan kamu selesai."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga info Toped membantu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_referral_cara_menggunakan_kode_referral"
+    }
+  ]
+}

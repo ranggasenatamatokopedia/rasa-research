@@ -1,0 +1,38 @@
+{
+  "id": "6b5f77cf-43cd-4dff-a535-441194caa3ec",
+  "name": "FAQ_Wallet_TokoCash_to_Saldo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut cara memindahkan TokoCash ke saldo Tokopedia:\n1. Masuk ke halaman TokoCash.\n2. Pilih \u0027Pengembalian\u0027 pada history transaksi.\n3. Klik \u0027Pindahkan ke Saldo Tokopedia."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika TokoCash sudah dipindahkan ke Saldo Tokopedia, Kakak dapat melakukan penarikan dana ke rekening pribadi Kakak."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_wallet_tokocash_to_saldo"
+    }
+  ]
+}

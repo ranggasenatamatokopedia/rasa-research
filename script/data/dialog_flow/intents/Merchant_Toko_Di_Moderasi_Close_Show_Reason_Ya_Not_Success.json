@@ -1,0 +1,70 @@
+{
+  "id": "570a12e5-c594-459b-9605-0e63660003a9",
+  "parentId": "d784217c-8d99-44f3-8301-ff822daf3500",
+  "rootParentId": "7f287c44-496d-4df8-b6b5-0c29a68454fc",
+  "name": "Merchant_Toko_Di_Moderasi_Close_Show_Reason_Ya_Not_Success",
+  "auto": true,
+  "contexts": [
+    "Merchant_Toko_Di_Moderasi_Close_Show_Reason_Ya-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Toko_Di_Moderasi_Close_Show_Reason_Ya_Not_Success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "449fcc99-cb90-476c-a9fc-c432f24ddc53",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1036",
+          "isList": false
+        },
+        {
+          "id": "1f59fbb1-f7bd-48af-94a9-ff89eeedbfd8",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Merchant_Toko_Di_Moderasi",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped gagal membuka toko kamu. Tapi jangan khawatir, Toped akan bantu buatkan tiket bantuannya ya. Agar dapat dilakukan pengecekan oleh customer care, mohon tunggu sebentar."
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "data": {
+              "show_rating": false
+            },
+            "type": 0
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547008963,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "is_not_success"
+    }
+  ]
+}

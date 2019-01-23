@@ -1,0 +1,51 @@
+{
+  "id": "331b70f5-de01-433c-a263-3616c77fe596",
+  "parentId": "5b1c5a80-de80-4775-ad81-7e9b1d05a788",
+  "rootParentId": "99a48618-b9ce-4053-a781-474e5404f8ad",
+  "name": "Refund_Penarikan_dana_belum_masuk_else_bank_not_breach",
+  "auto": true,
+  "contexts": [
+    "Refund_Penarikan_dana_belum_masuk_else_bank-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Refund_Penarikan_dana_belum_masuk_else_bank_not_breach-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Penarikan dana membutuhkan waktu 2x24 jam, mohon menunggu dulu, ya :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Karena hari Sabtu/Minggu/Libur bank tidak beroperasi, jadi penarikan dana akan diproses di hari kerja berikutnya oleh bank yang bersangkutan."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513040943,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "more_than_equals_1_days"
+    },
+    {
+      "name": "less_than_1_day"
+    }
+  ]
+}

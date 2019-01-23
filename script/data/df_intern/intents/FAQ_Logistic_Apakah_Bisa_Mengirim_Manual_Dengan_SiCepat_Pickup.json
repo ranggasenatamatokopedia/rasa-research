@@ -1,0 +1,38 @@
+{
+  "id": "66a5aa86-359c-4436-82c9-7e7701bd0607",
+  "name": "FAQ_Logistic_Apakah_Bisa_Mengirim_Manual_Dengan_SiCepat_Pickup",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Logistic_Apakah_Bisa_Mengirim_Manual_Dengan_SiCepat_Pickup-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika kamu menggunakan Fitur SiCepat Pickup namun ingin melakukan pengiriman melalui gerai, kamu tetap bisa melakukannya dengan membawa label pengiriman yang berisi kode booking."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Namun jika kamu tidak dapat menunjukkan label pengiriman atau kode booking, kamu tetap dapat melakukan pengiriman secara manual dengan membayar ongkos kirim dan menginput nomor resi pengiriman :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

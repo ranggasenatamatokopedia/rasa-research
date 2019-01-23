@@ -1,0 +1,107 @@
+[
+  {
+    "id": "5b093be6-453e-4df7-a060-b5fc8bf34e4e",
+    "data": [
+      {
+        "text": "canceled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "020db646-b8cc-46f0-96c7-33758ee7afdf",
+    "data": [
+      {
+        "text": "invoce_refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0bff33df-c273-49e7-9ea6-27420c4fd837",
+    "data": [
+      {
+        "text": "invoice_payment_due",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f0f58b60-cf41-402d-88cb-e57e206f92b6",
+    "data": [
+      {
+        "text": "cancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8fbf0d81-ca5a-495a-b3fa-4411e0ef2c5c",
+    "data": [
+      {
+        "text": "reject",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ab3ae994-7726-4377-9d47-c17b8b5baaf1",
+    "data": [
+      {
+        "text": "invoice_batal_otomatis_oleh_sistem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "33a1ece8-8da0-4754-9e3f-2672594e91c9",
+    "data": [
+      {
+        "text": "rejected",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "668ddfc7-1661-4567-82df-96cb44867f79",
+    "data": [
+      {
+        "text": "invoice_canceled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "83f6d30e-c7af-4371-aa01-6154458d7098",
+    "data": [
+      {
+        "text": "invoice_pesanan_ditolak_",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "alias": "user_role",
+        "meta": "@user_role",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

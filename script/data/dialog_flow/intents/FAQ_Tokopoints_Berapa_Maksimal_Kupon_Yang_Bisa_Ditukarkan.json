@@ -1,0 +1,33 @@
+{
+  "id": "4ccd1243-cb1a-46ea-a52c-1ba1326da5e0",
+  "name": "FAQ_Tokopoints_Berapa_Maksimal_Kupon_Yang_Bisa_Ditukarkan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Tokopoints_Berapa_Maksimal_Kupon_Yang_Bisa_Ditukarkan-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sesuai syarat dan ketentuan, Kupon yang kamu tukarkan mempunyai kuota penukaran perhari."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

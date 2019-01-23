@@ -1,0 +1,43 @@
+{
+  "id": "6f2849b3-08a9-4a5c-90e6-d74afc1ee1a2",
+  "parentId": "70490bf6-c131-4510-86a6-01bd64d0e920",
+  "rootParentId": "70490bf6-c131-4510-86a6-01bd64d0e920",
+  "name": "Peluang_Tidak_Bisa_Menerima_Order_Peluang_Required",
+  "auto": true,
+  "contexts": [
+    "Peluang_Tidak_Bisa_Menerima_Order_Peluang-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Peluang_Tidak_Bisa_Menerima_Order_Peluang_Required-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk kendala ini, Toped bantu buatkan tiketnya ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537159196,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "required"
+    }
+  ]
+}

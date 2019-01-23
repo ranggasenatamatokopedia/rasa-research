@@ -1,0 +1,53 @@
+{
+  "id": "20907e2e-4005-4011-8aaf-ab6780878733",
+  "parentId": "de462ed0-7d36-4e8b-9fc9-4867bf96201c",
+  "rootParentId": "67024543-88fb-488f-907b-85ef94921089",
+  "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_invoice_not_in_resol_not_finished",
+  "auto": false,
+  "contexts": [
+    "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_invoice_MP_OS-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_invoice_not_in_resol_not_finished-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Halo, Toped cek transaksi kamu belum selesai ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pada promo cashback, kamu berkesempatan untuk mendapat benefit promo tersebut maksimal 1x24 jam setelah transaksi selesai. Mohon untuk dapat menunggu ya :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pada promo diskon ongkir atau produk, benefit tersebut sudah mengurangi nominal dari jumlah yang harus kamu bayar ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526461184,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "not_in_resol_not_finished"
+    }
+  ]
+}

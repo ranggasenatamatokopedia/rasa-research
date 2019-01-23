@@ -1,0 +1,39 @@
+{
+  "id": "201ceda9-5a3a-4add-a298-ca6a90b1a20b",
+  "parentId": "4ce70006-a1d8-41d3-b914-9373514686fa",
+  "rootParentId": "c230094b-7dd5-43f4-984b-d415098c4e53",
+  "name": "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_nomor_PBB_JKT_DPK_sudah_keluar_tagihan_belum_ambil",
+  "auto": false,
+  "contexts": [
+    "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_nomor_PBB_JKT_DPK_sudah_keluar_tagihan-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_nomor_PBB_JKT_DPK_sudah_keluar_tagihan_belum_ambil-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa ambil dulu tagihan pajaknya ya. Semoga informasi Toped membantu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535963623,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "id": "5c9dc02e-ec51-4837-bd06-753a9e069911",
+    "data": [
+      {
+        "text": " invoice_sedang_diproses_",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ba0e0c60-1bd7-4b4b-8cd3-241e92f119ba",
+    "data": [
+      {
+        "text": " invoice_pesanan_sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "628908dc-f337-4dab-b003-ef297840093b",
+    "data": [
+      {
+        "text": " invoice_sedang_dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "41c5bbca-15a2-4095-8790-4040295676d5",
+    "data": [
+      {
+        "text": " invoice_pembayaran_diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,705 @@
+[
+  {
+    "id": "5e47d402-d5df-46f4-b805-b09770b81b36",
+    "data": [
+      {
+        "text": "Kenapa di Group chat tulisan saya gak muncul?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2df391f0-eea4-4d80-830c-3103dddf6426",
+    "data": [
+      {
+        "text": "Kok kata-kata saya gak muncul di Group chat ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d29cf11c-936a-4c46-bdf3-f6576bfcf9eb",
+    "data": [
+      {
+        "text": "Play error ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? Kok chat saya gak muncul sama sekali ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "359c40ba-abbd-4f96-887c-2ff10b5808e3",
+    "data": [
+      {
+        "text": "Tulisan sy di Play kok gak muncul ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e6055b87-c29a-4f98-afeb-b1e173da6dd3",
+    "data": [
+      {
+        "text": "Play lagi error ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? Kok tulisan chat saya gak muncul ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9652241f-eeb7-4adc-8ef6-4d031c1406ce",
+    "data": [
+      {
+        "text": "Kok di Play tulisan saya gak muncul ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f7ea228d-dc2a-434f-b182-5d4732c6ad6e",
+    "data": [
+      {
+        "text": "Chat saya di Group chat kok gak ada sama sekali ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5b3a2382-8542-4ccc-b90b-200e0157b41f",
+    "data": [
+      {
+        "text": "Play saya kok gak ada chat saya ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1156bab0-ba37-4703-a47d-f8d8bb2fa4c2",
+    "data": [
+      {
+        "text": "Kenapa di Play chat saya gak muncul ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fc7a7336-ca74-4fd8-ba8c-fb1f83c99648",
+    "data": [
+      {
+        "text": "Kenapa tulisan saya di Group chat gak muncul ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0591d425-c707-4472-a407-6e796c58829e",
+    "data": [
+      {
+        "text": "Di Play kok gak ada chat saya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bc58913e-60b2-42c1-b202-b7518b0e638d",
+    "data": [
+      {
+        "text": "Di Play kok gak ada ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tulisan saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ac7e0de9-d338-4410-a3cf-e36fa9d80ffe",
+    "data": [
+      {
+        "text": "Group chat lagi error ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? Kok tulisan chat saya gak muncul ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "58c4ecfe-130a-45bf-bb7f-55bed0c103a4",
+    "data": [
+      {
+        "text": "Tulisan saya di Group chat kok gak muncul ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2af29ef6-7e0a-4cfc-b5d3-5726de622403",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kok chat yang saya tulis di Group chat gak muncul ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dc18ab61-5a90-41e7-9f4c-3bf5e369c095",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kok chat saya di Play gak muncul ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9bed522e-70b3-4014-9281-2e5c808d5fda",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", di Play kok tulisan saya gak muncul ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a875ecbc-d1a3-47d5-b304-bfd3bc072011",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", Group chat saya kok kosong ya chat nya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "825bd5bc-df6b-4cf5-b66b-0395cbdf6036",
+    "data": [
+      {
+        "text": "Kenapa tulisan di Play gak muncul ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bbe089cd-ed5d-423e-8bcd-d17e86ddd220",
+    "data": [
+      {
+        "text": "Di Group chat kok gak ada ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tulisan saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f0485029-8b4d-4b54-ae2c-4a2f5a04c503",
+    "data": [
+      {
+        "text": "Kenapa di Play gak ada sama sekali chat saya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8956d3f5-fd8c-4df2-b18c-21297a2c63b2",
+    "data": [
+      {
+        "text": "Chat saya di Group chat kok gak ada ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "361ee8b7-028e-476b-8ec3-495f8c1273d7",
+    "data": [
+      {
+        "text": "Group chat saya kok gak ada chat saya ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "73d0f5fd-a095-4398-bdff-a16c5d2508f7",
+    "data": [
+      {
+        "text": "Kenapa tulisan saya di Group chat gak muncul ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b808f86d-dc3a-4618-82c5-149ee17e79b3",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", di Group chat kok tulisan saya gak muncul ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b9e61657-ad5d-4d47-a666-428137069e59",
+    "data": [
+      {
+        "text": "Di Group chat kok gak ada chat saya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "94db1940-0b7f-46b3-9bf3-44c0ec62ea66",
+    "data": [
+      {
+        "text": "Kenapa di Group chat chat saya gak muncul ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "92d5ff0d-e5d3-41d7-896a-49284927ac29",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kok chat yang saya tulis di Play gak muncul ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b6fff412-4990-4dbe-ac0d-dea7b87e4546",
+    "data": [
+      {
+        "text": "Kok di Group chat tulisan saya gak muncul ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "afb294e5-6750-4022-a111-9ebf647ad088",
+    "data": [
+      {
+        "text": "Chat saya di Play kok gak ada ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d56666ef-de15-437f-8d3d-5c3e12b85d9c",
+    "data": [
+      {
+        "text": "Chat saya di Play kok gak ada sama sekali ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0e8979bd-24a5-4f03-8bed-6d4e6b04139f",
+    "data": [
+      {
+        "text": "Kok kata-kata saya gak muncul di Play ya min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "99294a2f-6d69-4635-8aec-c1e1ffee4425",
+    "data": [
+      {
+        "text": "Kenapa di Play tulisan saya gak muncul?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "385d7cd8-4569-4719-a98f-9654f5659b40",
+    "data": [
+      {
+        "text": "Kenapa di Group chatgak ada sama sekali chat saya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5e68afed-fbd5-4796-a2cb-e1770ba122af",
+    "data": [
+      {
+        "text": "Tulisan sy di Group chat kok gak muncul ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "000a875c-b93b-488f-ac09-bb43d9448130",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kok chat saya di Group chat gak muncul ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "45b1b7ba-0ffc-4064-b7da-f1dbb92ac73f",
+    "data": [
+      {
+        "text": "Tulisan saya di Play kok gak muncul ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3c9abbe9-8b62-47dd-91c7-4c67855d763e",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", Play saya kok kosong ya chat nya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4cfc0ded-18e7-4346-8a0e-e9cbf69fdc9d",
+    "data": [
+      {
+        "text": "Kenapa tulisan saya di Play gak muncul ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

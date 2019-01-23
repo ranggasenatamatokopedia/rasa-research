@@ -1,0 +1,84 @@
+[
+  {
+    "id": "5cb4dea9-9067-46a5-981d-80752f54072e",
+    "data": [
+      {
+        "text": "udah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bc7cc2b5-cdb3-41ef-866e-0d45279bc28d",
+    "data": [
+      {
+        "text": "sudah nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "258137b2-48d5-481d-8dad-5ca90a2989f9",
+    "data": [
+      {
+        "text": "iya sdh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "239dfb2e-c8f3-4a7b-91a5-9a12020dedcc",
+    "data": [
+      {
+        "text": "udh ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b1ad4540-ab92-45bb-a1fd-785336d0b7cd",
+    "data": [
+      {
+        "text": "udh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "13176daf-ebb4-4330-8d56-e833ae3d850b",
+    "data": [
+      {
+        "text": "sudah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6f4da4d1-0254-4200-b4a2-917773784552",
+    "data": [
+      {
+        "text": "udah kok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

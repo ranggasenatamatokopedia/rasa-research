@@ -1,0 +1,33 @@
+{
+  "id": "dfd4212c-2e6e-4788-8f17-e71702e99f1c",
+  "name": "FAQ_Ed_Sheeran_Gagal_Beli_Tiket",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Ed_Sheeran_Kendala_Pembelian_Tiket-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa coba kembali secara berkala dan dapat segera menyelesaikan pembayaran tiketnya ya. Saat ini Toped hanya dapat mengarahkan kamu untuk hubungi !TKPD_URL_CONTACTUS_SUBMIT! agar dicek lebih lanjut."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

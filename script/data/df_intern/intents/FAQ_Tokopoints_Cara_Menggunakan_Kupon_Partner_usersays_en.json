@@ -1,0 +1,1031 @@
+[
+  {
+    "id": "6486b299-370a-4041-bced-4a112873f77a",
+    "data": [
+      {
+        "text": "Saya dah tukerin beberapa kupon partner, gmana cara pakenya? Bingung saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "16c617a7-d5fa-4fc7-bf53-94a3b975a893",
+    "data": [
+      {
+        "text": "Saya punya kupon partner ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", cara paketnya gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f9966885-2de4-4faa-891e-d55a55695486",
+    "data": [
+      {
+        "text": "Saya ada kupon partner ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", cara pakenya gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d262007a-c790-4e3e-8f30-c88c6fca5c2d",
+    "data": [
+      {
+        "text": "Saya punya kupon partner ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", gimana caranya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "990d8344-b073-4fa8-9159-9f21272fe301",
+    "data": [
+      {
+        "text": "Saya ada kupon partner, gimana ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cara pakenya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a15fb448-260c-4434-b9c3-20a9709614ef",
+    "data": [
+      {
+        "text": "saya punya kupon partner, cara pakeinya gimana ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "795f84c7-5d57-4f2d-9bcf-169b84d960b6",
+    "data": [
+      {
+        "text": "Aku punya kupon partner, gimana cara pakenya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0a3af66d-6374-4e4c-93b3-d01fb842ba49",
+    "data": [
+      {
+        "text": "Gmn ya cara pake kupon partner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "998f1511-c190-4f52-a488-f150a6956766",
+    "data": [
+      {
+        "text": "Gmn cara pake kupon partner ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e96aa567-a725-47d8-b452-9ec47d1b5748",
+    "data": [
+      {
+        "text": "Gimana ya cara pakenya kupon partner?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "05d6f2be-42b1-406d-88f1-0d19927a81c5",
+    "data": [
+      {
+        "text": "Saya punya kupon partner ni, cara pakenya gmn ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c48e4d4d-373c-48fa-ad54-3e31654c2699",
+    "data": [
+      {
+        "text": "Saya punya kupon partner nih, gmn cara pakenya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "431d5355-a4b1-405f-8038-6aeee7fc30eb",
+    "data": [
+      {
+        "text": "Kupon partner gimana ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cara pakeknya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6d4e5cc6-fa3b-49a7-befb-e0811b02c134",
+    "data": [
+      {
+        "text": "Gimana ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cara pakek kupon partner?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c12ed49f-5ad2-4618-985d-591052cc6fba",
+    "data": [
+      {
+        "text": "Cara pake kupon partner gimana ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3b4755aa-2806-4a3e-ab4d-e3474b977a2e",
+    "data": [
+      {
+        "text": "Cara pake kupon partner gmn yah ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "16db5479-d1ef-4215-96f6-ceb67cf33884",
+    "data": [
+      {
+        "text": "Itu gimana ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cara pake kupon partner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "96c3afb9-bc08-4de8-8533-5539f5884347",
+    "data": [
+      {
+        "text": "Gimana ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cara pakek nya kupon partner itu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "add5f284-14a8-4e6b-b203-cd525a1dab8c",
+    "data": [
+      {
+        "text": "Kupon partner gmn ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cara pakek nya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "231de274-bc45-4c99-8c3f-61356d39db45",
+    "data": [
+      {
+        "text": "Kupon partner gimana ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cara gunainnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "95c57e61-0450-4aa3-8d33-8d472df595a9",
+    "data": [
+      {
+        "text": "Kupon partner gmana ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cara pakenya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "61c7ae04-8a45-44f8-b88d-c5e5b22e36a1",
+    "data": [
+      {
+        "text": "Kupon partner gimana ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cara gunain nya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0eac7fac-c177-441e-8584-d0dcdae9621f",
+    "data": [
+      {
+        "text": "Gmn cara pake kupon partner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a344b7d7-572b-4ea4-a5ba-4ab87ff5023e",
+    "data": [
+      {
+        "text": "Cara pake kupon partner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3e4edda9-dc04-4df6-9fa4-cf2463ad30f8",
+    "data": [
+      {
+        "text": "Kalo aku mau tau cara pake kupon partner gimana ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cfcc8000-6cce-4b37-86b0-19677af96f49",
+    "data": [
+      {
+        "text": "Gimana sih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " caranya pake kupon partner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ddb41619-0f18-43d1-94f2-f83980ba2014",
+    "data": [
+      {
+        "text": "Aku mau dong tuker jadi kupon partner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1e815299-b115-4790-ab81-5170d3c62d0d",
+    "data": [
+      {
+        "text": "mau tuker tokopoints ku jadi kupon partner dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1f04a2c2-6d24-4ad6-85c4-2efac1c27592",
+    "data": [
+      {
+        "text": "Gmn cara kalo aku mau pake kupon partner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8e122f2a-7328-4c90-8397-dc448a607698",
+    "data": [
+      {
+        "text": "Bagaimana cara menggunakan kupon partner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d8be8232-b844-4dfb-a5b0-c0af810134cc",
+    "data": [
+      {
+        "text": "Cara menggunakan kupon partner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1296dc64-f29b-4c71-acc3-48ad41b6587d",
+    "data": [
+      {
+        "text": "Gimana cara menggunakan kupon partner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c2b58de6-69cd-4c85-a61b-d2940315562a",
+    "data": [
+      {
+        "text": "Cara menggunakan kupon kaprtner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f72085fc-9d05-42e9-8bb4-09d7330dc9b6",
+    "data": [
+      {
+        "text": "Saya punya banyak tokopoints nih, kalo saya mau tukerin jadi kupon partner gimana caranya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "175bab85-06d9-415f-9f2a-d512d47b6ce1",
+    "data": [
+      {
+        "text": "Saya banyak tokopoints nih, kalo saya mau tukerin jadi kupon partner gimana? Saya lihat ada toko kesukaan saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9c122ba0-de36-410f-a7a6-c91a86721d82",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya punya banyak tokopoints, gimana cara pake kupon partner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bcb0001c-e182-491f-9629-3d1c3ed605d1",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", gimana caranya kalo tukerin kupon partner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "856a72a0-4254-4799-8020-8f266e3e13a6",
+    "data": [
+      {
+        "text": "Mau dong ubah points jadi kupon partner, gimana caranya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "457a4e41-5cb0-4ee5-889e-fdc1c3db95a3",
+    "data": [
+      {
+        "text": "Aku mau tuker points jadi kupon partner itu dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f60e40b9-258f-4a13-a8c5-9925fed7a8e8",
+    "data": [
+      {
+        "text": "Kalo saya mau pake tokopoints saya jadi kupon partner gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ee15a886-8fbf-4694-a323-bd4ece2c5605",
+    "data": [
+      {
+        "text": "Gimana cara tuker tokopoints jadi kupon partner, saya mau pake nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2ce30c60-666b-4214-b04f-1aa03ad640a0",
+    "data": [
+      {
+        "text": "Bisa gak tokopoints saya di tuker jadi kupon partner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "754e00da-5632-4e34-82a1-37afa83e227f",
+    "data": [
+      {
+        "text": "Tokopoints saya ada banya nih, gimana kalo saya mau tuker jadi kupon partner?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d537961e-dcab-49ad-86bf-f1fafc3770ef",
+    "data": [
+      {
+        "text": "Tokopoint saya banyak nih, saya mau tuker jadi kupon partner gimana caranya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9b854f5d-4e0f-40e6-888f-6b0f0657464e",
+    "data": [
+      {
+        "text": "Tuker kupon partner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6a5e54fe-ed84-40d3-9397-11c4df52b4db",
+    "data": [
+      {
+        "text": "Aku mau tukerin kupon partner dong, gimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "194cd72e-2298-4055-a52e-8c7249a4d7bf",
+    "data": [
+      {
+        "text": "Aku mau tuker jadi kupon partner dong, gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "14315b2d-e604-4b86-85bf-b4270b79ddab",
+    "data": [
+      {
+        "text": "Aku mau tukerin kupon partner, gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "336af50d-c4ab-4a25-9c77-a0faa984db14",
+    "data": [
+      {
+        "text": "Saya mau tukerin kupon partner dong, gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5530b06d-809f-419c-bf01-6ee8bb04ad5d",
+    "data": [
+      {
+        "text": "Gimana ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kalo mau tukerin kupon partner?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a9ec55b9-c5a3-4557-8e6f-cad0511d5df0",
+    "data": [
+      {
+        "text": "Kalo aku mau tukerin kupon partner giimana ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f12bd549-b3ff-4145-b492-aae0d82fe23a",
+    "data": [
+      {
+        "text": "Saya mau tukerin kupon partner dong, gimana caranya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9c389cce-b847-4415-8c14-e88116cf2295",
+    "data": [
+      {
+        "text": "Bagaimana cara menggunakan kupon partner?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d244afff-0caa-4dc7-8942-a0364dbee300",
+    "data": [
+      {
+        "text": "Bagaimana gunain tukar kupon partner?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "09659553-02c3-4815-91a1-64593f77f7c6",
+    "data": [
+      {
+        "text": "Bagaimana cara tukar kupon partner?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6bac9fcb-ec37-40f7-a6e7-7d4d35160b86",
+    "data": [
+      {
+        "text": "Cara tuker kupon partner gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d0d2ede8-5945-4559-ab06-933ba39affbd",
+    "data": [
+      {
+        "text": "Gimana cara tuker kupon partner?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7eb84cc0-e7e8-4a61-a4b6-9d4fab602a85",
+    "data": [
+      {
+        "text": "Cara tuker kupon partner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4ec7c378-bad7-4e1d-aabc-2839a24b3638",
+    "data": [
+      {
+        "text": "Cara tukar kupon partner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d42a5b7f-6fdb-46a2-9086-5aa9cf49fff0",
+    "data": [
+      {
+        "text": "Cara gunain kupon partner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6d893b32-e4a0-4709-b338-931948e945a2",
+    "data": [
+      {
+        "text": "Gimana cara gunain kupon partner?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4566068a-c722-49bf-80f0-93ff4c442683",
+    "data": [
+      {
+        "text": "Saya mau gunain kupon partner dong, gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a456fb49-4718-4ec4-b905-899acd4fedd2",
+    "data": [
+      {
+        "text": "Mau tuker kupon partner dong, gimana caranya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e9e032e8-effc-4e26-a359-9ddbfc77cdd7",
+    "data": [
+      {
+        "text": "Kupon partner gimana cara gunainnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "710aaba9-1743-47bf-a384-78a683c4d0a1",
+    "data": [
+      {
+        "text": "Kalo saya mau pake kupon partner gimana ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " caranya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f5a5abc1-cd8c-4556-8c16-e291021981ae",
+    "data": [
+      {
+        "text": "Gimana cara mau pake kupon partner?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d40772c6-d091-4745-a686-955c25038c9b",
+    "data": [
+      {
+        "text": "Saya mau pake kupon partner dong, gimana caranya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0ca31ad6-7afe-4033-8ffe-7488818286db",
+    "data": [
+      {
+        "text": "Kupon partner itu gimana pakenya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bfcff2e1-cb1e-4f09-ad3e-873712a1b59c",
+    "data": [
+      {
+        "text": "Gimana cara pake kupon partner?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bc1e0267-6f63-4613-a32d-0f949c67b09b",
+    "data": [
+      {
+        "text": "Saya mau pakai kupon partner dong, gimana cara gunainnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "643e243e-72e5-4c30-93d3-b59a4f12f828",
+    "data": [
+      {
+        "text": "Gimana cara pake kupon partner ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fe664ad8-6584-43c8-a63b-f03576ea1315",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", cara pake kupon partner gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fbb805f3-838e-48c0-98f0-dd1d2f31607d",
+    "data": [
+      {
+        "text": "Gimana caranya pake kupon partner itu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9f8b64c9-c3d7-4730-b092-c8acf37e0359",
+    "data": [
+      {
+        "text": "Kalo saya mau tuker kupon partner itu gimana caranya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "618db9c3-adda-4b7f-b062-814387df43a9",
+    "data": [
+      {
+        "text": "bagaimana cara gunakan kupon gratis ongkir dgn pembayaran ovo, sy gak bisa pakai taunya kupon sudah tidak ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

@@ -1,0 +1,68 @@
+{
+  "id": "3b5b67a9-2085-497d-ba00-9b1d5c888ac2",
+  "parentId": "de7f11d2-40d1-4b4e-b4c9-cd675566e608",
+  "rootParentId": "3b15cc03-402c-40c1-9882-3fff37020fad",
+  "name": "Payment_pengembalian_limit_tdk_sesuai_select_inv_is_cc_cancel_reject_refundlist_refund_failed",
+  "auto": true,
+  "contexts": [
+    "Payment_pengembalian_limit_tdk_sesuai_select_inv_is_cc_cancel_reject_refundlist_not_null-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Payment_pengembalian_limit_tdk_sesuai_select_inv_is_cc_cancel_reject_refundlist_refund_failed-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4d55e3d2-7382-46ef-8223-78c5e53d3928",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1085"
+        },
+        {
+          "id": "8843b0e1-3243-4c60-9e6c-2491d094181d",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Payment_pengembalian_limit_tdk_sesuai"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped bantu buatkan tiketnya ya dan kalau ada informasi lebih lanjut akan disampaikan lewat email :)"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 0,
+            "data": {
+              "show_rating": false
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531727056,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "refund_status_failed"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "50d232aa-2b13-46a5-9d11-30ca5283610e",
+  "name": "FAQ_Order_Pengertian_Fitur_Peluang",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Peluang adalah fitur dari Tokopedia yang memungkinkan Penjual memproses pesanan yang dibatalkan oleh Penjual lain."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jadi kamu tidak perlu melakukan pemesanan ulang atau membayar biaya tambahan karena pesanan lama akan diproses oleh Penjual yang menerima Peluang ini."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_order_pengertian_fitur_peluang"
+    }
+  ]
+}

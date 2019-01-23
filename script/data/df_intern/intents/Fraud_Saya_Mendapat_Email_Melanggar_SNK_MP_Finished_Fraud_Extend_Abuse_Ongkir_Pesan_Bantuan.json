@@ -1,0 +1,43 @@
+{
+  "id": "cd7d2240-e6a8-454d-b669-233c85765cee",
+  "parentId": "853e0ec2-8718-4ccb-9933-7cbcc5d6acea",
+  "rootParentId": "2f8cbeef-ace2-4920-b98a-19f47da047c4",
+  "name": "Fraud_Saya_Mendapat_Email_Melanggar_SNK_MP_Finished_Fraud_Extend_Abuse_Ongkir_Pesan_Bantuan",
+  "auto": false,
+  "contexts": [
+    "Fraud_Saya_Mendapat_Email_Melanggar_SNK_MP_Finished_Fraud_Extend_Abuse_Ongkir-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Saya_Mendapat_Email_Melanggar_SNK_MP_Finished_Fraud_Extend_Abuse_Ongkir_Pesan_Bantuan-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533803463,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "direct_support_message_page"
+    }
+  ]
+}

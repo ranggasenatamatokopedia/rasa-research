@@ -1,0 +1,24 @@
+[
+  {
+    "id": "15e5eb5a-5f25-4087-884b-12ed07b26104",
+    "data": [
+      {
+        "text": "input_link_product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bd63c526-ac53-477b-9120-fa73c1d0112f",
+    "data": [
+      {
+        "text": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0
+  }
+]

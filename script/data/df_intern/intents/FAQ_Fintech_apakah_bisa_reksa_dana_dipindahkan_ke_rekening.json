@@ -1,0 +1,27 @@
+{
+  "id": "e2e858a2-c3cd-43c0-b5c3-d8a33b1398ab",
+  "name": "FAQ_Fintech_apakah_bisa_reksa_dana_dipindahkan_ke_rekening",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika kamu ingin menarik ke rekening atas Reksa Dana, maka kamu bisa menjual Reksa Dana ke saldo Tokopedia dulu ya. Jika dana penjualan masuk ke saldo Tokopedia, maka kamu bisa melakukan penarikan dana ke rekening"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

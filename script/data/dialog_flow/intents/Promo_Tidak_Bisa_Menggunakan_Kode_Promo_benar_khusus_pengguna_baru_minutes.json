@@ -1,0 +1,52 @@
+{
+  "id": "1e2b5bd0-c249-4a0a-8c0c-2ad0bd2944c8",
+  "parentId": "191a74e3-f743-4645-93d9-3ac1ea93d9a4",
+  "rootParentId": "52ec60f4-3e96-4394-855f-4b7f7c4c5110",
+  "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_khusus_pengguna_baru_minutes",
+  "auto": true,
+  "contexts": [
+    "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_khusus_pengguna_baru-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "InsertHourAndMinute",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_khusus_pengguna_baru_minutes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7362ddf9-ec38-443a-946f-44f9005a2d6c",
+          "required": false,
+          "dataType": "@tkpd_date",
+          "name": "tkpd_date",
+          "value": "$tkpd_date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon infokan secara spesifik waktu (jam dan menit) saat mencoba promonya ya? (contoh: 22:30)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523834721,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "add_text_insert_date"
+    }
+  ]
+}

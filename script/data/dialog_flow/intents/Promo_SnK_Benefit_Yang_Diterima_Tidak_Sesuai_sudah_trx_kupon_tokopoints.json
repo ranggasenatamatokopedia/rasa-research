@@ -1,0 +1,39 @@
+{
+  "id": "377b437c-a791-4028-8d71-d461846fc616",
+  "parentId": "2bbf4641-235a-4ac3-9543-3465e24958d7",
+  "rootParentId": "67024543-88fb-488f-907b-85ef94921089",
+  "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_sudah_trx_kupon_tokopoints",
+  "auto": true,
+  "contexts": [
+    "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_sudah_trx-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetInvoiceList",
+      "affectedContexts": [
+        {
+          "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_sudah_trx_kupon_tokopoints-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon infokan nomor invoice yang mendapat benefit tidak sesuai ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526522232,
+  "fallbackIntent": false,
+  "events": []
+}

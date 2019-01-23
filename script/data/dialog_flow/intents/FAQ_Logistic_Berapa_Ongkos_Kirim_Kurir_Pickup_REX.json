@@ -1,0 +1,46 @@
+{
+  "id": "eb826d43-1937-4fba-8bbf-3bd1c3b56c5d",
+  "parentId": "73840e93-ca95-444a-a2dd-d1deaab1d5eb",
+  "rootParentId": "73840e93-ca95-444a-a2dd-d1deaab1d5eb",
+  "name": "FAQ_Logistic_Berapa_Ongkos_Kirim_Kurir_Pickup_REX",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Berapa_Ongkos_Kirim_Kurir_Pickup-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d4361ae1-b740-4fb6-a077-4e2ad21ae33d",
+          "required": false,
+          "dataType": "@kurir_pick_up",
+          "name": "kurir_pick_up",
+          "value": "$kurir_pick_up",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Biaya pengiriman akan disesuaikan dengan jarak lokasi dan berat barang yang dikirim. Kamu bisa mengetahui simulasi biaya pengiriman di situs resmi !TKPD_URL_REX!. "
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528792791,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "REX"
+    }
+  ]
+}

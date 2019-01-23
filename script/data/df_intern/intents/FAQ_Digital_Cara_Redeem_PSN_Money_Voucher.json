@@ -1,0 +1,48 @@
+{
+  "id": "31e5a270-518e-4eba-9a13-c18bfb5b35c6",
+  "name": "FAQ_Digital_Cara_Redeem_PSN_Money_Voucher",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Digital_Cara_Redeem_PSN_Money_Voucher-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Voucher PSN Money ID \u0026 PS Plus Membership bisa di-redeem menggunakan console/handheld seperti PS3, PS4, PSVita atau menggunakan browser desktop ataupun smartphone. Bisa informasikan dimana kamu ingin melakukan redeem voucher?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "console/handheld",
+              "browser desktop/smartphone"
+            ],
+            "type": 1
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_digital_cara_redeem_psn_money_voucher"
+    }
+  ]
+}

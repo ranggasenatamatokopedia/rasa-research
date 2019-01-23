@@ -1,0 +1,39 @@
+{
+  "id": "75ddd930-1212-46c1-bf58-6d8386cd2c9e",
+  "parentId": "4a4c1baa-578a-4c5e-9c84-7def70acaae6",
+  "rootParentId": "4a4c1baa-578a-4c5e-9c84-7def70acaae6",
+  "name": "Fraud_Pesanan_Yang_Diterima_Tidak_Sesuai_Finished",
+  "auto": true,
+  "contexts": [
+    "Fraud_Pesanan_Yang_Diterima_Tidak_Sesuai-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Pesanan_Yang_Diterima_Tidak_Sesuai_Finished-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau transaksi sudah selesai, kamu bisa unggah bukti penerimaan pesanan yang tidak sesuai disini, ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539919979,
+  "fallbackIntent": false,
+  "events": []
+}

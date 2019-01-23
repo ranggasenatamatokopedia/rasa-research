@@ -1,0 +1,558 @@
+[
+  {
+    "id": "aed3a0a1-207f-42f2-b095-2a0faabd16b6",
+    "data": [
+      {
+        "text": "kenapa pengajuan flash sale saya ditolak dari tokopedia, produknya udah sesuai ketentuan loh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2158cfe4-3771-492e-8bd4-91edda3e0fc6",
+    "data": [
+      {
+        "text": "kenapa produk saya ditolak ikut flash sale padahal sudah memenuhi syarat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6be22778-1e8b-44ba-a839-829d05857e37",
+    "data": [
+      {
+        "text": "apakah pendaftaran flash sale saya udah diterima atau belum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fa203900-dec7-4842-97b4-22120b9c095d",
+    "data": [
+      {
+        "text": "mengapa produk flash sale yang saya ajukan tidak diterima ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4c8d0647-32e4-4b82-ad35-c59b816cf3ae",
+    "data": [
+      {
+        "text": "apakah produk yang saya daftarkan flash sale diterima atau ditolak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9a67dd05-8353-448d-8efc-827d8440c419",
+    "data": [
+      {
+        "text": "flash sale yang saya ajukan ",
+        "userDefined": false
+      },
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kok belum ada kabar ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "00ecd3cf-42ed-4195-a4de-f38d64a36e82",
+    "data": [
+      {
+        "text": "gimana status pengajuan flash sale saya ",
+        "userDefined": false
+      },
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? belum ada konfirmasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "602b6de7-4d18-4a6c-90b5-974a540da9a9",
+    "data": [
+      {
+        "text": "flash sale yang saya ajukan kok ditolak, alasannya apa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2851ccf1-f150-4680-8c23-c4330d2c1012",
+    "data": [
+      {
+        "text": "udah isi dan kirim form pengajuan flash sale tapi belum ada kabar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f06ba6b4-8377-42b3-b072-50cf1815956b",
+    "data": [
+      {
+        "text": "kok produk saya tidak diterima buat flash sale, apa kurangnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "acb5baeb-400f-4ecb-9d04-d10199bbf6ef",
+    "data": [
+      {
+        "text": "produk yang saya ajukan untuk flash sale sudah diterima belum ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9c9b7c40-428d-4c5a-b225-925efb98e248",
+    "data": [
+      {
+        "text": "bagaimana kabar pengajuan flash sale saya, saya tidak tau apakah di approve atau tidak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dd9747ea-d15c-4adf-a118-15750f92759d",
+    "data": [
+      {
+        "text": "kenapa ya kok pengajuan flash sale ku dibatalin sama tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "abfdcc6a-f717-4add-8ce6-03b7a06969ca",
+    "data": [
+      {
+        "text": "kok pengajuan flash sale saya ditolak sih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", padahal kan produknya udah mengikuti syarat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "172450ba-3e9a-4ccf-b24c-709f4f85e745",
+    "data": [
+      {
+        "text": "kenapa pengajuan flash sale saya tidak diterima? padahal sudah sesuai sama kriteria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bb6b362b-4f30-44f5-b7df-fcfe9d2d32a0",
+    "data": [
+      {
+        "text": "kenapa pengajuan flash sale saya kok ditolak ya, apakah ada yang belum memenuhi ketentuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bcaf1747-a634-4424-b6f7-1acbb3afb214",
+    "data": [
+      {
+        "text": "gimana status pendaftaran flash sale saya ",
+        "userDefined": false
+      },
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fbdb68e3-0401-4742-bd18-8121892a72cc",
+    "data": [
+      {
+        "text": "produk flash sale yang saya ajukan kok tidak diterima kenapa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "54b106a8-66e4-4bc8-ba78-0f415e38988c",
+    "data": [
+      {
+        "text": "kenapa sih pengajuan flash sale saya kok ditolak gitu aja? saya bahkan sudah penuhi kriteria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "039fb512-30b7-4d53-abdb-2e7b3c35b75a",
+    "data": [
+      {
+        "text": "pendaftaran flash sale saya ditolak padahal sudah mengikuti ketentuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c6df9310-a65c-402f-9251-569f0af37bc1",
+    "data": [
+      {
+        "text": "kenapa produk ini ditolak buat ikut flash sale alasannya apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a82b8ac1-d8ee-42d9-8698-b53b374a999a",
+    "data": [
+      {
+        "text": "apakah pengajuan flash sale saya diterima atau ditolak, belum ada kabar sampe ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5a6df9c2-9bcf-49a3-8c1a-d3e49ddf197c",
+    "data": [
+      {
+        "text": "bisa jelaskan? kenapa pengajuan flash sale saya ditolak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1801b5c6-a942-467f-b858-80385b54d2b4",
+    "data": [
+      {
+        "text": "mengapa produk saya tidak diterima buat flash sale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6f22ca18-288f-4b9f-a414-a9adab5ecb7c",
+    "data": [
+      {
+        "text": "saya ngajuin flash sale, mohon bantu cek apakah status nya udah diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9c2104e3-6514-4bb9-b18c-3ac28c475103",
+    "data": [
+      {
+        "text": "mengapa pengajuan flash sale produk saya ditolak sama tokopedia ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d96b9625-7e49-4e61-839d-1c9fb1a4040f",
+    "data": [
+      {
+        "text": "apa alesan produk flash sale saya ditolak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fc1749f3-c029-42cd-ba6d-56f85012e685",
+    "data": [
+      {
+        "text": "kenapa ya pengajuan flash sale saya ditolak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7f25cc81-9037-4f47-ace8-7896f9765292",
+    "data": [
+      {
+        "text": "apa alasan produk ini ditolak ikut flash sale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "946907ce-ede1-46da-be4d-7ee31623a6ce",
+    "data": [
+      {
+        "text": "apa sudah ada info tentang pengajuan flash sale saya ya?tolong di cek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "008b3538-6f98-424e-849b-46d9af6420c0",
+    "data": [
+      {
+        "text": "apa sudah ada kabar tentang pengajuan flash sale dari akun saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7c1f2263-c642-4268-a9f3-7b46d2cea2ea",
+    "data": [
+      {
+        "text": "bagaimana tentang status pendaftaran produk flash sale saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0d661854-b161-4bf8-8359-9308add82ba5",
+    "data": [
+      {
+        "text": "pengajuan flash sale belum diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dce9db3c-fe5f-4811-a792-031b2b0ead3c",
+    "data": [
+      {
+        "text": "pengajuan flash sale saya belum di tanggapi tokopedia, mohon bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8e685d8a-3141-4adf-881f-37b4e20a89c6",
+    "data": [
+      {
+        "text": "pengajuan flash sale belum ada info lebih lanjut dari toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4a9b291a-8c2d-441f-b005-5643b641e45c",
+    "data": [
+      {
+        "text": "saya udah ajukan flash sale dan isi formulir tapi belum ada info apa-apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a8829787-8350-4870-8d49-55e936c44266",
+    "data": [
+      {
+        "text": "pengajuan flash sale saya belum di konfirmasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3d39c3f4-cb6c-4136-af72-083a03344815",
+    "data": [
+      {
+        "text": "pengajuan flash sale saya kok belum ditanggapi ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d8769cc0-f6c9-4587-806b-603669a2fccd",
+    "data": [
+      {
+        "text": "formulir flash sale yang sudah saya kirim belum ada kabar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f52a4d74-5983-49a5-a43e-2f0c8cc9e61f",
+    "data": [
+      {
+        "text": "pendaftaran flash sale belum disetujui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c561578e-1e54-4e65-8dd9-45fffb27bd03",
+    "data": [
+      {
+        "text": "pendaftaran formulir flash sale belum ada info lanjut nih, gimana statusnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5baf6686-8fdb-46e2-a277-2c5aa63e2a2a",
+    "data": [
+      {
+        "text": "sudah mendaftar flash sale tapi sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum dikonfirmasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ab9a763c-bc29-41d0-8caa-e01b89a42e26",
+    "data": [
+      {
+        "text": "pendaftaran flash sale sudah dilakukan tapi belum dapat info lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e8bd2aec-ad71-48b2-9747-c704ab1984fd",
+    "data": [
+      {
+        "text": "saya udah isi form flash sale tapi belum ada konfirmasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e7f7f09b-dcb7-4416-a18e-a2f541027be6",
+    "data": [
+      {
+        "text": "pendaftaran flash sale saya belum ditanggapi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "212caeec-2a04-4eb3-aa59-4ecbb45fd65c",
+    "data": [
+      {
+        "text": "pengajuan form flash sale saya belum dapat konfirmasi dari tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

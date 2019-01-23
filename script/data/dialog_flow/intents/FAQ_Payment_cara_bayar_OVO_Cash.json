@@ -1,0 +1,43 @@
+{
+  "id": "ff292417-2d6a-4688-a882-8519cd5795e3",
+  "parentId": "bc8f4622-0f27-4009-a4cd-f030fe0388ae",
+  "rootParentId": "bc8f4622-0f27-4009-a4cd-f030fe0388ae",
+  "name": "FAQ_Payment_cara_bayar_OVO_Cash",
+  "auto": true,
+  "contexts": [
+    "FAQ_Payment_cara_bayar-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Payment_cara_bayar_OVO_Cash-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika Kamu ingin memilih metode pembayaran menggunakan OVO Cash, silakan pilih \u0027OVO Cash\u0027 saat masuk ke halaman Metode Pembayaran, ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538966039,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "ovo_cash"
+    }
+  ]
+}

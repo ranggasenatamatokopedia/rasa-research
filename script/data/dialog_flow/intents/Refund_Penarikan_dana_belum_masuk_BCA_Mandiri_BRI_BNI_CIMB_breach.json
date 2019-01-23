@@ -1,0 +1,65 @@
+{
+  "id": "0a43a27d-03f6-4b47-ac85-30dfba303df6",
+  "parentId": "bec93768-1905-4fb5-88ed-7daccc0231f6",
+  "rootParentId": "99a48618-b9ce-4053-a781-474e5404f8ad",
+  "name": "Refund_Penarikan_dana_belum_masuk_BCA_Mandiri_BRI_BNI_CIMB_breach",
+  "auto": false,
+  "contexts": [
+    "Refund_Penarikan_dana_belum_masuk_BCA_Mandiri_BRI_BNI_CIMB-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Refund_Penarikan_dana_belum_masuk_BCA_Mandiri_BRI_BNI_CIMB_breach-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0a4497f2-73ca-47a9-b018-ddacdbb21fa2",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1009",
+          "isList": false
+        },
+        {
+          "id": "99023e18-e33e-431c-8c8b-0427f5730afb",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Refund_Penarikan_dana_belum_masuk_rekening"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek dulu ya untuk proses penarikan dananya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513040943,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "more_than_equals_1_days"
+    },
+    {
+      "name": "more_than_equals_2_days"
+    },
+    {
+      "name": "more_than_equals_3_days"
+    }
+  ]
+}

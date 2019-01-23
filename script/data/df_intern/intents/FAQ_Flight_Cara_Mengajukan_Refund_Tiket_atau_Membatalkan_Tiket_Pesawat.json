@@ -1,0 +1,48 @@
+{
+  "id": "e50e6877-0108-4b77-be3b-f898d3b6397e",
+  "name": "FAQ_Flight_Cara_Mengajukan_Refund_Tiket_atau_Membatalkan_Tiket_Pesawat",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flight_Cara_Mengajukan_Refund_Tiket-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa mengajukan refund melalui Daftar Transaksi. Bisa informasikan dimana kamu ingin melakukan refund tiket?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 1,
+            "quick_replies": [
+              "Android",
+              "iOS/mobile/desktop"
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_flight_cara_mengajukan_refund_tiket_atau_membatalkan_tiket_pesawat"
+    }
+  ]
+}

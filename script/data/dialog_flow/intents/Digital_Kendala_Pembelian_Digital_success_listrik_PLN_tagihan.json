@@ -1,0 +1,48 @@
+{
+  "id": "76caa6af-e669-4a1e-8add-a14bc62ca2da",
+  "parentId": "a3517e0a-adab-42a9-b318-5e15e293f63b",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_success_listrik_PLN_tagihan",
+  "auto": false,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_success_listrik_PLN-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_success_listrik_PLN_tagihan-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Status pembelian tagihan listrik kamu telah berhasil pada #operator_tagihan_listrik.success_date"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu juga bisa cek di menu Daftar Transaksi Digital ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533027267,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "operator_tagihan_listrik"
+    }
+  ]
+}

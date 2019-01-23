@@ -1,0 +1,434 @@
+[
+  {
+    "id": "ec7c1a64-6626-4749-a5da-f2f34349badb",
+    "data": [
+      {
+        "text": "referral dan promo klo mau digabung gimana caranya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "121afab5-6265-4371-ae4a-9874c62e5cea",
+    "data": [
+      {
+        "text": "apakah referral dan kode promo bisa digabungkan di pembelian yg sama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6bc024cb-abc6-4234-9a8c-ec2a27e62880",
+    "data": [
+      {
+        "text": "apakah bisa ",
+        "userDefined": false
+      },
+      {
+        "text": "dobel",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      },
+      {
+        "text": " benefit referral dan promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f3f23406-e8d1-4a92-b673-b5f5afae067f",
+    "data": [
+      {
+        "text": "apakah kode referral bisa dipake juga klo udah pake kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9e8cd246-6489-4802-ae83-a8dd55e1feda",
+    "data": [
+      {
+        "text": "apakah kode referral dan kode promo bisa digabung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "56acf458-e846-433a-aae2-096bd7db44b1",
+    "data": [
+      {
+        "text": "referral dan kode promo apakah bisa digabung saat pembelian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "82595479-9a11-41db-8974-255b6220100a",
+    "data": [
+      {
+        "text": "apakah penggunaan kode share referral bisa dipakai juga untuk kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "111d75d9-8c56-4a1e-8f9d-47e1ebca6526",
+    "data": [
+      {
+        "text": "gimana caranya gabungin kode referral dan promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4f170863-456f-4924-a4f9-0394300b323a",
+    "data": [
+      {
+        "text": "referral dan promo bisa dgabung gak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "974f8dec-5283-4ae5-aa41-91d20eb9cbdb",
+    "data": [
+      {
+        "text": "apakah kode referral bisa digabungkan dengan kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ed30d8e2-92ba-4be8-8031-1fd12f1472de",
+    "data": [
+      {
+        "text": "promo sama referral bisa digabung jadi ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "alias": "day",
+        "meta": "@day",
+        "userDefined": false
+      },
+      {
+        "text": " gak sih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cae10d8a-7dce-4e73-8e1e-e096d4404314",
+    "data": [
+      {
+        "text": "kode referral apakah bisa dipake bareng sama kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d349d60f-8962-4cb1-afe1-5c33cab97c04",
+    "data": [
+      {
+        "text": "referral bisa digabung sama pake kode promo ga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9cc44fe5-e0ea-4691-884a-b195bcaefba4",
+    "data": [
+      {
+        "text": "bisa ga ya referral dan kode promo digabungin jadi ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "alias": "day",
+        "meta": "@day",
+        "userDefined": false
+      },
+      {
+        "text": " transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7868ee7d-a580-4992-9482-90b83f01416e",
+    "data": [
+      {
+        "text": "referral dan promo bisa digabung ga pemakaiannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1c0c277d-ecdd-4490-b39a-530394f27f0e",
+    "data": [
+      {
+        "text": "referral dan promo bisa digabungin gak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5c2c6d67-b1c8-4cde-bab4-92a1aaaf8acb",
+    "data": [
+      {
+        "text": "kode promo digabung dg kode referral tidak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "af2199ba-b338-48b1-9bc5-32b75ee9e19e",
+    "data": [
+      {
+        "text": "apa pemakaian kode referral bisa digabung sama kode promo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1043de2a-ba17-4b5e-8397-4ea78412852b",
+    "data": [
+      {
+        "text": "promo dan referral pemakaiannya bisa bersamaan gak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5729687f-d0b4-4127-b535-26b16d7c26b0",
+    "data": [
+      {
+        "text": "pemakaian referral dan promo bisa dijadikan ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "alias": "day",
+        "meta": "@day",
+        "userDefined": false
+      },
+      {
+        "text": " ga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e72b1567-26ad-4078-9321-b95655bebdab",
+    "data": [
+      {
+        "text": "referal dan promo bisa digabung dalam ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pembelian ga ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cf17744e-917d-4e60-a259-b26dc2b0609c",
+    "data": [
+      {
+        "text": "apakah kode promo dan referral bisa dipake bersamaan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f441c763-57b6-489a-8e83-b3c017b0f455",
+    "data": [
+      {
+        "text": "klo udah pake kode referral apakah masih bisa pake kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "53c6c136-aa5d-473a-8bc1-6c6710f42d8c",
+    "data": [
+      {
+        "text": "gimana cara pake referral dan promo bersamaan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3bfa8d84-3ba9-4879-8a91-e1fbdefa5600",
+    "data": [
+      {
+        "text": "referral dan kode promo bisa dipake bersamaan ga ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6f36678a-f679-419f-9c30-e6231e6e4ff0",
+    "data": [
+      {
+        "text": "klo kode referral digabung sama kode promo bisa ga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ef7b164a-452a-4729-a421-8589d7c80b63",
+    "data": [
+      {
+        "text": "referral + kode promo bisa dipakai gak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cae0052f-12ee-402f-ae0a-9d4e721e03d4",
+    "data": [
+      {
+        "text": "referral code dan promo code bisa digabung jadi ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "alias": "day",
+        "meta": "@day",
+        "userDefined": false
+      },
+      {
+        "text": " transaksi tidak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e85e6d26-5281-4c26-a1f3-fab74f491754",
+    "data": [
+      {
+        "text": "pemakaian kode referral bisa digabung dengan kode promo gak ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cf164ed9-9ecd-4b6f-a07e-ebbd95f40095",
+    "data": [
+      {
+        "text": "pemakaian referral apakah bisa digabung dengan kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cd484451-8aa7-4647-8255-baf749b96f3e",
+    "data": [
+      {
+        "text": "apakah kode referral penggunaannya bisa digabung sama kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7067976d-d47b-4082-bdfa-01f10d4c09cc",
+    "data": [
+      {
+        "text": "penggabungan kode promo dan referral bisa dalam ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "alias": "day",
+        "meta": "@day",
+        "userDefined": false
+      },
+      {
+        "text": " pembelian gak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7a741315-d757-46f2-8469-d2b0ede85989",
+    "data": [
+      {
+        "text": "apakah kode referral bisa dipakai klo sudah menggunakan kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

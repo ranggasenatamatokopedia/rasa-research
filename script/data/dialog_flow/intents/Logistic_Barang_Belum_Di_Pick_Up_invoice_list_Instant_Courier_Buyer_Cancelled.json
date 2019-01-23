@@ -1,0 +1,52 @@
+{
+  "id": "f9a401c7-1913-447b-905d-79aea08cd3f4",
+  "parentId": "08f6a24d-389e-42cc-b746-fc58eed0cc22",
+  "rootParentId": "debdb44e-b23a-4c52-8626-59514944fd55",
+  "name": "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Buyer_Cancelled",
+  "auto": true,
+  "contexts": [
+    "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Buyer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckRefundListExist",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Buyer_Cancelled-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513040943,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_batal_otomatis_oleh_sistem"
+    },
+    {
+      "name": "invoice_canceled"
+    },
+    {
+      "name": "invoice_pencarian_barang_pengganti"
+    },
+    {
+      "name": "invoice_pesanan_ditolak_penjual"
+    }
+  ]
+}

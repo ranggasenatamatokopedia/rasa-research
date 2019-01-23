@@ -1,0 +1,66 @@
+[
+  {
+    "id": "3e7d12b0-6a03-454a-8f8b-6d2b0c85271d",
+    "data": [
+      {
+        "text": "courier_",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f49efafd-3ab1-4a6f-8cff-8b6bd30488e9",
+    "data": [
+      {
+        "text": "courier_",
+        "userDefined": false
+      },
+      {
+        "text": "go-jek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5d21699e-c215-40f3-8d06-2a934c09947e",
+    "data": [
+      {
+        "text": "courier_",
+        "userDefined": false
+      },
+      {
+        "text": "go-send",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ba8f6cec-6fba-423e-8ab5-9dda16e50cc9",
+    "data": [
+      {
+        "text": "courier_",
+        "userDefined": false
+      },
+      {
+        "text": "gosend",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

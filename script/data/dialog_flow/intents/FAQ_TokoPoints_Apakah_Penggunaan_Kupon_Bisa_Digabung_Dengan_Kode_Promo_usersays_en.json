@@ -1,0 +1,362 @@
+[
+  {
+    "id": "c61cca8f-dc23-46be-a902-e00c32bb35b2",
+    "data": [
+      {
+        "text": "kode promo digabungkan dengan kupon bisa tidak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f5b44b03-7b6d-446d-b223-c398eeab09bb",
+    "data": [
+      {
+        "text": "promo dan kupon bisa digabung tidak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a052fe6b-e14a-4c1c-9de8-a0b1701adb94",
+    "data": [
+      {
+        "text": "kalo udah pake promo masih bisa pake kupon juga ga?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2df12a98-6842-460a-af3b-18517735ff4c",
+    "data": [
+      {
+        "text": "pemakaian kupon bisa digabung sama promo gak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3b072721-c2ee-4db9-91bd-258855331be7",
+    "data": [
+      {
+        "text": "pake promo bisa digabung sama kupon?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "50ea8996-4b4b-4df7-8a49-6f48ca9c48b2",
+    "data": [
+      {
+        "text": "apa bisa kupon dipakai bersamaan dengan kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5d02a538-fc3b-4c27-9987-5b566dc9e6d7",
+    "data": [
+      {
+        "text": "sudah pake kode promo, masih bisa pakai kupon tidak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b9d8d70e-6b0f-4dd7-b3ea-42ab1fb24a93",
+    "data": [
+      {
+        "text": "apakah bisa kode promo dipakai dengan kupon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8cb76b5d-1f82-4d67-b703-add79b8a60d2",
+    "data": [
+      {
+        "text": "apakah penggunaan kupon bisa digabung dengan kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "06adefb5-3a6a-459c-8076-2b2fe27c3403",
+    "data": [
+      {
+        "text": "apakah pemakaian kupon bisa barengan dengan kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cdb0d8b4-04f6-43df-a360-f46d806ec7a7",
+    "data": [
+      {
+        "text": "penggunaan kupon bisa bersamaan dengan promo ga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "60604405-3b2a-41a5-9f24-b84308d3d162",
+    "data": [
+      {
+        "text": "di ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " invoice apakah bisa kode promo digabung dengan kupon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "38519e1c-dabd-408e-a690-b208d5862d9c",
+    "data": [
+      {
+        "text": "kalau udah pake kupon, masih bisa pake kode promo ga ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "85867b06-679c-44fa-b0aa-f0a58ce63213",
+    "data": [
+      {
+        "text": "apakah masih bisa kalau promo digabung sama kupon TokoPoints?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8b2da9b6-2563-4773-b052-317fa5cc09c5",
+    "data": [
+      {
+        "text": "apakah kupon bisa dipakai secara bersamaan dengan kupon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "da6e1b97-a2ca-4634-be32-d74a16d02129",
+    "data": [
+      {
+        "text": "apakah kupon bisa dipakai bersamaan dengan kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ac2f693b-2a12-4840-8d18-42b59a9bd725",
+    "data": [
+      {
+        "text": "apakah kupon bisa digabung pake dengan kode promo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "55f03849-7568-48e3-99f3-a82a88d4b4cb",
+    "data": [
+      {
+        "text": "kupon TokoPoints bisa dipakai bersamaan dengan kode promo gak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "584c7981-0f97-431d-9ce7-48401e6cadce",
+    "data": [
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pesanan bisa digabung pake promo dan kupon gak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d169f84b-618b-479a-b0f3-cf189a09c738",
+    "data": [
+      {
+        "text": "bisa ga ya kode promo dipake barengan sama kupon TokoPoints",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f858295c-1210-492d-99f1-98b6594bfce7",
+    "data": [
+      {
+        "text": "saya sudah pake kode promo, tapi tidak bisa digabung dengan kupon juga ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "79406c7a-1536-4906-8566-b0dece23a096",
+    "data": [
+      {
+        "text": "penggabungan kode promo dan kupon di ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " transaksi apakah diperbolehkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b3e7f684-286f-435c-b5ac-a2d735e29ed2",
+    "data": [
+      {
+        "text": "promo sama kupon bisa dipakai bebarengan gak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "888f94ae-63a4-4f6e-a4fc-2d35203b4f7e",
+    "data": [
+      {
+        "text": "apakah kupon bisa digunakan bersamaan dengan kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "07652643-9b9a-45d2-b41f-cce1f2ac7812",
+    "data": [
+      {
+        "text": "apakah kupon bisa dipakai dengan promo dalam ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pembelian?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4f638e9c-9476-4ea5-a694-bb60c2ccfae2",
+    "data": [
+      {
+        "text": "apakah kupon TokoPoints boleh dipakai gabung dengan kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b7b27816-0d38-4710-ac29-a0a9ea9ee1b0",
+    "data": [
+      {
+        "text": "bisa tidak ya kode promo dan kupon dipakai bersamaan dalam ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pesanan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "84d3004e-3e3a-4c5a-bcba-734ee49a997b",
+    "data": [
+      {
+        "text": "apakah bisa kode promo digabung dengan kupon TokoPoints",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ec72a667-1792-4f4b-82a4-f998d3d9332a",
+    "data": [
+      {
+        "text": "saya ada 2 kupon cashback, apakah saya memakai keduanya atau salah satu saja?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

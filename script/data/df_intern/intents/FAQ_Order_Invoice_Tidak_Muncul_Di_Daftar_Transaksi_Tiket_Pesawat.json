@@ -1,0 +1,44 @@
+{
+  "id": "9e59b7c4-99f1-4fec-9dd9-a2b9c3802d8e",
+  "parentId": "b9b204e8-ba73-4e60-8662-8ab3561b1657",
+  "rootParentId": "b9b204e8-ba73-4e60-8662-8ab3561b1657",
+  "name": "FAQ_Order_Invoice_Tidak_Muncul_Di_Daftar_Transaksi_Tiket_Pesawat",
+  "auto": false,
+  "contexts": [
+    "FAQ_Order_Invoice_Tidak_Muncul_Di_Daftar_Transaksi-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Order_Invoice_Tidak_Muncul_Di_Daftar_Transaksi_Tiket_Pesawat-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Melalui aplikasi Tokopedia Android/ iOS, kamu bisa ikuti langkah berikut :\n1. Masuk ke laman Beranda\n2. Pilih menu \"Pembelian\"\n3. Pilih \"Daftar Tiket Pesawat\"\n4. Pilih transaksi yang kamu cari, melalui pilihan tab menu status \"Semua\"\n5. Setelah menemukan transaksinya, kamu bisa klik untuk melihat detailnya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga informasi Toped membantu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533814201,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "d6076afa-090c-4002-8345-d7f8d1b33b41",
+  "parentId": "6ad56b37-ab3e-427d-840e-3a2b52f4d5ac",
+  "rootParentId": "d19f77a0-9fc1-4329-9b8c-1f9cb2ed3084",
+  "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Finished_Buyer_Sudah",
+  "auto": true,
+  "contexts": [
+    "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Finished_Buyer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Finished_Buyer_Sudah-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau sudah, artinya tidak ada kendala lagi ya. Selanjutnya kamu bisa berikan ulasan untuk produk yang kamu beli. Terima kasih sudah bertransaksi di Tokopedia :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541148175,
+  "fallbackIntent": false,
+  "events": []
+}

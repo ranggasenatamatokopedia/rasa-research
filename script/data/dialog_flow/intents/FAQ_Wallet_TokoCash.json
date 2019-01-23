@@ -1,0 +1,36 @@
+{
+  "id": "3ca706db-857f-43dd-802b-2ff532b9b181",
+  "name": "FAQ_Wallet_TokoCash",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Nah, TokoCash sekarang sudah digantikan oleh OVO, loh. Jadi segala jenis Cashback yang kamu dapatkan, langsung masuk ke OVO Points! tenang, OVO Points kamu bisa dipakai belanja, kok."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Maka dari itu, yuk mulai aktivasi OVO kamu dan mulai berbelanja menggunakan OVO!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_wallet_tokocash"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "d537025b-a325-43ce-93a2-3a3f68e7cb53",
+  "name": "FAQ_Merchant_Seputar_Power_Merchant",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Power merchant merupakan fitur pengembangan dari gold merchant. Kalau toko kamu sudah berlangganan gold merchant hingga tahun 2019, maka secara otomatis akan terupdate menjadi power merchant per tanggal 1 Januari 2019."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu juga tetap bisa menggunakan fitur-fitur gold merchant dan juga akan mendapatkan fitur terbaru dari power merchant."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

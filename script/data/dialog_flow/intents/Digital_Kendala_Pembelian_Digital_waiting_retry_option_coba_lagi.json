@@ -1,0 +1,39 @@
+{
+  "id": "ecae89a2-8efa-4e43-86f4-c2482939909b",
+  "parentId": "31af0d68-6bcd-447e-bddf-cc3ce1b0a39b",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_waiting_retry_option_coba_lagi",
+  "auto": true,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_select_invoice_waiting_retry_option-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_waiting_retry_option_coba_lagi-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu sebentar ya. Saat ini transaksi kamu masih dalam pencarian agen. Cek berkala pada Daftar Transaksi Digital kamu."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533012096,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,48 @@
+{
+  "id": "31171c72-5651-47cb-828e-d0b3e9b8adee",
+  "parentId": "247397fe-ba28-4193-83fd-3b81b2fa5046",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Transaksi_Berhasil_Tapi_Quiz_Undian_upload_info_pemenang",
+  "auto": false,
+  "contexts": [
+    "Promo_Transaksi_Berhasil_Tapi_Quiz_Undian-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Promo_Transaksi_Berhasil_Tapi_Quiz_Undian_upload_info_pemenang-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon menunggu sebentar ya, Kak :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikan juga screenshoot info bahwa kamu adalah pemenang ya, Kak :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523276091,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

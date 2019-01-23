@@ -1,0 +1,36 @@
+{
+  "id": "8c3ad705-4bdc-420d-a4f4-9af797d45674",
+  "name": "FAQ_OVO_perbedaan_OVO_Club_dan_OVO_Premier",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah bergabung dengan OVO, Kamu dapat menikmati berbagai penawaran menarik dan mengumpulkan OVO Points di berbagai merchant rekanan OVO. Manfaat lain yang dapat Kamu nikmati:\nSebagai OVO Club:"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "- Dapat menyimpan OVO Cash hingga Rp 2.000.000\nSebagai OVO Premier: \n- Dapat menyimpan OVO Cash hingga Rp 10.000.000"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_ovo_perbedaan_ovo_club_dan_ovo_premier"
+    }
+  ]
+}

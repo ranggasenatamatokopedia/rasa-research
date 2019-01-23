@@ -1,0 +1,50 @@
+{
+  "id": "a561d098-021e-47e7-941b-bfa12101c49c",
+  "name": "Fraud_Penyalahgunaan_Data_Akun_Oleh_Pihak_Lain",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Penyalahgunaan_Data_Akun_Oleh_Pihak_Lain-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Penyalahgunaan akun atau data kamu kemungkinan karena:\n1. Resi yang kamu terima dari pengiriman terbuang dan belum sempat disamarkan pada bagian data pribadi\n2. Ada pihak lain yang mengetahui data kamu saat melakukan pembelian secara online atau offline"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pastikan kamu tidak memberikan data yang bersifat pribadi dan rahasia pada pihak manapun ya. Apakah informasi Toped sudah cukup jelas?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 1,
+            "quick_replies": [
+              "Sudah",
+              "Belum"
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

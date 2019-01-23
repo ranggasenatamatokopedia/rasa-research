@@ -1,0 +1,43 @@
+{
+  "id": "bc2adf07-eb09-40a3-b191-02043e4b94cb",
+  "parentId": "611c368d-aba1-4c1d-8665-f95ca4251187",
+  "rootParentId": "fdda2498-0a41-423b-9805-8948dabcbac1",
+  "name": "Account_Persentase_Diskusi_Atau_Pesan_Tdk_Sesuai_Talk_Already_Reply_Less_Equal_3",
+  "auto": true,
+  "contexts": [
+    "Account_Persentase_Diskusi_Atau_Pesan_Tdk_Sesuai_Talk_Already_Reply-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ResetDiscussionPercentage",
+      "affectedContexts": [
+        {
+          "name": "Account_Persentase_Diskusi_Atau_Pesan_Tdk_Sesuai_Talk_Already_Reply_Less_Equal_3-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped akan bantu sesuaikan persentase diskusi (talk) kamu, ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540804170,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "less_or_equal_than_3"
+    }
+  ]
+}

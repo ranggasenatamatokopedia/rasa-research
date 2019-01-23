@@ -1,0 +1,35 @@
+[
+  {
+    "id": "8bd6e868-3aec-43c4-814f-cf4f19e7e595",
+    "data": [
+      {
+        "text": "verif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7b5e019c-ad12-44fa-beaf-6ab8c8b7103c",
+    "data": [
+      {
+        "text": "invoice_pembayaran_diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2a02aa0d-f181-4cdd-ab06-d2c1497e7627",
+    "data": [
+      {
+        "text": "verified",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

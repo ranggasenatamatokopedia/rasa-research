@@ -1,0 +1,43 @@
+{
+  "id": "66ef0b19-bd1e-4693-8fff-d815b6f7776d",
+  "parentId": "a2c4cd03-5c27-4172-9f8d-230b79ca6150",
+  "rootParentId": "52ec60f4-3e96-4394-855f-4b7f7c4c5110",
+  "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_produk_tertentu_input_image",
+  "auto": false,
+  "contexts": [
+    "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_produk_tertentu_input_platform-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_produk_tertentu_input_image-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh lampirkan screenshot notifikasi errornya?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523837413,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "input_product_and_nominal"
+    }
+  ]
+}

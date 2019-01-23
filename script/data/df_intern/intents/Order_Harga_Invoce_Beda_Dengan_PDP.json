@@ -1,0 +1,38 @@
+{
+  "id": "70152338-539e-4b6b-b722-241845606168",
+  "name": "Order_Harga_Invoce_Beda_Dengan_PDP",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetInvoiceListMarketplace",
+      "affectedContexts": [
+        {
+          "name": "Order_Harga_Invoce_Beda_Dengan_PDP-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh pilih invoice yang berkendala ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "order_harga_invoce_beda_dengan_pdp"
+    }
+  ]
+}

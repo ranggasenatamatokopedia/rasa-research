@@ -1,0 +1,48 @@
+{
+  "id": "ef69ce4f-a5aa-4294-b8c7-3d5c1963af86",
+  "parentId": "81a0e974-12f4-46b7-afc3-48ec6cdbbad2",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_waiting_scheduler_check_out_in_range",
+  "auto": false,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_select_invoice_waiting_scheduler-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_waiting_scheduler_check_out_in_range-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sudah Toped bantu cek, pembelian kamu masih menunggu konfirmasi operator. Boleh tunggu sampai pukul 01.15 WIB  ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika sudah melewati batas waktu tersebut namun belum ada konfirmasi dari operator, silakan hubungi Toped kembali :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533024318,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "check_out_in_range"
+    }
+  ]
+}

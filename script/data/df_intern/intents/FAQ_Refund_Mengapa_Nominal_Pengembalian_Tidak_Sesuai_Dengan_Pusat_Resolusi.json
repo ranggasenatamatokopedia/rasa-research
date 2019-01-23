@@ -1,0 +1,32 @@
+{
+  "id": "9cdc8d1f-a370-48b5-82df-a2d9a06c4d7d",
+  "name": "FAQ_Refund_Mengapa_Nominal_Pengembalian_Tidak_Sesuai_Dengan_Pusat_Resolusi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika kamu melihat ternyata dana yang dikembalikan tidak sesuai dengan yang tertulis di Pusat Resolusi, silakan hubungi tim \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://tkp.me/contact-us\"\u003eCustomer Care\u003c/a\u003e Tokopedia"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520238427,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_refund_mengapa_nominal_pengembalian_tidak_sesuai_dengan_pusat_resolusi"
+    }
+  ]
+}

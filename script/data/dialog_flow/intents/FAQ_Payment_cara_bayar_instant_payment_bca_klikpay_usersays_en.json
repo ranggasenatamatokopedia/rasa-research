@@ -1,0 +1,25 @@
+[
+  {
+    "id": "6e4999fd-45bd-44c1-86d1-d3756e6b152a",
+    "data": [
+      {
+        "text": "bca klik pay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d9b41a9c-a000-4d77-81e7-a47f06ccc199",
+    "data": [
+      {
+        "text": "BCA Klikpay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

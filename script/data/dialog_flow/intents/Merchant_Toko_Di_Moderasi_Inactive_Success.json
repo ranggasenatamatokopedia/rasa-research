@@ -1,0 +1,48 @@
+{
+  "id": "4441ca85-03d0-4b9b-9256-db2ca822a345",
+  "parentId": "82c0505b-bfff-4bd5-926c-24c74f625243",
+  "rootParentId": "7f287c44-496d-4df8-b6b5-0c29a68454fc",
+  "name": "Merchant_Toko_Di_Moderasi_Inactive_Success",
+  "auto": true,
+  "contexts": [
+    "Merchant_Toko_Di_Moderasi_Inactive-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Toko_Di_Moderasi_Inactive_Success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Status toko sudah aktif, yuk refresh halaman toko kamu. \n\nTokopedia memerlukan waktu maksimal 15 menit untuk dapat memunculkan kembali produk kamu pada hasil pencarian ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Apabila kedepannya kendala ini terjadi kembali, kamu bisa mengaktifkan toko dengan mengakses salah satu halaman berjualan seperti: pesanan baru, konfirmasi pengiriman, status pengiriman, daftar transaksi, tambah produk, daftar produk, statistik atau pengaturan toko."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534249925,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "is_success"
+    }
+  ]
+}

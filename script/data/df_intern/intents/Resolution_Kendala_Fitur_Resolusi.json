@@ -1,0 +1,57 @@
+{
+  "id": "844540fa-3db4-42cc-a62e-c3d9bc90793a",
+  "name": "Resolution_Kendala_Fitur_Resolusi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Resolution_Kendala_Fitur_Resolusi-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa informasikan Toped, kendala apa yang kamu alami?"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pilih dibawah ini, ya:"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "button_actions": [
+              {
+                "message": "Tombol Minta Bantuan tidak muncul"
+              },
+              {
+                "message": "Tombol Batalkan Komplain tidak muncul"
+              }
+            ],
+            "type": 2
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "resolution_kendala_fitur_resolusi"
+    }
+  ]
+}

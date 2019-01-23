@@ -1,0 +1,32 @@
+{
+  "id": "55acb35a-4d5e-4332-a9f6-9c1c244f0a39",
+  "name": "FAQ_Order_Pengertian_Produk_Pre_Order",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pre order merupakan sistem pemesanan dengan batas waktu tertentu sesuai dengan ketersediaan produk. Produk yang dijual biasanya merupakan produk custom/handmade yang membutuhkan waktu tertentu dalam pengerjaannya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa cek batas waktu pre order pada halaman produk yang ingin kamu beli. Untuk pengirimannya, penjual memiliki waktu maksimal 2 hari setelah proses pre order berakhir."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

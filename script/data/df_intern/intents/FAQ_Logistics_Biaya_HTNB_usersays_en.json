@@ -1,0 +1,190 @@
+[
+  {
+    "id": "a57c839f-e376-416d-ba47-00a753aad093",
+    "data": [
+      {
+        "text": "Tolong diganti selisihnya, karena ada biaya HTNB",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2ddf67f0-a081-415d-aa5d-20edc806947d",
+    "data": [
+      {
+        "text": "Tekor deh ongkirnya gara gara HTNB",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f64f6c14-5dbd-47b4-9104-c24580189c4d",
+    "data": [
+      {
+        "text": "Rugi lagi deh gara gara HTNB ",
+        "userDefined": false
+      },
+      {
+        "text": "POS",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fe24fa42-8a5c-4e7b-8624-1615d523db5f",
+    "data": [
+      {
+        "text": "Kenapa sih setiap pake ",
+        "userDefined": false
+      },
+      {
+        "text": "POS",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya selalu kena biaya tambahan ",
+        "userDefined": false
+      },
+      {
+        "text": "Rp",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". ",
+        "userDefined": false
+      },
+      {
+        "text": "500",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2d506cba-ad56-4f58-8a98-4ecf1f6d8122",
+    "data": [
+      {
+        "text": " Apa itu biaya HTNB dan kenapa dikenakan kepada Saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4b73a87b-022a-4ded-87da-b973fe3fbb2a",
+    "data": [
+      {
+        "text": "HTNB bikin rugi!!!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "58c73a8e-f22d-49df-b9ac-76e7f066c239",
+    "data": [
+      {
+        "text": "Biaya HTNB itu apa sih? kenapa saya kena mulu biaya itu.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "67551aab-06e0-437e-8ecc-d0dcd72e2cb1",
+    "data": [
+      {
+        "text": "Saya gamau kena biaya HTNB lagi, caranya gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8b458fce-eef6-483c-a963-04a0398750f0",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kenapa di resi ",
+        "userDefined": false
+      },
+      {
+        "text": "POS",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya ada biaya HTNB ",
+        "userDefined": false
+      },
+      {
+        "text": "Rp",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". ",
+        "userDefined": false
+      },
+      {
+        "text": "500",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "92472842-5814-4620-a442-0cf84509235e",
+    "data": [
+      {
+        "text": "Ini biaya apa sih ",
+        "userDefined": false
+      },
+      {
+        "text": "Rp",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". ",
+        "userDefined": false
+      },
+      {
+        "text": "500",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

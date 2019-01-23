@@ -1,0 +1,44 @@
+{
+  "id": "1c4391c0-d39d-4e2a-8c2a-32c0e54d8280",
+  "parentId": "b9b204e8-ba73-4e60-8662-8ab3561b1657",
+  "rootParentId": "b9b204e8-ba73-4e60-8662-8ab3561b1657",
+  "name": "FAQ_Order_Invoice_Tidak_Muncul_Di_Daftar_Transaksi_Tiket_KAI",
+  "auto": true,
+  "contexts": [
+    "FAQ_Order_Invoice_Tidak_Muncul_Di_Daftar_Transaksi-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Order_Invoice_Tidak_Muncul_Di_Daftar_Transaksi_Tiket_KAI-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Melalui aplikasi Tokopedia Android/ iOS, kamu bisa ikuti langkah berikut :\n1. Masuk ke laman Beranda\n2. Pilih menu \"Pembelian\"\n3. Pilih \"Daftar Tiket Kereta Api\"\n4. Pilih transaksi yang kamu cari, melalui pilihan tab menu status \"Semua\"\n5. Klik \"Lihat Rincian\" untuk melihat detailnya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga informasi Toped membantu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533814186,
+  "fallbackIntent": false,
+  "events": []
+}

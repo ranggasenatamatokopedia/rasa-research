@@ -1,0 +1,37 @@
+{
+  "id": "96419998-d068-4747-8244-b190b5158e04",
+  "name": "FAQ_Referral_Apakah_Ada_Batasan_Jumlah_Share_Kode_Referral",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Referral_Apakah_Ada_Batasan_Jumlah_Share_Kode_Referral-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa membagikan kode Referral sebanyak-banyaknya ke Teman kamu. Bonus TokoCash terakumulasi yang bisa kamu dapatkan maksimal Rp1.000.000 ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_referral_apakah_ada_batasan_jumlah_share_kode_referral"
+    }
+  ]
+}

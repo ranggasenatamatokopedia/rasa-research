@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ea45c271-1d90-46b5-a83f-01eff44036c5",
+    "data": [
+      {
+        "text": "add_text_insert_hour_minute",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "98901108-0ee5-46d4-8e15-9cc376cb911c",
+    "data": [
+      {
+        "text": "@sys.any:time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0
+  }
+]

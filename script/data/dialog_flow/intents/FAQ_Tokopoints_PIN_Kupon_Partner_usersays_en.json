@@ -1,0 +1,208 @@
+[
+  {
+    "id": "0aaa9068-c6cd-45e4-abc2-d9e1e4587614",
+    "data": [
+      {
+        "text": "Aku mau tuker kupon partner offline, cara dapetin PIN nya gmn ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1686925e-902b-446c-922b-08a2e9575dcf",
+    "data": [
+      {
+        "text": "Dimana saya bisa dapetin pin offline untuk penukaran kupon partner?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "22f20cf8-cdea-4d8d-959a-0d5381f9d1f4",
+    "data": [
+      {
+        "text": "Pin nya bisa saya dapetin dimana ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "502a8799-3dcb-446a-9698-481c0e0c613f",
+    "data": [
+      {
+        "text": "Aku udah smp di storenya nih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", gak ",
+        "userDefined": false
+      },
+      {
+        "text": "dapet2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " deh pin nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "da622b6a-1712-4fcb-b06c-461d6f141dc5",
+    "data": [
+      {
+        "text": "Aku udah sampe di depan storenya nih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? Kok gak ada ya pin nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "01e83613-97f7-4b59-afde-bf508e49c700",
+    "data": [
+      {
+        "text": "Gmn aku bisa dapetin pin kupon partnernya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? Aku udah di depan storenya ni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "71143ae4-3f96-4d9d-af80-6a24999c51e0",
+    "data": [
+      {
+        "text": "Cara dapetin pin partner offline gmn? Aku udah di depan storena nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fb9abbab-4f30-47a6-9712-7a37b1bcad3d",
+    "data": [
+      {
+        "text": "Saya udah di toko nih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", cara dapetin pin partner offline nya gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9b3d0a20-6ee3-4159-8fe3-8bb7b9a4178e",
+    "data": [
+      {
+        "text": "Kok saya gak dapet pin nya ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? Saya mau tuker kupon partner offline nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "73ccecaa-aa9f-4e5a-8fec-1fc2a1babc9f",
+    "data": [
+      {
+        "text": "Gimana ya caranya dapet pin kupon partner offline",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f3257e0f-fae6-4f16-875e-2e1bd72b33f4",
+    "data": [
+      {
+        "text": "Cara dapetin pin kupon partner offline nya gimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "54ec54e4-a92d-4b92-b97a-9bb32300a714",
+    "data": [
+      {
+        "text": "Saya udah di storenya ini, cara dapet PIN kupon partner offlinenya gimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3668764f-842b-4a0f-973c-28987b0fdf55",
+    "data": [
+      {
+        "text": "Gimana cara dapetin pin saat tukar kupon partner offline",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

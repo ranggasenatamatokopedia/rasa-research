@@ -1,0 +1,66 @@
+{
+  "id": "773ffff0-98f4-4cc7-a973-18f68394b77b",
+  "parentId": "c95b094c-3bbf-4b87-b373-536400e4989e",
+  "rootParentId": "dbbb1e17-3271-4c65-b2a2-5cb80603b2a4",
+  "name": "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_game_play_store",
+  "auto": true,
+  "contexts": [
+    "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_game-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_game_play_store-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Bisa informasikan ke Toped notifikasi apa yang muncul?"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Silakan pilih notifikasi eror di bawah ini ya,"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "button_actions": [
+              {
+                "message": "This code can\u0027t be redeemed on your country"
+              },
+              {
+                "message": "The code you entered has already been redeemed by someone else"
+              },
+              {
+                "message": "You may have input the wrong code or the code may be invalid"
+              }
+            ],
+            "type": 2
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536317545,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "operator_google_play"
+    }
+  ]
+}

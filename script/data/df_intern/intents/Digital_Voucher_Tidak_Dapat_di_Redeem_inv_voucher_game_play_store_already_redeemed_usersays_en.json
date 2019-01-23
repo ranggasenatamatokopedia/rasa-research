@@ -1,0 +1,64 @@
+[
+  {
+    "id": "25483a39-e2f4-4a42-bc6c-6ac512388ebe",
+    "data": [
+      {
+        "text": "kedua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "63830b9d-a20a-4bb4-abec-c3f919534ae3",
+    "data": [
+      {
+        "text": "2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "107f6562-9e1e-4cf6-9dbf-6d18a52f112d",
+    "data": [
+      {
+        "text": "the code you entered has already been redeemed by someone else",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2708bd85-54cd-4c9c-b1f8-ab7e5049275e",
+    "data": [
+      {
+        "text": "no ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e8119dbe-e9da-469a-9af7-07df4f9db42b",
+    "data": [
+      {
+        "text": "dua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

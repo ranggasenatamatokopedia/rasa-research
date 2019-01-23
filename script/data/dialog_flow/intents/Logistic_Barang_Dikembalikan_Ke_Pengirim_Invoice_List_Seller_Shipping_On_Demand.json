@@ -1,0 +1,54 @@
+{
+  "id": "f19e0f31-c854-4881-81bb-aa7793f1017e",
+  "parentId": "86552913-2565-49b5-99ef-02988a8aa501",
+  "rootParentId": "36de46a2-13d2-4f09-9ff4-8abcbcb54ba3",
+  "name": "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Seller_Shipping_On_Demand",
+  "auto": true,
+  "contexts": [
+    "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Seller_Shipping-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Seller_Shipping_On_Demand-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped butuh konfirmasi kamu. Apakah barang yang sudah di pick up oleh pihak kurir, saat ini sudah kamu terima kembali?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Sudah",
+              "Belum"
+            ],
+            "type": 1
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533809523,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "courier_type_is_on_demand"
+    }
+  ]
+}

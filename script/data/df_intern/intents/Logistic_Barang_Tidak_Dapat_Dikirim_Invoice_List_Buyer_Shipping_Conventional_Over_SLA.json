@@ -1,0 +1,43 @@
+{
+  "id": "46562a8e-ced7-49d0-9312-2e5b3571c8d6",
+  "parentId": "95233b44-a710-4c7d-ad82-e9f30ec60327",
+  "rootParentId": "2857f78e-0f0e-4f9f-a32c-1bf155c0c208",
+  "name": "Logistic_Barang_Tidak_Dapat_Dikirim_Invoice_List_Buyer_Shipping_Conventional_Over_SLA",
+  "auto": true,
+  "contexts": [
+    "Logistic_Barang_Tidak_Dapat_Dikirim_Invoice_List_Buyer_Shipping_Conventional-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Tidak_Dapat_Dikirim_Invoice_List_Buyer_Shipping_Conventional_Over_SLA-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa ajukan komplain dengan masuk ke halaman \"Status Pemesanan\" dan klik tombol \"Komplain\". Dengan begitu, dana kamu aman bersama Toped :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536572279,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "sla_logistics_is_over"
+    }
+  ]
+}

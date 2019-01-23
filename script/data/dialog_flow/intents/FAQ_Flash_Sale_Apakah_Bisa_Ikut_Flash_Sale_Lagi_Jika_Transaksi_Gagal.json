@@ -1,0 +1,37 @@
+{
+  "id": "a7e05adc-9bdc-4485-b702-60255f79950d",
+  "name": "FAQ_Flash_Sale_Apakah_Bisa_Ikut_Flash_Sale_Lagi_Jika_Transaksi_Gagal",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flash_Sale_Apakah_Bisa_Ikut_Flash_Sale_Lagi_Jika_Transaksi_Gagal-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau kamu belum berhasil mendapatkan produk Flash Sale di sesi ini, jangan khawatir kamu masih bisa coba lagi di sesi berikutnya untuk dapatkan produk impian kamu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_flash_sale_apakah_bisa_ikut_flash_sale_lagi_jika_transaksi_gagal"
+    }
+  ]
+}

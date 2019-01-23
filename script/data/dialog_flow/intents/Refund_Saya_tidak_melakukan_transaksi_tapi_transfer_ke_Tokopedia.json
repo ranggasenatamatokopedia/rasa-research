@@ -1,0 +1,38 @@
+{
+  "id": "3cdec0fa-d375-41ed-94be-73d66e9490f6",
+  "name": "Refund_Saya_tidak_melakukan_transaksi_tapi_transfer_ke_Tokopedia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Refund_Saya_tidak_melakukan_transaksi_tapi_transfer_ke_Tokopedia-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon lampirkan dulu bukti transfer pembayaran kamu untuk pengecekan lebih lanjut."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "refund_saya_tidak_melakukan_transaksi_tapi_transfer_ke_tokopedia"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "39971fb3-3a16-4c1c-b741-e29d1ae82203",
+  "parentId": "e736e955-c624-4ad3-acda-901c41b0805b",
+  "rootParentId": "25f8caf5-22b1-4b7d-8704-24a6da37b244",
+  "name": "Logistic_Pembatalan_Pencarian_Driver_dan_Penjadwalan_Ulang_Pick_Up_Invoice_List_Buyer",
+  "auto": true,
+  "contexts": [
+    "Logistic_Pembatalan_Pencarian_Driver_dan_Penjadwalan_Ulang_Pick_Up_Invoice_List-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Pembatalan_Pencarian_Driver_dan_Penjadwalan_Ulang_Pick_Up_Invoice_List_Buyer-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek pada invoice ini kamu sebagai Pembeli. Boleh infokan Toped invoice kamu sebagai Penjual, ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546422766,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "user_is_buyer"
+    }
+  ]
+}

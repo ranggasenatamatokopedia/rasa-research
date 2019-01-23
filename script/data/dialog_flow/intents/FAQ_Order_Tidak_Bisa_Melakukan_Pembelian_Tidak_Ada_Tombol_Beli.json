@@ -1,0 +1,39 @@
+{
+  "id": "c77ee90f-54fe-477b-bbf2-0e9ecc3aad6a",
+  "parentId": "961fca1c-f114-40f1-8527-593b61fc45bf",
+  "rootParentId": "961fca1c-f114-40f1-8527-593b61fc45bf",
+  "name": "FAQ_Order_Tidak_Bisa_Melakukan_Pembelian_Tidak_Ada_Tombol_Beli",
+  "auto": true,
+  "contexts": [
+    "FAQ_Order_Tidak_Bisa_Melakukan_Pembelian-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Order_Tidak_Bisa_Melakukan_Pembelian_Tidak_Ada_Tombol_Beli-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Tombol “Beli” bisa tidak muncul karena 3 alasan, yaitu:\n1. Toko tutup\n2. Produk sedang digudangkan\n3. Produk tersebut harus dipesan secara pre-order\n\nKamu bisa coba cari barang yang sama di toko lain, ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544415693,
+  "fallbackIntent": false,
+  "events": []
+}

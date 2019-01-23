@@ -1,0 +1,42 @@
+{
+  "id": "defa6d9f-3c7e-4089-9593-c7705b0708ef",
+  "name": "FAQ_Referral_Definisi_Toppers_Dan_Teman",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Referral_Definisi_Toppers_Dan_Teman-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Istilah dalam program Referral, Toppers adalah pengguna Tokopedia yang membagikan kode referral dan mengajak temannya untuk bertransaksi di Tokopedia."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Istilah Teman adalah seseorang yang mendapatkan kode referral dari Toppers dan menggunakannya saat pertama kali bertransaksi di aplikasi Tokopedia.\nSemoga info dari Toped membantu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_referral_definisi_toppers_dan_teman"
+    }
+  ]
+}

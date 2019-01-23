@@ -1,0 +1,118 @@
+[
+  {
+    "id": "c40a8cd8-5fef-41ce-860f-f9f72e242895",
+    "data": [
+      {
+        "text": "gy pain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8ffebd39-575e-4aa4-9300-d9dfe4520bf1",
+    "data": [
+      {
+        "text": "sedang apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2726214e-3d37-4ec7-9cbd-2cbcc67f78c9",
+    "data": [
+      {
+        "text": "lg ap",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1b2318b8-2936-4c40-ae3a-2afc1ded464c",
+    "data": [
+      {
+        "text": "lagi ngapain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "46afc95e-2ef0-4e44-b51a-918d261265d1",
+    "data": [
+      {
+        "text": "kamu",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      },
+      {
+        "text": " lagi ngapain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "52857266-8796-41f8-ae5e-bfd561a996c8",
+    "data": [
+      {
+        "text": "pain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c6b0dd83-8f1e-4d4d-8170-e9fffc067cda",
+    "data": [
+      {
+        "text": "sedang ngapain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "408ca9c8-3b22-4a34-81e2-63f64ee9f617",
+    "data": [
+      {
+        "text": "gy ngaps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "22d5502b-530f-4ea5-9eab-08eea378a981",
+    "data": [
+      {
+        "text": "gi ngaps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "34c17daa-df1b-4bde-9f2b-601de336c76c",
+    "data": [
+      {
+        "text": "lagi apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

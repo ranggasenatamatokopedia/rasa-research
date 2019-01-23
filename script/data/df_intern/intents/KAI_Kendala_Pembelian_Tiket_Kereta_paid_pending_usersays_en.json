@@ -1,0 +1,24 @@
+[
+  {
+    "id": "e27ec889-49df-4a09-9d7e-476af8ccf0e9",
+    "data": [
+      {
+        "text": "invoice_ticket_has_been_paid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a9b5db81-5216-4a97-9f0e-a9c553b22778",
+    "data": [
+      {
+        "text": "invoice_pending",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

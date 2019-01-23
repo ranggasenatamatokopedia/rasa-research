@@ -1,0 +1,35 @@
+[
+  {
+    "id": "d1a7ba2d-536a-4860-8670-5298c366f5e1",
+    "data": [
+      {
+        "text": "batalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "16f4d9d3-399f-4af1-97c7-7a982e16c5dc",
+    "data": [
+      {
+        "text": "batalkan saja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eef0a3f9-dcaf-4a9b-99fa-ba9e48f183e4",
+    "data": [
+      {
+        "text": "batal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

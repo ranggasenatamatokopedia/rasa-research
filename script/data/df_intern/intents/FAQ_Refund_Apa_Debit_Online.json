@@ -1,0 +1,33 @@
+{
+  "id": "63970884-58ae-4d0a-8a8f-73cfcacf77f3",
+  "parentId": "0e65d2d4-a96a-4746-a71d-1a59065a88e1",
+  "rootParentId": "0e65d2d4-a96a-4746-a71d-1a59065a88e1",
+  "name": "FAQ_Refund_Apa_Debit_Online",
+  "auto": true,
+  "contexts": [
+    "FAQ_Refund_Berapa_Lama_Pengembalian_Dana-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FAQ_Refund_Berapa_Lama_Pengembalian_Dana.FAQ_Refund_Berapa_Lama_Pengembalian_Dana-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Debit online adalah pembayaran menggunakan kartu ATM. Nantinya kamu akan diminta memasukkan informasi yang ada di kartu seperti nomor kartu, tanggal kedaluwarsa, dan kode CVV di balik kartu. \n\nSelanjutnya, saldo rekening kamu akan terpotong sesuai dengan nominal transaksi yang kamu lakukan di Tokopedia."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520238560,
+  "fallbackIntent": false,
+  "events": []
+}

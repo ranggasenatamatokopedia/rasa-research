@@ -1,0 +1,671 @@
+[
+  {
+    "id": "8b4af556-6b47-4031-a157-825eaf5582f6",
+    "data": [
+      {
+        "text": "Saya ingin mengganti tiket, Bagaimana cara prosesnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "059c540f-cc75-40aa-866f-6f992b832be5",
+    "data": [
+      {
+        "text": "Saya salah inout tabggal penerbangan saya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d5039301-141e-468f-bfb8-c05a045cb3e5",
+    "data": [
+      {
+        "text": "Saya salah inout tabggal penerbangan saya. Boleh diganti ga mba/mas??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "729e2395-c1d2-41e2-b81d-9439e1d08b9c",
+    "data": [
+      {
+        "text": "reschedule tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ec7591ae-0c21-4a06-b4f5-5bbc1bbe0a09",
+    "data": [
+      {
+        "text": "infokan bagaimana saya mau ubah jadwal tiket penerbangan yg sudah saya cetak sebelumnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9c015db5-8dc6-4189-8d1a-bd3f5c15808f",
+    "data": [
+      {
+        "text": "ubah jadwal keberangkatan tiket pesawat yg sudah tercetak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c8f0a0bf-9bab-4749-b3e4-c1acb043bd90",
+    "data": [
+      {
+        "text": "ubah jadwal penerbangan saya yg telah dicetak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "901c2a71-09e8-482d-bbfe-7d0a59ed857f",
+    "data": [
+      {
+        "text": "gimana mau ubah jadwal keberangkatan saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "07eb51a4-f7c1-4eca-ba08-6f3a125b7c05",
+    "data": [
+      {
+        "text": "tiket saya sudah tercetak, bagaimana saya mengubah jadwal tiket pesawat saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0a0a50f7-9ece-420a-8534-dfef1f974b59",
+    "data": [
+      {
+        "text": "saya mau ubah jadwal keberangkatan tiket ",
+        "userDefined": false
+      },
+      {
+        "text": "penerbangan",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d918ce26-2e40-46f9-8303-89bf4a97aa7f",
+    "data": [
+      {
+        "text": "gimana ubah jadwal keberangkatan tiket pesawat yg sudah saya cetak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c5cb03d7-da7d-4939-b9f3-4507099bacd3",
+    "data": [
+      {
+        "text": "infoin ",
+        "userDefined": false
+      },
+      {
+        "text": "dong",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gimana mau ubah tiket pesawat keberangkatan saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5e67652c-52da-4df7-a8ad-398964efa8a7",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", minta tlg utk ubah jadwal keberangkatan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a98dd719-242e-4485-b776-6fa1e6c077d1",
+    "data": [
+      {
+        "text": "saya mau ubah jadwal keberangkatan saya tp tiket saya sudah tercetak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8b3cac14-a6c8-406d-849f-f2e0dfadf387",
+    "data": [
+      {
+        "text": "tolong minnnn  mau ubah jadwal penerbangan sayaaaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "00c713a8-aa5a-4b71-bca9-25b869954bd3",
+    "data": [
+      {
+        "text": "tolong ubah jadwal keberangkatan tiket pesawat saya ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0c491fc1-a774-451d-bb36-c1135f5aff97",
+    "data": [
+      {
+        "text": "saya mau ubah jadwal keberangkatan tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7e35e999-af6d-48f5-98ad-d368cce793fc",
+    "data": [
+      {
+        "text": "ubah jadwal tiket penerbangan yg sudah dicetak sebelumnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7d4b0a2a-abbf-4a00-aa3f-27009e067afd",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya mau mengubah  jadwal tiket penerbangan saya yg sudah tercetak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c01e9020-99ce-49a1-97f2-46d286121bd8",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tlg ubahin jadwal keberangkatan tiket pesawat saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "53077225-374d-445a-9359-0e3d92d9aaf0",
+    "data": [
+      {
+        "text": "saya mau ubah jadwal keberangkatan tiket pesawat ",
+        "userDefined": false
+      },
+      {
+        "text": "dong",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "df5a0a5c-7ecd-4c92-9cfc-f97880497e84",
+    "data": [
+      {
+        "text": "ubah jadwal penerbangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "09c42ad7-de55-4227-a2f4-0756c8ff550b",
+    "data": [
+      {
+        "text": "jadwal keberangkatan tiket pesawat bagaimana saya mengubahnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a9191040-add8-4460-839f-fe8eb2dc7161",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", mohon info gimana saya ubah jadwal keberangkatan tiket penerbangan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "40abad48-4a36-4f8b-90e7-bdeb82ad6f59",
+    "data": [
+      {
+        "text": "infokan saya bagaimana cara mengubah tiket keberangkatan pesawat saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a357e510-d2cc-4d08-a36a-20fab5029468",
+    "data": [
+      {
+        "text": "ubah jadwal tiket pesawat saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "34831499-a6f7-4b30-bbb8-5fd8d72edcbc",
+    "data": [
+      {
+        "text": "ubah jadwal tiket penerbangan yg sudah saya beli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b888a438-7f4c-415a-bc76-70459e57519f",
+    "data": [
+      {
+        "text": "ubah jadwal tiket pesawat saya yg telah dicetak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "85935dad-5d47-4a0e-bd82-486b5f6b72a4",
+    "data": [
+      {
+        "text": "tolong ubah jadwal keberangkatan tiket penerbangan saya yg sudah tercetak sebelumnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6de60b07-ad81-4cd6-a98e-d2a99491613e",
+    "data": [
+      {
+        "text": "ubah jadwal keberangkatan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aa9a45cc-a42c-41dc-9826-2fada6b28eda",
+    "data": [
+      {
+        "text": "gimana mengubah jadwal keberangkatan tiket pesawat yg sudah dicetak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bb286c8e-686e-4ac9-ab9d-e82744356001",
+    "data": [
+      {
+        "text": "bagaimana cara mengubah jadwal keberangkatan tiket yang sudah tercetak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "23539081-4b36-4f7c-90eb-15d254899bfa",
+    "data": [
+      {
+        "text": "bagaimana kalo mau ubah jadwal keberangkatan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "50700c76-727b-4ba7-8d1e-9910b30d907b",
+    "data": [
+      {
+        "text": "cara ubah jadwal keberangkatan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7b190faa-549a-4296-a71b-7b60a350a3fd",
+    "data": [
+      {
+        "text": "bagaimana cara mengubah jadwal keberangkatan tiket yang sudah dibeli/tercetak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "65d3fc0e-64ab-429c-98de-ec42bc2aad85",
+    "data": [
+      {
+        "text": "reschedule pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5f5f9dbe-5eb5-4333-b780-eb2da1517787",
+    "data": [
+      {
+        "text": "bagaimana reschedule tiket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "82b6f942-d214-462c-98b8-7fdc60d8e39b",
+    "data": [
+      {
+        "text": "kalau reschedule pesawat bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2b99beb4-95df-4bfc-b86a-a3ebc25ea3bc",
+    "data": [
+      {
+        "text": "untuk reschedule tiket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6ca5be5c-6505-4fb1-b321-269bce1ff0eb",
+    "data": [
+      {
+        "text": "saya mau menjadwalkan ulang tiket pesawat saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "35d758e9-d990-43ef-a778-5566853c2c2e",
+    "data": [
+      {
+        "text": "Ganti penjadwalan tiket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2909a31e-2040-4b3e-8c1e-36b961b7c2c0",
+    "data": [
+      {
+        "text": "saya melakukan kesalahan hari dan tanggal booking tiket pesawat....mana yg lebih baik saya lakukan antara jadwal ulang untuk pulang jakarta surabaya atau saya batalkan tiketnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "33fc8370-6da2-473f-9d64-b0f616f1c5a7",
+    "data": [
+      {
+        "text": "hi saya mau schedule tiket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "593a5262-1c96-4de9-93a2-d0faaa1d8f5e",
+    "data": [
+      {
+        "text": "mau rubah tanggal tiket penerbangan bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f7854a9d-f615-4bf6-9824-7022e2ce7ea6",
+    "data": [
+      {
+        "text": "saya mau ganti tanggal penerbangan bisa ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "edcb6d97-1f29-4879-852a-b0a8e73c7a12",
+    "data": [
+      {
+        "text": "mau reshedule tiket pesawat,  gimana ya min",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "206e7134-2314-49ff-9d69-88edb905b210",
+    "data": [
+      {
+        "text": "saya ingin tanya bagaimana cara memindah tanggal penerbangan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c9419d01-615a-49ee-aa4b-ced3d2572d5e",
+    "data": [
+      {
+        "text": "saya mau reschedule penerbangan saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9d9c5473-0536-4f95-8f72-7a0115c74008",
+    "data": [
+      {
+        "text": "saya mau reschedule pembelian tiket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "47b2ac6e-2455-44ba-9ad3-9ec3df9d2819",
+    "data": [
+      {
+        "text": "bagaimana cara re-schedule tiket pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "75579354-53f9-463b-9426-7dddc96319a6",
+    "data": [
+      {
+        "text": "saya merubah jadwal penerbangan AirAsia XT7521 DPS-JKT jam keberangkatan 12.20 menjadi QZ7533 DPS-JKT jam keberangkatan 21.20 dan sudah melakukan tambahan pembayaran atas perubahan jadwal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "eff10f9c-38c5-482f-ba0e-9986ee75c00f",
+    "data": [
+      {
+        "text": "itu saya mau ganti maskapai bs ga ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3f658730-d5e3-417c-b0c3-4d01d50f6867",
+    "data": [
+      {
+        "text": "saya mau ganti jadwal penebangan yang sudah saya beli cara nya bagaimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8cef504a-de80-432a-9ed7-5bb5e869c447",
+    "data": [
+      {
+        "text": "bagaimana cara ubah jam keberangkatan booking tiket ka? . Saya udah pesen tiket ka. mau diganti jamnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5f083aea-3e04-4ed1-b074-875d07598243",
+    "data": [
+      {
+        "text": "Bagaimana cara re schedule penerbangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ebd8a974-9a9e-493d-a67c-0172532c1ee8",
+    "data": [
+      {
+        "text": "bagaimana cara mengganti / memanjukan jadwal pesanan pesawat saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

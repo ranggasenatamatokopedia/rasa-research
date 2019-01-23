@@ -1,0 +1,53 @@
+{
+  "id": "46aa99b0-bed2-4cc7-a244-6804c5bab5ef",
+  "parentId": "63a8626c-9939-44ba-ba4e-1c41edfdbb72",
+  "rootParentId": "90b4ed65-34d8-4fd4-a8f8-c87e563d6528",
+  "name": "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_membership_reject_full",
+  "auto": false,
+  "contexts": [
+    "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_membership_grtsongkir-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_membership_reject_full-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kak, setelah Toped cek, ini transaksinya dalam 1 pembayaran dibatalkan sama penjual semua nih."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sesuai dengan Syarat dan Ketentuan, untuk kupon gratis ongkirnya akan hangus. Untuk dana yang kembali ke kamu, sesuai dengan yang kamu bayar ya. Tidak termasuk ongkos kirimnya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kedepannya, pastikan diskusi atau kirim pesan ke penjual dulu, untuk memastikan pesanan kamu bisa dikirim dan sukses ya, Kak."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523504134,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "reject_full"
+    }
+  ]
+}

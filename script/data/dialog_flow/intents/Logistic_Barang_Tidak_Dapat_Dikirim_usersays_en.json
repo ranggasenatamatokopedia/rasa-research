@@ -1,0 +1,857 @@
+[
+  {
+    "id": "122c1a12-2d0b-4734-9133-417b665a83d0",
+    "data": [
+      {
+        "text": "pengiriman aini gak bisa dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ea35a2a5-d16b-4ed0-8dc9-12d768f96a3b",
+    "data": [
+      {
+        "text": "kenapa barang saya gagal dikirimkan ? Nomor Resi : JD0022943787",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a6cec888-85cb-476c-9828-853d12fd8f36",
+    "data": [
+      {
+        "text": "brg tertahan dibandara juanda, alasan xray terdapat accu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "033bd899-9b05-4d8c-8df8-ffc2486a0aa0",
+    "data": [
+      {
+        "text": "barang tidak bisa dikirim karena dangerous goods",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "666af125-f515-431a-bc59-cd0d09762ad2",
+    "data": [
+      {
+        "text": "Saya mau kirim hp ke Medan, tapi pihak ",
+        "userDefined": false
+      },
+      {
+        "text": "j\u0026t",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " me nolak karena antar pulau mereka tidak bisa. Ada solusi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b27eb495-5945-46fa-802b-a71f3a65cad8",
+    "data": [
+      {
+        "text": "Kurir yang saya pilih tidak bisa mengirim sirup yang botolnya dari beling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9c6782f6-6ad6-4269-bfee-f7660852d6d5",
+    "data": [
+      {
+        "text": "tidak dapat dilakukan pengiriman dikarenakan kurir tidak bisa menerima produk dengab kategori food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "43dd7ed3-4e6a-48fe-865e-0d3a8c8168c0",
+    "data": [
+      {
+        "text": "berisi cairan sehingga tidak dapat dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2c1da750-3812-4bfb-a529-08df6011f02f",
+    "data": [
+      {
+        "text": "barang tidak dapat di kirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4a068a34-5a6e-45df-8622-ebdec6a6ad25",
+    "data": [
+      {
+        "text": "barang tidak dapat dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "42e2b68a-99f8-4983-abd2-263fed8cd9d9",
+    "data": [
+      {
+        "text": "Produk ini tidak lolos scan x-ray",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "99172895-2c7c-484d-88e6-0e6bf2457dbc",
+    "data": [
+      {
+        "text": "setelah menuju ",
+        "userDefined": false
+      },
+      {
+        "text": "wahana",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " menolak untuk menerima kiriman karena benda cair tidak tembus x-ray",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eac6a1e1-3ed8-47e8-8083-78f8afa206f0",
+    "data": [
+      {
+        "text": "Pihak ",
+        "userDefined": false
+      },
+      {
+        "text": "rex",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak bisa kirim luar pulau jawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ffb7d54d-20a9-4ecd-aa2a-df27ad0e9adc",
+    "data": [
+      {
+        "text": "barang tersebut tidak bisa dikirim lewat ",
+        "userDefined": false
+      },
+      {
+        "text": "pos",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " karena gagal xray",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b41bdb90-e7b4-45ce-adf3-bfc8541b8a12",
+    "data": [
+      {
+        "text": "paket ditolak ekspedisi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6c199c6d-9c6d-46ff-bbbd-d066c1ff65c2",
+    "data": [
+      {
+        "text": "saya ada pembelian barang dan informasi dari tokonya barang tersebut tidak bisa dikirim lewat ",
+        "userDefined": false
+      },
+      {
+        "text": "pos",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " karena gagal xray",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d8e4adbd-c685-40c4-b615-8ec7f7261cd0",
+    "data": [
+      {
+        "text": "tolong cancel pejualan ini. paket terlalu besar dimensi nya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "02a2bbff-1373-4bbc-9f6d-d77411cf68eb",
+    "data": [
+      {
+        "text": "powerbank tidak bisa dikirim dengan ekspedisi udara.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "27691a4f-bc76-4510-82b4-be1c7fff9067",
+    "data": [
+      {
+        "text": "barang tidak lolos x Ray",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "781ab5aa-a664-4b7d-ae02-ecc5ea208412",
+    "data": [
+      {
+        "text": "Barang tidak mau dipick up oleh Driver ",
+        "userDefined": false
+      },
+      {
+        "text": "Grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dengan alasan ukuran melebihi ketentuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6e10d72b-9c8b-41f6-83b4-bd666d1bf9bb",
+    "data": [
+      {
+        "text": "barang ini di tolak sama ",
+        "userDefined": false
+      },
+      {
+        "text": "jne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5ce81cfa-62aa-4f6c-852a-b8fe2b0ae4d3",
+    "data": [
+      {
+        "text": "driver ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak dapat mengambil pesanan karena aturan ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bf0f88f4-bfc4-49a0-8d60-b05aa5bb8704",
+    "data": [
+      {
+        "text": "barang tidak dapat dikirim karena cairan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8659d806-eeee-4458-a9ec-78fae13ce384",
+    "data": [
+      {
+        "text": "barang tidak dapat dikirim karena berisi laptop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "77aa7e5a-918b-4429-9a79-ea6ee426fb50",
+    "data": [
+      {
+        "text": "Barang tersebut ada baterai dan menggunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "jne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " yg di mana akan ditolak karena menggunakan udara.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "194c866c-7213-4ad0-8cca-286714072c95",
+    "data": [
+      {
+        "text": "barang tidak bsa dikirkm, terlalu besar dengan motor ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b8407816-1725-458c-9fa4-106e61cb568f",
+    "data": [
+      {
+        "text": "paket isi cairan Aerosol dan akan di tolak oleh Pihak ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "54947d5a-db0c-4ca7-8147-fa6398d7d170",
+    "data": [
+      {
+        "text": "tidak bisa mengirimkan barang karena berupa makanan (mudah basi)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a7b2cfdb-760a-4835-9fe5-60a919ec0375",
+    "data": [
+      {
+        "text": "barang tidak bisa dikirim karena berisi baterai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2b953a1e-c73c-493c-a54b-b1fd2e86161c",
+    "data": [
+      {
+        "text": "barang tidak bisa dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "53435cc1-49b5-4759-a68e-ae715eca5cb1",
+    "data": [
+      {
+        "text": "Barang ditolak oleh kurir karena tidak bisa mengirim produk food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f154c06f-0c0a-4e22-b398-f24f755aa195",
+    "data": [
+      {
+        "text": "brg tertahan dibandara juanda, alasan xray terdapat accu, padahal hanya senter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6c5a2d0e-5f69-43b3-ad40-070b18bc96fb",
+    "data": [
+      {
+        "text": "Driver ",
+        "userDefined": false
+      },
+      {
+        "text": "Grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sudah datang dan menolak mengambil pesanan karena katanya ukurannya harus ",
+        "userDefined": false
+      },
+      {
+        "text": "40cm",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "X40cm",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2a948884-d639-4e08-a0c3-68612ed9a41b",
+    "data": [
+      {
+        "text": "kendala pengiriman cairan lewat udara",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2369422e-1f9f-4056-ad6f-c85d9431a3dc",
+    "data": [
+      {
+        "text": "berisi cairan, tidak dapat dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "19ecda9e-79c0-44bd-81c3-9d268311406e",
+    "data": [
+      {
+        "text": "Menurut call center ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", dimensi ",
+        "userDefined": false
+      },
+      {
+        "text": "uk",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " barang melebihi ketentuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1dc7cf36-c986-4337-ab16-c9db8f21933b",
+    "data": [
+      {
+        "text": "barang tidak bs di bawa kurir.. jadi mau di cancel sj",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "744368d9-bf91-47fe-af33-08deec772b4b",
+    "data": [
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " menolak untuk mengirim ini, Dikarenakan ini cairan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b55f5d5f-d594-4159-82e4-914fd5b3aa2f",
+    "data": [
+      {
+        "text": "Aku cek ke ktor jne, paket tdk lolos xtray pengiriman..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c896d618-56b0-4a72-92cf-5713ca0f06e3",
+    "data": [
+      {
+        "text": "sdh saya coba, kenapa tidak ada tombol \u0026#34;kirim\u0026#34; ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b6a7b2ff-7f80-4912-9219-7d6934e8b17f",
+    "data": [
+      {
+        "text": "saya ad mau kirim barang via sicepat dan sicepat nya tidak menerin pengiriman hp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7bee6423-26be-49b9-b5b4-d89af791bf02",
+    "data": [
+      {
+        "text": "saya mau menanyakan sesuatu . saya adalah penjual batu bata merah . saya memasarkan iklan batu bata merah di tokopedia . dan ada beberapa yg menghubungi saya . batu bata merah itu kan di kirim pake truk . dan minimal order 1 truck . sedangkan di tokopedi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "255e86d5-7bcc-411b-8d63-d92ab6a7eab8",
+    "data": [
+      {
+        "text": "halo, sy sdh request di ambil barang hari ini jam 9 pagi. tp di sistem di katakan di di batalkan oleh customer service. ini gmn ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "77facbaa-9c8d-4a46-ad7d-6a6c2d52e460",
+    "data": [
+      {
+        "text": "Account lupa password",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e2f6d9fe-957f-4aff-977d-7a4d81e34557",
+    "data": [
+      {
+        "text": "kenapa setelah check out tidak bisa pilih durasi pengiriman? bahkan pilih kurir tidak ada. Jadi tidak bs bayar. any solutions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5a767bd1-7eec-44f5-8641-c30da876f23b",
+    "data": [
+      {
+        "text": "saat ada menu ketik beli ada catatan untuk melengkapi kurir pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f38ef3b2-54b9-45a8-ad53-ea5b4369b595",
+    "data": [
+      {
+        "text": "selamat siang tokopedia. saya mau melakukan pembelian. sudah di keranjangin. kenapa ya tidak bisa pilih kuris. pas saya klik lakukan pembayaran. agar pilij kurirnya dulu katanya. tapi ber kali2 saya coba tidak bisa pilih kurir. dan saya tidak bisa belanj",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bf408abf-7a58-41a8-a44c-98eab21ae65b",
+    "data": [
+      {
+        "text": "Error ketika memilih kurir jadi tidak bs checkout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "18df5ea7-f803-4e09-8109-b22bd1f19d3d",
+    "data": [
+      {
+        "text": "mau tanya aku jual sepeda iimo 2 pembeli maunya kirim pake gojek tapi aku tidak bisa pilih kurir bagaimana ya solusinya terimaksih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a9a431ad-534f-48f6-946a-5e69dd87787d",
+    "data": [
+      {
+        "text": "bagaimana bila kurir tidak bisa antsr bsrang dengan keterangan alamat tidak lengkap?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7476fdb0-7d4f-4dbe-bd06-64ceaee8c902",
+    "data": [
+      {
+        "text": "barang saya ditolak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "aae39832-4ec7-4161-a553-243772af2311",
+    "data": [
+      {
+        "text": "penjual bilang gk bisa kirim karna ada penolakan dari tokpednya.saya mau barang saya sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "28f36bb7-77f1-458b-8fa0-6ce983ce96ae",
+    "data": [
+      {
+        "text": "barang saya gagal di kirim ............",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9332b582-8b88-46a6-bcee-ea65195903bb",
+    "data": [
+      {
+        "text": "pengiriman tidak dapat di lakukan melalui udara harus melalui darat terapi pengirimannya berbeda harga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d912c7cf-5a4b-4260-a8ed-a256ad72a85f",
+    "data": [
+      {
+        "text": "namun barang tertolak karena proses bandara",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b27722ea-a321-406a-ac8c-ae7dc149bb9b",
+    "data": [
+      {
+        "text": "sy menerima orderan dari tokopedia melalui grab someday...cm barangnya tdk bisa di pickup tulisnya ada kendala apa ya..sy sudah coba berkali2 tp tdk bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "979c9ac3-143f-4cba-b59a-ce5ecc09c6b6",
+    "data": [
+      {
+        "text": "saya sebagai penjual ingin melakukan pembatalan transaksi penjualan di karenakan produk tidak di kirimkan oleh ekspedisi tiki",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7b825bd9-d79c-463c-8636-70365c92e609",
+    "data": [
+      {
+        "text": "alamat pembeli tidak jelas, barang saya tertahan oleh kurir, pembeli dihubungi juga tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3da7ac9f-013b-42b7-aa1c-46a277891b55",
+    "data": [
+      {
+        "text": "masalahnya paket yg saya kirim itu laporannya gagal terkirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "066dc208-1a91-4f20-9f82-1936db89086a",
+    "data": [
+      {
+        "text": "ORDERAN SAYA TIDAK DAPAT DIKIRIM KARENA BERUPA KOREK GAS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3f1174c5-310f-4f1a-9a73-900c752a08ee",
+    "data": [
+      {
+        "text": "saya order barang dan sudah bayar gosend instant untuk pengiriman nya. namun menurut penjual barangnya tidak dapat dikirim menggunakan go send dan bisa diambil sendiri. namun ongkos gosend nya tidak bisa di refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3517dbb5-71bc-4869-8c0e-57cca5e098e5",
+    "data": [
+      {
+        "text": "ini ga bisa pickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "55e4c6de-cd9b-4ed2-b641-1589d27889e5",
+    "data": [
+      {
+        "text": "cancel oleh driver gojek karena mereka tidak mau pick up dan mengantar barang yang berwujud",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d852d107-15a6-46d7-ba5b-582cb3b87ca5",
+    "data": [
+      {
+        "text": "Pembeli mau dikirim brgnya lewat pos, tp pos menolak karna cair",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

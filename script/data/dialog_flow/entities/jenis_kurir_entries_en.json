@@ -1,0 +1,54 @@
+[
+  {
+    "value": "pick_up",
+    "synonyms": [
+      "pick_up",
+      "gojek",
+      "go jek",
+      "go_jek",
+      "go-jek",
+      "gosend",
+      "go-send",
+      "go_send",
+      "grab",
+      "gerab",
+      "grap",
+      "grep",
+      "greb",
+      "rex",
+      "rex 10",
+      "rex_10",
+      "rex-10",
+      "ninja",
+      "ninja ekspres",
+      "ninja xpress",
+      "ninja ekpress",
+      "ninja express",
+      "ninja expres",
+      "pick up",
+      "pickup",
+      "go send"
+    ]
+  },
+  {
+    "value": "reguler",
+    "synonyms": [
+      "reguler",
+      "regular",
+      "jne",
+      "j n e",
+      "jnt",
+      "j\u0026t",
+      "sicepat",
+      "si cepat",
+      "pos",
+      "pos indo",
+      "pos indonesia",
+      "tiki",
+      "ti ki",
+      "tki",
+      "j n t",
+      "j \u0026 t"
+    ]
+  }
+]

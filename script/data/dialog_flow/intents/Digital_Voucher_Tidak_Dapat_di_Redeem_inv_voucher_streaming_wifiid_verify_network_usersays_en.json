@@ -1,0 +1,37 @@
+[
+  {
+    "id": "e2e57a6b-d88a-44f8-bd37-1f5af8a93676",
+    "data": [
+      {
+        "text": "kedua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "54306fb8-af92-4970-bb2d-3e7793584e0d",
+    "data": [
+      {
+        "text": "dua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "41267a4b-7b75-473c-8360-b3bb3099dac5",
+    "data": [
+      {
+        "text": "verify network",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

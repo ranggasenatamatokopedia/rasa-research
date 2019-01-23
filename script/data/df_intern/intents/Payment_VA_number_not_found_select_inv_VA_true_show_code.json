@@ -1,0 +1,43 @@
+{
+  "id": "65a90649-5c23-45ab-ad10-8f35d60cc2b6",
+  "parentId": "2590aca7-d248-49f0-94fe-574701295f03",
+  "rootParentId": "097ccd10-206d-47d6-b058-24ef1540018f",
+  "name": "Payment_VA_number_not_found_select_inv_VA_true_show_code",
+  "auto": true,
+  "contexts": [
+    "Payment_VA_number_not_found_select_inv_VA_true-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Payment_VA_number_not_found_select_inv_VA_true_show_code-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "#show_transaction_code.payload"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532407527,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "show_transaction_code"
+    }
+  ]
+}

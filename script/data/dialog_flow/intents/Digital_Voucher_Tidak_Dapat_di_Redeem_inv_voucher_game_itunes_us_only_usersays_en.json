@@ -1,0 +1,95 @@
+[
+  {
+    "id": "01f64a73-1f01-419b-834b-bd061ed32b83",
+    "data": [
+      {
+        "text": "this code must be redeemed ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "the U.S",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". storefront",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "68c1f811-0f0e-4598-8261-02ab0bfb368f",
+    "data": [
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "74f8819f-6ffb-4997-b345-3aad0b3c1129",
+    "data": [
+      {
+        "text": "no ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "41c94281-ac76-418c-ab2d-424a2aea8c1f",
+    "data": [
+      {
+        "text": "pertama",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f801ee17-98f6-41f2-a0f9-2227480109ae",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8855bd07-8d76-4fa7-b366-09fd4f9345e2",
+    "data": [
+      {
+        "text": "ke-1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

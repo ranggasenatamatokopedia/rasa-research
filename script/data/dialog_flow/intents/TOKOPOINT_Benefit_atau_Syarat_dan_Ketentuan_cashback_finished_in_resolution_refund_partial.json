@@ -1,0 +1,58 @@
+{
+  "id": "0898c3f3-4c8c-4305-aaf2-44cea5c59965",
+  "parentId": "1a807b46-0b99-4b2c-b48c-ff2df9481fc9",
+  "rootParentId": "90b4ed65-34d8-4fd4-a8f8-c87e563d6528",
+  "name": "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_cashback_finished_in_resolution_refund_partial",
+  "auto": false,
+  "contexts": [
+    "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_cashback-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_cashback_finished_in_resolution_refund_partial-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "kak, setelah kami cek, ini transaksinya pernah masuk pusat resolusi dan ada pengembalian dana sebagian ya"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "sesuai dengan S\u0026K kak, kalau ada pengembalian dana sebagian, maka cashback yang kamu dapatkan, akan sesuai dengan nominal pesanan yang sukses kak"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Cashbacknya dihitung pro-rate yaa berdasarkan pesanan yang sukses. Kamu boleh cek kembali dana di tokocash kamu kak"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "untuk perhitungannya \u003d\u003d\u003e (nominal produk yang sukses : nominal produk keseluruhan) * potensial cashback"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523507348,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "order_finished_in_resol_refund_partial"
+    }
+  ]
+}

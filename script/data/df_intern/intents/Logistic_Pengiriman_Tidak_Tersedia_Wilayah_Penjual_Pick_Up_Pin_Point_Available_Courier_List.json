@@ -1,0 +1,39 @@
+{
+  "id": "57b811d1-28d9-407c-a3b7-ffd84d39d293",
+  "parentId": "1cd42e56-93b9-401f-9e4f-f905c6da049a",
+  "rootParentId": "e1fd67c7-5a72-4184-9a6c-bda4c6e61524",
+  "name": "Logistic_Pengiriman_Tidak_Tersedia_Wilayah_Penjual_Pick_Up_Pin_Point_Available_Courier_List",
+  "auto": true,
+  "contexts": [
+    "Logistic_Pengiriman_Tidak_Tersedia_Wilayah_Penjual_Pick_Up_Pin_Point_Available-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckShopValidShipper",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Pengiriman_Tidak_Tersedia_Wilayah_Penjual_Pick_Up_Pin_Point_Available_Courier_List-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu sebentar ya, Toped cek dulu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534219590,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "b27165dc-c913-4e1e-90c5-e2ec718e183b",
+  "parentId": "3a53428c-92bf-45c6-b647-80dd03d60014",
+  "rootParentId": "3a53428c-92bf-45c6-b647-80dd03d60014",
+  "name": "Apps_Kendala_Aplikasi_Aplikasi_Terhenti",
+  "auto": true,
+  "contexts": [
+    "Apps_Kendala_Aplikasi-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Apps_Kendala_Aplikasi_Aplikasi_Terhenti-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pastikan dulu bahwa kamu sudah memperbarui aplikasi ke versi terbaru ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Apakah kamu sudah melakukan Clear Data?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Sudah",
+              "Belum"
+            ],
+            "type": 1
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545096047,
+  "fallbackIntent": false,
+  "events": []
+}

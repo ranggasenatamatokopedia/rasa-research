@@ -1,0 +1,44 @@
+{
+  "id": "4b234a60-a9b3-47b9-9e3a-4ecc84ea4907",
+  "parentId": "31e5a270-518e-4eba-9a13-c18bfb5b35c6",
+  "rootParentId": "31e5a270-518e-4eba-9a13-c18bfb5b35c6",
+  "name": "FAQ_Digital_Cara_Redeem_PSN_Money_Voucher_from_console",
+  "auto": true,
+  "contexts": [
+    "FAQ_Digital_Cara_Redeem_PSN_Money_Voucher-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Digital_Cara_Redeem_PSN_Money_Voucher_from_console-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Redeem voucher PSN Money melalui console caranya:\n1. Masuk ke menu \"Playstation Store\"\n2. Pilih menu \"Redeem Codes\"\n3. Masukan kode 12 digit lalu klik \"Continue\" dan ikuti prosesnya. Kode harus dimasukkan secara manual (tidak copy paste)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika transaksi sukses, kamu akan mendapatkan kode Serial Number dan kode PIN. Namun untuk redeem, kamu hanya cukup masukkan PIN nya saja. Selamat mencoba ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536908703,
+  "fallbackIntent": false,
+  "events": []
+}

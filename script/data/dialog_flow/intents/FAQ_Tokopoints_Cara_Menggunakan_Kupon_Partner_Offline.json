@@ -1,0 +1,44 @@
+{
+  "id": "dc5b50d5-e6a4-472e-a7ec-3ee7cbcd2b39",
+  "parentId": "9925d736-353b-4ce3-b30b-e9810df46f1b",
+  "rootParentId": "9925d736-353b-4ce3-b30b-e9810df46f1b",
+  "name": "FAQ_Tokopoints_Cara_Menggunakan_Kupon_Partner_Offline",
+  "auto": true,
+  "contexts": [
+    "FAQ_Tokopoints_Cara_Menggunakan_Kupon_Partner-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Tokopoints_Cara_Menggunakan_Kupon_Partner_Offline-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau mau melakukan penukaran Kupon Partner secara Offline, kamu bisa ikuti langkah di bawah ini, ya:\n1. Masuk ke halaman Tokopoints di akun Tokopedia kamu.\n2. Pilih menu \"Penukaran Points\"\n3. Pilih benefit yang diinginkan dan sesuaikan dengan jumlah Points yang kamu miliki.\n4. Klik \"Tukar\" untuk melakukan penukaran.\n5. Kalau sudah berhasil, Kupon bisa kamu temukan di halaman \"Kupon Milik Saya\". \n6. Tukarkan pada store / outlet terkait, dan tunjukkan Kupon yang kamu miliki.\n7. Petugas outlet akan melakukan \"Swipe\" dan memasukkan PIN yang diminta."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jangan melakukan \"Swipe\" sendiri ya, karena kalau Kupon sudah terbuka outlet tidak akan menerima penukaran Kuponnya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541147434,
+  "fallbackIntent": false,
+  "events": []
+}

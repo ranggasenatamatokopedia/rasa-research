@@ -1,0 +1,36 @@
+{
+  "id": "6d85673c-ba6a-447e-b0cd-99b45fc45c0f",
+  "name": "smalltalk.agent.crazy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.crazy",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": [
+            "Mohon maaf, ada yang bisa Toped bantu? Toped siap membantu kamu kapanpun :)",
+            "Mohon maaf, ada yang bisa Toped bantu? :)"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504183892855,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "smalltalk_agent_crazy"
+    }
+  ]
+}

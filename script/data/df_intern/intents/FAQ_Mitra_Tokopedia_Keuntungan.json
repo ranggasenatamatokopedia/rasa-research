@@ -1,0 +1,38 @@
+{
+  "id": "cb60f052-a0a7-43cd-aa9b-8be3979486d0",
+  "name": "FAQ_Mitra_Tokopedia_Keuntungan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Mitra_Tokopedia_Keuntungan-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Beberapa keuntungan yang bisa kamu dapat dari Mitra Tokopedia:\n1. Pembelian produk pulsa, paket data, token listrik PLN dan voucher games akan mendapatkan potongan harga langsung, disesuaikan dengan nominal pembelian kamu.\n2. Produk Telkom, tagihan PLN, PDAM, BPJS, dan Tv Kabel, akan mendapatkan komisi sebesar Rp 2.000 dari setiap transaksi.\n3. Kamu juga akan mendapatkan layanan bantuan Live Chat."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Yuk, segera gunakan aplikasi Mitra Tokopedia!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,445 @@
+[
+  {
+    "id": "c8e62cc9-b9ab-459e-8a66-d7bb7d69846a",
+    "data": [
+      {
+        "text": "apakah voucer toko saya tetap berkurang kalo ada ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " yang gajadi beli?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "df5eb57b-f580-44b0-87d9-2dc888a76014",
+    "data": [
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " batal, vocher toko saya balik nggak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d4e98101-0d50-4d63-b87b-6cc1c75c3ffe",
+    "data": [
+      {
+        "text": "min ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ada ",
+        "userDefined": false
+      },
+      {
+        "text": "buyer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " batal belanja di toko saya, tapi sebelumnya dia udah pake vocher toko saya. vocher nya hangus atau gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "631cbd17-9092-436c-a014-44aa9b2a269c",
+    "data": [
+      {
+        "text": "misalnya ",
+        "userDefined": false
+      },
+      {
+        "text": "buyer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " batal beli vocher toko saya balik nggak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cfc81e0d-f625-4cb6-84da-380ed1e97c9e",
+    "data": [
+      {
+        "text": "pembelian dibatalkan, voucer toko saya apakah bisa kembali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9f7d9437-2096-4468-8b1d-56372f439197",
+    "data": [
+      {
+        "text": "vocher toko nya gimana, ini ",
+        "userDefined": false
+      },
+      {
+        "text": "buyer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nya gak jelas batalin belanja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b75e6dd4-cf12-4006-bc44-ac3151a016aa",
+    "data": [
+      {
+        "text": "apakah vocher toko saya hangus kalo ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " batal transaksi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3912e4e6-8da6-445f-a967-2908ea618ae6",
+    "data": [
+      {
+        "text": "ini ada ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " batal belanja, terus voucher toko saya bagaimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "09e1c678-c711-4c47-8dae-4fbc77058d06",
+    "data": [
+      {
+        "text": "misalkan nggak jadi transaksi, terus voucher toko saya gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0e8db1c8-21cf-49f5-8ae3-01b25046aa58",
+    "data": [
+      {
+        "text": "jika batal beli voucer toko saya bagaimana ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1a0db81a-87a8-4521-964a-73a9b8c5745d",
+    "data": [
+      {
+        "text": "kalo ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " batal beli terus vocher toko saya gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a1124a27-ff9f-40dc-a554-b5af11b65f30",
+    "data": [
+      {
+        "text": "lalu pesanan yang batal ini gimana? soalnya dia pake voucher toko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5be23c4b-1b90-4d65-8dde-035503326954",
+    "data": [
+      {
+        "text": "apa bisa vocer toko dikembalikan? ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mengcancel pembeliannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6816beca-8780-4969-a237-60a673293a81",
+    "data": [
+      {
+        "text": "apa masih bisa dikembalikan saja vocer tokonya? ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ngga jadi membeli di saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c7c8431d-aaa9-4934-a667-8ba7f59c0651",
+    "data": [
+      {
+        "text": "sayang dong voucher toko nya kalo ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " batal gini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "789bb0bc-3c1c-4edb-b3f6-2428935c7fea",
+    "data": [
+      {
+        "text": "voucher toko saya masih bisa dipake ngga? ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " batalin pesenan nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9cd5ee60-3f76-4b84-82e1-33c6914fc0ef",
+    "data": [
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ga jadi ",
+        "userDefined": false
+      },
+      {
+        "text": "beli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gimana nasib voucher toko saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d2945049-1c9f-42e3-a053-934fa84cb70c",
+    "data": [
+      {
+        "text": "voucher toko saya akan angus kalo ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gajadi beli?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d7b5c896-6cdc-4f24-921c-89a43a7df139",
+    "data": [
+      {
+        "text": "kalo ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gajadi beli voucher toko saya gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ea9b2035-af2e-49d7-ac40-2dfb7a69efaf",
+    "data": [
+      {
+        "text": "kalau pesanan dibatalkan apakah kode voucher akan kembali ke toko saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d4451143-ea8a-40db-b6e3-76607044c9df",
+    "data": [
+      {
+        "text": "saya tadid batal beli barang apakah voucher tokonya masih bisa saya pakai?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c49342e9-326d-482b-9b0d-8e881a4d891a",
+    "data": [
+      {
+        "text": "saya tadi nggak jadi pakai kupon gratis ongkir dari toko xxx, apakah voucher masih bisa digunakan lagi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0a2e8c92-b7d5-4cc1-87c3-794c0bf9bae3",
+    "data": [
+      {
+        "text": "gimana kalo batal belanja ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? voucher toko saya balik nggak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c5d58815-a0a1-4acf-81c8-0a0f8ec59b27",
+    "data": [
+      {
+        "text": "saya batal belanja di toko xxx, promo voucher toko nya masih bisa dipake nggak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d5ebde6c-dc73-4731-bcb9-dd9d12269955",
+    "data": [
+      {
+        "text": "Kalo ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " batal belanja, promo voucher toko saya gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

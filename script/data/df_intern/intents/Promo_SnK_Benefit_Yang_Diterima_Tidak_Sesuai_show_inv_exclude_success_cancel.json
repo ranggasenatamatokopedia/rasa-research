@@ -1,0 +1,106 @@
+{
+  "id": "14cc7f35-90f6-4b38-94e4-d5fed935efec",
+  "parentId": "a4955042-91a8-4259-9a83-b45fa8250622",
+  "rootParentId": "67024543-88fb-488f-907b-85ef94921089",
+  "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_inv_exclude_success_cancel",
+  "auto": false,
+  "contexts": [
+    "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_kupon_tokopoints_show_inv_digital_kai-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_inv_exclude_success_cancel-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai, Toped cek transaksi ini statusnya masih berjalan dan belum selesai. Untuk mendapatkan benefit dari kupon, transaksi harus selesai terlebih dulu ya"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526526874,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_barang_diganti"
+    },
+    {
+      "name": "invoice_pencarian_barang_pengganti"
+    },
+    {
+      "name": "invoice_checkout_state"
+    },
+    {
+      "name": "invoice_pending"
+    },
+    {
+      "name": "invoice_pending_unik"
+    },
+    {
+      "name": "invoice_cc_challenge"
+    },
+    {
+      "name": "invoice_belum_bayar"
+    },
+    {
+      "name": "invoice_pending_due"
+    },
+    {
+      "name": "invoice_payment_confirm"
+    },
+    {
+      "name": "invoice_payment_confirmed_unik"
+    },
+    {
+      "name": "invoice_pembayaran_diterima"
+    },
+    {
+      "name": "invoice_sedang_diproses_penjual"
+    },
+    {
+      "name": "invoice_sedang_dikirim"
+    },
+    {
+      "name": "invoice_kode_resi_pengiriman_tidak_valid"
+    },
+    {
+      "name": "invoice_order_berkendala_pengiriman"
+    },
+    {
+      "name": "invoice_pesanan_sampai"
+    },
+    {
+      "name": "invoice_pesanan_dikomplain"
+    },
+    {
+      "name": "invoice_pesanan_telah_diterima"
+    },
+    {
+      "name": "invoice_delivery_due"
+    },
+    {
+      "name": "invoice_delivered_due_limit"
+    },
+    {
+      "name": "invoice_order_rollback"
+    },
+    {
+      "name": "invoice_bad_order"
+    }
+  ]
+}

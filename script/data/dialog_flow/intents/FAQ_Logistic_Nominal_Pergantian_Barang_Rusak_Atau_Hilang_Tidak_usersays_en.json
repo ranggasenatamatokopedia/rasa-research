@@ -1,0 +1,47 @@
+[
+  {
+    "id": "c3f3c2fe-2fba-4c6b-a77a-a6f6ba8989b9",
+    "data": [
+      {
+        "text": "Tidak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e91bd8be-ae15-4089-84f9-4457943948d7",
+    "data": [
+      {
+        "text": "Ngga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "59d688fd-ab6a-4a3f-9c0d-5d80d872d10f",
+    "data": [
+      {
+        "text": "No",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f71d1d70-b75c-40c7-9a2e-94ee4a16e50d",
+    "data": [
+      {
+        "text": "Enggak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "id": "52ec60f4-3e96-4394-855f-4b7f7c4c5110",
+  "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Bisa kasih tahu Toped kode promo apa yang tidak bisa kamu gunakan?"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa ketik kode promonya di sini ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523601238,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "promo_tidak_bisa_menggunakan_kode_promo"
+    }
+  ]
+}

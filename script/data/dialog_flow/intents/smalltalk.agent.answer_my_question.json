@@ -1,0 +1,33 @@
+{
+  "id": "a357f7b6-3b9c-4341-9e27-d3d49465201e",
+  "name": "smalltalk.agent.answer_my_question",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.answer_my_question",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setiap kendala yang kamu alami, akan Toped bantu carikan solusi. Jangan ragu untuk bertanya, ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504183892866,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "smalltalk_agent_answer_my_question"
+    }
+  ]
+}

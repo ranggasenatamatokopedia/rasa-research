@@ -1,0 +1,39 @@
+{
+  "id": "c777d5de-dcf1-443b-8237-18010c3380ae",
+  "parentId": "1b2a10fd-c9e7-45d9-a140-6498f06807a1",
+  "rootParentId": "7f7a8cb1-cbe8-48a9-9930-7686b772cf99",
+  "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_waiting_transfer_scrooge_waiting_Ya_Sudah",
+  "auto": true,
+  "contexts": [
+    "Flight_Kendala_Pembelian_Tiket_Pesawat_get_invoice_waiting_transfer_scrooge_waiting-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_waiting_transfer_scrooge_waiting_Ya_Sudah-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Bantu Toped juga ya untuk lampirkan bukti pembayaran kamu dan Toped akan cek terlebih dulu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537961378,
+  "fallbackIntent": false,
+  "events": []
+}

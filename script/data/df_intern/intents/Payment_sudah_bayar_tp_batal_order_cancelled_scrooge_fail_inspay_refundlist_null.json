@@ -1,0 +1,54 @@
+{
+  "id": "c6ccb836-8167-4dd7-8417-4dd933948864",
+  "parentId": "1e72bfa4-9da8-4410-8dea-a1851c0fbdd3",
+  "rootParentId": "96f23e85-fae0-4896-8203-08e968aef1b9",
+  "name": "Payment_sudah_bayar_tp_batal_order_cancelled_scrooge_fail_inspay_refundlist_null",
+  "auto": true,
+  "contexts": [
+    "Payment_sudah_bayar_tp_batal_order_cancelled_scrooge_fail_inspay-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Payment_sudah_bayar_tp_batal_order_cancelled_scrooge_fail_inspay_refundlist_null-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kak, sebelumnya apakah sudah melakukan pembayaran?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Belum",
+              "Sudah"
+            ],
+            "type": 1
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531453921,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "refund_list_is_null"
+    }
+  ]
+}

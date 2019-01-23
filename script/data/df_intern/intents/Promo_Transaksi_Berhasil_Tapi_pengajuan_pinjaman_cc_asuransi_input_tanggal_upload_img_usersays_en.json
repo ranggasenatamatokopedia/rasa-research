@@ -1,0 +1,24 @@
+[
+  {
+    "id": "3eb05841-4288-4fc7-a4d7-8c6e77b37968",
+    "data": [
+      {
+        "text": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0
+  },
+  {
+    "id": "5442b17e-a6e3-4932-b194-7719edc5ad15",
+    "data": [
+      {
+        "text": "input_date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "b1691f39-eebf-4e7f-99fa-1c18aa26d49b",
+    "data": [
+      {
+        "text": "over SLA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e00303f8-6689-4bda-bc9c-1818c18026c8",
+    "data": [
+      {
+        "text": "sla_logistics_is_over",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "65685467-4512-4c4c-ba57-3c3124a11f80",
+    "data": [
+      {
+        "text": "over",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

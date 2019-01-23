@@ -1,0 +1,42 @@
+{
+  "id": "3602059c-865a-42b7-b6ed-c7cc28eff3d8",
+  "parentId": "c065d7ef-661d-48e8-92a0-0182c0a9ff53",
+  "rootParentId": "7f7a8cb1-cbe8-48a9-9930-7686b772cf99",
+  "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_scrooge_failed_tokocash_refund_on_progress",
+  "auto": false,
+  "contexts": [
+    "Flight_Kendala_Pembelian_Tiket_Pesawat_scrooge_failed_tokocash_refund_exist-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Saat ini, dana kamu sedang dalam proses pengembalian ke Saldo Tokopedia. Kamu dapat cek berkala selama 1x24 jam ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga informasi Toped membantu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539171085,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "refund_status_on_progress"
+    }
+  ]
+}

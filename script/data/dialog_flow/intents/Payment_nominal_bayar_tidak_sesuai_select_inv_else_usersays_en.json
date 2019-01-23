@@ -1,0 +1,40 @@
+[
+  {
+    "id": "45d56a06-93d6-4a0c-a27f-8975d7b6b233",
+    "data": [
+      {
+        "text": " invoice_pembayaran_diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f03a1cec-d21f-480a-ae63-cf19da658543",
+    "data": [
+      {
+        "text": " invoice_sedang_diproses_",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bfd85866-d1aa-44d9-8790-62e47596e742",
+    "data": [
+      {
+        "text": "invoice_menunggu_status_kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "id": "4fbdb3e5-0a3c-4e32-8dec-d0381c5214d9",
+  "parentId": "1f7aa928-9f19-48b8-8f1d-54015f9d49f3",
+  "rootParentId": "1f7aa928-9f19-48b8-8f1d-54015f9d49f3",
+  "name": "FAQ_Refund_Mengapa_Kode_Unik_Belum_Dikembalikan_Padahal_Transaksi_Selesai",
+  "auto": true,
+  "contexts": [
+    "FAQ_Refund_Apakah_Kode_Unik_Dikembalikan-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FAQ_Refund_Apakah_Kode_Unik_Dikembalikan.FAQ_Refund_Apakah_Kode_Unik_Dikembalikan-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu seharusnya sudah menerima kembali kode unik ke Saldo Tokopedia setelah transaksi dinyatakan selesai. Jika belum, jangan ragu untuk melaporkannya ke tim \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://tkp.me/contact-us\"\u003eCustomer Care\u003c/a\u003e Tokopedia."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520238543,
+  "fallbackIntent": false,
+  "events": []
+}

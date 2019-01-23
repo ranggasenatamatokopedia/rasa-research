@@ -1,0 +1,33 @@
+{
+  "id": "bc08fe8e-844c-4d32-8558-9562ceb68479",
+  "parentId": "b3271317-a51a-4d51-9f94-8a5a54865963",
+  "rootParentId": "b3271317-a51a-4d51-9f94-8a5a54865963",
+  "name": "FAQ_Logistic_Ubah_Kurir_Pengiriman_Pickup_ke_Reguler",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Ubah_Kurir_Pengiriman-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FAQ_Logistic_Ubah_Kurir_Pengiriman.FAQ_Logistic_Ubah_Kurir_Pengiriman-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Perubahan nomor resi dan kurir bisa dilakukan maksimal 2 kali pada halaman \"Status Pengiriman\" yang diakses melalui laptop/komputer ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528704061,
+  "fallbackIntent": false,
+  "events": []
+}

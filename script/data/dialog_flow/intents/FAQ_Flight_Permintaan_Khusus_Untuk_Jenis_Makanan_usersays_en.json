@@ -1,0 +1,167 @@
+[
+  {
+    "id": "5e42d56a-3856-4959-9fb5-a643aa231fd6",
+    "data": [
+      {
+        "text": "gimana caranya minta jenis makanan khusus saat berada di pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eeba90a9-3feb-441e-a2ce-85cc385b0efb",
+    "data": [
+      {
+        "text": "saya mau minta pesan makanan di pesawat bagaimana caranya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c5d5ddea-eadc-4a41-a7eb-b1b2273ba09f",
+    "data": [
+      {
+        "text": "saya mau mengajukan permintaan khusus utk makanan saat berada di pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fde4cade-7087-40ca-93c6-314741a79ac7",
+    "data": [
+      {
+        "text": "bagaimana caranya mengajukan permintaan makanan saat di pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d7927860-c176-42a8-9e1b-102c33307d81",
+    "data": [
+      {
+        "text": "bisakah meminta jenis makanan saat melakukan penerbangan internasional utk vegetarian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "55b54e76-1ab2-4648-b3cb-9ded6e717cb0",
+    "data": [
+      {
+        "text": "bisakah meminta jenis makanan saat melakukan penerbangan internasional utk vegan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c654a60c-dae3-4e04-88e1-9c8072a43c55",
+    "data": [
+      {
+        "text": "bisakah meminta jenis makanan saat melakukan penerbangan internasional utk muslim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7b7b726e-6b31-4240-8f52-3907dfdd0f93",
+    "data": [
+      {
+        "text": "bisakah meminta jenis makanan khusus utk anak saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1a53a6a5-b365-48b1-8eb8-64b02a3c04a4",
+    "data": [
+      {
+        "text": "saya ingin mengajukan permintaan jenis makanan saat penerbangan internasional",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bdb58178-6ae3-489b-b13c-32d023c6d1d2",
+    "data": [
+      {
+        "text": "bisakah utk mengajukan permintaan jenis makanan disini utk penerbangan internasional?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0b4b4f68-f4d8-433c-a2b7-88ff2ed8638d",
+    "data": [
+      {
+        "text": "bisakah utk mengajukan permintaan jenis makanan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "08b2ba14-d9a2-450b-8059-6d254409b7e1",
+    "data": [
+      {
+        "text": "saya ingin mengajukan permintaan jenis makanan, bagaimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d72c8825-9f29-402d-9c42-735fb4c34116",
+    "data": [
+      {
+        "text": "saya ingin melakukan permintaan khusus terkait makanan, apakah bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8c1861f8-8eda-4bd5-bcd1-e911deaac8dd",
+    "data": [
+      {
+        "text": "Apakah bisa mengajukan permintaan khusus untuk jenis makanan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "03852f40-f695-44b8-afeb-6e8a204548e1",
+    "data": [
+      {
+        "text": "Apakah saya bisa meengajukan permintaan khusus untuk jenis makanan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

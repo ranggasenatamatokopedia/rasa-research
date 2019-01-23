@@ -1,0 +1,31 @@
+{
+  "id": "0be0e7c9-dd43-401b-b080-ba4f6726e903",
+  "name": "FAQ_PROMO_Kapan_Cashback_akan_diterima",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Cashback akan kamu terima dan masuk ke OVO Point maksimal 1x24 jam setelah transaksi dinyatakan selesai (finished)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_promo_kapan_cashback_akan_diterima"
+    }
+  ]
+}

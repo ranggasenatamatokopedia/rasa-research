@@ -1,0 +1,35 @@
+[
+  {
+    "id": "6af20dce-6450-46f4-9aaa-33a9a8bdbdad",
+    "data": [
+      {
+        "text": "in sla",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "944746f3-13f6-4268-8c2b-1ae1dc542f20",
+    "data": [
+      {
+        "text": "sla_logistics_is_not_over_yet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "10eb843d-7781-4bb2-aa5e-e41c11c76b2a",
+    "data": [
+      {
+        "text": "in",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

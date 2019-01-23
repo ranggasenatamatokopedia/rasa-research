@@ -1,0 +1,53 @@
+{
+  "id": "31a2b1bf-1c7d-4d90-80cf-ca42694ee293",
+  "parentId": "aac417e2-8c40-4d6b-9722-eabb674696a3",
+  "rootParentId": "3702cbdf-e0ed-4db6-ae17-f7e78b7ba6f0",
+  "name": "TOKOPOINT_Tidak_dapat_menukar_Points_menjadi_Kupon_notifikasi_harus_verifikasi_akun",
+  "auto": true,
+  "contexts": [
+    "TOKOPOINT_Tidak_dapat_menukar_Points_menjadi_Kupon_add_email-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Tidak_dapat_menukar_Points_menjadi_Kupon_notifikasi_harus_verifikasi_akun-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa pastikan kalau akun yang digunakan sudah terverifikasi dengan melihat tanda \"Verified Account\" di bagian bawah nama akun ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pastikan juga kalau kamu sudah melengkapi data berikut di halaman profil akun ya: \n\n1. Nomor HP sudah terverifikasi\n2. Tanggal lahir sudah terisi\n3. Gender sudah terisi"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau data sudah lengkap tetapi promo masih tidak bisa digunakan, mohon lampirkan screenshot notifikasi error yang kamu terima ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523431220,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "notifikasi_harus_verif_akun"
+    }
+  ]
+}

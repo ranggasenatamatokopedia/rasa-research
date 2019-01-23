@@ -1,0 +1,38 @@
+{
+  "id": "ec66b0ed-40b8-4f36-968a-d9209f97ec18",
+  "name": "FAQ_Order_Tidak_Bisa_Input_Resi_Sebagai_Dropshipper",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Tidak_Bisa_Input_Resi_Dropshipper-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sesuai Syarat dan Ketentuan Tokopedia terbaru, transaksi dengan sistem Internal Dropshipper sudah tidak diperbolehkan. Jadi, satu nomor resi hanya bisa diinput sebanyak satu kali oleh satu penjual di Tokopedia."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu tetap bisa melakukan transaksi sebagai eksternal dropshipper Tokopedia dimana setelah membeli produk dari penjual di Tokopedia, kamu bisa menjual kembali produk tersebut ke pembeli yang berada diluar Tokopedia."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

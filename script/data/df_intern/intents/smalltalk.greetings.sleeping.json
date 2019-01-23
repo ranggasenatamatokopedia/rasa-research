@@ -1,0 +1,36 @@
+{
+  "id": "fbeafccf-4e45-4665-b131-7c970d000381",
+  "name": "smalltalk.greetings.sleeping",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": [
+            "Sudah waktunya beristirahat nih, selamat beristirahat ya :)",
+            "Ayo istirahat. Selamat tidur :)"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504183892305,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "smalltalk_greetings_sleeping"
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+[
+  {
+    "id": "7f03fc50-96da-4988-a786-80ffed6ab913",
+    "data": [
+      {
+        "text": "Bagaimana proses pengajuan permintaan kursi roda?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2fdba64d-cf79-47fa-8021-6220df75d909",
+    "data": [
+      {
+        "text": "saya mengajukan permintaan kursi roda utk penerbangan internasional, bagaimana cara melakukan pengajuannya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fd45d364-99de-4984-b578-a94fb6e77c19",
+    "data": [
+      {
+        "text": "saya mau mengajukan permintaan kursi roda saat penerbangan internasional",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "26fbdcf3-0dd5-4b44-ab4d-bfb7f3a9bf5a",
+    "data": [
+      {
+        "text": "kemana saya bs mengajukan permintaan kursi roda utk penerbangan internasional",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "adc901cb-fde0-4285-b7ed-f3da20b71f11",
+    "data": [
+      {
+        "text": "saya mau mengajukan permintaan kursi roda utk melakukan penerbangan internasional",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "55fb8247-3ed3-497b-8553-35cf04cc5649",
+    "data": [
+      {
+        "text": "gimana caranya mnta kursi roda utk penerbangan saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0b06cfe1-7bfe-4dce-a936-b1b2991f0018",
+    "data": [
+      {
+        "text": "saya mau minta kursi roda ketika nanti saat penerbangan intl",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "695fe796-9299-4173-a2e3-00f2ec627958",
+    "data": [
+      {
+        "text": "bagaimana kita mengajukan kursi roda saat mau melakukan penerbangan internasional?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "746e3aef-1dea-4927-ae63-cf2ebd4c7a5c",
+    "data": [
+      {
+        "text": "ingin mengajukan permintaan kursi roda saat  melakukan penerbangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a7b55686-be09-4b6a-bb66-908dc88ee995",
+    "data": [
+      {
+        "text": "permintaan kursi roda utk flight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eb4e9808-41a8-49b0-aea0-4956194ea354",
+    "data": [
+      {
+        "text": "permintaan kursi roda utk penerbangan internasional",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eb11abef-1c24-4701-af56-584cb6b372da",
+    "data": [
+      {
+        "text": "apakah saya bisa mengajukan baby box saat melakukan perjalanan penerbangan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f0059e27-b707-476f-ac24-fdbeff9adb2b",
+    "data": [
+      {
+        "text": "saya mau request baby box saat perjalanan penerbangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "912f80a8-f68e-4594-8e6f-5e7b46690d8a",
+    "data": [
+      {
+        "text": "request baby box utk perjalanan penerbangan bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bfc1e35a-e2f2-42cb-b7b0-902dfb8ba2be",
+    "data": [
+      {
+        "text": "saya mau mengajukan permintaan baby box utk bayi saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "75ca8e0b-c7b1-4f11-8e5a-de35be58ff8f",
+    "data": [
+      {
+        "text": "Apakah saya bisa mengajukan permintaan untuk baby box untuk bayi dibawah ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " th?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a0922543-38c7-40a3-b0f4-e7e33ed29058",
+    "data": [
+      {
+        "text": "Saya membawa bayi dibawah 1 tahun, apakah saya bisa mengajukan permintaan untuk baby bassinet/ baby box ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

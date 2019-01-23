@@ -1,0 +1,50 @@
+{
+  "id": "4ce70006-a1d8-41d3-b914-9373514686fa",
+  "parentId": "3b676d32-13fe-4e9b-a60d-e57aa178c822",
+  "rootParentId": "c230094b-7dd5-43f4-984b-d415098c4e53",
+  "name": "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_nomor_PBB_JKT_DPK_sudah_keluar_tagihan",
+  "auto": true,
+  "contexts": [
+    "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_nomor_PBB_JKT_DPK-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_nomor_PBB_JKT_DPK_sudah_keluar_tagihan-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika sudah, apakah tagihan kamu sudah diambil dari kantor pajak?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 1,
+            "quick_replies": [
+              "Ya, Sudah",
+              "Belum"
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535962830,
+  "fallbackIntent": false,
+  "events": []
+}

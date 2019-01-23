@@ -1,0 +1,160 @@
+[
+  {
+    "value": "March",
+    "synonyms": [
+      "03",
+      "Maret",
+      "March",
+      "Mar",
+      "mar",
+      "maret",
+      "march"
+    ]
+  },
+  {
+    "value": "September",
+    "synonyms": [
+      "09",
+      "Sept",
+      "September",
+      "Sep",
+      "sept",
+      "sep",
+      "september"
+    ]
+  },
+  {
+    "value": "December",
+    "synonyms": [
+      "12",
+      "Des",
+      "Dec",
+      "Desember",
+      "December",
+      "des",
+      "dec",
+      "desember",
+      "december",
+      "Decs",
+      "decs"
+    ]
+  },
+  {
+    "value": "February",
+    "synonyms": [
+      "02",
+      "February",
+      "Febuari",
+      "Februari",
+      "Feb",
+      "februari",
+      "febuari",
+      "feb",
+      "february",
+      "Pebuari",
+      "Pebruari",
+      "pebuari",
+      "Pebruari"
+    ]
+  },
+  {
+    "value": "May",
+    "synonyms": [
+      "05",
+      "Mei",
+      "May",
+      "mei",
+      "may",
+      "Mai",
+      "mai"
+    ]
+  },
+  {
+    "value": "Augustus",
+    "synonyms": [
+      "08",
+      "Aug",
+      "Agust",
+      "August",
+      "Agustus",
+      "aug",
+      "agust",
+      "august",
+      "agustus"
+    ]
+  },
+  {
+    "value": "November",
+    "synonyms": [
+      "11",
+      "Nov",
+      "Nop",
+      "November",
+      "Nopember",
+      "nov",
+      "nop",
+      "november",
+      "nopember"
+    ]
+  },
+  {
+    "value": "June",
+    "synonyms": [
+      "06",
+      "Jun",
+      "June",
+      "Juni",
+      "jun",
+      "june",
+      "juni"
+    ]
+  },
+  {
+    "value": "July",
+    "synonyms": [
+      "07",
+      "Jul",
+      "July",
+      "Juli",
+      "jul",
+      "juli",
+      "july"
+    ]
+  },
+  {
+    "value": "April",
+    "synonyms": [
+      "04",
+      "April",
+      "Apr",
+      "apr",
+      "april"
+    ]
+  },
+  {
+    "value": "January",
+    "synonyms": [
+      "01",
+      "January",
+      "Januari",
+      "Jan",
+      "january",
+      "januari",
+      "jan"
+    ]
+  },
+  {
+    "value": "October",
+    "synonyms": [
+      "10",
+      "Oct",
+      "October",
+      "Oktober",
+      "Okt",
+      "oct",
+      "october",
+      "oktober",
+      "okt"
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "id": "e9491a5c-3089-4bca-abe9-8102e949434e",
+  "name": "FAQ_Flight_Cara_Mengirimkan_Ulang_E_Ticket_Pesawat",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flight_Cara_Mengirimkan_Ulang_E_Ticket_Pesawat-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai, Kak. Tiket pesawat bisa dikirim ulang dengan cara berikut:\n1. Masuk ke akun Tokopedia, lalu pilih \"Tiket Pesawat\"\n2. Pilih \"Daftar Transaksi\", dan klik \"Kirim E-Ticket\"\n3. Masukkan alamat email yang dituju, selanjutnya klik \"Kirim\"\n\nSetelah itu, kamu bisa cek email kamu ya, Kak."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga informasi Toped membantu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_flight_cara_mengirimkan_ulang_e_ticket_pesawat"
+    }
+  ]
+}

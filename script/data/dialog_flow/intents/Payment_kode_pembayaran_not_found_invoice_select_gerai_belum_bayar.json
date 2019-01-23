@@ -1,0 +1,39 @@
+{
+  "id": "670be129-0626-488c-89ef-1e677237a539",
+  "parentId": "d93042eb-7ba0-4f9b-8adc-a220a9c1c39a",
+  "rootParentId": "78a8a659-1f88-470b-8cae-9de1dbc1f058",
+  "name": "Payment_kode_pembayaran_not_found_invoice_select_gerai_belum_bayar",
+  "auto": false,
+  "contexts": [
+    "Payment_kode_pembayaran_not_found_invoice_select_gerai_wtp_show_code-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Payment_kode_pembayaran_not_found_invoice_select_gerai_belum_bayar-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Baik, kalau belum dibayar dengan metode lain, kamu bisa melakukan pembayaran dengan kode yang Toped berikan diatas ya"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531637539,
+  "fallbackIntent": false,
+  "events": []
+}

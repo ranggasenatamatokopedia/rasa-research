@@ -1,0 +1,38 @@
+{
+  "id": "65db5141-aa7d-4d0d-8fb2-a2f4dd02720d",
+  "name": "FAQ_Mitra_Tokopedia_Cara_Daftar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Mitra_Tokopedia_Cara_Daftar-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped infokan cara pendaftaran Mitra Tokopedia ya. Kamu bisa ikuti langkah berikut:\n1. Download aplikasi Mitra Tokopedia melalui Play Store\n2. Masuk ke aplikasi Mitra Tokopedia, kemudian klik \"Lanjut\"\n3. Klik tombol \"Masuk\" pada bagian atas halaman utama \n4. Masukkan nomor handphone yang aktif, lalu klik \"Masuk\"\n5. Masukkan kode verifikasi yang kamu terima melalui SMS\n6. Masukkan nama lengkap, foto kamu, dan foto kamu dengan memegang KTP, lalu klik \"Lanjutkan\"\n7. Jika sudah, kamu tinggal menunggu proses verifikasinya maksimal 2x24 jam di hari kerja, ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga informasi dari Toped membantu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "fb2637e0-ed5d-4f72-a167-04808ab5f5bd",
+  "name": "FAQ_Logistic_Kurir_Pickup_yang_Tersedia_di_Tokopedia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Saat ini, Tokopedia bekerja sama dengan sejumlah kurir pickup, yaitu Go-Send, Grab, Ninja Xpress, dan REX-10."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_logistic_kurir_pickup_yang_tersedia_di_tokopedia"
+    }
+  ]
+}

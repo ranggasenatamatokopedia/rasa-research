@@ -1,0 +1,52 @@
+{
+  "id": "8b95b794-6b22-460b-bd87-013e1b6ad9c4",
+  "parentId": "a7145962-241b-4fdf-ab5e-0d8b149c9f76",
+  "rootParentId": "b375e190-8e6c-475d-ac8e-0e3e3ac5900d",
+  "name": "Logistic_Tidak_Bisa_Klik_Pick_Up_Invoice_List_On_Demand_Process_Gosend",
+  "auto": true,
+  "contexts": [
+    "Logistic_Tidak_Bisa_Klik_Pick_Up_Invoice_List_On_Demand_Process-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckBuyerNumberValidation",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Tidak_Bisa_Klik_Pick_Up_Invoice_List_On_Demand_Process_Gosend-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538722990,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "courier_go-send"
+    },
+    {
+      "name": "courier_gosend"
+    },
+    {
+      "name": "courier_gojek"
+    },
+    {
+      "name": "courier_go-jek"
+    }
+  ]
+}

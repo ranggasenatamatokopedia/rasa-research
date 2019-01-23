@@ -1,0 +1,43 @@
+{
+  "id": "a5f9809a-5ea2-46af-aacb-91d031e55902",
+  "parentId": "1083144f-bd73-4a84-b2ef-459cf018d44b",
+  "rootParentId": "844540fa-3db4-42cc-a62e-c3d9bc90793a",
+  "name": "Resolution_Kendala_Fitur_Resolusi_Tombol_Bantuan_Tdk_Muncul_Inv_Instant_Not_Clicked_Reset_Success",
+  "auto": true,
+  "contexts": [
+    "Resolution_Kendala_Fitur_Resolusi_Tombol_Bantuan_Tdk_Muncul_Inv_Instant_Not_Clicked-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Resolution_Kendala_Fitur_Resolusi_Tombol_Bantuan_Tdk_Muncul_Inv_Instant_Not_Clicked_Reset_Success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Saat ini tombol \"Minta Bantuan\"nya sudah Toped bantu klik. Pantau diskusi pada Pusat Resolusi untuk informasi lebih lanjut ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536726677,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "reset_success"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "f8540ad0-26b3-456d-b87c-d005e5d5747d",
+  "parentId": "722bae71-72fd-4072-9a48-bb6965668746",
+  "rootParentId": "5e652467-1f9f-4b2b-a3db-89af64cabeef",
+  "name": "FAQ_Logistic_Berapa_Lama_Waktu_Pengantaran_Kurir_Pickup_Grab_Sameday",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Berapa_Lama_Waktu_Pengantaran_Kurir_Pickup_Grab-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ece76349-512b-40d8-b537-189932389d8c",
+          "dataType": "@layanan_kurir_pick_up",
+          "name": "layanan_kurir_pick_up",
+          "value": "$layanan_kurir_pick_up",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk Same Day, estimasi waktu pengantaran oleh kurir adalah 6 jam setelah Penjual melakukan permintaan pick-up."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528335477,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "sameday"
+    }
+  ]
+}

@@ -1,0 +1,618 @@
+[
+  {
+    "id": "3641f96e-6237-4f70-b422-fa8a5e8754e3",
+    "data": [
+      {
+        "text": "complain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "00e2e855-371a-4326-b57c-8883b3a89c5c",
+    "data": [
+      {
+        "text": "help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "01e82aad-af96-4fa0-be9d-1405f2beae8c",
+    "data": [
+      {
+        "text": "Maaf mau tanya...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "78e03a13-5e4a-437a-a5d2-64b465f24cd7",
+    "data": [
+      {
+        "text": "bantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a02fdd69-e64c-49f1-b8cc-dd08f269ad00",
+    "data": [
+      {
+        "text": "maaf saya ingin bertanya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fc0988f5-6894-4931-b724-9e1f807692da",
+    "data": [
+      {
+        "text": "halo masalah saya belum ditangani nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3f0f9a5b-6418-4dbe-9c79-ddbf93b8d160",
+    "data": [
+      {
+        "text": "saya ingin tanya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e1151fac-47fc-4c27-9d25-d9ed5d9e209a",
+    "data": [
+      {
+        "text": "complen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a71a8d68-e8af-4113-af7d-5399c28036f0",
+    "data": [
+      {
+        "text": "tolong3x",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6b546236-aafe-41dd-bc8d-da63329e0258",
+    "data": [
+      {
+        "text": "maaf mau tanya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6f048d1e-64a5-4d61-8873-77578e0a1482",
+    "data": [
+      {
+        "text": "pagi..mau nanya nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0e460030-9dfe-4e84-aea6-61f859b1dc78",
+    "data": [
+      {
+        "text": "bantuin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "71ed194a-8d87-450a-ae89-090941efa034",
+    "data": [
+      {
+        "text": "apa bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8530d1b5-6216-473a-a09b-7421839e394c",
+    "data": [
+      {
+        "text": "apakah pihak toped bisa fasilitasi masalah ini ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2af1cece-b324-4040-8bd5-9f7ab0a1d20a",
+    "data": [
+      {
+        "text": "bz tlg check sm toped ",
+        "userDefined": false
+      },
+      {
+        "text": "ga?",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "12a81a04-32e3-4ed2-af3f-3ede2b659335",
+    "data": [
+      {
+        "text": "tolong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "874e31d9-39ae-4318-9a7a-87cf147fd205",
+    "data": [
+      {
+        "text": "tolong saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "641fbe55-e36d-4a74-bc97-96054a977022",
+    "data": [
+      {
+        "text": "tlg cek dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b83e12e6-73ab-45ae-adf6-e81947b9c933",
+    "data": [
+      {
+        "text": "tolong dong dibantu yg bener",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ca5759df-1e4d-43d3-8d4b-06a949f9909d",
+    "data": [
+      {
+        "text": "tolng dibantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ab3d6b2e-1792-4fdc-8ce1-31e18851767b",
+    "data": [
+      {
+        "text": "help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "62014c6c-b9ee-4f8c-9800-3bcccb6211c0",
+    "data": [
+      {
+        "text": "komplen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e062c7fb-d090-43f3-bb32-109b8e337ee8",
+    "data": [
+      {
+        "text": "tolong dibantu solusi nya sebab selama ini transaksi di tokopedia tidak pernah kecewa seperti ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "92f716dc-44a2-418f-88c1-769621e9b822",
+    "data": [
+      {
+        "text": "bantuin dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a3054ac9-1a59-4b7a-83a1-c2a52f3c72db",
+    "data": [
+      {
+        "text": "mohon bantuanya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b3e229f6-3599-4cbd-b5fb-14061452d984",
+    "data": [
+      {
+        "text": "sy mau komplain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "94a3ee73-b172-4a3f-b4b3-a4639973695b",
+    "data": [
+      {
+        "text": "bisa dibantu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "18d67f47-bcfd-44e9-848a-25ecfc2967ad",
+    "data": [
+      {
+        "text": "komplain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "feb7887c-d277-41d0-87e7-1bc7be623ebe",
+    "data": [
+      {
+        "text": "who can help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9210ac38-2412-4bf4-a42b-3318493cf270",
+    "data": [
+      {
+        "text": "saya mohon bantuannya dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2d030a84-11e7-4447-8a78-1d3bf300ff64",
+    "data": [
+      {
+        "text": "complaint",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "60f13a35-ec61-47b4-9a8b-9ed3d80f55e1",
+    "data": [
+      {
+        "text": "mau konfirmasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f0792c93-58f1-4035-82df-3af63eede78a",
+    "data": [
+      {
+        "text": "kamu bisa apa aja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7fb4f7cb-ee50-4201-add9-9c6f8c5c999a",
+    "data": [
+      {
+        "text": "komplaen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0982a533-327e-4979-bfd8-bb981edfc64e",
+    "data": [
+      {
+        "text": "mohon di proses komplain saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9b2bd753-7bd4-4ffd-b425-26aef0915a1d",
+    "data": [
+      {
+        "text": "bantu saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "775c91a1-a248-4aad-82de-fb39e78ed4d3",
+    "data": [
+      {
+        "text": "tolongin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f8d55d5b-2b24-40ea-a4e8-48ce17a68a59",
+    "data": [
+      {
+        "text": "i need help n not your malu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a1d303d4-693e-4d19-bded-b0c3ff59e35f",
+    "data": [
+      {
+        "text": "minta tolong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3ac02af5-3895-4e54-84ac-fa4fc08e7c2c",
+    "data": [
+      {
+        "text": "saya mau komplain masalah pembelian saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "adae7ebb-ae5c-41c7-a523-861227cec723",
+    "data": [
+      {
+        "text": "bantuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fac2267f-f24c-4fa3-a87b-b9c37de1e612",
+    "data": [
+      {
+        "text": "minta bantuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "83bfade6-5ea6-49a5-9afa-0923e968bfe8",
+    "data": [
+      {
+        "text": "saya ada kendala masalah transaksi ini mohon di bantu ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "96a07889-13b6-4381-ae60-1e698f09a3e7",
+    "data": [
+      {
+        "text": "mohon di bantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4a3c1669-d5de-46c2-8d3d-42f494fa985b",
+    "data": [
+      {
+        "text": "saya mau tanya yg lain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9da18a6e-f643-4656-8599-0fcdc8a26070",
+    "data": [
+      {
+        "text": "komplain. order saya bermasalah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fcd8a503-25b3-44cf-9c04-588150b4b6da",
+    "data": [
+      {
+        "text": "tolong bantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "39e646df-6758-4105-a13f-b3776c6dc1e1",
+    "data": [
+      {
+        "text": "apa aja yang kamu bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8264f991-b9fe-4ab8-9ba1-ff0d3ded73b5",
+    "data": [
+      {
+        "text": "komplain dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d46a0127-7721-41f1-83ff-5f5e2026512f",
+    "data": [
+      {
+        "text": "selamat siang Tokopedia mohon bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dd36cf40-8e90-49c0-a572-4899b98dc9ab",
+    "data": [
+      {
+        "text": "saya mau complaint",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0ec9509c-9bb6-4ae3-bf3a-e73566adb0d8",
+    "data": [
+      {
+        "text": "Saya ingin mengajukan complain, bahkan harus di tindak lanjuti nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6e867af4-0b36-4c91-93f6-e7c9846ecdcd",
+    "data": [
+      {
+        "text": "mohon bantuan nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "555a9f2b-0db7-4e3d-9245-cc814d6111da",
+    "data": [
+      {
+        "text": "minta tokopedia sebagai penengah dari masalah yang saya hadapi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a1c81052-e8a6-418f-b5a1-547331f6362f",
+    "data": [
+      {
+        "text": "halo . bisa tanya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

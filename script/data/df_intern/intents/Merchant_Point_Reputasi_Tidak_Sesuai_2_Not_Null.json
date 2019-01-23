@@ -1,0 +1,64 @@
+{
+  "id": "b05a9a69-de9f-4a57-a434-b5c557e9473a",
+  "parentId": "c4edb03a-3b29-44c9-a636-19a5da57d4d4",
+  "rootParentId": "cf17fcc0-2998-4ff8-8cf4-6a1ca0e60443",
+  "name": "Merchant_Point_Reputasi_Tidak_Sesuai_2_Not_Null",
+  "auto": true,
+  "contexts": [
+    "Merchant_Point_Reputasi_Tidak_Sesuai_2-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Point_Reputasi_Tidak_Sesuai_2_Not_Null-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut ini detail pengurangan point reputasi pada toko kamu:"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "#is_not_null.payload"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Apakah ada ketidaksesuaian atas pemberian penalty tersebut?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 1,
+            "quick_replies": [
+              "Sesuai",
+              "Tidak sesuai"
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536563876,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "is_not_null"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "105c97bc-f39c-4dad-a897-5dbe58711b14",
+  "name": "FAQ_Wallet_Saldo_Tokopedia_Topup",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_wallet_saldo_tokopedia_topup"
+    }
+  ]
+}

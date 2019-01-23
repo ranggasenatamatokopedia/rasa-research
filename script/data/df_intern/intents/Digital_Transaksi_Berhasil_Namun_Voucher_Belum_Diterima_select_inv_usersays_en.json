@@ -1,0 +1,79 @@
+[
+  {
+    "id": "965cc086-5e05-4aef-927e-295e8001bfd0",
+    "data": [
+      {
+        "text": "5",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "de462757-3358-4501-968f-82792dc056e3",
+    "data": [
+      {
+        "text": "select_invoice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "83dfb08a-e532-464e-817a-961a26f457f6",
+    "data": [
+      {
+        "text": "3",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ee34d6c0-ac8f-45e6-84ec-a779f64ceb13",
+    "data": [
+      {
+        "text": "4",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "64bbc0c9-834c-4798-b1db-b58b8d8d7d28",
+    "data": [
+      {
+        "text": "1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c7050c23-2c23-48de-9d9e-788fbca7b263",
+    "data": [
+      {
+        "text": "6",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4b3e3e92-6cc6-4cfb-bae4-b7bb586d6f3c",
+    "data": [
+      {
+        "text": "2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "id": "8e1bd543-2483-41bd-87fc-6c62bbe90064",
+  "name": "FAQ_Order_Masih_Menerima_Notifikasi_Padahal_Sudah_Berhenti_Menjadi_Admin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu akan tetap menerima notifikasi dari komplain yang masuk ke Pusat Resolusi saat kamu menjadi admin sampai kendala tersebut selesai."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Saat komplain dianggap selesai, kamu akan berhenti menerima notifikasi."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_order_masih_menerima_notifikasi_padahal_sudah_berhenti_menjadi_admin"
+    }
+  ]
+}

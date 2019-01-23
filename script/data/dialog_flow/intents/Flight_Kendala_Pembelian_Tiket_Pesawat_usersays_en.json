@@ -1,0 +1,1786 @@
+[
+  {
+    "id": "a3fe085c-d02b-41aa-abe9-cc22155dc1b9",
+    "data": [
+      {
+        "text": "PIS-UC6LV-I66H",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " utk pemesanan tiket, tagihannya ",
+        "userDefined": false
+      },
+      {
+        "text": "2x",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Pdhl yg prtama dikata error. Trs sy ulangi transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9d8f4019-b0af-409b-890d-40c7e50c069e",
+    "data": [
+      {
+        "text": "dana cash saya tidak terpotong sehingga saya tidak bisa meneruskan pembayaran tiket pesawat saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "112cbbae-90c3-4610-b465-82e878b56fbd",
+    "data": [
+      {
+        "text": "kenapa pembayaran tiket pesawat saya belum di verifikasi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f12bb2a2-2893-4c69-936a-a68f427957d0",
+    "data": [
+      {
+        "text": "Ini kenapa transaksi tiket penerbangan saya masih menunggu konfirmasi terus ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "145096ca-d04d-4a09-a8cf-7d58d084570d",
+    "data": [
+      {
+        "text": "Sy 2x beli tiket pesawat batal, pembayaran pertama menggunakan kartu kredit, kedua m-bca. \n Uang kembali nya brp lama?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bc5afee5-fab5-44fd-9167-82132e462f8b",
+    "data": [
+      {
+        "text": "pembelian tiket pesawat saya belum diverifikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bb905274-9208-497d-a7ee-8f7f504f3dce",
+    "data": [
+      {
+        "text": "saya sudah bayar utk pesanan tiket pesawat, namun sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum diverif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c0106b3d-653e-478f-9379-b6b770ef4add",
+    "data": [
+      {
+        "text": "Saya sudah melakukn pembayaran tiket pesawat di ",
+        "userDefined": false
+      },
+      {
+        "text": "alfamart",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " atas nama pemesan Viani Octa. mohon perkembangan informasinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f5401446-3452-4e2d-b71f-d5377996622f",
+    "data": [
+      {
+        "text": "saya memesan tiket bengkulu jakarta ",
+        "userDefined": false
+      },
+      {
+        "text": "tanggal 30agustus 2018 jam 18.20",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", dan sudah mengirimkan uang sebesar ",
+        "userDefined": false
+      },
+      {
+        "text": "552.147",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". namun tiket tidak keluar. bagaimana dengan tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "862869d7-9ef8-416b-8f87-bd12187d1018",
+    "data": [
+      {
+        "text": "belum diverifikasi pembelian tiket pesawat saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ad256a42-1fad-43b2-abed-d6566bdc429d",
+    "data": [
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " status pesanan tiket pesawat saya msih menunggu, mohon informasinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "82536e6e-dbe5-4501-9f9a-12d1e5805102",
+    "data": [
+      {
+        "text": "mohon cek transaksi peswat PDE-BEE9J-EZF5.. atas nama arif suryanto putro garuda jakarta-surabaya jam 20.10.. transaksi gagal tp saldo direkening saya terpotong..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "65197457-55c3-48e3-8446-7384a340b474",
+    "data": [
+      {
+        "text": "pembayaran tiket pesawat saya telah gagal tapi dana ",
+        "userDefined": false
+      },
+      {
+        "text": "toko cash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " terpotong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6ff7703d-79af-4e21-8aa2-2f260e05e443",
+    "data": [
+      {
+        "text": "saya sudah melakukan pembayaran tiket pesawat tapi belum diinfokan sudah berhasil atau tidak dan e-ticket blm dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "930d1647-0861-479e-906d-fafe26528f98",
+    "data": [
+      {
+        "text": "pembayaran tiket pesawat saya belum tau status perkembangannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "01c46fd2-6865-462c-a8e6-368db31a4cf0",
+    "data": [
+      {
+        "text": "tiket pesawat belum diverifikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "640006a7-858d-4bd5-9ca9-f33b17c5ee94",
+    "data": [
+      {
+        "text": "Transaksi tiket pesawat saya hilang padahal sudah bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4e630632-4911-45a9-b28c-9615a8c8145c",
+    "data": [
+      {
+        "text": "pembelian tiket pesawat sudah saya transfer  pakai virtual account, tapi pembayaran saya belum terverifikasi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5691317b-a3a5-447c-a396-36340cf11d53",
+    "data": [
+      {
+        "text": "Saya sudah melakukan ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pemesanan tiket pesawat, tapi kenapa malah hilang di daftar transaksi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c1062a81-dbde-437a-889a-95d43742ee8e",
+    "data": [
+      {
+        "text": "sore",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya ",
+        "userDefined": false
+      },
+      {
+        "text": "hari ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " melakukan transaksi pembelian tiket pesawat.transaksi pembayaran sdh berhasil dan ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sdh terpotong tp kenapa di menu detail transaksi saya tiketnya belum jadi ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d8a2380a-78cd-4969-bdfd-bc97c9bc9703",
+    "data": [
+      {
+        "text": "saya bayar tiket pesawat gagal tapi sukses pembayaran di ",
+        "userDefined": false
+      },
+      {
+        "text": "alfamart",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan ",
+        "userDefined": false
+      },
+      {
+        "text": "tokocash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " terpotong ",
+        "userDefined": false
+      },
+      {
+        "text": "125K",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c4af418a-e5cb-4108-a699-624cb6adf6f1",
+    "data": [
+      {
+        "text": "saya sudah melakukan pembayaran utk tiket pesawat saya tp belum terverifikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7aa84edd-feed-4718-93d0-e171e9eb6680",
+    "data": [
+      {
+        "text": "kenapa transaksi tiket pesawat saya blm di verifikasi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9c2a7a3c-50e2-4fd8-916e-86645aff9ba4",
+    "data": [
+      {
+        "text": "saya sudah bayar untuk Tiket Penerbangan, Invoice ",
+        "userDefined": false
+      },
+      {
+        "text": "ID",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "PDV-ZSOAG-X5IC",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Jakarta- Banjarmasin. Namun daftar transaksi hilang dari akun saya. Mohon bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "92a7bbfb-7eb2-40ef-8453-e13e319e9ad0",
+    "data": [
+      {
+        "text": "Pembelian tiket pesawat dengan Invoice ",
+        "userDefined": false
+      },
+      {
+        "text": "ID",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "PDM-2BEA4",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "-F2EK",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sudah dibayar, tp hilang dr list pembelian di daftar transaksi pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cd86d153-7bd2-4b3d-be7b-801d595c0ba9",
+    "data": [
+      {
+        "text": "transaksi tiket penerbangan gagal namun dana terpotong dan belum kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "25d31d3e-84c2-4b21-9b1b-6ec890cac5db",
+    "data": [
+      {
+        "text": "Pembelian tiket pesawat, Pembayaran berhasil, namun status masih menunggu pembayaran.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "70576fb0-78c4-40b9-8a44-5c45cce4cd7d",
+    "data": [
+      {
+        "text": "Tolong dubantu segera di verifikasi pembayaran tiket pesawat saya krna waktu pembayaran nya pendek ditakutkan di batalkan oleh pihak maskapai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a833376b-5698-489d-85cf-38d1c06418be",
+    "data": [
+      {
+        "text": "tiket penerbangan saya blm diverifikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5839bc4c-4ba5-434c-b201-b065c7491383",
+    "data": [
+      {
+        "text": "Saya sudah melakukan pembayaran untuk pemesanan tiket pesawat,,namun gagal dan dana telah terpotong.\n kapan dana saya dikembalikan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3ad393e3-50d9-40e3-9fc6-97fd45740a13",
+    "data": [
+      {
+        "text": "Saya sudah bayar tiket pesawat sesuai nominal yang tertera. Tapi sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kok blum di verifikasi ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f4c39f67-294f-4f67-b11c-e5fa5a735a9a",
+    "data": [
+      {
+        "text": "Kartu debit sdh terpotong,tp blm ada konfirmasi status pemesanan tiket pesawat saya berhasil utk pemesanan tiket Batik Air ke Yogya pada tgl ",
+        "userDefined": false
+      },
+      {
+        "text": "7 September 2018",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " jam ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sore",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "995bc554-bd11-4f59-aa6b-9144b87a9e6b",
+    "data": [
+      {
+        "text": "saya beli tiket pesawat terpotong ",
+        "userDefined": false
+      },
+      {
+        "text": "tetapi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pembayaran saya gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "123fcf12-bf13-4d52-b00e-a67f1b9b515e",
+    "data": [
+      {
+        "text": "saya sudah bayar utk pemesanan tiket penerbangan, namun sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pesanan saya blm diverifikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cbe38430-e499-481b-8e49-f381acb88dc4",
+    "data": [
+      {
+        "text": "Saya sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tiket pesawat dari surabaya ke kupang tgl ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "rp",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". ",
+        "userDefined": false
+      },
+      {
+        "text": "832.178",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tapi ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " transaksi nya masih pending",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6a36deee-7cbe-45e0-9357-8fc2d7bac1cd",
+    "data": [
+      {
+        "text": "Transaksi tiket penerbangan tidak berhasil dan dana belom dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ebec4306-5169-4ab0-bf89-e3533315cb20",
+    "data": [
+      {
+        "text": "saya sudah bayar tapi belum terima email bahwa pembayaran tiket pesawat sudah diterima. mohon jawabannya lewat email.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5fc9a647-fd86-4274-90dc-e94fbb48ee7e",
+    "data": [
+      {
+        "text": "pembayaran pesawat melalui ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gagal. tapi dana sy tidak kembali padahal pembelian tiket pesawat gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f78b6881-a9c1-41e2-8d93-9ada920b43f8",
+    "data": [
+      {
+        "text": "Saya sudah booking tiket lion air Pekanbaru-CGK dengan invoice ",
+        "userDefined": false
+      },
+      {
+        "text": "ID",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " : ",
+        "userDefined": false
+      },
+      {
+        "text": "PDK-6JL9X-B7MK",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kemudian saya sudah bayar via ",
+        "userDefined": false
+      },
+      {
+        "text": "atm",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum ada konfirmasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "084e4071-4ff1-4b56-8991-5a4a7109cf9e",
+    "data": [
+      {
+        "text": "saya telah transfer pembayaran tiket pesawat saya sebesar Rp2.111.140 tanggal 7 Agustus 2018 sekitar Pk 10.10 WIB dari bank mandiri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "66d9c0e0-0f7c-4248-a3f2-bb6c59f00a42",
+    "data": [
+      {
+        "text": "belum diverifikasi pembelian tiket penerbangan saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "98a06449-1f85-4775-ad45-75a0c09c6c85",
+    "data": [
+      {
+        "text": "sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " utk pembelian tiket pesawat tapi belum ada verifikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c0b21ea9-d933-4299-9f73-92ee9db7a3db",
+    "data": [
+      {
+        "text": "Saya melakukan pembelian tiket pesawat Surabaya - Jakarta tgl 4 Sept 2018 ID PEB-A55BD-IGE6 Rp 535.931\n Saya cek di transaksi tokopedia no. invoice tersebut tiba-tiba menghilang dari daftar transaksi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c8c16ffd-0c30-4dd7-bb91-ce57f428fcf1",
+    "data": [
+      {
+        "text": "tiket pesawat saya belum keluar padahal sudah saya ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ! gimana ini toped ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fd03fb3d-78f0-48f2-bd13-6e4a9cd6494e",
+    "data": [
+      {
+        "text": "Pembayaran untuk pembelian tiket pesawat melalui Mandiri online sudah berhasil. Tp belum terverifikasi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2a817f72-288d-48e9-90c6-4c1373948633",
+    "data": [
+      {
+        "text": "Transaksi untuk tiket pesawat tidak berhasil dan dana belom dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0c988d26-30e6-4ced-abd1-79a753c28c19",
+    "data": [
+      {
+        "text": "Saya sudah memesan tiket pesawat penerbangan tgl ",
+        "userDefined": false
+      },
+      {
+        "text": "25 September 2018",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " untuk tiket ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " orang, transaksi ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dana sudah saya lakukan namun saya tidak menerima tiket sama sekali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3c3553de-38b6-4b83-a46e-cd45b422dcd4",
+    "data": [
+      {
+        "text": "pemesanan tiket pesawat gagal ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya terpotong gmn ini tokopedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e551a4f8-fc0a-41b6-ac21-15001761f87b",
+    "data": [
+      {
+        "text": "transaksi tiket pesawat gagal dan ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " terpotong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4449755a-ff47-4296-beba-df50e415b373",
+    "data": [
+      {
+        "text": "Saya sudah berhasil bayar, namun tiket penerbangan dinyatakan gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b24a5379-9cb7-4aff-8d9f-74656db0e4c2",
+    "data": [
+      {
+        "text": "Sy pesan tiket pswt dgn invoice ",
+        "userDefined": false
+      },
+      {
+        "text": "PE5",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "-L1OB0",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "-KKKQ .pembayaran ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer bank",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mandiri. Sy jg tidak melihat pembelian tsb di daftar transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c6d908a1-951d-4167-99fb-fc7ce9bcf5b9",
+    "data": [
+      {
+        "text": "dana saya",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " terpotong dan pembayaran untuk tiket pesawat saya berubah menjadi harga awal dan terjadi perubahan pada potensi cashback yang saya miliki",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3b58e8e2-12a4-4515-b52d-ee32d5729522",
+    "data": [
+      {
+        "text": "Sdah ada email tentang klarifikasi pembayaran tiket pesawat, dan setelah dibayar tidak dapat notifikasi maupun ticket yg telah saya bayar.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f5d57372-2fbc-4cc6-b3b5-d142ab2e618a",
+    "data": [
+      {
+        "text": "Invoice transaksi pesawat dgn ",
+        "userDefined": false
+      },
+      {
+        "text": "ID",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "PD3-0JT87",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "-ZKVF sudah saya ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tetapi knp transaksi gagal??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c1c47845-b3c3-4077-bbb9-c29372aa4924",
+    "data": [
+      {
+        "text": "pembayaran tiket penerbangan belum diverifikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ce452309-9fcd-4e90-8a7c-1551907d6d59",
+    "data": [
+      {
+        "text": "Halo, saya barusan proses pembelian tiket pesawat, pembayaran dgn ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Notifikasinya adalah gagal dan tidak terpotong biaya, tap ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya jadi ",
+        "userDefined": false
+      },
+      {
+        "text": "0",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "16859d8c-8d24-4ac1-9059-b2886281aa8d",
+    "data": [
+      {
+        "text": "tgl 31 agustus, sy beli tiket pesawat sriwijaya balikpapan - jakarta, tp sampai saat ini sy blom mendapatkan tiketnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1debd568-cd99-4c6a-bb77-7c4242b4b63d",
+    "data": [
+      {
+        "text": "pembayaran tiket pesawat blm diverifikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "01de6b4c-ad1c-4c18-a37f-d2db0d1cfc23",
+    "data": [
+      {
+        "text": "Saya membeli tiket pesawat dgn kode promo COBADONG dengan cashback ",
+        "userDefined": false
+      },
+      {
+        "text": "79ribu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Tolong segera dikonfirmasi. Terima kasih.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6dad1658-4318-4496-b309-318b6decaa54",
+    "data": [
+      {
+        "text": "Selamat Sore... \n Saya mau memastikan... \n Apa tiket pembelian Pesawat, apa berhasil..?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a5750abf-3c0f-4f21-99fa-047db7c7f9f3",
+    "data": [
+      {
+        "text": "Pembayaran blm diverifikasi, e.tiket pesawat blm diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b575da5b-af21-4985-a784-c5aab790b25c",
+    "data": [
+      {
+        "text": "Mohon informasinya, kenapa pembelian tiket saya ini tidak ada status transaksinya ya ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "12f0a3d4-c2b0-44b7-8fe7-56a5641d2b03",
+    "data": [
+      {
+        "text": "pembayaran tiket penerbangan gagal namun dana terpotong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "38934245-0539-40e0-ae6f-a343e1f536f7",
+    "data": [
+      {
+        "text": "pembayaran tiket penerbangan blm diverifikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5c692e14-3515-490d-a34b-9652de128153",
+    "data": [
+      {
+        "text": "saya sudah memesan dan membayar tiket pesawat...",
+        "userDefined": false
+      },
+      {
+        "text": "dan skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tiba\u0026#34",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "; transaksi saya hilang..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fe133bd2-7a92-4459-9335-9b86a79e4899",
+    "data": [
+      {
+        "text": "Saya td melakukan pemesana tiket pesawat, saya bayar via ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan sebagian ",
+        "userDefined": false
+      },
+      {
+        "text": "toko cash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Pembayaran gagal, transaksi gagal, tp ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "toko cash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "66b4846c-e465-4c54-89d5-66b58f83e19f",
+    "data": [
+      {
+        "text": "Transaksi tiket pesawat gagal, namun ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tetpotong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4ce8f3df-9d89-4dd8-8f56-0873fa92db71",
+    "data": [
+      {
+        "text": "transaksi tiket pesawat belum berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b9e69ad0-3e2d-48aa-9a7e-2114fa822652",
+    "data": [
+      {
+        "text": "Hello, ini pembayaran tiket pesawat gagal tpi ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya hilang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "667120bd-4aad-40ae-b1f8-89e28b3a8500",
+    "data": [
+      {
+        "text": "tiket ppesawat saya tidak berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8f35b3de-ea35-4e6f-84af-562571244948",
+    "data": [
+      {
+        "text": "pembayaran tiket penerbangan gagal, dana terpotong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a9c76101-fc84-4440-b4aa-56d7a0a1a948",
+    "data": [
+      {
+        "text": "transaksi penerbangan saya bagaimana statusnya ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "be8478a4-db2f-438f-9929-29cec39659b0",
+    "data": [
+      {
+        "text": "pemesanan tiket pesawat saya gagal namun dana belum dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eb2dc12f-4efd-462c-853c-dfb66bd5d588",
+    "data": [
+      {
+        "text": "status transaksi tiket pesawat saya bagaimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "da998ebb-911f-4ff4-8ff5-31fd67e10a24",
+    "data": [
+      {
+        "text": "Saya sudah melakukan pembayaran via ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", akan tetapi status dalam daftar transaksi masih menunggu pembayaran dan saya tidak menerima E-Ticket  pesawat di email maupun sms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "50774863-fef7-469b-a460-f8f8f7331f54",
+    "data": [
+      {
+        "text": "pembayaran tiket pesawat saya gagal dan dana nya terpotong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cff7d322-d629-45e7-86c0-1c986a7b841f",
+    "data": [
+      {
+        "text": "tiket pesawat saya belum berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "44b56fbb-085e-490a-b5e8-3fe4097b8630",
+    "data": [
+      {
+        "text": "tiket penerbangan saya tidak berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8a4d0fcf-7407-457c-a10e-a857be3af84d",
+    "data": [
+      {
+        "text": "transaksi tiket pesawat saya belum diverifikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "829faf15-aff1-4daa-a893-695e4153c0c4",
+    "data": [
+      {
+        "text": "tiket pesawat saya ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bagaimana status transaksinya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eac99544-0c3b-409a-9a94-2aeb5e9340ac",
+    "data": [
+      {
+        "text": "tiket penerbangan saya kok belum berhasil ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ad70ee8a-d6d9-41f3-a39c-9e06552ecfb8",
+    "data": [
+      {
+        "text": "pembayaran utk pembelian tiket penerbangan blm diverifikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5690c3c2-af45-43e9-b1b4-fba0fed980c0",
+    "data": [
+      {
+        "text": "sy punya transaksi pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4b9f5c7b-24c1-489a-b7cc-1afab7babe74",
+    "data": [
+      {
+        "text": "saya ingin membatalkan pesanan tiket saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "be5e310a-a032-4ce5-8299-52a74bf0f1a6",
+    "data": [
+      {
+        "text": "pembayaran tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2f91bbaf-4487-46d5-9f18-e371050fcee9",
+    "data": [
+      {
+        "text": "bagaimana saya mau byr tiket peswat tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "835d978f-a1c0-49c3-a727-1e7dcef58053",
+    "data": [
+      {
+        "text": "mau batalin tiket pesawat gmana caranya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "31beaf8b-3885-4d7a-b587-535c9be2535b",
+    "data": [
+      {
+        "text": "ga ada diantara 2 itu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e4324c92-c442-43a4-a873-6cb93c4fbddd",
+    "data": [
+      {
+        "text": "min sy mau pesan tiket pesawat tp kok pas di klik kadaluarsa trs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4e65bd01-6e83-4c7c-b877-600716dddbd6",
+    "data": [
+      {
+        "text": "Kenapa tiket sy tercancel?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c523b431-a4cb-45fd-aa8a-9b45f67793ed",
+    "data": [
+      {
+        "text": "saya baru aja beli tiket pesawat, dana sudah terdebet tp belum ada notifikasi dari tokopedia, invice tiket juga belum ada di email, mohon di cek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e3fbbd18-ec27-49ce-b202-55eb6d994836",
+    "data": [
+      {
+        "text": "pesanan tiket pesawat saya kenapa belum dikirim?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "68623a29-81c9-4aab-95ae-38b46ce78d8f",
+    "data": [
+      {
+        "text": "Saya belum menerima E-Tiket walaupun transaksi sudah berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e8531c3e-74aa-4344-a9a4-a367179e8152",
+    "data": [
+      {
+        "text": "pembayaran di indomaret perihal tiket pesawat, ternyata dari sistem tokopedianya tidak bisa menerima pembayaran saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "06628013-ddc3-4d41-bf0c-e3815072d278",
+    "data": [
+      {
+        "text": "Saya tadi beli tiket pesawat, kok barusan tiba tiba saya terima email katanya pembelian saya gagal? saldo saya juga gak balik, gimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3a54c957-bd2f-4e6c-abeb-8934bdd0edc5",
+    "data": [
+      {
+        "text": "halo saya mau tanya untuk tiket pesawat dinyatakan gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3a37acd4-54ea-40b7-b21e-3ccd9f798959",
+    "data": [
+      {
+        "text": "Pesanan batal tapi dana belum kembali untuk pembelian tiket pesawat lion air",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4f008608-7328-4b04-b2b9-481376f4e39a",
+    "data": [
+      {
+        "text": "saya beli tiket pesawat sudah bayar tp kenapa blm ada proses selanjutnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7730d237-5fdb-4880-a845-fd81e080f44b",
+    "data": [
+      {
+        "text": "saya pesan tiket wings air dan sudah melakukan pembatalan melalui tlp lgsg ke maskapai ny pda tgl 28 okt, namun smpai skrg belom mendapat refund, cs wings air atas nama dewi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "73740bca-165c-4874-8d49-845a845a0a66",
+    "data": [
+      {
+        "text": "saya pesen tiket pesawat, pihak sudah konfirmasi pembayaran saya, tp transaksinya tidak masuk di daftar transaksi toped,email pun tidak ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c469c665-492f-4516-9725-b71f0c2fb952",
+    "data": [
+      {
+        "text": "knp tiket saya yg medan ke pekanbaru jg dibatal kan.tlg cek status saya yg medan ke pekanbaru dgn citilink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "28d1d81c-d78a-4e6b-afd6-c33ebaa03aa0",
+    "data": [
+      {
+        "text": "sy ngecheck di online travel lain masih ada ketersediaan kursi untuk tgl 30des 2018 kendari ujungpandang sdgkan di tokopedia tdk ada, apa sistem online tokopedia tidak update??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "046e1b0a-fe0c-4231-bb23-98d89bfa67e5",
+    "data": [
+      {
+        "text": "ingin memastikan untuk inv pembelian tiket yang di ajukan pembatalan adalah rute PLM -CGK (18 feb) benarkan? untuk tiket pergi CGK -PLM tidak terbatalkan kan ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4f86261b-d142-47f6-98bf-7925aa852494",
+    "data": [
+      {
+        "text": "histori transaksi tiket pesawat hilangpadahal transaksi pembayaran suksez dilakukan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f21abc63-c53a-4104-934a-bb413996511c",
+    "data": [
+      {
+        "text": "8277085320138787masih bisa dbyar gatiket peknbaru-cgk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "82f8bb35-3c1e-4882-950f-18e5944d3455",
+    "data": [
+      {
+        "text": "siang . saya mau menanyakan masalah pemesanan tiket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9fafd53e-dfc7-44e2-9946-f55127af2224",
+    "data": [
+      {
+        "text": "Saya sudah transfer bayar tiket pesawat tapi tidak ada kejelasan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "51328a79-d760-431f-859c-f384c3092d2b",
+    "data": [
+      {
+        "text": "apakah transaksi saya dgn nomor PJI-3OYMQ-L663 sudah dibatalkan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6b1f3a8f-0643-462a-b4e7-4f073cdd3e0b",
+    "data": [
+      {
+        "text": "Hallo,  mau pesan tiket pesawat dr semalam kok blm bs ya,  selalu tulisannya terjadi kesalahan,  coba lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0c12961b-a59e-43e9-8cf7-c8c539ee9458",
+    "data": [
+      {
+        "text": "tiket pesawat tidak permah bs sampai ke pilihan maskapai ya? apakah blm jalan fitur ini?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fb964672-c43a-4775-8409-976c6a0a8d32",
+    "data": [
+      {
+        "text": "saya tidak bisa booking tiket pesawat lagi, order yg lama di batalkan dan error nya 1 akun hanya bisa transaksi satu kali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

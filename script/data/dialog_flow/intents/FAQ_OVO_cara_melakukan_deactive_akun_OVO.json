@@ -1,0 +1,31 @@
+{
+  "id": "1821594c-e146-403a-83c8-97e9e184d3ff",
+  "name": "FAQ_OVO_cara_melakukan_deactive_akun_OVO",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped informasikan bahwa Kamu tidak dapat menonaktifkan akun OVO Kamu, ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_ovo_cara_melakukan_deactive_akun_ovo"
+    }
+  ]
+}

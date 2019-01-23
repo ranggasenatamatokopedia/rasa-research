@@ -1,0 +1,31 @@
+{
+  "id": "cf326a82-8e6f-4eb3-aa09-4e5025972da6",
+  "name": "smalltalk.greetings.calling",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Ada yang bisa Toped bantu? "
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "smalltalk_greetings_calling"
+    }
+  ]
+}

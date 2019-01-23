@@ -1,0 +1,44 @@
+{
+  "id": "1281ceab-50fe-4be9-b0c6-a08f6fe2893b",
+  "parentId": "13365c98-6654-4fcc-8002-e17de938ce3d",
+  "rootParentId": "13365c98-6654-4fcc-8002-e17de938ce3d",
+  "name": "FAQ_Apps_Cara_Update_Aplikasi_iOS",
+  "auto": true,
+  "contexts": [
+    "FAQ_Apps_Cara_Update_Aplikasi-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Apps_Cara_Update_Aplikasi_iOS-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Cara update Aplikasi Tokopedia pada iOS :\n1. Buka \"App Store\"\n2. Cari Aplikasi Tokopedia\n3. Klik \"Update\""
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pastikan selalu memperbarui aplikasi kamu ke versi terbaru ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539748351,
+  "fallbackIntent": false,
+  "events": []
+}

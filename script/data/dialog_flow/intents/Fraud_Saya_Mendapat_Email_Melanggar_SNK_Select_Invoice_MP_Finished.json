@@ -1,0 +1,52 @@
+{
+  "id": "903033ab-7c7e-4c8b-9064-86442a9c7c42",
+  "parentId": "a13aa519-73bf-4efc-ab1e-f5b68f483caa",
+  "rootParentId": "2f8cbeef-ace2-4920-b98a-19f47da047c4",
+  "name": "Fraud_Saya_Mendapat_Email_Melanggar_SNK_Select_Invoice_MP_Finished",
+  "auto": false,
+  "contexts": [
+    "Fraud_Saya_Mendapat_Email_Melanggar_SNK_Select_Invoice_MP-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckInvoiceStatusInSauron",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Saya_Mendapat_Email_Melanggar_SNK_Select_Invoice_MP_Finished-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531820001,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_finished"
+    },
+    {
+      "name": "invoice_cancel"
+    },
+    {
+      "name": "invoice_fraud_review"
+    },
+    {
+      "name": "invoice_suspect_fraud"
+    }
+  ]
+}

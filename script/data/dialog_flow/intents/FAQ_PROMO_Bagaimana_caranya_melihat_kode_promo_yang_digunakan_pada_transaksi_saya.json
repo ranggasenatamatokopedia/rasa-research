@@ -1,0 +1,31 @@
+{
+  "id": "b0025db3-df11-4f1c-9394-e345c1feff68",
+  "name": "FAQ_PROMO_Bagaimana_caranya_melihat_kode_promo_yang_digunakan_pada_transaksi_saya",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa lihat kode promo yang digunakan pada bagian bawah total pembayaran di invoice, akan ada info kode promo yang kamu gunakan untuk transaksi tersebut."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_promo_bagaimana_caranya_melihat_kode_promo_yang_digunakan_pada_transaksi_saya"
+    }
+  ]
+}

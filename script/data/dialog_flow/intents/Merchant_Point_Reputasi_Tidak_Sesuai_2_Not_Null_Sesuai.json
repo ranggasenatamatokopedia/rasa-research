@@ -1,0 +1,39 @@
+{
+  "id": "4958663c-93d9-4015-9000-5f4c0af78c5f",
+  "parentId": "b05a9a69-de9f-4a57-a434-b5c557e9473a",
+  "rootParentId": "cf17fcc0-2998-4ff8-8cf4-6a1ca0e60443",
+  "name": "Merchant_Point_Reputasi_Tidak_Sesuai_2_Not_Null_Sesuai",
+  "auto": true,
+  "contexts": [
+    "Merchant_Point_Reputasi_Tidak_Sesuai_2_Not_Null-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Point_Reputasi_Tidak_Sesuai_2_Not_Null_Sesuai-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Informasi lebih detail terkait penalty pada toko, bisa kamu lihat melalui laptop/komputer dengan langkah berikut ini:\n1. Klik menu notifikasi\n2. Klik ulasan lalu pilih penalty dan reward."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536564282,
+  "fallbackIntent": false,
+  "events": []
+}

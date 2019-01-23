@@ -1,0 +1,109 @@
+{
+  "id": "8a453f90-239b-43ca-9dc1-26169fec6a2a",
+  "parentId": "266ef013-8847-4481-a7f8-cd1367297363",
+  "rootParentId": "f9ec542f-62a1-4f00-a77f-a5b3cb164296",
+  "name": "Refund_Saya_membayarkan_pesanan_dengan_metode_yang_tidak_sesuai_inv_selected_inspay_data",
+  "auto": true,
+  "contexts": [
+    "Refund_Saya_membayarkan_pesanan_dengan_metode_yang_tidak_sesuai_inv_selected_inspay-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a1c3ee29-8703-467b-a1a8-42f4a5c8730b",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "nomor_rekening",
+          "value": "$nomor_rekening",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Mohon infokan nomor rekening untuk pengembalian dananya ya Kak"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "5c74b4c8-bd29-4414-a907-6fd53d3db2fc",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "nama",
+          "value": "$nama",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Mohon infokan juga nama lengkap pemilik rekeningnya ya Kak"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "3c321eb9-d0d2-4fc0-a58d-4d536799f4c0",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "nama_bank",
+          "value": "$nama_bank",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Selanjutnya, mohon infokan nama banknya ya Kak"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "22866364-0251-4a7a-af5f-4c75bae8381a",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "cabang_bank",
+          "value": "$cabang_bank",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Terakhir, mohon infokan nama cabang banknya ya Kak"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "0bdb25b1-33dd-4967-810c-d19f336f49be",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "11",
+          "isList": false
+        },
+        {
+          "id": "0e319c5a-c8dc-4f54-9aa3-6eb7a91ee9f7",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Refund_Saya_membayarkan_pesanan_dengan_metode_yang_tidak_sesuai"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon tunggu sebentar, ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523871133,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

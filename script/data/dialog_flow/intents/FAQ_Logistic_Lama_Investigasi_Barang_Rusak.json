@@ -1,0 +1,31 @@
+{
+  "id": "49789bf3-5a81-47d5-8b4e-e362428051e4",
+  "name": "FAQ_Logistic_Lama_Investigasi_Barang_Rusak",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Proses investigasi pada barang yang rusak memerlukan waktu 1x24 jam hari kerja sejak semua berkas yang diperlukan sudah lengkap ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_logistic_lama_investigasi_barang_rusak"
+    }
+  ]
+}

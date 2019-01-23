@@ -1,0 +1,39 @@
+{
+  "id": "0f4dfb1d-d79a-461f-8d5d-c1842b0d4a42",
+  "parentId": "6681489f-8cca-4885-900c-88c670357434",
+  "rootParentId": "e5ddb095-11e2-44d0-a686-c477add0deaf",
+  "name": "TokoPoints_Tidak_Dapat_Memainkan_Lucky_Egg_Tidak_Bisa_Ditekan_Sudah_Tutup_Sudah_Update",
+  "auto": true,
+  "contexts": [
+    "TokoPoints_Tidak_Dapat_Memainkan_Lucky_Egg_Tidak_Bisa_Ditekan_Sudah_Tutup-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "TokoPoints_Tidak_Dapat_Memainkan_Lucky_Egg_Tidak_Bisa_Ditekan_Sudah_Tutup_Sudah_Update-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Tolong lampirkan screenshot halaman yang berkendala ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534391357,
+  "fallbackIntent": false,
+  "events": []
+}

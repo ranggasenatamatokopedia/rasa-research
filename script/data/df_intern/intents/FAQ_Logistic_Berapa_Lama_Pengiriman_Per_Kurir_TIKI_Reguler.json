@@ -1,0 +1,45 @@
+{
+  "id": "721a58f9-202d-46fc-abae-112f63ef5ed1",
+  "parentId": "4b24315a-35b3-4d31-9c08-91eac8896052",
+  "rootParentId": "62328066-6ba6-453c-b337-f9f221db5f6f",
+  "name": "FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir_TIKI_Reguler",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir_TIKI-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "16d0edc3-6e0d-483a-9424-f6e94794b82a",
+          "dataType": "@layanan_kurir_reguler",
+          "name": "layanan_kurir_reguler",
+          "value": "$layanan_kurir_reguler",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Estimasi waktu pengiriman kurir TIKI dengan layanan Reguler adalah 3-6 hari kerja ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528172584,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "reguler"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "a8702577-7163-42a9-aa8e-7b556a69fdfc",
+  "name": "FAQ_Flash_Sale_Kenapa_Flash_Sale_Spesial_9_Tidak_Bisa_Dipakai_Di_Desktop",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flash_Sale_Kenapa_Flash_Sale_Spesial_9_Tidak_Bisa_Dipakai_Di_Desktop-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "798e0871-6a3d-4768-a6c2-899503174235",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Program Flash Sale Spesial 9 hanya bisa kamu akses di aplikasi Tokopedia di Android/iOS kamu. Ayo download aplikasi Tokopedia sekarang dan dapatkan produk Flash Sale impianmu!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_flash_sale_kenapa_flash_sale_spesial_9_tidak_bisa_dipakai_di_desktop"
+    }
+  ]
+}

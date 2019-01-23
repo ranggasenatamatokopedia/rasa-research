@@ -1,0 +1,36 @@
+{
+  "id": "a91c699e-5442-4848-9107-0689f88043ae",
+  "name": "FAQ_Tokopoint_Apa_Itu_Tokopoint",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "TokoPoints adalah program loyalitas untuk pengguna Tokopedia. Kamu bisa kumpulkan Loyalty dan Points yang berasal dari Lucky Egg ataupun program Tokopedia lainnya. Loyalty dan Points yang diterima akan memberikan keuntungan transaksi untuk Toppers semua :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Saat ini program TokoPoints Tokopedia diberi nama Lucky Egg. Penamaan dan tampilan tersebut bisa berubah dan akan menyesuaikan dengan tema yang diusung oleh Tokopedia."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_tokopoint_apa_itu_tokopoint"
+    }
+  ]
+}

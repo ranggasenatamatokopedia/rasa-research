@@ -1,0 +1,32 @@
+{
+  "id": "12e5ede6-e052-4a48-891f-5b36a6a886b9",
+  "name": "FAQ_Promo_KEBUT_cara_ikut_KEBUT",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa ikutan promo KEBUT dengan cara: \n1. Shake-Shake KEBUT \n2. Menukar Kupon Tokopoints \n3. Flash Sale, dan lain-lain"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa cek promo KEBUTnya  !TKPD_URL_KEBUT!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

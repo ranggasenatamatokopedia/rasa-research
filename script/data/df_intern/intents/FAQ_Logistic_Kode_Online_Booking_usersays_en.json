@@ -1,0 +1,361 @@
+[
+  {
+    "id": "bc6cbdae-5af9-4c27-a875-ea2ee8c06cee",
+    "data": [
+      {
+        "text": "saya dapat informasi ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pihak ",
+        "userDefined": false
+      },
+      {
+        "text": "jne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sistem JOB tokopedia offline jadi di input resi manual. apakah bisa masukan resi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2294bc93-c721-4c31-900d-a0789a0def1a",
+    "data": [
+      {
+        "text": "Kode JOB saya dimana ya letaknya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2
+  },
+  {
+    "id": "001b9561-f76d-4e51-b1bf-ce6a72f81d7c",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " info dong segera saya tidak dpat menemukan job untuk pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "91ec3230-37e0-4fa7-93d1-34b36418df83",
+    "data": [
+      {
+        "text": "Kode bookingnya tidak bisa di scan, saya harus apa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "28e6fb8f-827b-47ce-9f90-0b6df37c46fe",
+    "data": [
+      {
+        "text": "Kode booking yang diberikan Tokopedia tidak bisa di scan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ad477043-f03d-4981-81c9-8b627b9e8c8b",
+    "data": [
+      {
+        "text": "saya mau bertanya kenapa pengiriman ",
+        "userDefined": false
+      },
+      {
+        "text": "J\u0026T",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak muncul secara otomatis no resinya ya ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ff7c9f65-a019-481d-8e21-1bdd2b190379",
+    "data": [
+      {
+        "text": "Kode J\u0026T Online Booking, JOB tidak ditemukan, tidak bisa di scan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "93fb8b0c-6d0d-4953-a8a2-32e27a618406",
+    "data": [
+      {
+        "text": "Kok saya nyari kode JOB saya ga ketemu ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ea998d04-1c8e-4d6e-aa06-cede4132fec5",
+    "data": [
+      {
+        "text": "Sudah aktifkan AWB Otomatis, tapi tidak mendapatkan kode booking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "57eb7e8c-f07b-4cb7-95f7-11b931a1a36d",
+    "data": [
+      {
+        "text": "Kode ",
+        "userDefined": false
+      },
+      {
+        "text": "J\u0026T",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya dimana ya letaknya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b6db28fc-a605-4ac3-9944-8c5c942eb4e8",
+    "data": [
+      {
+        "text": "Bagaimana saya mendapatkan kode booking JOB online booking saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1871c3a0-1780-48a5-bfe8-39ea88d9d45b",
+    "data": [
+      {
+        "text": "Sudah mendapatkan kode booking, tapi tidak bisa di scan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a2ab1531-89d7-4a42-b11f-50f5166808ae",
+    "data": [
+      {
+        "text": "Dimana saya bisa menemukan kode online booking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c7fb383a-8ee2-4b8b-8d7f-817612e297ce",
+    "data": [
+      {
+        "text": "J\u0026T",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " AWB otomatis sudah saya aktifkan kok di Toko saya, tapi kenapa kodenya ga muncul?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "003b71be-ecda-4893-8be7-42d0cbb68270",
+    "data": [
+      {
+        "text": "Kok saya nyari kode ",
+        "userDefined": false
+      },
+      {
+        "text": "J\u0026T",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya ga ketemu ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "902d3029-6ba6-4aeb-9cc3-037443bebdba",
+    "data": [
+      {
+        "text": "Bagaimana saya mendapatkan kode booking ",
+        "userDefined": false
+      },
+      {
+        "text": "J\u0026T",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " online booking saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d8b16d4e-3887-43a1-8be0-d50a635ef079",
+    "data": [
+      {
+        "text": "Saya sudah aktifkan JOB Otomatis, tapi kenapa ngga dapet kode JOB nya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6bda63de-7c48-4c0d-8289-1904b8f26114",
+    "data": [
+      {
+        "text": "Kode JOB tidak ditemukan dan barcode tidak muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1bbcaee3-0c46-45ae-8d6b-6d4edf8c3f88",
+    "data": [
+      {
+        "text": "Kalau sebelumnya saya menggunakan resi otomatis, maka ketika ada orderan masuk yang belum saya konfirmasi dan saya menginginkan untuk menggunakan resi manual, bisa atau tidak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "365361cc-2888-4760-8bb1-e1cb416a006d",
+    "data": [
+      {
+        "text": "saya dapat informasi dari pihak jne kemarin sistem JOB tokopedia offline jadi di input resi manual. apakah bisa masukan resi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f53b8357-2e39-4a42-bac1-57dea5e7e24e",
+    "data": [
+      {
+        "text": "bagaiman cara nya untuk dapat resi otomatis J\u0026T atau awb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b1de866a-d18c-41ac-a486-67722b8b5e37",
+    "data": [
+      {
+        "text": "fitur JOB apa harus lewat komputer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2b3b9262-17d3-474f-b69a-dba063abaff0",
+    "data": [
+      {
+        "text": "mohon bantuannya, untuk semua orderan masuk dgn ekspedisi JNE menggunakan JOB kenapa no resi tdk terinput otomatis ya? pdhl biasanya terinput otomatis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "daf6c96c-9d48-43f5-8fd7-9ed88a73258d",
+    "data": [
+      {
+        "text": "knpa pengiriman paket kurir J\u0026T tdk dapet resi otomatis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ddc651a5-f897-47c4-80ae-b5fea2772097",
+    "data": [
+      {
+        "text": "kami ada order ,pengiriman seharusnya pakai kode booking.ternyata kami kirim tanpa kode booking.bagaimana solusinya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d84b14a0-e832-4a4e-a698-1a9fc6baf31e",
+    "data": [
+      {
+        "text": "saya mau tanya.  kenapa hari ini saya mau scan resi tidak ada yg bisa.  katanya harap mencoba lagi. ada yang uda mau expired ini.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

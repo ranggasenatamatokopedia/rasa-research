@@ -1,0 +1,58 @@
+{
+  "id": "1e92450b-06a1-43f0-ab75-5072713b7924",
+  "name": "FAQ_Digital_Cara_Menggunakan_Voucher_Streaming_Viu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Digital_Cara_Menggunakan_Voucher_Streaming_Viu-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk redeem Voucher Viu, kamu harus akses aplikasi Viu di Smartphone atau situs resmi Viu dari komputer terlebih dulu, selanjutnya kamu bisa klik \"Menu\"."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "kalau menggunakan komputer, ikuti langkah berikut ini: \n- Masuk ke akun Viu atau daftar jika belum memiliki akun\n- klik “Atur Cara Berlangganan”\n- Masukkan kode voucher dari Tokopedia, klik “Memeriksa” atau “Get Viu”\n\nSelamat mencoba ya :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Apakah kamu ingin mengetahui perangkat yang lain untuk akses Viu?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 1,
+            "quick_replies": [
+              "iOS",
+              "Android"
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_digital_cara_menggunakan_voucher_streaming_viu"
+    }
+  ]
+}

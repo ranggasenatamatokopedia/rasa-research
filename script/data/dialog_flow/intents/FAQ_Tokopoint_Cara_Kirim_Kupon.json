@@ -1,0 +1,31 @@
+{
+  "id": "a71e1ca0-4e8c-4391-8b75-c6ceaa6d0f29",
+  "name": "FAQ_Tokopoint_Cara_Kirim_Kupon",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Cara kirim kupon sangat mudah, lho. Kamu cukup klik \"Kirim\" pada kupon yang ada di halaman \"Penukarang Points\". Pastikan dulu bahwa status Membership kamu sudah Gold dan/atau di tingkatan atasnya agar bisa mengirim kupon. "
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_tokopoint_cara_kirim_kupon"
+    }
+  ]
+}

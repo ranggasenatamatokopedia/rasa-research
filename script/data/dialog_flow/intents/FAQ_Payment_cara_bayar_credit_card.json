@@ -1,0 +1,43 @@
+{
+  "id": "1221c134-0f12-4f06-af3b-7c04014b1da8",
+  "parentId": "bc8f4622-0f27-4009-a4cd-f030fe0388ae",
+  "rootParentId": "bc8f4622-0f27-4009-a4cd-f030fe0388ae",
+  "name": "FAQ_Payment_cara_bayar_credit_card",
+  "auto": true,
+  "contexts": [
+    "FAQ_Payment_cara_bayar-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Payment_cara_bayar_credit_card-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk melakukan pembayaran dengan Kartu Kredit, kamu bisa ikuti langkah berikut ini ya:\n\n1. Masukkan produk ke dalam \"\"Keranjang Belanja\"\"\n2. Pilih metode pembayaran Kartu Kredit/Debit Online. Klik \"\"Checkout\"\"\n3. Pada halaman ringkasan pembayaran, masukkan nomor Kartu Kredit/Debit, masa berlaku, dan nomor CVV. Klik \"\"Bayar Sekarang\"\"\n4. Sistem Tokopedia akan terhubung secara otomatis dengan system Bank\n5. Masukkan Kode Otorisasi (3D Secure) yang dikirim oleh Bank melalui handphone kamu. Klik \u0027OK\u0027"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534997223,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "cc"
+    }
+  ]
+}

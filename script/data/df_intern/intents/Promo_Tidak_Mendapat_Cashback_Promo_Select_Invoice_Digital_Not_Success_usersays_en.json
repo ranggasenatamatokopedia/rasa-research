@@ -1,0 +1,121 @@
+[
+  {
+    "id": "5392644d-08b6-49a2-9eb8-4e327b6a2f45",
+    "data": [
+      {
+        "text": "invoice_waiting_retry_option",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fdddb595-ccb5-467b-8c1b-35b95c27891f",
+    "data": [
+      {
+        "text": "invoice_pending",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "31c7e757-1893-4ee3-abc7-3b38ed25b4b6",
+    "data": [
+      {
+        "text": "invoice_waiting_",
+        "userDefined": false
+      },
+      {
+        "text": "third",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_party",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ba05d9a2-1c54-4d76-9724-993ecd7c9c8a",
+    "data": [
+      {
+        "text": "invoice_waiting_scheduler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "81fc1f24-ed57-468d-a801-106b2dce3b98",
+    "data": [
+      {
+        "text": "invoice_waiting_payment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "06b81414-da43-4972-8f5d-d95c1af70ea6",
+    "data": [
+      {
+        "text": "invoice_queue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "52da6229-29cd-4d07-86d3-24121902364d",
+    "data": [
+      {
+        "text": "invoice_settled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aa52ca05-cd5a-4694-b8f5-9db577cf2606",
+    "data": [
+      {
+        "text": "invoice_retry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b4719152-bd22-44c3-a5c0-9362114e8e94",
+    "data": [
+      {
+        "text": "invoice_to_be_settled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3f5b8b5a-fc62-47db-8ae5-30c36616b701",
+    "data": [
+      {
+        "text": "invoice_waiting_transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

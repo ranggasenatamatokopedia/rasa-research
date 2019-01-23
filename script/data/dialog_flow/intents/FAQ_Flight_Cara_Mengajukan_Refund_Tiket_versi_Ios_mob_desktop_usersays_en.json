@@ -1,0 +1,79 @@
+[
+  {
+    "id": "da1771a3-cf0c-440e-9dde-ede0b9a84f78",
+    "data": [
+      {
+        "text": "desktop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4cdf4e28-fdf3-4841-8b88-e976b3fcaeb7",
+    "data": [
+      {
+        "text": "iOS/mobile/desktop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7ec5ab21-547a-42d0-addd-45cb9d79c0b6",
+    "data": [
+      {
+        "text": "mobile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a75b3a90-b138-4c06-9f14-9a24f2992fd0",
+    "data": [
+      {
+        "text": "versi mobile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "53518547-4108-425d-86ff-9f991aa8b2a6",
+    "data": [
+      {
+        "text": "via desktop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d09acd75-ab11-4c05-b407-5409ad08d8ed",
+    "data": [
+      {
+        "text": "versi ios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7ed5c584-c832-41aa-b25f-fb758bcbd4a7",
+    "data": [
+      {
+        "text": "ios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

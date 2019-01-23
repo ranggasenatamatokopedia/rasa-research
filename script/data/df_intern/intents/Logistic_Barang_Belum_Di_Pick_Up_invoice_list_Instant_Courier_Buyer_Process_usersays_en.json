@@ -1,0 +1,35 @@
+[
+  {
+    "id": "6423cf47-2525-46f4-8d88-8cfc2b6cbc67",
+    "data": [
+      {
+        "text": "invoice_sedang_diproses_penjual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f900e136-15c1-4d0e-a1f2-70709239284f",
+    "data": [
+      {
+        "text": "proses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a7ec13c9-d66d-4e50-aed9-cbb318118e45",
+    "data": [
+      {
+        "text": "process",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

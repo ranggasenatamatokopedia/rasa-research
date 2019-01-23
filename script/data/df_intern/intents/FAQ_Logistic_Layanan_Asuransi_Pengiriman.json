@@ -1,0 +1,31 @@
+{
+  "id": "3879a0af-e240-4c2c-b73c-5a537989b245",
+  "name": "FAQ_Logistic_Layanan_Asuransi_Pengiriman",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Tokopedia menyediakan layanan asuransi yang berlaku untuk semua jenis pengiriman kecuali pengiriman menggunakan kurir Wahana dengan harga barang diatas Rp.200.000."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_logistic_layanan_asuransi_pengiriman"
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+[
+  {
+    "id": "314ee0f9-4192-468d-af46-09f0dda9e9f1",
+    "data": [
+      {
+        "text": "saya mau beli flash sale gimana caranya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ab51778a-cfab-4f70-b59f-fb9710dfe168",
+    "data": [
+      {
+        "text": "mau atc produk flash sale halamannya dimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "91d11eb3-c3bf-4f0e-a908-7d5680c26bd1",
+    "data": [
+      {
+        "text": "\"bagaimana cara mengikuti flash sale ?\t\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "030948c8-5690-406a-a9c5-69c4fa144a21",
+    "data": [
+      {
+        "text": "saya mau checkout produk flash sale, gimana caranya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "517488f4-12ec-4edd-8d4b-d927d9b4cfb6",
+    "data": [
+      {
+        "text": "gimana caranya beli produk flash sale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fc75c9a8-c6e0-495b-817d-11877cb97866",
+    "data": [
+      {
+        "text": "bantu saya untuk cara mendapatkan flash sale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7adaf016-4300-4467-9715-1ae45a7e3a82",
+    "data": [
+      {
+        "text": "coba kasih tau ",
+        "userDefined": false
+      },
+      {
+        "text": "dong",
+        "alias": "currency-name",
+        "meta": "@sys.currency-name",
+        "userDefined": false
+      },
+      {
+        "text": " gimana caranya klo mau beli produk flash sale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "63dbe67c-4c36-4be5-a0ff-bf83a4f9d545",
+    "data": [
+      {
+        "text": "mau beli barang flash sale, gimana cara belinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9e59bf2b-2ba5-4a85-8dcf-c2515d90af46",
+    "data": [
+      {
+        "text": "saya cari produk flash sale ga ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a3fe999d-d64d-456c-9d24-dfea070d8acc",
+    "data": [
+      {
+        "text": "kasih tau saya gimana cara beli flash sale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0f702cc4-b577-4b71-9dc4-b8dd128baa13",
+    "data": [
+      {
+        "text": "klik apa biar bisa beli produk flash sale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4cbfcf2e-6d1c-4358-9581-ec2d49509e3f",
+    "data": [
+      {
+        "text": "dimana saya bisa beli produk flash sale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f2c941a7-8d37-43c4-863e-bde114db8fc8",
+    "data": [
+      {
+        "text": "Bagaimana utk melakukan pembelian flash sale?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "569a7e61-1efa-4f94-ae73-7d171fbae9e9",
+    "data": [
+      {
+        "text": "mau ikut promo flash sale ",
+        "userDefined": false
+      },
+      {
+        "text": "dong",
+        "alias": "currency-name",
+        "meta": "@sys.currency-name",
+        "userDefined": false
+      },
+      {
+        "text": ", pembelian di halaman apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0424e8eb-5b27-4b1a-854d-f23561066786",
+    "data": [
+      {
+        "text": "Cara beli produk Flash Sale gimana sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9502b56a-a207-4626-9de6-5a93588ea049",
+    "data": [
+      {
+        "text": "bisa kasih tau produk flash sale dimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4e21112b-01ae-4c79-a51e-d653f7bc5c6e",
+    "data": [
+      {
+        "text": "saya mau beli produk flash sale kok ga nemu ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "494a06ca-b7b4-40e8-8226-06aa85ccf339",
+    "data": [
+      {
+        "text": "saya mau beli produk flash sale ",
+        "userDefined": false
+      },
+      {
+        "text": "dong",
+        "alias": "currency-name",
+        "meta": "@sys.currency-name",
+        "userDefined": false
+      },
+      {
+        "text": ", lewat menu apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "705152a3-495b-4ac1-87dd-e6f5580396cd",
+    "data": [
+      {
+        "text": "mau ikutan promo flash sale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3c45171c-e057-4f62-aff1-7983803ca600",
+    "data": [
+      {
+        "text": "mau beli produk flash sale gimana caranya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9eea12eb-b57e-4843-8283-fa28dbac6570",
+    "data": [
+      {
+        "text": "gimana cara beli produk flash sale tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1eda2202-f6f4-4d10-aed3-45748d764abf",
+    "data": [
+      {
+        "text": "flash sale dimana sis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

@@ -1,0 +1,467 @@
+[
+  {
+    "id": "b04234b5-a92f-4cba-b28b-347ca01467d3",
+    "data": [
+      {
+        "text": "Jika saya sbgai penjual, trus sudah taro brng di tiki, langkah selanjutnya apa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9b5173d9-d120-4a33-a7fa-c33230af4972",
+    "data": [
+      {
+        "text": "Berapa lama pengantaran ",
+        "userDefined": false
+      },
+      {
+        "text": "Grab",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4b6a2cac-106d-46c5-8de0-aa352f181580",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", barang saya udah di kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "ninja",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " tapi belum di ",
+        "userDefined": false
+      },
+      {
+        "text": "anter2in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ke ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", butuh berapa lama emangnya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pengantaran?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "31ea1bca-f873-4bc1-9909-8c867d8d74c4",
+    "data": [
+      {
+        "text": "Berapa lama waktu pengantaran kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9d4b9780-5136-434b-8590-d31f4ada5386",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kalo estimasi pengantaran paket ke ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pake ",
+        "userDefined": false
+      },
+      {
+        "text": "Grab",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " itu berapa lama ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1a20d121-3d78-410e-9242-2d370b4fafeb",
+    "data": [
+      {
+        "text": "Berapa lama waktu pengantaran kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "rex",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7b3c0869-7206-4c4b-ac35-c3f1d3714914",
+    "data": [
+      {
+        "text": "Berapa lama waktu pengantaran kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "483da4b4-dbb5-4195-b955-89953ec15695",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kalo estimasi pengantaran paket ke ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pake kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "Rex 10",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " itu berapa lama ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "38709137-ea0c-45cc-85f2-776d4350efcd",
+    "data": [
+      {
+        "text": "Berapa lama waktu pengantaran kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "73036faf-1a4b-403f-b801-61216bb0ef05",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", berapa jam sih waktu pengantaran pake ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": "? saya ",
+        "userDefined": false
+      },
+      {
+        "text": "besok",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mau flight soalnya biar maksimal malem ini sampe barangnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "278d081f-f835-4f44-aaeb-e4f4ea5cf699",
+    "data": [
+      {
+        "text": "Barang saya sudah di pick up, tapi belum sampai ke customer, Kira kira brp lama lagi ya. Saya pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "Go-Send",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Instant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a1e093a1-4913-4cff-8e4e-3039beaac3f1",
+    "data": [
+      {
+        "text": "Berapa lama waktu pengantaran kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "ninja",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "edf7ae5b-4170-4de1-847d-df59a7bd77be",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kalo estimasi pengantaran paket ke ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pake ",
+        "userDefined": false
+      },
+      {
+        "text": "Gojek",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " itu berapa lama ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d2fd074c-0209-40a9-8110-2849c231f490",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kalo estimasi pengantaran paket ke ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pake ",
+        "userDefined": false
+      },
+      {
+        "text": "Ninja Express",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " itu berapa lama ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "60bbbb76-97ee-42ad-98d5-41e1e167f91d",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya mau pake ",
+        "userDefined": false
+      },
+      {
+        "text": "Grab",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": ", berapa lama pengantarannya..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0e102d28-473b-4c42-9a65-18b92b53f16d",
+    "data": [
+      {
+        "text": "sampai.jam brp pengiriman grab instant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "435c7ec0-93cb-4ed6-a3c5-2ab885536faa",
+    "data": [
+      {
+        "text": "gojek instant Currier maksimal driver bisa ambil berapa pesanan ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b76933e6-dc00-4282-a230-d43e5fea8e28",
+    "data": [
+      {
+        "text": "Kok lama banget ya. Padahal pake instan courier",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "id": "7e6343af-0513-4189-9a1b-d55d84cc6500",
+  "parentId": "35ea81e4-4843-4cfe-b8fd-335f2f7a0eea",
+  "rootParentId": "35ea81e4-4843-4cfe-b8fd-335f2f7a0eea",
+  "name": "Account_Kendala_Notifikasi_Talk",
+  "auto": true,
+  "contexts": [
+    "Account_Kendala_Notifikasi-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckTalkNotificationStatus",
+      "affectedContexts": [
+        {
+          "name": "Account_Kendala_Notifikasi_Talk-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon menunggu ya, Toped cek dulu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533876856,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "notification_talk_error"
+    }
+  ]
+}

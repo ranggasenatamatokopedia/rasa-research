@@ -1,0 +1,7013 @@
+[
+  {
+    "id": "b96b2d03-6543-4f7a-a0e6-4d136e755044",
+    "data": [
+      {
+        "text": "transaksi etool saya berhasil. Tapi saldonya belum nambah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "573ab944-4928-4f32-97ae-c08b7d3776bc",
+    "data": [
+      {
+        "text": "pulsanya belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6928ba93-b721-4515-9c6b-c3a76ca4aa82",
+    "data": [
+      {
+        "text": "tokenku belum masuk?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "caf3f6ce-36cc-4151-9841-0e626e16cddc",
+    "data": [
+      {
+        "text": "hallo pembayaran emoney saya masih belum terverifikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "890e0433-314b-4a64-b518-597d70aa8fe1",
+    "data": [
+      {
+        "text": "kenapa paket data saya belum sampai ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "311a571e-bf40-4c6f-9e19-17dcc5f250c3",
+    "data": [
+      {
+        "text": "Saya melakukan transaksi pembelian tiket KAI",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "da499346-1be5-47af-ae26-e1a289af4c55",
+    "data": [
+      {
+        "text": "saya bayar kartu kredit kok smpai skrg blm diproses y",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9a3ff522-2fb0-44e0-82d7-676aa84bfa36",
+    "data": [
+      {
+        "text": "bayar ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pending",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "67b0976d-63e7-4259-b0cf-9a1443dcbcd6",
+    "data": [
+      {
+        "text": "Pembayaran tagihan ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum di terima bank mega",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2b31f641-820f-44f4-a5bd-5475f742b90c",
+    "data": [
+      {
+        "text": "mau nanya tanggal ",
+        "userDefined": false
+      },
+      {
+        "text": "30",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "okt",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sy ada pembayaran ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ke Citi bank, tp kok belum masuk Yach , sekalian mau nanya juga masalah cashback nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0ec9ee40-7fc7-4a61-8342-c0b5e99ef2f2",
+    "data": [
+      {
+        "text": "pembyaran ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " blm berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "321da246-e007-43a2-8ac1-f4a3d4ecdaf6",
+    "data": [
+      {
+        "text": "pembayaran tagihan ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya belum berhasil juga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6a1d1bc0-0d59-40fc-99d8-88b582bb299d",
+    "data": [
+      {
+        "text": "kak toped transaksi saya ",
+        "userDefined": false
+      },
+      {
+        "text": "byr",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "td pagi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kok status menunggu konfirmasi ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "be10ddb9-512b-40cc-8abd-a5060263f48f",
+    "data": [
+      {
+        "text": "saya ada transaksi pembayaran kartu ktedit ",
+        "userDefined": false
+      },
+      {
+        "text": "hari ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". tapi belum ada konfirmasi mengenai pelunasan yg sdh saya lakukan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d6811c61-b26c-478e-a1e7-06ea17eed9ba",
+    "data": [
+      {
+        "text": "Mlm",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".. mau nanya utk pembayaran ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sy sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " knp statusnya masih menunggu konfirmasi operatornya ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f6d824bb-e7f7-4320-b007-6b73507ddb5c",
+    "data": [
+      {
+        "text": "pembayaran ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya belum di konfirmasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3055a44b-cf35-46a1-9d7d-a6e6c59b7075",
+    "data": [
+      {
+        "text": "pembayaran kartu kredit saya kenapa belum terproses yah ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b44c993b-fdd3-4036-a9be-03dd3b22a61a",
+    "data": [
+      {
+        "text": "transaksi pembayaran ",
+        "userDefined": false
+      },
+      {
+        "text": "cc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bni",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " berhasil atau tidak keterangan ya menunggu operator terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a898df0b-1e0c-48d1-9ef6-9721b2137d96",
+    "data": [
+      {
+        "text": "Kenapa pulsa saya blm terisi? Di status tertulis menunggu pembayaran padahal sdh saya bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "122c04e3-cec5-43f7-81e3-9aa252d9ef72",
+    "data": [
+      {
+        "text": "Kenapa pembayaran Tagihan ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eee91745-5a34-4fef-8d01-86a850829523",
+    "data": [
+      {
+        "text": "pembelian token listrik PYR/20181029/XVIII/X/86263149 kenapa blm terverifikasi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "21d7c215-b90d-4071-aca4-891289a7748c",
+    "data": [
+      {
+        "text": "Saya ",
+        "userDefined": false
+      },
+      {
+        "text": "td siang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "byr",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tagihan ",
+        "userDefined": false
+      },
+      {
+        "text": "CC",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "BNI",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di Tokopedia dgn ada promo ",
+        "userDefined": false
+      },
+      {
+        "text": "tokocash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "75rb",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Tp sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " transaksi masih menunggu konfirmasi ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " operator",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "93279761-b8e1-4a9f-af9a-ae112e959577",
+    "data": [
+      {
+        "text": "sy sdh isi ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di tokopedia buat iklan toko tp kenapa tidak masuk padahal sy sdh ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " uang ",
+        "userDefined": false
+      },
+      {
+        "text": "150",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " rb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cd07f620-c254-4b0e-82b5-6a642eb44f72",
+    "data": [
+      {
+        "text": "transaksi pembayaran ",
+        "userDefined": false
+      },
+      {
+        "text": "cc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya via toped kenapa lama yah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1715bbb6-6d3a-45e5-a931-d7546bd4aaa7",
+    "data": [
+      {
+        "text": "transaksi pembayaran sisi saya statusnya menunggu konfirmasi operator terus, sebelumnya ud ",
+        "userDefined": false
+      },
+      {
+        "text": "dua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kali seperti itu dan gagal ini dr jam ",
+        "userDefined": false
+      },
+      {
+        "text": "12",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ampe ",
+        "userDefined": false
+      },
+      {
+        "text": "skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " statusmya tidak berubah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "803c2c89-b904-46f4-9c22-262af405b9fd",
+    "data": [
+      {
+        "text": "Sy mau menanyakan status pembayaran ",
+        "userDefined": false
+      },
+      {
+        "text": "cc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " yg tertulis menunggu operator terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f8080e46-bb11-4f63-b1ea-a1b5fc786cc2",
+    "data": [
+      {
+        "text": "Transaksi saya pembayaran ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " masih menunggu operator",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bf0b54e7-385a-4e74-96d5-4ffe5af8b64a",
+    "data": [
+      {
+        "text": "saya sdh ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " k ",
+        "userDefined": false
+      },
+      {
+        "text": "rek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bni",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " untuk pembyran angsuran Homecredit tp status nya msh menunggu pembyran mohon dbantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "582f8c06-5981-4cf7-9875-f43f8c42e45c",
+    "data": [
+      {
+        "text": "Bagaimana pembayaran pembelian token saya belum diverifikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b1939f52-aa3f-4471-aa34-afce6d830cc2",
+    "data": [
+      {
+        "text": "saya baru bayar account virtual bca untuk pembayaran kartu kredit bni saya.tapi biasanya otomatis ada laporan diterima,ko sudah hampir sejam belum ada laporannya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1c297b32-29f4-423b-8f7c-0dd9d7ee6d2d",
+    "data": [
+      {
+        "text": "konfirmasi manual ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " untuk pembelian token listrik berapa lama ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d959f92d-3fad-42f2-9bd1-d17bddeb811c",
+    "data": [
+      {
+        "text": "sy melakukan pembayaran ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tp status masi menunggu konfirmasi dr operator sedangkan time limit bayar tgl ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "nop",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". apakab bisa dpt info sampai dimana prosesnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8747f6a6-9df2-4c21-8b3c-80b769be754e",
+    "data": [
+      {
+        "text": "Saya baru saja melakukan pembayaran listrik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "61478f78-0bdd-494f-8c6b-fcdf4bf313c7",
+    "data": [
+      {
+        "text": "dari kmrn liat statusnya masih tertulis, menunggu konfirmasi operator",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "018fce53-d5e7-4bf6-a34f-017280ed29fa",
+    "data": [
+      {
+        "text": "sy sdh bayar bpjs kesehatan, tp blm ada konfirmasi apakah pembayaran sy berhasil atau tidak..Saya baru saja melakukan pembayaran listrik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "029a0cff-15fb-4c86-90eb-a8b41e928ed1",
+    "data": [
+      {
+        "text": "saya topup ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ovo ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", belum berhasil.. statusnya masih menunggu pembayaran.. pdhal ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di rekening Bank sudah berkurang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a24845e3-8ccf-4e0d-bbf2-06edccb8042a",
+    "data": [
+      {
+        "text": "saya udah ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " uang ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " rekening ",
+        "userDefined": false
+      },
+      {
+        "text": "bni",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " untuk tagihan pdam dan listrik bukti ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " udah ada tapi kenapa belum di proses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cbf851c9-0188-484a-950a-f17c83e31d06",
+    "data": [
+      {
+        "text": "malan sy mau bertanya sy baru sj membeli top up token listrik dan sudah memilih pembayaran dgn klik bca tp kenapa tidak ada notifikasi. tks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9949d08a-8e22-427a-a57c-53ada11f20dd",
+    "data": [
+      {
+        "text": "pembayaran kartu kredit saya belum berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "deb2dcbf-ac2c-4160-b067-589e3af0c00a",
+    "data": [
+      {
+        "text": "beli token listrik tapi belum diverifikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ae7a09e2-a807-4b8a-a6d5-0f163de41d67",
+    "data": [
+      {
+        "text": "mengapa pembayaran kk yg sy ",
+        "userDefined": false
+      },
+      {
+        "text": "byr",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "kmrn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tgl ",
+        "userDefined": false
+      },
+      {
+        "text": "30oktober 2018",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sy msh menunggu konfirmasi operator?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e40791e3-1744-44aa-b2b1-b6feefe415cc",
+    "data": [
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "kmrn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " liat statusnya masih tertulis, menunggu konfirmasi operator",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "86340a0d-4e96-436b-928a-11ca3fa1de57",
+    "data": [
+      {
+        "text": "pembayaran bpjs sudah di bayrkan tetapi mash nunggu operator apakah sudah trbayar apa blm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3c395689-9cfa-435c-81fe-4045fe79900c",
+    "data": [
+      {
+        "text": "saya ad pembayaran ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " standart charter tapi blm ada konfirmasi dati operator bisa di bantu ???? nominal yg saya bayar adalah ",
+        "userDefined": false
+      },
+      {
+        "text": "9.381.165",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e278c75e-160a-43c4-b361-dd08b38e63d9",
+    "data": [
+      {
+        "text": "saya melakukan topup emoney ",
+        "userDefined": false
+      },
+      {
+        "text": "200ribu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tgl ",
+        "userDefined": false
+      },
+      {
+        "text": "28 Oktober 2018",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", pembayaran melalui ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mandiri",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "19943982-d55a-45bf-ac03-4172300b232e",
+    "data": [
+      {
+        "text": "pembayaran kartu kredit saya ke bank mega tanggal 31 okt 2018,sampai saat ini masih belum diterima bank mega",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f631fab9-22fe-4f80-ae80-621a7a3a9706",
+    "data": [
+      {
+        "text": "pembayaran kartu kredit, uangnya belum masuk ke bank nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1e1f0f63-6757-48ff-9fce-47d4cfe425e8",
+    "data": [
+      {
+        "text": "\u0027Transaksi tersebut belum masuk ke kartu emoney",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3d8c3d25-5091-4e44-8922-6bd5250664b4",
+    "data": [
+      {
+        "text": "saya beli pket data ",
+        "userDefined": false
+      },
+      {
+        "text": "ko",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " blm ",
+        "userDefined": false
+      },
+      {
+        "text": "masuk2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e472c89e-0624-415c-a6ca-f915b43497ce",
+    "data": [
+      {
+        "text": "saya mau ",
+        "userDefined": false
+      },
+      {
+        "text": "beli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pulsa tapi di tulis maaf permohonan anda tidak dapat diproses ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". mohon coba kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b2e7a9d5-df2c-4ead-83e4-bb390a1a9d1a",
+    "data": [
+      {
+        "text": "kenapa ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " e money saya belum bertambah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9c36caf3-d6a6-4fd9-a031-7f8e1515db76",
+    "data": [
+      {
+        "text": "no token saya belum dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c280ef95-cdb0-4ef6-b1da-5674081c5979",
+    "data": [
+      {
+        "text": "sy transaksi tagihan air PDAM tapi blm diproses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e7612f8a-c396-4389-bd47-7bf5bd0c505a",
+    "data": [
+      {
+        "text": "sore",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " barusan saya beli token listrik ",
+        "userDefined": false
+      },
+      {
+        "text": "200.000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kok belum dikirim ya no tokennya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "482166f0-49ff-4534-ade1-b4d86e6b0ece",
+    "data": [
+      {
+        "text": "token listrik kok belum sampe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e6fe270f-b2ba-4982-b122-4513de8bbb0f",
+    "data": [
+      {
+        "text": "pulsa belum diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "57ce47b6-2e79-410f-9604-794f6b1d9dcf",
+    "data": [
+      {
+        "text": "tolong dibantu IVR/20180602/XVIII/VI/56566061 apakah pembelian berhasil atau tidak? krn sudah hampir 2 jaman paket data ga sampe2 kesaya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bf966ee7-87db-4b7a-8d77-c93acb142af8",
+    "data": [
+      {
+        "text": "mohon bantuannya utk mengembalikan dana saya, karena paket data yg saya beli belum masuk sampai dengan hari ini dan jam ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1fe87e4f-d7ea-499b-bcb2-b3e709ea8167",
+    "data": [
+      {
+        "text": "saldo saya di akun m-tix belum bertambah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b22945ff-f25d-483a-9f4f-de4341b2d095",
+    "data": [
+      {
+        "text": "pulsa saya belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3ad6730f-dedb-4eb8-bc75-a5e93c6b7f2d",
+    "data": [
+      {
+        "text": "transaksi voucher game masih menunggu operator",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d5ef7858-c6fa-4ea5-9970-f01882431722",
+    "data": [
+      {
+        "text": "Sudah transaksi dan bayar Topup Pulsa, saldo tidak masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "78b166a7-1d44-4f20-afc2-f9d3851e2672",
+    "data": [
+      {
+        "text": "mengapa saldo m-tix saya tidak masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4fa32934-046b-41a5-94bc-7d1e22acb956",
+    "data": [
+      {
+        "text": "Tolong operator terkait utk segera proses pembayaran sya soalnya udah dari ",
+        "userDefined": false
+      },
+      {
+        "text": "kemaren",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " blm ada responnya status masih menunggu konfirmasi operator, jika ga ada respon lebih lanjut tolong dibatalkan aja dan dana dikembalikan ke saldo/rekening saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ef9235e8-acc2-4d54-ab35-40bfed49cf46",
+    "data": [
+      {
+        "text": "Saya telah melakukan Pembayaran MNC Vision Top TV cara bayar Transfer ",
+        "userDefined": false
+      },
+      {
+        "text": "Bank BCA",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sebesar ",
+        "userDefined": false
+      },
+      {
+        "text": "Rp",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". ",
+        "userDefined": false
+      },
+      {
+        "text": "115.365",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Kenapa di transaksi saya status : menunggu konfirmasi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1947bb0f-387e-4327-af90-d4dcc7bed9bc",
+    "data": [
+      {
+        "text": "Status belum masuk listrik nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d7f00210-bd84-4d07-a4e6-c185b3270bd9",
+    "data": [
+      {
+        "text": "Saya sudah bayar dan sudah sukses pembayarannya kok statusnya masih belom terkonfirmasi yah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "79c35a36-87b9-4128-a277-b9570db08458",
+    "data": [
+      {
+        "text": "Saya sudah transfer ",
+        "userDefined": false
+      },
+      {
+        "text": "100004",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " buat langanan viu ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bulan tapi masih belum ada konfirmasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d296d212-ff6a-4eac-a3c1-8c788f0dd97e",
+    "data": [
+      {
+        "text": "saldo mtix saya belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4c516660-99dd-41d7-aec3-84188c98291e",
+    "data": [
+      {
+        "text": "saldo mtix saya kenapa belum masuk?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e82587a0-f9fb-4f48-a6e9-5980870ad68d",
+    "data": [
+      {
+        "text": "Gimana ini, transaksi digital belum berhasil, tolong proses yang bener ",
+        "userDefined": false
+      },
+      {
+        "text": "dong",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7a807eb9-6cb3-4801-bbee-79ec7a204d3c",
+    "data": [
+      {
+        "text": "Pembayaran Belum verifikasi untuk pembelian token pln ",
+        "userDefined": false
+      },
+      {
+        "text": "Rp",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". ",
+        "userDefined": false
+      },
+      {
+        "text": "1.000.000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ",- atas ",
+        "userDefined": false
+      },
+      {
+        "text": "id",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pelanggan ",
+        "userDefined": false
+      },
+      {
+        "text": "45026580188",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " atas nama Bambang Ngadiman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a9813665-2b64-478f-be90-f1324f292730",
+    "data": [
+      {
+        "text": "Sudah melakukan pembayaran melalui transfer manual dari bank mandiri namun kuota belum sy terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "59df59f6-943b-4dd0-a2e4-0ea87e01021e",
+    "data": [
+      {
+        "text": "blm dapat nomor token listrik tapi sudah saya transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d0931247-40a1-4615-9fbb-7b7cf5dc21d7",
+    "data": [
+      {
+        "text": "berapa lama sampe transaksi saya berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b4fec91f-c944-4096-a1d6-29d4662cd7a6",
+    "data": [
+      {
+        "text": "Tolong konfirmasi untuk transaksi pembelian diamond mobile legend saya sebesar ",
+        "userDefined": false
+      },
+      {
+        "text": "10ribu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Terimakasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0de60b63-e006-455b-a794-89de0d9c2e68",
+    "data": [
+      {
+        "text": "top up mtix saya kenapa tidak masuk ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "efacbd62-0325-426d-ac3b-e30a2d08faca",
+    "data": [
+      {
+        "text": "tidak ada reply dari operator, transaksi tidak bisa diproses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6f12b75a-d68c-4bf1-a800-1be6198de31b",
+    "data": [
+      {
+        "text": "paket roaming saya kenapa belum diterima yaaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0b7a6271-7eda-4096-a526-cb22b5d902a7",
+    "data": [
+      {
+        "text": "Top Up M-Tix belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b3ac3d6d-6e9c-4d13-8cc3-6302828ddba7",
+    "data": [
+      {
+        "text": "Transaksi berhasil namun pulsa belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1ad4e261-610f-442e-b994-8e9ff2d130ab",
+    "data": [
+      {
+        "text": "Kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya melakukan pembayaran nexmedia dengan menggunakan kartu kredit saya, namun keterangannyaTransaksi Tertunda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5da8dd48-12e7-480e-ad65-2c572a193843",
+    "data": [
+      {
+        "text": "Saya membutuhkan nomor kode token listriknya segera, karena listrik di rumah saya sudah hampir habis saldonya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "016c0674-ec7d-46bd-a891-a4d8f2abc1eb",
+    "data": [
+      {
+        "text": "transaksi pulsa saya belum berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cbd54998-52c1-488b-a54c-d995563bb6ae",
+    "data": [
+      {
+        "text": "voucher joox saya kok belum berhasil sih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d60eb36e-93f2-45b1-8097-db633906a358",
+    "data": [
+      {
+        "text": "voucher streaming belum diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "21852485-dc0e-4366-b69c-f06ab335fa53",
+    "data": [
+      {
+        "text": "transaksi belum berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f63fab3a-4491-478b-bae2-c34d82ca0672",
+    "data": [
+      {
+        "text": "sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "30",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " menit menunggu konfirmasi operator",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "72787cb4-efce-4a98-9415-ad6f6096f862",
+    "data": [
+      {
+        "text": "Pembayaran Angsuran Kredit sudah ditransfer tapi belum terverifikasi oleh sistem tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fc4cace9-32bc-4029-bdd4-e660a7164366",
+    "data": [
+      {
+        "text": "Pembayaran token listrik sudah transfer tetapi belum terverifikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6f5897ee-1be1-4b9b-9dfa-b0b6862f70c8",
+    "data": [
+      {
+        "text": "kode voucher streaming saya belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dac13eb2-ed95-459c-9cb0-24102529cc7b",
+    "data": [
+      {
+        "text": "kode voucher pulsa saya belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "87e74ef0-2212-488b-9a28-700f9911ff31",
+    "data": [
+      {
+        "text": "Pulsa dan Paket data belum diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "24c36bf6-56ff-48ef-9dae-3f89ad1f4846",
+    "data": [
+      {
+        "text": "top up mtix kenapa berkendala ya. biasanya cepat diterima, tp skrg top up belum diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "04ff76b2-43e5-4cc1-b0ac-db852b936305",
+    "data": [
+      {
+        "text": "saya sudah transfer pembayaran pdam aetra jakarta an salman kenapa transaksi belum berhasil??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1995e3e8-89ff-4c5c-b0d6-6b85036780fc",
+    "data": [
+      {
+        "text": "transaksi pulsa masih menunggu operator",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a6254318-70dd-4876-9208-b122b2d3b8e8",
+    "data": [
+      {
+        "text": "Saldo M-Tix saya belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5f797663-5c79-400c-bc5e-ccd54d04d660",
+    "data": [
+      {
+        "text": "Tagihan listrik sudah saya bayar, tapi belum terverifikasi. Mohon bisa segera diatasi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "680aabb0-eec1-45b0-a776-ee4d76ff4896",
+    "data": [
+      {
+        "text": "Saya sudah transfer pembayaran PLN bulan ",
+        "userDefined": false
+      },
+      {
+        "text": "mei",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Mohon segera di proses...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "59e32232-9435-4fc2-b962-28995ef31e40",
+    "data": [
+      {
+        "text": "tagihan PGN saya belum berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "650431c6-9299-4448-a392-ce0a78835393",
+    "data": [
+      {
+        "text": "saya sdh isi pulsa sebesar 100rb dengan metode pembayaran saldo,, saldo sdh di potong, tetapi pulsa masih belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "22baa606-30c7-4b35-a609-cd22037513ea",
+    "data": [
+      {
+        "text": "Verifikasi Pembayaran BPJS Kesehatan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "47ee58c9-2cd6-4bf5-8bba-1bd5c314c7b0",
+    "data": [
+      {
+        "text": "Tolong segera di konfirmasi untuk pembayaran listrik pln, thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f38a8ec5-abed-4382-8f89-6a928572d253",
+    "data": [
+      {
+        "text": "Pembelian voucher mobile legend sudah saya transfer tapi saya lupa.belum konfirmasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f433757e-a443-4d51-8fc6-464ee7461cfd",
+    "data": [
+      {
+        "text": "sampai kapan transaksi pending terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e90b9b50-1619-450b-bd48-578eed60a622",
+    "data": [
+      {
+        "text": "paket data 10GB yg dibeli tidak masuk sampai sekarang ke nomor xl 087880707727",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "95229ae3-5365-457b-95c2-7ed86e93059f",
+    "data": [
+      {
+        "text": "Sy sdh transaksi beli pulsa 50rb di no.085241826829 tp belum masuk juga sy sdh transfer BCA virtual account dan berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dfba0189-69fe-432a-9d6c-9f83abe3dee4",
+    "data": [
+      {
+        "text": "saldo m-tix saya tidak masuk min",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4f83b653-512b-43df-b828-7367d39bc1c4",
+    "data": [
+      {
+        "text": "Transaksi pembelian token listrik nominal ",
+        "userDefined": false
+      },
+      {
+        "text": "100",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", sudah melakukan pembayaran via transfer, namun blm terverifikasi oleh pihak toped,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "584d868f-1c29-443f-a09c-ae24f73b10e5",
+    "data": [
+      {
+        "text": "transaksi pulsa saya masih menunggu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a1bd3af9-1362-45b5-8f68-4a4ef3f3048c",
+    "data": [
+      {
+        "text": "transaksi pulsa belum berhasil mohon di lakukan penanganan segera uang saya sudah di potong tetapi pulsa belum masuk sampai kapan saya menunggu pulsa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "958e9a1e-00dc-4cfc-be6f-7b1075631415",
+    "data": [
+      {
+        "text": "Trx pulsa blm berhasil, saya sdh melakukan transfer ke rek bca tokopedia, mhn dibantu proses nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2dd9627a-8e0d-4680-9452-6fbac5b10cc2",
+    "data": [
+      {
+        "text": "Saya sudah Transaksi melalui indomaret, kok tertera menunggu operator",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2ac5a9bc-06e8-4494-98cd-db686e44e8e9",
+    "data": [
+      {
+        "text": "Saya sudah melakukan pembayaran untuk voucher KFC, apakah itu sudah berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7340ce39-313a-45d3-87a0-85d9338f873f",
+    "data": [
+      {
+        "text": "min saya sudah melakukan pembelian saldo mtix di tokopedia, tp sampai skrg belum saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fb6bfbc9-161b-4500-8a7a-edbb18462d53",
+    "data": [
+      {
+        "text": "kak boleh saya tanyakan kenapa di tokopedia sudah sukses tp paket data tidak msk?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3aace9c5-1db5-4fae-a8f9-2891a7873ac0",
+    "data": [
+      {
+        "text": "top up mtix belum diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4a11208f-ca49-4988-aa3b-fd3a95439b80",
+    "data": [
+      {
+        "text": "pembelian digital saya masih pending",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6cd5852a-5726-46b8-b69d-2eba79d33dd3",
+    "data": [
+      {
+        "text": "transaksi saya masih menunggu operator",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "47e362dc-5e89-4771-8306-f0a961de88c7",
+    "data": [
+      {
+        "text": "Mohon di verifilasi pembayaran indihome saya. Trm ksh toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "31fc2942-e195-4709-acc7-c8b1d1a795b6",
+    "data": [
+      {
+        "text": "Token pln belum masuk padahal saya sudah melakukan pembayaran via virtual account bca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "400ab40c-3529-42b7-921e-c1e748de075c",
+    "data": [
+      {
+        "text": "Disini tertulis akan dicoba lagi ",
+        "userDefined": false
+      },
+      {
+        "text": "20",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " menit ke depan tadi sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " jam belum masuk juga. Lagi butuh sekali soalnya urgent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4b3d087f-c839-4b93-910e-c7f6eac3de42",
+    "data": [
+      {
+        "text": "aku sudah beli voucher game mobile legend kok diamonya tidak masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2c2f0eb4-d4fb-48ca-a973-704ae0addb15",
+    "data": [
+      {
+        "text": "knp token listrik blm masuk jg? pembayaran sudah dilakukan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "51dc8bf9-db51-445d-b808-20d5bf0295bb",
+    "data": [
+      {
+        "text": "Salah input nomor telepon saya mau men cancel pembelian saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b439758b-3707-4142-8a65-1686b68ce81d",
+    "data": [
+      {
+        "text": "kami sdh melakukan pembayaran pembelian token listrik ",
+        "userDefined": false
+      },
+      {
+        "text": "100.000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dengan jumlah transfer ",
+        "userDefined": false
+      },
+      {
+        "text": "102.750",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum ada konfirmasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5cc5211a-1652-4126-81e5-e969bca40cb5",
+    "data": [
+      {
+        "text": "Saya bayar BPJS via Tokopedia tapi belum ada konfirmasi, biasanya Cepat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eeab05e6-7f8d-4e87-910f-73167f728719",
+    "data": [
+      {
+        "text": "pembelian digital saya belum dikonfirmasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f5d25175-b9d8-4f4c-8254-8af460107a41",
+    "data": [
+      {
+        "text": "sudah transfer utk membeli paket internet volume ",
+        "userDefined": false
+      },
+      {
+        "text": "150rb",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " smartfren.. tetapi transaksi belum berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1ef12d92-e94c-49c4-b54b-b2932674afd5",
+    "data": [
+      {
+        "text": "Transaksi PLN disebut gagal - tokocash terpotong. Mohon dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aaae6633-9886-4566-af42-4d6f095eaccc",
+    "data": [
+      {
+        "text": "saya beli token listrik ",
+        "userDefined": false
+      },
+      {
+        "text": "500.000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tp belum diproses padahal saya sdh transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "737f9c9c-1d78-4a76-93c5-47aba0f2790f",
+    "data": [
+      {
+        "text": "Tolong secepatnya untuk kirim kode token listriknya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "271a9120-753c-40fd-b924-f3dec75760f4",
+    "data": [
+      {
+        "text": "Saya sudah membayar tagihannya, terlampir bukti transfer, tetapi masih belum terbayar juga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "300fef33-fde9-4655-a35a-50f8da89f0e8",
+    "data": [
+      {
+        "text": "Sudah saya transfer kenapa blum dapat token nya ya. Dan masih keterangan menunggu proses pembayaran.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ac2f8636-3f4e-44c8-afec-c4bfccc23bee",
+    "data": [
+      {
+        "text": "Status menunggu operator, tapi uang sudah dibayar, bagaimana bisa terjadi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "21211e9a-b2f4-4f84-8a04-5da2746860bc",
+    "data": [
+      {
+        "text": "bpjs saya belum masuk masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "20718168-dffd-458a-976d-382272b580dc",
+    "data": [
+      {
+        "text": "Menunggu konfirmasi operator yang terlalu lama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c4a8e114-cbac-4dd3-a904-ceccc60c45bf",
+    "data": [
+      {
+        "text": "Saya mekakukan pembayaran tv kabel, uangnya sudah terpotojg dr ",
+        "userDefined": false
+      },
+      {
+        "text": "CC",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya najun mengapa statusnya belum berhasil mohon bntuanya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5d5e1fab-2178-4f03-ae11-7a36b322b35c",
+    "data": [
+      {
+        "text": "pembelian pulsa saya belum sukses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1ad3b78b-e04e-49bd-93b6-c8f670567375",
+    "data": [
+      {
+        "text": "menunggu konfirmasi operator terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0ab60ad6-cc00-4067-b0ae-79e0728af628",
+    "data": [
+      {
+        "text": "Pembayaran bpjs saya sebesar ",
+        "userDefined": false
+      },
+      {
+        "text": "Rp",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "163.240",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum terverifikasi saya lampirkan bukti transfer saya, terimaksih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1caea863-aef9-467a-a2ac-a4ab2a712a9a",
+    "data": [
+      {
+        "text": "saya membeli pulsa telkomsel sejumlah 150.000. Tapi sampai sekarang pulsa nya belum juga masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "258276d1-c7f0-49db-984e-1816ab1d59b0",
+    "data": [
+      {
+        "text": "td sy beli pulsa Tp kok blm masuk ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fc69a31f-612e-46ab-8ffa-87a9c4694ed5",
+    "data": [
+      {
+        "text": "sudah bayar untuk pembelian pulsa telkomsel 150k tapi kenapa pulsa belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d20efc6f-5756-4a69-94cc-efe2aec7ad5a",
+    "data": [
+      {
+        "text": "Saya hari melakukan 2x transaksi pulsa pertama tidak masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c2a79b44-5278-453e-8bb0-18cfa9a6ea33",
+    "data": [
+      {
+        "text": "saldo eToll saya belum bertambah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3f9dcd64-709f-4ac6-aa2c-045703da15ca",
+    "data": [
+      {
+        "text": "saya bertransaksi pulsa, tapi sampai sekarang belum diterima oleh nomor tsb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "19cfd850-4f25-451e-98e8-907cc7cbba87",
+    "data": [
+      {
+        "text": "Saya beli pulsa tapu belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b3368355-9166-49ee-9cc7-d667bb4cfc13",
+    "data": [
+      {
+        "text": "Saya beli pulsa tp sudah 2 jam belum masuk juga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "33fbc445-2175-45e0-9074-4a2e1f3d8ea3",
+    "data": [
+      {
+        "text": "Saya beli pulsa, keduanya belum masuk hari ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c6cf9eca-62e1-408c-9d5e-3f604736007e",
+    "data": [
+      {
+        "text": "Saya bayar top up token listrik tp blm dpt tokennnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1900233c-2444-4c13-a312-1535910d5748",
+    "data": [
+      {
+        "text": "isi token pln blm masuk2. saya butuh urgent. malah diclosed. gmn sih.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bd535f47-db5e-493c-8030-f5f7f68cb7ff",
+    "data": [
+      {
+        "text": "Isi pulsa koq belum masuk ya..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ea45cacc-ba0b-4eb5-aa4e-ba7b3bcc0fb5",
+    "data": [
+      {
+        "text": "Isi pls blm masuk.. saldo ovo sudah terpotong...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "284e8a03-3c38-46d7-bf2c-41b3970b0dd9",
+    "data": [
+      {
+        "text": "Hei, transaksi pembelian pulsa saya sebesar 150.000 rupiah ke nomor 081215302401 menghilang dari daftar transaksi, sebelumnya transaksi tersebut sedang menunggu konfirmasi operator, dan menunggu 20 menit sebelum sistem mencoba transaksi kembali, tatapi kemudian transaksi tersebut HILANG dari daftar transaksi sebelum berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "50594206-bca4-4948-85c9-6032f0dc2f8b",
+    "data": [
+      {
+        "text": "Hari ini saya beli tiket kereta buat saudara saya tapi sampai sekarang belum ada KODE booking.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "65fd95ef-c849-4f20-a1fa-c5d67bc9faa2",
+    "data": [
+      {
+        "text": "Pagi sist saya mo nanya pembayaran kartu kredit tgl 24 nop 2018 saya udah saya cek ke CIMB niaga kok belum masuk ya? Mohon follow upnya tq",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bff71f32-6e20-4b29-9754-b4aa63a1ff1b",
+    "data": [
+      {
+        "text": "pagi, sy mau tanya tgl 23 sy bayar CC citibank sampe skrg belum ada konfirmasi, sedangkan duenya CC tersebut tgl 27 , tolong di bantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "059704da-dbce-4eb1-a32e-4e9d75ff5cd3",
+    "data": [
+      {
+        "text": "halo saya ada kendala untuk update e-money. saya ada transaksi 100rb rupiah, lalu coba ke atm updatenya gagal. gambar saya sertakan. thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fc063a8a-eb9e-4195-82bc-f7ac86d5faad",
+    "data": [
+      {
+        "text": "Sy isi pulsa dan sy sdh trnsfer tpi ko pulsa nya blom masuk ke no saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "22bd4aec-411e-4db4-af53-d8ea4906bc43",
+    "data": [
+      {
+        "text": "Mohon berikan notifikasi apakah transaksi ini berhasil atau gagal,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9c64edab-594a-4931-a62c-f3fb2f9a0868",
+    "data": [
+      {
+        "text": "Tadi pagi beli pulsa simpati ke no 081284929004 udh 2 x tp ga msk pulsanya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a8fdeb67-0a89-4fe2-b53b-807dc3846417",
+    "data": [
+      {
+        "text": "Mengapa transaksi pembayaran air saya tidak berhasil, mengapa dana tertulis sudah dikembalikan tetapi belum masuk ? Foto attachment tifak bisa.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "68bbd438-3bd5-407d-b84b-17c1468565b3",
+    "data": [
+      {
+        "text": "terjadi kendala teknis satt melakukan pembayaran kartu kredit BNI",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "323d4faf-19ac-4b78-b4df-80b40ef22391",
+    "data": [
+      {
+        "text": "Malam, tdi siang saya transaksi Pulsa Simpati, dan tadi Saya liat di Daftar Transaksi masih ada, dan ada Notif Menunggu dari Operator, tadi malam saya cek kok tidak ada di daftar Transaksi dan pulsanya jug a belum masuk, mohon dibantu laporan saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a58b27eb-3f0d-4771-ad77-166b688f39db",
+    "data": [
+      {
+        "text": " Sy ada transaksi pembyran kk   Masa pembyran kk dipending sampe 4 hri baru dinyatakan transaksi tidak berhasil pd hari ni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ca5547ab-ed89-45ab-98c2-147a0c232300",
+    "data": [
+      {
+        "text": "Saldo Ovo sy belikan pulsa dgn rincian sbb : 25.500 ( Berhasil ), Tidak Berhasil ini sdh memotong Saldo Ovo sy, Pulsa tidak masuk,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8b75fae3-ac7a-4201-bcba-bf32a6720382",
+    "data": [
+      {
+        "text": "saldo emoney tidak bisa di update padahal transaksi telah berhasil?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f8811482-05f7-439a-9ff1-5fe337215c7a",
+    "data": [
+      {
+        "text": "Saia sudah byr tagihan kartu kredit lewat toped tapi ga da blsn konfirmasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cb473bf4-6479-42bb-b2ef-e11a3742b908",
+    "data": [
+      {
+        "text": "Pulsa belum masuk smpai saat ini,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7266d039-eb64-4c88-bf2b-98aea985c0cf",
+    "data": [
+      {
+        "text": "Promo pembayaran kartu kredit tdk berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "501d77ef-c3f3-4d8d-89f3-9ea0c135a0a3",
+    "data": [
+      {
+        "text": "Pengisian pulsa blm masuk sudah 4jam. Payah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5d0ed080-153b-4885-aa10-7e57cc86faba",
+    "data": [
+      {
+        "text": "Pembelian Token Listrik yang tidak masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4cd0aeda-77d4-4978-a9f8-4ec181bd08d2",
+    "data": [
+      {
+        "text": "Pembelian pulsa simpati gagal dan saya cek di riwayat transaksi datanya hilang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dd2d1386-b6d2-41e2-9126-9131a20b3fc8",
+    "data": [
+      {
+        "text": "Pembelian pulsa simpati sudah 1jam lebih blm masuk juga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d3754fab-b3f1-42c9-8986-3446f03d593d",
+    "data": [
+      {
+        "text": "Pembelian pulsa PLN dengan tidak masuk di akun saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e25354cc-5f93-4f96-b16e-586c9ee5c5ef",
+    "data": [
+      {
+        "text": "Pembelian pulsa gagal berulang kali, mendapatkan pesan dana kembali ke ovopoints akan tetapi belum masuk ke toko points juga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "992ab01b-b971-469a-bda1-77d388a6ac65",
+    "data": [
+      {
+        "text": "Pembelian pulsa,,tapi dana belum di kembalikan ke saldo toped,sudah hampir 1x24jam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e220d400-ca1f-47f0-8afa-d05a74a31765",
+    "data": [
+      {
+        "text": "pembayaran pam saya pada tgl 18/10/2018, terbayar 2x akan dikembalikan sampai sekrg belum ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c0eecf78-8af7-4f9a-bd41-8cca75901e60",
+    "data": [
+      {
+        "text": "pembayaran kk tertunda..kenapa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8cfc77d2-39de-4287-92ab-ca6df6a57a5d",
+    "data": [
+      {
+        "text": "Pembayaran kartu kredit gagal IVR/20181122/XVIII/XI/93926118. ini kejadian yang kedua kalinya saya alami",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b465d923-d1fd-4d23-a2f3-21478468dd19",
+    "data": [
+      {
+        "text": "Pembayaran cc sudah dipotong Tapi transaksi di tokopedianya masih kosong Tidak ada transaksinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "32fd9725-2b39-4785-a9cd-b51dc7dd902a",
+    "data": [
+      {
+        "text": "Pembayaran cc saya kenapa di tolak hr ini terakhir jatuh tempo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "48c1132e-454c-44c9-bdbc-a5e25fc4dd8f",
+    "data": [
+      {
+        "text": "Pembayaran CC belum masuk ke bank yg di tuju",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a94712cf-e09f-4d37-aff1-7b0137b5eb2f",
+    "data": [
+      {
+        "text": "pembalian pulsa sudah berhasil, tapi pulsa tidak masuk, dan transaksi tersebut tidak ada di daftar transaksi. mohon dibantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "514dd997-7092-44bb-a56a-d3c2b725f655",
+    "data": [
+      {
+        "text": "kemarin saya isi ulang e-money, saya update saldo melalui fitur e-money, update berhasil tetapi dananya tidak masuk ke kartu e-maoney saya. Saya coba ulang update lagi, tertulistidak ada pending dana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d5bd8582-429e-473a-9259-e68cb74d27d6",
+    "data": [
+      {
+        "text": "Hai, saya masih tidak bisa bayar tagihan kartu kredit di Tokopedia. Saya sudah mencoba jam 11:30 tadi, lalu saya beri jeda dan mencoba lagi jam 13:55 tapi tetap tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "726ded16-856f-4b10-9f0a-f732ccb70e19",
+    "data": [
+      {
+        "text": "Gagal topup Emoney, sudah claim ke mandiri. Kata pihak mandiri dari tokopedia nya yang belum mentopup kartu emoney saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bd729696-0ce2-4547-8179-a504d8275f75",
+    "data": [
+      {
+        "text": "Ga bisa bayar tagihan CC BNI. Udah coba gagal terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c692d986-e869-42a1-b3d5-cd992758c66c",
+    "data": [
+      {
+        "text": "Tidak bisa melakukan pembayaran kartu kredit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "51ad997c-e545-4e2d-8a1d-e36c4d538455",
+    "data": [
+      {
+        "text": "e - ticket kereta api Cirebon (CN) - Gambir (GMR) Senin, 26 November 2018 pukul 18.30, belum ada di daftar transaksi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "18e7e86f-629d-4d6d-9f05-3e4223c850c6",
+    "data": [
+      {
+        "text": "Emoney saya tidak ter update. Saat ingi melakukan transaksi diindomaret. Data tercatat 0 rupiah. Kebetulan juga saya baru sadar bahwa saya top up melebiho 2 juta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "28fdf26e-0246-431f-8e41-420093245754",
+    "data": [
+      {
+        "text": "Tolong di check pembayaran kartu kredit citibank saya tgl 22 nov sebesar satu juta rupiah krn sampai hari ini statusnya masih menunggu konfirmasi operator",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3d485941-d371-471a-ad6b-0a5eeb26be51",
+    "data": [
+      {
+        "text": "top up emoney..saldo tidak berhasil diupdate. via atm..indomaret",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d3da7fcd-b6b4-4425-aeb4-bd459d8c6234",
+    "data": [
+      {
+        "text": "Topup emoney ga masuk padahal sdh transfer melalu virtual account bca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "04a28883-558a-4452-8adb-549bbd6dcc71",
+    "data": [
+      {
+        "text": "Top up ovo saya belum masuk ke saldo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e23e9957-1dbb-4e21-90d2-e3981ae802af",
+    "data": [
+      {
+        "text": "Top up ovo tdk terisi padahal transaksi sudah berhasil nominal 1 jt menggunakan virtual account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "67f8ccad-6d81-4b07-a509-92bc58ca6fd4",
+    "data": [
+      {
+        "text": "Top-up pulsa, pulsa blm juga diterima, tetapi di history transaksi top-up tidak ada, tetapi ada history pembayaran virtual account di mutasi rekening mobile banking saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "360f0087-6a1b-4a31-b330-057467e8c58a",
+    "data": [
+      {
+        "text": "Top up sy saldonya tdk msk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c38294f1-a765-4318-9422-9aad1140d098",
+    "data": [
+      {
+        "text": "transaksi emoney saya berhasil di update namun saldo di kartu tidak bertambah. mohon bantuannya. terimakasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "58a94b8e-339b-484e-962f-18f60fb137d4",
+    "data": [
+      {
+        "text": "Transaksi emoney saya sdh berhasil tp saldo belum masuk. Tolong minta bantuannya. Invoice terlampir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a1906fc8-77a8-45f1-a673-2be498d16fa8",
+    "data": [
+      {
+        "text": "transaksi pembayaran kartu kredit saya pada tanggal 22 nov dengan baru saja direfund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "87029e40-993f-43a6-82f7-000893416b78",
+    "data": [
+      {
+        "text": "Transaksi pembayaran tagihan kartu kredit kok masih pending ya. Saya sudah bayar via internet banking.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cc02adec-ec00-4aa3-a8bb-7c4f503da567",
+    "data": [
+      {
+        "text": "Halo, pembelian pulsa saya gagal, dan dana dikembalikan ke SALDO TOKOPEDIA, namun mengapa saya tidak memiliki pilihan untuk membayar dengan SALDO TOKOPEDIA saat melakukan pembelian pulsa ulang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c3149609-e392-4a12-8ae4-95e6278bd301",
+    "data": [
+      {
+        "text": "Sudah melakukan pembayaran tapi datanya blm masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2fcbf837-d7b1-41ed-b529-f067164df2de",
+    "data": [
+      {
+        "text": "Saya Transaksi Untuk Pulsa Telkomsel Senilai Rp.150.000 Tetapi Blm Masuk Pulsanya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5a054e8c-80c0-42b0-9ee0-56ad364bebf9",
+    "data": [
+      {
+        "text": "Saya tadi isi e money. Tapi saldo tidak masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a4dd535f-3303-44a3-8202-e40a120f8133",
+    "data": [
+      {
+        "text": "Saya sudah bayar tagihan CC namun sampai sekarang masih menunggu operator.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1c5d179a-7850-439e-b874-0a63dd7d5946",
+    "data": [
+      {
+        "text": "Saya selalu gagal untuk membayar cc bni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8c86a3b0-11e9-4247-9cae-13a9509093ae",
+    "data": [
+      {
+        "text": "Saya selalu gagal untuk membayar cc bni, sudah belasan kali selalu gagal sebelum masuk ke halaman pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cc4ebac0-895c-480e-99f1-413e2c0587aa",
+    "data": [
+      {
+        "text": "kenapa saya selalu error waktu ingin membayar tagihan kartu kredit BNI? Kalau kartu kredit lain tidak ada masalah? Terima kasih.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e50697d4-67b3-413f-a738-09d801126d69",
+    "data": [
+      {
+        "text": "saya tidak bisa melakukan pembayaran kartu kredit via mobile apps. apakah ada kendala dengan akun saya? mohon follow up nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8cec1351-43f4-47d8-817b-0517fa408361",
+    "data": [
+      {
+        "text": "saya barusan beli token listrik 500rb tapi kok belum dikirim kodenya ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3038daa4-3b9a-46d4-9345-64833ac856ca",
+    "data": [
+      {
+        "text": "bembelian voucher kFC saya kok belum di kirim Trimakadih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9064b71d-b8da-499e-9a22-42c25d8ee768",
+    "data": [
+      {
+        "text": "sudah bayar. pulsa belum dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f0ff6576-a2bd-4cac-bf5c-e43b928a4c65",
+    "data": [
+      {
+        "text": "token belum dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "020de5d2-5193-4a69-9ffa-2bbdad57572f",
+    "data": [
+      {
+        "text": "dan saya dikirim sms terus dari tokopedia kalo saldo emoney saya belum terupdate. sisa waktu xx menit...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a35b65f1-5c41-4757-baf2-145b42d534ce",
+    "data": [
+      {
+        "text": "uang nya dari bca sdh di potong 200 ribu tetapi tidak masuk ke account e-toll e-money dengan nomor 6032 9840 3706 3678 Sudah dicoba lebih dari 10 kali ditempelkan kembali kartunya Dan di Tokopedia untuk diperiksakan saldonya pun tidak berubah kejadian ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "79ae1aab-d9f9-461d-b2e1-44b1d201abda",
+    "data": [
+      {
+        "text": "kenapa saldo money saya belum bertambah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7ac19eb4-6e8f-491a-8465-01fae32cade1",
+    "data": [
+      {
+        "text": "saldo ke potong tapi tagihan tidak terbayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "61e095b3-f502-4757-ace0-56ecddee5779",
+    "data": [
+      {
+        "text": "beli pulsa tokocash dan saldo ke potong tqpi ggl transaksi tidak ada log pembelian dana ilang gmn nh?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "88ffb608-d529-41cb-ac89-1b0c85d59cc8",
+    "data": [
+      {
+        "text": "kenapa belom terbayar dan masih tavihan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4921f42e-2054-4b09-8f2c-fdcf667fe893",
+    "data": [
+      {
+        "text": "saya melakukan transaksi top up mtix namun mtix tidak bertambah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "495dc709-56d3-45f9-91ed-ff179b334e62",
+    "data": [
+      {
+        "text": "saya td pgi isi e monney, sydah cek saldo di atm dan melalui nfc tp saldonya tidak bertambah nomor kartu 6032984049075835",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d1322d36-5367-4127-afe5-b6ff0a3e96d6",
+    "data": [
+      {
+        "text": "Saya barusan isi pulsa data kok gak masuk2?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "99c65bf2-031b-4c38-900c-4a32dbaedb74",
+    "data": [
+      {
+        "text": "saya membeli pulsa telkomsel sebesar 100.000 ke nomor 081277466322 notifikasi transaksi berhasil, di nomor tersebut menerima sms bahwa pulsa masuk. tetapi saldo pulsa nya tidak bertambah. mohon bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4af82dfb-7b6b-4615-9843-6ec8b6ec7503",
+    "data": [
+      {
+        "text": "sudah bayar tp belum dapat no meter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "14bd4e13-cc1b-4ce9-99b8-b4a1358b0d80",
+    "data": [
+      {
+        "text": "Sy mau tanya mengenai pembelian paket data tgl 20 okt 18 mengapa gagal dan dana sdh di tulis di kembalikan. Namun sy blm terina",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6d30bc4d-79e8-4ff4-81c7-5a8871ff7cdb",
+    "data": [
+      {
+        "text": "pembayaran dengan kartu kredit ditolak bank penerbit kartu. tapi setelah menghubungi bank penerbit tidak ada masalah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a3b1f731-8fba-43a6-8ab8-e56e3d660b6f",
+    "data": [
+      {
+        "text": "tadi saya bayar kartu kredit melalui bank BNI ke teller .. dng promo topedcc.. hanya ada email ga lama kemudian kalau transaksi ini ada kendala ..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "65538400-080b-4022-88e9-7c6b609accaa",
+    "data": [
+      {
+        "text": "Maaf saya ingin bertanya saya pada hari ini melakukan pembelian paket data mengapa dana saya di rekening BCA di sistem Tokopedia transaksi saya dinyatakana gagal.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "30cc2cce-3a3a-43a7-b729-6cde1603d8cb",
+    "data": [
+      {
+        "text": "saya beli paket data belum masuk juga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "729f81a7-e5e2-4fde-a52a-fb59a2117d92",
+    "data": [
+      {
+        "text": "kenapa pulsa belum masuk ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4969272f-86e3-4f34-a79d-d135bd9a37c8",
+    "data": [
+      {
+        "text": "transaksi bayar tagihan PLN, sudah 1x24 jam, dana belum dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "294f8849-c801-44ae-8982-4998aaa9d1ca",
+    "data": [
+      {
+        "text": "dana saya di refund oleh tokped,pembelian paket data namun tidak berhasil,senilai 85.000, saya mendapat pesan di inbox tokped bahwa dana saya di refund,tapi saya cek di rekening atau saldo tokped tidak ada dana masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "821a6ac6-85c6-4c78-b8b0-62f4ed794d87",
+    "data": [
+      {
+        "text": "Saya isi Etoll tapi dana sampai sekarang belum masuk bagaimana ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "806885c7-21a2-480f-9193-d091279937f9",
+    "data": [
+      {
+        "text": "pembayaran tagihan belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c087b0e0-e638-4737-a143-7c39c3d366c3",
+    "data": [
+      {
+        "text": "kok pulsa belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dbad1ce3-8f46-4069-a1af-29424f37efdc",
+    "data": [
+      {
+        "text": "siang, saya membeli paket internet xl pada jam 10:58 belum juga beehasil dan status masih menunggu dari operator",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0c3325d4-4218-4a75-844c-b2036ee4af28",
+    "data": [
+      {
+        "text": "kok token belum sampai y",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2eab7601-d783-4537-a4e8-fcb5146d0d5d",
+    "data": [
+      {
+        "text": "selamat siang saya dengan aminah sebelumnya saya membeli voucer kfc sebesar 45000 saya sudah melakukan pembayaran melalui virtual account briva sebesar 45000. tapi sampai saat ini status pembayaran saya belum berubah..mohon informasi nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e1d6eb7e-596f-4e63-b04e-eeef14f8ab8c",
+    "data": [
+      {
+        "text": "mau tny status pembayaran kode ca085722184241",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "87cb2814-7922-4553-b33e-8648d203c850",
+    "data": [
+      {
+        "text": "saya beli token listrik,tapi isi token belum dikirim smp sekarang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "27171035-2e99-4916-ba5c-1044d3698b6e",
+    "data": [
+      {
+        "text": "dr td stlh sy byr blm muncul/ dikirim no token nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b64e6490-675b-4fad-b963-0649d0ab51ec",
+    "data": [
+      {
+        "text": "Halo.. saya transaksi isi e-money 20rb dan dinyatakan sudah berhasil. Namun saldo emoney tidak bertambah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "127759ed-3687-4b0a-a21f-a47ade88c166",
+    "data": [
+      {
+        "text": "saya mau transaksi voucer racha suki \u0026amp;bbq kok tdk bisa ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5f45e2dc-bea6-487a-baa5-a5f860ff1c7e",
+    "data": [
+      {
+        "text": "pmbelian saya sudh bayar di indomret kemarin.. tapi belum terrealiswsi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6d4afbf9-1f4c-4751-9da1-026898f3c6a3",
+    "data": [
+      {
+        "text": "mksdnya saya beli emoney, tp udh saya bayar aduhhh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9f738789-dc2a-48bc-9947-8fceca77e64a",
+    "data": [
+      {
+        "text": "saya usd beli pulsa usd sukses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9342249f-eecd-4ca9-b463-ae4b8c816e94",
+    "data": [
+      {
+        "text": "Bagaimana beli gift card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3d77b143-5b11-404a-b30c-ab54d09e2133",
+    "data": [
+      {
+        "text": "No e money 6032984015425055 Tidak dapat di update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d9feff45-de3f-4026-b986-eab31faed111",
+    "data": [
+      {
+        "text": "saya sudah melakukan pembayaran melalui virtual account untuk top up e money, tapi kenapa statusnya masih menunggu pembayaran ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f8f06815-8e51-4b24-977c-f3eaf0e27865",
+    "data": [
+      {
+        "text": "malam.. sy sudah tfr virtual account token pln t0 sampai sekarang nomer token nya belum di sms or e-mail.. tolong segera ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "81d1df29-714c-4ec5-ade4-151edb4ed80a",
+    "data": [
+      {
+        "text": "Top emomey knp blm msk ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d0f1b92c-d6b6-4eea-ab56-8014f30ea913",
+    "data": [
+      {
+        "text": "pln blm msk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dc4792fe-50a3-4775-8eb3-42f0cf207fcf",
+    "data": [
+      {
+        "text": "kenapa transaksi digital saya gagal? padahal dananya sudah terpotong dan juga belum ada pengembalian dana dari tokopedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "938c1f04-12f5-4db5-b878-2fb82c79781f",
+    "data": [
+      {
+        "text": "saya baru saja beli token listrik dgn kartu kredit. setelah dimasukan kode verifikasi knp statusnya msh menunggu verifikasi ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5113b1dc-6c87-4538-85f3-a6cf8368545c",
+    "data": [
+      {
+        "text": "saldo belum masuk mba ke emoney",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "05a6c3fa-7638-471f-90df-b58498be9542",
+    "data": [
+      {
+        "text": "token kok belum sampe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c4d402c2-17a4-4901-a14a-edc77cb808cb",
+    "data": [
+      {
+        "text": "saya beli emoney",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0b51381f-731e-44ce-80e6-f628de961e15",
+    "data": [
+      {
+        "text": "Mau beli token pln",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "159733ea-0a14-423f-86fc-3853696f1792",
+    "data": [
+      {
+        "text": "saya barusan bayar tagihan listrik dengan menggunakan kode voucher tagihanirit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9a4cee51-59f3-48ea-8d13-59eacf1b016c",
+    "data": [
+      {
+        "text": "Transaksi tersebut belum masuk ke kartu emoney",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "214d33e8-1305-4715-864b-125d5b48db9b",
+    "data": [
+      {
+        "text": "saya melakukan pembayaran kartu hallo. menggunakan cc. kenapa tidak berhasil ya. padahal kartu sudah terpotong.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e5740040-4e20-4adb-92f7-c0a7233f7186",
+    "data": [
+      {
+        "text": "Di slip ATM tertulis trf 100.000 tp pulsa yg dikirim hanya 50.000. Jadi bgm ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "11853028-3390-40d1-bf63-475630f0635e",
+    "data": [
+      {
+        "text": "hr ne sy 2 x transaksi utk pmbyaran tagihan listrik n telkom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4571919d-140e-450a-8bec-fb5a89f15fac",
+    "data": [
+      {
+        "text": "knapa mau beli token listrik gak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e3af73f2-a334-4425-bfa3-96bc83c9a0c6",
+    "data": [
+      {
+        "text": "saya hendak membeli token PLN, tapi dari pagi tidak bisa. kenapa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a1603311-1791-4f8b-a94a-0fd0cc84693e",
+    "data": [
+      {
+        "text": "kok saya beli token listrik enggak bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "55d1f508-130a-405d-9e41-e41033f77da3",
+    "data": [
+      {
+        "text": "token listrik yg berkendala pertnggal 30 oct 2018",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8313eaa7-523c-4773-8bb0-a9ab2765f681",
+    "data": [
+      {
+        "text": "Kenapa mau transaksi beli token PLN tidak bisa diproses terus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bc137bc4-fab1-44d6-95f7-63ec17a4f3cd",
+    "data": [
+      {
+        "text": "nomer token nya dimna",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2d4f2120-c5be-48d7-96f6-7cce4daff621",
+    "data": [
+      {
+        "text": "No token tdk keluar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9939f633-b2da-4873-9b55-cb90f4151f6b",
+    "data": [
+      {
+        "text": "transaksi tidak bisa diproses dengan promo payday300. token pln 1jt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e6ba9089-20c4-4d0f-883c-4df1e3e2206c",
+    "data": [
+      {
+        "text": "dan belum masuk untuk money yang saya isi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "46aad174-ecb9-471b-b2ab-c9538fecc362",
+    "data": [
+      {
+        "text": "halo saya salah bayar nomer first media",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "94f32d2e-44bb-45bb-8c93-fe4ed5e6489f",
+    "data": [
+      {
+        "text": "iya saya bayar tagihan telkomsel gagal terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "05025324-bf06-4ec3-ad24-5e0abbcb3297",
+    "data": [
+      {
+        "text": "saya tidak bisa melakukan pinjaman online",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "979c632c-e262-461a-a6f0-d484440e1a22",
+    "data": [
+      {
+        "text": "saya ada byr tagihan kartu kredit Mega ditulisnya Sistem akan memproses ulang dlm 20nt..ini sudah lbh dari 30mt..msh bgtu tts keterangan nyasaya minta direfund saja dehsaya tdk dpt email norifikasi apapun terkait pmbyrn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "57d68368-b535-4feb-a33a-4b7123e24733",
+    "data": [
+      {
+        "text": "Saldo top up mtix tgl 19 nop belum masuk sampai sekarang. Saya sudah cek saldo sampai sekarang belum masuk.tolong di cek dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4737fcdc-fa03-4889-8915-51675597fdc5",
+    "data": [
+      {
+        "text": "saya topup emoney via toped tgl 26 oct sebesar 200rb, tapi duitnya blm msk ke emoney sy. sy udah byr, udah ke atm mandiri utk update saldo tp dibilang ga ada top up yg tertunda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "93afe616-b242-4893-920f-1ace3ba1e0f6",
+    "data": [
+      {
+        "text": "saya ngga bisa bayar tagihan apapun melalui toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cbf096e8-d5ba-42da-b986-b77ce39065a8",
+    "data": [
+      {
+        "text": "Saya ada transaksi tiket pesawat yang terbatalkan. pembayaran sebagian menggunakan toko cash .. setelah terbatalkan tokocash saya tidak kembali. gmn ya??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a7a61fb9-55c3-4591-a7da-f9c3df454644",
+    "data": [
+      {
+        "text": "paket 32gb tree saya kenapa belum masuk juga ya padahal saya sudah menunggu 1x24 jam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fb5e70f5-e8d6-4b31-9ce1-17259c4317a8",
+    "data": [
+      {
+        "text": "token pln nya dimana om ?barusan sy transaksi beli token 100rb .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f28561c9-d56a-4030-bc80-beb24ed53f1c",
+    "data": [
+      {
+        "text": "Air Asia membatalkan penerbangan secara sepihak, saya sudah isi e form pengembalian dana secara penuh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9ea1624f-62d9-42d0-97ff-40a7ad5cd196",
+    "data": [
+      {
+        "text": "trx pulsa. sudah sy transfer. tp di keterangan menunggu transfer. 50rb ke 0896-2916-6682",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "90325dea-6897-426c-ab89-d45ac7c3b44f",
+    "data": [
+      {
+        "text": "saya ingin refundable.. apakah caranya dengan batalkan tiket?pengembalian 100% kah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b7be31e4-8f09-4505-8940-f0b864e4e4e9",
+    "data": [
+      {
+        "text": "update saldo topup emoney di atm mandiri tidak bertambah saldonya setelah topup melalui tokopedia, mohon advisenya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b8d90603-5bf1-4257-8e13-16a32c675b0a",
+    "data": [
+      {
+        "text": "bagaimana status pembayaran firstmedia saya hari. ini 26 OKT 2018",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "90bd9ede-fc42-447e-aebb-4cdb53033a2c",
+    "data": [
+      {
+        "text": "paket data belum berhasildana sudah terkirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8cbf4cd9-3feb-4549-8097-b445ad4c9847",
+    "data": [
+      {
+        "text": "selamat malam. saya melakukan pembelian token PLN via tokopedia. saya sudah melakukan pembayaran tapi kode token belum masuk.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "53020ec1-29da-4959-9e9a-f91331879a18",
+    "data": [
+      {
+        "text": "baru saja saya beli token pln... sudah saya bayar... kok masih belum ada kode nya ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4169f246-ba7c-4af8-b857-ff46c149c7fd",
+    "data": [
+      {
+        "text": "bisa tolong d cek mengenai transaksi pembayaran kartu kredit saya. apa benar belum masuk, tokped sudah mengembalikan uang ke rekening saya,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e8db2d9a-fa22-4191-a8ee-b5038e051967",
+    "data": [
+      {
+        "text": "saya melakukan pembayaran kartu kredit utk Citi Bank. ternyata pembayaran tsb tdk sampai ke citi bank",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "772e9f3c-eb90-4575-84d1-f25592e6f3b2",
+    "data": [
+      {
+        "text": "ini tdi sya sudh tlp ke PLN dan kata PLN blm ada transaksi dari tokopedia masuk untuk nmor meter saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "87b5a232-a63c-4b78-9faf-50eaa29f488a",
+    "data": [
+      {
+        "text": "udah bayar tagihan kartu kredit tapi di refund, itu gimana dananya ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "993ba9ce-5377-4933-9f48-7b8880a99ab3",
+    "data": [
+      {
+        "text": "Mohon diproses segera kak pembelian token saya.trims",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "370eb34a-a1ae-4093-8d5a-f776bacc199b",
+    "data": [
+      {
+        "text": "beli pulsa, udh ditrf, ada notif transaksi dibatalkan. bisa refund hari ini? sy mau beli pulsa, kuota sy udh mau habis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "13ca91be-cfd1-4480-9e6f-b2c9380a439c",
+    "data": [
+      {
+        "text": "saya beli paket streaming viuw 30000 kenapa dari toped ngga ada kodenyanya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "39a70d09-33a3-4926-9b07-96798b952710",
+    "data": [
+      {
+        "text": "saya beli reksadana menggunakan emoney, tetapi pada saat pembyaran dr indomaret sdah proses saya tidak sengaja membatalkan pesanannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8d84b50c-518e-47e0-a526-f57dd9826702",
+    "data": [
+      {
+        "text": "Saya baru saja beli token pln tapi blm. Sempat dicatat layarnya hilang dari mana bisa menemukan nomer token tsb. Thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ba88922c-27f4-4f21-a37e-bbf6adb39a8a",
+    "data": [
+      {
+        "text": "saya mengisi E Money sebesar 20.000 hanya pada saat pengisian untuk kartu tdk sy tap ke hpmpai skrg saldonya blm bs masuk.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1ddc5626-09df-4520-92d6-50782e4e6808",
+    "data": [
+      {
+        "text": "saya isi token saya lupa kalau saya ganti nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9e0f6946-a5cc-4c2c-a240-1052af8de546",
+    "data": [
+      {
+        "text": "sy byr pdam dg promo cashback. berhasil kmrn. hr ini saldo dikembalikan. knp ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2bfcb276-b701-41fa-a267-6f533edf4408",
+    "data": [
+      {
+        "text": "krmn sy ada isi e money tapi ternyata uangnya tdk masuk ke kartu e money nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "90c5f8b2-634c-4eb2-8669-bfc6b783b48a",
+    "data": [
+      {
+        "text": "sudah melakukan pembayaran tp belum ada konfirmasi sudh melakukan pembayaran dr BPJS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8fadd294-e377-4abd-bdaa-214907835186",
+    "data": [
+      {
+        "text": "saya sudah membayar tagihan pln via atm bri...tp blm terkonfirmasi juga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5eef72a2-df12-4834-bb38-d226493fca5f",
+    "data": [
+      {
+        "text": "pembayaran kartu kredit gagal sehingga saya di denda oleh citibank",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2817ed58-9169-4066-a7f2-0b3edf72f173",
+    "data": [
+      {
+        "text": "Saldo di transfer ke OVO tapi jumlah total Ovo saya tidak tertambah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "89eb77b8-336c-4442-819f-32a08bf3f644",
+    "data": [
+      {
+        "text": "kenapa saya ga bisa update saldo emoney yg baru aja saya topup daro toped?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "be3b3719-e8c5-417b-a510-cb81f391f89d",
+    "data": [
+      {
+        "text": "Saya barusan transaksi pembayaran kartu kredit namun transaksi status msh dlm antrian operatorTolong segera di bantuTrimakasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e3be72c9-fda3-48d1-ad7b-577c1df3bc76",
+    "data": [
+      {
+        "text": "sy mau melakukan pembyran kartu kredit bank mega via tokped tp dr kmarin aplikasi pembyrannya tdk bisa dbuka hanya loading terus kak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d7788848-1bc5-424b-bb21-5ced0026ee4e",
+    "data": [
+      {
+        "text": "Pengembalian dana tiket pesawat lion air belum saya terima sejak terakhir saya komplain tgl 3 nov",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b8f9a28d-3626-4065-a9dc-7e4daceba110",
+    "data": [
+      {
+        "text": "saya memesan kembali tiket pesawat dengan rute dan nama yg sama Krn sistem toped terlambat verifikasi transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "059ceb49-729c-4b3c-862e-e21a35f07343",
+    "data": [
+      {
+        "text": "kemarin tgl 26 sy isi pake data tri, di mandiri ecash sudah terpotong tapi paket datanya tidak masuk,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "65737ace-a499-4ea7-bd59-b2d875079094",
+    "data": [
+      {
+        "text": "pengisian e-money di tokopedia, sudah selesai transaksi. dana tidak masuk ke kartu e money. saya top up senilai 50 rb rupiah.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5e4741c3-34c3-4ada-bbf4-c80016bbf941",
+    "data": [
+      {
+        "text": "Mau tanya,,kalau aku sudah booking airasia, tapi pas booking ga ada bagasinya,,bisa ga ya beli bagasi lagi lwt tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0b8257d8-88ef-4e55-81b9-69f0e834c637",
+    "data": [
+      {
+        "text": "sudah top up ovo utk transaksi pmbeliam tiket pesawat. tapi ga bisa dipake pas pmbyrn. mohon bantuan nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2f56c60a-7aec-4007-95ab-080c3e7bdb13",
+    "data": [
+      {
+        "text": "kok lama bgd sih isi pulsa tumben",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7be68440-283e-4248-9dd3-2e588a6a253c",
+    "data": [
+      {
+        "text": "saya beli vocher kfc tapi setelah dredeem tdk bisa diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4e1226e9-4a0e-4a0d-9b88-8c30ce34b258",
+    "data": [
+      {
+        "text": "pulsa gak masuk, tapi uangnya ga tau dimana.. krn tidak masuk ovo saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "15d1b2d7-73fc-4681-834a-faa260a45cc2",
+    "data": [
+      {
+        "text": "membeli paket data telkomsel 100 ribu sudah bayar tapi tidak masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8afc43b0-c7a6-4949-9f4a-e296ee815140",
+    "data": [
+      {
+        "text": "saya bayar Citibank Card, namun dpt ketenangan Dana dikembalikan, di kembalikan kemana? di tokocash tidak ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dcbc8b80-d7f0-40ba-bc94-e4b8eb48d4b1",
+    "data": [
+      {
+        "text": "saya sudah berhasil.bayar BPJS kenapa stausnya masih menunggu ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "45438458-142b-4c78-b1b7-5835b59e343e",
+    "data": [
+      {
+        "text": "sering ada promo bayar kartu kredit dpt cashback 75rbtapi setiap selesai transaksi harus menunggu konfirmasi operator.setelah 2 hr menunggu, dinotif transaksi tidak berhasil. dan uang dikembalikan setelah dihold 2 hr.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8ca0ea81-fcfc-4507-b9df-85015a82263d",
+    "data": [
+      {
+        "text": "saya udah bayar untuk beli pulsa tapi sampe saat ini pulsanya belum masuk, mohon proses segera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8119de1e-76ad-4e8f-af2d-d706f415fc4c",
+    "data": [
+      {
+        "text": "mengisi e money tapi blm berhasil mengupdate saldo, sudah saya tap kartu dibelakang Hp tapi gagal terus, mohon bantuannya, thx",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "69c1f463-d1f3-4043-ae82-e2aaf27222bd",
+    "data": [
+      {
+        "text": "saya transfer 2 kali ke pihak tokped untuk beli pulsa, dananya yg satu belum kembali, pulsa juga belum masuk, tolong bantu dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "430409a2-a111-40b3-aae0-af05a567e510",
+    "data": [
+      {
+        "text": "saldo emoney gw gak masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ec96b5f9-c287-4a84-8fa9-80728df81be0",
+    "data": [
+      {
+        "text": "kenapa saldo emoney saya gak masuk juga yah ? padahal udah update saldo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e4c04bc2-1caf-4d44-b25a-e4ff1c6d8ebe",
+    "data": [
+      {
+        "text": "isi emoney blm masuk pas di top up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7ae3b2f0-fcc5-4a2c-aa99-ba0a0ef4aedd",
+    "data": [
+      {
+        "text": "pembelian pulsa paket data sebesar 85.047",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d4b4598d-5e1e-4bad-b0ae-ee83b60f55df",
+    "data": [
+      {
+        "text": "beli top up emoney 100.000 tapi tidak masuk sampai sekarang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "80b5b966-d203-4204-bbc5-07992d08d596",
+    "data": [
+      {
+        "text": "saldo emoney blm update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "533a623c-09dc-4794-9822-751365fe8a44",
+    "data": [
+      {
+        "text": "mau update saldo e money krtnya sdh di tap2 tp kok msh ga bs2 ya..saldonya ga msk2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0ed7886f-326e-4847-9bd4-6f04f146c9f1",
+    "data": [
+      {
+        "text": "beli paket data belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6245310c-ec06-47c2-b302-3751cfc8a533",
+    "data": [
+      {
+        "text": "pulsa nya ga masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6e29b8e1-5f7a-4977-91b7-62261a91d613",
+    "data": [
+      {
+        "text": "sudah tak transfer pulsaku belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "237bdb2b-c4c4-41e2-b44a-7ea5e800cf2c",
+    "data": [
+      {
+        "text": "e ticket penerbangan sy sudah dapat. di aplikasi toped versi terbaru sudah tidak terlihat lagi ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4b9ea663-623a-4813-be13-221324eb2e63",
+    "data": [
+      {
+        "text": "saya ingin reschedule penerbangan saya? apakah kena penalty juga?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c2132372-9ace-40cd-be6e-826c1f7ae168",
+    "data": [
+      {
+        "text": "saya sudah membeli tiket kereta api ternyata ada 1 org yg tidak bs hadir. bisa di refund ga ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fb45f16a-a34f-449e-ab6e-c166b1fc6083",
+    "data": [
+      {
+        "text": "Tentang proses refund tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b8dab933-d49c-4364-bc63-e82784ff96ce",
+    "data": [
+      {
+        "text": "saya ingi menanyakan apakah sudah diteruskan ke first media",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3420bfb4-905f-48dd-8a5e-f6ef83ed1dcb",
+    "data": [
+      {
+        "text": "apa tiket yg saya beli bisa di cancel/di switch tglnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "273fc5d9-644f-4c1e-b86e-9f916f66521d",
+    "data": [
+      {
+        "text": "saya ingin menanyakan perihal pergantian maskapai penerbangan untuk tiket yang telah saya pesan apakah bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "77a17139-9b7c-4a73-8e7f-2b99ea352a71",
+    "data": [
+      {
+        "text": "sy isi saldo e money 300 ribu tp blm berhasil masuk ke dalam kartu d e money saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "efb90b40-1b3b-4919-90e7-b73abb2ccdc9",
+    "data": [
+      {
+        "text": "ada pembelian pulsa 3 tapi tidak saya terima hingga saat ini...transaksi tadi kurang lebih nya pukul 09.45 dan di inbox saya ada notif pengembalian dana masuk ke saldo..itu apa mksd nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9f5a51a7-41e8-4ab6-a47e-0c9e95a50b17",
+    "data": [
+      {
+        "text": "transaksi pembayaran kartu kredit belum terselesaikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b0d1914c-facf-4490-81b1-042e7109627f",
+    "data": [
+      {
+        "text": "saya beli produk digital tp di batalin, katanya dananya udah di kembaliin, di kembaliin kemana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "361b6b92-0b94-4a9a-90aa-22ef15b96ba7",
+    "data": [
+      {
+        "text": "dana emoney saya belum masuk, saldonya masih utuh, tolong bantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9a2005c8-33d0-4675-b321-d1840e8b75e1",
+    "data": [
+      {
+        "text": "pembatalan pembayaran listrik tetapi pengembalian uang belum masuk ke saldo saya, tlg bantu cepet ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0f332636-3338-417b-a566-b0db064e7c4a",
+    "data": [
+      {
+        "text": "saya mau bayar bpjs kesehatan tp toped bilang sudah terbayar padahal saya belum merasa bayar, mohon bantu cek ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2bc12453-8cd0-40e7-a21b-ef2485cf5f2c",
+    "data": [
+      {
+        "text": "transaksi pembelian pulsa saya belum masuk dan gak ada report nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "14d443a4-5ef6-4fce-a64c-4ec557b9c055",
+    "data": [
+      {
+        "text": "Saya tidak berhasil update saldo e-money saya setelah melakukan pembayaran top up nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8773c63b-f872-42ea-a7bb-d43b4ab3fcd3",
+    "data": [
+      {
+        "text": "Top up emoney gagal..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8e78ecdf-1acb-4b92-accb-c2881354bc4f",
+    "data": [
+      {
+        "text": "kenapa pembayaran kartu kredit saya ditolak?? kenapa dana saya di refund?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4e396903-a268-42cf-9a85-ee491747a33b",
+    "data": [
+      {
+        "text": "Saya tdk mendapat konfirmasi nomor meteran listrik yg biasa Saya dpt.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "94516fc4-f1f8-4d3d-9dd7-0e9be8386a0c",
+    "data": [
+      {
+        "text": "saya sudah melakukan pembatalan tiket pesawat garuda atas nama nn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "79e6a239-711f-45db-9094-8bc49d10d22f",
+    "data": [
+      {
+        "text": "aya melakukan reedem voucher tokocash tulisannya GAGAL, saldo ga masuk,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5aeeefe7-c5d9-422c-8967-ac7ea9c66e2d",
+    "data": [
+      {
+        "text": "tolong segera diproses untuk pembelian pulsanya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fca4c795-5258-4e27-b2e8-15ae1479c1f3",
+    "data": [
+      {
+        "text": "saya topup saldo 100ribu ..untuk saya gunakan pembelian pulsa kok belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d5ceb19d-44b6-4d03-af9a-2d5c551e8eb1",
+    "data": [
+      {
+        "text": "hai, saya top up emoney tapi gak bisa update saldo ya. fail terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7d496819-864e-40e7-8bce-e5dcf9613297",
+    "data": [
+      {
+        "text": "saya mengajukan pembatalan pembelian tiket pesawat. tapi ko dana refund nya belom masuk juga ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "56083744-b7cf-48c1-be3e-78c9a13033a4",
+    "data": [
+      {
+        "text": "Refund tiket lion air tidak masuk2 padahal sudah 7 hari kerja lewat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7eadbb09-ab5e-4d6b-89b9-1ceb0748ebe4",
+    "data": [
+      {
+        "text": "kenapa saya byr tiket kereta api pakai cash saya tidak bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fce09b10-470c-4e8d-9ee2-c27a59b3b3aa",
+    "data": [
+      {
+        "text": "Saya top up e-money 200rb lewat toko cash tapi update Saldo tidak masuk topup nya sedangkan sudah terpotong dari tokocash",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "13bd055b-4ca4-4695-a8fd-435ec1d69ec1",
+    "data": [
+      {
+        "text": "Mohon kirimkan atau teruskan email perubahan jadwal dari pihak maskapai air asia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5fadf8a9-6bb4-4b1e-97bc-047019eb4b0e",
+    "data": [
+      {
+        "text": "sudah top un tapi saldo emoney masih 0",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cda16cfa-90de-4bac-a058-7db0988e07e5",
+    "data": [
+      {
+        "text": "Saldo e-tol ny gg masuk,padahal saldo ovo saya udah ke potong .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4293fe9b-69b5-461b-9974-2456c6a60f6b",
+    "data": [
+      {
+        "text": "saya melakukan pembelian token listrik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d6942754-3b05-452b-a2be-5493334546eb",
+    "data": [
+      {
+        "text": "nomer token yg saya beli belum terkirim dan terkirimnya via sms atau apa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c6032c02-8ed8-4922-9d2a-2139f182ff7c",
+    "data": [
+      {
+        "text": "pembelian pulsa 3 belum masuk, pembayaran sudah berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5eaf2d1c-2de0-4037-b86f-a81ac266eeca",
+    "data": [
+      {
+        "text": "beli pulsa gak dapat pulsa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b50df8d1-cb24-4f47-adb7-526a474fa556",
+    "data": [
+      {
+        "text": "tolong bantu token listrik saya blm sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e0537aee-d73a-4568-9f0d-5c31dd2ec00a",
+    "data": [
+      {
+        "text": "Gagal transaction kai. Callme urgent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c9743d7d-ad80-463f-aed2-d2595c521d28",
+    "data": [
+      {
+        "text": "sudah Trf tapi blm masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d9d07141-7f86-4b9a-8ef6-932f684242f9",
+    "data": [
+      {
+        "text": "tidak bisa bayar tagihan air PDAM di aplikasi Tokopedia utk wilayah bekasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "da88dc9c-9014-40c6-a5be-71949734ff88",
+    "data": [
+      {
+        "text": "saya transaksi pulsa tapi saya salah nominal transfer, tolong bantu refund ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "52d4859e-db6e-4769-861d-54f21b40e883",
+    "data": [
+      {
+        "text": "saya bayar PDAM tp batal, dan dananya belum kembali, tlg bantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bdad45f0-d3f6-4078-9959-42e2adfd5b0e",
+    "data": [
+      {
+        "text": "mbak saya baru topup emoney tapi kok belom masuk ya saldonya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6a29bcbf-cd9e-4e09-9b99-2ca17d4c443a",
+    "data": [
+      {
+        "text": "saya hari ini melakukan pembayaran CC 1jt dgn menggunakan promo, tp belum ada konfirmasi apapun, mohon bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2cdf01ef-fde7-424e-8db4-4a7cffe0cd48",
+    "data": [
+      {
+        "text": "saya isi pulsa 1.000.000  tapi blm masuk pulsa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "89f26349-806f-411b-bbe3-082390218cf8",
+    "data": [
+      {
+        "text": "min saya isi token..tp dr tadi gk keluar juga nomor token nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f9e43727-b126-4b19-aac5-9daf058719aa",
+    "data": [
+      {
+        "text": "tidak menerima kode otp top up emoney",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "58364df7-1e98-45b4-8b48-94540b67fb2f",
+    "data": [
+      {
+        "text": "transaksi pembelian paket data saya belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b8cdc516-9186-4c93-91b2-1b4ee67de492",
+    "data": [
+      {
+        "text": "pembelian pulsa sukses, sudah bayar pulsa blm masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0a946747-43de-4a97-bd42-d72848f8b4f1",
+    "data": [
+      {
+        "text": "saya membeli paket data im3 tadi malam sekitar jam 10, tapi sampai sekarang belum masuk kuotanya ke nomer hp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ed996113-e3e2-4c1f-837e-f140aa9e7a61",
+    "data": [
+      {
+        "text": "pembayaran tagihan kartu halo terkendala",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "05fc451b-cf3c-473b-9e01-364369f15853",
+    "data": [
+      {
+        "text": "Saya tadi isi e money. Tapi saldo tidak masuk padahal sudah di cek di atm mandiri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "52084ab1-1814-4fe6-97ba-c11fd0595f5b",
+    "data": [
+      {
+        "text": "kenapa pesanan token saya belum sampai ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4c66f10e-7ac2-4aa1-91fc-8fc648fb0dff",
+    "data": [
+      {
+        "text": "Kenapa saldo e money saya tdk bertambah padahal sudah isi ulang dan transaksi berhasil serta tidak bs update saldo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "954270ee-5518-40ef-bdeb-4b9df45916ac",
+    "data": [
+      {
+        "text": "saya ada pembelian tiket kereta, sudah bayar di indomart, tp kenapa gagal ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6f577f7c-1268-417d-9fe6-71d43809d054",
+    "data": [
+      {
+        "text": "tapi pulsanya g masuk dan sudah kepotong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "393bfd43-30d7-4b7e-80d4-a3545783a03d",
+    "data": [
+      {
+        "text": "tolong batalin transaksi pembelian pulsa terakhir ini..krn sy tdk order tapi dapat email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9c1e98e0-2c1f-49f9-a6d1-18dfa3a69d5c",
+    "data": [
+      {
+        "text": "saya ada email untuk refund ea money",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "87de23c2-90fe-43b3-ac7f-230123628877",
+    "data": [
+      {
+        "text": "dari CC BNI sudah masuk email bahwa transaksi berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5ac04b10-e088-4f50-9e24-c7a53ab5501c",
+    "data": [
+      {
+        "text": "kak hbis byr listrik.kok ngk keterangan d email..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "243312fc-ac96-45b2-88a2-17d28108cfda",
+    "data": [
+      {
+        "text": "Saya coba bayar cicilan di Tokopedia pembayaran Via Indomaret, Tetapi Saya dapat notifikasi dari Tokopedia bahwa pembayaran saya gagal.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4b8f34e7-5dd4-4a92-b430-f163d6ded372",
+    "data": [
+      {
+        "text": "pembayaran pdam gagal ? kenapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9f152cac-7d90-4f14-ba89-f12c7e0aa24e",
+    "data": [
+      {
+        "text": "Saya kemarin beli e-money dan udh update saldo tapi sampe skg kok blm msk ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "94cf8271-2430-499c-a184-a9d9134b794b",
+    "data": [
+      {
+        "text": "Saya mengisi saldo emoney saya menggunakan bca virtual account ke virtual account tokopedia, tetapi saat update saldo, saldonya tidak terupdate dan masih belum terisi padahal uang di rekening saya berkurang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "32f32d82-c59b-4f97-ba23-4745292ddfc1",
+    "data": [
+      {
+        "text": "pengisian topup 2 kartu  e money belum masuk ke kartu tapi saldo topes sudah terpotong.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "560fc9ad-3a18-4462-b17f-6acd60b1534f",
+    "data": [
+      {
+        "text": "tidak muncul kode booking tiket pesawatnya...dan tidak ada keterangan transaksi berhasil atau failed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "48efb78a-d213-4306-b17b-a42c655c8f2c",
+    "data": [
+      {
+        "text": "saya mau bayar bpjs kesaranten. system kamu tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "06e4cd9b-db79-4b43-8be3-7f156f194ca6",
+    "data": [
+      {
+        "text": "ini kenapa dana yg saya mau belikan pulsa kembali lagi ke tokocash",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "92ddd3b3-69b9-4e4b-8911-e00c2aec8891",
+    "data": [
+      {
+        "text": "saldo emoney belum masuk, transfer nya udah sukses padahal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ce6a110b-7d91-41bf-b79a-887743d7ea44",
+    "data": [
+      {
+        "text": "saya mau bayar tagihan cc saya melalui tokopedia tapi kenapa gak terbayar ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "74308112-456d-4ef6-8062-4f371a1ab07a",
+    "data": [
+      {
+        "text": "Kok di rek bank saya sudah terdebet, tapi kenapa transaksi pembayaran kartu kredit masih mengunggu operator??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b231da71-77d5-42c1-ab28-c22e3796751a",
+    "data": [
+      {
+        "text": "Pulsa saya belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9b604f22-c576-4061-b980-394d9972ba98",
+    "data": [
+      {
+        "text": "mau bayar tv kable mnc vision koq gak bisa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8370cf87-eec0-40f9-a7d3-f641692f5481",
+    "data": [
+      {
+        "text": "saya mau bayar dana instan kenpa ngga bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0a5ee90f-8844-4fe2-a893-d224e1a9c3d7",
+    "data": [
+      {
+        "text": "pembayaran pascabayar telkomsel sudah tidak bs lg melalui toped?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "25bf009e-066a-44b5-b2fb-aabbfc096695",
+    "data": [
+      {
+        "text": "saya ingin melakukan transaksi pembayaran angsuran mandiri tunas finance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9a02ff1e-8030-4205-be59-451f5e0be9d9",
+    "data": [
+      {
+        "text": "SUDAH DI BAYAR TETAPI PULSA TIDAK MASUK",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bd657afe-5a6e-48df-acc6-2e8d49e2e847",
+    "data": [
+      {
+        "text": "proses verifikasi koq lama ya, biasanya cepat. beli pulsa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6a87da74-7861-496c-8e55-a64e608b924c",
+    "data": [
+      {
+        "text": "Saya mau konfirmasi pembelian tiket kereta api saya sudah saya bayarkan melalui indomaret, tetapi kog di riwayat akun tokopedia saya muncul tulisan pesanan dibatalkan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "25f34d1c-5ffa-4aeb-a281-7b4a073f31af",
+    "data": [
+      {
+        "text": "pembelian pulsa gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "537bc67c-6ee3-4243-90f5-03dbcc3dd759",
+    "data": [
+      {
+        "text": "pagi, semalem isi e money, pagi ini update saldo ga bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9fdd348e-165f-4a2d-b0a2-33037aca3696",
+    "data": [
+      {
+        "text": "saya habis beli token listrik tapi kok gagal ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "db6164c8-4fe0-4a9e-b92f-353df9f09808",
+    "data": [
+      {
+        "text": "pembelian E money yg gagal pengembalian dana belom masuk kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c3568bbd-ec9b-4253-9b9f-0eb031703a80",
+    "data": [
+      {
+        "text": "voucher kfc tidak keluar barcode nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c7538558-f3b1-46f3-967f-e15178b130fc",
+    "data": [
+      {
+        "text": "Tadi saya ikut promo bayar kartu kredit dgn kode TOPEDCC, tapi sampai sekarang status masih dlm antrian operator.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "643a51f9-f429-4f79-9f89-8f68467882dd",
+    "data": [
+      {
+        "text": "pembelian voucher game tertunda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d3b9d83a-6770-443a-9cce-4bc3bb590d2c",
+    "data": [
+      {
+        "text": "ari jumat saya bayar kartu kredit ke bni sebesar rp.7.029.291 tapi sampai saat ini statusnya belum ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6f0e5785-8aab-4ce4-a5db-260e79c5eec6",
+    "data": [
+      {
+        "text": "saya sudah transfer uangnya tapi kok gak masuk ya pulsnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "800d733c-afc8-4847-872b-607c6ebf4d7e",
+    "data": [
+      {
+        "text": "saya mau menanyakan masalah e-money yg saya isi lewat toped tadi siang sebesar 100,000. tp sampai sekarang saldo kartu masih belum bertambah sedangkan distatus transaksi sudah berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6dd748f5-3356-4994-8667-bc39029436ee",
+    "data": [
+      {
+        "text": "tagihan.pam saya atas nama dony sdh terdebet di bank bca saya..tapi belum ada notifikasi sdh bayar...saya lihat malah katanya belum dibayar krn ada masalah dgn sistem..terus bagaimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e9eeb651-6c82-4cf1-92ec-ead3e40339e1",
+    "data": [
+      {
+        "text": "knp pmblian voucher dgn pmbyrn kartu kredit yg sdh sy lakukan sampai saat ini blm berhasil?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "624ffbca-9167-4f52-b444-4a8924ff2ddd",
+    "data": [
+      {
+        "text": "saya melakukn transaksi kartu kredit, namun statusnya tertunda, gimana ya itu? biasanya gak pernah begini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7a613fc0-6f58-422d-9f53-0b0760060a70",
+    "data": [
+      {
+        "text": "Saya beli token listrik tapi belom ada konfirmasi dari pihak operator tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d39cd816-1b2b-436e-8450-6d3201820a9d",
+    "data": [
+      {
+        "text": "belum ada konfirmasi tentang tiket kereta api yang telah di bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d6d42323-2081-4dc3-b539-39a4947ff1cd",
+    "data": [
+      {
+        "text": "pembelian token listrik dgn kode voucher payday 300 tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "69f312da-e285-4791-8fc9-f9b4306900d6",
+    "data": [
+      {
+        "text": "Transaksi pln dari bulan kemarin selalu gagal terus kenapa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "83f99620-752f-4f0a-a00f-b7f609d286de",
+    "data": [
+      {
+        "text": "saya melakukan isi ulang e-money dan gagal sehingga meminta untuk di kembalikan dana nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "eda4bffa-23dd-4d5c-9e5d-7033b94b46a1",
+    "data": [
+      {
+        "text": "bonus promo isi pulsa belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "86e20809-9ec7-47e5-add4-878981ca9c88",
+    "data": [
+      {
+        "text": "saya mau membeli token listrik tapi kok enggak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "26a7ea76-7805-4b9b-a85f-c3871791779c",
+    "data": [
+      {
+        "text": "mau isi pulsa g bs pake pembayaran pake saldo yasdh pake 2 akun ttep ga bs minknp y??????",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f319c58c-8b8d-4902-bc7f-1de8177bd7ca",
+    "data": [
+      {
+        "text": "saya beli pulsa, udah bayar tp kok belom masuk2 ya pulsanya, gak ada konfirmasi juga dari tokopedia, tolong bantu dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "143b8566-5aae-42c7-8c88-ccb4ea480521",
+    "data": [
+      {
+        "text": "kemarin saya transfer dua kali untuk tagihan pasca bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9b7b02b3-ced3-4787-a687-a7cc32174fd1",
+    "data": [
+      {
+        "text": "pembayaran kartu kredit saya selalu di bilang 3 hari lagi, ujung ujungnya nanti gagal bayar deh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "81215f27-9ff3-4efe-84a1-d6799f63a619",
+    "data": [
+      {
+        "text": "saya melakukan pembayaran BPJS tp kebayar sebanyak 2 kali, apakah dananya bisa di refund atau di bayarin bulan selanjutnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7235807a-aeec-4b37-ac1f-179408895fe1",
+    "data": [
+      {
+        "text": "saya beli pulsa tp saya ayar melalui nomor rekening lain, apakah bisa di refund ke rekening saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a9313d50-41d1-49a0-b680-1ebbcebd0809",
+    "data": [
+      {
+        "text": "Transaksi pembayaran firstmedia tidak berhasil di tokopedia, tapi pembayaran kartu kreditnya sudah berhasil. Saya ingin jadi berhasil pembayaran itu agar bisa dapat cashback",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6ef1fa69-4cc4-4a24-a3e4-9de8120e2f07",
+    "data": [
+      {
+        "text": "sy byr angsuran kredit acc via toped tp knp statusnya g berubah msh menunggu operator pdhl biasanya lgsg sukses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dca1ad5c-ed31-47c5-bf73-8e71fb560f74",
+    "data": [
+      {
+        "text": "app lain mengklaim trx pdam saya dy yg sukses duluan, di toped statusnya masih belum berubah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "919d9e3f-dad1-4ab8-8698-871f2c4d7f8f",
+    "data": [
+      {
+        "text": "mengenai pembayaran kartu kredit, saya sudah bayar tp statusnya belum sukses, apakah yg harus sy lakukan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "91c0591b-e22f-44a8-a5d8-fe99ba6ffffa",
+    "data": [
+      {
+        "text": "Pembelian deal voucher Tawan, dana sdh terpotong dari Ovo Cash, tapi pembelian tidak berhasil. Ada pemberitahuan pembelian tidak berhasil tapi dana belum dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cccb9be7-b5f0-4f34-951c-0dfbc1f230a5",
+    "data": [
+      {
+        "text": "Pulsa belum masuk, mohon segera diproses.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e96369b2-2d05-46af-937d-37f5563aef35",
+    "data": [
+      {
+        "text": "malam..ini knp ya oembyaran kartu kresit saya tdk berhasil?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "99d6169f-ca9b-4c4a-a47d-f82e41f17585",
+    "data": [
+      {
+        "text": "Saya tidak bisa bayar pdam kota malang.... Sudah 3 bulan nyoba tapi belum bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c07b25e7-4cf6-4748-9848-1c77badd447b",
+    "data": [
+      {
+        "text": "sya beli tiket kereta atas nama jamilah purwosari jatinegara hari ini jam 4 sore lupa kode bookingnya bisa di sms kan lgi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7bc04bc8-0cb4-46e1-9de1-c1cbcab18091",
+    "data": [
+      {
+        "text": "sudah 3 hari konfirmasi operator tagihan  cc saya malah gagal kok gini amat si",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "773668f0-2d57-4136-8644-80cfae1cb65c",
+    "data": [
+      {
+        "text": "saya isi pulsa kok ga masuk2 ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "15369e5a-87c5-4890-97f4-7f8feef9ad58",
+    "data": [
+      {
+        "text": "sy mau tanya gmn perkembangan pembayaran kartu kredit saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2fb7f687-aaae-461c-b223-1aa33751b38f",
+    "data": [
+      {
+        "text": "gw bayar cc sudah di konfirm malah di balikin, gimana deh toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6e5430ae-68b4-4911-b54c-6765a4b53304",
+    "data": [
+      {
+        "text": "pembayaran saya gagal, padahal dana saya sudah terpotong, pembayaran produk telkom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "99fbb6ec-af43-45af-96c8-c14cf80c9ba2",
+    "data": [
+      {
+        "text": "saya bayar BPJS, namun terjadi dua kali pembayaran, apakah dana yg satunya akan dikembalikan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cd356945-9a77-48d9-8ab8-47b795c5f06d",
+    "data": [
+      {
+        "text": "saya mengisi emoney menggunakan tokocash pada tgl 13 oktober 2018 senilai 200 ribu. setelah update saldo di atm tenyata tidak masuk ke saldo emoney.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4a8e46af-05de-4553-a9ce-980b920f58bb",
+    "data": [
+      {
+        "text": "Saya bayar angsuran credit BFI ,kenapa dana nya dikembalika ke saldo tokped saya ya,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ef24fa27-bcf8-4967-aa5a-7bcd6d69e92c",
+    "data": [
+      {
+        "text": "tolong dong di restock voucher garena arena of valor yang  330 shell. saya mau beli banyak jd ribet kalo beli yg sedikit. udah lama habis stoknyaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "203ed691-2b4d-48ff-ac0c-5da52d4a88be",
+    "data": [
+      {
+        "text": "tentang pulsa yang tidak saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "729bb00d-796c-4d43-a65e-cb0bfe4056f2",
+    "data": [
+      {
+        "text": "saya beli voucher PLN sdh ditransfer tp blm dpt tokennya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7b8dc2ad-5c83-4fd2-9b53-480d0c45f09f",
+    "data": [
+      {
+        "text": "Siang, mau tanya status refund pesawat di kode booking HLWLUJ. Thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6d09b80d-5fe7-48ab-828e-b52765f2cb68",
+    "data": [
+      {
+        "text": "gimana cara update saldo top up emoney? saya dah update saldo kok masuk halaman faq mulu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5a2bac19-7f1d-450f-9cdd-2f21b5d06441",
+    "data": [
+      {
+        "text": "kmrn pagi saya top up saldo e money 200rb, tp setelah saya update saldo di atm mandiri, ternyata tidak ada pending update, jd sampe skrg saldo nya pun blm masuk.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "144f9a37-7163-4f13-9ddd-a72ba7cc6c25",
+    "data": [
+      {
+        "text": "tidak bisa reservasi kereta api..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "aa54d1c7-a8b9-454c-9e9c-100f0de4e29d",
+    "data": [
+      {
+        "text": "Saya ingin membeli token listrik dan ada saldo di toko cash saya tetapi berulang-ulang dikembalikan terus saldonya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "49382b94-97cb-47e2-bb65-339d1283f39d",
+    "data": [
+      {
+        "text": "saya melakukan pembayaran kartu kredit saya, liat status transaksinya gimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "229bdef1-0042-4ae9-b674-c856a4865ae0",
+    "data": [
+      {
+        "text": "saya melakukan transaksi bpjs, dana sudah terdebet tp di toped pembayarannya gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "229e3449-afa6-41be-9ea5-0831a2499b5f",
+    "data": [
+      {
+        "text": "saya melakukan trf untuk bayar tagihan kartu kredit via toped, tp lupa menambahkan kode unik, mohon info lebih lanjut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f1c53a99-b542-4b4a-ba5e-7e6530b80415",
+    "data": [
+      {
+        "text": "saya udah bayar untuk transaksi angsuran, tp pembayaran saya gak terkonfirmasi malah gagal, mohon penjelesannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "25eafec3-d87e-4761-adb8-bac29d05c02f",
+    "data": [
+      {
+        "text": "tiket dibatalkan kenapa ya padahal sudah dibayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1425a95c-149d-4a70-ac14-180ffe1efb03",
+    "data": [
+      {
+        "text": "pembelian pulsa gaga padahal dana sudah di transfer ke tokopedia, mohon di bantu pengembalian dananya, terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9c22c1bc-fb31-48cf-ba7b-7884a1e8c2b2",
+    "data": [
+      {
+        "text": "apakah uang pembelian vouchernya bs d refund? krn mengingat bentar lg voucher nya mau expired",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ad759925-51ce-4373-9e9f-f85361ebaf86",
+    "data": [
+      {
+        "text": "pembayaran berhasil tetapi paket data tidak masuk ke handphone saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7c6e41ca-699c-4e53-980c-d4a728f9d9f2",
+    "data": [
+      {
+        "text": "saya beli pulsa 3 sampai saat ini belum masuk tolong hubungi saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f490a9ca-49f1-475a-8041-af6f21514d4f",
+    "data": [
+      {
+        "text": "saya TOPUP E Monney di toko pedia tapi setelah saya cek E Monney saya belum ada saldo yg masuk... gimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f259accc-799b-4c10-a5ef-3b31a20feca8",
+    "data": [
+      {
+        "text": "mau rubah jadwal kereta api karena jadwal pertemuan diajukan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2cac2d76-a91b-41be-bf5d-8fe16bfdaddd",
+    "data": [
+      {
+        "text": "saya sdh membayar pembelian paket data 3 SDH bayar akan tetapi gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0817a2a4-a830-4310-b960-226d255636b6",
+    "data": [
+      {
+        "text": "Token listrik sy blm nyala dari semalam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d408f069-feb9-43af-bbe4-822f1d3c6d89",
+    "data": [
+      {
+        "text": "mau tanya, sy mau bayar tagihan bpjs tapi status menunggu operator trus, tidak pernah berhasil.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "768fb64f-096e-4f15-b6a7-6bee1bd709eb",
+    "data": [
+      {
+        "text": "tp kenapa paket datanya belum masuk?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "46f837af-e008-4bd3-9abe-bb3d6dc8a0d5",
+    "data": [
+      {
+        "text": "saya melakukan pembayaran Kartu kredit bank niaga hari jumat  transfer melalui bank BNI sdh berhasil tapi di bank niaga belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d13ec74c-b6bf-4268-9a1f-cded8bb8a593",
+    "data": [
+      {
+        "text": "saya beli paket data dan sudah bayar tapi datanya blum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cc650584-58a2-49ed-918d-260e4f338d74",
+    "data": [
+      {
+        "text": "saya sudah transfer bni untuk beli pulsa,kenapa belum masuk ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2e64b5c0-7ec1-41ab-82cc-9087bd23a4b1",
+    "data": [
+      {
+        "text": "pembayaran kartu kredit bank mega saya kok statusnya menunggu konfirmasi operator trs.. padahal sebelum2nya tidak prn begitu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ba3a54d2-9f32-475d-be0c-fbb9e3e91de0",
+    "data": [
+      {
+        "text": "Siang, td sy beli pulsaTp kok blm masuk ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "054208fe-ac82-4332-a5cb-35eff5865403",
+    "data": [
+      {
+        "text": "tetap belum mendapatkan e tiket hampir 2 jam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2dbad438-4c77-4905-a82a-409ed507a186",
+    "data": [
+      {
+        "text": "saya salah input nama depan di tiket KAIbagaimana ya?besok pagi sudah berangkat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2e40c49a-9e7e-4a8e-935d-f7ebd06aa17d",
+    "data": [
+      {
+        "text": "untuk pilihan pembayaran tv kabel apakah memang belum memdukung cara bayar menggunakan kredivo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "116cb831-dda9-4785-924f-cdc1003bf530",
+    "data": [
+      {
+        "text": "sy membeli voucher unipin knp yg dikirim unipin gift card, itu produk yg berbeda apakah bisa direfund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "232d3cd3-8b4b-46ac-8b97-1460158ffb20",
+    "data": [
+      {
+        "text": "pembelian emoney saya brp kali ngak masuk, mohon dikembalikan dananya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6d9587c9-41b0-4765-9048-896c67f0c6fb",
+    "data": [
+      {
+        "text": "saya beli token listrik tp belum dikirim juga tokennya, mohon di lacak ketidaknyamanan saya ini dan segera kembalikan, tks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6e9ade81-5bc7-43b9-99a7-b07fef3b04d4",
+    "data": [
+      {
+        "text": "pmblian token listrik tgl 07/10/2018 senilai 200rb, blm saya pakai tadi mau dipakai keterangannya \"terpakai\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6c93b87f-63d1-4f8c-a638-2693dd63a7c9",
+    "data": [
+      {
+        "text": "pembelian tiket, saya sudah bayar tapi transaksinya menghilang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "87227452-7469-4e42-8b4e-68d8f0757815",
+    "data": [
+      {
+        "text": "pembelian pulsa k nomed knp blm masuk ya? kendala apa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9cc5c3d0-de00-4d8f-b15c-f04fc7fa6758",
+    "data": [
+      {
+        "text": "pembelian e money saldo tdk masuk karena hp tdk ada pendukung nfc. akun suami sy hanya bantu tanyakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e6bb1166-6e73-4e45-8fc8-3423616b0b94",
+    "data": [
+      {
+        "text": "pulsa dari pagi sampe sore status nya blm bayar padahal saya suda bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3ed1d899-bb9f-4abc-8a1d-53d5af9256ef",
+    "data": [
+      {
+        "text": "Top up 100rb tanggal 7 nov 2010 belum masuk ke saldo tapi transaksi di tokped berhasil.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "88ddf7dc-1445-4f56-bd86-39557b51baa1",
+    "data": [
+      {
+        "text": "sy beli tiket kereta knp dibatalkan? dikemanakan uang sy? knp tdk dikembalikan??!!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8a06510a-fcba-4037-a22d-cb3d5ba57e20",
+    "data": [
+      {
+        "text": "isi e money di tokopedia, dan sudah bayar lewat m banking bca dan berhasil statusnya.namun ketika update saldo, seperti tidak ada reaksi apa2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "97479a64-0d62-4e7e-8678-929e177df9a2",
+    "data": [
+      {
+        "text": "saya lakukan pembelian paket data internet tri namun tidak masuk data internet nya di karena kan angka nya kurang 1 digit...apakah dana bisa d refund ke saldo saya.tks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "34e7e105-7e35-47d4-84b9-bcfa3b0f054d",
+    "data": [
+      {
+        "text": "E-toll belum masuk saldonya dari kemarinMhn bantuanya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f499e5c1-de57-4927-8f44-4adbd9cb7db2",
+    "data": [
+      {
+        "text": "Saya sudah melakukan pembayaran kartu kredit danamon dan rekening saya sudah terdebit tapi statusnya di tokopedia tidak nampak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d5341886-b4b9-413b-9049-85a7e0ee85da",
+    "data": [
+      {
+        "text": "tadi pagi saya bayar kartu kredit lewat toped, siang ini dananya dikembalikan ke saldo saya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0c04c1b3-5bf1-45aa-8086-b018e0bcdbed",
+    "data": [
+      {
+        "text": "saya beli pulsa listrik tapi kenapa tidak tambah ya saldo di token listrik saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9364e9a2-092a-407a-a363-602b4382ae8a",
+    "data": [
+      {
+        "text": "kenapa transaksi digital saya yang terakhir gagal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "af9bc0c8-86d5-428a-9fe4-b03c63d8481b",
+    "data": [
+      {
+        "text": "tdk bisa bayar pdam di rumah purwodadi grobogan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f38696d4-1247-4866-b7bf-662b62a551c5",
+    "data": [
+      {
+        "text": "kenapa paket data saya belum masuk juga padahal sudah menunggu lama, tolong kebijakannya ya saya butuh soalnya, makasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2ebeed19-90a0-4ac3-936e-bcdcea310d2a",
+    "data": [
+      {
+        "text": "saldo pembelian token listrik katanya sudah di refund di chat tp masuk ke saldo yg mana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8f345a18-8d48-46cb-957c-61758c5c20e6",
+    "data": [
+      {
+        "text": "token listrik yg saya beli via tokopedia belum di terima nomor token nya hingga saat ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fb72dc06-fe37-4d98-b01e-244dd07bde8b",
+    "data": [
+      {
+        "text": "saya melakukan pembayaran kartu kredit menggunakan tokopedia. apakah berhasil? kok tdk ada pemberitahuan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "16523f4b-132d-4366-814d-9b36ffc50e76",
+    "data": [
+      {
+        "text": "kenapa kok dana dikembalikan yaa untuk pembayaran bpjs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "23355ace-fb3f-442f-8aae-ea4c9e66cf27",
+    "data": [
+      {
+        "text": "pembelian token blom masuk y , mohon dibantu terima kasih pembayaran lewat internet bangkin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "44fbe541-63f1-4a04-a817-2dde2083fe74",
+    "data": [
+      {
+        "text": "SAYA MAU TRANSAKSI ISI PULSA KE NOMOR TELKOMSEL, SETIAP KLIK BELI, KOK MUNCUL MINTA VERIFIKASI TERUS.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "76ff9215-07ff-431a-97ba-32e6a1a02e45",
+    "data": [
+      {
+        "text": "sampai saat ini saya belum mendapatkan e ticket terbaru",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1f352352-f6b9-4bca-8f04-53d07cc959a2",
+    "data": [
+      {
+        "text": "Pembayaran di tolak saat akan melakukan transaksi pulsa Listrik dgn menggunakan kartu kredit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2e6db674-e8c5-4961-8e19-03ed15d1e2e7",
+    "data": [
+      {
+        "text": "saya coba bayar kartu Halo tp kok selalu balik ke isi pulsa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "aade28e9-28f0-4664-9b19-9e46341bc258",
+    "data": [
+      {
+        "text": "mengenai e money pada saat pake saldo blm terisi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a7ef5c76-bd83-4717-821c-ce0ed24b0dcc",
+    "data": [
+      {
+        "text": "pembayaran tagihan kartu kredit saya belum berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "56dc9722-e5c8-42c6-992d-91df123efa07",
+    "data": [
+      {
+        "text": "aya mau beli voucher g-play yg 20rb, tapi kok yg muncul 50rb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "09a0ec96-c51c-40ee-81e5-29d17dcc5ed8",
+    "data": [
+      {
+        "text": "Gift card saya tidak masuk ke ovo points",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4ceac494-a058-460b-beb1-6841bbe5a2c2",
+    "data": [
+      {
+        "text": "TOKEN LISTRIK BELUM DIKIRIM!!!!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a65394a2-0941-4460-8a13-f7fc5b2a93e7",
+    "data": [
+      {
+        "text": "saya ngisi pulsa xl ga masuk ya ? malah dana dikembalikan tolong donk tnx",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d8a135b2-7ca4-4ef0-a094-8e1459114344",
+    "data": [
+      {
+        "text": "bisakah saya mengganti jadwal keberangkatan kereta api yang sudah terlanjur di beli?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9ce6ab8c-7d49-4053-b343-b5cb950b7ca4",
+    "data": [
+      {
+        "text": "kalo mw tau no. kursi nya bagaimna ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f0585384-6544-44e2-9c0a-3704580a9792",
+    "data": [
+      {
+        "text": "kok tagihan saya indhome sampe skrng blmcdi proses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "559b629d-786a-4c1d-b90b-6a360adb3dee",
+    "data": [
+      {
+        "text": "min saya isi token..tp dr tadi gk keluar juga nomornya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "42c0fb81-d34f-4faf-9a5b-72cebb289d11",
+    "data": [
+      {
+        "text": "tidak bisa transaksi produk digital (token listrik)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e58d0edf-ff6d-4342-9d35-6f95fe10a735",
+    "data": [
+      {
+        "text": "pembayaran tiket kereta api yg sudah saya bayarkan padahal di keterangan transaksi di batalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "95db201d-1c55-4529-bcad-2e6250112cc7",
+    "data": [
+      {
+        "text": "pembelian token listrik sudah berhasil blm dapat sms nomor vouchernya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dd62f645-4f08-482a-af13-02300e98d6a6",
+    "data": [
+      {
+        "text": "beli saldo e money pake toped setelah di update e money tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e46e0c96-1c23-497a-b55a-600e447d696e",
+    "data": [
+      {
+        "text": "saya terakhir transfer bt beli token 200 rb.. tapi riwayat transaksi saya gagal..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "92793a21-f52f-4ae1-980d-78cacdcb36e8",
+    "data": [
+      {
+        "text": "tuker tiket guns n roses tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dad196d8-c8c7-455c-8e1b-464c7eefe687",
+    "data": [
+      {
+        "text": "transaksi pembelian pulsa gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ff0e685e-edcc-4c5c-8fa2-b8d6a0a4413b",
+    "data": [
+      {
+        "text": "sy beli token listrik, tp sampai skrng blm masuk, pembayaran sdh ditransfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7161152e-fc68-4dab-9649-d5cc3c9de28e",
+    "data": [
+      {
+        "text": "pembelian pulsa sejak pagi tadi belum ada kejelasan hingga sekarang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b8c57c92-a126-4fc5-8eec-1979e66b611d",
+    "data": [
+      {
+        "text": "bukan blm dapat benefit tp blm masuk pulsanya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7c438741-ea41-4c6b-a7e6-91f73ae0581a",
+    "data": [
+      {
+        "text": "dear toped, saya bayar 2 kali untuk pembayaran tv berbayar indovision",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e4258ff5-bee1-471b-9f88-af46dfd3efc0",
+    "data": [
+      {
+        "text": "saya gagal transaksi digital (pembayaran pln) tapi saldo ovo saya terpotong dan ga kembali. tolong diproses. tks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1b0425a8-15f6-4f90-918d-0150873a521d",
+    "data": [
+      {
+        "text": "kmrn saya ada pembelian voucher listrik tp gagal, kenapa dananya gak kembali ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "99b2fcb0-d9f0-4cb6-aff5-3f26194f7f57",
+    "data": [
+      {
+        "text": "transaksi pembelian pulsa saya gagal, refund belum saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "45c5de2b-0c4c-4ef3-bbf7-57fa7f0b3430",
+    "data": [
+      {
+        "text": "saya tadi bayar bpjs, dana sudah terpotong tp pembelian gagal dan dananya belum dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c23a8638-7f97-43ae-9f66-f411db5bcfa5",
+    "data": [
+      {
+        "text": "bagaimana pengembalian dana saya. produk digital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2d2bc9c2-bc46-46d0-aebb-37f46687fec9",
+    "data": [
+      {
+        "text": "hi toped, kenapa dana pembelian voucher saya dikembalikan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6cb989de-0332-4b02-b187-f1d541b0aff9",
+    "data": [
+      {
+        "text": "sy hbs mengisi etoll, tp dana blm masuk itu gimana ya....?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "11ad7884-eeaf-4294-88d7-ca028562fcfc",
+    "data": [
+      {
+        "text": "saya melakukan pembelian tiket kereta api. pembayaran berhasil. tetapi saya tdk menemukan transaksi pemesanan tiket kereta saya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "045d58c4-fcc7-4fc2-83a8-8e9a8b0f17f5",
+    "data": [
+      {
+        "text": "e-voucher tidak terbit padahal saya sudah melakukan pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "aaacd5b6-ef08-4d92-868c-60f699609486",
+    "data": [
+      {
+        "text": "saya ingin memesan tiket kereta pulang pergi tp dg stasiun yg berbeda. tp tidak bisa. bagaimana ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6bb728ac-2847-4625-89ee-657916b471d8",
+    "data": [
+      {
+        "text": "gagal pembyran tv kabel tlg masuk krek sy bs..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "98082ef5-ad7c-4e99-bf32-644eea8d6128",
+    "data": [
+      {
+        "text": "ketika mau pakai di tol ternyata saldo e money nya tidak bertambah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "69d82d6d-5aec-4f85-9e35-b2cf4639fa5c",
+    "data": [
+      {
+        "text": "Saya top up emoney tgl 7 dec 18.. tp kmrn saya update saldo di indomaret msh sama! Jd dana blm masuk..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1dabefbe-72d9-441b-bd81-9e0ff6c3226a",
+    "data": [
+      {
+        "text": "plsa blm masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "108034bf-83a7-4656-9a33-7beef38379d7",
+    "data": [
+      {
+        "text": "Kemaren saya ada beli pulsa smartfren, katanya transaksi gagal. Kira2 dpt refund nya kapan ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a4de8e9b-a428-4a86-913d-6d2e375317fa",
+    "data": [
+      {
+        "text": "saya tdi beli tiket pesawat belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0fe86a75-60bc-4bb3-aa32-2245ffe78c26",
+    "data": [
+      {
+        "text": "dana saya katanya telah dikembalikan ke saldo tokopedia karena pembelian pulsa gagal tp kenapa gak ada dananya ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b7b2f489-ddc5-4ff9-b6ec-8978af3d22df",
+    "data": [
+      {
+        "text": "transaksi token listrik yg saya beli semalem smp pagi ini belum dapat kode tokennya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a7c77bec-99fc-4c46-9aa3-624a20fb9afc",
+    "data": [
+      {
+        "text": "Kemaren saya ada beli emoney 2kali trs sy topup saldonya nga masuk2 ya gimana ??? Tolong di cek ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7cf4faf2-5ef9-430e-823f-46a619d7cee4",
+    "data": [
+      {
+        "text": "ternyata trx pulsa saya gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b1cb5b6b-31a4-4e47-872d-8ee172125ec9",
+    "data": [
+      {
+        "text": "tapi pulsanya tidak nambah di no saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

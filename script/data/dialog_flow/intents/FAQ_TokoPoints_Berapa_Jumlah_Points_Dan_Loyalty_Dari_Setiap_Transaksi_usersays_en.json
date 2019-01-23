@@ -1,0 +1,227 @@
+[
+  {
+    "id": "e8ef0085-9f27-4de8-957b-be7c1b3e52ee",
+    "data": [
+      {
+        "text": "berapa points untuk transaksi pulsa saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3999d595-8024-4049-90b2-40324ce7fdcd",
+    "data": [
+      {
+        "text": "setiap transaksi, berapa points dan loyalty yang diberikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "208e85ed-5874-49fe-9c9a-927ce0deef9e",
+    "data": [
+      {
+        "text": "berapa banyak loyalty dari tiap transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4beb24c1-e879-4cce-adce-674f879d33ae",
+    "data": [
+      {
+        "text": "berapa jumlah loyalty yang diberikan untuk ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "16c01184-e50c-4482-b1ec-2e97422c03f9",
+    "data": [
+      {
+        "text": "kalau beli HP seharga ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " juta, berapa points yang akan saya dapat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9ae3c92a-b390-4a67-ba96-b449c8dd9fb9",
+    "data": [
+      {
+        "text": "berapa banyak points dari setiap transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dd121600-1b22-48dc-b220-0eaf0f75cc3a",
+    "data": [
+      {
+        "text": "berapa points yang saya dapat untuk setiap transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f89e7f63-813c-4715-b3e3-f841cf52c297",
+    "data": [
+      {
+        "text": "berapa loyalty yang akan saya dapat untuk transaksi ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "55218330-c0af-4078-9456-bca8c35831bb",
+    "data": [
+      {
+        "text": "berapa jumlah points setiap pesanan saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cd1595a6-e78e-496f-8824-f9761957bf8d",
+    "data": [
+      {
+        "text": "berapa jumlah points setiap transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7484c3e8-627d-4b98-b104-c7f374e7da62",
+    "data": [
+      {
+        "text": "berapa points yang berhak saya dapat dari ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ec73c2ab-cb6a-45df-9508-b99fdd9d8168",
+    "data": [
+      {
+        "text": "berapa jumlah points yg dikasih untuk transaksi saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8e8e7a4f-2e1b-4fde-9fd5-b71e5aaf6aad",
+    "data": [
+      {
+        "text": "setiap transaksi sukses, saya dikasih points dan loyalty brapa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e5c48471-5b70-4543-aae7-b4e2704dff69",
+    "data": [
+      {
+        "text": "setiap transaksi dikasih berapa points",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "846e7abe-9870-4f5a-95f6-bbe6d855fc61",
+    "data": [
+      {
+        "text": "apakah setiap transaksi, akan mendapat points dan loyalty berbeda-beda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0244bf06-4a18-40b4-bbf0-ba738da8a7b0",
+    "data": [
+      {
+        "text": "berapa jumlah points yang diberikan Tokopedi untuk masing-masing transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d22f492b-6cdc-4a74-b228-d573066c59f2",
+    "data": [
+      {
+        "text": "Berapa Jumlah Points dan Loyalty Dari Setiap Transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ff041f28-301e-47d0-ab84-4190bb5535b7",
+    "data": [
+      {
+        "text": "mengapa jumlah point berbeda setelah diklik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

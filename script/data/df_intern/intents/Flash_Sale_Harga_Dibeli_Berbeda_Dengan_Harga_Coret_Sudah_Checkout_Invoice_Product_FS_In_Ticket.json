@@ -1,0 +1,53 @@
+{
+  "id": "36d5fd7b-9cf8-43e8-b713-19a7502f6fcf",
+  "parentId": "a6758197-5afa-4cfe-be3d-9cd448def66d",
+  "rootParentId": "531bada3-61be-44f9-9ccf-a308436b6e0f",
+  "name": "Flash_Sale_Harga_Dibeli_Berbeda_Dengan_Harga_Coret_Sudah_Checkout_Invoice_Product_FS_In_Ticket",
+  "auto": true,
+  "contexts": [
+    "Flash_Sale_Harga_Dibeli_Berbeda_Dengan_Harga_Coret_Sudah_Checkout_Invoice_Product_FS_In-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Flash_Sale_Harga_Dibeli_Berbeda_Dengan_Harga_Coret_Sudah_Checkout_Invoice_Product_FS_In_Ticket-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped akan bantu buatkan tiketnya dulu dan selanjutnya kamu akan dihubungi melalui email Layanan Pengguna. Semoga membantu :)"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "data": {
+              "show_rating": false
+            },
+            "type": 0
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535710009,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

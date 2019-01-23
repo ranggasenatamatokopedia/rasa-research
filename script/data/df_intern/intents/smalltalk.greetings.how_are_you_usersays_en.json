@@ -1,0 +1,133 @@
+[
+  {
+    "id": "972bacd0-dec1-43ff-8183-286df21ff8a1",
+    "data": [
+      {
+        "text": "bagaimana kabar kamu pagi ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1517267406
+  },
+  {
+    "id": "184cd98e-4d72-4ddd-a10c-356974535ac9",
+    "data": [
+      {
+        "text": "kamu baik-baik aja nggak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1517267406
+  },
+  {
+    "id": "d27df855-7acf-4b89-9433-87235027d8a0",
+    "data": [
+      {
+        "text": "apa semuanya baik-baik saja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1517267406
+  },
+  {
+    "id": "3bf6e84f-c341-4bc4-9001-b8dcdde438dd",
+    "data": [
+      {
+        "text": "gimana kabar kamu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1517267406
+  },
+  {
+    "id": "676b1520-1541-4561-97f1-4f7ac4ce0ab1",
+    "data": [
+      {
+        "text": "apa kabar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1517267550
+  },
+  {
+    "id": "c61a8b42-1715-43d0-ae6d-5d1f7af16ef0",
+    "data": [
+      {
+        "text": "bagaimana kabarnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1517267406
+  },
+  {
+    "id": "0d714f10-2698-4d75-bb2e-88ac8b881a07",
+    "data": [
+      {
+        "text": "apa kabarnya hari ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1517267406
+  },
+  {
+    "id": "70d179d0-897d-46f1-b2ea-22d58bf68063",
+    "data": [
+      {
+        "text": "apa kamu baik-baik saja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1517267406
+  },
+  {
+    "id": "af1013b6-abd3-4e46-91d4-a7ed7e664a3c",
+    "data": [
+      {
+        "text": "sehat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "004fa7b2-bc6e-4faa-9645-a1a6d39ca426",
+    "data": [
+      {
+        "text": "apa kabar kamu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1517267406
+  },
+  {
+    "id": "96fd66d7-d9bd-488e-91ad-f361261d64a8",
+    "data": [
+      {
+        "text": "bagaimana perasaan kamu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1517267406
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "id": "35c3bdae-6bbc-4ea3-8d8c-5e72b5ef328c",
+    "data": [
+      {
+        "text": "kenapa transaksi saya ditolak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "96f9d70a-1560-4375-8498-623c3322a060",
+    "data": [
+      {
+        "text": "Batal pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "62637c73-9612-44e2-a61e-2be135000c1a",
+    "data": [
+      {
+        "text": "sudah bayar namun pesanan dibatalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f0fbd8c-b804-4a19-8169-f0c410672800",
+    "data": [
+      {
+        "text": "Batal invoice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "17bc07b1-167a-4ae9-b55a-1e7b1040e33c",
+    "data": [
+      {
+        "text": "tokopedia membatalkan pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "34d6f43f-d5ff-4afe-8bc9-0fcc6aa577a8",
+    "data": [
+      {
+        "text": "kenapa pesanan dibatalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e07f3332-9f5b-449e-8c31-26f0c82a1079",
+    "data": [
+      {
+        "text": "pesanan saya di batalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "236534a6-ad67-4616-a9a2-36a018ed3c56",
+    "data": [
+      {
+        "text": "iya pesanan saya dibatalkan tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2c73eb32-d332-4b6a-8ab0-c0d6efd4e76e",
+    "data": [
+      {
+        "text": "kenapa transaksi sy ditolak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9d7d837a-acdd-4e14-81c4-4c02ec3f2521",
+    "data": [
+      {
+        "text": "kenapa main kembalikan uang? kalau tidak ada barang kenapa tidak menanyakan terlebih dahulu!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a1832b7b-8c0a-46dd-8933-2401e1d20126",
+    "data": [
+      {
+        "text": "bayar cc di refund kenapa?blm bisa kah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6d47dff8-bdee-419d-8e8c-6651a3ad813d",
+    "data": [
+      {
+        "text": "Fraud_Dana_Transaksi_Dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "608309cf-fe60-45bf-8436-f25fc1b103ea",
+    "data": [
+      {
+        "text": "kenapa transaksi ini batal yak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cd4731f7-5266-436b-afa2-9d3affa5fa8b",
+    "data": [
+      {
+        "text": "pesanannya di tolak bukan penarikan dana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e802ee27-2dc9-4aef-8b76-8fb6c23fe177",
+    "data": [
+      {
+        "text": "saya pembeli, sudah bayar tp mau dibatalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "01347940-7162-43af-9207-102bd0d77a3b",
+    "data": [
+      {
+        "text": "hai mau bertanya kenapa uang pembayaran saya dikembalikan yaa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "51373123-2f19-4efc-907d-52b54c39b454",
+    "data": [
+      {
+        "text": "pesanan saya kenapa dibatalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0002fa0b-1d9b-4665-a2aa-40007553985e",
+    "data": [
+      {
+        "text": "belanja dibatalkan oleh tokopedia sebelum terverifikasi. bagamana caranya pengembalian uang saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f23d8b13-92a3-4a69-8c2d-0721075c95f4",
+    "data": [
+      {
+        "text": "Ini gimana ko malah transaksi saya dibatalkan sih? Terus uang saya gmn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "08423168-53a2-458c-ac21-10962fc6ff03",
+    "data": [
+      {
+        "text": "kenapa Dana Saya dikembalikan ? tidak berhasio Karena apa ? tolong penjelasannya yang detail.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

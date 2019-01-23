@@ -1,0 +1,33 @@
+{
+  "id": "1793226e-fbcc-43cb-9095-e4a102b3579d",
+  "name": "FAQ_Promo_KEBUT_apa_saja_promo_KEBUT_Tokopedia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Promo KEBUT (Kejutan Belanja Untung) di Tokopedia ada banyak, berikut ini beberapa jenis promo yang bisa kamu ikuti:\n1. Cashback\n2. Gratis Ongkir\n4. Diskon\n3. Cuci Gudang"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Catat tanggalnya dan jangan sampai ketinggalan, ya 🙂. Kamu bisa cek promo KEBUTnya  !TKPD_URL_KEBUT!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

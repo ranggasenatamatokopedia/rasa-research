@@ -1,0 +1,43 @@
+{
+  "id": "f8a121fd-cbb7-4ca6-9d19-9b59d07e5bf7",
+  "name": "FAQ_Refund_Bagaimana_Cara_Mengembalikan_Dana_Ke_Rekening",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Refund_Bagaimana_Cara_Mengembalikan_Dana_Ke_Rekening-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Dana hasil refund yang masuk ke Saldo Tokopedia bisa dipindahkan ke rekening pribadimu. Akan tetapi jika dana tersebut berasal dari Cashback, kamu tidak bisa melakukan penarikan dananya ke rekening."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk melakukan penarikan dana, kamu bisa mengikuti cara berikut ini:\n\n1. Masuk ke halaman Saldo Tokopedia\n2. Klik Withdraw / Tarik Dana\n3. Lalu ketik nominal yang ingin kamu tarik ke rekening kamu"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521085866,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_refund_bagaimana_cara_mengembalikan_dana_ke_rekening"
+    }
+  ]
+}

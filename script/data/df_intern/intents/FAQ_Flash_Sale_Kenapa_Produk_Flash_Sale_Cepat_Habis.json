@@ -1,0 +1,47 @@
+{
+  "id": "564e0fb4-5bda-46be-a9c0-a587fe8bd6ff",
+  "name": "FAQ_Flash_Sale_Kenapa_Produk_Flash_Sale_Cepat_Habis",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flash_Sale_Kenapa_Produk_Flash_Sale_Cepat_Habis-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon maaf ya atas ketidaknyamanan kamu. Antusias Toppers di Flash Sale kali ini sangat tinggi, sehingga produk Flash Sale habis dalam waktu singkat!"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped kasih tahu Tips beli produk Flash Sale ya :) \n\n1. Siapkan aplikasi Tokopedia 30 menit sebelum Flash Sale dimulai\n2. Pastikan koneksi internet atau kuota kamu lancar dan stabil\n3. Tepat saat Flash Sale dimulai, segera klik \"BELI\" pada produk impianmu\n4. Segera checkout dan lakukan pembayaran\n5. Kalau belum berhasil, kamu bisa coba produk lain yang masih tersedia"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga berhasil Toppers!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_flash_sale_kenapa_produk_flash_sale_cepat_habis"
+    }
+  ]
+}

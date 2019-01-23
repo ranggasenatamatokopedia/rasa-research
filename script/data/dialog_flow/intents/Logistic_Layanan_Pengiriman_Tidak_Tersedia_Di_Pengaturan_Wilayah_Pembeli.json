@@ -1,0 +1,50 @@
+{
+  "id": "0e57a6ea-fdfc-4cd5-a70d-352cee44ef3a",
+  "parentId": "e1fd67c7-5a72-4184-9a6c-bda4c6e61524",
+  "rootParentId": "e1fd67c7-5a72-4184-9a6c-bda4c6e61524",
+  "name": "Logistic_Layanan_Pengiriman_Tidak_Tersedia_Di_Pengaturan_Wilayah_Pembeli",
+  "auto": true,
+  "contexts": [
+    "Logistic_Layanan_Pengiriman_Tidak_Tersedia_Di_Pengaturan-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Layanan_Pengiriman_Tidak_Tersedia_Di_Pengaturan_Wilayah_Pembeli-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Beri tahu Toped dulu ya, apakah kamu sebagai Pembeli atau Penjual?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Penjual",
+              "Pembeli"
+            ],
+            "type": 1
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534220750,
+  "fallbackIntent": false,
+  "events": []
+}

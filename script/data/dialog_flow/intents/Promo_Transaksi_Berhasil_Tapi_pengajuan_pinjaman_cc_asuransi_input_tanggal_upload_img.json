@@ -1,0 +1,48 @@
+{
+  "id": "91a46569-d964-4566-b69e-630a06e0e688",
+  "parentId": "a299ae39-898f-4fe2-a197-55af7e4e25da",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Transaksi_Berhasil_Tapi_pengajuan_pinjaman_cc_asuransi_input_tanggal_upload_img",
+  "auto": false,
+  "contexts": [
+    "Promo_Transaksi_Berhasil_Tapi_pengajuan_pinjaman_cc_asuransi_input_tanggal-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Promo_Transaksi_Berhasil_Tapi_pengajuan_pinjaman_cc_asuransi_input_tanggal_upload_img-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon menunggu sebentar ya, Kak :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika pengajuanya sudah disetujui, boleh lampirkan screenshot email yang menyatakan pengajuannya disetujui ya, Kak?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523015832,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "input_date"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "d98d4f01-aec3-4c7a-a4ae-d27c06f23b03",
+  "parentId": "f75713bc-43ff-4cb3-902b-32f2be6459df",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Tidak_Mendapat_Cashback_Promo_Select_Invoice_MP_Pending_WTP_Verif_Process_Ship_Deliv_Resol",
+  "auto": false,
+  "contexts": [
+    "Promo_Tidak_Mendapat_Cashback_Promo_Select_Invoice_MP-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Mendapat_Cashback_Promo_Select_Invoice_MP_Ship_Deliv_Pending_WTP_Process_Verif-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah Toped cek Status Pesanan nya belum Sukses. Kamu bisa tunggu dulu ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Cashback akan diberikan maksimal 1x24 jam setelah status pesanan Sukses dan transaksi tidak melanggar Syarat Ketentuan."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531976118,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_pending"
+    },
+    {
+      "name": "invoice_verified"
+    },
+    {
+      "name": "invoice_process"
+    },
+    {
+      "name": "invoice_shipping"
+    },
+    {
+      "name": "invoice_delivered"
+    },
+    {
+      "name": "invoice_waiting_third_party"
+    },
+    {
+      "name": "invoice_resolution"
+    }
+  ]
+}

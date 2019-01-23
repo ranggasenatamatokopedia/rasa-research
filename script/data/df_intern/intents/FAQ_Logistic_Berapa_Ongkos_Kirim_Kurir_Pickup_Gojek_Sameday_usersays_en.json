@@ -1,0 +1,90 @@
+[
+  {
+    "id": "2a08e310-499f-421f-884c-0b81c11111d7",
+    "data": [
+      {
+        "text": "yang ",
+        "userDefined": false
+      },
+      {
+        "text": "sameday",
+        "alias": "layanan_kurir_pick_up",
+        "meta": "@layanan_kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bc2662d4-6b54-47e2-be29-54954e4c6361",
+    "data": [
+      {
+        "text": "sameday",
+        "alias": "layanan_kurir_pick_up",
+        "meta": "@layanan_kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d353b12d-6312-4d52-9710-b27dc39a91bb",
+    "data": [
+      {
+        "text": "pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "sameday",
+        "alias": "layanan_kurir_pick_up",
+        "meta": "@layanan_kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "66ede652-04e1-4fc8-a4e8-31b1f49c215e",
+    "data": [
+      {
+        "text": "pake ",
+        "userDefined": false
+      },
+      {
+        "text": "sameday",
+        "alias": "layanan_kurir_pick_up",
+        "meta": "@layanan_kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5d583e02-7500-46a3-8cc7-b1460b25d40c",
+    "data": [
+      {
+        "text": "yang same day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "59ff998f-5fe6-4e32-8182-6412040dbe5a",
+    "data": [
+      {
+        "text": "same day",
+        "alias": "layanan_kurir_pick_up",
+        "meta": "@layanan_kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

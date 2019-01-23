@@ -1,0 +1,33 @@
+{
+  "id": "2122f9dd-043c-4abb-90d9-4286678ceaaf",
+  "name": "FAQ_KAI_Cara_Pemesanan_Tiket",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_KAI_Cara_Pemesanan_Tiket-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu dapat lakukan pemesanan tiket kereta dengan cara:\n1. Lakukan pencarian tiket yang diinginkan\n2. Isi data penumpang yang sesuai dan pilih kursi\n3. Klik \"Lanjut ke Pembayaran\" dan pilih metode bayar\n4. Masukkan kode promo di \"Gunakan Kode Promo\" jika ada promo yang tersedia\n5. Klik \"Bayar\"\n\nPembayaran tiket kereta bisa menggunakan semua metode bayar yang tersedia. Selamat mencoba ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

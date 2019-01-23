@@ -1,0 +1,37 @@
+{
+  "id": "7d28c2b4-8085-4414-96bf-a29331f90041",
+  "name": "FAQ_Payment_Cara_Ubah_Metode_Pembayaran",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Payment_Cara_Ubah_Metode_Pembayaran-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sayang sekali, setelah kamu checkout pesanan dan sudah tercetak invoice, metode pembayaran tidak bisa diubah. Kamu bisa melakukan pembayaran sesuai dengan metode yang tertera di invoice atau checkout ulang dengan metode baru pilihan kamu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_payment_cara_ubah_metode_pembayaran"
+    }
+  ]
+}

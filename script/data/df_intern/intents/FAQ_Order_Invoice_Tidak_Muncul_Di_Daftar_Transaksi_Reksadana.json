@@ -1,0 +1,44 @@
+{
+  "id": "50abf950-604e-4fbe-a430-64ae988b0049",
+  "parentId": "b9b204e8-ba73-4e60-8662-8ab3561b1657",
+  "rootParentId": "b9b204e8-ba73-4e60-8662-8ab3561b1657",
+  "name": "FAQ_Order_Invoice_Tidak_Muncul_Di_Daftar_Transaksi_Reksadana",
+  "auto": true,
+  "contexts": [
+    "FAQ_Order_Invoice_Tidak_Muncul_Di_Daftar_Transaksi-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Order_Invoice_Tidak_Muncul_Di_Daftar_Transaksi_Reksadana-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Melalui aplikasi Tokopedia Android/ iOS, kamu bisa ikuti langkah berikut :\n1. Masuk ke laman Beranda\n2. Klik icon menu \"Reksadana\"\n3. Pilih menu \"Riwayat\" untuk melihat transaksi Jual dan Beli\n4. Pastikan kamu gunakan filter \"Semua\" agar seluruh transaksi Jual dan Beli kamu bisa terlihat."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga informasi Toped membantu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533814220,
+  "fallbackIntent": false,
+  "events": []
+}

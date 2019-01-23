@@ -1,0 +1,50 @@
+{
+  "id": "be3e639a-64e1-499c-8a79-5b66498f1649",
+  "parentId": "8bda8158-d6bf-475a-bb4a-8cf4134f5a38",
+  "rootParentId": "e24c0d6b-ef5c-4d53-ac56-e76f47176faf",
+  "name": "User_Play_Tidak_Bisa_Masuk_Ke_Play_sudah_connection_timeout_time_Ticket",
+  "auto": true,
+  "contexts": [
+    "User_Play_Tidak_Bisa_Masuk_Ke_Play_sudah_connection_timeout_time-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "User_Play_Tidak_Bisa_Masuk_Ke_Play_sudah_connection_timeout_time_Ticket-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5e9480b1-80da-45b6-a1ba-600004e06285",
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1557"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon tunggu sebentar, Toped bantu buatkan tiketnya, ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544759510,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

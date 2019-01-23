@@ -1,0 +1,43 @@
+{
+  "id": "2f477485-a0b7-4045-a629-2cec00598a02",
+  "parentId": "e7317db3-d037-40f2-9e12-696817a8bf0c",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Transaksi_Berhasil_cashback_toko_merchant_info_order_status",
+  "auto": false,
+  "contexts": [
+    "Promo_Transaksi_Berhasil_Tapi_Tidak_Mendapat_Benefit_cashback_toko_merchant-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetOrderFinishedIn24Hours",
+      "affectedContexts": [
+        {
+          "name": "Promo_Transaksi_Berhasil_cashback_toko_merchant_info_order_status-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon menunggu sebentar ya, Kak. Toped cek dulu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522925655,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "select_invoice"
+    }
+  ]
+}

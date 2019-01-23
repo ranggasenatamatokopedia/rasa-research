@@ -1,0 +1,48 @@
+{
+  "id": "1e5c887f-483e-4742-840f-fbd31d30586f",
+  "parentId": "61e46799-5c7a-4d5f-a756-671369b02c4e",
+  "rootParentId": "d19f77a0-9fc1-4329-9b8c-1f9cb2ed3084",
+  "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Shipping_Buyer_On_Demand_In_SLA_Not_Found",
+  "auto": true,
+  "contexts": [
+    "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Shipping_Buyer_On_Demand_In_SLA-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Shipping_Buyer_On_Demand_In_SLA_Not_Found-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek pesanan kamu masih dalam estimasi waktu pengiriman dan saat ini dalam proses pencarian driver. Boleh tunggu dulu ya :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu juga dapat melakukan pengecekan pesanan kamu pada halaman \"Status Pemesanan\" :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541054619,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "driver_not_found_yet"
+    }
+  ]
+}

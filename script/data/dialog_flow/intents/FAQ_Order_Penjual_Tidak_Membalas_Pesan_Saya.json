@@ -1,0 +1,31 @@
+{
+  "id": "a0ff4da9-f953-4d5e-bb84-a6d8492e77db",
+  "name": "FAQ_Order_Penjual_Tidak_Membalas_Pesan_Saya",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon untuk menunggu sebentar ya. Bisa saja saat ini pesanan kamu sedang dalam antrean untuk diproses oleh Penjual."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_order_penjual_tidak_membalas_pesan_saya"
+    }
+  ]
+}

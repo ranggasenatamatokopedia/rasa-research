@@ -1,0 +1,35 @@
+{
+  "id": "9b2c40e0-46c5-4951-a6ee-eaba34a76c7b",
+  "name": "smalltalk.greetings.good_evening",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": [
+            "Sore juga :)",
+            "Selamat sore juga :)"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521002779,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "smalltalk_greetings_good_evening"
+    }
+  ]
+}

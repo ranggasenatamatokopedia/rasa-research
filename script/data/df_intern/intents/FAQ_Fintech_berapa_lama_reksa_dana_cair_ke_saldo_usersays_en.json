@@ -1,0 +1,149 @@
+[
+  {
+    "id": "39ca4952-11ee-492d-90a7-c4e6d8decc1d",
+    "data": [
+      {
+        "text": "saya mau jual reksa dana saya nih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", dana nya akan balik kemana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "40fe5b67-4163-4e17-92b0-de2871009589",
+    "data": [
+      {
+        "text": "kalo saya jual reksadana, dananya di kembaliin kemana ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "abf3a297-3e2e-4d1f-958f-d5bfdff0021e",
+    "data": [
+      {
+        "text": "kalo saya jual reksa dana saya, cairnya berapa lama ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "df010cff-4c5e-4708-b91d-1c936e0ca5ad",
+    "data": [
+      {
+        "text": "saya jual reksadana saya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", dananya kapan cair ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "29575787-80bf-4904-9562-09124b7adc9d",
+    "data": [
+      {
+        "text": "saya jual reksa dana saya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", dananya kapan cair ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "16f33a82-7d81-4388-9a85-9275c7687895",
+    "data": [
+      {
+        "text": "reksa dana saya cairnya berapa lama ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "248efb42-a292-4bb0-9344-87ee4fb3c7ea",
+    "data": [
+      {
+        "text": "berapa lama reksa dana cair",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ff76cebb-7245-4811-b3b5-207999fbcd74",
+    "data": [
+      {
+        "text": "Berapa lama penjualan reksa dana bisa cair ke ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo tokopedia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

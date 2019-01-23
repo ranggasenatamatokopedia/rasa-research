@@ -1,0 +1,31 @@
+{
+  "id": "807da5d9-f517-4e49-967d-2503252f49da",
+  "name": "FAQ_Logistic_Keuntungan_Menggunakan_FItur_Upload_Resi_Sekaligus",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu dapat menghemat waktu ketika akan memasukkan resi pengiriman dalam jumlah yang cukup banyak. Dengan begitu, pesanan kamu diproses lebih cepat dan tentunya memberikan pelayanan yang lebih maksimal kepada Pembeli :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_logistic_keuntungan_menggunakan_fitur_upload_resi_sekaligus"
+    }
+  ]
+}

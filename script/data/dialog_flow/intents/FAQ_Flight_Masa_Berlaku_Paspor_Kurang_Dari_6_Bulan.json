@@ -1,0 +1,33 @@
+{
+  "id": "7ea90f03-ccbd-4b2a-8be7-981ce8e7e1a5",
+  "name": "FAQ_Flight_Masa_Berlaku_Paspor_Kurang_Dari_6_Bulan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flight_Masa_Berlaku_Paspor_Kurang_Dari_6_Bulan-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Masa berlaku paspor harus lebih dari 6 (enam) bulan dari tanggal kepulangan kamu. Kamu bisa memastikan terlebih dulu masa berlaku paspor jika ingin melakukan penerbangan internasional."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

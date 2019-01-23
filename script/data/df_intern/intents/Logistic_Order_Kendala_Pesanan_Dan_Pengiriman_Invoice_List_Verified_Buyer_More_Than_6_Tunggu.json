@@ -1,0 +1,39 @@
+{
+  "id": "45b01610-0146-4e89-87c5-8e212e05b72a",
+  "parentId": "d27055e7-3270-402f-bd33-15bc5e185aeb",
+  "rootParentId": "d19f77a0-9fc1-4329-9b8c-1f9cb2ed3084",
+  "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Verified_Buyer_More_Than_6_Tunggu",
+  "auto": true,
+  "contexts": [
+    "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Verified_Buyer_More_Than_6-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Verified_Buyer_More_Than_6_Tunggu-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Baik, kalau begitu kamu bisa tunggu respons penjual ya. Pantau terus pesanan kamu dari menu \"Status Pemesanan\" dari akun Tokopedia."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541159738,
+  "fallbackIntent": false,
+  "events": []
+}

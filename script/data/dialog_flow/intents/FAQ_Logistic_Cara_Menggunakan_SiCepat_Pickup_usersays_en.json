@@ -1,0 +1,299 @@
+[
+  {
+    "id": "dd455618-4912-4a16-835c-9d39e18443e7",
+    "data": [
+      {
+        "text": "cara panggil kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c463cfc1-6759-4725-9fa6-d86a9ef91f4e",
+    "data": [
+      {
+        "text": "cara pesan kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "244938cf-37e0-4d97-aa49-fe688ccb902e",
+    "data": [
+      {
+        "text": "gimana cara manggil driver ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3cbb05f5-e594-4caf-a89f-2d86226ab53c",
+    "data": [
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ini gimana cara requestnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "45ae9d91-21ad-460b-9085-faa578715965",
+    "data": [
+      {
+        "text": "cara untuk request ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f6dee6a8-0a68-4afd-b18b-31741e621c5b",
+    "data": [
+      {
+        "text": "gimana cara request ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d1797374-b071-4036-b477-5b8bc53793dc",
+    "data": [
+      {
+        "text": "cara request ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "28af3a01-c712-455c-bbd6-43b33225e16a",
+    "data": [
+      {
+        "text": "mohon info cara request ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fbf05bf5-9246-4f06-bb26-6b4caca02c70",
+    "data": [
+      {
+        "text": "cara request driver ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "54d473ca-b6bc-44ce-bbf0-8d5f832797e9",
+    "data": [
+      {
+        "text": "cara request ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bb9658d4-c029-4253-b3c1-2020cbbdbff5",
+    "data": [
+      {
+        "text": "mohon infonya gimana cara agar sy dapat pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d1f11d42-8281-4bde-9272-4d518edc29f8",
+    "data": [
+      {
+        "text": "saya mau tau cara pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3a3b8483-2ae5-41b8-ba2c-6f84fd09c07f",
+    "data": [
+      {
+        "text": "cara pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "67ec628c-b997-4466-9d9f-e75e1782a55e",
+    "data": [
+      {
+        "text": "cara menggunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6c9aa2bc-1040-40d7-b952-cdb3a56bab89",
+    "data": [
+      {
+        "text": "gimana caranya ya pengirman sicepat pickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "3ce5e458-efc3-4b99-8fee-962bd6ddb52d",
+  "parentId": "7888e4d7-0006-4fc0-94d6-cc51499fa5e2",
+  "rootParentId": "2f8cbeef-ace2-4920-b98a-19f47da047c4",
+  "name": "Fraud_Saya_Mendapat_Email_Melanggar_SNK_Select_Invoice_MP_Finished_Fraud_Refund",
+  "auto": false,
+  "contexts": [
+    "Fraud_Saya_Mendapat_Email_Melanggar_SNK_Select_Invoice_MP_Finished_Fraud-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectSupportMessagePage",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Saya_Mendapat_Email_Melanggar_SNK_Select_Invoice_MP_Finished_Fraud_Refund-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah Toped cek, transaksi tersebut tidak memenuhi Syarat dan Ketentuan. Sehingga, transaksi dibatalkan dan dana dikembalikan kepada pembeli."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531975537,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "case_status_refund"
+    }
+  ]
+}

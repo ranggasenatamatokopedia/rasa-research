@@ -1,0 +1,48 @@
+{
+  "id": "3f763da0-9470-4e68-ba85-8958f6e876f8",
+  "parentId": "08f6a24d-389e-42cc-b746-fc58eed0cc22",
+  "rootParentId": "debdb44e-b23a-4c52-8626-59514944fd55",
+  "name": "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Buyer_resolusi",
+  "auto": true,
+  "contexts": [
+    "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Buyer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Buyer_resolusi-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai! Toped cek kendala ini sudah berada di Pusat Resolusi ya. Kamu bisa diskusi dengan Penjual dan ajukan solusi kamu inginkan."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu juga bisa klik tombol \"Minta Bantuan\" untuk penyelesaian kendala dengan bantuan tim Pusat Resolusi. Jadi, jangan khawatir ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531281124,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_pesanan_dikomplain"
+    }
+  ]
+}

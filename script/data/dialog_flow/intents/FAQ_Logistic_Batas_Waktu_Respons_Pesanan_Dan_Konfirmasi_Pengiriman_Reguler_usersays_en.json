@@ -1,0 +1,405 @@
+[
+  {
+    "id": "8af9de06-b1d2-4f84-8675-2aa0a1da387b",
+    "data": [
+      {
+        "text": "batas respons pesanan ",
+        "userDefined": false
+      },
+      {
+        "text": "sicepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "69d2d7fc-ca11-411c-b041-94465fb2a5f4",
+    "data": [
+      {
+        "text": "berapa lama batas waktu konfirmasi pengiriman ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "32bb40be-64b9-443f-b1b6-f38b9a876acd",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", batas waktu untuk respon dan input resi pesanan kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "ninja",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " berapa hari sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "755217a1-932a-4acc-b451-6b513df4241b",
+    "data": [
+      {
+        "text": "berapa lama batas waktu konfirmasi pengiriman ",
+        "userDefined": false
+      },
+      {
+        "text": "rex",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0d4d71a7-03de-4852-86bb-0f1d58a6aacf",
+    "data": [
+      {
+        "text": "berapa lama batas waktu respons pesanan kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "reguler",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eab1093b-e7bd-43e4-a22b-25a8b4dcda6f",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", batas waktu untuk respon dan input resi pesanan kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "pos",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " berapa hari sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a8752ae7-8678-42c5-b8f1-83701ccff801",
+    "data": [
+      {
+        "text": "waktu konfirmasi pengiriman ",
+        "userDefined": false
+      },
+      {
+        "text": "tiki",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1ee7f170-4b0c-4b96-8b40-18f639dd2cd6",
+    "data": [
+      {
+        "text": "berapa lama batas waktu konfirmasi pengiriman ",
+        "userDefined": false
+      },
+      {
+        "text": "wahana",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "961d2b9f-36d6-4882-9373-2a1c57000589",
+    "data": [
+      {
+        "text": "berapa lama batas waktu konfirmasi pengiriman ",
+        "userDefined": false
+      },
+      {
+        "text": "ninja",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5029b783-796d-45df-b962-5912fc5d8e7d",
+    "data": [
+      {
+        "text": "batas waktu respons pesanan ",
+        "userDefined": false
+      },
+      {
+        "text": "reguler",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5906b935-753a-4287-821c-695f9bfce29c",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", batas waktu untuk respon dan input resi pesanan kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "tiki",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " berapa hari sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "18cafb64-9f93-41fc-95b3-bcdf7d3e06e6",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", batas waktu untuk respon dan input resi pesanan kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "rex",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " berapa hari sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b9f2dccf-ba7a-4213-94d3-24b2e8aeaa66",
+    "data": [
+      {
+        "text": "respons pesanan kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "reguler",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c6ec4a56-b033-4690-8386-33a18e736798",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", batas waktu untuk respon dan input resi pesanan kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "reguler",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " berapa hari sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e2ab79e4-ca1a-4708-9a84-d892561c4831",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", batas waktu untuk respon dan input resi pesanan kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "jne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " berapa hari sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "28e16a81-b557-4539-a700-738087d20fb8",
+    "data": [
+      {
+        "text": "respons pesanan ",
+        "userDefined": false
+      },
+      {
+        "text": "jne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "281a81a5-b560-4f4e-bd3d-07488831ac7c",
+    "data": [
+      {
+        "text": "berapa lama batas waktu respons pesanan ",
+        "userDefined": false
+      },
+      {
+        "text": "j\u0026t",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dafab479-a1ec-4863-a7aa-f125c95b1ea4",
+    "data": [
+      {
+        "text": "batas waktu respon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "57caa616-b514-437b-b0ab-f25b1d062400",
+    "data": [
+      {
+        "text": "pesanan saya blom di proses pejual .kira2 brp lama ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "168e5c19-b2e3-48a8-b078-5a9ba62d23cd",
+    "data": [
+      {
+        "text": "Saya barusan sudah transfer untuk invoice INV/20181101/XVIII/XI/225461189. Tolong cek dan segera proses packing dan pengiriman barang. Terima kasih.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "936323ca-1e0a-4bd9-a494-38ff4a7c7c03",
+    "data": [
+      {
+        "text": "Saya sudah melakukan pembayaran dan sudah dinyatakan pembayaran saya sudah diverifikasi. Tapi status order saya masih menunggu konfirmasi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "81778e41-778f-43c0-b4ce-9010a26815d0",
+    "data": [
+      {
+        "text": "saya hanya ingin menanyakan batas terakhir kirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "940d860c-ac33-461b-834c-b7a124ea5f56",
+    "data": [
+      {
+        "text": "bisakah batas waktu pengiriman di undur?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e58fed43-141f-4447-b6ed-304014d1db2d",
+    "data": [
+      {
+        "text": "Ada perubahan batas waktu untuk pengiriman ya?  brp lama?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

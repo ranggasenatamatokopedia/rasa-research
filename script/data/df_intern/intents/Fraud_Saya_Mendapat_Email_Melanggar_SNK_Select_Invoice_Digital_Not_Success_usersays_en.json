@@ -1,0 +1,154 @@
+[
+  {
+    "id": "f205b142-bcca-431d-8d91-1dfb1293bfa2",
+    "data": [
+      {
+        "text": "invoice_settled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "121fa94f-2fa2-42ec-8fad-209ef2480a13",
+    "data": [
+      {
+        "text": "invoice_waiting_",
+        "userDefined": false
+      },
+      {
+        "text": "third",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_party",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "813d8be4-460f-41f5-9343-300b9464ebbe",
+    "data": [
+      {
+        "text": "invoice_waiting_transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d96f58a9-af6c-4d07-9248-6f21e17b232e",
+    "data": [
+      {
+        "text": "invoice_waiting_payment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eb830452-5b6d-4c46-a38e-2c8d3069574b",
+    "data": [
+      {
+        "text": "invoice_pending",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c1a0e444-6ec4-4c13-ae5e-dab341077cba",
+    "data": [
+      {
+        "text": "invoice_cancelled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2251b018-2900-4334-8089-9a6de580db69",
+    "data": [
+      {
+        "text": "invoice_waiting_retry_option",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4ee88a58-2b8b-4cad-8572-9ca67f8a8ec8",
+    "data": [
+      {
+        "text": "invoice_to_be_settled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cbab454e-72bc-40c3-a3a4-2093e5b38a05",
+    "data": [
+      {
+        "text": "invoice_retry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7da32601-2df6-4685-a779-efe108f10a6a",
+    "data": [
+      {
+        "text": "invoice_refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a4b89c00-eb8f-4109-8890-f61c6aa86e63",
+    "data": [
+      {
+        "text": "invoice_failed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "616fddf6-8d1a-453f-b3d3-08eaa06857e6",
+    "data": [
+      {
+        "text": "invoice_queue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e10c95a9-26de-4a70-94e4-d67800136144",
+    "data": [
+      {
+        "text": "invoice_waiting_scheduler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

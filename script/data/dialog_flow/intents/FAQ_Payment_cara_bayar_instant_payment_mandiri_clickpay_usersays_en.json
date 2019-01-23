@@ -1,0 +1,38 @@
+[
+  {
+    "id": "006b65bc-b68c-4ecc-a1bc-b2f72a718ad9",
+    "data": [
+      {
+        "text": "Mandiri Clickpay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d0c935a6-8dda-460b-b584-800d31088ac7",
+    "data": [
+      {
+        "text": "clickpay mandiri",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0f572a9d-4c95-44b8-a922-b86326b3f808",
+    "data": [
+      {
+        "text": "mandiri click pay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

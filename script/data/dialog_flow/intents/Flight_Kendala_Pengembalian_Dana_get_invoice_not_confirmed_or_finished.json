@@ -1,0 +1,69 @@
+{
+  "id": "793de114-191a-4c83-9cf4-e78b0968b682",
+  "parentId": "d53a66d2-49e4-4f5f-bebf-01ee0507565a",
+  "rootParentId": "c0b649b7-f279-4ced-b948-85bc9276afd2",
+  "name": "Flight_Kendala_Pengembalian_Dana_get_invoice_not_confirmed_or_finished",
+  "auto": false,
+  "contexts": [
+    "Flight_Kendala_Pengembalian_Dana_get_invoice-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Flight_Kendala_Pengembalian_Dana_get_invoice_not_confirmed_or_finished-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pesanan kamu belum diajukan pembatalan untuk tiket pesawat. Jika ingin membatalkan tiket, ajukan pembatalan tiket terlebih dulu dengan pilih \"Batalkan Tiket\" pada daftar transaksi."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa mencantumkan data pendukung seperti ktp dan data lainnya untuk pembatalan tiket. Senang dapat membantu kamu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537518317,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_expired"
+    },
+    {
+      "name": "invoice_waiting_for_payment"
+    },
+    {
+      "name": "invoice_waiting_for_third_party"
+    },
+    {
+      "name": "invoice_waiting_for_transfer"
+    },
+    {
+      "name": "invoice_ready_for_queue"
+    },
+    {
+      "name": "invoice_in_progress"
+    },
+    {
+      "name": "invoice_failed"
+    },
+    {
+      "name": "invoice_refunded"
+    }
+  ]
+}

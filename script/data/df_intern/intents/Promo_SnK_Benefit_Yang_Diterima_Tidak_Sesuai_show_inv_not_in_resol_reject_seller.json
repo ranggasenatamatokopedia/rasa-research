@@ -1,0 +1,58 @@
+{
+  "id": "f73307fb-6151-4403-8c57-75ecadbec16f",
+  "parentId": "62cebc3c-7c9c-4719-94b5-e5aa772e8bc1",
+  "rootParentId": "67024543-88fb-488f-907b-85ef94921089",
+  "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_inv_not_in_resol_reject_seller",
+  "auto": false,
+  "contexts": [
+    "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_kupon_tokopoints_show_inv_MP_OS-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_inv_not_in_resol_reject_seller-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek transaksi kamu ditolak atau dibatalkan oleh Penjual ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau kamu pakai kupon Gratis Ongkir dari Membership; apabila transaksi ditolak keseluruhan dalam 1 pembayaran, maka kupon kamu dapat digunakan kembali. Namun apabila hanya sebagian, maka kupon secara otomatis sudah terhitung digunakan. "
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau kamu pakai kupon Gratis Ongkir dari Tukar Points; apabila transaksi ditolak oleh penjual, maka Kupon tersebut akan dikembalikan ke halaman \"Kupon Milik Saya\"."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau kamu pakai kupon Cashback dari Tukar Points; apabila transaksi ditolak secara keseluruhan dalam 1 pembayaran, maka kupon kamu dapat digunakan kembali. Namun apabila hanya sebagian, maka kupon secara otomatis sudah terhitung digunakan dan cashbacknya akan disesuaikan dengan pesanan yang telah berhasil. \r\n"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526541359,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "not_in_resol_reject_seller"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "e95dc79f-44e5-4897-95bf-2bb1c52332df",
+  "parentId": "7b515a14-6da4-41d0-950c-5a66ede34909",
+  "rootParentId": "cf17fcc0-2998-4ff8-8cf4-6a1ca0e60443",
+  "name": "Merchant_Point_Reputasi_Tidak_Sesuai_1_Select_Invoice_Marketplace_Ex_Finished_Reject_Cancel",
+  "auto": false,
+  "contexts": [
+    "Merchant_Point_Reputasi_Tidak_Sesuai_1_Select_Invoice_Marketplace-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Point_Reputasi_Tidak_Sesuai_1_Select_Invoice_Marketplace_Ex_Finished_Reject_Cancel-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon pastikan kembali invoice yang kamu pilih. Perhitungan poin reputasi hanya untuk transaksi yang berstatus \u0027finished\u0027. Semoga informasi dari Toped membantu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536552753,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_pending"
+    },
+    {
+      "name": "invoice_waiting_third_party"
+    },
+    {
+      "name": "invoice_verified"
+    },
+    {
+      "name": "invoice_process"
+    },
+    {
+      "name": "invoice_shipping"
+    },
+    {
+      "name": "invoice_delivered"
+    },
+    {
+      "name": "invoice_resolution"
+    },
+    {
+      "name": "invoice_fraud_review"
+    },
+    {
+      "name": "invoice_suspect_fraud"
+    }
+  ]
+}

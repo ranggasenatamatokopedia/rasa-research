@@ -1,0 +1,55 @@
+{
+  "id": "69715b39-90bd-4cc9-8d03-23bbe7882ea3",
+  "parentId": "1f9cc1b3-f6aa-4123-83af-ef52aabd5135",
+  "rootParentId": "b3e075f6-aae4-44df-ad4e-bea75b498908",
+  "name": "KAI_Kendala_Pembelian_Tiket_Kereta_refund_on_progress_non_cc",
+  "auto": false,
+  "contexts": [
+    "KAI_Kendala_Pembelian_Tiket_Kereta_refund_on_progress-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "KAI_Kendala_Pembelian_Tiket_Kereta_refund_on_progress_non_cc-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Butuh 1x24 jam sampai dana kamu berhasil dikembalikan ke dalam Saldo Tokopedia."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539336011,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "inspay"
+    },
+    {
+      "name": "transfer"
+    },
+    {
+      "name": "tokocash"
+    },
+    {
+      "name": "gerai"
+    },
+    {
+      "name": "va"
+    }
+  ]
+}

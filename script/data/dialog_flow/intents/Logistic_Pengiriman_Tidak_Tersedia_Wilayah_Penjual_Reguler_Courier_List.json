@@ -1,0 +1,39 @@
+{
+  "id": "a009f4c7-e7e4-4159-aed7-aaeba6381714",
+  "parentId": "ae30540f-f1fd-433f-917d-e211a8d92269",
+  "rootParentId": "e1fd67c7-5a72-4184-9a6c-bda4c6e61524",
+  "name": "Logistic_Pengiriman_Tidak_Tersedia_Wilayah_Penjual_Reguler_Courier_List",
+  "auto": true,
+  "contexts": [
+    "Logistic_Layanan_Pengiriman_Tidak_Tersedia_Di_Pengaturan_Wilayah_Penjual_Reguler-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckShopValidShipper",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Pengiriman_Tidak_Tersedia_Wilayah_Penjual_Reguler_Courier_List-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu sebentar ya, Toped cek dulu. :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534157307,
+  "fallbackIntent": false,
+  "events": []
+}

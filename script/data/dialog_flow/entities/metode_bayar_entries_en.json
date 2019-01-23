@@ -1,0 +1,104 @@
+[
+  {
+    "value": "gerai",
+    "synonyms": [
+      "gerai",
+      "alfamaret",
+      "indomaret",
+      "alfa mart",
+      "jne",
+      "lawson",
+      "indomart",
+      "infomaret",
+      "alfamart",
+      "kioson",
+      "pos",
+      "pos indonesia",
+      "Gerai",
+      "gerai retail",
+      "indomart"
+    ]
+  },
+  {
+    "value": "Bank transfer",
+    "synonyms": [
+      "Bank transfer",
+      "transfer bank",
+      "transfer",
+      "trasnfer",
+      "atm",
+      "m banking",
+      "e banking",
+      "trf",
+      "trafer"
+    ]
+  },
+  {
+    "value": "installment",
+    "synonyms": [
+      "installment",
+      "cicilan",
+      "cicilan kartu kredit"
+    ]
+  },
+  {
+    "value": "saldo tokopedia",
+    "synonyms": [
+      "saldo tokopedia",
+      "saldo",
+      "saldo tokped"
+    ]
+  },
+  {
+    "value": "cc",
+    "synonyms": [
+      "cc",
+      "kartu kredit",
+      "credit card"
+    ]
+  },
+  {
+    "value": "virtual account",
+    "synonyms": [
+      "virtual account",
+      "VA"
+    ]
+  },
+  {
+    "value": "kredivo",
+    "synonyms": [
+      "kredivo"
+    ]
+  },
+  {
+    "value": "instant payment",
+    "synonyms": [
+      "instant payment",
+      "pembayaran instan"
+    ]
+  },
+  {
+    "value": "tokocash",
+    "synonyms": [
+      "tokocash",
+      "toko cash"
+    ]
+  },
+  {
+    "value": "ovo_cash",
+    "synonyms": [
+      "ovo_cash",
+      "ovo cash",
+      "ovo cas"
+    ]
+  },
+  {
+    "value": "ovo_points",
+    "synonyms": [
+      "ovo_points",
+      "ovo points",
+      "ovo point",
+      "ovo poin"
+    ]
+  }
+]

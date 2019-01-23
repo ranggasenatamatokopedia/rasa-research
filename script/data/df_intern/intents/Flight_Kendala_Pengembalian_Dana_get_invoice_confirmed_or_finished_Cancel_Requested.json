@@ -1,0 +1,48 @@
+{
+  "id": "8666b6fc-209d-48e9-80e5-98c924744e9e",
+  "parentId": "056105b0-efd9-44d6-9e8e-a05e7cb9e123",
+  "rootParentId": "c0b649b7-f279-4ced-b948-85bc9276afd2",
+  "name": "Flight_Kendala_Pengembalian_Dana_get_invoice_confirmed_or_finished_Cancel_Requested",
+  "auto": true,
+  "contexts": [
+    "Flight_Kendala_Pengembalian_Dana_get_invoice_confirmed_or_finished-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Flight_Kendala_Pengembalian_Dana_get_invoice_confirmed_or_finished_Cancel_Requested-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Saat ini pesanan kamu sudah diajukan pembatalan ya dan boleh tunggu terlebih dulu untuk perkembangan status pengajuan pembatalan tiket kamu."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Silakan cek berkala pengajuan pembatalan tiket kamu pada \"Daftar Transaksi Tiket Pesawat\". Semoga informasi Toped membantu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537763689,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "flight_cancel_status_requested"
+    }
+  ]
+}

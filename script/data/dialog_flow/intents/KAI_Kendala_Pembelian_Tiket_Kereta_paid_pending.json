@@ -1,0 +1,46 @@
+{
+  "id": "5552fa51-7a13-4f1c-944d-faf0a5f1c9c6",
+  "parentId": "0a63d0ba-acb1-42cc-9327-458279363787",
+  "rootParentId": "b3e075f6-aae4-44df-ad4e-bea75b498908",
+  "name": "KAI_Kendala_Pembelian_Tiket_Kereta_paid_pending",
+  "auto": false,
+  "contexts": [
+    "KAI_Kendala_Pembelian_Tiket_Kereta_select_inv-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CalculateDeltaTimeByPaymentDate",
+      "affectedContexts": [
+        {
+          "name": "KAI_Kendala_Pembelian_Tiket_Kereta_paid_pending-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539333123,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_ticket_has_been_paid"
+    },
+    {
+      "name": "invoice_pending"
+    }
+  ]
+}

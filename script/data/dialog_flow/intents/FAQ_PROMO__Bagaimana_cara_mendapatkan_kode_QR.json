@@ -1,0 +1,32 @@
+{
+  "id": "2d3deb65-5581-404f-b13b-2f0d82dfb8f4",
+  "parentId": "1bd055e0-788f-4f99-916c-d25c4717567d",
+  "rootParentId": "1bd055e0-788f-4f99-916c-d25c4717567d",
+  "name": "FAQ_PROMO__Bagaimana_cara_mendapatkan_kode_QR",
+  "auto": true,
+  "contexts": [
+    "FAQ_PROMO_Apa_itu_Kode_QR-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FAQ_PROMO_Apa_itu_Kode_QR.FAQ_PROMO_Apa_itu_Kode_QR-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa temukan kode QR di semua media elektronik dan media cetak yang saat ini sedang mempromosikan Tokopedia"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

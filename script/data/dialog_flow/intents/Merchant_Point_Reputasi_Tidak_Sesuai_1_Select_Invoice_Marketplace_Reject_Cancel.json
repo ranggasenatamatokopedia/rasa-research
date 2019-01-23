@@ -1,0 +1,46 @@
+{
+  "id": "74b156a7-7b01-4e69-83c8-ee56ecec647c",
+  "parentId": "7b515a14-6da4-41d0-950c-5a66ede34909",
+  "rootParentId": "cf17fcc0-2998-4ff8-8cf4-6a1ca0e60443",
+  "name": "Merchant_Point_Reputasi_Tidak_Sesuai_1_Select_Invoice_Marketplace_Reject_Cancel",
+  "auto": true,
+  "contexts": [
+    "Merchant_Point_Reputasi_Tidak_Sesuai_1_Select_Invoice_Marketplace-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Point_Reputasi_Tidak_Sesuai_1_Select_Invoice_Marketplace_Reject_Cancel-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau Toped cek, status pesanan kamu batal. Perhitungan poin reputasi hanya untuk transaksi yang berstatus \u0027finished\u0027. Semoga informasi dari Toped membantu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536552596,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_reject"
+    },
+    {
+      "name": "invoice_cancel"
+    }
+  ]
+}

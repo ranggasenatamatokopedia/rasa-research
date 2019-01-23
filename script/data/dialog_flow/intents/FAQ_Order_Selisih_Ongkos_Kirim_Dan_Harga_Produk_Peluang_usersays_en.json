@@ -1,0 +1,345 @@
+[
+  {
+    "id": "42109617-ad84-4cdc-a47d-014b9437c2f1",
+    "data": [
+      {
+        "text": "saya terima peluang tp saat ingin dikirim, terdapat perbedaan ongkir. minta solusinya utk membatalkan pesanannya tp tidak kena penalti toko saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6b5904fc-9254-4ec7-931a-b01d913f5dff",
+    "data": [
+      {
+        "text": "kalo ongkir baru lebih mahal, saya ga mau tanggung ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ef32fd10-7b12-44d8-ada1-95c7387e492f",
+    "data": [
+      {
+        "text": "apakah saya bisa mengajukan refund selisih ongkos kirim dari pesanan peluang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3b05f6a3-c54d-4a5c-91d1-1bd2ada5af15",
+    "data": [
+      {
+        "text": "siapa yang menanggung perbedaan ongkir pesanan peluang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ad6a13d0-bb5b-4be8-b8b8-18e9a6e3c0f1",
+    "data": [
+      {
+        "text": "ongkir dari ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " baru lebih murah, bisa dikembalikan ke saya ga ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b456cd7a-fa9a-4ee7-a31f-71a007986ab5",
+    "data": [
+      {
+        "text": "kalau saya mau terima order peluang tapi ada perbedaan ongkir gimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "89891464-bb7e-45a3-b3b3-990bdcaea1d8",
+    "data": [
+      {
+        "text": "ada perbedaan ongkir buat order peluang dari ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sebelumnya, siapa yang menanggung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "14b0b3ba-04cb-4a18-9651-090c0c8385c9",
+    "data": [
+      {
+        "text": "kekurangan ongkir dari penjual sebelumnya harus saya yang menanggung ya? krn ini peluang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c9ad1263-5a43-40f0-94c2-46a17be70b8d",
+    "data": [
+      {
+        "text": "pesanan saya sudah diterima ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " baru, apakah saya harus nambahin ongkos kirimnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "29aaff40-71a9-4556-87b5-c9fd9d62b7ae",
+    "data": [
+      {
+        "text": "masalah perbedaan ongkir antara ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " awal dan ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " baru gimana ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "12a61294-0826-4c7a-8c0d-3aa707e02f44",
+    "data": [
+      {
+        "text": "wah, harga dari ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " baru lebih murah. apakah saya boleh mengajukan pengembalian dana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9dc111d4-b9dd-4d45-84a3-ae06ba60ac40",
+    "data": [
+      {
+        "text": "kekurangan ongkos kirim dari order peluang gimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bdc70924-9864-42f0-baf6-908ae1d1dd35",
+    "data": [
+      {
+        "text": "Bagaimana jika ada selisih ongkos kirim dari pesanan yang saya ambil dari peluang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b58b38db-5527-4194-8fc3-4ee2149fbb1c",
+    "data": [
+      {
+        "text": "pesanan saya masuk ke peluang, diterima ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " baru tapi harga ongkirnya lebih murah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "211208cc-2982-4c31-805c-20c1f174eddc",
+    "data": [
+      {
+        "text": "gimana kekurangan ongkos kirim dari pesanan peluang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3bae9871-1739-4aad-b641-917414ed1795",
+    "data": [
+      {
+        "text": "pesenan saya masuk peluang, tapi saya ga mau nanggung loh ya kalo ada beda ongkir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "47f7dd08-2bb3-4a50-bdd3-470dac6b3936",
+    "data": [
+      {
+        "text": "apakah perbedaan ongkir penjual lama dan baru akan ditanggung Tokopedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "50c0cf67-d9b0-426e-8ff1-97c53d5af1cf",
+    "data": [
+      {
+        "text": "harga produk pesanan peluang, berbeda dengan harga di toko saya. bagaimana solusinya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1cfe7e63-b6bb-4a4b-baa4-a9f53fe43b19",
+    "data": [
+      {
+        "text": "gimana untuk selisih ongkir pesanan dari peluang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d69adbc4-7eaa-4aa5-97fd-31af019c8173",
+    "data": [
+      {
+        "text": "pesanan peluang saya ada selisih ongkos kirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ff1bfaac-347d-4bef-a181-60342abd1324",
+    "data": [
+      {
+        "text": "orderan sudah masuk ke ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " baru, tapi kok harga lebih murah ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8e7a4a94-9597-4fdb-b774-3d396fe2975a",
+    "data": [
+      {
+        "text": "siapa yang menanggung kekurangan ongkos kirim dari pesanan peluang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8826c3f9-f432-4da9-8368-2b7e2f6829eb",
+    "data": [
+      {
+        "text": "kalau udah terima pesanan peluang tapi beda ongkirnya gimana nih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

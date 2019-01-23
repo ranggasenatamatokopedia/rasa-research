@@ -1,0 +1,35 @@
+[
+  {
+    "id": "8f6b9a1a-28da-4712-a4c8-2a25d5fd8e82",
+    "data": [
+      {
+        "text": "operator_nintendo_eshop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "46d04c69-fba4-4515-8abf-881421d291fb",
+    "data": [
+      {
+        "text": "operator_lyto_gravindo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "df73e001-dfe3-40d5-9d5e-9da31bce86ed",
+    "data": [
+      {
+        "text": "operator_wavegame",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,103 @@
+{
+  "id": "4850ad0b-5b9e-459f-aff8-ee84a75d579b",
+  "parentId": "4b996eb7-c44a-455b-9a9c-a343d7402335",
+  "rootParentId": "dbbb1e17-3271-4c65-b2a2-5cb80603b2a4",
+  "name": "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_gift_card_and_others",
+  "auto": true,
+  "contexts": [
+    "Digital_Voucher_Tidak_Dapat_di_Redeem_inv-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_gift_card_and_others-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Bisa lampirkan bukti screenshot yang berkendala terlebih dulu ke Toped?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536397166,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "digital_pulsa"
+    },
+    {
+      "name": "digital_paketdata"
+    },
+    {
+      "name": "digital_listrikpln"
+    },
+    {
+      "name": "digital_bpjs"
+    },
+    {
+      "name": "digital_airpdam"
+    },
+    {
+      "name": "digital_angsurankredit"
+    },
+    {
+      "name": "digital_tvkabel"
+    },
+    {
+      "name": "digital_pascabayar"
+    },
+    {
+      "name": "digital_telkom"
+    },
+    {
+      "name": "digital_donasi"
+    },
+    {
+      "name": "digital_gaspgn"
+    },
+    {
+      "name": "digital_tokopediagiftcard"
+    },
+    {
+      "name": "digital_zakat"
+    },
+    {
+      "name": "digital_hiburan"
+    },
+    {
+      "name": "digital_pajak"
+    },
+    {
+      "name": "digital_ticketevent"
+    },
+    {
+      "name": "digital_retribusi"
+    },
+    {
+      "name": "digital_kartukredit"
+    },
+    {
+      "name": "digital_m-tixxxi"
+    },
+    {
+      "name": "digital_emoney"
+    },
+    {
+      "name": "digital_roaming"
+    }
+  ]
+}

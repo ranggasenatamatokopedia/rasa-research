@@ -1,0 +1,33 @@
+{
+  "id": "788e2702-e99c-42ba-8a61-6b8e6690c68b",
+  "name": "FAQ_Tokopoints_Bagikan_Kupon_Partner",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Tokopoints_Bagikan_Kupon_Partner-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kupon memang bisa dipindah tangankan, namun Toped tidak bertanggung jawab kalau ada kendala pada Kupon yang dipindah tangankan."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

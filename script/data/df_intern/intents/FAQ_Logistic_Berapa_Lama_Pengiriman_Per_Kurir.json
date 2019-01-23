@@ -1,0 +1,47 @@
+{
+  "id": "62328066-6ba6-453c-b337-f9f221db5f6f",
+  "name": "FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ConvertParametersToEventName",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b6a4e8ae-c941-4d3d-bd32-63cec47d51a1",
+          "required": true,
+          "dataType": "@kurir_reguler",
+          "name": "kurir_reguler",
+          "value": "$kurir_reguler",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Boleh informasikan kembali kurir yang digunakan, Kak? (Contoh: JNE, TIKI)"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_logistic_berapa_lama_pengiriman_per_kurir"
+    }
+  ]
+}

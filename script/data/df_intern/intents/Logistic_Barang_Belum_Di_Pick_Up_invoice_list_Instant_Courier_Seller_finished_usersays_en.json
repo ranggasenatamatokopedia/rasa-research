@@ -1,0 +1,90 @@
+[
+  {
+    "id": "5d4eaf4e-2aae-4396-b2bf-9f9a275e1f96",
+    "data": [
+      {
+        "text": "invoice_bad_order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5318f419-17a7-480f-8016-3678e828a6f1",
+    "data": [
+      {
+        "text": "invoice_finished_refund_voucher",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e518823b-9179-4cba-95a4-810cd8e37f30",
+    "data": [
+      {
+        "text": "finish",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "520fe952-009b-438f-847b-78e9f959a3f4",
+    "data": [
+      {
+        "text": "invoice_refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4af9ecd2-705b-4d82-93df-520a65bcd0aa",
+    "data": [
+      {
+        "text": "finished",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7cf4710c-990f-44b0-9b89-3ab47e90560f",
+    "data": [
+      {
+        "text": "invoice_pesanan_telah_diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3fd50f1b-7cf4-4e94-8a95-8a664bce5df7",
+    "data": [
+      {
+        "text": "invoice_bounce_back",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2986da0c-7c58-4129-b991-cb2b7cece3b6",
+    "data": [
+      {
+        "text": "invoice_selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

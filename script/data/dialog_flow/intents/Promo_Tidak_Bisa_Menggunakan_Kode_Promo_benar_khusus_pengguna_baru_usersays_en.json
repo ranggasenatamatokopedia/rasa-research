@@ -1,0 +1,104 @@
+[
+  {
+    "id": "cf187578-ed08-483c-ac4e-ad163962eaad",
+    "data": [
+      {
+        "text": "tiga",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4bae9671-9c92-4802-9d03-c8e8b6815296",
+    "data": [
+      {
+        "text": "promo_khusus_pengguna_baru",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bfb80ce4-21c9-4886-ac9b-73dcd48b8d8d",
+    "data": [
+      {
+        "text": "untuk penggunan baru Tokped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5bad0e5b-dbfb-4b05-a7d3-bf1e8308dd1d",
+    "data": [
+      {
+        "text": "saya pelanggan baru",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aea93208-86ff-4620-aa21-7b7d5e09b4f6",
+    "data": [
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "68042180-1868-4188-9ef8-b9ae3200bc7e",
+    "data": [
+      {
+        "text": "ketiga",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "082e81ad-8ef2-472e-bdaf-9d342ab267b2",
+    "data": [
+      {
+        "text": "promo ini khusus pengguna baru",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5321e8d0-5acf-4d75-8445-942ab7ab9304",
+    "data": [
+      {
+        "text": "pengguna baru",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "779fce11-ee5f-4e39-9cf7-0395a621f298",
+    "data": [
+      {
+        "text": "new user",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

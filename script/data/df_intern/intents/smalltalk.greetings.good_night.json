@@ -1,0 +1,36 @@
+{
+  "id": "f4a2b29e-93b3-48bf-96e3-07612390a865",
+  "name": "smalltalk.greetings.good_night",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.greetings.goodevening",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Selamat Malam juga, Kak!",
+            "Malam juga, Kak!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521002764,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "smalltalk_greetings_good_night"
+    }
+  ]
+}

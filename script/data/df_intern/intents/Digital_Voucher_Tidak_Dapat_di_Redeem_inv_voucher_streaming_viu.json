@@ -1,0 +1,68 @@
+{
+  "id": "d4ab2f6c-c130-40ad-9bd4-ac45f2830537",
+  "parentId": "7c9b4ffb-8d3e-4150-a7f0-9865827ee50b",
+  "rootParentId": "dbbb1e17-3271-4c65-b2a2-5cb80603b2a4",
+  "name": "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_streaming_viu",
+  "auto": true,
+  "contexts": [
+    "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_streaming-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_streaming_viu-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0e4cc093-f8fb-4cf5-95bd-bfe4d8782109",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "kode_voucher",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Bisa beritahu Toped kode voucher kamu yang berkendala?"
+            }
+          ]
+        },
+        {
+          "id": "459d32b1-5a98-47a2-8222-d1e6c13def32",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "email",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Informasikan juga email akun Viu kamu ke Toped ya."
+            }
+          ]
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Informasikan juga nomor telepon kamu yang terdaftar di Toped."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536395579,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "operator_viu"
+    }
+  ]
+}

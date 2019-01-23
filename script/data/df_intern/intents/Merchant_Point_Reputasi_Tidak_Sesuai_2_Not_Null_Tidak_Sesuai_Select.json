@@ -1,0 +1,58 @@
+{
+  "id": "355db6b4-a235-4521-97d9-09c7cdbb3527",
+  "parentId": "35e872bb-fe61-4ef3-92f3-60da9cdd089c",
+  "rootParentId": "cf17fcc0-2998-4ff8-8cf4-6a1ca0e60443",
+  "name": "Merchant_Point_Reputasi_Tidak_Sesuai_2_Not_Null_Tidak_Sesuai_Select",
+  "auto": false,
+  "contexts": [
+    "Merchant_Point_Reputasi_Tidak_Sesuai_2_Not_Null_Tidak_Sesuai-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Point_Reputasi_Tidak_Sesuai_2_Not_Null_Tidak_Sesuai_Select-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d72947d7-f994-43b1-b3ad-ca20e049a8a2",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1035"
+        },
+        {
+          "id": "732256f5-4c17-477a-8061-acfb4a907ef3",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Merchant_Point_Reputasi_Tidak_Sesuai"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kendala ini Toped bantu buatkan tiketnya, ya. Mohon tunggu sebentar, Kak."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536564689,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "input_number"
+    }
+  ]
+}

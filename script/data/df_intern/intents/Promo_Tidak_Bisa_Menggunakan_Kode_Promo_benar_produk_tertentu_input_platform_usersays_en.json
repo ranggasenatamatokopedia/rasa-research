@@ -1,0 +1,24 @@
+[
+  {
+    "id": "b4d01a95-5bfe-4a9b-8bb1-178a3b4ddef3",
+    "data": [
+      {
+        "text": "input_platform",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8d4f5499-590c-45c5-b86c-a8cfab26111e",
+    "data": [
+      {
+        "text": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0
+  }
+]

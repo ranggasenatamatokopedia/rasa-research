@@ -1,0 +1,43 @@
+{
+  "id": "0a63d0ba-acb1-42cc-9327-458279363787",
+  "parentId": "b3e075f6-aae4-44df-ad4e-bea75b498908",
+  "rootParentId": "b3e075f6-aae4-44df-ad4e-bea75b498908",
+  "name": "KAI_Kendala_Pembelian_Tiket_Kereta_select_inv",
+  "auto": true,
+  "contexts": [
+    "KAI_Kendala_Pembelian_Tiket_Kereta-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetInvoiceReservationStatesKAI",
+      "affectedContexts": [
+        {
+          "name": "KAI_Kendala_Pembelian_Tiket_Kereta_select_inv-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Tunggu sebentar ya, Toped cek terlebih dulu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539337524,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "select_invoice"
+    }
+  ]
+}

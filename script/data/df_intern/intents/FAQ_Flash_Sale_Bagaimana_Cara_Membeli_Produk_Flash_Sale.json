@@ -1,0 +1,51 @@
+{
+  "id": "88541a22-0664-428d-ac1b-fe89b7c09802",
+  "name": "FAQ_Flash_Sale_Bagaimana_Cara_Membeli_Produk_Flash_Sale",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flash_Sale_Bagaimana_Cara_Membeli_Produk_Flash_Sale-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ec8ca194-8c7d-43e7-a199-e0a34ae411e4",
+          "required": false,
+          "dataType": "@sys.currency-name",
+          "name": "currency-name",
+          "value": "$currency-name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Ikuti langkah di bawah ini untuk bisa membeli produk Flash Sale Tokopedia ya:\n\n1. Buka halaman !TKPD_URL_FLASH_SALE!\n2. Pilih produk impian kamu\n3. Segera lakukan Checkout seperti pembelian produk lain\n4. Masukan kode Promo atau kode Kupon\n5. Segera lakukan pembayaran"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga info dari Toped membantu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_flash_sale_bagaimana_cara_membeli_produk_flash_sale"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "912968a4-cdf7-4bac-9252-7ec604d6d510",
+  "parentId": "8b42b21e-fae7-46b4-8974-d3d2338f7a26",
+  "rootParentId": "79399d3d-1735-4a38-83f0-804a798b2f2c",
+  "name": "Merchant_Produk_Dalam_Pengawasan_Input_Link_Under_Supervision",
+  "auto": true,
+  "contexts": [
+    "Merchant_Produk_Dalam_Pengawasan_Input_Link-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Produk_Dalam_Pengawasan_Input_Link_Under_Supervision-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah Toped cek, produk kamu dalam status pengawasan karena terindikasi melanggar S\u0026K tokopedia. Apakah kamu mau produknya tetap di toko atau dihapus?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Tetap di toko",
+              "Ingin di hapus"
+            ],
+            "type": 1
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539166709,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "is_under_supervision"
+    }
+  ]
+}

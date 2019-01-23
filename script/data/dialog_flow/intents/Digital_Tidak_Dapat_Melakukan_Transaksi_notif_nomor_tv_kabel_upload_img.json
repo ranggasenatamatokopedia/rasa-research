@@ -1,0 +1,39 @@
+{
+  "id": "5fefc499-e66d-412b-95ad-0457317d0a34",
+  "parentId": "74aabed9-436d-4bdb-ad20-aaf7957e6019",
+  "rootParentId": "c230094b-7dd5-43f4-984b-d415098c4e53",
+  "name": "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_nomor_tv_kabel_upload_img",
+  "auto": true,
+  "contexts": [
+    "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_nomor_yang_Anda_masukkan_salah_tv_kabel-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_nomor_tv_kabel_upload_img-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh lampirkan bukti bayar atau bukti kartu id pelanggan terlebih dulu ya"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535964344,
+  "fallbackIntent": false,
+  "events": []
+}

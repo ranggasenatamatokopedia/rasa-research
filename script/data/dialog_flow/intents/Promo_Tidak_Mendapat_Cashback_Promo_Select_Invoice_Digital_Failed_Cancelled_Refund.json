@@ -1,0 +1,49 @@
+{
+  "id": "030b23db-12a2-4d50-9e38-bec28dcb13a2",
+  "parentId": "ed781ef7-1368-4889-b2df-83d23480bb08",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Tidak_Mendapat_Cashback_Promo_Select_Invoice_Digital_Failed_Cancelled_Refund",
+  "auto": true,
+  "contexts": [
+    "Promo_Tidak_Mendapat_Cashback_Promo_Select_Invoice_Digital-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Mendapat_Cashback_Promo_Select_Invoice_Digital_Failed_Cancelled_Refund-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah Toped cek, pesanan kamu sudah batal sehingga cashback tidak bisa diberikan. Jika bersedia, kamu bisa transaksi kembali ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532491278,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_failed"
+    },
+    {
+      "name": "invoice_cancelled"
+    },
+    {
+      "name": "invoice_refund"
+    }
+  ]
+}

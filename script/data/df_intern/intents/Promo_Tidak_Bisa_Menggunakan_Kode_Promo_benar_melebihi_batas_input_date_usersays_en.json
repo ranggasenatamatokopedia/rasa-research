@@ -1,0 +1,63 @@
+[
+  {
+    "id": "52def0d5-17c2-4bc8-9ad7-597563c223f2",
+    "data": [
+      {
+        "text": "@tkpd_date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0
+  },
+  {
+    "id": "2ba115ad-78bb-429e-8471-fd8f96dc39c4",
+    "data": [
+      {
+        "text": "12 Jan 2018",
+        "alias": "tkpd_date",
+        "meta": "@tkpd_date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c5aae7af-0e89-4d26-ac19-66b6c4f6c904",
+    "data": [
+      {
+        "text": "12 januari 2018",
+        "alias": "tkpd_date",
+        "meta": "@tkpd_date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "81df2046-2986-4b85-a998-855e1c221108",
+    "data": [
+      {
+        "text": "input_date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9f501fc7-bf6f-4c60-925f-f41501e5c2f4",
+    "data": [
+      {
+        "text": "31 desember 2018",
+        "alias": "tkpd_date",
+        "meta": "@tkpd_date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

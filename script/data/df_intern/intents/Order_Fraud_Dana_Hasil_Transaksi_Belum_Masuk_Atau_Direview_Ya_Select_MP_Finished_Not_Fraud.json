@@ -1,0 +1,43 @@
+{
+  "id": "dce22474-258a-402b-a1cc-ceea445523ee",
+  "parentId": "2fee1851-568f-4997-9a3e-de31241ea716",
+  "rootParentId": "423ba23e-4ef9-436a-8828-c784ffb30629",
+  "name": "Order_Fraud_Dana_Hasil_Transaksi_Belum_Masuk_Atau_Direview_Ya_Select_MP_Finished_Not_Fraud",
+  "auto": false,
+  "contexts": [
+    "Order_Fraud_Dana_Hasil_Transaksi_Belum_Masuk_Atau_Direview_Ya_Select_MP_Finished-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetFraudStatus",
+      "affectedContexts": [
+        {
+          "name": "Order_Fraud_Dana_Hasil_Transaksi_Belum_Masuk_Atau_Direview_Ya_Select_MP_Finished_Not_Fraud-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532086614,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_is_not_fraud"
+    }
+  ]
+}

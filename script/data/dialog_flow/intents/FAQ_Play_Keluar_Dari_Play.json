@@ -1,0 +1,31 @@
+{
+  "id": "0cccea68-eb46-4822-b122-c9ab2cd59b1b",
+  "name": "FAQ_Play_Keluar_Dari_Play",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk pengguna yang tidak aktif selama 15 menit, maka akan secara otomatis dikeluarkan dari Play. Kamu bisa masuk kembali dengan cara yang sama ketika masuk ke Play :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_play_keluar_dari_play"
+    }
+  ]
+}

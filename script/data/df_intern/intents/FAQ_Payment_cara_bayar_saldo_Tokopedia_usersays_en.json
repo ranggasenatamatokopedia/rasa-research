@@ -1,0 +1,38 @@
+[
+  {
+    "id": "24022f73-83bd-4410-888e-cb1a5b78b0ba",
+    "data": [
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "66299dd6-4903-4f4f-a6b3-6cc14e2ef52e",
+    "data": [
+      {
+        "text": "saldo tokped",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6f2eb9c2-d7fe-4b58-b6f8-7fb27ae8890c",
+    "data": [
+      {
+        "text": "saldo tokopedia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

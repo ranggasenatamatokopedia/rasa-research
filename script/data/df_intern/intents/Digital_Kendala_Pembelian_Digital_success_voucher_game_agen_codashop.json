@@ -1,0 +1,57 @@
+{
+  "id": "b58bc1ca-95da-498b-91b7-f5b0a3e397c5",
+  "parentId": "4a9b5691-c302-4ec4-bf52-7d6748af0f0c",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_success_voucher_game_agen_codashop",
+  "auto": true,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_success_voucher_game-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetOperatorNameDigital.Digital_Kendala_Pembelian_Digital_success_voucher_game-custom",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_success_voucher_game_agen_codashop-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Status pembelian voucher game kamu telah berhasil. Kamu bisa login ulang dan bisa pastikan user ID yang dipakai sama dengan yang tercantum di \u003ci\u003einvoice\u003c/i\u003e pembelian ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga informasi Toped membantu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546576289,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "operator_mobile_legends"
+    },
+    {
+      "name": "operator_garena_arena_of_valor"
+    },
+    {
+      "name": "operator_ragnarok_m_eternal_love"
+    },
+    {
+      "name": "operator_free_fire"
+    }
+  ]
+}

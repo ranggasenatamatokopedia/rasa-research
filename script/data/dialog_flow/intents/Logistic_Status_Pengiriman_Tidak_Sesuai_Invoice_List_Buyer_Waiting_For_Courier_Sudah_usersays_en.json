@@ -1,0 +1,105 @@
+[
+  {
+    "id": "e79b3913-1d67-4f18-85bb-67c54a4eb0e3",
+    "data": [
+      {
+        "text": "udahan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e4a3bc4e-de33-4ec2-b770-ae87efb06c3f",
+    "data": [
+      {
+        "text": "sdh ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cd381d0b-3c71-4854-a5d8-292cfc91be76",
+    "data": [
+      {
+        "text": "sudaah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ca23638b-c832-46be-ab40-0226275eff82",
+    "data": [
+      {
+        "text": "Sudah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bc48be09-23ff-4c51-88fa-45501dc3591c",
+    "data": [
+      {
+        "text": "udh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4dbb7a76-af35-45f6-90ec-6b3315b6fd6e",
+    "data": [
+      {
+        "text": "sudah nih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "593a2ef6-1164-46f5-b82a-3f3d0ff961a6",
+    "data": [
+      {
+        "text": "sdh kok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "734160e3-f7cc-44cd-8715-3aefbf482e94",
+    "data": [
+      {
+        "text": "sdh kok ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

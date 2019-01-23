@@ -1,0 +1,198 @@
+[
+  {
+    "id": "fed7cbdf-73c2-4fcf-ad97-0cae1abb0b0f",
+    "data": [
+      {
+        "text": "Perbedaan ",
+        "userDefined": false
+      },
+      {
+        "text": "Go-Send",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Sameday",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan ",
+        "userDefined": false
+      },
+      {
+        "text": "Instant Courier",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e329dbfc-f98a-4f9b-b839-2653ae9816df",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kalo ",
+        "userDefined": false
+      },
+      {
+        "text": "Gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sameday",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", si driver nya ngambil berapa paket ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sehari? saya mau yg cepet ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "instan",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " aja kali ya gimana ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cepet gak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f8e2fb98-b35a-4492-b5a6-bdbebdeca1b6",
+    "data": [
+      {
+        "text": "Min, apasih bedanya Gojek sameday dan instan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "76b432cf-ad5e-486a-b1f4-9b271fa3aadf",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya mau beli barang di Toped pake ",
+        "userDefined": false
+      },
+      {
+        "text": "Gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " biar ",
+        "userDefined": false
+      },
+      {
+        "text": "besok",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " langsung sampe ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", bedanya ",
+        "userDefined": false
+      },
+      {
+        "text": "instan",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sama ",
+        "userDefined": false
+      },
+      {
+        "text": "sameday",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " apaan sih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fe9094ab-753f-4dda-92b8-3daa251eed87",
+    "data": [
+      {
+        "text": "Lama kirimnya via grab instant berapa hari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

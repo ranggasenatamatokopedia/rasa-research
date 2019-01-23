@@ -1,0 +1,43 @@
+{
+  "id": "4b02fc1f-1cbe-48f1-a1bf-897dc6f18046",
+  "parentId": "95df085a-e3a9-41a3-ae94-82f49a62866d",
+  "rootParentId": "fdda2498-0a41-423b-9805-8948dabcbac1",
+  "name": "Account_Persentase_Diskusi_Atau_Pesan_Tdk_Sesuai_Chat_Already_Reply_Less_Equal_3_Not_Success",
+  "auto": true,
+  "contexts": [
+    "Account_Persentase_Diskusi_Atau_Pesan_Tdk_Sesuai_Chat_Already_Reply_Less_Equal_3-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Account_Persentase_Diskusi_Atau_Pesan_Tdk_Sesuai_Chat_Already_Reply_Less_Equal_3_Not_Success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped belum berhasil melakukan penyesuaian pada persentase pesan (chat) kamu. Mohon coba lagi nanti, ya. :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540797984,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "reset_not_success"
+    }
+  ]
+}

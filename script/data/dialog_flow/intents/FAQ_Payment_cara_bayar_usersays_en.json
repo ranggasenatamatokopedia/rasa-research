@@ -1,0 +1,2880 @@
+[
+  {
+    "id": "635594ec-5038-4748-afba-42cb1c7ca02e",
+    "data": [
+      {
+        "text": "bagaimana cara agar pembayaran dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "OVO Cash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan ",
+        "userDefined": false
+      },
+      {
+        "text": "OVO Points",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bisa di gabung jadi ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " untuk pembelian pulsa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2ee49a18-c029-4701-8266-5a6b2eeeeaca",
+    "data": [
+      {
+        "text": "Mohon informasi tentang Bagaimana caranya agar opsi Pembayaran dg ",
+        "userDefined": false
+      },
+      {
+        "text": "OVO Cash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan dan ",
+        "userDefined": false
+      },
+      {
+        "text": "OVO points",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bisa muncul? Karena saat saya melakukan pembelian pulsa XL senilai ",
+        "userDefined": false
+      },
+      {
+        "text": "25000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " opsi untuk OVO tidak muncul di cara pembayaran. Akun OVO saya sendiri sdh saya aktifkan dan dana pada akun masih tersedia. Mohon maaf capture belum saya lampirkan karena saat klik tidak muncul dialog untuk memilih foto capturenya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6d08a58e-b94b-4ae5-b6e3-43ffb275117d",
+    "data": [
+      {
+        "text": "Beli pulsa tidak ada pilihan pembayaran menggunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": true
+      },
+      {
+        "text": " toped atau ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo point",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ece3d2c5-7d27-4534-ab92-064e65e08289",
+    "data": [
+      {
+        "text": "ovopoints diatas tidak bisa digunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1eecd947-2a31-42b9-9f9e-0ead14270cbd",
+    "data": [
+      {
+        "text": "\u0027kenapa ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      },
+      {
+        "text": " manual ",
+        "userDefined": false
+      },
+      {
+        "text": "mandiri",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gk bisa? Karena saya cuma punya ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " rekening,,, Mohon di aktifkan kembali untuk ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " manual ",
+        "userDefined": false
+      },
+      {
+        "text": "mandiri",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ec2e2239-f1f7-47f7-aef4-175d8e10ff92",
+    "data": [
+      {
+        "text": "metode ",
+        "userDefined": false
+      },
+      {
+        "text": "cicilan",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4f165612-98d3-48a4-a8af-c54b8541d5e2",
+    "data": [
+      {
+        "text": "ovo cash",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "453bb759-b734-4de5-9c39-ce670fbe85c4",
+    "data": [
+      {
+        "text": "cara bayar pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "OVO Points",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cef7d43e-02de-40da-8388-ca988f9e78fc",
+    "data": [
+      {
+        "text": "bagaimana cara melakukan pembayaran dengan mandiri ",
+        "userDefined": false
+      },
+      {
+        "text": "ecash",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f90a32b5-a069-4ea4-b392-f7855019eb52",
+    "data": [
+      {
+        "text": "cara bayar pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "kredivo",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "425640a5-04e5-4e3e-a983-897a607a9355",
+    "data": [
+      {
+        "text": "saya mau bayar pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "indomaret",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6198199d-9add-448c-b0cf-d4aa2b0e6032",
+    "data": [
+      {
+        "text": "Cicilan",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b47cb0df-82bf-4d89-acc2-81fae3dd69b6",
+    "data": [
+      {
+        "text": "epay",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": true
+      },
+      {
+        "text": " bri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a5b11f0e-94f5-47e7-9dbf-818d1f5049dd",
+    "data": [
+      {
+        "text": "saya tidak dapat melakukan cara bayar ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "maybank",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a43e81c1-5952-46bf-8278-39ffd8f84ede",
+    "data": [
+      {
+        "text": "Bagaimana cara pembayaran via ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bank mandiri",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "12e7dcfd-ed4c-4e00-9dcd-30d44883b551",
+    "data": [
+      {
+        "text": "tidak bisa bayar melalui ",
+        "userDefined": false
+      },
+      {
+        "text": "mandiri",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a4c4d806-7e8c-4216-b6b4-372d6eb0ebc2",
+    "data": [
+      {
+        "text": "gimana ya cara bayar pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo cash",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "27249876-480c-40e4-8f97-cd146e923e55",
+    "data": [
+      {
+        "text": "mohon informasikan cara bayar pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo points",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e5cd9c95-8df5-4c3c-9a41-7bb5192d9eaf",
+    "data": [
+      {
+        "text": "saya tidak dapat melakukan cara ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "danamon",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0d0e185b-6e3b-41e1-af66-29458658c098",
+    "data": [
+      {
+        "text": "bagaimana cara melakukan pembayaran dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "cicilan",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4a1f8017-0071-49c4-9346-b66273c01b18",
+    "data": [
+      {
+        "text": "gimana cara bayar pakai OVO Points",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b253d276-bae5-4100-b14d-e183b6d245e7",
+    "data": [
+      {
+        "text": "gmn bayar pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "OVO Cash",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d10c3094-4508-47c2-ba65-bb39c0a00562",
+    "data": [
+      {
+        "text": "boleh minta informasi cara bayar pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo points",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0e48fc59-489d-4759-a123-71f85e0a2d1b",
+    "data": [
+      {
+        "text": "saya mau bayar pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "kredivo",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3216b5ac-b333-47a6-a7b1-f2e8f3db4e69",
+    "data": [
+      {
+        "text": "lawson",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eb29607c-5c8d-4f89-8b33-fc1a3ace1f61",
+    "data": [
+      {
+        "text": "tidak bisa bayar melalui ",
+        "userDefined": false
+      },
+      {
+        "text": "maybank",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bf8cba2c-ab36-4ce0-97f4-1ca9fed60409",
+    "data": [
+      {
+        "text": "kesulitan bayar via ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mandiri",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1ca8f7ad-7179-4c6c-89ef-9dd414cbbf20",
+    "data": [
+      {
+        "text": "saya mau bayar pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "OVO points",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ef3cf972-3a1c-44b1-9b3d-6b55c2409741",
+    "data": [
+      {
+        "text": "caranya gimana agar bisa bayar pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "kredivo",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c692a8e3-394f-4f5b-896f-9e63781a951c",
+    "data": [
+      {
+        "text": "cara bayar pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "bca klikpay",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a5ed1186-ea9b-492c-985f-59ffc79c6b85",
+    "data": [
+      {
+        "text": "Bagaimana cara pembayaran menggunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "bca klikpay",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "500f1b22-f905-46d4-a181-fb4fe549810b",
+    "data": [
+      {
+        "text": "kesulitan bayar via ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "danamon",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ca49c096-e588-4e9b-b702-8efded5463ff",
+    "data": [
+      {
+        "text": "Bagaimana cara pembayaran via ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      },
+      {
+        "text": " bank ",
+        "userDefined": false
+      },
+      {
+        "text": "cimb",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "20665244-a5bf-4f84-8b78-cede29157a39",
+    "data": [
+      {
+        "text": "kesulitan bayar via ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "CIMB",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "20134933-0e6a-407f-b763-3002798f4a9b",
+    "data": [
+      {
+        "text": "coba tolong ajarin saya cara bayar pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "OVO Cash",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "62d55a79-b6ba-4e1c-b273-c90b100207c5",
+    "data": [
+      {
+        "text": "cara bayar pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "epay",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": true
+      },
+      {
+        "text": " bri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5c3640ee-ff66-4b68-8f4e-c15a4cc727ab",
+    "data": [
+      {
+        "text": "mandiri ecash",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "50eafed4-b200-4a6a-84b0-049ad148fb97",
+    "data": [
+      {
+        "text": "saya tidak dapat melakukan cara ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bri",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9c88680a-cae8-4496-91a8-702ce27cbb42",
+    "data": [
+      {
+        "text": "mandiri clickpay",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f62c241c-3cc5-4a9b-917b-6d7b30b39edb",
+    "data": [
+      {
+        "text": "Bagaimana cara pembayaran via ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      },
+      {
+        "text": " bank ",
+        "userDefined": false
+      },
+      {
+        "text": "maybank",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b246d346-e8e0-4bcb-8f26-655432ba9785",
+    "data": [
+      {
+        "text": "mau bayar pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "OVO Cash",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fb499421-e7ac-4ee2-bae5-7350c75367d0",
+    "data": [
+      {
+        "text": "bagaimana cara melakukan pembayaran dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "Gerai",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "092e7bf4-8483-4bff-9ba1-6384907379df",
+    "data": [
+      {
+        "text": "gimana caranya bayar pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "OVO Cash",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "86f78c99-6238-4108-8995-e54e1eb99589",
+    "data": [
+      {
+        "text": "Cara bayarnya gimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3b4c0f1f-6ee0-4cd0-8e57-45e790925915",
+    "data": [
+      {
+        "text": "bca klikpay",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "240cff8d-3307-4069-b24e-28f2a7afee05",
+    "data": [
+      {
+        "text": "bagaimana bayar pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "bca klikpay",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ac4befd5-3897-4e26-b7e9-af0402cf780a",
+    "data": [
+      {
+        "text": "tidak bisa ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " melalui ",
+        "userDefined": false
+      },
+      {
+        "text": "cimb",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2256c17e-9473-43e0-9143-3d016a64ff41",
+    "data": [
+      {
+        "text": "Bagaimana cara pembayaran via ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      },
+      {
+        "text": " bank ",
+        "userDefined": false
+      },
+      {
+        "text": "danamon",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7fd342df-f959-494e-8913-a50f797cb99c",
+    "data": [
+      {
+        "text": "kesulitan bayar via ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "maybank",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "285d9459-5e54-4041-9c92-dbc1f71bdede",
+    "data": [
+      {
+        "text": "bayar pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "OVO points",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2382a82c-6f2a-493b-8bce-16904f156f2b",
+    "data": [
+      {
+        "text": "bagaimana cara melakukan pembayaran dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "indomaret",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "24a8873a-607c-4c89-a16f-e3229b86159e",
+    "data": [
+      {
+        "text": "Kartu Kredit",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7e9290d0-ab2e-49ce-8509-ea3202839034",
+    "data": [
+      {
+        "text": "mau bayar pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "OVO points",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f45a6ba1-3468-4349-aefa-f853ac3370fe",
+    "data": [
+      {
+        "text": "ovo points",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a1eddc5d-1fad-4385-b741-08d6a43151b1",
+    "data": [
+      {
+        "text": "saya mau bayar pake ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo points",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      },
+      {
+        "text": ", gimana caranya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5addb6fc-a26f-46bd-976a-501cf4530611",
+    "data": [
+      {
+        "text": "kredivo",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "339bbbdc-d53d-4b72-b4af-250de51b76ef",
+    "data": [
+      {
+        "text": "bagaimana cara melakukan pembayaran dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "Kartu Kredit",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8d878307-8435-481b-be9b-9a23da8d29ad",
+    "data": [
+      {
+        "text": "bagaimana cara melakukan pembayaran dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "kredivo",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9dda8ada-ffaa-45a5-8da7-c0a405469fae",
+    "data": [
+      {
+        "text": "bagaimana cara melakukan pembayaran dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "epay",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": true
+      },
+      {
+        "text": " bri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b130c2a5-0696-4696-a4a9-29b36e38e813",
+    "data": [
+      {
+        "text": "Cara bayar pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "mandiri clickpay",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "09114f0a-7869-4c1c-8ee2-7abb86e32059",
+    "data": [
+      {
+        "text": "Bagaimana cara melakukan pembayaran dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "mandiri clickpay",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dab3e4d5-c85d-408f-9415-a3c72a780aad",
+    "data": [
+      {
+        "text": "tidak bisa ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " melalui danamon ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fd7d74a8-fee3-4021-a51b-2c7689c637f2",
+    "data": [
+      {
+        "text": "saya mau bayar di ",
+        "userDefined": false
+      },
+      {
+        "text": "lawson",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "670b8caa-9954-4b4a-8a26-5cd225759411",
+    "data": [
+      {
+        "text": "cara bayar dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "OVO Cash",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "92589e54-674d-459b-b5f5-3ed5672ccbc8",
+    "data": [
+      {
+        "text": "cara bayar pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "indomaret",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "63c6979f-5174-41a2-99b1-5c4d37eae8ad",
+    "data": [
+      {
+        "text": "Indomaret",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7265469e-f620-48f8-8597-52e506560edb",
+    "data": [
+      {
+        "text": "cara bayar pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "cicilan",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b584bd01-4462-4051-9810-35515d106dea",
+    "data": [
+      {
+        "text": "saya tidak dapat melakukan cara bayar ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mandiri",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5717a97b-6edf-4514-8d89-2b7dd8b682cf",
+    "data": [
+      {
+        "text": "saya tidak dapat melakukan cara ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cimb",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8aa58354-a718-4a0c-86b8-4e2090fb4160",
+    "data": [
+      {
+        "text": "kesulitan bayar via ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bni",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e9bc4707-92bd-4246-9781-d7895f3f7303",
+    "data": [
+      {
+        "text": "saya tidak dapat melakukan cara ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bni",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "306a5416-9e96-4355-8c7f-8132e55417bf",
+    "data": [
+      {
+        "text": "tidak bisa bayar melalui ",
+        "userDefined": false
+      },
+      {
+        "text": "bca",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bca",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e7bf2e87-915f-46c1-a0e4-2528a4e1bb5e",
+    "data": [
+      {
+        "text": "Bagaimana cara pembayaran via ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bank bri",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bb289e51-11fb-4af6-8974-b2b02871d820",
+    "data": [
+      {
+        "text": "Cara bayar tokopedia tapi lewat ",
+        "userDefined": false
+      },
+      {
+        "text": "atm",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bca",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "da39c076-17d5-4679-94ec-b34385472bc1",
+    "data": [
+      {
+        "text": "bagaimana cara bayar menggunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo tokopedia",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2d54ca00-3fa8-4800-872e-c5aa763bfaa9",
+    "data": [
+      {
+        "text": "saya tidak dapat melakukan cara ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bca",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "134bae19-db26-4ea4-a61a-5360b522ab36",
+    "data": [
+      {
+        "text": "Bagaimana cara bayar di kantor ",
+        "userDefined": false
+      },
+      {
+        "text": "pos",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ada07d77-43d2-4d23-9d82-208b7b1f5cf3",
+    "data": [
+      {
+        "text": "Bagaimana cara bayar di ",
+        "userDefined": false
+      },
+      {
+        "text": "kioson",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "074e9598-b682-4bbb-90d3-9f06d3cfdf5a",
+    "data": [
+      {
+        "text": "Bagaimana cara bayar di ",
+        "userDefined": false
+      },
+      {
+        "text": "infomaret",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2df311a5-8092-416f-ac00-8640c84f7f9b",
+    "data": [
+      {
+        "text": "kesulitan bayar via ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bri",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b33edcd0-8ae1-4a04-bf35-6cdffe1de692",
+    "data": [
+      {
+        "text": "tidak bisa ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " melalui ",
+        "userDefined": false
+      },
+      {
+        "text": "bni",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e0ecc2b0-0bb8-4b3f-9b4d-688ae92e753c",
+    "data": [
+      {
+        "text": "kesulitan bayar via ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      },
+      {
+        "text": " tokopedia ",
+        "userDefined": false
+      },
+      {
+        "text": "bca",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a4a7e7c4-316b-4896-acf0-5cc962274734",
+    "data": [
+      {
+        "text": "bagaimana cara bayar pake ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo tokped",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "26277cd5-56a7-45e1-936d-4e0ec574a200",
+    "data": [
+      {
+        "text": "Bagaimana cara pembayaran via ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bank bca",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "12d14251-9911-41fb-a869-05453b97a3bb",
+    "data": [
+      {
+        "text": "Bagaimana cara pembayaran via ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bank bni",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a88bc961-70a1-4cd4-bec9-bafe279fe454",
+    "data": [
+      {
+        "text": "bagaimana cara bayar lewat ",
+        "userDefined": false
+      },
+      {
+        "text": "atm",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bri",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6c9b260d-e78c-4b8a-af56-c8d806241e2c",
+    "data": [
+      {
+        "text": "tidak bisa ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " melalui ",
+        "userDefined": false
+      },
+      {
+        "text": "bri",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "970c0589-601e-4b40-86e6-816ab6c13ca3",
+    "data": [
+      {
+        "text": "saya mau bayar pake ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo tokped",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "88bd11f7-b32e-4e45-8ba7-4074cae73110",
+    "data": [
+      {
+        "text": "pingin tahu cara bayarnya di ",
+        "userDefined": false
+      },
+      {
+        "text": "indomaret",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c1c405c9-c139-4852-a662-46e9de169089",
+    "data": [
+      {
+        "text": "mohon panduannya cara bayar lewat ",
+        "userDefined": false
+      },
+      {
+        "text": "e banking",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bca",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a92f0953-bbc2-4fd9-9377-dca9a9f2f06b",
+    "data": [
+      {
+        "text": "Bagaimana cara bayar dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d113a0ad-f618-4444-85b3-892f4e7321e8",
+    "data": [
+      {
+        "text": "Bagaimana cara bayar di ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cd465091-5923-494a-82e9-eed6a7841abf",
+    "data": [
+      {
+        "text": "malam",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " , bagaimana cara bayar via ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      },
+      {
+        "text": " dari ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer bank",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bca saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8a9f680b-f0c4-4520-b0e2-6a65130dbad8",
+    "data": [
+      {
+        "text": "saya mau bayar pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo tokopedia",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b56ecffd-3048-45c6-876b-5dd91ad31741",
+    "data": [
+      {
+        "text": "Saya mau bayar pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo tokped",
+        "alias": "metode_bayar",
+        "meta": "@metode_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "46529287-2c24-40ee-91ce-f66d866ddfb0",
+    "data": [
+      {
+        "text": "apakah bisa pake bca virtual acc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5b3f2255-2ada-4884-9505-75c0d140cb9a",
+    "data": [
+      {
+        "text": "bca virtual acount bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "75246d97-1f08-4354-829b-ce11dee64732",
+    "data": [
+      {
+        "text": "pembayaran melalu internet banking atau atm mandiri tidak bisa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "54f194b5-140b-4425-8dc5-b20c951dd4dd",
+    "data": [
+      {
+        "text": "pembayaran lwt hp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7e83825d-8150-4db4-ba15-9e913dc5b6ab",
+    "data": [
+      {
+        "text": "pembayaran lewat Indomaret/Alfamart blm bisa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "41e68d12-2eb5-4762-a64f-e385620313c7",
+    "data": [
+      {
+        "text": "beli barang ga bisa pake atm?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d62e6a82-8d39-47ba-87fc-626c09eef868",
+    "data": [
+      {
+        "text": "untuk pembayaran menggunakan mobile banking muamalat sebaiknya menggunakan metode pembayaran apa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3cd40ec1-2e02-4cb6-ab1b-39faafa6242e",
+    "data": [
+      {
+        "text": "saldo bisa di pakai transaksi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d3f5fe19-2e41-4eda-bcdc-b316bb9c656d",
+    "data": [
+      {
+        "text": "mengenai payment kartu kredit bagaimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2210e92e-63ac-4334-a8ee-6bc2157c227d",
+    "data": [
+      {
+        "text": "Mohon informasi untuk mengisi saldo dompet, saya kerepotan klau harus ke ATM setiap kali transaksi. Terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6caeb498-27e4-4a9a-90e0-e187244ff511",
+    "data": [
+      {
+        "text": "hi.. apakah bayar tagihan kartu kredit uob bisa melalui tokopedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "53896ad8-0118-4620-9f66-31d1eb31a4f9",
+    "data": [
+      {
+        "text": "mau nanya..ini sy mau beli tiket kereta api bayarnya gimana caranya ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "038a299c-82c3-4c80-a2f3-fd23f056f712",
+    "data": [
+      {
+        "text": "cara membayar menggunakan saldo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "20d4d1ee-47d9-427b-bb2b-7a9d61288cac",
+    "data": [
+      {
+        "text": "Mau bayar pake saldo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fe733ddc-f1f4-4ba3-8839-676985d193d8",
+    "data": [
+      {
+        "text": "kartu kredit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6dc91b57-0985-4e72-b2b3-dec5c0f98c76",
+    "data": [
+      {
+        "text": "jadi saya tidak bisa transfer rekening saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "80050861-aa85-4afc-b735-1454e75b1373",
+    "data": [
+      {
+        "text": "saya cuma punya rekening mandiri, bagaimana saya mau transaksi jika transfer manual mandiri tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8163a12e-3a4d-4b5f-994a-f6f0050148e4",
+    "data": [
+      {
+        "text": "Kenapa saya tidak bisa menggunakan transfer Bank Mandiri?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1b8d45e4-2867-4a01-a071-28663789153e",
+    "data": [
+      {
+        "text": "misal belanja saya 210rb, saya ada gift card (penukaran dari mandirifiesta poin) 100rb, dan sisanya akan saya bayar dengan klikbca.. bagaimana caranya ya? thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d31295b0-89e0-4837-bd45-900632b2bb58",
+    "data": [
+      {
+        "text": "mau beli Lego Starwars 75169 Rp 200,000. sebagian bayar dg saldo Tokopedia 56rb an. sisanya pakai mau di lanjut dg BCA klikpay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "39516e0b-1448-4c02-8a2a-9108cbaf445d",
+    "data": [
+      {
+        "text": "pesanan dengan invoice INVIDTAG sudah saya terima, tapi dana dikembalikan otomatis oleh system. bagaimana caranya agar saya tetap bisa melakukan pembayaran ke penjual?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6a6b37ee-7a0a-427f-b96c-83ae0767af8e",
+    "data": [
+      {
+        "text": "Apakah saya bisa membayar tagihan menggunakan saldo toped dari pengembalian dana atas transaksi yang tidak berhasil? Kalo bisa bagaimana caranya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4920c3e5-37ba-42c9-b084-877f08536829",
+    "data": [
+      {
+        "text": "hai, saya mau tanya soal pembayaran kartu kredit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "28d30e4a-457b-4d58-9b9e-f0889b9b7000",
+    "data": [
+      {
+        "text": "kak.....klo byr kartu kredit UOB bisa lwt toped tdk?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7a5597d5-4d2b-4604-a40a-ba545d7f33d9",
+    "data": [
+      {
+        "text": "kalau pembayarn ditempatn bsa tidak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4c4eacc0-a28a-47e3-817d-37c45813deec",
+    "data": [
+      {
+        "text": "bagaimana sis? saya cuma lupa tadi syaa pilih cicilan yg brp bulan ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7d186c1b-268b-480a-af2c-a1acf61e0d28",
+    "data": [
+      {
+        "text": "tadi kan abis transaksi. terus pilih cicilan kan. nah saya lupa pilihnya 6 bulan atau 1 tahun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bb6d25f6-b239-48fb-b14f-aaf925f2e674",
+    "data": [
+      {
+        "text": "metode cicilan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1e220274-3e29-4140-b677-fb3be56ec15b",
+    "data": [
+      {
+        "text": "kenapa transfer manual mandiri gk bisa? Karena saya cuma punya 1 rekening,,, Mohon di aktifkan kembali untuk transfer manual mandiri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9548b64b-b979-4f0c-84c4-659a3f178274",
+    "data": [
+      {
+        "text": "pembayaran metode transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "38298656-edf8-488d-b404-ab53b7ffcf60",
+    "data": [
+      {
+        "text": "transfer bank",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5103a182-bde7-4868-b789-f57674a8261c",
+    "data": [
+      {
+        "text": "saya ada saldo tokocash 30rb, bagaimana cara menggunakan saldo tokocash",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3503db23-a82b-4296-8426-20fbfaf8c8fa",
+    "data": [
+      {
+        "text": "saya mau bayar transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d80e0868-928b-47a7-8177-3420e3764d8e",
+    "data": [
+      {
+        "text": "Cara pembayaran tiket kereta menggunakannya saldo ovo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "510cbc66-5015-4c0d-9a6e-18268b7601bc",
+    "data": [
+      {
+        "text": "kalo order di tokped menggunakan kartu kredit BRI ap bisa cicilan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c924657a-b252-4685-a66d-34d5645ddce9",
+    "data": [
+      {
+        "text": "saya ingin bayar pembelian dengan OVO + SALDOA, gn caranya, td saya coba ngk bisa.dulu waktu pakai toko cash langsung bisa. OVO gmn pakainya ini?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d4187e2b-2874-47f2-a398-ab066a38885a",
+    "data": [
+      {
+        "text": "Bagaimana Pembayaran dari Bank Mandiri Syariah? di toped gak ada ..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2b237977-09bb-4152-ae15-be0d39356aef",
+    "data": [
+      {
+        "text": "pembayaran melalui sms banking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a78c6027-b9bc-44db-8205-6aa724ab744d",
+    "data": [
+      {
+        "text": "saya mau menanyakan mengenai metode pembayaran melalui bank bca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7fe5e4fe-7f24-4923-97d8-592b97ce7929",
+    "data": [
+      {
+        "text": "Saya melakan pembayaran melalui transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7dfc36cf-91bf-4b4e-b513-dd682bcd60c6",
+    "data": [
+      {
+        "text": "saya melakukan transaksi pembayaran air pdam dengan metode pembayaran bca klikpay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "700adf70-63cf-4eba-9f84-963df25cf2da",
+    "data": [
+      {
+        "text": "metode pembayaran menggunakan tokocash kak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1c0cd023-97a2-48fb-ac80-6fb2beb6a549",
+    "data": [
+      {
+        "text": "Saya punya saldo di Tokopedia, bagaimana cara mengunakannya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "af283a92-1fc9-426d-ae48-5f1c1f222af0",
+    "data": [
+      {
+        "text": "mau tanya mengenai pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "081dc2b3-4699-4329-b56c-8992caa18f8d",
+    "data": [
+      {
+        "text": "pembayaran barang bisa dicicil?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "58d5a3ae-fa33-4ee9-824d-3dab99c16b1f",
+    "data": [
+      {
+        "text": "siang mau tanya kalau belanja di tokopedia dengan pakai cara pembayaran cicilan kartu kredit gimana yah caranya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dca304fe-d0ff-47b1-9485-11cfd6a4d095",
+    "data": [
+      {
+        "text": "cara supaya pembayaran bisa melalui mandiri e-cash",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c53920ee-2451-4499-88b4-87468ee747ee",
+    "data": [
+      {
+        "text": "Cara Bayar via BCA CARD (bukan BCA Visa)bagaimana cara nya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "35e758c6-7a61-4e0f-bc7f-9caaa5eb496d",
+    "data": [
+      {
+        "text": "Terus pembayaran nya melalui virtual account apa?terimakasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1e349bab-c2f3-45fd-a108-8a343863b57c",
+    "data": [
+      {
+        "text": "Cara bayar dana instan melalui BRI.. pakai briva tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2c2e9fbb-0ff2-4600-a8d6-196bc73fea35",
+    "data": [
+      {
+        "text": "mau tanya min, fitur transaksi transfer lewat atm kerekeningnya pt.tokopedia kok gk ada lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1fcb5057-e64b-4028-82ef-4c42b453c7f8",
+    "data": [
+      {
+        "text": "gimana cara bayar pake saldo min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6ad92a6f-2916-4e0d-8f1d-e43f5311d448",
+    "data": [
+      {
+        "text": "jika saya pakai kartu kredit uob apakah saya bisa dapat bunga 0% ?bagaimana cara transaksinya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8129b71f-d59f-4efd-8e20-8c30b2b0d352",
+    "data": [
+      {
+        "text": "saya ingin menayakan pembayarannya dengan kartu kredit citibank apakah saya kredit 12 bulan / kredit 3 bulan / kredit 6 bulan? ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "152677aa-fcc4-42b8-bf6d-67a96307bf75",
+    "data": [
+      {
+        "text": "Saya mau bayar transaksi penerbangan kok tidak muncul pilihan bayar pakai ovo poin? Bagaimana caranya bayar pakai ovo point",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ccb3d6d4-5bdd-4af4-ac8a-0bbf11474366",
+    "data": [
+      {
+        "text": "Bagaimana cara menambah kan pembayaran melalui virtual account?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "62701f4d-edcf-4179-b445-3a50da168e85",
+    "data": [
+      {
+        "text": "cara transaksi menggunakan kartu kredit, pakai tenor 3 /6 bulan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "601188b7-9f1b-4d3e-ac6e-847c85bd9d5a",
+    "data": [
+      {
+        "text": "kak..di ovo kan ada 2 mcm..apa brdanya ya. trs klo kt mau pk byr..bs gak pk itu 2 2 nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6264f109-007b-43ae-a29b-673bc8d4dac8",
+    "data": [
+      {
+        "text": "gmn cara bli pulsa dg ovo? apa hrs lakukan penarikan dana? tdk otomatis potong saldo ovo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "532a47a6-2878-4231-adc7-8a24d01dcf30",
+    "data": [
+      {
+        "text": "saya bayar lewat virtual acc danamon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d12a07a8-b1f0-419b-8f0f-7f0f3ef28e81",
+    "data": [
+      {
+        "text": "malam toped. mhn dibantu gmn caranya agar sy bs memakai dana yg ada di ovo dan ovo point. tks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1edca4f9-db20-4e3d-8c92-d69e5d1ce0f0",
+    "data": [
+      {
+        "text": "Hai.. kenapa ya saya sekarang tidak bisa menggunakan ovo untuk pembayaran Padahal dulu bisa lohh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d06022a9-e1d2-47f4-ae11-50893a3823db",
+    "data": [
+      {
+        "text": "bayar kartu kredit mandiri belum kerjasama ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "75607392-4dc7-4e3b-8e32-9b136c21d7b2",
+    "data": [
+      {
+        "text": "transaksi dengan saldo tokopedia bagaimana, saya blm tahu caranya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2d11867c-ba22-4b14-b041-31529f292c53",
+    "data": [
+      {
+        "text": "bisa gak bayar transaksi pake transfer manual?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "18c8e7e2-1756-4f64-96f3-46f6900aa676",
+    "data": [
+      {
+        "text": "saya coba beli tiket pesawat saat pembayaran kenapa saldo ovo tidak bisa digunakan sebagai pembayaran?? ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c60e5829-01c2-4503-829b-4998adef331d",
+    "data": [
+      {
+        "text": "mau tanya ini pembayaran bs degan apa aja kan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0be1bf94-4a65-49a7-b813-4642ddce2e7e",
+    "data": [
+      {
+        "text": "saya ingin mengunakan ovo utk transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "76a7da6e-400b-4217-b61b-d157c8c39c88",
+    "data": [
+      {
+        "text": "gmn nih toped, mau beli pulsa aja sy ga nemu cara bayar yg sy bs, bca danamon ga punya semua. ada saldo ovo byk ga bs dipake.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a6795255-1659-4f7d-9d17-fa0d728cd809",
+    "data": [
+      {
+        "text": "Bagamana cara pembelian barang di tokopedia menggunakan cicilan home credit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "24ea2e3d-94a5-4c6b-a859-e4f9ae05cb83",
+    "data": [
+      {
+        "text": "Payment tagihan cc via tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0312cd64-1bf8-41fb-b011-4fb42e40986a",
+    "data": [
+      {
+        "text": "Kak, saya mau tanya bagai mana cara bayar transaksi pakai poin ovo yg ada kode nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2b2ee193-7428-40bc-9d42-74504e48149e",
+    "data": [
+      {
+        "text": "bagaimana cara transaksi menggunakan ovo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

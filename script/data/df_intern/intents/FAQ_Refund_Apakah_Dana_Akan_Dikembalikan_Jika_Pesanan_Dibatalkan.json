@@ -1,0 +1,32 @@
+{
+  "id": "29f0b763-02f2-4086-9687-4e14afe2c9f7",
+  "name": "FAQ_Refund_Apakah_Dana_Akan_Dikembalikan_Jika_Pesanan_Dibatalkan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Tentu saja dana kamu akan dikembalikan jika pesanan dibatalkan dengan sengaja atau otomatis dibatalkan karena kasus tertentu.\n\nUntuk lama pengembalian dana sangat bergantung pada metode yang kamu pilih sebelumnya. Jika kamu menggunakan kartu kredit, dana akan dikembalikan ke limit maksimal 14 hari kerja. Sedangkan pembayaran selain kartu kredit, dana bisa kembali dalam waktu 1x24 jam dan otomatis masuk ke Saldo Tokopedia."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520238460,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_refund_apakah_dana_akan_dikembalikan_jika_pesanan_dibatalkan"
+    }
+  ]
+}

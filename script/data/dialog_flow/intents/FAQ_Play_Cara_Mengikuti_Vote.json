@@ -1,0 +1,36 @@
+{
+  "id": "657dfb2d-b19c-482c-995c-860540372ea8",
+  "name": "FAQ_Play_Cara_Mengikuti_Vote",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk melakukan vote, silakan ikuti langkah di bawah ini ya:\n\n1. Shake-Shake perangkat kamu.\n2. Klik tombol \"Masuk ke Play.\"\n3. Klik di bagian voting.\n4. Silakan klik “Info vote” yang ada bagian voting.\n5. Kamu akan di arahkan pada halaman yang berisi tentang Play, termasuk informasi pemenang di dalamnya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu hanya bisa memilih salah satu vote yang sedang berjalan, dan setiap jawaban yang di pilih sudah tidak bisa di ubah, ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_play_cara_mengikuti_vote"
+    }
+  ]
+}

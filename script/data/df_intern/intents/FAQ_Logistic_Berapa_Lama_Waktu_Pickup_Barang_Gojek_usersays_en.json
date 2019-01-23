@@ -1,0 +1,15 @@
+[
+  {
+    "id": "cb924614-fd29-473c-a608-73a578f8fea4",
+    "data": [
+      {
+        "text": "gojek",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

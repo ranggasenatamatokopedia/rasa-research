@@ -1,0 +1,43 @@
+{
+  "id": "f532318b-c917-4340-a2e5-87b27facf182",
+  "parentId": "bc8f4622-0f27-4009-a4cd-f030fe0388ae",
+  "rootParentId": "bc8f4622-0f27-4009-a4cd-f030fe0388ae",
+  "name": "FAQ_Payment_cara_bayar_saldo_Tokopedia",
+  "auto": true,
+  "contexts": [
+    "FAQ_Payment_cara_bayar-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Payment_cara_bayar_saldo_Tokopedia-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut cara pembayaran menggunakan Saldo Tokopedia:\n\n1. Masukan produk ke keranjang belanja.\n2. Silakan pilih metode pembayaran Saldo Tokopedia.\n3. Kemudian, klik Checkout\n4. Di halaman ringkasan pembayaran, masukkan password akun Tokopedia kamu.\n5. Terakhir, klik Bayar Sekarang."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534813770,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "saldo_tokopedia"
+    }
+  ]
+}

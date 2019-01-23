@@ -1,0 +1,92 @@
+[
+  {
+    "id": "81904fd9-acf1-47cb-ba87-d093896e013d",
+    "data": [
+      {
+        "text": "pake ",
+        "userDefined": false
+      },
+      {
+        "text": "ninja",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2d7ed44c-27c1-4479-a3bf-b092d9fe8517",
+    "data": [
+      {
+        "text": "ninja",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a407ce53-fb71-43b3-bb4f-07141f86da7c",
+    "data": [
+      {
+        "text": "pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "ninja",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c5ca40f4-9c27-4ea8-83d3-60b5f35fa9e6",
+    "data": [
+      {
+        "text": "ninja xpress",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d3c4ff8e-602d-4955-ae7e-356cfa62cc99",
+    "data": [
+      {
+        "text": "yang ",
+        "userDefined": false
+      },
+      {
+        "text": "ninja",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "353287d3-1761-4dae-a66e-4ab5a136f441",
+    "data": [
+      {
+        "text": "ninja express",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

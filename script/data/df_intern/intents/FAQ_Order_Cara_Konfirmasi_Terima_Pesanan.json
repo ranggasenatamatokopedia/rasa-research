@@ -1,0 +1,31 @@
+{
+  "id": "4799a2d5-3d5b-46b3-aa8d-a74f95e19daf",
+  "name": "FAQ_Order_Cara_Konfirmasi_Terima_Pesanan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau sudah menerima pesanan, kamu bisa konfirmasi penerimaan dengan buka halaman “Konfirmasi Penerimaan” dan klik “Sudah Diterima”."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_order_cara_konfirmasi_terima_pesanan"
+    }
+  ]
+}

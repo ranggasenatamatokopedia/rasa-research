@@ -1,0 +1,43 @@
+{
+  "id": "f39cb94d-a0f0-4e57-a3a1-1cd349c9f7ec",
+  "parentId": "2419b45d-5777-4a95-8dc3-ae571e77b8bb",
+  "rootParentId": "b5d703e5-b4ee-4716-a78d-6a74da4e1538",
+  "name": "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Seller_Waiting_For_Courier_Success",
+  "auto": true,
+  "contexts": [
+    "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Seller_Waiting_For_Courier-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Seller_Waiting_For_Courier_Success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped sudah bantu cek, tapi resi pengiriman kamu tidak terlacak. Tidak perlu khawatir, Toped akan bantu. Unggah bukti resi/bukti pengiriman kamu \u003ca href\u003d#is_success.url/#is_success.order_id/#is_success.shop_id?invoice\u003d#is_success.invoice_num rel\u003d\"nofollow\" target\u003d\"_blank\"\u003edisini\u003c/a\u003e"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538136978,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "is_success"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "266ef013-8847-4481-a7f8-cd1367297363",
+  "parentId": "5d9c0e62-cdd6-483f-b266-554c2e31597f",
+  "rootParentId": "f9ec542f-62a1-4f00-a77f-a5b3cb164296",
+  "name": "Refund_Saya_membayarkan_pesanan_dengan_metode_yang_tidak_sesuai_inv_selected_inspay",
+  "auto": false,
+  "contexts": [
+    "Refund_Saya_membayarkan_pesanan_dengan_metode_yang_tidak_sesuai_inv_selected-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Refund_Saya_membayarkan_pesanan_dengan_metode_yang_tidak_sesuai_inv_selected_inspay-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk invoice tersebut, kamu harus membayarkannya dengan #inspay.payload ya, agar dana kamu bisa dibelanjakan ulang atau dikembalikan."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau mau dibelanjakan, kamu bisa pesan barang kembali dan pilih metode pembayaran sesuai dengan metode sebelumnya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Tapi kalau tidak mau belanja ulang, dana kamu bisa dikembalikan. Kamu cukup upload bukti pembayarannya dan Toped akan mengecek dana tersebut."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523869955,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "inspay"
+    }
+  ]
+}

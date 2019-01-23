@@ -1,0 +1,194 @@
+[
+  {
+    "id": "2dfbfd9a-620b-41b5-b26e-b0bc0a80fe3e",
+    "data": [
+      {
+        "text": "tinggal dimana kamu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "451d7815-e4b8-4898-9312-f90c0c5be7e4",
+    "data": [
+      {
+        "text": "kampung halaman kamu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1937115d-8755-452c-8190-95cfeb50c8f8",
+    "data": [
+      {
+        "text": "ceritakan tentang kota kamu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3818dccd-35c1-442e-8783-3be246e36454",
+    "data": [
+      {
+        "text": "tinggal dimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f1972cea-20a8-4cc3-a383-7a157c39b31c",
+    "data": [
+      {
+        "text": "kamu tinggal di kota mana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1945af9d-8703-470e-9822-caee7b200c55",
+    "data": [
+      {
+        "text": "dimana tinggal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "75214eaa-cec4-425d-97be-b428b8fff1e1",
+    "data": [
+      {
+        "text": "apa nama kampung halaman kamu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aeabf62a-f33e-416b-a75e-f25bd9396b2d",
+    "data": [
+      {
+        "text": "di mana kampung halaman kamu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f5b6f7e0-69bb-44ba-91aa-a93899ac0888",
+    "data": [
+      {
+        "text": "di mana kamu tinggal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c18917a7-a552-41ec-8cb0-daee11c3b250",
+    "data": [
+      {
+        "text": "apa itu kampung halaman kamu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cd409cbd-db0d-42a8-b332-c6b65818c54b",
+    "data": [
+      {
+        "text": "alamat kamu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3f5a56e8-c614-4b34-9c42-a1e553134f92",
+    "data": [
+      {
+        "text": "kamu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tinggal dimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "63869d49-fd37-4178-bcf5-e1d240e4b046",
+    "data": [
+      {
+        "text": "rumah Anda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d3c8f188-4a77-4c26-b7e6-5c01e085e8d8",
+    "data": [
+      {
+        "text": "rumah kamu",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9c8882c1-6e5e-4589-bee5-a754aaad1800",
+    "data": [
+      {
+        "text": "alamat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e7e8e158-c548-4d3e-87c4-87bdb429c85e",
+    "data": [
+      {
+        "text": "tempat tinggal kamu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bad5312a-dac8-4eaf-99ae-f5200cfd52a7",
+    "data": [
+      {
+        "text": "dimana lokasi kantor tokopedia ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "id": "9e870f46-56e8-42c7-80a6-e2561a8eb678",
+  "parentId": "01ec787b-b071-4f69-a218-2d7cea605fae",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Tidak_Mendapat_Cashback_Promo_MP_Finished_Not_Fraud_Valid",
+  "auto": true,
+  "contexts": [
+    "Promo_Tidak_Mendapat_Cashback_Promo_Select_Invoice_MP_Finished_Not_Fraud-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckHistoryGiveCashback",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Mendapat_Cashback_Promo_MP_Finished_Not_Fraud_Valid-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531975844,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "case_status_valid"
+    },
+    {
+      "name": "case_status_unknown"
+    }
+  ]
+}

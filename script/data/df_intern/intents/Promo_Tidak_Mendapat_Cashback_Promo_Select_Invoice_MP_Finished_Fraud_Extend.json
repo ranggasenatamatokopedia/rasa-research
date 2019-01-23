@@ -1,0 +1,48 @@
+{
+  "id": "4118a210-f402-4f57-9999-fb18bd8374ba",
+  "parentId": "59692b1b-8c78-477f-a8df-4948f7bc397e",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Tidak_Mendapat_Cashback_Promo_Select_Invoice_MP_Finished_Fraud_Extend",
+  "auto": false,
+  "contexts": [
+    "Promo_Tidak_Mendapat_Cashback_Promo_Select_Invoice_MP_Finished_Fraud-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Mendapat_Cashback_Promo_Select_Invoice_MP_Finished_Fraud_Extend_Abuse_Ongkir-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Transaksi ini masih dalam proses pengecekan karena terindikasi tidak memenuhi Syarat dan Ketentuan, sehingga cashback belum bisa kamu terima."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa tunggu dulu ya. Nanti jika transaksinya sudah sesuai dengan Syarat dan Ketentuan, cashback akan diberikan. Namun jika transaksi terindikasi melanggar, maka kamu akan menerima informasi melalui fitur pesan bantuan (support message)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531820459,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "case_status_extend"
+    }
+  ]
+}

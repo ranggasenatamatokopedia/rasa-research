@@ -1,0 +1,66 @@
+{
+  "id": "4c79035d-678b-45c3-8636-114848247608",
+  "parentId": "c95b094c-3bbf-4b87-b373-536400e4989e",
+  "rootParentId": "dbbb1e17-3271-4c65-b2a2-5cb80603b2a4",
+  "name": "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_game_itunes",
+  "auto": true,
+  "contexts": [
+    "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_game-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_game_itunes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Bisa informasikan ke Toped notifikasi apa yang muncul?"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Silakan pilih notifikasi eror dibawah ini ya,"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "button_actions": [
+              {
+                "message": "This code must be redeemed in the U.S. storefront"
+              },
+              {
+                "message": "Kode tidak valid"
+              },
+              {
+                "message": "This code has already been redeemed"
+              }
+            ],
+            "type": 2
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536321039,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "operator_itunes"
+    }
+  ]
+}

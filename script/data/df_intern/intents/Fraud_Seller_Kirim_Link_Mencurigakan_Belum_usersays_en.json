@@ -1,0 +1,79 @@
+[
+  {
+    "id": "8e3ed4fa-b4ef-4c9e-94c7-5a7013fe5162",
+    "data": [
+      {
+        "text": "blum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cad0642f-a3bd-4402-af49-32cb8016506c",
+    "data": [
+      {
+        "text": "blom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "59ea05af-4307-4adb-8993-62e144a25867",
+    "data": [
+      {
+        "text": "belum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4b329d09-1cc4-4ef9-86d1-41983179d037",
+    "data": [
+      {
+        "text": "blm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3844815c-27e8-4177-89dd-b25f74652409",
+    "data": [
+      {
+        "text": "not yet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "172eed22-169a-4885-b6f0-adb069f7f3a8",
+    "data": [
+      {
+        "text": "sys.any:code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0
+  },
+  {
+    "id": "f25074fb-1b3a-4a2d-8504-5908bd2b4ad8",
+    "data": [
+      {
+        "text": "tidak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

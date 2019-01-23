@@ -1,0 +1,34 @@
+{
+  "id": "d3ae3cf8-314a-4e65-9b83-d349510c2c3d",
+  "name": "FAQ_TopAds_Jumlah_Klik_Lebih_Besar_Dari_Jumlah_Tampil",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_TopAds_Jumlah_Klik_Lebih_Besar_Dari_Jumlah_Tampil-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai Toppers, perbedaan jumlah \u0027Klik\u0027 dengan \u0027Tampil\u0027 di iklan TopAds, disebabkan karena adanya delay pada sistem. Kamu bisa tunggu dalam waktu 1x24 jam ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

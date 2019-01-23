@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1cb3ff91-4ff2-441e-ad26-78c7d72850f2",
+    "data": [
+      {
+        "text": "invoice_selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b1055512-d177-4864-bb3b-2e50aabe818e",
+    "data": [
+      {
+        "text": "invoice_finished_refund_voucher",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

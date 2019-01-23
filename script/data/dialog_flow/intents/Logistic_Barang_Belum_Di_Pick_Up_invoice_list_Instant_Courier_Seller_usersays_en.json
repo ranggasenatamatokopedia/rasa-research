@@ -1,0 +1,24 @@
+[
+  {
+    "id": "058889ac-8816-495d-b6e3-683369d7f4fe",
+    "data": [
+      {
+        "text": "seller",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "15b78fd6-d9e7-4b8a-94aa-e19686b8b516",
+    "data": [
+      {
+        "text": "user_is_seller",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

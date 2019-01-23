@@ -1,0 +1,24 @@
+[
+  {
+    "id": "6dfcfeb5-fe15-4500-b347-81497a7de46b",
+    "data": [
+      {
+        "text": "add_text_coupon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4cbeacdc-4135-4dd7-bef2-1201ee7317a1",
+    "data": [
+      {
+        "text": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0
+  }
+]

@@ -1,0 +1,64 @@
+{
+  "id": "d93042eb-7ba0-4f9b-8adc-a220a9c1c39a",
+  "parentId": "4587b9b6-224a-4a84-815d-159d7d0c8e64",
+  "rootParentId": "78a8a659-1f88-470b-8cae-9de1dbc1f058",
+  "name": "Payment_kode_pembayaran_not_found_invoice_select_gerai_wtp_show_code",
+  "auto": true,
+  "contexts": [
+    "Payment_kode_pembayaran_not_found_invoice_select_gerai_wtp-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Payment_kode_pembayaran_not_found_invoice_select_gerai_wtp_show_code-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "#show_transaction_code.payload"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu dapat lakukan pembayaran dengan kode tersebut pada Gerai yang sudah bekerja sama dengan Tokopedia ya. Seperti Alfamart/Indomaret/Lawson/Pos Indonesia"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped ingin pastikan dulu apakah kamu sudah melakukan pembayaran transaksi ini dengan metode pembayaran? misalnya, dengan menggunakan Transfer Bank."
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 1,
+            "quick_replies": [
+              "Belum",
+              "Sudah"
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531637400,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "show_transaction_code"
+    }
+  ]
+}

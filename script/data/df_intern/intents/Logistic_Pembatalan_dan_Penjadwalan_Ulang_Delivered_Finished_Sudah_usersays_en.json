@@ -1,0 +1,95 @@
+[
+  {
+    "id": "1d095921-8b47-49d3-908a-c72684abf20e",
+    "data": [
+      {
+        "text": "sdh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d614a026-5d05-4710-a4cc-867a204a480d",
+    "data": [
+      {
+        "text": "sudaaah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b92cc56b-2b01-47b4-bf3e-dc83eaf3fc44",
+    "data": [
+      {
+        "text": "iya sudah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "23ff6df8-ae41-42e1-9716-b2738808aee5",
+    "data": [
+      {
+        "text": "sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aa323aa3-aeb7-41fc-b50b-baed2e3b8fc0",
+    "data": [
+      {
+        "text": "sudah yaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3deb0c3e-693a-4edc-a520-e3712c0e4e1d",
+    "data": [
+      {
+        "text": "iya sudaah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "13d7c039-bc47-4d14-acf6-1442bba23b32",
+    "data": [
+      {
+        "text": "iya sudh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3e6a5f4a-c6f1-4913-9ff9-95f557c92252",
+    "data": [
+      {
+        "text": "sudah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

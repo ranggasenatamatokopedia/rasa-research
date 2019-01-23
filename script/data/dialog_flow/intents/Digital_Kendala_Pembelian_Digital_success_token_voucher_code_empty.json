@@ -1,0 +1,43 @@
+{
+  "id": "2b5d867a-8aae-4243-93fb-abcd08925357",
+  "parentId": "4cc1d0f8-a1ab-4166-8611-afe0c2cea549",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_success_token_voucher_code_empty",
+  "auto": false,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_success_listrik_PLN_token-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_success_token_voucher_code_empty-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Di menu Daftar Transaksi Digital kamu juga dapat cek informasi transaksi secara lengkap :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534161531,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "voucher_code_empty_string"
+    }
+  ]
+}

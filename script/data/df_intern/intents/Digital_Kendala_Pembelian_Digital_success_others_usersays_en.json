@@ -1,0 +1,35 @@
+[
+  {
+    "id": "d9b0c395-5341-472f-9561-e9684ce31ffd",
+    "data": [
+      {
+        "text": "digital_tvkabel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e1897900-5be0-4ec2-9dee-cbc2af45b0b5",
+    "data": [
+      {
+        "text": "digital_streaming",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "64b83c19-f300-48c2-9ec7-049871f55304",
+    "data": [
+      {
+        "text": "digital_bpjs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

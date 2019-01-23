@@ -1,0 +1,48 @@
+{
+  "id": "0582dc40-ccf3-4de5-9a02-af6083948e23",
+  "name": "FAQ_Discovery_tidak_bisa_akses_halaman_feed",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "faq_discovery_tidak_bisa_akses_halaman_feed-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Bisa informasikan perangkat yang kamu gunakan?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Desktop",
+              "Aplikasi"
+            ],
+            "type": 1
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_discovery_tidak_bisa_akses_halaman_feed"
+    }
+  ]
+}

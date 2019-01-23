@@ -1,0 +1,48 @@
+{
+  "id": "fc78c1f7-218d-4531-a22e-5f4067c0ddfd",
+  "parentId": "651b1be9-3d7e-466d-a9ab-babcd387916c",
+  "rootParentId": "7702a921-0bc2-479f-9cd3-aade8103768a",
+  "name": "Payment_not_verify_digital_platform",
+  "auto": true,
+  "contexts": [
+    "Payment_not_verify_check_platform-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Payment_not_verify_digital_platform-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk sementara, Toped hanya dapat membantu verifikasi pembayaran di Marketplace saja nih."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped akan secepatnya bantu kamu di transaksi Digital, ya!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531192633,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_digital_KAI"
+    }
+  ]
+}

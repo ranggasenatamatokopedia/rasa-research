@@ -1,0 +1,44 @@
+{
+  "id": "f70a5080-0c7c-42ba-9997-0022eff9f093",
+  "parentId": "961fca1c-f114-40f1-8527-593b61fc45bf",
+  "rootParentId": "961fca1c-f114-40f1-8527-593b61fc45bf",
+  "name": "FAQ_Order_Tidak_Bisa_Melakukan_Pembelian_Kendala_Server",
+  "auto": true,
+  "contexts": [
+    "FAQ_Order_Tidak_Bisa_Melakukan_Pembelian-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Order_Tidak_Bisa_Melakukan_Pembelian_Kendala_Server-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped sarankan kamu untuk mengakses Tokopedia menggunakan perangkat lain seperti Desktop (Komputer), Mobile Site, Apps (Aplikasi)."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pastikan juga koneksi internet kamu stabil dan Aplikasi Tokopedia yang digunakan telah ter-update di versi terbaru."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544415711,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "4fbcdb8b-36c8-44e3-9fde-9e6887728b7a",
+  "parentId": "5e652467-1f9f-4b2b-a3db-89af64cabeef",
+  "rootParentId": "5e652467-1f9f-4b2b-a3db-89af64cabeef",
+  "name": "FAQ_Logistic_Berapa_Lama_Waktu_Pengantaran_Kurir_Pickup_Gojek",
+  "auto": false,
+  "contexts": [
+    "FAQ_Logistic_Berapa_Lama_Waktu_Pengantaran_Kurir_Pickup-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Logistic_Berapa_Lama_Waktu_Pengantaran_Kurir_Pickup_Gojek-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa ketik jenis layanan Go-send yang ingin kamu tanyakan ya, apakah Same Day atau Instant Courier?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528335681,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "gojek"
+    }
+  ]
+}

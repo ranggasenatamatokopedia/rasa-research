@@ -1,0 +1,48 @@
+{
+  "id": "f894d12f-458b-48a1-889b-850778db4d63",
+  "parentId": "1cc6a382-c412-4eb0-9639-7c81801f1f29",
+  "rootParentId": "7f7a8cb1-cbe8-48a9-9930-7686b772cf99",
+  "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_waiting_payment_scrooge_pending_payment_not_found",
+  "auto": false,
+  "contexts": [
+    "Flight_Kendala_Pembelian_Tiket_Pesawat_get_invoice_waiting_payment_scrooge_pending-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_waiting_payment_scrooge_pending_payment_not_found-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Maaf, pesanan kamu menggantung dan tidak bisa dilanjutkan."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa transaksi ulang ya jika ingin melakukan pembelian kembali :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538107472,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "payment_method_not_found"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "973eda08-1096-46c1-87e0-bf10eb63b810",
+  "parentId": "418d0819-b0e5-4683-b3c1-36af0987c9bd",
+  "rootParentId": "ac27f987-10da-4579-826b-fdb70eef3ed6",
+  "name": "TOKOPOINT_Tidak_bisa_menggunakan_kupon_notif_tidak_memenuhi_tnc_add_email",
+  "auto": true,
+  "contexts": [
+    "TOKOPOINT_Tidak_bisa_menggunakan_kupon_notif_tidak_memenuhi_tnc-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Tidak_bisa_menggunakan_kupon_notif_tidak_memenuhi_tnc_add_email-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon lampirkan screenshot notifikasi error yang kamu terima ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523602563,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "add_text_email"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "b3271317-a51a-4d51-9f94-8a5a54865963",
+  "name": "FAQ_Logistic_Ubah_Kurir_Pengiriman",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Logistic_Ubah_Kurir_Pengiriman-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh kamu infokan detail perubahan kurirnya?\n\n1. Kurir pick up ke Kurir pick up (contoh: Go-send ke Grab)\n2. Kurir pick up ke Kurir reguler (contoh: Go-send ke JNE)\n3. Kurir reguler ke Kurir pick up (contoh: JNE ke Go-send)\n4. Kurir reguler ke Kurir reguler (contoh: JNE ke TIKI)\n\nKamu bisa pilih antara nomor 1 sampai 4 ya :)"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 1,
+            "quick_replies": [
+              "1",
+              "2",
+              "3",
+              "4"
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_logistic_ubah_kurir_pengiriman"
+    }
+  ]
+}

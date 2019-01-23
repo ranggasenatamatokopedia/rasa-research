@@ -1,0 +1,57 @@
+{
+  "id": "8a7c31b0-f2b2-40d4-ae91-efb473d32fa4",
+  "parentId": "1b42339a-69c6-41c5-9761-256c99b4fd4d",
+  "rootParentId": "feb54c5b-52cd-4135-8fbe-6ef49ccb8866",
+  "name": "Payment_nominal_bayar_tidak_sesuai_select_inv_cancel",
+  "auto": true,
+  "contexts": [
+    "Payment_nominal_bayar_tidak_sesuai_select_inv-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Payment_nominal_bayar_tidak_sesuai_select_inv_cancel-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai Kak, Toped cek transaksi ini sudah batal. Apakah kakak sebelumnya sudah melakukan pembayaran?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Belum",
+              "Sudah"
+            ],
+            "type": 1
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531644075,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_canceled"
+    },
+    {
+      "name": "invoice_batal_otomatis_oleh_sistem"
+    }
+  ]
+}

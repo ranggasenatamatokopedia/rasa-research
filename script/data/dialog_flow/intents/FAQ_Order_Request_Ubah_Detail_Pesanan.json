@@ -1,0 +1,31 @@
+{
+  "id": "d0191b02-148d-4763-9ae4-e9b09aaae9ed",
+  "name": "FAQ_Order_Request_Ubah_Detail_Pesanan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau kamu lupa atau ingin menambahkan detail pesanan, kamu bisa diskusikan langsung dengan menghubungi Penjual melalui fitur “Chat” atau “Tanya Penjual” ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_order_request_ubah_detail_pesanan"
+    }
+  ]
+}

@@ -1,0 +1,609 @@
+[
+  {
+    "id": "5bbadf35-ed0e-41e7-8b97-6e1ee8d48ca9",
+    "data": [
+      {
+        "text": "sekali share kode referral, berapa bonusnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f714c18f-cdfe-4071-aaaa-81ce98dd8e64",
+    "data": [
+      {
+        "text": "berapa bonus referral saya klo kode saya dipake sama temen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5d9118ca-1877-4ed8-a459-e2f66e02947c",
+    "data": [
+      {
+        "text": "lho saya dikasih berapa bonusnya sekali shae",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ace6a183-e22a-464c-b485-737fa3cb2649",
+    "data": [
+      {
+        "text": "berapa sih bonus saya kalo sekali transaksi pake referral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "00a78c59-778e-4e46-ba50-974a6a7a6275",
+    "data": [
+      {
+        "text": "klo temen saya yg pake kode referral, dapet bonusnya berapa ya kira kira",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4bff3dd2-9c22-4582-a136-3eaee30046c3",
+    "data": [
+      {
+        "text": "klo banyak temen saya yg pake, bonus referral saya berapa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a741a8a8-855e-435a-9edd-81b4b37c9461",
+    "data": [
+      {
+        "text": "kode referral saya klo dipakai temen, saya dapat bonusnya berapa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6f1a4a4e-78ec-4874-9476-c71dccb03baf",
+    "data": [
+      {
+        "text": "lho saya dikasih berapa bonusnya sekali share",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "34e296c0-a4b6-4e29-931e-62f0aeb8930f",
+    "data": [
+      {
+        "text": "sekali kode referral saya dipake, saya dikasih bonus berapa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "59a8b620-5906-427a-bb75-856826e9b1b2",
+    "data": [
+      {
+        "text": "klo kode referral saya dipakai, berapa bonus referral saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b238733a-5408-45c2-ba37-2846b181166b",
+    "data": [
+      {
+        "text": "klo temen saya yg pake kode referral, dapet bonusnya berapa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3df316cb-ec5f-4a52-ad21-c8b3e8ea790e",
+    "data": [
+      {
+        "text": "berapa ya bonus referral yg dikasih ke akun saya kalau kode nya dipakai sama temen saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "11da46ae-27e1-4f16-aac9-33c5e2bb49a7",
+    "data": [
+      {
+        "text": "berapa bonus referral klo kode saya digunakan transaksi teman saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "efe1d995-8baa-46ca-b97b-22c1f1e706f8",
+    "data": [
+      {
+        "text": "biasanya berapa ya nominal bonus referral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "85b2e7ac-45e9-41cb-8377-7fc924f277a3",
+    "data": [
+      {
+        "text": "Saya sudah bagikan kode referral saya, jadi saya akan dapat cashback berapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c088f926-24d5-4a1d-8a80-af5e7635352b",
+    "data": [
+      {
+        "text": "bonus membagikan kode referral berapa ya ",
+        "userDefined": false
+      },
+      {
+        "text": "kira2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ad478035-cc18-4136-a46e-80804d9b82af",
+    "data": [
+      {
+        "text": "bonus referral yg dikasih ke saya berapa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a84b532a-1697-407e-a30b-3294a647aba5",
+    "data": [
+      {
+        "text": "cashback kode referral berapa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e70e7a5d-d9af-49d1-bc53-26e8b890a75c",
+    "data": [
+      {
+        "text": "berapa sih banyaknya cashback referral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a789b7f6-a57d-44eb-8832-2d2387491c1d",
+    "data": [
+      {
+        "text": "Kalo Toppers sudah kasih kode referral, cashback yang akan didapatkan berapa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2091e6e7-8de6-4298-b671-992ae74d593d",
+    "data": [
+      {
+        "text": "cashback referral yg dikasih ke saya berapa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cff572e8-144b-4056-9b2b-9b6275bf1b9e",
+    "data": [
+      {
+        "text": "sekali share kode referral berapa bonusnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ea6876ba-841b-49eb-a886-dcd770138bfa",
+    "data": [
+      {
+        "text": "berapa ya bonus dari share kode referral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "64740ecc-3ba5-4d02-ad2c-7d3bc4d4790c",
+    "data": [
+      {
+        "text": "Berapa cashback yang bisa saya dapatkan jika kode referral saya sudah digunakan teman?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2d61ab78-7204-4f92-ae1a-205aac4f8631",
+    "data": [
+      {
+        "text": "bonus referral berapa nilainya tiap kali ada transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7c071b10-3e49-426e-8f1c-92af8418b702",
+    "data": [
+      {
+        "text": "lumayan ya bonus  ",
+        "userDefined": false
+      },
+      {
+        "text": "nya dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " referr;",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "69e4474e-a832-429c-85d8-e4e790fde32a",
+    "data": [
+      {
+        "text": "bonus membagikan kode referral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "73dbeb95-447a-4ae5-8a5e-07c811960a16",
+    "data": [
+      {
+        "text": "berapa bonusnya referral klo saya share ke temen temen saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "00f5624e-1d6b-418e-9841-dd4ad83dfe25",
+    "data": [
+      {
+        "text": "saya dikasih bonus berapa klo membagikan kode referral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "67a527fd-200a-4432-80a2-2ad312726815",
+    "data": [
+      {
+        "text": "referral bonusnya buat saya brapa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5d2fe80c-4634-4491-9f4b-4d740eb75700",
+    "data": [
+      {
+        "text": "saya dikasih bonus referral berapa ya per transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d0c67de6-c04b-4cfe-a033-8c6e45af2260",
+    "data": [
+      {
+        "text": "bonus kode referral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ec4c9bff-7fcf-438a-918a-4c3de1797d5f",
+    "data": [
+      {
+        "text": "berapa sih bonus referra;",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d119803d-7f21-469f-9bd0-3aba59f87fda",
+    "data": [
+      {
+        "text": "berapa bonusnya referral klo saya share ke temen temen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7be40c69-fc38-4657-85c3-6200030ac0a0",
+    "data": [
+      {
+        "text": "referral berapa sih cashbacknya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2c2726a0-122b-4237-bc85-1516c46e607b",
+    "data": [
+      {
+        "text": "saya dikasih bonus berapa klo membagikan kode referral ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "85be56b3-01f2-4a08-8699-47d18dc1c0ee",
+    "data": [
+      {
+        "text": "berapa nominal cashback referral buat toppers yg nge share kode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0c4d1871-c785-44ea-838f-a40af73ed38f",
+    "data": [
+      {
+        "text": "cashback referral berapa banyak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f0e7bc4b-63a4-4a9a-be74-9b3807496b94",
+    "data": [
+      {
+        "text": "lumayan ya bonus  ",
+        "userDefined": false
+      },
+      {
+        "text": "nya dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " referral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "89e52dc8-48e3-415d-a641-9f0e1606e5d6",
+    "data": [
+      {
+        "text": "berapa sih besar cashback referral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "510a6e80-b645-4edd-b88e-47b087690503",
+    "data": [
+      {
+        "text": "bonus referral berapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d19c5619-ac74-4c40-972c-09e0ea856d3a",
+    "data": [
+      {
+        "text": "berapa banyak cashback dari referral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fa1cc86f-bf10-4e4c-96e0-5cc8476873f1",
+    "data": [
+      {
+        "text": "Berapa cashback yang akan didapatkan Toppers?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a8cdb72e-2759-41e8-a7c4-6084fdc7e8e8",
+    "data": [
+      {
+        "text": "nominal yg dikasih ke saya buat share kode referral berapa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e0309d02-38c6-49c4-8e5e-f6946eafebb3",
+    "data": [
+      {
+        "text": "cashback dari referral berapa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "186e4c2d-916e-4bcd-95ac-b3091ad03904",
+    "data": [
+      {
+        "text": "berapa bonus yg dikasih dari referral tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0b6f0d37-2804-4100-8927-9c88090e3f1b",
+    "data": [
+      {
+        "text": "Jika transaksi teman sudah berhasil, Toppers akan mendapatkan cashback berapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "97aa8672-1a9c-44f1-8aa3-04da21280e9e",
+    "data": [
+      {
+        "text": "bonus membagikan kode referral berapa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e5b6afee-bbcb-4f31-80fc-072e6343dbc1",
+    "data": [
+      {
+        "text": "cashback dari referral berapa sih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f544e72d-2db7-47b2-a49e-a6d729c7a238",
+    "data": [
+      {
+        "text": "berapa maksimal cashback referral yg dikasih ke saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6b090abc-048c-41fe-be7d-13bdfdc67da1",
+    "data": [
+      {
+        "text": "berapa banyak cashback referral yg akan saya dapat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "80bf6ba2-27bb-4953-80ed-92ae9b0a06bc",
+    "data": [
+      {
+        "text": "Toppers akan dapat cashback berapa dari program referral?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ff246454-01b4-4398-ad43-1bc702a012a2",
+    "data": [
+      {
+        "text": "bonus referral sekali saya share lode berapa sih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

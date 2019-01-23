@@ -1,0 +1,35 @@
+[
+  {
+    "id": "2a420894-ae7b-46de-9939-43e5dbd4d925",
+    "data": [
+      {
+        "text": "tracker invalid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6f17666e-a518-45e4-acb2-f82d756d4bcb",
+    "data": [
+      {
+        "text": "invalid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "71b6e828-d571-4c4e-8a83-0727236e35d3",
+    "data": [
+      {
+        "text": "invoice_kode_resi_pengiriman_tidak_valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

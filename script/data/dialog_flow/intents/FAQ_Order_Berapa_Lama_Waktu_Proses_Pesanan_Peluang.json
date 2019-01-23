@@ -1,0 +1,36 @@
+{
+  "id": "8da2f293-5be0-44c6-88aa-ae5fe7b179d5",
+  "name": "FAQ_Order_Berapa_Lama_Waktu_Proses_Pesanan_Peluang",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Waktu respons pesanan normalnya 1x24 jam sejak pembayaran terverifikasi. Tapi untuk Peluang, waktu memproses pesanan sesuai dengan sisa waktu respons dari Penjual sebelumnya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Contoh kasusnya berikut ini:\nPenjual pertama menolak pesanan pada jam ke-8 sejak pembayaran diverifikasi. Jadi, sisa waktu respons pesanan Penjual berikutnya yaitu 16 jam."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_order_berapa_lama_waktu_proses_pesanan_peluang"
+    }
+  ]
+}

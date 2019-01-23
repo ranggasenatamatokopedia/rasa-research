@@ -1,0 +1,48 @@
+{
+  "id": "094df461-e1ce-4eb0-bb2c-95b72d124d33",
+  "parentId": "f19ef164-6e8f-41f6-9f11-8554bbd35cae",
+  "rootParentId": "35e16175-3fd0-4749-bf64-4e1b94b883f1",
+  "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer_Rejected_Pending",
+  "auto": true,
+  "contexts": [
+    "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer_Rejected_Pending-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah Toped cek, saat ini order kakak sedang dalam pencarian produk pengganti di Peluang, Kak."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon tunggu dulu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532590088,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_pencarian_barang_pengganti"
+    }
+  ]
+}

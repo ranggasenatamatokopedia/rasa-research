@@ -1,0 +1,200 @@
+[
+  {
+    "id": "86d7399d-95d0-44b9-a800-e047b8e7c2b2",
+    "data": [
+      {
+        "text": "Input no resi karena Rubah kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "60a3d2c9-3391-4812-84c2-945b4b618f35",
+    "data": [
+      {
+        "text": "Kak ini ada kesalahan slh input jasa kirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cb0b9bc6-1e0d-4dd2-9dc6-20bf21b89a15",
+    "data": [
+      {
+        "text": "resi sudah saya input tp krn salah makanya tidak valid. mohon dbantu krn bisa dcancel segera n paket suda jalan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "86ef5adb-c1cf-4470-92e9-6b2f688a740a",
+    "data": [
+      {
+        "text": "saya salah input resi bagaimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "417d2ff3-ecc0-4b43-98fb-73318cc103db",
+    "data": [
+      {
+        "text": "saya tidak bisa mengubah kurir di kolom input resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9219aefe-f88e-4fa7-9bd5-675b78877064",
+    "data": [
+      {
+        "text": "Cara ganti kurir pengirimannya bagaimana ya kak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4118da4b-a614-4841-adb8-a9dc504819f4",
+    "data": [
+      {
+        "text": "ganti kurir bukan ganti no resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "07fb5f13-040c-4b59-b15c-28554da8e1b2",
+    "data": [
+      {
+        "text": "saya sebagai seler melakukan kesalahan input resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8d6c9245-f914-4fe4-bf1d-fa4a9d649c19",
+    "data": [
+      {
+        "text": "bagaimana cara mengganti kurir setelah pembayaran telah diverifikasi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ad702524-5708-4ea8-ac63-390cdad1fabf",
+    "data": [
+      {
+        "text": "saya mau rubah ekspedisi kami karena perlu segera sampai.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1ea34579-bbfd-4d80-bf6b-b0ddc7f27096",
+    "data": [
+      {
+        "text": "Lupa Ganti Kurir Pas Masukin No resi ..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "373482e3-9d3e-4b6a-9de8-ed2e2ab186bb",
+    "data": [
+      {
+        "text": "mengalami kendala ubah kurir pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "449b99b0-54df-4c42-a099-ac3fad45336b",
+    "data": [
+      {
+        "text": "lalu bagaimana jika sy sudah terlanjur kirim barang via jnt dg cara biasa. krna tdk tau kalau ada resi otomatis (online booking) spt ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0033439f-3a4c-48fb-9a8c-fc9efa84d435",
+    "data": [
+      {
+        "text": "saya salah masukin no resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5db26f81-3a4e-4ab9-8199-ceadd42f9959",
+    "data": [
+      {
+        "text": "sy salah input resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "858264b2-7a1b-41ef-a6b5-2a96e11212f8",
+    "data": [
+      {
+        "text": "salah masukan resi.tolong min diproses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f7d5060c-28d3-4c4a-885c-c432fb6bea42",
+    "data": [
+      {
+        "text": "Ganti Kurir ke Kurir Non Promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ed2c5673-cf0f-4dfc-816d-493f7a03bcdd",
+    "data": [
+      {
+        "text": "kak gimana caranya ubah ekspedisi ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

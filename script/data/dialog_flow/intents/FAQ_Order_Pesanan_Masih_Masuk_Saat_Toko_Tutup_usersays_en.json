@@ -1,0 +1,372 @@
+[
+  {
+    "id": "8d2440f3-973e-44fc-9c8b-bbca3d191f7b",
+    "data": [
+      {
+        "text": "kok ",
+        "userDefined": false
+      },
+      {
+        "text": "buyer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " masih bisa beli ya, padahal toko saya sedang tutup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "557dbdef-dd6b-4de5-9b1d-88b34fc941a5",
+    "data": [
+      {
+        "text": "saya mau batalin pesanan krn masuk saat saya sudah tutup toko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b337538c-5375-4df2-b136-7c02a06e263a",
+    "data": [
+      {
+        "text": "ini kenapa order masih dikasih saya ya, padahal lagi tutup sementara",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "eeb4000d-4be5-4e82-bb23-0f8c87c627ab",
+    "data": [
+      {
+        "text": "ini kenapa pesanan masih saya terima meskipun toko sudah saya tutup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c572ae39-b938-4e20-8c91-85ab6ddd4984",
+    "data": [
+      {
+        "text": "sudah close sementara, tapi orderan kenapa masih masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5181ffab-a962-4fc2-8863-a950eb97de58",
+    "data": [
+      {
+        "text": "gimana sih, toko udah ditutup sementara kok masih ada order masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "de3652b6-c05a-4d53-acae-ba4cdb3d6087",
+    "data": [
+      {
+        "text": "padahal lagi tutup sementara, knapa malah pesenan diterusin ke saya? batalin aja kalo bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7d0475d6-7f83-4c1b-a9cc-f82e4c672ec0",
+    "data": [
+      {
+        "text": "udah jelas-jelas saya tutup sementara, knapa pesanan masih ada yang bisa masuk sih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "922fd32f-c3ff-45af-9343-5cc948ab5c61",
+    "data": [
+      {
+        "text": "sedang libur tutup toko sementara tapi kok pesanan masih bisa masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "88111f63-ab33-48ac-b02c-d6e84bb41001",
+    "data": [
+      {
+        "text": "kok masih aja order diterusin ke saya, sementara toko sedang tutup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e5c77701-2ab1-4cf4-8e05-53902f243497",
+    "data": [
+      {
+        "text": "saya kok masih dapat pesanan baru ya? toko sudah saya tutup loh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ee3abde1-bb43-426f-9a37-ffd9126c21cf",
+    "data": [
+      {
+        "text": "pesanan masih masuk saat toko tutup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "be5ad605-9b14-41d5-ab33-3f32aa152dbc",
+    "data": [
+      {
+        "text": "saya tidak bersedia menerima order ini karena sedang tutup sementara",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3f5d96e6-fa24-49a2-be66-0d3e1d29c51d",
+    "data": [
+      {
+        "text": "pesanan masih aja masuk, saya sudah tutup toko dari kemarin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f6bd9a2d-4da5-4ad1-8357-fa69fa4e7468",
+    "data": [
+      {
+        "text": "kenapa pesanan baru masuk setelah saya tutup toko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8ecce087-fca5-430e-a03b-e7553a656b73",
+    "data": [
+      {
+        "text": "saya libur dan toko sudah saya atur tutup, tapi order baru masih masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4d3a9688-3630-4dc0-80f5-fdbf84bdef35",
+    "data": [
+      {
+        "text": "pesanan baru masih masuk meskipun toko sudah ditutup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6cc577b8-e0ea-49d8-852a-6a85adb728a4",
+    "data": [
+      {
+        "text": "kan lagi tutup toko, knapa masih dikasih orderan masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a542bebe-0362-4878-ae5e-f739b79019e1",
+    "data": [
+      {
+        "text": "tokonya udah ditutup sementara tapi order masih ada aja yang masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0f19559e-4d14-4467-9e3a-dc9051846a91",
+    "data": [
+      {
+        "text": "udah ku tutup sementara tapi pesenan kok masih aja diterusin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e093d94d-9a43-4dcc-a614-cda814b20b3d",
+    "data": [
+      {
+        "text": "lah saya kan udah tutup toko, kenapa masih ada aja order masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6ed5b85f-df42-48e4-9086-209a9c648cf8",
+    "data": [
+      {
+        "text": "Status toko tutup, kenapa ada order baru bisa masuk ke toko saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dd0f8af1-60a2-4673-bec1-d196fa7e6593",
+    "data": [
+      {
+        "text": "sudah tutup toko mengapa masih dapat order baru",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e3f67faf-e8bd-46d0-b643-8fabfc342cf9",
+    "data": [
+      {
+        "text": "toko sudah ku tutup krn mau libur, tapi masih aja ada pesenan masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8ddc9a76-8195-4de7-80fb-6d3a2f5bda96",
+    "data": [
+      {
+        "text": "order masih masuk padahal saya sudah tutup toko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d1037b76-ea61-4c7a-871c-684c9be773f4",
+    "data": [
+      {
+        "text": "saya sudah tutup toko dari ",
+        "userDefined": false
+      },
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi masih dapat order baru",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e8732c9c-fb2f-432e-bd72-169eb05ff89d",
+    "data": [
+      {
+        "text": "masih aja ada order masuk padahal sudah tutup toko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bf562a99-1368-4191-b4fe-f8509bb3a2a5",
+    "data": [
+      {
+        "text": "pesanan baru masuk setelah saya tutup toko, gimana ini?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ce35e72a-72a6-4357-9f25-0c4125077d32",
+    "data": [
+      {
+        "text": "order baru tetap masuk padahal toko sedang tutup sementara",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a6c8ccc0-c3e9-4b63-a5f5-f228d46e9be2",
+    "data": [
+      {
+        "text": "saya kan lagi tutup sementara, gimana bisa pesanan masih dikasih masuk ke saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f0bc8a3d-b174-4993-b36f-3b96e81b7c92",
+    "data": [
+      {
+        "text": "toko tidak aktif sementara karena libur, tapi pesanan baru masih masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "24a064b3-b373-420c-9cfa-76ee8fce36ec",
+    "data": [
+      {
+        "text": "produk jualan sudah saya gudangkan dari pagi, tapi kenapa masih ada yang bisa beli?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

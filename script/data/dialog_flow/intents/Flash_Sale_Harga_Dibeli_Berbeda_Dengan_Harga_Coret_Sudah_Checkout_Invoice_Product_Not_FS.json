@@ -1,0 +1,43 @@
+{
+  "id": "5a118a56-34a6-4e98-b93a-7af05daf1702",
+  "parentId": "c10bf81a-f871-4ee5-b245-0864be029bd6",
+  "rootParentId": "531bada3-61be-44f9-9ccf-a308436b6e0f",
+  "name": "Flash_Sale_Harga_Dibeli_Berbeda_Dengan_Harga_Coret_Sudah_Checkout_Invoice_Product_Not_FS",
+  "auto": true,
+  "contexts": [
+    "Flash_Sale_Harga_Dibeli_Berbeda_Dengan_Harga_Coret_Sudah_Checkout_Invoice_Product-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Flash_Sale_Harga_Dibeli_Berbeda_Dengan_Harga_Coret_Sudah_Checkout_Invoice_Product_Not_FS-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Tolong lampirkan screenshoot halaman produk yang berkendala ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535709091,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "is_not_flash_sale"
+    }
+  ]
+}

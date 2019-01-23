@@ -1,0 +1,8 @@
+[
+  {
+    "value": "@day:tkpd_day @month:tkpd_month @sys.number:tkpd_year",
+    "synonyms": [
+      "@day:tkpd_day @month:tkpd_month @sys.number:tkpd_year"
+    ]
+  }
+]

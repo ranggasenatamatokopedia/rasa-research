@@ -1,0 +1,36 @@
+{
+  "id": "c64f2c1b-3021-4b41-bf83-215372837999",
+  "name": "FAQ_Order_Konsekuensi_Jika_Penjual_Tidak_Merespon_Pesanan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika Kakak tidak merespons pesanan dari pembeli, ada 3 konsekuensi yang akan terjadi:\n\n1. Produk  dipindahkan ke Stok Kosong\n2. Jumlah persentase transaksi sukses menurun\n3. Nilai reputasi berkurang 2 poin"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Agar tidak menerima konsekuensi di atas, usahakan kamu selalu merespons pesanan yang masuk ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_order_konsekuensi_jika_penjual_tidak_merespon_pesanan"
+    }
+  ]
+}

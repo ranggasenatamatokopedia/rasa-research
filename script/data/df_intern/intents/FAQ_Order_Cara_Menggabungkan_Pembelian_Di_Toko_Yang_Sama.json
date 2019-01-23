@@ -1,0 +1,36 @@
+{
+  "id": "e0493134-df0c-4c1c-82d1-210af12999da",
+  "name": "FAQ_Order_Cara_Menggabungkan_Pembelian_Di_Toko_Yang_Sama",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa melakukan pembelian beberapa jenis produk di toko yang sama, dengan langkah berikut :\n\n1. Pilih produk yang kamu inginkan\n2. Klik \"Beli\"\n3. Tentukan jumlah barang dan isi catatan untuk penjual\n4. Klik \"Nama Toko\" atau \"Penjual\" lalu Ikuti langkah 1 sampai 3\n5. Klik \"Checkout\"\n6. Isi alamat pengiriman dan \"Pilih Kurir\"\n7. Klik \"Bayar\" dan pilih metode pembayaran."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped infokan juga ya, ongkos kirim pembelian produk di toko yang sama tidak dapat digabung untuk : \n1. Pembelian produk Pre-Order\n2. Pengiriman ke beberapa alamat."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_order_cara_menggabungkan_pembelian_di_toko_yang_sama"
+    }
+  ]
+}

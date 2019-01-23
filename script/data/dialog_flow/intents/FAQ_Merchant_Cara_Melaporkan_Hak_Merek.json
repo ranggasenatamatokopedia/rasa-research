@@ -1,0 +1,32 @@
+{
+  "id": "b7ffea03-ec04-42b1-8fa4-b928517343ea",
+  "name": "FAQ_Merchant_Cara_Melaporkan_Hak_Merek",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa melaporkan pelanggaran hak merek melalui form !TKPD_URL_PELAPORAN_HAK_MEREK!. Pastikan kamu mengisi form yang disediakan secara lengkap untuk mempermudah proses pengecekan."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah melengkapi form pelaporan hak merek, kamu bisa menunggu Tim Legal Tokopedia melakukan pengecekan. Kalau pengecekannya sudah selesai, kamu akan menerima pemberitahuannya melalui email."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

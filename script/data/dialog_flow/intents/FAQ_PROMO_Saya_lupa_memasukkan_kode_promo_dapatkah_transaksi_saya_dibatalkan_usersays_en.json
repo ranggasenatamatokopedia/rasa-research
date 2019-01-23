@@ -1,0 +1,403 @@
+[
+  {
+    "id": "565a3025-75fb-4e6d-8b5b-1cfb7db8811f",
+    "data": [
+      {
+        "text": "lupa gunakan kupon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "57f4098e-9e8d-48b4-b193-3472759a255a",
+    "data": [
+      {
+        "text": "Saya ingin membatalkan transaksi, dikarenakan tidak memasukkan kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "6e3c4e62-c764-4a0d-9e03-14a867cd1160",
+    "data": [
+      {
+        "text": "saya belum memasukan kode promo Garuda food, apakah pesanan bisa dibatalkan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8d672c26-f8b4-45f4-bdbb-fdcad5da5f47",
+    "data": [
+      {
+        "text": "Saya ingin mengcancel order, karena saya ingin menambah 1 lagi quantity dari barang tersebut, dan ingin menggunakan promo gratis ongkir. Apakah boleh di bantu untuk mengcancel?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "fbc01743-f3d3-4b79-b8cd-c70659341aa7",
+    "data": [
+      {
+        "text": "lupa memasukan kode promo..mau cancel tapi tidak ada tombol klik ajukan pembatalan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4935970f-4acc-498e-86f0-eb965ca56186",
+    "data": [
+      {
+        "text": "penjual menyarankan membatalkan pesanan sebab pembelian lupa memasukkan kode promo garudafood",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "24c78d32-e817-4ea9-8dc2-78ec39a39512",
+    "data": [
+      {
+        "text": "saya ingin membatalkan pesanan sebab tidak memasukan kode promo garudafood pada transaksi ini. caranya membatalkan bagaimana ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "26a6aa67-fa8b-4e79-8a0f-cda10726486d",
+    "data": [
+      {
+        "text": "Mohon dibatalkan, Transaksi sy pembelian garuda food. saya lupa input kode promo utk cash back",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a5fd92d-36fb-429a-b96e-9016690b0dc4",
+    "data": [
+      {
+        "text": "lupa memasukkan kode promo, tolong bantu cancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "340c2168-af0f-4b0f-a745-649093b54598",
+    "data": [
+      {
+        "text": "saya belum memasukkan kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "85b19969-6cc5-42aa-8385-036d9c8e885f",
+    "data": [
+      {
+        "text": "pembatalan transaksi, karena belum memasukkan kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "132c8f15-2598-48fe-a102-6b560d2c7291",
+    "data": [
+      {
+        "text": "mau minta tolong di cancel, karna saya salah input pesanan dan lupa masukkan kode promo, mohon kemurahan hatinya min. terimakasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ca53b1ab-7911-4a21-a125-19d0a5524a90",
+    "data": [
+      {
+        "text": "mau cancel krn tidak masukin kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b2e9b6a4-aa6c-4536-8cb8-cc8af76ae62b",
+    "data": [
+      {
+        "text": "Saya ingin membatalkan transaksi untuk invoice nomor 20180108/XVIII/I/127643578 dikarenakan saya tidak lupa memasukin kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "464e94be-2efa-4e61-b0ba-89af8a60eebd",
+    "data": [
+      {
+        "text": "Boleh minta bantu cancel dulu ka? Karena saya blm input kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "890a0221-3c5c-4802-9991-36896e3e5240",
+    "data": [
+      {
+        "text": "saya mau batalkan transaksi ini...karena saya lupa input kode promo\nsaya sudah menghubungi pihak penjual, namun belum ada balasannya\nsaya juga sudah krm pesan ke penjual, tapi belum dijawab",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "11d040f5-6a49-46f9-b492-428b3ac8ba6c",
+    "data": [
+      {
+        "text": "salah masukin kode promo, mau cancle pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7c8f8ea2-62a7-437d-959e-e86f7bf42406",
+    "data": [
+      {
+        "text": "Ingin membatalkan transaksi karena lupa memasukkan kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "fb16f487-0a5c-4ae3-8ec9-f0faf5d75670",
+    "data": [
+      {
+        "text": "saya mau cancel orderan karena saya tidak memasuka kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b7e9e7b9-b1b6-47ae-ba4c-72edcb599365",
+    "data": [
+      {
+        "text": "seinget saya saya belum pake kode promo ini untuk listrik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "33c29030-d139-41fe-b7d3-418a182075b4",
+    "data": [
+      {
+        "text": "Mohon pesanan ini dibatalkan karena tidak menggunakan kode promo.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d647a89a-e64e-4910-96df-e661e38e736e",
+    "data": [
+      {
+        "text": "Saya mau cancel karena kode promo salah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "53bb2c4e-c858-4fd8-b6e1-e5954ed24a8d",
+    "data": [
+      {
+        "text": "saya lupa memeberikan kode promo di pembelian ini dan dapat notifikasi dari penjual agar dibatalkan dan dipesan ulang. Mohon dapat dibatalkan dari Tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "bbb34342-b655-4f9d-a719-19476b6d90b7",
+    "data": [
+      {
+        "text": "Saya mau ajuin pembatalan, dikarenakan tidak menginput kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b7792365-e94c-44e8-9fb3-f4a7114e8436",
+    "data": [
+      {
+        "text": "Tlg dicancel lagi, saya blm masukin kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b1e1c8fa-bd15-476c-9beb-ba581c97be07",
+    "data": [
+      {
+        "text": "mau ajukan pembatalan pesanan karena lupa masukan kode promo sedangkan pesanan sudah di verifikasi.. gimana caranya..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "eb134756-aa5c-439c-89d6-d0fc996e125b",
+    "data": [
+      {
+        "text": "Mohon dibatalkan Transaksi pembelian garuda food, sy lupa input kode promo.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61201573-4303-49b6-950a-a9f3c8664203",
+    "data": [
+      {
+        "text": "saya ingin membatalkan order ini karena lupa memasukkan kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "aee423c3-18e4-41d0-bc84-2afd357f2abd",
+    "data": [
+      {
+        "text": "Hai toped, barusan transaksi sy lupa klik kupon hari ini cashback 20% sd 50rb. Bisa ga ya diproses ulang?Trims",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a7537203-fdf6-4cd9-8793-40dcee4a3d7b",
+    "data": [
+      {
+        "text": "Kalo ingin membatalkan gara gara blum masukin voucher gmna ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "75053ba1-6da4-4c7d-badb-c05bbe322982",
+    "data": [
+      {
+        "text": "saya sudah gunakan kode promo cashback dan sdh trf ternyata tdk masuk diorderan saya, tlg di cancel dl",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ae7f6abb-6f2c-47e9-b818-a1371f6955e0",
+    "data": [
+      {
+        "text": "kak, tadi pesan lupa pake kode promo, gimana yah? penjual suda confirm mau batalin tapi di dia ga ada menunya, bisa dibantu ga kak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0b1ba982-5ebb-4acd-af8a-948a3cb9ad63",
+    "data": [
+      {
+        "text": "saya udah belanja tp dan saya baru inget kalo saya punya voucher cashback, bisa gak di batalin dulu transaksi saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c7b5d6d4-dd10-46d9-8823-364f9a06dc65",
+    "data": [
+      {
+        "text": "masukin voucher ternyata tidak masuk, ingin batalin transaksi lalu masukin ulang voucher nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

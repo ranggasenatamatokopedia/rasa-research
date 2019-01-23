@@ -1,0 +1,35 @@
+[
+  {
+    "id": "101e1a6a-a41d-4c5c-89aa-bfbdc3daf968",
+    "data": [
+      {
+        "text": "upload image",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4cb138bd-5b16-4087-ac3c-cb462b403f50",
+    "data": [
+      {
+        "text": "uploadimage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fe39a486-1b4d-47ec-af65-3d6651b778a1",
+    "data": [
+      {
+        "text": "upload_image",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

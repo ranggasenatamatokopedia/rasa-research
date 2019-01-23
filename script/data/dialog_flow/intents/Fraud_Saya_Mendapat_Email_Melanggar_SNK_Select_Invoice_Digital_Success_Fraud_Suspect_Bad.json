@@ -1,0 +1,54 @@
+{
+  "id": "5d4d3396-7a8e-4aeb-8bde-64f0ecf39e51",
+  "parentId": "b4b48a24-eb25-42e0-8601-2e3219f827c1",
+  "rootParentId": "2f8cbeef-ace2-4920-b98a-19f47da047c4",
+  "name": "Fraud_Saya_Mendapat_Email_Melanggar_SNK_Select_Invoice_Digital_Success_Fraud_Suspect_Bad",
+  "auto": false,
+  "contexts": [
+    "Fraud_Saya_Mendapat_Email_Melanggar_SNK_Select_Invoice_Digital_Success_Fraud-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectSupportMessagePage",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Saya_Mendapat_Email_Melanggar_SNK_Select_Invoice_Digital_Success_Fraud_Suspect_Bad-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah Toped cek, transaksi tersebut masih dalam proses pengecekan. Prosesnya membutuhkan waktu maksimal 1x24 jam."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau transaksi tersebut dinyatakan aman, maka kakak akan mendapatkan cashback. Tapi jika transaksi dinyatakan terindikasi melanggar syarat dan ketentuan, maka Tokopedia akan mengirimkan informasi lebih detail melalui  fitur pesan bantuan."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532070442,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "case_status_suspect"
+    },
+    {
+      "name": "case_status_bad"
+    },
+    {
+      "name": "case_status_on_checking"
+    }
+  ]
+}

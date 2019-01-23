@@ -1,0 +1,43 @@
+{
+  "id": "d55ee706-6b2f-4cd7-a47f-7bc6ff3be61a",
+  "parentId": "df03b041-9395-4c3e-9081-4253f9f12c9d",
+  "rootParentId": "aff6fa6f-2bad-4320-bb2d-dc7125c355a5",
+  "name": "Merchant_Gold_Badge_Tidak_Muncul_GM_More_Equal_75",
+  "auto": true,
+  "contexts": [
+    "Merchant_Gold_Badge_Tidak_Muncul_GM-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckLastTimeClearCache",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Gold_Badge_Tidak_Muncul_GM_More_Equal_75-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536555065,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "more_equal_75"
+    }
+  ]
+}

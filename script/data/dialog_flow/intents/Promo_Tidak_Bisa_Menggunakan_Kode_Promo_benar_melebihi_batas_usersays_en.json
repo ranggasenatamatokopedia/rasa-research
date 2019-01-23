@@ -1,0 +1,168 @@
+[
+  {
+    "id": "3ee67ee1-db27-479a-974c-91583dd51ce3",
+    "data": [
+      {
+        "text": "batas penggunaan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "49a6ab63-e8be-4948-853f-c637fc82ecce",
+    "data": [
+      {
+        "text": "over_use",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ddb8ad08-47af-42aa-a884-b897872cdb19",
+    "data": [
+      {
+        "text": "saya mendapat pesan akun tokopedia anda sudah melebihi batas penggunaan promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1a0352a7-e5f2-43b2-97ad-4183f8b200f5",
+    "data": [
+      {
+        "text": "Muncul pesan sudah melebihi batas penggunaan kode promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "13be8843-9642-483f-8f79-2de50ce3937f",
+    "data": [
+      {
+        "text": "kedua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7dbab5a8-fddf-439d-97c1-a8761961fc4f",
+    "data": [
+      {
+        "text": "ada pemberitahuan sudah melebihi batas penggunaan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1e6c6a23-bc78-4e76-ad47-8e5defda92d0",
+    "data": [
+      {
+        "text": "akun tokopedia anda sudah melebihi batas penggunaan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "77b57117-fc48-458a-a4f2-10aa2c62c866",
+    "data": [
+      {
+        "text": "sudah melebihi batas penggunaan promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5e710472-811c-4f62-b844-efa4e5336541",
+    "data": [
+      {
+        "text": "akun tokopedia anda sudah melebihi batas penggunaan promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dfcb9504-6c23-4f1d-9ddc-1ca66757664a",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ba3fd79a-ce8b-4015-bdc6-d8b42743f973",
+    "data": [
+      {
+        "text": "keterangannya sudah melebihi batas penggunaan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3cae96e3-7e8a-4e35-9bca-21f9491e0b0a",
+    "data": [
+      {
+        "text": "dua",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "71d96fc0-aaa1-4273-9ce1-312967bbd853",
+    "data": [
+      {
+        "text": "akun melebihi batas penggunaan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a87fa68d-a9a7-4c90-ba49-f18a34a67136",
+    "data": [
+      {
+        "text": "account tokopedia anda sudah melebihi batas penggunaan promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d0ed8bf2-6897-46ef-9c14-b9d9b40ab739",
+    "data": [
+      {
+        "text": "ditulis melebihi batas penggunaan promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

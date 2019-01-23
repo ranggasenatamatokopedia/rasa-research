@@ -1,0 +1,63 @@
+[
+  {
+    "id": "824dc8ff-ec67-430c-8e97-4d02a0e4042e",
+    "data": [
+      {
+        "text": "ke ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f16040d7-0966-4d7f-ac38-01e820ad4845",
+    "data": [
+      {
+        "text": "yg ke 2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6ea0308c-6e79-4820-a0f4-3bbc46f1a571",
+    "data": [
+      {
+        "text": "kedua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f465781f-d686-4319-8940-b44e70bdd486",
+    "data": [
+      {
+        "text": "ke email lain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6a294b24-63f0-4f68-b226-a6ef9c3e941e",
+    "data": [
+      {
+        "text": "ke email yang lain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

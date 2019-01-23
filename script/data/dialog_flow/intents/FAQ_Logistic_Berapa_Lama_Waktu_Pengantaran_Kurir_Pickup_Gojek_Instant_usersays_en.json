@@ -1,0 +1,113 @@
+[
+  {
+    "id": "744e8b98-1497-40ff-a8a4-f8672ebb1003",
+    "data": [
+      {
+        "text": "inskur",
+        "alias": "layanan_kurir_pick_up",
+        "meta": "@layanan_kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f5cc94b0-a1d7-4f4d-8bfd-d19e37969611",
+    "data": [
+      {
+        "text": "instant courier",
+        "alias": "layanan_kurir_pick_up",
+        "meta": "@layanan_kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a5d903e1-2c02-409a-a887-0bf1df5de81e",
+    "data": [
+      {
+        "text": "instan kurir",
+        "alias": "layanan_kurir_pick_up",
+        "meta": "@layanan_kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "00c38f61-368f-4255-99f5-f03ee5a6c789",
+    "data": [
+      {
+        "text": "nomor ",
+        "userDefined": false
+      },
+      {
+        "text": "dua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2ee174e9-40d5-40ad-8c2f-dd3ddc47361b",
+    "data": [
+      {
+        "text": "instant kurir",
+        "alias": "layanan_kurir_pick_up",
+        "meta": "@layanan_kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b7414696-1f9c-4fa1-9365-e60b19b52c10",
+    "data": [
+      {
+        "text": "instan",
+        "alias": "layanan_kurir_pick_up",
+        "meta": "@layanan_kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f85c137a-e7de-4c89-a57b-ebd852d0f2e5",
+    "data": [
+      {
+        "text": "yang ",
+        "userDefined": false
+      },
+      {
+        "text": "instant courier",
+        "alias": "layanan_kurir_pick_up",
+        "meta": "@layanan_kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "be5737b0-6863-4f65-a99c-a5652c026a35",
+    "data": [
+      {
+        "text": "instant",
+        "alias": "layanan_kurir_pick_up",
+        "meta": "@layanan_kurir_pick_up",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,151 @@
+[
+  {
+    "id": "afda92f3-a706-4fd4-90d9-63cfea502606",
+    "data": [
+      {
+        "text": "belom",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ef17cbeb-80f2-416e-b3b8-4d1f98f9b45a",
+    "data": [
+      {
+        "text": "belum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "625615f1-650a-42e1-893f-a6dbaf249ba0",
+    "data": [
+      {
+        "text": "tidak ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "246181d9-0ccf-4f5a-9fb6-fa4cca663be3",
+    "data": [
+      {
+        "text": "ga saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c4ac0180-9a99-427e-bf95-fcb435066b04",
+    "data": [
+      {
+        "text": "belum minn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "59b0cd68-988f-4f47-b3d6-6e908254e680",
+    "data": [
+      {
+        "text": "blm ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bd679231-7876-4642-bfaf-f688d0435458",
+    "data": [
+      {
+        "text": "belum ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "50565574-d317-4133-8d37-b5455f6e44f1",
+    "data": [
+      {
+        "text": "belum saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "522023b0-2e6c-4fba-b336-3cc62484f954",
+    "data": [
+      {
+        "text": "belum ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fd4fe496-26f6-48ed-b9c1-88d3f1d8b8bd",
+    "data": [
+      {
+        "text": "belumm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "09dfcc04-9645-4d37-b4dd-c07695772266",
+    "data": [
+      {
+        "text": "beloman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "35983073-7706-4d5a-a002-d851f5519a69",
+    "data": [
+      {
+        "text": "blm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c4df3890-4acf-42f4-bf4d-dbce5a8f0ac1",
+    "data": [
+      {
+        "text": "belum nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

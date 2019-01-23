@@ -1,0 +1,146 @@
+[
+  {
+    "id": "2fb4c31e-0241-4379-8bf1-ea0be43e15a3",
+    "data": [
+      {
+        "text": "satu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d3df4617-7d38-418a-937a-b30bdb11947a",
+    "data": [
+      {
+        "text": "kesatu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9324c15f-f5c3-4f38-ab9a-111b15040616",
+    "data": [
+      {
+        "text": "yang ",
+        "userDefined": false
+      },
+      {
+        "text": "pertama",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6c21dd08-7912-496d-b6a2-304f889956d6",
+    "data": [
+      {
+        "text": "ke-1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "55f240b9-552c-411a-9a81-662885ec1a1d",
+    "data": [
+      {
+        "text": "pertama",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "121da2da-a734-472a-ab6c-b995fc27677e",
+    "data": [
+      {
+        "text": "1. diskusi (talk)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ae3b2cf6-19ff-411b-95b5-9b31c89048a5",
+    "data": [
+      {
+        "text": "talk discussion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b0a021c9-8fef-41e5-98aa-22db781f125c",
+    "data": [
+      {
+        "text": "discussion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1beda305-d620-4f9a-8b80-350aaac11e37",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". diskusi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "83abeb70-342f-41b6-9b7f-564db38e65d2",
+    "data": [
+      {
+        "text": "diskusi (talk)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5df1e268-5c3f-4b93-b8cc-b33d1226e1d7",
+    "data": [
+      {
+        "text": "diskusi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "be5aac5d-1927-4a45-82d4-fc954afb48f9",
+    "data": [
+      {
+        "text": "talk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

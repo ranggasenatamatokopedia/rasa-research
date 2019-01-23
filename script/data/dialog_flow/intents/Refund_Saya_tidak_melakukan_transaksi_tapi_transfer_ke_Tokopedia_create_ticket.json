@@ -1,0 +1,121 @@
+{
+  "id": "0f2918a4-e10d-4794-b8e3-790804b2d2c3",
+  "parentId": "3cdec0fa-d375-41ed-94be-73d66e9490f6",
+  "rootParentId": "3cdec0fa-d375-41ed-94be-73d66e9490f6",
+  "name": "Refund_Saya_tidak_melakukan_transaksi_tapi_transfer_ke_Tokopedia_create_ticket",
+  "auto": true,
+  "contexts": [
+    "Refund_Saya_tidak_melakukan_transaksi_tapi_transfer_ke_Tokopedia-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Refund_Saya_tidak_melakukan_transaksi_tapi_transfer_ke_Tokopedia_create_ticket-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "383e50a5-e4ce-48e7-a2be-222c8b8c3d50",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "11",
+          "prompts": [],
+          "isList": false
+        },
+        {
+          "id": "3ce33926-f20d-4a34-bf4f-78a2255f30a6",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "nomor_rekening",
+          "value": "$nomor_rekening",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Mohon infokan nomor rekening untuk pengembalian dananya ya Kak"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "b128818f-6c60-46dd-bab9-d9aa90ae2890",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "nama",
+          "value": "$nama",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Mohon infokan juga nama lengkap pemilik rekeningnya ya Kak"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "1a046f3e-e8ff-483a-8f65-4102dac2a4c6",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "nama_bank",
+          "value": "$nama_bank",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Selanjutnya, mohon infokan nama banknya ya Kak"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "499d76f7-539c-4535-a0ca-da1d49d2986a",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "cabang_bank",
+          "value": "$cabang_bank",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Terakhir, mohon infokan nama cabang banknya ya Kak"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "d58ebeeb-484d-4695-aa71-00e546c0673e",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Refund_Saya_tidak_melakukan_transaksi_tapi_transfer_ke_Tokopedia"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon tunggu sebentar, ya :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525418175,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

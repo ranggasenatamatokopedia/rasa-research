@@ -1,0 +1,43 @@
+{
+  "id": "84c310ff-6501-4a83-b20c-83c20dddc780",
+  "parentId": "3886ce5a-500f-4198-958b-467434d06883",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_waiting_retry_option_request_refund_failed",
+  "auto": false,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_waiting_retry_option_batalkan-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckHistoryRefundDigital",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_waiting_retry_option_request_refund_failed-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535945769,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "status_failed"
+    }
+  ]
+}

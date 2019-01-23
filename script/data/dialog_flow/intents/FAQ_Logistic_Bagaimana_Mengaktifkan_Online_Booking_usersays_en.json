@@ -1,0 +1,538 @@
+[
+  {
+    "id": "c0305748-bc50-4aa8-b130-d26497b3c1c0",
+    "data": [
+      {
+        "text": "apakah sistem ",
+        "userDefined": false
+      },
+      {
+        "text": "JOB",
+        "alias": "kurir_reguler",
+        "meta": "@kurir_reguler",
+        "userDefined": true
+      },
+      {
+        "text": "/resi otomatis sudah tidak ada ??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8642784d-dd31-40ad-bb72-96feeaf41d05",
+    "data": [
+      {
+        "text": "resi otomatis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f0dc724e-076b-4745-8121-cd7a83370807",
+    "data": [
+      {
+        "text": "cara pengiriman ",
+        "userDefined": false
+      },
+      {
+        "text": "j\u0026t",
+        "alias": "kurir_reguler",
+        "meta": "@kurir_reguler",
+        "userDefined": false
+      },
+      {
+        "text": " resi otomatis??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7afea79b-253f-4d4a-bfa4-067de24cbcf3",
+    "data": [
+      {
+        "text": "Saya pengen pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "J\u0026T",
+        "alias": "kurir_reguler",
+        "meta": "@kurir_reguler",
+        "userDefined": false
+      },
+      {
+        "text": " otomatis ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", bisa dibantu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ed47618a-afc6-4bd7-8f6b-3d0ea98181c9",
+    "data": [
+      {
+        "text": "Saya mau aktifkan online booking, tolong dibantu untuk ",
+        "userDefined": false
+      },
+      {
+        "text": "J\u0026T",
+        "alias": "kurir_reguler",
+        "meta": "@kurir_reguler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c63a802f-406d-4a94-b1bb-1ca76ca6f34d",
+    "data": [
+      {
+        "text": "Mohon informasi cara aktifkan Onling booking.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0328ff5b-8109-4c7b-8746-216f22b56d17",
+    "data": [
+      {
+        "text": "Saya mau aktifkan online booking, tolong dibantu.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "829b0474-a4fd-47f7-af97-a5881af36dda",
+    "data": [
+      {
+        "text": "Bisa dibantu aktifkan ",
+        "userDefined": false
+      },
+      {
+        "text": "J\u0026T",
+        "alias": "kurir_reguler",
+        "meta": "@kurir_reguler",
+        "userDefined": false
+      },
+      {
+        "text": " Otomatis pada Toko saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2e0a33af-127b-4d85-89fb-e1cfdaaa2d0e",
+    "data": [
+      {
+        "text": "Saya mau aktifin JOB dong, caranya gimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3
+  },
+  {
+    "id": "b062ec80-878d-42aa-a373-ae499edc7085",
+    "data": [
+      {
+        "text": "Mohon informasi gimana caranya aktifin online booking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9a254a53-52a7-4969-97d6-b83b5f843cf3",
+    "data": [
+      {
+        "text": "J\u0026T",
+        "alias": "kurir_reguler",
+        "meta": "@kurir_reguler",
+        "userDefined": false
+      },
+      {
+        "text": " Otomatis saya blm aktif, aktifinnya gimana? Bisa dibantu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "77236baf-bbe0-4ba4-8055-87742a06d80d",
+    "data": [
+      {
+        "text": "Saya mau aktifin ",
+        "userDefined": false
+      },
+      {
+        "text": "J\u0026T",
+        "alias": "kurir_reguler",
+        "meta": "@kurir_reguler",
+        "userDefined": false
+      },
+      {
+        "text": " AWB Otomatis dong, caranya gimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6e219fdd-df06-4d0e-8293-db6f74bf87d6",
+    "data": [
+      {
+        "text": "Mohon informasi cara aktifkan JOB.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0f185339-cfcf-4cda-b71b-f1f1ca31122a",
+    "data": [
+      {
+        "text": "Caranya aktifin JOB gimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cf5a7128-cc99-4a2c-ac17-70bf4936a3a8",
+    "data": [
+      {
+        "text": "Saya mau aktifkan online booking, tolong dibantu untuk ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "alias": "kurir_reguler",
+        "meta": "@kurir_reguler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0eb4a4d4-7e91-433d-8833-5acc4b3a6f90",
+    "data": [
+      {
+        "text": "Saya mau aktifin online booking dong, caranya gimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6617a23b-cfa9-496e-a72c-b215fdb6f31b",
+    "data": [
+      {
+        "text": "Saya mau tau dong cara aktifin ",
+        "userDefined": false
+      },
+      {
+        "text": "J\u0026T",
+        "alias": "kurir_reguler",
+        "meta": "@kurir_reguler",
+        "userDefined": false
+      },
+      {
+        "text": " Otomatis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1bab87b9-9f8a-4d50-9c6e-a9e2cb6c5d35",
+    "data": [
+      {
+        "text": "Mohon informasi cara aktifkan ",
+        "userDefined": false
+      },
+      {
+        "text": "J\u0026T",
+        "alias": "kurir_reguler",
+        "meta": "@kurir_reguler",
+        "userDefined": false
+      },
+      {
+        "text": " Otomatis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "00017399-5f62-498e-b09a-8e4819115ff3",
+    "data": [
+      {
+        "text": "Bisa dibantu aktifkan Online booking pada Toko saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a10e97eb-517d-40b5-b69d-7bff52418ec5",
+    "data": [
+      {
+        "text": "JOB saya blm aktif, aktifinnya gimana? Bisa dibantu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ac1d5324-c846-4495-83f6-5d4725afc420",
+    "data": [
+      {
+        "text": "Caranya aktifin ",
+        "userDefined": false
+      },
+      {
+        "text": "J\u0026T",
+        "alias": "kurir_reguler",
+        "meta": "@kurir_reguler",
+        "userDefined": false
+      },
+      {
+        "text": " Otomatis gimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a89d06f3-11ea-4c4a-b434-b5d73ceae05a",
+    "data": [
+      {
+        "text": "Saya mau tau dong cara aktifin Online booking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "47d1b00a-0069-4ddc-b3d5-c0b05c6a8006",
+    "data": [
+      {
+        "text": "Online booking saya blm aktif, aktifinnya gimana? Bisa dibantu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1f670f60-fbb9-48b1-aa83-056f4d5af412",
+    "data": [
+      {
+        "text": "Saya mau tau dong cara aktifin JOB",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dc0defb4-2767-4810-bc78-01c4ae5d6c1f",
+    "data": [
+      {
+        "text": "Bisa dibantu aktifkan JOB pada Toko saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d2f0c6c4-5d0f-4094-ab0e-2ccf422157b1",
+    "data": [
+      {
+        "text": "cara pengiriman g\u0026amp;t resi otomatis??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2b7014bd-76ce-4722-bda0-40e354daed1b",
+    "data": [
+      {
+        "text": "apakah sistem JOB/resi otomatis sudah tidak ada ??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a97f2415-0207-41ba-83f2-27755d70f58b",
+    "data": [
+      {
+        "text": "mohon di aktif kan sistem resi AWB Otomatis utk pengiriman via JNT kita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fbd8631e-68bb-4141-8694-724fab37f597",
+    "data": [
+      {
+        "text": "kenapa pada settingan pengiriman saya bagian j\u0026t tidak ada kolom AWB otomatisnya. tp pada jne ada.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0940470c-6cf9-4c5c-b6dd-4ea27fbe259f",
+    "data": [
+      {
+        "text": "bagaimana cara mengaktifkan awb jne biar resi bisa diinput otomatis oleh pihak jne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e29a7de4-a217-41d7-9ccd-546139bed775",
+    "data": [
+      {
+        "text": "bagaimana cara mengaktifkan online booking utk resi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2918f380-849e-4e7f-b6f4-b9fa480d73b3",
+    "data": [
+      {
+        "text": "bagai mana cara menggunakan resi otomatis J\u0026T",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ec9b3eb1-6468-4712-8633-14f0d52e43c3",
+    "data": [
+      {
+        "text": "jnt nya ga ada pilihat awb otomatis, di pilihan pengiriman jnt saya kok.tidak ada pilihan awb otomatis ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ffb22731-d28c-4bbb-a559-443db5e4266c",
+    "data": [
+      {
+        "text": "bagaimana cara mengaktifkan awb jne, agar resi bs langsung diinput otomatis oleh jnekarna kami sistem pickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "734ed1aa-ba9e-4215-a154-695cbddd9494",
+    "data": [
+      {
+        "text": "fitur JOB apa harus lewat komputer aktivasinya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0cbee0d5-3064-4297-90bc-a429d962634e",
+    "data": [
+      {
+        "text": "cara mengaktifkan fitur J\u0026T AWB otomatis. karena pada fitur pengiriman tidak ada opsi tambahan pada J\u0026T",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "11883305-bcec-4e09-88aa-c2676009dde8",
+    "data": [
+      {
+        "text": "bagaimana cara mengaktifkan resi J\u0026T otomatis jadi tidak perlu membayar cash ke kurir?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1663f07c-8fed-4dbc-a9b4-c13c89e51828",
+    "data": [
+      {
+        "text": "Apa pengiriman via j\u0026t di toped sudah memakai kodr boking pengiriman?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "52288aa6-882f-474d-9038-fae29e3aec22",
+    "data": [
+      {
+        "text": "fitur JOB apa harus lewat komputer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

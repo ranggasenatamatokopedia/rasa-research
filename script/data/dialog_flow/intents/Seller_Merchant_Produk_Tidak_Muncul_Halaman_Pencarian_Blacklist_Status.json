@@ -1,0 +1,43 @@
+{
+  "id": "dc3f35e6-997b-4f87-ae30-7dfbf59ab4c4",
+  "parentId": "c86917d3-309c-4358-9952-f60fb9d92a1d",
+  "rootParentId": "6f5a3f14-d1e3-439d-92d9-cdd77e2da07f",
+  "name": "Seller_Merchant_Produk_Tidak_Muncul_Halaman_Pencarian_Blacklist_Status",
+  "auto": true,
+  "contexts": [
+    "Seller_Merchant_Produk_Tidak_Muncul_Halaman_Pencarian-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckBlacklistKeyword",
+      "affectedContexts": [
+        {
+          "name": "Seller_Merchant_Produk_Tidak_Muncul_Halaman_Pencarian_Blacklist_Status-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon tunggu sebentar ya, Kak. Toped cek dulu."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531906420,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "blacklist_status"
+    }
+  ]
+}

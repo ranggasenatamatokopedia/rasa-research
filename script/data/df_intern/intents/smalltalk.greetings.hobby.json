@@ -1,0 +1,31 @@
+{
+  "id": "35a01ed8-c774-472c-be45-034d8df6d2b1",
+  "name": "smalltalk.greetings.hobby",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hobi Toped belanja di Tokopedia karena banyak promonya dan bagus pelayanannya. Kamu juga kan pastinya? Yuk #mulaiajadulu"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "smalltalk_greetings_hobby"
+    }
+  ]
+}

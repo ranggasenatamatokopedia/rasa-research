@@ -1,0 +1,37 @@
+{
+  "id": "c5604f03-6251-418a-b520-42193e04c435",
+  "parentId": "c10b0899-51ac-49a0-a576-c55898db7a10",
+  "rootParentId": "e1fd67c7-5a72-4184-9a6c-bda4c6e61524",
+  "name": "Logistic_Pengiriman_Tidak_Tersedia_As_Buyer_Pin_Point_Available_Select_Courier",
+  "auto": true,
+  "contexts": [
+    "Logistic_Pengiriman_Tidak_Tersedia_As_Buyer_Pin_Point_Available-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SelectCourier",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Pengiriman_Tidak_Tersedia_As_Buyer_Pin_Point_Available_Select_Courier-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538365081,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "selected_data"
+    }
+  ]
+}

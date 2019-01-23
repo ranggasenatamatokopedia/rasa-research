@@ -1,0 +1,35 @@
+[
+  {
+    "id": "b84b7e5a-d0ed-4dba-98ff-cf52d4ef4a5a",
+    "data": [
+      {
+        "text": "sedang diresolusi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "90d9091d-9c3e-44a6-a716-705068d89cae",
+    "data": [
+      {
+        "text": "resolusi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ec30ef17-e64b-401c-9b3b-943f48b2aa0f",
+    "data": [
+      {
+        "text": "invoice_pesanan_dikomplain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

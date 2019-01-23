@@ -1,0 +1,79 @@
+{
+  "id": "ec2713df-f32e-4ba7-b699-e6c9f059d299",
+  "parentId": "b4177307-e02d-4383-944d-5972321b7922",
+  "rootParentId": "2f8cbeef-ace2-4920-b98a-19f47da047c4",
+  "name": "Fraud_Saya_Mendapat_Email_Melanggar_SNK_Select_Invoice_Digital_Not_Success",
+  "auto": false,
+  "contexts": [
+    "Fraud_Saya_Mendapat_Email_Melanggar_SNK_Select_Invoice_Digital-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Saya_Mendapat_Email_Melanggar_SNK_Select_Invoice_Digital_Not_Success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah Toped cek, status transaksi atas invoice yang kamu pilih belum sukses. Mohon untuk di cek kembali atas invoice yang kamu pilih ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532069812,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_pending"
+    },
+    {
+      "name": "invoice_waiting_scheduler"
+    },
+    {
+      "name": "invoice_waiting_retry_option"
+    },
+    {
+      "name": "invoice_waiting_third_party"
+    },
+    {
+      "name": "invoice_queue"
+    },
+    {
+      "name": "invoice_retry"
+    },
+    {
+      "name": "invoice_waiting_payment"
+    },
+    {
+      "name": "invoice_waiting_transfer"
+    },
+    {
+      "name": "invoice_to_be_settled"
+    },
+    {
+      "name": "invoice_settled"
+    },
+    {
+      "name": "invoice_refund"
+    },
+    {
+      "name": "invoice_failed"
+    },
+    {
+      "name": "invoice_cancelled"
+    }
+  ]
+}

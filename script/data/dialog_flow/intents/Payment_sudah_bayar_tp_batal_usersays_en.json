@@ -1,0 +1,1321 @@
+[
+  {
+    "id": "48f72007-0ff8-45ae-96ab-06675baa8e58",
+    "data": [
+      {
+        "text": "saya uda transaksi melalui ",
+        "userDefined": false
+      },
+      {
+        "text": "indomaret",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "., tpi pesanan saya smua di batalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4c00a942-e0d6-46e4-bdc6-481f4dd331e0",
+    "data": [
+      {
+        "text": "Hi, saya ",
+        "userDefined": false
+      },
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bayar tagihan pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tapi katanya transaksi dibatalkan, padahal saya udah bayar, uwang saya gmna ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "374b20ac-9ff2-4dca-8e4e-918cc9f1b3d1",
+    "data": [
+      {
+        "text": "saya terlanjur tt. transaksi d batalkan krn lebih dr ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " jam..bole d balikin kk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c2cda309-1cd8-4893-a35f-7c1330270a06",
+    "data": [
+      {
+        "text": "Saya sudah transfer sebelum batas waktu tempo, namun malah transaksi dibatalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "85a35489-8768-4a53-ad0d-887295c0cfee",
+    "data": [
+      {
+        "text": "sudah transfer namun pesanan dibatalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cafa83a7-d923-42bf-9c68-1d0cfd40846a",
+    "data": [
+      {
+        "text": " Saya sudah transfer namun pesenan sudah saya batalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "58cf8547-7e1c-4725-853c-a8bd59fc379c",
+    "data": [
+      {
+        "text": " Sudah transfer ",
+        "userDefined": false
+      },
+      {
+        "text": "tapi sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dbatalkan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8c6a41ec-ab74-40ae-9b82-775bd66d8a77",
+    "data": [
+      {
+        "text": "Saya sudah transfer dengan jumlah yang ditentukan tetapi pesanan dibatalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "41b69e63-4a32-4ec6-b773-b3ad0bbc14e5",
+    "data": [
+      {
+        "text": "Saya sudah transfer namun status dibatalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6c5c0a68-0c53-4bfb-a331-1d40e5e5ec99",
+    "data": [
+      {
+        "text": "Saya sudah transfer namun salah dalam hal metode pembayaran jadi saya batalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "77a1a409-5c8f-438c-b974-e6dbdb414574",
+    "data": [
+      {
+        "text": "Saya sudah menstransferkan ",
+        "userDefined": false
+      },
+      {
+        "text": "dana  cmn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " oleh pihak tokopedia dibatalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ea691562-f540-4b48-9320-780b63121e98",
+    "data": [
+      {
+        "text": "Saya sudah transfer sesuai jumlah namun tidak kunjung diverifikasi oleh pihak tokopedia sampai batas wkt verifikasi habis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b6c305c3-dd4d-4e39-b6d3-4a911b84c8a2",
+    "data": [
+      {
+        "text": "sudah bayar tapi batal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1b581592-fe9a-4cd0-9810-34b659da8e9d",
+    "data": [
+      {
+        "text": "sudah bayar kok batal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0c277fb9-902b-4d8e-a2b7-52a88debdc9e",
+    "data": [
+      {
+        "text": "Saya bayar sebelum deadline lho kak. Gimana bisa batal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7c46ee02-4dbf-4748-bb66-329b60417cdc",
+    "data": [
+      {
+        "text": "saya sudah bayar kenapa batal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "08416f28-ad36-41be-b1b1-df63bc663ac1",
+    "data": [
+      {
+        "text": "saya sudah bayar kok dibatalkan transaksinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "204bf008-bf4e-48f4-8e6b-421424ec1731",
+    "data": [
+      {
+        "text": "sudah transfer tapi pesanan batal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "35f74c0f-b0b2-4ded-9c9e-6e238f7717d0",
+    "data": [
+      {
+        "text": " Transaksi ini sudah di batalkan, saya sudah mentransfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "64991872-da18-477d-a18f-472951c7f354",
+    "data": [
+      {
+        "text": "Sudah transfer namun pesanan dibatalkan oleh sistem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c2726ac1-a6f2-42fb-a067-f7ca99fc4986",
+    "data": [
+      {
+        "text": "saya sudah transfer tp pesanan saya dibatalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6919301f-7dee-4139-9fa1-21ccfc3b808c",
+    "data": [
+      {
+        "text": "Batal? Tapi sdh terdebet dari kartu kredit saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f3267b55-9811-49fa-88f9-a008f64fbece",
+    "data": [
+      {
+        "text": "pagi, saya mau bertanya tentang pengembalian dana saya setelah transaksi saya terbayarkan oleh sistem.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "81e0f6e7-86a1-4f96-a641-ab2e34ac805f",
+    "data": [
+      {
+        "text": "Pembayaran sudah dilakukan, namun transaksi dibatalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0edab056-c634-4573-8205-6b3be00ba017",
+    "data": [
+      {
+        "text": "saya transfer dana melebihi pembelian,sehingga pembelian di batalkan,dana saya kemana kembali nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c4c3f7ed-4b2a-406f-a994-81a1a3614b89",
+    "data": [
+      {
+        "text": "saya sudah transfer tapi sistem tokped membatalkan pesananmana uang saya, kembalikan uang saya!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8952e9eb-f394-4f9e-928e-f7f9f6b0c976",
+    "data": [
+      {
+        "text": "sya sudah transfer namun ternyata waktu pembayaran sudah habis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6c6f8fde-2b5c-44a7-a830-130f600d96f3",
+    "data": [
+      {
+        "text": "saya membatalkan transaksi baru saja, dan saya akan belanja lagi barang di Tokopedia, td barangnya salah. uang sudah saya transfer ke rekening Tokopedia. apakah dana tsb bisa masuk ke saldo saya di Tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bb3108bd-f1da-4388-9aa9-a6a4c6d859e8",
+    "data": [
+      {
+        "text": "saya melakukan pembelian dan sudah bayar melalui indomaret akan tetapi transaksi tersebut sudah batal, ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3e9a4264-8d23-4dd5-b663-17669b00d956",
+    "data": [
+      {
+        "text": "saya sudah bayar... tp dananya dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9d5bb841-44ff-4cd1-a906-a1b199888805",
+    "data": [
+      {
+        "text": "kartu kredit saya sudah terdebet untuk transaksi tersebut. tapi transaksi di toped tidak berhasil.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3e56da26-bbee-4f7e-bf06-14abbc096ede",
+    "data": [
+      {
+        "text": "transaksi saya udah bayar tp kok statusnya di batalkan ya, mohon bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fee44d66-4fd8-4535-b86b-425d45f987cf",
+    "data": [
+      {
+        "text": "saya sdah melakukan transfer namun saya cancel sblm sempat saya upload bukti transfer. jadi saya mnta refund dana.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e722d0ed-b6ba-4248-a8d0-9795c9b75ca2",
+    "data": [
+      {
+        "text": "sy sadah melakukan pembayaran tp sy tidak bisa mlihat pesanan sy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a52e0376-9885-4291-a15a-6750e44b0b22",
+    "data": [
+      {
+        "text": "Sya membatalkan pesanan.. Tpi sudah sya bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e855dbac-8329-4e6b-a778-6a25dde5d443",
+    "data": [
+      {
+        "text": "knapa pembayaran saya di batalkan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "af326cc4-d3c5-43d8-a01e-c2396c2c7367",
+    "data": [
+      {
+        "text": "pembayaran via alfamart di batalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ce359c61-9513-4bfa-963f-09539656c23c",
+    "data": [
+      {
+        "text": "pembayaran dibatalkan tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "68afa550-fa3e-4c91-aedf-aae3aa567014",
+    "data": [
+      {
+        "text": "kenapa transaksi dibatalkan, padahal sudah ada pembayaran di alfamart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5de34edb-be4f-4eb1-a268-cf59ec2eaab3",
+    "data": [
+      {
+        "text": "selamat pg. pembelian sy td mlm dcancle oleh sistem. sy br tau pas trf td pg. gmn cara mengembalikan uang sy. saldo sy d tokped tdk bertambah. pdhl trf sdh ok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8e4e794c-0fb5-468e-8006-e2af5fde6a19",
+    "data": [
+      {
+        "text": "Saya tadi sudah transfer, tapi transaksi yg saya bayar hilang mungkin terlambat transfer nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6ec8b23b-9e70-49d2-ab04-dfff5f68f121",
+    "data": [
+      {
+        "text": "saya sudah transfer uang sebelum tenggat waktu yaitu pada jam 2:44 tapi masih tercancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ac417797-5abb-4f71-baff-d2acd90186c7",
+    "data": [
+      {
+        "text": "Saya melakukan transfer ke toko pedia 2 karana salah nominal yang pertama 32.181 yg seharusnya 321.189... Setelah itu saya tranfer lagi sisanya. Namun ad pembatalan dari tokopedia. yg 32.181 belum di kembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8905afa5-3b1e-4e5b-960b-0e609f5adbe5",
+    "data": [
+      {
+        "text": "saya sudah transfer...tapi ternyata pesanan saya tidak datang datang...setelah saya cek ternyata sudah dibatalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bf2cb01d-4f9d-47bc-99be-03e582f7bc8c",
+    "data": [
+      {
+        "text": "saya sudah melakukan pembayaran untuk Invoice dibawah ini melalui transfer ke BCA Tokopedia, tapi pesanan saya dibatalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0e420d21-c89a-4b36-86f8-3d7e49732006",
+    "data": [
+      {
+        "text": "kok saya sudah membayar pesanan tetapi pembelian saya dibatalkan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3db23678-a9b9-4c26-a905-0dec0618a6c0",
+    "data": [
+      {
+        "text": "kenapa barang saya dibatalkan... saya udh transfer tadi malam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0e56f4de-f92d-407d-947b-0a57ec49935d",
+    "data": [
+      {
+        "text": "saya sudah mentransfer uang untuk barang yang saya order, tp kok malah dibatalkan, trs bagaimana cara pengembalian uang saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8e26cf03-ed8e-4674-b680-ca6c82d412cb",
+    "data": [
+      {
+        "text": "INV/20181027/XVIII/X/223314631 saya lihat dibatalkan karena apa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9b3c0a31-1cd5-4c58-b3cf-aecc57491826",
+    "data": [
+      {
+        "text": "saya sudah transfer sesuai dengan pembayaran tp kenapa dibatalkan, alasannya apa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1644dd50-9f4b-4eb3-810a-1a361d7e17e6",
+    "data": [
+      {
+        "text": "transaksi 219013200202 kenapa gagal padahal sesuai. sudah transfer juga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2d4be5dc-0841-4c19-aaab-2b08696b6222",
+    "data": [
+      {
+        "text": "saya sudah transfer tapi ternyata transaksi di batalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7d69d891-09a2-4064-a3d3-f1b68def2cae",
+    "data": [
+      {
+        "text": "saya memiliki masalah pesanan, saya membatalkan pesanan yang belum di konfirmasi pembayarnya yang sudah saya bayar barusan, dana yang saya transfer blm kembali untuk saya memesan ulang barang yang sama.nomor pesanan saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f327a6a6-e696-4eb9-b638-cc687f99c3e3",
+    "data": [
+      {
+        "text": "Transaksi di Batalkan penjual tetapi sudah transfer gimana dana nya untuk di refund??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f4bff00f-a9b7-4d55-bdb4-52630d1b8bab",
+    "data": [
+      {
+        "text": "transaksi sudah saya batalkan, tadi saya mengirimkan uang ke rek toped, berikut ss nya, terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ecc90fb8-09b0-4725-bd58-10679bc9c4c7",
+    "data": [
+      {
+        "text": "Saya sudah transfer tetapi pesanan saya dibatalkan secara otomatis dari Tokopedia nya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a6cbe3f0-834d-46fd-aac5-b42abb2ce224",
+    "data": [
+      {
+        "text": "saya kirim bukti tranferan pembelian barang utk 2 transaksi, tp malah dibatalkan sama tokped, padahal jangka waktu nya masih jam 23.45 dan uang nya sampai saat ini blm dikembalikan tokped ke saldo tokped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6592ef08-6e06-4d24-b02d-1f0a67c0fad4",
+    "data": [
+      {
+        "text": "Saya gamau pesen dua kali tp ttp gagal, yg pertama aja belum dikembaliin dananya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7a3d047c-2e1f-4233-859c-4483482930c4",
+    "data": [
+      {
+        "text": "saya sudah bayar tp dibatalkan dan di refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1dc7f6f1-703f-4534-843b-04a5969e6a7d",
+    "data": [
+      {
+        "text": "pesanan saya batal padahal udah bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b3d204dc-2776-4288-943f-10cedd6e705d",
+    "data": [
+      {
+        "text": "saldo sudah terpakai.. tapi transaksi gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e79a6894-2dfe-48c8-8c59-8f1b7ba5b8c7",
+    "data": [
+      {
+        "text": "saya sudah bayar tp transaksi di batalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "64e50d40-696f-4e0a-8de5-6493cd280ca4",
+    "data": [
+      {
+        "text": "transaksi pembelian saya dibatalkan, padahal sudah saya bayar sesuai tagihan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "be2c62e1-7e8e-4739-805a-19a62115bdeb",
+    "data": [
+      {
+        "text": "uang yg saya transfer ke tokopedia kenapa di kembalikan ke saldo? apakah pesanan saya di tolak atau di batalkan penjual?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fc755b8b-2d4d-4b30-8127-2fea22aebed4",
+    "data": [
+      {
+        "text": "dana saya di kembalikan ke saldo toped, kenapa ini dikembalikan admin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b3509e7d-e87c-4dbf-b2df-1ec26683ae7d",
+    "data": [
+      {
+        "text": "pesanan sudah saya transfer tapi dibatalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a9c32e05-317f-4ebb-a5bc-baebefb3e76c",
+    "data": [
+      {
+        "text": "pesanan sudah dibatalkan tapi sudah transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c9036cd1-260c-4ff2-925a-354daf0b7248",
+    "data": [
+      {
+        "text": "kenapa pesanan saya terbatalkan otomatis padahal waktu pembauaran tercantum 48 jam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0c0a8fdd-efd6-426a-84d0-3a0c3b14aeb1",
+    "data": [
+      {
+        "text": "saya melakukan pembayaran, tp saya dapat pesan kalo dananya dikembalikan, tp saya chat rek bca saya tetap terdebet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f7c7698f-e13a-45ea-b32e-dbc1ae0f68b4",
+    "data": [
+      {
+        "text": "saya sudah bayar, pembelian berhasil namun selalu dikembalikan dana saya ke saldo tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "57cf6339-ce7c-4158-b111-dfc136028847",
+    "data": [
+      {
+        "text": "barusan saya bayar pake virtual account, tp malah dibalikkin ke saldo saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4d9e7ebb-f41a-4cff-978a-6fb8dca78d77",
+    "data": [
+      {
+        "text": "bisa direfund? ternyata di sistem sudah dibatalkan tapi terlanjur dibayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "546b6486-17dd-4d4d-96f3-762530f4806f",
+    "data": [
+      {
+        "text": "saya sudah melakukan pembayaran dan sukses tp kenapa transaksinya di batalin toped ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f6452167-0b73-4b70-b637-0ecec15afd4d",
+    "data": [
+      {
+        "text": "knp transaksi saya dibatalkan ? berikut invoice nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d41adf70-d5fb-44c7-ad19-d84e6202d60b",
+    "data": [
+      {
+        "text": "saya sudah melakukan transaksi sebelum jatuh tempo,, ttp transaksi Sy dibatalkan oleh Tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c1f303f0-20cc-4a43-b201-767c8f506281",
+    "data": [
+      {
+        "text": "Hilang transaksi sy setelah pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "740a7946-8bf2-4d90-9c1d-417fc5332428",
+    "data": [
+      {
+        "text": "sudah transfer ke bank, tp toped menyatakan transaksi saya gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e346a571-a6f4-4e6c-8772-a6671dbc5b2a",
+    "data": [
+      {
+        "text": "Sudah dapet chat konfirmasi untuk transfer tapi uang malah dikembalikan padahal belum melewati batas waktu transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "821a3089-816c-4d8b-8aa0-5abd1139c65d",
+    "data": [
+      {
+        "text": "Pembayaran kartu kredit berhasil tapi setelah 2hari dibatalkan dan dana dikembalikan ke saldo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "df0fb9b6-9ef1-4794-9a81-aadcf702847f",
+    "data": [
+      {
+        "text": "Saya ingin tahu apa penyebab gagalnya transaksi pembayaran CC saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a650cbc8-5876-45d5-9de5-122e024c1e06",
+    "data": [
+      {
+        "text": "transaksi berhasil dengan kode promo topedcc transaksi bayar Cc citibank kenapa dana saya dikembalikan !!!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7f5fca90-8c97-439d-9257-14093c417bed",
+    "data": [
+      {
+        "text": "ini kenapa di refund?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cba556db-488f-4b61-a7e3-1ca4e42e9ddb",
+    "data": [
+      {
+        "text": "transaksi digital dana dikembalikan ke saldo tokopedia padahal sdh berhasil payment via bca online",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "64effee3-ba66-41cd-9fda-65252e9902ef",
+    "data": [
+      {
+        "text": "pembayaran CC permata malah di cancel dari tokopedia.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "24c98a05-b826-45b4-8bd3-bbe9656ba576",
+    "data": [
+      {
+        "text": "saya beberapa kali coba bayar tagihan CC kok tidak bisa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7796a2f0-a872-4ac4-bca6-b98c3d3cdf92",
+    "data": [
+      {
+        "text": "hmm..kmrn sya ad bayar tagihan cc . kok di batalkan ta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8207ea61-7203-461b-9a3f-5aa423cfc6de",
+    "data": [
+      {
+        "text": "Transaksi pembayaran kartu kredit gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dd648d8a-b348-4329-b8e1-620db56b3500",
+    "data": [
+      {
+        "text": "Dana pembayaran kartu kredit selalu di refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "14728a24-abc2-40ba-949d-26e98422c7ca",
+    "data": [
+      {
+        "text": "Tidak bisa bayar Credit Card BNI",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "92674561-4f3f-4300-a5bc-aed15de01531",
+    "data": [
+      {
+        "text": "kenapa pembayaran kartu kredit menjadi tidak bisa? sedangkan kartu kredit saya menjadi ada tunggakan. .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ff358a2e-0298-4762-b2c3-544c27a16622",
+    "data": [
+      {
+        "text": "Kenapa pembayaran Kartu Kredit BNI saya dikembalikan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a9732749-ff2e-4c94-bdcb-91b2f75d86c3",
+    "data": [
+      {
+        "text": "bayar kk selalu gagal dan uang masu ke saldo toped,,,apa gak prosfesinal ya...dr minggu lalu prpmo gagal melulu dana di kembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "28a923ce-5089-4892-ae63-99f210279ecc",
+    "data": [
+      {
+        "text": "Pembayaran kk dinyatakan gagal setelah 4 hr, lalu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "62833b17-494b-43a6-8f05-593da4857adb",
+    "data": [
+      {
+        "text": "transaksi pembayaran kartu kredit tgl 30 nov 2018 tdk berhasil. masalahnya di mana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "11a69e66-b74b-40f7-97cd-d9ffeb07ed41",
+    "data": [
+      {
+        "text": "trx pembayaran cc selalu gagal setelah nunggu 3 HK",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "af30b27b-5594-4044-92ea-7a7097f375db",
+    "data": [
+      {
+        "text": "Pembayaran tagihan KK tidak berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c0da1c6d-dc9e-4f98-b2df-07d986d7c76a",
+    "data": [
+      {
+        "text": "ternyata pembayaran credit card saya tidak berhasil lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cf72f01e-24b3-4fd2-9f30-5ea1b650b896",
+    "data": [
+      {
+        "text": "Saya melakukan pembayaran CC danamon sebesar 1.035.000 dengan status berhasil Ternyata bbrp hari kemudian saya dpt email bahwa transaksi gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "af71175d-1173-4581-acc6-574c657c39fd",
+    "data": [
+      {
+        "text": "pembayaran kartu kredit gagal . ikut promo bayar kartu kredit yg hanya 2 jam, tapi bbrp hari kemudian dana dikembalikan oleh toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "75b6cff6-df08-4b7f-a4a1-9fad28301b86",
+    "data": [
+      {
+        "text": ".saya tidak bisa melakukan transaksi pembayran kartu kredit BNI,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dd926aa7-ebf6-44f6-957b-39092deca89e",
+    "data": [
+      {
+        "text": "Tdk bisa byr cc bni, susah kl byar cc bni sering error gitu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cdf56fc0-02ee-4a05-86a0-ce66b991967c",
+    "data": [
+      {
+        "text": "i transaksi pembayaran digital berupa tagihan kartu kredit saya gagal, kenapa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "aed3932b-7f48-4b0c-8f9b-ccc95f71e6de",
+    "data": [
+      {
+        "text": "Kenapa pembayaran kartu kredit saya dengan kode promo topedcc gagal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "44f40112-c683-443a-8496-b2b6dd589ad3",
+    "data": [
+      {
+        "text": "Dana pembayaran cc dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a013b95e-57ef-4893-8fe9-fa15eb0339a7",
+    "data": [
+      {
+        "text": "Saya ingin menanyakan mengapa pembayaran kartu kredit saya gagal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d4720fdf-889b-4ed0-9143-50966cc26981",
+    "data": [
+      {
+        "text": "sudah bayar tapi transaksi gagal ?uang belum dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e4046546-625e-4363-8b5d-5ac85a82d522",
+    "data": [
+      {
+        "text": "Dana belum di kembalikan sebesar 32.500... mohon di cek kembali...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2f5a725a-52b2-4284-9557-de779ff5f135",
+    "data": [
+      {
+        "text": "saya udah tranfer kok transaksinyaa dibatalin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a8e5bd81-e8a1-4503-be3c-ee7163ab426f",
+    "data": [
+      {
+        "text": "bagaimana caranya jika dana yg sudah saya transfer dari atm tp transaksinya keburu saya batalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "74bddfc2-d5f7-47fe-b0d2-7da74951dc23",
+    "data": [
+      {
+        "text": "invoice tersebut sdh dibatalkan oleh sistem karena lewat waktu pembayarannya.mohon dana dapat segera dikembalikan ke rekening saya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2cf80bd2-70a8-4db3-a55a-63ed77e70a4c",
+    "data": [
+      {
+        "text": "barusan sy terlanjur transfer,sedangkan transaksi sy dibatalkan karna waktu pembayaran sudah habis...bisakah uang sy dimasukkan ke saldo tokped?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ee485e66-80b5-4319-bd02-2be017cdeb5b",
+    "data": [
+      {
+        "text": "invoice ini, Transaksi d batalkan.  Pdhl sudah d bayar via Alfamart kak. Tolong d bantu ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2fe87787-ed10-4bc8-be20-ab9b61d42c04",
+    "data": [
+      {
+        "text": "Pesanan saya batalkan melalui email yang masuk, tapi sebelumnya sy sudah lakukan pembayaran.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "838d6877-5c9e-40a7-a6be-ae54817835c6",
+    "data": [
+      {
+        "text": "Pesanan saya dibatalkan tp saya sdh bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "34f1cec1-2aaf-441d-aee1-7fc1768a9f1c",
+    "data": [
+      {
+        "text": "saya kemarin order tapi belum sempat bayar, saya tidak tahu kalo waktu pembayaran habis, jadi saya bayar aja... uang yg saya transfer kemana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

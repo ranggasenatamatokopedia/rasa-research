@@ -1,0 +1,107 @@
+[
+  {
+    "id": "f8aa2558-9894-45de-adbd-9922aac689b0",
+    "data": [
+      {
+        "text": "nomer ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e42c3292-cc41-4be2-8bbd-ab389642f87d",
+    "data": [
+      {
+        "text": "promo toko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "526fbb53-87ea-493f-9263-36bfe4575ca4",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". toko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "281e2bdb-317b-43db-b670-234d358facdf",
+    "data": [
+      {
+        "text": "yang ",
+        "userDefined": false
+      },
+      {
+        "text": "kedua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a1477dcc-89f5-4b8e-8813-9f254ef4c7f6",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "57928e90-eaee-4563-b64b-334bf2f0ec37",
+    "data": [
+      {
+        "text": "kedua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a9bbf6ff-ed6d-4a08-a4ee-f6691390243c",
+    "data": [
+      {
+        "text": "promosi toko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d45cc9b0-da30-4ce8-abb8-252329edd8e3",
+    "data": [
+      {
+        "text": "toko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

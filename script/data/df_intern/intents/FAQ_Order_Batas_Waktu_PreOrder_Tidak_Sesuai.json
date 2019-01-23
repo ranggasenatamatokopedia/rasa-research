@@ -1,0 +1,32 @@
+{
+  "id": "558e3e85-22bf-4636-8a98-f8ab7dc0b476",
+  "name": "FAQ_Order_Batas_Waktu_PreOrder_Tidak_Sesuai",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pastikan kamu sudah melakukan pembayaran pesanan. Jika penjual mengubah batas waktu pre order setelah pembayaran dilakukan, maka batas waktu pre order tetap mengikuti saat kamu melakukan pembayaran tersebut."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Apabila ada hal lain yang ingin ditanyakan kepada penjual seputar pesanan pre ordermu, kamu bisa hubungi penjual melalui fitur \"Tanya Penjual\", ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

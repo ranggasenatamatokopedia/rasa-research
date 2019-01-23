@@ -1,0 +1,24 @@
+[
+  {
+    "id": "40e89038-b27c-410f-8768-f34698ba1461",
+    "data": [
+      {
+        "text": "add_text_date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6aa5c821-f343-4a6f-a1b7-9710391838d2",
+    "data": [
+      {
+        "text": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0
+  }
+]

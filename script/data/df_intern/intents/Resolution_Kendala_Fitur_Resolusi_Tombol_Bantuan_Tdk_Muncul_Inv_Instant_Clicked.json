@@ -1,0 +1,43 @@
+{
+  "id": "f8aa315c-71aa-4a30-9283-53f5db4beee8",
+  "parentId": "07ea3342-ee05-44d2-9324-18e6130957f9",
+  "rootParentId": "844540fa-3db4-42cc-a62e-c3d9bc90793a",
+  "name": "Resolution_Kendala_Fitur_Resolusi_Tombol_Bantuan_Tdk_Muncul_Inv_Instant_Clicked",
+  "auto": true,
+  "contexts": [
+    "Resolution_Kendala_Fitur_Resolusi_Tombol_Bantuan_Tdk_Muncul_Inv-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Resolution_Kendala_Fitur_Resolusi_Tombol_Bantuan_Tdk_Muncul_Inv_Instant_Clicked-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Karena tombol \"Minta Bantuan\" pada kendala tersebut sudah di klik, tombolnya tidak bisa muncul lagi. Kamu bisa pantau perkembangannya di fitur Pusat Resolusi ya. Semoga informasi ini membantu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536725790,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "instan_clicked"
+    }
+  ]
+}

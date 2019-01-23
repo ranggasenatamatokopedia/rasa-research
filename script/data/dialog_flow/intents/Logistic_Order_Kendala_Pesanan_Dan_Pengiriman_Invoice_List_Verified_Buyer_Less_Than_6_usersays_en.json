@@ -1,0 +1,22 @@
+[
+  {
+    "id": "27d2f45e-ad99-447a-a9e3-8e7b19bb0d5e",
+    "data": [
+      {
+        "text": "less_than_",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_hours_from_verified",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

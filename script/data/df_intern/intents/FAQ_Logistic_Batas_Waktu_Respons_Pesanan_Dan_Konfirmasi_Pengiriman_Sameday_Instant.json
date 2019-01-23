@@ -1,0 +1,41 @@
+{
+  "id": "d2ae34c0-1dd3-4b3c-9257-ab637870ae17",
+  "name": "FAQ_Logistic_Batas_Waktu_Respons_Pesanan_Dan_Konfirmasi_Pengiriman_Sameday_Instant",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk layanan pengiriman melalui Sameday \u0026 Instant batas respons pesanan adalah 1x24 jam di hari kerja apabila pesanan masuk pukul 00.00 - 15.00 WIB."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Apabila pesanan masuk diatas pukul 15.00 WIB, batas waktu respons pesanannya adalah pukul 15.00 WIB di hari kerja berikutnya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sedangkan batas waktu konfirmasi pengiriman adalah 1x24 jam di hari kerja (maksimal pukul 16.00 WIB) setelah penjual merespons pesanan."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_logistic_batas_waktu_respons_pesanan_dan_konfirmasi_pengiriman_sameday_instant"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "fdf2b46b-862d-43bc-8d95-6fcd27d3dc64",
+  "parentId": "88ef6006-95b4-4fb7-9d67-fd62a48f4b9b",
+  "rootParentId": "25f8caf5-22b1-4b7d-8704-24a6da37b244",
+  "name": "Logistic_Pembatalan_dan_Penjadwalan_Ulang_Delivered_Finished_Belum",
+  "auto": true,
+  "contexts": [
+    "Logistic_Pembatalan_dan_Penjadwalan_Ulang_Pick_Up_Invoice_List_On_Demand_Delivered_Finished-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Pembatalan_dan_Penjadwalan_Ulang_Delivered_Finished_Belum-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b6a41404-87b9-4515-876f-eb2cbc58cf0e",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1533"
+        },
+        {
+          "id": "97c0418c-12cc-43b5-ad28-c89c46b5e73c",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Logistic_Pembatalan_Pencarian_Driver_dan_Penjadwalan_Ulang_Pick_Up"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu sebentar ya, Toped akan bantu buatkan tiket Layanan Pengguna untuk dicek lebih lanjut. Perkembangan informasinya akan dikirim lewat email ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535541213,
+  "fallbackIntent": false,
+  "events": []
+}

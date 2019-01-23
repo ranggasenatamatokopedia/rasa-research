@@ -1,0 +1,598 @@
+[
+  {
+    "id": "0d9b2d69-fb9e-453c-b7f6-fb3ee16b03dd",
+    "data": [
+      {
+        "text": "Saya order pake ",
+        "userDefined": false
+      },
+      {
+        "text": "TIKI",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ONS",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kenapa dikirim pake ",
+        "userDefined": false
+      },
+      {
+        "text": "Wahana",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3a5a9463-cfdc-49a4-b3a5-2222cf20c8a8",
+    "data": [
+      {
+        "text": "Saya pesan mengunakan over night servise yg di kirimkan malah ",
+        "userDefined": false
+      },
+      {
+        "text": "REG",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "!!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c9f54ec2-dbb1-4fc3-9b0e-35a1cacc02d5",
+    "data": [
+      {
+        "text": "Penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kirim barang dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "reguler",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " padahal saya pesan dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Yes",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Apa kompensansinya nih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eb8f5be9-6bbe-4527-a864-1e426b1d3c53",
+    "data": [
+      {
+        "text": "Toped tolong di cek, pesanan saya dikirimin sama sellernya pake ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Reguler",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sedangkan yang saya pilih ",
+        "userDefined": false
+      },
+      {
+        "text": "YES",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " jadi ongkirnya lebih murah.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4ba7aa54-6b5c-4028-b0a6-b9a8cafd0900",
+    "data": [
+      {
+        "text": "Apaan ini, Saya bayar pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "YES",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dikirim pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "REGULER",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "59fa9ca9-696e-42ba-bda3-ae2035b752ff",
+    "data": [
+      {
+        "text": "karena layanan ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "YES",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ternyata sedang tidak tersedia. maka di ganti menjadi ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "REGULAR",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". yang mana menyebabkan selisih pembayaran.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d15cdb9f-ef54-4ba0-aba9-6291016b6bb0",
+    "data": [
+      {
+        "text": "Saya pesan melalui ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "YES",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " biar ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari atau ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari kerja , ini kenapa malah pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "REG",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "76bd56b6-7cdd-4cb2-bf99-74584008c90a",
+    "data": [
+      {
+        "text": "Selisih ongkir karena ",
+        "userDefined": false
+      },
+      {
+        "text": "Seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " menggunakan kurir atau layanan yang berbeda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6af7d2a3-0b26-4119-b0d4-63a2ef4758e5",
+    "data": [
+      {
+        "text": "Ini gimana sih ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya pesen pake ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "YES",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " biar ",
+        "userDefined": false
+      },
+      {
+        "text": "cepet",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sampe kenapa dikirim pake ",
+        "userDefined": false
+      },
+      {
+        "text": "TIKI",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Reguler",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a73df833-3647-4a0b-8248-433c3cb4b776",
+    "data": [
+      {
+        "text": "saya bayar pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "REG",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " supaya ",
+        "userDefined": false
+      },
+      {
+        "text": "cepat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sampai tapi mengapa dikirimnya pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " OK???",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2fe59247-d260-44e1-8af7-2b5071ec3ae6",
+    "data": [
+      {
+        "text": "Saya membeli tanaman hidup jadi saya gunakan kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "jne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "yes",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sesuai saran. Tetapi ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " menggantinya dgn ",
+        "userDefined": false
+      },
+      {
+        "text": "pos",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " . Bagaimana ini?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1e6352cd-cfe4-44be-8c1f-b79d9bc65a98",
+    "data": [
+      {
+        "text": "siang... untuk pengiriman sudah saya lakukan cod... apakah bisa di proses ato harus tetap melakukan pengiriman disistem tokped??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "09b061f8-baf4-410a-982a-9de3db345224",
+    "data": [
+      {
+        "text": "tapi saya kirimnya pake j\u0026amp;t",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0c73e66d-5a08-4d0b-beb0-1291a716e2f4",
+    "data": [
+      {
+        "text": "saya harus aktifkan atau tidak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "85542c4d-bc75-484b-ac96-5540862224a3",
+    "data": [
+      {
+        "text": "pesanan saya tidak bisa di kirim karena selisih ongkir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c95559df-41bd-45b8-bfbb-55a42d47d06e",
+    "data": [
+      {
+        "text": "kak, kalo pengiriman bisakah pakai jne job ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "13eed096-1ad0-4baf-bb1d-197786694e6a",
+    "data": [
+      {
+        "text": "Logistic Resi Pengiriman Tidak Sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1b17e2f2-3b1c-40eb-8964-6f7b59bcfb0c",
+    "data": [
+      {
+        "text": "Bugs Logistic pemilihan kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fbe8ef85-6f43-4e7f-a626-0d2bbea6ebb1",
+    "data": [
+      {
+        "text": "salah expdisiharusnya keJNE tapi sama kaeyawan saya dikirim pk jasa expd JET",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7ab44e25-cf41-4aae-9771-8202b3e22d06",
+    "data": [
+      {
+        "text": "Saya beli barang tapi sama penjual di kirimnya menggunakan kurir yg berbeda apa uang saya akan di kembalikan sisa ongkirnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ae798d88-91e8-4cac-98b7-16b57d017b57",
+    "data": [
+      {
+        "text": "bagaimana kalau berat paket lebih ringan dari yg sdh dibayarkan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "34252697-3ef9-4928-8e39-b908471cf186",
+    "data": [
+      {
+        "text": "request pengiriman menggunakan JNE YES.dikirim oleh selleŕ dg reguler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dfe4671c-a499-43e1-b848-495d36d94d1c",
+    "data": [
+      {
+        "text": "kenapa ongkir saya ditokped lebih mahal dibanding dengan ketika databg diresinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

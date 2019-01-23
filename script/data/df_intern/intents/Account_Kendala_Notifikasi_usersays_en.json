@@ -1,0 +1,1006 @@
+[
+  {
+    "id": "c9602ebd-72ff-47a2-a6d3-0f53250b7ae3",
+    "data": [
+      {
+        "text": "Saya sudah memberikan ulasan ke semua transaksi saya, namun tetap ada notifikasi. Mohon notifikasinya dihilangkan. Terima kasih.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f48557cc-3aad-4942-8589-0e83d5227b6f",
+    "data": [
+      {
+        "text": "Pesanan saya sudah selesai tapi notifikasi masih muncul.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4f0066d1-3384-4281-96a0-13827be76043",
+    "data": [
+      {
+        "text": "notifikasi masih muncul tp di klik kosong padahal pengiriman sudah selesai (transaksi sudah selesai penerima paket komplain minta uang kembali tanpa mengembalikan barang)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9cd8f61a-4e2e-4c14-9515-fa1ddc781f11",
+    "data": [
+      {
+        "text": "Status notifikasi saya tetap ada pesanan walaupun semua transaksi sudah selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a8b0cab2-433a-4ddf-8f83-26fc95857c67",
+    "data": [
+      {
+        "text": "kendala notifikasi tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b5f19fad-3171-4948-9414-eb4fcdf4f120",
+    "data": [
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya pesan/beli barang pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", barang sudah diterima dan memberi penilaian, ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " juga sudah memberi feedback, kenapa notifikasi pemesanan masih muncul?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3fc88b9f-ca0c-4b45-a212-24f0afc5e0cd",
+    "data": [
+      {
+        "text": "mau tanya, notifikasi pada status pemesanan kenapa tidak hilang? padahal transaksi sudah selesai dari ",
+        "userDefined": false
+      },
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". kenapa masih ",
+        "userDefined": false
+      },
+      {
+        "text": "muncul2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "57741632-9c75-4975-81f3-df2219b6992e",
+    "data": [
+      {
+        "text": "pada ulasan produk juga kenapa notifikasi tidak hilang? padahal produk sudah dihapus oleh ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". trims",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "18eb1093-2a5d-47c3-84ce-c81b2bb86ed0",
+    "data": [
+      {
+        "text": "notifikasi status pemesanan dan status pengiriman ada ",
+        "userDefined": false
+      },
+      {
+        "text": "masing2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", sedangkan status pemesanan dan pengiriman sudah ada proses lebih lanjut. dan notif seharusnya hanya ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saja. tp yg muncul ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " notif.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2
+  },
+  {
+    "id": "a52b92c4-b6a8-403b-a5c4-b88ea9f6b34e",
+    "data": [
+      {
+        "text": "di akun saya terdapat ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " notifikasi. terus di bagian ulasan ada ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " notifikasi. sudah saya cari sampai bawah tapi semua ulasan sudah saya baca. tetap masih ada ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " notifikasi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "90c5a611-c41f-4cda-9fb1-775f32c36e42",
+    "data": [
+      {
+        "text": "kendala notifikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2cd746f9-9b10-443d-9d33-e7db38183195",
+    "data": [
+      {
+        "text": "di notifikasi tertanda ada yg blm dibuka. tapi saat sy buka,eh tidak ada notifikasi tsb. sangat mengganggu. tolong diperbaiki.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2
+  },
+  {
+    "id": "286ae56d-ee9c-4362-8be5-265d4f64ed32",
+    "data": [
+      {
+        "text": "Saya sudah menyelesaikan transaksi di tokopedia, akan tetapi masih ada notifikasi di akun saya. Saya mohon untuk agar notifikasi itu tidak muncul lagi. Terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2c9f33af-126f-4353-abfc-e4480ddb5c03",
+    "data": [
+      {
+        "text": "terdapat notifikasi yg berbeda, pada menu depan nampak ada ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " notif pesanan, setelah dilihat detail cuma ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "49d04c45-e422-46bb-863d-8624b52f3461",
+    "data": [
+      {
+        "text": "notifikasi nyangkut, pesanan tidak ada. sudah logout tetap tdk pengaruh. di hp maupun di ",
+        "userDefined": false
+      },
+      {
+        "text": "pc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tetap sama.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4e82be77-e27e-460e-ad79-5c01c6e49a68",
+    "data": [
+      {
+        "text": "notifikasi error sangat menganggu. tolong d bantu fix. thx",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f0971193-e4f3-4836-b7ad-82e716cee04b",
+    "data": [
+      {
+        "text": "ada notifikasi tetapi ketika dibuka, ternyata tidak ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "edf7984a-ec09-425d-a4d0-4e1f161f05dd",
+    "data": [
+      {
+        "text": "notifikasi saya tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2
+  },
+  {
+    "id": "0f54c661-aff2-4adf-9a43-0f87d9b114e1",
+    "data": [
+      {
+        "text": "Di status pembelian ada angka ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "..2 transaksi terakhir sudah di selesai tp notifikasi masih ada..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d55a35a9-9bbd-401c-8d59-5d41f1eadbf0",
+    "data": [
+      {
+        "text": "notifikasi saya error",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1edaa48f-4933-41cf-9157-70cb465197f4",
+    "data": [
+      {
+        "text": "notifikasi tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ee573a49-b2a2-4412-848d-09c31695470c",
+    "data": [
+      {
+        "text": "diskusi produk sejauh ini saya sudah baca semua..statua pemesanan jg uda ",
+        "userDefined": false
+      },
+      {
+        "text": "oke",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " semua..tp notifikasinya tetep ada..padahal tidak ada yg bisa dibaca dan diliat lg..tolong dibantu..trima kasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fd4075b4-75d1-428e-98c3-15ad9942aaba",
+    "data": [
+      {
+        "text": "Satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " lagi ulasan tidak bisa diposting, kemungkinan barang sudah tidak dijual oleh ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tapi terus ada di notifikasi saya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0b0b8931-d296-43f5-bd25-019f7876863e",
+    "data": [
+      {
+        "text": "notifikasi selalu muncul walaupun semuanya sudah dibaca dan dibalas..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4e7645b0-eb03-47e9-af2e-89e37e6587e0",
+    "data": [
+      {
+        "text": "Order baru tidak tampil, customer claim sudah transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fd7b90b9-b5c3-499a-bac0-1182c20af42a",
+    "data": [
+      {
+        "text": "Notifikasi pembelian tdk ada tp sy ada bukti transfer nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "07d5dc61-8e38-48b2-a296-0da461cf1b6b",
+    "data": [
+      {
+        "text": "Mengapa di akun saya mu cul notifikasi barang sedang dikirim (pembelian), padahal ketika saya klik di bagian sedang dalam pengiriman, tidak ada barang yang sedang dalam pengiriman, saya klik di kolom barang sampai tujuanpun tidak ada...apakah ada yang nyantol atau error?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d6fd4f5f-199b-4530-9e76-1c7fde4eb6b8",
+    "data": [
+      {
+        "text": "Hallo siang, saya mengalami kendala status notifikasi yg delay. Selalu muncul notfikasi status pembelian saya sedang dikirim. Padahal semua pesanan saya sudah diterima, agak mengganggu untuk status notifikasi palsu tersebut. Mohon segera diproses. Terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "760c30a6-1a9c-4cda-bd43-79db8ed4bf50",
+    "data": [
+      {
+        "text": "informasi dari alert tidak akurat, di alert atas kanan ada 1 sedang dikirim, tetapi isinya ga ada atau kosong.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d335cd10-018f-45a7-ac17-dc96e0cfffbf",
+    "data": [
+      {
+        "text": "aplikasi error mulu, kmrn 2hr ga muncul notif. skrg msk ke menu jual, tp ga pny toko. parah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fd5a4e23-26bf-433b-b6bc-cf6611775710",
+    "data": [
+      {
+        "text": "ini saya sebagai penjual ya , pesanan saya di keterang barang sedang dikirim kok notif nya hilang yaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "af6317e6-444d-4cfb-9688-7dfbf31b6f92",
+    "data": [
+      {
+        "text": "order penjualan saya kog ditolak? padahal sampai juga nggak ke saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1489b170-10e0-4fa3-82eb-f5f24ec9dac2",
+    "data": [
+      {
+        "text": "notif penjualan saya ada 1 yang siap di kirim padahal udah gak ada pesanan sama sekali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "07d08521-424d-4f2e-b0e3-d84769608dba",
+    "data": [
+      {
+        "text": "ini ada notifikasi tp pas saya buka tombol lonceng kok gak ada apa2 yaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6fcde321-5710-4b73-be84-d9101e8e8bd0",
+    "data": [
+      {
+        "text": "ada 1 chat sudah berbulan2 tidak tahu yang mana n tidak bisa dihapus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dd8c09d6-3f34-46d1-8e3f-8ab9e5db7d31",
+    "data": [
+      {
+        "text": "hari ini sy tidak menerima notifikasi penjualan, padahal bnyk yg inbox dan order knp ya? semua sudah sy eneble.. mohon bantuanya.. thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f0b9c8b2-f98f-4228-a4c1-60e8c91c4882",
+    "data": [
+      {
+        "text": "notifikasi pesanan baru berbeda dengan actual, selisih 1 pesanan. misal di notifikasi ada 2 actual hanya 1. tolong di sinkronkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f8faa392-8862-4fa1-9642-44f8aa017832",
+    "data": [
+      {
+        "text": "kenapa transaksi penjualan saya hilang dari notifikasi ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2517bda2-10c8-4405-af5b-d87a870fdbfd",
+    "data": [
+      {
+        "text": "saya menerima notifikasi toko saya tidak aktiftolong aktifkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "281ac662-9680-4b04-a43b-4ae0e006a3c4",
+    "data": [
+      {
+        "text": "pemberitahuan barang belum dibayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f35f9451-5c5c-4b76-93ec-d7f3d67e3c67",
+    "data": [
+      {
+        "text": "di toko saya slalu muncul notif sedang dikirim padahal tidak ada sama sekali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6ec5b3a7-1257-498b-b6d1-b57b377c7092",
+    "data": [
+      {
+        "text": "notif ga masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c28e7808-2c63-49db-99fa-04de94d18a25",
+    "data": [
+      {
+        "text": "toped saya tiap ada chat masuk ga keluar notifikasi.. padahal di setting udah diatur.. masuknya ke email tp lama dan ga bisa lgs respond",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ff69120a-44c3-4acc-9f6f-5679cd8a47b2",
+    "data": [
+      {
+        "text": "ada notifikasi chat ada 1 chat belum terbacaTapi sebenarnya ga ada chat baru.sudah saya sortir dengan cara chat yg belum terbaca. tetap saja ga ada chatnya.sudah buka di tokopedia Web via kompute",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e0a8e9e3-c2dc-4304-8edf-69581e25650b",
+    "data": [
+      {
+        "text": "mohon dibantu hilangkan notifikasi tersebut.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b752fde4-3622-4e12-bf59-7570cd521ce3",
+    "data": [
+      {
+        "text": "Ada notifikasi sedang dalam pengiriman tapi ketika diklik detail tidak ada isinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8a008bed-ed9e-443e-b5bd-3121d5d01147",
+    "data": [
+      {
+        "text": "padahal saya TIDAK MENERIMA notifikasi pesanan. apakah sistem sedang error?? ini sering sekali terjadi ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3c45ef2d-9f30-4970-8496-04642b0aa8a6",
+    "data": [
+      {
+        "text": "notify sedang dikirim seharusnya 0 mohon dicek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "56110a43-6bd1-4606-bac3-60be18073c26",
+    "data": [
+      {
+        "text": "kenapa saya ada status barang terkirim, padahal saya tidak beli apa apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fd819626-c48c-42b4-a526-87a8fa798690",
+    "data": [
+      {
+        "text": "kenapa notifikasi tokopedia saya error ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ffaed196-8b53-4dea-9f08-dedee2f08656",
+    "data": [
+      {
+        "text": "mengapa notifikasi diskusi produk tdk muncul ?  sehingga saya tdk tau customer ada yg menanyakan produk saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6227fe86-2f65-4d39-93f1-b1654d1952e4",
+    "data": [
+      {
+        "text": "Sering gangguan server dari Tokopedia saat membuka chat dan notifikasi serta katalog produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a9ae7dcd-3894-4cbd-b102-4c6292cd1a6a",
+    "data": [
+      {
+        "text": "Dear tolong dibantupada notifikasi survei layanan dinyatakan ada pesan...namun setelah saya cek semua survei sudah ditutup...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "18ecd1f9-73d8-4d4f-b5bf-12f265ee6381",
+    "data": [
+      {
+        "text": "icon notifikasi saya selalu menyala dan tidak bisa dihilangkan . Di header tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "62e71c0d-b849-467a-9472-9b4253541090",
+    "data": [
+      {
+        "text": "ada yang error di status pemesanan, status tertulis sedang diproses kirim 1 transaksi padahal pas dibuka gak ada yang sedang diproses kirirm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "be546411-2f35-4ede-b8b6-0c56f13250fd",
+    "data": [
+      {
+        "text": "Dear Toped, sudah lebih dari seminggu ada notifikasi begini di toped saya. Tapi setiap kali diklik, tidak ada keterangannya (kecuali daftar transaksi yang sudah selesai).",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "df0e4c2d-ccd3-49a3-ae72-144b05a12d8b",
+    "data": [
+      {
+        "text": "Notification terlamat lagi, beberapa hari ini sering kaya gitu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8350cb2f-b1c2-4184-a01d-f0837ae58812",
+    "data": [
+      {
+        "text": "notifikasi keranjang msh ada walaupun sudah kosong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0f87dae5-8689-4b47-9d18-31f036db8fef",
+    "data": [
+      {
+        "text": "bagaimana cara menghilangkan notifikasi pesanan dibatalkan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a9584e50-77d3-46e4-8c3c-89730230ad27",
+    "data": [
+      {
+        "text": "halo, ini di profile sy sepertinya ada yg nyangkut transaksinya, di notif status pemesanan selalu ada angka 1 transaksi, padahal tidak ada, sepertinya ini dari transaksi yang sebelumnya pernah dibatalkan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bdd2c55a-7850-4233-a3e3-e426455d4b0e",
+    "data": [
+      {
+        "text": "halo tokopedia, pada status pengiriman ada notifikasi yang transaksinya tidak ada. Selisih 1 notifikasi. Jadi misalnya sekarang sedang ada 1 status pengiriman aktif tetapi pada notifikasi ada 2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ddc5a050-7f43-4bfc-8263-3e078196d6b7",
+    "data": [
+      {
+        "text": "Notifikasi Keranjang belanja ada 3, tapi setelah masuk keranjang belanja ternyata tidak ada barangnya. Kenapa beda?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2eb6fb07-21b2-47a2-ab16-a660d7b92305",
+    "data": [
+      {
+        "text": "Sis sepertinya ada eror ya sya sedng tidak ada pesnaan produk tapi di notif sedang dikirim saya ad muncul angka 1 tlong dibenerin ya makasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7eddec8e-2591-4a5e-8d55-134a78209954",
+    "data": [
+      {
+        "text": "ada tulisan status konfirmasi pengiriman . tapi setelah dicek, tidak ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5894ec36-f274-4bbc-b8b6-1603597b633d",
+    "data": [
+      {
+        "text": "dear toped,tampilan di notifikasi, seakan-akan masih ada.. tetapi setelah di buka untuk status pengiriman dan survey layanan tidak ada yang belum dibaca/di proses.apakah bs dibantu agar tidak muncul lagi ?terima kasihdanny",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b1bd9cc3-6149-422a-990b-c81507f88eee",
+    "data": [
+      {
+        "text": "Halo Toped. tolong dibantu untuk hapus notifikasi di bagian survey layanan akun saya. soalnya agak mengganggu. karena semua pesan bantuan sudah selesai di proses semua. tapi tetap ada notifikasi (angka 1)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "be466246-b458-4902-a371-ef7818e4b82c",
+    "data": [
+      {
+        "text": "Kenapa klu ada diskusi masuk....di Hp saya tidak ada notifikasi ya..... sedangkan klu ada info dari Tokopedia seperti chat....itu baru ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "68bde9d0-bc75-4423-bafd-20adc05da2bf",
+    "data": [
+      {
+        "text": " akun saya ini. di akun saya pada menu sedang dikirim ada notif 3 barang yg sedang dikirim tetapi ketika saya buka hanya ada 2 barang yg sedang dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "99f6a0cb-46dc-4cfb-8e56-c5f1df392e06",
+    "data": [
+      {
+        "text": "Transaksi ini tidak mucul di notifikasi Tokopedia saya..padahal di email ada, dan saya sudah transfer.. mohon bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8ae18a3b-2965-4b84-b625-eb856a87a5e5",
+    "data": [
+      {
+        "text": "kemarin saya beli kursi plastik, tapi hari ini di notifikasi tidak ada.Saldo OVO saya di toped juga ga ada, padahal di gadget masih ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ae50e1cf-d499-4dfc-99db-0ef5218bc6cb",
+    "data": [
+      {
+        "text": "Sejak kemarin saya tidak bisa melakukan transaksi via aplikasi . Kalau saya tap icon trolley selalu keluar notifikasi \"Terjadi Kesalahan - 403 Forbidden - Coba Lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "268b9f23-bd70-4207-849d-ade12ac18142",
+    "data": [
+      {
+        "text": "Mau tanya kenapa sudah hampir seminggu ga bisa masuk ke ulasan.Notifikasi dan ulasan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cf393f98-1e43-4127-afe0-92c734a9e5de",
+    "data": [
+      {
+        "text": ".sekarang ko ga ada notifikasi order masuk atau diskusi produk.baru ketika dibuka aplikasinya, baru kelihatan ada order dan diskusi produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8da9ae8e-2d16-4298-8310-d0f5ba37959f",
+    "data": [
+      {
+        "text": " notifikasi g muncul. Sampe tiba2 hari ini sy terima info klo ada transaksi yg dibatalkan otomatis oleh sistem. Dan diskusi dr pembeli pun g muncul notif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7627a2d7-e8ac-418a-9946-2691f3062265",
+    "data": [
+      {
+        "text": "Tidak ada notifikasi saat ada diskusi pesanan baru dan pesan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4a1dd701-7c68-4015-95f4-fa0007ce8726",
+    "data": [
+      {
+        "text": "Halo toped saya mau tanya,saya sudah order barang dan sudah saya lunasi sesuai dgn harga tetapi ko masih muncul notif menunggu pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

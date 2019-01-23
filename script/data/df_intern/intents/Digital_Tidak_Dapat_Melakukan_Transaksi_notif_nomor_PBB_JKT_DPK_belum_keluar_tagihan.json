@@ -1,0 +1,39 @@
+{
+  "id": "ecc34bc5-fc7d-4c49-a79d-d196c43c5c50",
+  "parentId": "3b676d32-13fe-4e9b-a60d-e57aa178c822",
+  "rootParentId": "c230094b-7dd5-43f4-984b-d415098c4e53",
+  "name": "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_nomor_PBB_JKT_DPK_belum_keluar_tagihan",
+  "auto": false,
+  "contexts": [
+    "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_nomor_PBB_JKT_DPK-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_nomor_PBB_JKT_DPK_belum_keluar_tagihan-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Silakan cek tagihan pajak kamu terlebih dulu ya. Semoga informasi Toped membantu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535963104,
+  "fallbackIntent": false,
+  "events": []
+}

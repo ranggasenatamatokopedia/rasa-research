@@ -1,0 +1,45 @@
+{
+  "id": "99188be4-f202-4513-b999-4d1aa6a872e6",
+  "parentId": "aca980f7-0eeb-420b-8904-a9fc8411653f",
+  "rootParentId": "62328066-6ba6-453c-b337-f9f221db5f6f",
+  "name": "FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir_Sicepat_Reguler",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir_Sicepat-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ee9ee5db-5b60-41bc-aa90-436df7acd4a8",
+          "dataType": "@layanan_kurir_reguler",
+          "name": "layanan_kurir_reguler",
+          "value": "$layanan_kurir_reguler",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Estimasi waktu pengiriman kurir SiCepat dengan layanan Reguler adalah 3-6 hari kerja ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528172858,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "reguler"
+    }
+  ]
+}

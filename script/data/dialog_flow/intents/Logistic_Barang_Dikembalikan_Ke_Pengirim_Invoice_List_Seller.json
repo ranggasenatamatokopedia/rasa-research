@@ -1,0 +1,51 @@
+{
+  "id": "98f49bfa-e679-494c-ba6c-3e5323bf26df",
+  "parentId": "8e0435d4-3e08-4e85-b6d3-cee6a50da0d6",
+  "rootParentId": "36de46a2-13d2-4f09-9ff4-8abcbcb54ba3",
+  "name": "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Seller",
+  "auto": true,
+  "contexts": [
+    "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckInvoiceStatusID",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Seller-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9f0b7f8a-c8d4-4864-aec8-cb3b317e3187",
+          "dataType": "@user_role",
+          "name": "user_role",
+          "value": "$user_role",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533801325,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "user_is_seller"
+    }
+  ]
+}

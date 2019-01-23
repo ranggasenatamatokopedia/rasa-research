@@ -1,0 +1,33 @@
+{
+  "id": "cb83cf2b-f923-4789-a267-7161ce5c2c58",
+  "name": "FAQ_Tokopoints_Apakah_Penukaran_Bisa_Menggunakan_Saldo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Tokopoints_Apakah_Penukaran_Bisa_Menggunakan_Saldo-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk saat ini penukaran Kupon hanya dapat dilakukan dengan menggunakan Points yang kamu miliki di akun Tokopoints, ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

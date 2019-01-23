@@ -1,0 +1,44 @@
+{
+  "id": "f6c4ce8f-9713-40df-ad99-a12afd86d021",
+  "parentId": "70bc682f-d1ac-4516-8c6b-ea7a0abfd3e9",
+  "rootParentId": "d9d2ac31-d864-4f6e-836c-94fff4d54ef6",
+  "name": "Logistic_Status_Pengiriman_Tidak_Sesuai_Invoice_List_Buyer_Delivered_Sudah",
+  "auto": true,
+  "contexts": [
+    "Logistic_Status_Pengiriman_Tidak_Sesuai_Invoice_List_Buyer_Delivered-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Status_Pengiriman_Tidak_Sesuai_Invoice_List_Buyer_Delivered_Sudah-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau pesanannya sudah diterima dengan baik kamu bisa lakukan konfirmasi penerimaan di halaman \"Status Pemesanan\", ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah kamu melakukan konfirmasi penerimaan, Toped akan teruskan dananya ke penjual. Terima kasih sudah bertransaksi di Tokopedia :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531136106,
+  "fallbackIntent": false,
+  "events": []
+}

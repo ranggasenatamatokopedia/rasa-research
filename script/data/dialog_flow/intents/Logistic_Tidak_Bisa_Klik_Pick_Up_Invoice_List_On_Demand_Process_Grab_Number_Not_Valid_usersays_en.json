@@ -1,0 +1,18 @@
+[
+  {
+    "id": "cffb34c6-f1a0-4d19-8ab3-b3048b6e5fdc",
+    "data": [
+      {
+        "text": "buyer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_number_is_not_valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

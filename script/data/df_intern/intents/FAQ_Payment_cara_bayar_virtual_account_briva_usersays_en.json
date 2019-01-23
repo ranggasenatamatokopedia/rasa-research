@@ -1,0 +1,25 @@
+[
+  {
+    "id": "482dc2a3-8acd-4512-ac3c-86f5f4068dba",
+    "data": [
+      {
+        "text": "BRIVA",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b78d178c-f8b7-4046-b5c3-6a85545766f2",
+    "data": [
+      {
+        "text": "BRI virtual account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

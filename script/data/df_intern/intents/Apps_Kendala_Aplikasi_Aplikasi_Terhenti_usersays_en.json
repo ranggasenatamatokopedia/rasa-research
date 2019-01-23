@@ -1,0 +1,24 @@
+[
+  {
+    "id": "e3d52361-357e-492e-8b92-a193aa71d590",
+    "data": [
+      {
+        "text": "Aplikasi berhenti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bd85d246-782c-4ea7-a7a0-89ddf8ed58b6",
+    "data": [
+      {
+        "text": "Aplikasi Terhenti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

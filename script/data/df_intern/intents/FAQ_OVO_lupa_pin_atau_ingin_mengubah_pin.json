@@ -1,0 +1,31 @@
+{
+  "id": "b34a6d85-d1ae-4488-975c-bad3ce86954d",
+  "name": "FAQ_OVO_lupa_pin_atau_ingin_mengubah_pin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika kamu lupa atau ingin mengganti PIN OVO Kamu, silakan klik \"Lupa Security Code\" dan ikutin langkah selanjutnya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_ovo_lupa_pin_atau_ingin_mengubah_pin"
+    }
+  ]
+}

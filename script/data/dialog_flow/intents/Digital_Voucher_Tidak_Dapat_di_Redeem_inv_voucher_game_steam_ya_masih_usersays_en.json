@@ -1,0 +1,35 @@
+[
+  {
+    "id": "5423e7c7-27d5-4d19-97b1-99d8227ffc2f",
+    "data": [
+      {
+        "text": "masih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "355fd4fc-144b-431b-8cdd-39eb2918aa05",
+    "data": [
+      {
+        "text": "belum bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "35fb9e9c-c9ab-4b7f-ae16-84b03cd8e472",
+    "data": [
+      {
+        "text": "ya, masih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

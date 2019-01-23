@@ -1,0 +1,29 @@
+[
+  {
+    "id": "d4cf2f02-5c57-496d-8a8c-a627bb47fd3c",
+    "data": [
+      {
+        "text": "sla_logistics_is_not_over_yet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c209bd96-0e96-46fe-9c29-e94ec16218ea",
+    "data": [
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " SLA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

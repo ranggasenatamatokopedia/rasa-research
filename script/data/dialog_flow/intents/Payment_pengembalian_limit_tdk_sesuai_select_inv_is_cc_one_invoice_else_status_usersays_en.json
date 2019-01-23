@@ -1,0 +1,84 @@
+[
+  {
+    "id": "f7f9004a-30f0-4257-9e15-910f2d78026c",
+    "data": [
+      {
+        "text": " invoice_pesanan_dikomplain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c174f6d8-60e2-43db-ac7e-257106d5dc1f",
+    "data": [
+      {
+        "text": " invoice_pembayaran_diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0cb56cbb-390e-438b-b04c-37b6200df0f5",
+    "data": [
+      {
+        "text": " invoice_pesanan_sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "72047a17-6623-439e-a372-ee1340d112ad",
+    "data": [
+      {
+        "text": " invoice_barang_diganti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d436865d-2892-451f-98fe-8c4d4e8b3643",
+    "data": [
+      {
+        "text": " invoice_menunggu_status_kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b055c7fb-9b59-40e8-9bd6-fa7cd6b16ff3",
+    "data": [
+      {
+        "text": " invoice_sedang_diproses_",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fd18a022-c609-4706-abcd-ba65ee95aa5a",
+    "data": [
+      {
+        "text": " invoice_sedang_dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

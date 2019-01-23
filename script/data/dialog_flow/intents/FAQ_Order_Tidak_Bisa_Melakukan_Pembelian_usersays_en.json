@@ -1,0 +1,698 @@
+[
+  {
+    "id": "12a5d4d7-cf3d-4a15-b5ef-184fc70add7b",
+    "data": [
+      {
+        "text": "saya mau beli tapi kenapa ngga bisa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3484c334-cb4a-4dd7-8f88-bace79b32098",
+    "data": [
+      {
+        "text": "tidak bs beli nih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "02293b70-fea4-4b1a-a1da-e584d0d372a3",
+    "data": [
+      {
+        "text": "gak bisa beli barang ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0e8dbbb1-3b3f-4135-a807-faf4ed0d15dd",
+    "data": [
+      {
+        "text": "tidak bisa membeli barang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "42c221bd-9d0e-4cb8-8d97-804bd3e36b93",
+    "data": [
+      {
+        "text": "tidak bs lakukan pembelian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cfbf9734-6664-436d-a0f3-790834da3861",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya gak bisa beli di tokped, knp ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "69f32f5b-9376-4a48-a5a2-d2c188e4afc8",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tlg saya gak bisa beli barang di tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "55aa4cb4-3895-4a32-8a9b-e8de794440e1",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kenapa saya gak bisa lakukan pembelian di toped?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f6b61efc-276f-45e1-b0a2-dd176de76fd7",
+    "data": [
+      {
+        "text": "ngga bisa beli di toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1f9887e3-98ce-4f4e-a831-f6ad05fe6fa0",
+    "data": [
+      {
+        "text": "tidak bisa beli di toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8a16ff76-fe92-478c-a982-a4c254526b5a",
+    "data": [
+      {
+        "text": "kenapa tombol beli ga ada ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fafda3de-73cf-4358-a81e-2a23eb3571b1",
+    "data": [
+      {
+        "text": "saya mau beli barang, tapi kenapa tombol beli nya ga muncul ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0a75d38b-13ce-484b-9e9e-481694ec22b9",
+    "data": [
+      {
+        "text": "saya mau beli barang, tapi ga ada  tombol beli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ca263e0c-8fc2-446f-a1e4-b0d3575e6e9d",
+    "data": [
+      {
+        "text": "tidak bisa klik beli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1d3a1f51-2a7c-4eb3-89e9-7cd5043a4f40",
+    "data": [
+      {
+        "text": "button beli tidak ada di bagian produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "eb74662c-ef85-4241-ad2a-31a4037c7567",
+    "data": [
+      {
+        "text": "tidak bisa klik \"beli\" di halaman produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "95831744-fd89-426a-9392-1c20e69ffe9c",
+    "data": [
+      {
+        "text": "tombol beli tidak ada yang bisa di klik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6742194e-b6c4-4a85-858a-b05ca97fff8c",
+    "data": [
+      {
+        "text": "mengapa tidak ada tombol beli di halaman produk?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fde4796f-ba18-46fa-9876-830156ebba39",
+    "data": [
+      {
+        "text": "mengapa tombol beli di halaman produk tidak muncul?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3cb4c16f-0773-4c20-93bf-f3f880dc4d03",
+    "data": [
+      {
+        "text": "tombol beli ga muncul?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a0249795-b530-4ddd-aa9a-08eed5aafcf7",
+    "data": [
+      {
+        "text": "mau beli tapi tidak ada tombol beli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "58652a5a-6ee7-4831-8468-fe0d8aa3a050",
+    "data": [
+      {
+        "text": "tidak ada tombol beli nya, kenapa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "793ae9a2-3d39-4510-9c1c-33ecdcb59679",
+    "data": [
+      {
+        "text": "kenapa saya mau beli barang tapi tombol belinya tidak muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7e407325-65b2-449c-b70a-0fd2c1a340d3",
+    "data": [
+      {
+        "text": "apa ada masalah dalam pembelian karna ngga bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a5ea1ec4-d6f2-49c3-85f9-a6a4187272b4",
+    "data": [
+      {
+        "text": "apa ada gangguan pembelian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "489d5951-967a-48ea-be9d-6bb9779ea5ed",
+    "data": [
+      {
+        "text": "tidak dapat membeli apa masalahnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "869324ce-1662-4bab-878e-c5cb0781f96b",
+    "data": [
+      {
+        "text": "gimana mau beli kalo ngga bisa terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0e6aeb97-d83c-4531-8be5-e07f5221d2f1",
+    "data": [
+      {
+        "text": "mau beli tapi kok ngga bisa sih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "21bf5c7d-af7b-4080-89b1-325cfc8a1964",
+    "data": [
+      {
+        "text": "tidak bisa membeli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6cfecf0d-69a0-4975-aaa6-66e25e75ec4b",
+    "data": [
+      {
+        "text": "tidak bisa beli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b1faa44e-86cb-47d3-8cf5-9924c3303eff",
+    "data": [
+      {
+        "text": "ini gimana cara beli soalnya ngga bisa bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e0c0767f-cf89-4317-8127-647cd82d7069",
+    "data": [
+      {
+        "text": "sudah diulang tapi mau beli masih saja ngga bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "db240755-6dd1-40f4-abea-bfe0922ed263",
+    "data": [
+      {
+        "text": "mau beli tapi ngga bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c18f5fd7-57dd-4fd0-9b59-cf02354eb267",
+    "data": [
+      {
+        "text": "gagal pembelian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9dd47f9c-4d2b-4358-ae1c-af872adcd719",
+    "data": [
+      {
+        "text": "gagal beli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b05ee8bf-3245-431f-b2aa-e111429cbd66",
+    "data": [
+      {
+        "text": "saya mau beli tapi ngga bisa terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9413af37-e6b0-4c81-900b-2999d6a417ff",
+    "data": [
+      {
+        "text": "bagaimana ini tidak bisa beli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5ea12e22-9487-45f9-b801-9fa22e3322d4",
+    "data": [
+      {
+        "text": "mau beli ngga bisa bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8d7d0400-0966-4cf9-9735-e92e8c353966",
+    "data": [
+      {
+        "text": "tidak dapat melakukan pembelian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c4c5c839-a0d6-4e36-a519-7ed9bbf99793",
+    "data": [
+      {
+        "text": "tidak bisa melakukan pembelian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b7cb6e2d-4553-496b-a49c-1d46f5b90d94",
+    "data": [
+      {
+        "text": "ini kenapa saya ngga bisa beli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c599c727-ab85-4762-a672-46ce34f27005",
+    "data": [
+      {
+        "text": "ngga ada tombol beli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7376b403-48f3-4713-9565-6e374e0975b5",
+    "data": [
+      {
+        "text": "ngga bs beli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bf0ad90d-5f36-4f0b-87b5-01010b7e3920",
+    "data": [
+      {
+        "text": "Hari ini sy tdk dpt melakukan transaksi. Tokped menunjukkan halaman error di saat sy click beli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d673eb17-0061-419d-9875-d4a5cff91c86",
+    "data": [
+      {
+        "text": "ada buyer mau pesan barang.tapi kata buyer, tak bisa di order barangnyamhn info ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a10af82a-d0e6-4261-846c-ea196e3db140",
+    "data": [
+      {
+        "text": "Kenapa gak bisa melakukan pembelian ya, tulisan errornya \"produk tidak tersedia saat ini\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2ff383be-28df-47a1-b974-a06eb655035d",
+    "data": [
+      {
+        "text": "kenapa akun tokped saya ga bisa transaksi padahal kuota masih banyak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a6088ffb-148f-4ffd-bdf7-a06172cef427",
+    "data": [
+      {
+        "text": "saya ga bisa order. setiap saya mau order, ada tulisan terjadi kesalahan koneksi. mohon dibantu karena saya butuh urgent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "78a2eeb7-8917-480a-a759-9da7b2d0fd81",
+    "data": [
+      {
+        "text": "terjadi kesalahan koneksi untuk semua produk, jadi tidak bisa beli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "610c16fc-2711-4a0d-9f2e-4a0ab40283f8",
+    "data": [
+      {
+        "text": "kenapa saya gak bisa beli ya, padahal koneksi internet saya lancar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e45d89ad-00f8-4d88-8bf1-5ff64910bd78",
+    "data": [
+      {
+        "text": "saya gak bisa klik beli, tulisannya terjadi kegagalan koneksi, padahal koneksi internet saya baik ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8e396038-50a8-45ac-b5e9-b18875ae9efc",
+    "data": [
+      {
+        "text": "saya coba transaksi tp error, sudah restart hp juga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e4a83956-aed1-4b33-96ee-d284ae03a450",
+    "data": [
+      {
+        "text": "ketika menekan pilihan BELI pada produk yang akan dipesan muncul tulisan :TERJADI KESALAHAN403 FORBIDENCOBA LAGI",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a34ca226-d37a-4dc2-bc07-a4eb2ba4f620",
+    "data": [
+      {
+        "text": "saya gak bisa beli barang, padahal internet nya bagus aja,apakah akun saya sdh di suspend?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "732e1a1e-5560-4ba8-8534-c5466d2397b1",
+    "data": [
+      {
+        "text": "siang, saya mau buka toko di tokopedia.. tapi mau masukin produk ga bisa bisa.. bisa tolong dibantu kak? kenapa ya ga bisa kak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c35e1898-2b9e-471a-a5f5-c6ad30278e44",
+    "data": [
+      {
+        "text": "kenapa saya tidak bisa membeli barang di toped?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "214d27d9-9fe8-4874-9c1d-8e8d1a013280",
+    "data": [
+      {
+        "text": "Dari kemarin setiap di klik tombol beli maka akan muncul message terjadi kesalahan koneksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b37f1aca-ba04-488b-8ac7-66ed5c3413f2",
+    "data": [
+      {
+        "text": "saya mau tanya....tadi saya mau belanja tidak bisa ...kenapa yach",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "29e5e026-d6e6-4627-8267-8db8c7f89746",
+    "data": [
+      {
+        "text": "dear admin Saya mau tanya saya sedikit ada kendala Kenapa setiap kali saya mau melakukan pembelian selalu koneksi tidak ada mohon bantuannya terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2352484d-7105-4d33-bbf5-8537029ef222",
+    "data": [
+      {
+        "text": "kenapa saya tidak bisa transaksi ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e466de97-7737-4cb5-9556-4d149240e16b",
+    "data": [
+      {
+        "text": "kenapa saya tidak bs beli? padahal saya sudah masukkan semua dengan betul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

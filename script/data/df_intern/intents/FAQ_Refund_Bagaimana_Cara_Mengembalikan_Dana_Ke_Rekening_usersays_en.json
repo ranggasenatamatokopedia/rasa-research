@@ -1,0 +1,666 @@
+[
+  {
+    "id": "5fddf744-b0c7-449d-ae11-c70852774e04",
+    "data": [
+      {
+        "text": "Saya tidak bisa tarik dana penjualan saya.... ini penjualan ",
+        "userDefined": false
+      },
+      {
+        "text": "pertama",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya... maaf saya belum tahu caranya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "87352ad0-2cde-44cc-a8e5-aa9e3a5db55a",
+    "data": [
+      {
+        "text": "tentang tarik dana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0e62ba25-c3b6-4abb-b53c-7087496ad0b8",
+    "data": [
+      {
+        "text": "dana pengen d kembalikan ke rekening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a3aaeb93-2ebc-4832-a683-656b0f6ebccf",
+    "data": [
+      {
+        "text": "pesanan saya dibatalkan, cara pengembalian via rekening gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a09404a3-dbf2-4871-8cd2-3f063c7ce047",
+    "data": [
+      {
+        "text": "my pln token purchased failed and my money was returned to tokocash whcih i can\u0027t take the money out. pls move it to saldo so i can transfer to my bank acf",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "78e987a2-7e5b-4f42-b415-253fb584ec6d",
+    "data": [
+      {
+        "text": "bagaimana cara tarik dana ini kembali ke rekening saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ffaf4bc1-b3d0-4c83-a805-ea036d1c9023",
+    "data": [
+      {
+        "text": "dana ingin di tarik ke rekening kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "241cc021-1238-4e37-9dba-9a4849adb803",
+    "data": [
+      {
+        "text": "dana tolong dikembalikan ke rekening tabungan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "69505137-ddba-4f66-9f74-e750bc45aa8b",
+    "data": [
+      {
+        "text": "dana saya ingin dikembalikan ke rekening saja.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "73c21233-9e3c-4242-8ce7-8cdabe5d7053",
+    "data": [
+      {
+        "text": "ingin tarik dana kembali ke rekening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54964a55-48dc-4903-8e8c-462ca4727e69",
+    "data": [
+      {
+        "text": "dana masuk kembali ke rekening saya bisa tidak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8780a095-458d-4784-a243-4d446c92a672",
+    "data": [
+      {
+        "text": "bagaimana caranya mengembalikan dana ke rekening bukan ke saldo toko pedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0142763d-274c-4a41-8884-74e23b228285",
+    "data": [
+      {
+        "text": "sy mau tarik uang yg gagal dr transaksi tersebut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b54ea111-a4f9-4dcb-ae8f-8f24101dda96",
+    "data": [
+      {
+        "text": "bagaimana cara konfirmasi pengembalian dana ke rekening? thx",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "413efe9c-692b-4834-b682-027de0d72895",
+    "data": [
+      {
+        "text": "atau gimana ya caranya min? sy mau tarik dana nya kembali ke rekening saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "356d6a21-5c74-4b66-8b72-872b4642716c",
+    "data": [
+      {
+        "text": "cara mengembalikan dana ke rekening pribadi gmn min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c56a31af-f68f-4828-87cf-b791ee8f5599",
+    "data": [
+      {
+        "text": "dana tolong di kembalikan ke rekening pribadi saja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d22c41f1-2354-479f-bf56-26555cb59bf0",
+    "data": [
+      {
+        "text": "cara pengembalian dana dari toko cash ke rekening pribadi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f273a77-fb1f-4560-9ab6-fb51493cf0d7",
+    "data": [
+      {
+        "text": "cara pindahkan Dana dari toko cash ke saldo tokped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "538fa51e-8ced-4c62-8f88-111d8cdc333a",
+    "data": [
+      {
+        "text": "dananya tolong dikembalikan kerekening asal saja ya saya kurang paham",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8c877799-f5d8-420c-a506-7526d6d209a5",
+    "data": [
+      {
+        "text": "kembali dana ke rek pribadi gimana caranya ? linktag",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f47ac34c-854a-4e1d-8fac-8de65aa412fe",
+    "data": [
+      {
+        "text": "bagaimana caranya dana saya dikembalikan ke rekening saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc754158-605d-4479-a04e-d20e5cee7658",
+    "data": [
+      {
+        "text": "dana masuk toko cash minta kembali ke rekening aja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21dab1f5-c33a-4f54-abf5-6bce05c90c14",
+    "data": [
+      {
+        "text": "kembalikan aja dulu dana ke rek pribadi saya kak caranya gimna",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "657e51fc-20be-474a-80a5-a0c75c66f59c",
+    "data": [
+      {
+        "text": "cara mengembalikan dana ke rekening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e66740d-3851-400d-89b9-6b1937a0dee4",
+    "data": [
+      {
+        "text": "cara pengembalian dana ke rek pribadi saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51141b67-da2a-4265-b4ee-1b294db82c5c",
+    "data": [
+      {
+        "text": "bagaimana cara menarik dananya ke rekening sy kembali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d33c16fb-508c-4c25-a544-25d1c41ad5ae",
+    "data": [
+      {
+        "text": "cara memindahkan dana dari tokocash",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "32b48991-aa9b-4d70-8790-f5b7b5d0668f",
+    "data": [
+      {
+        "text": "Wd",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "64169be8-135b-4f68-b1f8-18cb789b2eae",
+    "data": [
+      {
+        "text": "dana sudah di toko cash, bagaimana ditarik balik ke rekening bca?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bbb489d5-02b6-45c3-8569-837093cb6d05",
+    "data": [
+      {
+        "text": "bagaimana cara mengembalikan dana ke rek. saya??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "acbe3115-14c9-4f0f-a935-e9eae07e5ad3",
+    "data": [
+      {
+        "text": "halo admin,pesanan saya di batalkan dan dana tidak bisa di tarik kembali karena masuk ke toko cash.. tolong dana di cairkan ke rekening saya.. makasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33c6c675-5efa-46f8-9667-e68cf6115566",
+    "data": [
+      {
+        "text": "lalu gimana lg nih caranya balikin dana itu kerekening saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0f9883f-89b0-4312-ab71-f21d2c9584ff",
+    "data": [
+      {
+        "text": "kak kalau dana itu di kembalikan ke rekening gmn caranya ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39c19681-c5ac-4972-ae53-f89692f41f59",
+    "data": [
+      {
+        "text": "bagaimana cara penarikan kembali dana ke rekening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d108e3d4-0c38-49c0-b5b9-3258d45b87b7",
+    "data": [
+      {
+        "text": "saya ingin menarik seluruh dana dari tokocash",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2b810772-96d0-476f-a4f0-25d1c3f93d41",
+    "data": [
+      {
+        "text": "saya pikir smua dana pada tokocash bisa ditarik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "70023a9e-7619-4c1b-9250-2786509dde74",
+    "data": [
+      {
+        "text": "bagaimana caranya penarikan dana dari saldo saya di Tokopedia ke rekening saya ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "df344ada-3f41-4bb9-984f-8bac3e1d4af1",
+    "data": [
+      {
+        "text": "Bagaimana cara penarikan uang di saldo tokped setelah dapat kode OOTP tapi harus masukan sandi tokopedia,saya dapat kode sandinya dimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c24ff58e-21c1-4eb7-9720-1649e676edb1",
+    "data": [
+      {
+        "text": "saya mau cairkan saldo saya ke rekening asal saya. dikarenakan pembelanjaan dibatalkan. trmksh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "19f75252-5b25-483e-8a14-594f01ee2e18",
+    "data": [
+      {
+        "text": "pembayaran kartu kredit bank mega INVIDTAG sudah 1 jam lebih belum berhasil , bagaimana cara refund ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cac81fb8-8255-4e9d-858b-d90b6ac54b7f",
+    "data": [
+      {
+        "text": "Saya tidak bisa tarik dana penjualan saya.... ini penjualan pertama saya... maaf saya belum tahu caranya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5989d7c9-d22c-4a14-a59b-863d2b64a1fd",
+    "data": [
+      {
+        "text": "Mohon refund dana diakun saya ke rekening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "40cb565c-3968-4a41-a26c-27bbd46dc4f7",
+    "data": [
+      {
+        "text": "kenapa di batalkan?bagaimana cara ambil uangnya yg sudah di kembalinya dari toko pedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0acfbfa2-56d0-4d9c-b4be-6472c5f9f4c6",
+    "data": [
+      {
+        "text": "penarikan dana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9b109442-adba-4e07-bc3c-075416769269",
+    "data": [
+      {
+        "text": "penarikan saldo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "af414209-ed90-4c03-96cb-26d3f39e3365",
+    "data": [
+      {
+        "text": "Penarikan dana tanpa menggunakan ovo apa masih bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "60dc3113-b6dd-408e-a0c2-a198b3a88306",
+    "data": [
+      {
+        "text": "tarik dana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7299c300-5292-43a2-990c-488653427723",
+    "data": [
+      {
+        "text": "jadi bagaimana Dana nya agar bs masuk rekening ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bfddb90e-217b-450a-a5b8-678ab4dd449e",
+    "data": [
+      {
+        "text": "*penarikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "153fa76f-4f85-4050-bf9f-85e8d48bfb00",
+    "data": [
+      {
+        "text": "barang yg saya beli gak terkirim, dana di balikin ke saya, gimana caranya ambil uang saya untuk saya pindahin ke rekening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e9fc9c76-b722-459c-9340-20e307a27ed7",
+    "data": [
+      {
+        "text": "apakah cashback bisa ditarik ke rekening pribadi??kalau bisa caranya bagaimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "03303c3a-38cc-44f9-b1a4-65d1154609e7",
+    "data": [
+      {
+        "text": "Saya Mau cairkan dana yg ada di Tokocash apakah bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0f4a4a19-96b3-4f0d-95ec-e6b1d832120d",
+    "data": [
+      {
+        "text": "bagaimana caranya mau memindahkan dana di tokocash ke saldo di tokopedia? saya sdh coba dg membuka halaman tokocash, namun tdk ada riwayat tokocash dan yang ada hanya pmberitahuan, bhw tokocash dialigkan ke ovo.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a7f20dc3-dfc9-492d-adcc-f55c6d56f766",
+    "data": [
+      {
+        "text": "saya ingin mencairkan saldo toped ke rekening saya , tapi no saya yang ter verifikasi disini sudah tidak aktif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8629b0d2-8cc2-4042-9c07-18187222f5a7",
+    "data": [
+      {
+        "text": "yang mau saya tanyakab bagaimadaana cara mengubah uang yg ada di saldo saya sehingga bisa masuk ke rekening saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d4585e6b-3d8c-4505-8260-aa3329b50c55",
+    "data": [
+      {
+        "text": "saya minta saldo dkmbalikn ke rek sy, gimana caranya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

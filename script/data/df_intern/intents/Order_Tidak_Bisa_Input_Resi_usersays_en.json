@@ -1,0 +1,1734 @@
+[
+  {
+    "id": "8c5384a5-732c-4578-b20d-f168ff21ff57",
+    "data": [
+      {
+        "text": " kenapa tidak bisa konfirmasi untuk memasukkan nomer resi pengiriman?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b93fa622-da59-4fe3-a945-4697dfb3ab97",
+    "data": [
+      {
+        "text": "tidak bisa di isi nomor resi  dan barang sudah diterima pembeli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6d31de40-7568-4f0c-a6cd-009ae43b0397",
+    "data": [
+      {
+        "text": "mohon bantuannya saya tidak bisa konfirmasi barang yang sudah saya kirim, padahal sudah saya ketik nomer resinya (lampiran sesuai attachment). terima kasih atas bantuannya, saLam, yusufam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1e5f282e-4a27-481a-a086-647b00ea758c",
+    "data": [
+      {
+        "text": "Saya tidak bisa input resi lagi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9d56503a-b0d4-46a1-be59-e1b0f7e7e83e",
+    "data": [
+      {
+        "text": "Saya tidak bisa input resi, tulisannya ada yang telah menggunakan resi tersebut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2f1ec437-643a-4ecc-bfa9-4b051f253e5f",
+    "data": [
+      {
+        "text": "Tidak bisa input resi karena ada keterangan Nomor Resi sudah digunakan lebih dari ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "98631858-0d59-4a1b-81b7-d5ec75076fc9",
+    "data": [
+      {
+        "text": "pesanan belum sampai, komplain dan dijawab tidak bisa input resi dan minta dibatalkan komplain.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8ce871ef-1d22-46bb-8a29-3033ddea9106",
+    "data": [
+      {
+        "text": "tidak bisa input resi dari supplier,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b8250542-d8fe-4b98-96d5-d1d54e9a18f0",
+    "data": [
+      {
+        "text": "Saya tidak bisa input resi karena kendala alamat. Jika saya tidak input resi maka kredibilitas toko saya tercoreng.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "524aee04-2694-4e5a-8fbd-d8729ebb65a2",
+    "data": [
+      {
+        "text": "saya ",
+        "userDefined": false
+      },
+      {
+        "text": "dropship",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dari lapak ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", namun ketika input resi error \u0026#",
+        "userDefined": false
+      },
+      {
+        "text": "34",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ";tidak bisa input resi karna sudah di gunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "2x",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5ac75054-58ad-4899-bfb5-3af472c7c1ea",
+    "data": [
+      {
+        "text": "saya tidak bisa input resi bbrp kiriman. dikatakan bahwa sudah diinput ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " x.mohon bantuannya agar bisa diinput",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "517b18cd-e3d0-462c-8745-a6f896a03e7d",
+    "data": [
+      {
+        "text": "hi admin, kenapa ",
+        "userDefined": false
+      },
+      {
+        "text": "tiba2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " semua transaksi saya hilang? barang semua sudah saya kirim dan pas mau input resi semua hilang tidak bisa input resi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "13b3da63-e9c6-41f3-b6de-37f9ba19b33e",
+    "data": [
+      {
+        "text": "terjadi error di menu \u0027konfirmasi pengiriman\u0027  ketika ada orderan masuk, saya tidak bisa input resi kiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7265b1f9-6933-4c54-8f4b-d9b38ff07a58",
+    "data": [
+      {
+        "text": "saya mau tanya kenapa saya tidak bisa input resi untuk invoice : INV/",
+        "userDefined": false
+      },
+      {
+        "text": "20180727",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "/XVIII/VII/",
+        "userDefined": false
+      },
+      {
+        "text": "184337276",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ini.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7e3d767c-24f8-4345-9b4f-a54a822b2ff6",
+    "data": [
+      {
+        "text": "Halo admin. Orderan ini awalnya tidak bisa input resi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ab5b2109-bd6a-452e-923c-6ab09888cc67",
+    "data": [
+      {
+        "text": "Saya ",
+        "userDefined": false
+      },
+      {
+        "text": "dropshipper",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", dan saya tidak bisa input resi karena sudah terpakai ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kali. mohon bantuannya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7c39f227-6514-4151-aa6c-1daecb9584ac",
+    "data": [
+      {
+        "text": "tidak bisa input resi sudah berkali kali diinput tapi tetap tidak bisa, seperti di photo terlapir terimakasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1f85d0dc-f413-4e1e-849e-84b3ab280297",
+    "data": [
+      {
+        "text": "Mohon di reset ulang...karena salah masukkan resi dengan resi yg sudah terkirim,Di aplikasi tidak ada menu ubah resi jd mohon di bantu agar saya bisa masukkan resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4769e2ed-e990-453a-8bd5-449cec5f2f8d",
+    "data": [
+      {
+        "text": "tidak bisa input resi. keterangannya resi sudah dipakai ",
+        "userDefined": false
+      },
+      {
+        "text": "2x",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". padahal sy baru saja mau input",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9a6feec5-411e-419e-b4d2-b486cefdcf51",
+    "data": [
+      {
+        "text": "tolong bantu hubungi saya dong, ada ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " barang di komplain ada yg kurang, tp saya sudah kirim dan tidak bisa input resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "13307736-7127-46c7-8963-b847bb16fcb9",
+    "data": [
+      {
+        "text": "saya tidak bisa input resi resi sudah di gunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "2x",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya ",
+        "userDefined": false
+      },
+      {
+        "text": "dropship",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dengan toko shine cirebon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3880ed83-6fa6-4894-a21b-4879a193d899",
+    "data": [
+      {
+        "text": "mohon maaf, saya tidak bisa input resi yang sesui dengan paket,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "44625e46-6290-492e-aacd-63d29ad47373",
+    "data": [
+      {
+        "text": "saya tidak bisa input resi, saya sudah coba ",
+        "userDefined": false
+      },
+      {
+        "text": "berkali2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6b92f1f7-5aa4-4913-a208-657a0b481b6d",
+    "data": [
+      {
+        "text": "saya tidak bisa input resi fisiknya krn itu dropship pas kebetulan sabun bambu saya habis waktu itu.. plis help.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0defc7c3-a193-4221-9442-8285384f5688",
+    "data": [
+      {
+        "text": "Saya sebagai reseller tidak bisa input resi, di ket tertulis resi sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "2x",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " input.no invoice dan resi terlampir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8c1525c8-af8d-4243-9e6a-a347fcb2dd4f",
+    "data": [
+      {
+        "text": "sebagai ",
+        "userDefined": false
+      },
+      {
+        "text": "dropship",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak bisa input resi yang sama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9d506058-9155-4f85-b982-cfaa4402070c",
+    "data": [
+      {
+        "text": "tidak bisa input resi saya ",
+        "userDefined": false
+      },
+      {
+        "text": "dropshipper",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tpi dri ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " resi tidak bisa di input",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4da0e294-9a37-4b25-a46d-8a242ce6b9f8",
+    "data": [
+      {
+        "text": " sy mau mengubah nomor resi ny tidak bs krn no resi yg salah sy input statusnya sudah sampai tujuan. Sy Lampirkan bukti tracking no resi yg salah input ats nama RHENA , no resi yg seharusnya diinput ats nama ANIK dibawah ini.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6a20b06c-cda4-4adb-989a-41326bb93b61",
+    "data": [
+      {
+        "text": "Mohon bantuannya saya tidak bisa input resi pada invoice ini dikarenakan resi telah terinput ",
+        "userDefined": false
+      },
+      {
+        "text": "2x",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " padahal ini resi asli saya lampirkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bc876be4-ea13-46d1-8a3b-133e86bc2f4c",
+    "data": [
+      {
+        "text": "Penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bukan dari ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " home-appliance dan chat saya tidak pernah ada respon. mohon batalkan transaksi ini karena saya takut tidak bisa input resi ke ",
+        "userDefined": false
+      },
+      {
+        "text": "buyer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b45da375-2f1d-4309-b6cc-e88e4981e6d0",
+    "data": [
+      {
+        "text": "dear admin, mengenai no resi tsb diatas, sudah saya kirimkan per ",
+        "userDefined": false
+      },
+      {
+        "text": "hari ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". namun karena hp mati tidak bisa input resi...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9d1b8111-b60c-44f5-afb6-bca2965b6498",
+    "data": [
+      {
+        "text": "resi saya tidak bisa di input, tapi karena tidak bisa input resi pos begitu panjang maka saya singkat nomernya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "777b68e2-a4d6-4ce0-b3a4-f67647e70d3e",
+    "data": [
+      {
+        "text": "Dikarenakan tidak dapat input resi maka saya menambahkan ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " digit lagi di no resinya. No resi asli juga sudah saya infokan ke ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " melalui chat.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c8225efe-475f-488e-8bc4-d66857765a18",
+    "data": [
+      {
+        "text": "tidak bisa input resi ",
+        "userDefined": false
+      },
+      {
+        "text": "j\u0026t",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " diketerangan digunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "2kali",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ada ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " order yg ga bisa input resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "89ecc99e-7f52-40c9-8aa1-f7866e8335a4",
+    "data": [
+      {
+        "text": "Pesannya tertulis No resi sudah digunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "2x",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", ya tentu saja dan jelas ",
+        "userDefined": false
+      },
+      {
+        "text": "2x",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " karena kami beli sebagai ",
+        "userDefined": false
+      },
+      {
+        "text": "Dropshipper",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " (beli di Tokopedia juga)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bb5d675e-d65c-4a32-8142-ce416aa5f897",
+    "data": [
+      {
+        "text": "dikarenakan saya tidak bisa input resi lebih dari 2x, maka 2 pesanan yang lainnya saya tambahkan angka 1 dibelakangnya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5e4006fd-f23c-4fd1-90a8-efeae52b9f34",
+    "data": [
+      {
+        "text": "Transaksi saya di batalkan karena tidak bisa input resi karena saat input resi tokopedianya gak bisa respon dan ",
+        "userDefined": false
+      },
+      {
+        "text": "keluar2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " terus ini harus bagaimana ya?  ini invoicenya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3cb37c4a-03c4-405a-939a-2f0b7d0c8812",
+    "data": [
+      {
+        "text": "Hallo admin, terkait transaksi INV/",
+        "userDefined": false
+      },
+      {
+        "text": "20180102",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "/XVIII/I/",
+        "userDefined": false
+      },
+      {
+        "text": "126384198",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ada kesalahan pengiriman sehingga saya tidak bisa input resi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a9bec778-c391-4eab-8f0d-75ae21246066",
+    "data": [
+      {
+        "text": "saya tidak bisa konfirmasi pengiriman ,  barang sudah jalan menggunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " . tapi saya tidak bisa input resi .  bagaimana ini ? apakah sedang maintenance ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2efef662-583f-46f8-b772-5a73edca36dc",
+    "data": [
+      {
+        "text": "maaf sebelumnya sya tidak mengetahui kalau di toped tidak bisa input resi double. kronologinya ada salah ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "buyer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " menambah pesanan ke alamat yg sama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "419e1f77-0f23-4bac-8508-48d94be09d75",
+    "data": [
+      {
+        "text": "saya tidak bisa input resi untuk invoice ini.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9b17824a-e931-450a-bf03-3475516d94a6",
+    "data": [
+      {
+        "text": "tolong bantu untuk transaksi saya tidak bisa input RESI karena sudah di pakai 2x katanya,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b0fa8db2-adac-49c8-9c88-490f4aa2fb05",
+    "data": [
+      {
+        "text": "Saya mengirimkan paket tidak melalui kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tetapi melalui Kurir Lion Parcel sedangkan Di tokopedia tidak bisa input Resi Lion Parcel,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8ea9ba6a-0d7d-4268-b5f6-0cf8b46e2197",
+    "data": [
+      {
+        "text": "JIka tidak input resi, nanti dana penjualan saya akan kembali ke ",
+        "userDefined": false
+      },
+      {
+        "text": "buyer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". padahal barang sampai, mohon bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fa6d0ef0-f328-4f56-981d-d663e01c0adc",
+    "data": [
+      {
+        "text": "saya tidak bisa input resi untuk retur barang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5863dd50-ef68-464f-9935-b99426b771e8",
+    "data": [
+      {
+        "text": "Saya dropshiper, tidak bisa input resi. Pada saat penginputan resi muncul notifikasi bahwa no resi sudah diinput lebih dari ",
+        "userDefined": false
+      },
+      {
+        "text": "2x",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "baf5bfa7-25ed-4851-8def-7b74929f86db",
+    "data": [
+      {
+        "text": "mohon bantuan admin tokopedia saya tidak bisa input resi j\u0026amp;t selalu gagal,mohon bantuannya untuk mengatasi kendala in \n berikut dilampirkan screenshot input resi gagal, terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "99bd0694-b974-4114-b530-98138310c3dc",
+    "data": [
+      {
+        "text": "Tidak Bisa Input Resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c681a6ea-ac1c-4d3c-ae1d-ea658b832b3d",
+    "data": [
+      {
+        "text": "saya tidak bisa input resi pengiriman karna sudah digunakan 2 kali,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9e207452-3f1b-48b4-a6f5-57eec8bda676",
+    "data": [
+      {
+        "text": "tidak bisa input resi,,resi tidak bisa dimasukkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9de6b098-cb1a-4121-bce7-007383a9214c",
+    "data": [
+      {
+        "text": "tidak bisa input resi di pusat resolusi, keterangan \u0026#",
+        "userDefined": false
+      },
+      {
+        "text": "34",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ";tokopedia sedang kepenuhan pengunjung.....\u0026#",
+        "userDefined": false
+      },
+      {
+        "text": "34",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "; dari pkl",
+        "userDefined": false
+      },
+      {
+        "text": ".16.00",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " masih belum bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2f372a77-2f8f-4fba-8d35-eedce7ee2853",
+    "data": [
+      {
+        "text": "selamat malam, maaf saya tidak bisa input resi pengiriman. mohon bantuannya 🙏",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "992c7ed0-17e2-4f21-aa75-f8c94aaaecc8",
+    "data": [
+      {
+        "text": "mohon bantuan. saya tidak bisa input resi dengan error resi pernah diinput ",
+        "userDefined": false
+      },
+      {
+        "text": "2x",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". padahal resi blm pernah saya input. ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " barang sdh sampai ke ",
+        "userDefined": false
+      },
+      {
+        "text": "buyer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "077de2c7-a972-4878-8319-324183c7942b",
+    "data": [
+      {
+        "text": "Sy tidak bisa input resi invoice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1d9e7158-9272-4d15-be5b-53f4b5e79f34",
+    "data": [
+      {
+        "text": "Saya tidak bisa input resi asli, padahal saya baru saja mau input, keterangan nya resi sudah diinput ",
+        "userDefined": false
+      },
+      {
+        "text": "dua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kali.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2599359f-2fb1-4af0-9eff-6c81c5edef99",
+    "data": [
+      {
+        "text": "Saya tidak bisa input resi tukaran ke ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan barang sudah di kirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3acc6dd8-1a27-42af-9a1a-21d1aa99a98f",
+    "data": [
+      {
+        "text": "pada saat ke 3 kali tidak bisa input resi? bagaimana ya solusinya..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "367bb745-1848-495f-b6fa-cbe7537343d1",
+    "data": [
+      {
+        "text": "tidak bisa input resi ",
+        "userDefined": false
+      },
+      {
+        "text": "jne",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " yang saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4d1d1d8f-edd4-490e-8213-a4169a251852",
+    "data": [
+      {
+        "text": "selamat pagi, Saya Ada kesalahan input nomor resi pengiriman untuk transaksi INVIDTAG seharusnya AMJ89403 namun terinput AMJ98403 (terbalik angka 8 Dan 9). Hal ini baru disadari setelah pembeli mengajukan complain. namun sy kesulitan untuk mengubah nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "04bdb39d-cfd2-4c86-8e88-0b3fea011fb2",
+    "data": [
+      {
+        "text": "saya mau input resi pengiriman, keluar eror seperti itu terus. sudah hampir se jam seperti itu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "42fbdd12-9dc7-4306-9d8e-8dae7b297a2e",
+    "data": [
+      {
+        "text": "nomor resi pengiriman sudah saya input,tapi kenapa statusnya masih siap dikirim saja ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "99b66c3d-f6f6-46ab-a79e-0e8ae301766e",
+    "data": [
+      {
+        "text": "barang udah di kirim looo tapi di input gabisa gimana sih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "42206682-2630-4812-aac0-f76496b60cc6",
+    "data": [
+      {
+        "text": "dimana bisa sy unggah foto resi pengiriman?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f1c0da5b-efad-4eb9-b656-ba1a74d7263a",
+    "data": [
+      {
+        "text": "kenapa tidak bisa konfirmasi pengiriman ya dari tadi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a6026810-de78-46a4-a3cc-1bcef1bf3fdf",
+    "data": [
+      {
+        "text": "kenapa saya tidak bisa konfirmasi nomor resi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6381f447-d27d-4248-8588-e1cca4fc718c",
+    "data": [
+      {
+        "text": "kmi mau mskin resi tp ga bs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "664e602e-0e63-477d-920a-03044e168348",
+    "data": [
+      {
+        "text": "Saya sudah melakukan pengiriman \u0026amp; barangnya sudah sampai no resi nya di satukan dengan pesanan sebelumnya tapi no resi sudah tdk bisa di input",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "611333a1-5d96-498c-90f6-256e2f6c8bc7",
+    "data": [
+      {
+        "text": "barang sudah di trima tapi masih mnunggu review dri toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e701868d-c711-4263-b654-44830d4685a2",
+    "data": [
+      {
+        "text": "saya tidak bisamemasukkan resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dd313079-55ad-47b7-85e7-58eeead0d723",
+    "data": [
+      {
+        "text": "Saya tidak bisa menginput nomor resi pos kilat khusus barang jualanan saya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "430aa027-52a2-4b96-8853-12d5f0f2d2ab",
+    "data": [
+      {
+        "text": "saya kan reseller berhubung saya gak bisa masukan resi fisik gimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "64301494-3a47-4c67-abc9-eb341a94cd1b",
+    "data": [
+      {
+        "text": "met sore, sy dropshipper tokopediasy tidak bisa input nomor resi drpshipperketerangan yg muncul tidak boleh dropshipp internal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f5eeb423-898b-4da3-82b3-fd231f47494f",
+    "data": [
+      {
+        "text": "kenapa resi benar tapi gak bisa dimasukkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6c4d5061-017e-4376-882f-faa58fb78b50",
+    "data": [
+      {
+        "text": "sudah dikirim barangnya,tapi tidak bisa input resinya...bisa dibantu, waktu tinggal 1 hari saya tunggu ya Bu/pak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3cc1f104-535a-4706-b9bb-8378cf927392",
+    "data": [
+      {
+        "text": "saya udah kirim barang ke JNE tp resi JNE gak bisa di scan, ketik manual pun tidak bisa di proses, sisa 1 jam lagi untuk konfirmasi padahal paket udah di terima pembeli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dd76bb3e-8a48-452a-beb7-88c6bf0ec8f1",
+    "data": [
+      {
+        "text": "saya tekat input resi, ketika diinput ternyata barang sudah sampai ke tujuan. jdi resi yg saya input jdi invalid. tolong bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "133b3539-8c6f-4e8e-b853-8cacee7f0267",
+    "data": [
+      {
+        "text": " saya ga bisa masukin resinya.gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9f7edf70-965c-420b-864f-f030c7df30e8",
+    "data": [
+      {
+        "text": "sudah saya dapatkan resi aslinya. tolong diisi ya. terima kasihsoalmya saya input manual masih dibilang salag resi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bae00100-3e9f-4784-82b8-d33c43180fea",
+    "data": [
+      {
+        "text": "tidak dapat memasukan no. resi untk. penjualan stoller",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e3eaaa4a-f63c-4081-8871-507241f76d16",
+    "data": [
+      {
+        "text": "resi nya tidak dapat di input di transaksi sampai sekarang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0cc735ad-cad3-45b9-92a9-7c05464bc97d",
+    "data": [
+      {
+        "text": "Saya dropshipper di tokopedia. Kenapa pada saat mau update nomor resi pengiriman dr supplier saya ke buyer sy tdk bisa diupdate ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f579c3cb-8b71-4e5b-8caa-ef7e53849d3d",
+    "data": [
+      {
+        "text": "Saya tidak bisa memasukan no resi pada pesanan yg sedang di proses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7ad6ef5d-5832-48cd-a3c0-74b194d9f1e4",
+    "data": [
+      {
+        "text": "syaa sudah masukan lg nomor resinya tetapi dituliskan bahwa nomor resi sudah pernah dimasukan, bagaimana ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cc488837-d48d-428a-9083-26125f7fc2c9",
+    "data": [
+      {
+        "text": "saya gak bisa input resi karena resi tersebut untuk 3 pesanan sekaligus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "82ee1fdd-53a9-4798-88c0-ec42d8b2bdc5",
+    "data": [
+      {
+        "text": "saya menggabungkan 2 pengiriman jadi 1 karena alamat dan penerimanya sama, skrg saya gak bisa input resi yang kedua,, tlg bantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4bada002-dccf-47b1-82ba-b654891d9296",
+    "data": [
+      {
+        "text": "Koq saya ga bisa input no resi pengiriman via POS yah ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a89f0db6-6e33-4f3c-a7f2-d522439d36aa",
+    "data": [
+      {
+        "text": "kenapa saya tidak bisa input resi sudah 2 hari tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "23520f55-b1ff-4d4d-9306-d8b3935e0008",
+    "data": [
+      {
+        "text": "Saya mau input resi untuk transaksi ini kenapa tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4cf4897a-4b09-4ff9-9092-b9e04ddfdfe1",
+    "data": [
+      {
+        "text": "saya tidak bisa update nomer resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "83b7306e-ba5c-4b1e-a833-5faf030c095a",
+    "data": [
+      {
+        "text": "knapa tidak bisa upload resi pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "543c9878-ec5a-4401-9044-bb749f93e90f",
+    "data": [
+      {
+        "text": "tapi saya gk bisa masukin no resi yg dsalin dr supplier toko saya yg dr tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "53ef0f8b-4bd3-49e9-b3e8-ccc93c48ed1e",
+    "data": [
+      {
+        "text": "Resi JNE 023000009099318 tidak bisa dimasukkan.. padahal sudah sampai sejak kemarin2... gak bisa dicairkan.. gimana donk?????",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7b1117ba-8718-4fb6-8fd2-64968cbd9667",
+    "data": [
+      {
+        "text": "mohon bantuannya. di akun saya sebaga seller. saya tidak bisa memasukkan no resi untuk pesanan : INVIDTAG Barang sudah di kirimkan Dengan resi : 014310801931918 terimakasi buat bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "79593b72-ee6c-4aed-b1bc-9ca8b8c54aae",
+    "data": [
+      {
+        "text": "bagaimana solusinya jika mau input resi dari dropship karena terlanjut lupa dropship?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c0443993-b397-49c7-855f-67988d158d45",
+    "data": [
+      {
+        "text": "nah sedangkan barang sudah saya kirim kmaren kak, akhirnya pagi tdi saya suruh org nya untuk order lgi kak, tpi pas saya masukin resinya knapa gk valid yaa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "373d16e4-b118-4254-b1d7-830dd35eda8e",
+    "data": [
+      {
+        "text": "resi pemgembalian tidak bisa di input padahal brang nya sudah sampai lagi ke penjual.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "baf3314c-d511-419e-aa88-6452cd2389af",
+    "data": [
+      {
+        "text": "transaksi nya tidak dapat di proses.. dan saya sudah kirim barang nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7813dc52-e095-49d1-b8ea-a8a618414912",
+    "data": [
+      {
+        "text": "resinya udah saya cek valid ko. kenapa masih belum bisa saya kirim/input ke pembeli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f5ebe993-2444-4ac7-878a-ccb8fa2076ee",
+    "data": [
+      {
+        "text": "bagai mna brang SDH syarat kirim tapi resi tidak bisa saya masukan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4fc889bd-c518-45d6-8301-a8756d8f3776",
+    "data": [
+      {
+        "text": "saya dropshipper mau kirim no.resi/input ke pembeli. tapi ko gak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5fcedce2-7080-49d5-8b81-292f207b2648",
+    "data": [
+      {
+        "text": "barang sudah terkirim ke counter tapi tidak ada kolom untuk memasukan no resi pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ce5992a7-4938-47c8-9fce-973b7a82cba6",
+    "data": [
+      {
+        "text": "Seller sudah mengirim barang tapi resi tidak terlacak....",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "402e958d-2c12-4791-8eca-99b7a523ac38",
+    "data": [
+      {
+        "text": "knp nomer resi sy dibilang tdk valid oleh tokopedia pdhal nmr nya sm dgn fisik resi nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1cc2ce9f-173c-48f3-bc0b-166345b57136",
+    "data": [
+      {
+        "text": "hi min, mengenai kendala resi tidak valid... kenapa kasus telah di tutup sedangkan blum terselesaikan? dari jawaban terakhir min...saya disuruh sabar menunggu... tapi sekarang status kasus ditutup sedangkan saya blum mendapatkan penyelesaian akhirnya...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "40ad88bf-2ed1-4a67-9f01-52ed76651de0",
+    "data": [
+      {
+        "text": "mau tanya ini kenapa resi tidak valid ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "003f2808-856f-44cd-b2cf-0ef1b671fa7d",
+    "data": [
+      {
+        "text": "ka, sy tidak bisa upload resiðŸ˜ŠðŸ™",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "47f0c81c-a1d2-4cc4-9009-a8c3da645521",
+    "data": [
+      {
+        "text": "Gmn cara nya... Barang sudah smpai tp resi telat d input",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0b690de3-746a-4b23-9c3c-84e256c80c0e",
+    "data": [
+      {
+        "text": "namun resi saya kenapa tidak bisa valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "98ce8d19-5a5e-4471-aa3d-28e3af274c93",
+    "data": [
+      {
+        "text": "namyn resi gojek saya tidak dapat d inout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8714ae7d-4800-4a40-bc5b-fa630178faf3",
+    "data": [
+      {
+        "text": "dari tadi siang masukin no resi g bisa2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9f66c6ed-68d4-476d-8a5f-4a460d90fbc2",
+    "data": [
+      {
+        "text": "tapi saya tidak bisa input resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e6b2b0e7-d53e-49de-b6bd-60114a2d1e07",
+    "data": [
+      {
+        "text": "salam,, tidak bisa input resi wahana. ada notif resi sudah digunakan. padahal kiriman baru.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "da19567a-935c-4b47-9919-7086397c9548",
+    "data": [
+      {
+        "text": "Saya tidak bisa upload no resi pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5aac9d6a-a292-48d4-b7d7-c29b910a8239",
+    "data": [
+      {
+        "text": "saya mau masukin nomor resi nya gak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "40ec39b8-54b8-4686-b6e5-2e8912b78d5b",
+    "data": [
+      {
+        "text": "saya terkendala input resi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8609da03-42a6-4028-a601-c714d2e1c5af",
+    "data": [
+      {
+        "text": "tolong segera di bantu mau input resi jdi gk bisa ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "id": "cc578dd6-5957-4943-ab84-7b32013ac050",
+    "data": [
+      {
+        "text": "Tidak muncul metode pembayaran diinginkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e45c7aff-5676-4137-bab5-930cf3fb5424",
+    "data": [
+      {
+        "text": "ga muncul metode bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8a05e472-cfec-41b9-9b80-c49772ce6514",
+    "data": [
+      {
+        "text": "metode bayarnya ga muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dd73d66f-de06-43fa-a1ab-73ce6040623b",
+    "data": [
+      {
+        "text": "ga muncul metode pembayaran pilihan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "63c52050-c579-46d3-a717-aea45dd9ece4",
+    "data": [
+      {
+        "text": "metode tidak muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "31a69183-f5d9-4f10-8939-20cdd3ed15ee",
+    "data": [
+      {
+        "text": "tidak muncul metodenya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6b88e59c-72fe-4436-a3f9-1b4f39f1f987",
+    "data": [
+      {
+        "text": "tidak muncul metode bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "83238028-5d85-4ae0-b340-1da0e47d3964",
+    "data": [
+      {
+        "text": "metode pembayarannya gak muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "29538aea-a384-4c0a-bf14-b1d8271a86fd",
+    "data": [
+      {
+        "text": "ga muncul metode nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b3c7e11e-05ef-4e4e-b6e9-426c0631adf6",
+    "data": [
+      {
+        "text": "gak ada metode bayar yang saya pilih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e918506e-4605-4669-90e9-ce1df80fe5c0",
+    "data": [
+      {
+        "text": "ga ada pilihan metode bayarnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bfc3aae2-190d-47a9-ada5-99db2a2edd0b",
+    "data": [
+      {
+        "text": "tidak muncul metode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aeee764d-eb18-40dd-82b1-4617fb46141c",
+    "data": [
+      {
+        "text": "metode pembayaran yg saya mau ga ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d1171511-22b1-446e-972d-83824f7cf501",
+    "data": [
+      {
+        "text": "Tadi saya coba untuk beli pulsa dan token listrik. Tapi koq sekarang gak ada pilihan pembayaran dengan virtual account BRI ataupun BNI yah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3194fee9-bc16-4d69-9617-c95e390fba41",
+    "data": [
+      {
+        "text": "aya membeli pulsa simpati, tetapi saat akan melakukan pembayaran, kenapa cara pembayaran transfer manual bank mandiri saya tidak aktif ya?? padahal saya sudah dari dulu bayar dengan cara itu...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7d2fdf85-81b6-4d66-8d1f-0a14e930386e",
+    "data": [
+      {
+        "text": "Saya mau beli tiket pesawat dan saya mau pakai tokocash saya ,knp pada saat mau bayar tidak ada pilihan menggunakan tokocash? Terimakasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "bfa66e25-4246-4a03-821b-d4ababcca5ae",
+  "name": "FAQ_Order_Tombol_Beli_Tidak_Muncul",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Tombol “Beli” bisa tidak muncul karena 3 alasan, yaitu:\n\n1. Toko tutup\n2. Produk sedang digudangkan\n3. Produk tersebut harus dipesan secara pre-order\n\nKakak bisa coba cari barang yang sama di toko lain, ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_order_tombol_beli_tidak_muncul"
+    }
+  ]
+}

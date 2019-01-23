@@ -1,0 +1,36 @@
+{
+  "id": "bb38b661-3e50-4db1-a494-8a7247d6a797",
+  "name": "FAQ_Digital_Estimasi_Pengiriman_Produk_Kartu_Halo_Pascabayar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai, Toped infokan kalau pengajuan pasca bayar kamu disetujui oleh Telkomsel maka pengiriman kartu akan dilakukan 1-3 hari kerja untuk wilayah JaBoDeTaBek dan 3-5 hari kerja untuk wilayah lainnya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa tunggu untuk estimasi pengiriman kartunya ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_digital_estimasi_pengiriman_produk_kartu_halo_pascabayar"
+    }
+  ]
+}

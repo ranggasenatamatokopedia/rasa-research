@@ -1,0 +1,399 @@
+[
+  {
+    "id": "a8a9941a-8253-4bc1-aa0e-2c9421fc3fa4",
+    "data": [
+      {
+        "text": "di promo kebut ada apa aja?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b87cbdca-8a0a-4416-907c-9e77ef61765f",
+    "data": [
+      {
+        "text": "ada apa aja nih di kebut promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "02c050d7-191c-4330-9bd7-855f02ceab1a",
+    "data": [
+      {
+        "text": "promo kebut ada apaan aja dah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f6921274-c99d-45a0-878f-099bc00e725c",
+    "data": [
+      {
+        "text": "promo kebut apaan aja?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "12665147-db36-4d6f-848e-ebcaa97c8bd2",
+    "data": [
+      {
+        "text": "berapa banyak promosi yang disediakan untuk kebut?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ab72e5a0-73c7-4d1b-a1b8-f42637cb640c",
+    "data": [
+      {
+        "text": "ada berapa sih promosi kebut?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "40a62089-f5b1-434c-a4a1-80f446e39e72",
+    "data": [
+      {
+        "text": "banyak ngga sih promosinya ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kebut?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bb7f2db7-ea09-4273-a23f-bbd20808b738",
+    "data": [
+      {
+        "text": "apakah promo kejutan belanja untung ada banyak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e65a53b9-2d85-4e69-81f8-d70402140bc9",
+    "data": [
+      {
+        "text": "yang saya tanyakan ada promo apa aja ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kebut ini?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fefe4093-7489-433a-ad9b-1272ad6b4315",
+    "data": [
+      {
+        "text": "bisa dapet promo apa saja ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kejutan belanja untung ini?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "45cbb66d-476f-435f-b44f-7e1418ab1168",
+    "data": [
+      {
+        "text": "kejutan belanja untung tersedia untuk promo apa saja?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "67abb1af-6d7b-4313-84a5-1f6c2ddfe1b9",
+    "data": [
+      {
+        "text": "tolong kasih tau promo promo dari kebut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cd1dd608-eafa-4496-9ae0-57a99a55140a",
+    "data": [
+      {
+        "text": "jelaskan promo yang tersedia ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kebut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f4eef8a8-5a06-4023-8722-54fabb2d7c5d",
+    "data": [
+      {
+        "text": "apa saja promonya ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kebut ini?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8de15254-f706-456b-891a-097d8eb83ee5",
+    "data": [
+      {
+        "text": "ada apa aja di kejutan belanja untung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6531cc1a-1cfd-462c-bb6d-4f0b582277ff",
+    "data": [
+      {
+        "text": "ada berapa kejutan belanja untung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e2a599da-77a8-4f9f-b3c5-6be0f7fae8a0",
+    "data": [
+      {
+        "text": "ada berapa kejutan belanja untung di kebut ini?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "96d2d964-a492-495f-afde-1f7e8c77e925",
+    "data": [
+      {
+        "text": "ada berapa kejutan promo di kebut?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5ab279d3-82e5-4c23-b607-7e6cb2d8bfea",
+    "data": [
+      {
+        "text": "banyak ya promo di kejutan belanja untung ini?a",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d2d2dadf-67d5-493d-95ba-ff6774f85fd8",
+    "data": [
+      {
+        "text": "banyak ya kejutan belanja untung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e3b2f50c-ed7b-4318-a2d8-772409475ff9",
+    "data": [
+      {
+        "text": "kebut promo ada apa aja sih nih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bf09cff5-2ab5-40a1-9b3d-40d8a1032473",
+    "data": [
+      {
+        "text": "promo yang bisa kita kebut ada apa aja?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "56c8bae4-b04f-4332-9eea-f07630ad86ff",
+    "data": [
+      {
+        "text": "kasih tahu dong promo yang ada di kebut apa aja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "774ed908-8e73-4b3b-93cc-9d41835c1fdb",
+    "data": [
+      {
+        "text": "maksudnya di kebut promonya ada apa saja?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "23f54583-9e9f-465e-8205-1fc33fe120a4",
+    "data": [
+      {
+        "text": "ini kebut serius banyak promo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7a507e07-5927-4eb3-ace8-2af85c16f669",
+    "data": [
+      {
+        "text": "kebut ada banyak ya promonya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "004cee74-6fe1-4d6b-badb-b9993ef00b6c",
+    "data": [
+      {
+        "text": "promo kebut maksudnya ada apa aja promonya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a7396854-4f1a-44d4-b085-21c2567e8b7c",
+    "data": [
+      {
+        "text": "apa aja sih yang ada di kebut promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "72d6e8a6-ccfe-4246-a42a-82ac6cae100c",
+    "data": [
+      {
+        "text": "mana nih promo kebut ada apa ajaaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "90d9a514-93f2-4d95-b26c-1a14593449c7",
+    "data": [
+      {
+        "text": "informasikan dong promo kebut apa aja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6f448e40-c33a-47b7-8060-66117b6c6d18",
+    "data": [
+      {
+        "text": "ada apa aja sih di promo kebut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e9a4b0c4-01c5-45ec-9da2-f0d27e7138bc",
+    "data": [
+      {
+        "text": "promo kebut apa aja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

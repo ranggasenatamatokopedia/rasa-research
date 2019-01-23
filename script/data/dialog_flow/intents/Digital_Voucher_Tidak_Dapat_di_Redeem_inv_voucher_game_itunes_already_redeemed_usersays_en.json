@@ -1,0 +1,77 @@
+[
+  {
+    "id": "40b8aeb5-70b2-4bd7-91e2-90ad5c31886f",
+    "data": [
+      {
+        "text": "ke-3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "022c1de7-047f-4d2e-807f-19104822a455",
+    "data": [
+      {
+        "text": "this code has already been redeemed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0cf6e58a-80ff-43bf-9b06-54843d848b76",
+    "data": [
+      {
+        "text": "ketiga",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "544faeea-20b8-4476-8cb3-ef8907da510a",
+    "data": [
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "264a3b21-3b8f-41e9-9e6c-8d4f29448002",
+    "data": [
+      {
+        "text": "no ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7dfb2d80-328a-44d9-b8ba-262456420ae9",
+    "data": [
+      {
+        "text": "tiga",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

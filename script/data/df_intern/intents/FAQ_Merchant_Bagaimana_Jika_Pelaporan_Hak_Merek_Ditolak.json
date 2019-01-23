@@ -1,0 +1,32 @@
+{
+  "id": "456a213f-6096-4336-821c-d8e9ffd89cdd",
+  "name": "FAQ_Merchant_Bagaimana_Jika_Pelaporan_Hak_Merek_Ditolak",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau pelaporan kamu di tolak, pastikan kamu sudah memahami alasan penolakan yang dikirimkan melalui email."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Selanjutnya, kamu bisa melakukan pelaporan ulang. Pastikan bahwa pelaporan ini sudah lengkap dan sesuai agar tidak terjadi penolakan kembali."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

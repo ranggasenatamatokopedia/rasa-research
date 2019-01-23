@@ -1,0 +1,31 @@
+{
+  "id": "466582aa-f093-4f9c-96cb-53af7de86f3b",
+  "name": "FAQ_PROMO_Kenapa_kode_QR_dinyatakan_invalid",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa cek lagi kode QR yang digunakan ya. Kemungkinan kamu melakukan scan pada kode QR yang bukan merupakan program promosi Tokopedia. Pastikan kalau kode QR yang kamu scan berasal dari iklan yang menyertakan nama Tokopedia ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_promo_kenapa_kode_qr_dinyatakan_invalid"
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+[
+  {
+    "id": "2f70bfc5-d41b-4b9a-87e3-84843d0e6c0d",
+    "data": [
+      {
+        "text": "berarti ",
+        "userDefined": false
+      },
+      {
+        "text": "besok",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " baru masuk cashbacknya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "581de477-e993-48cf-b986-10ccd77f2de2",
+    "data": [
+      {
+        "text": "kapan saya mendapat cashback?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e299fe11-a0c5-4acd-b065-a815350855aa",
+    "data": [
+      {
+        "text": " tertulis akan mendapatkan cashback ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "% ",
+        "userDefined": false
+      },
+      {
+        "text": "senilai RP",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".147.000,-. Transaksi sukses. Saya juga sudah mendapatkan SMS dari Tokopedia bahwa mendapatkan cashbac",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0df6a938-d47e-41fe-a236-b2a18124be08",
+    "data": [
+      {
+        "text": "promo topedseru, kapan cashback bisa saya terima?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f1ca2d0d-613a-43c0-9c36-a65bc99282b6",
+    "data": [
+      {
+        "text": "mau nanya kapan cashback saya masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "195b14fe-52ca-41a2-8bdc-3150a1efee5f",
+    "data": [
+      {
+        "text": "mau tanya ya kapan cashback saya masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a7493fc5-38b2-4990-ae09-00b3b010ddda",
+    "data": [
+      {
+        "text": "mau tanya nih kapan cashback saya masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dbf1a4f6-44ac-47fa-9e2c-783c7df23b39",
+    "data": [
+      {
+        "text": "Selamat ",
+        "userDefined": false
+      },
+      {
+        "text": "Malam",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Cash Back dgn memakai tuker point. Bgmana melihat cash back nya krn ",
+        "userDefined": false
+      },
+      {
+        "text": "hr ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " beli Xiaomi ",
+        "userDefined": false
+      },
+      {
+        "text": "5A",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "07e0b1a3-b804-4a60-8f86-c84d34276543",
+    "data": [
+      {
+        "text": "Alhamdulilah kl begitu. Terima kasih semoga saya segera mndt tiket di tiket saya. Utk cashback kode booking di toko cash kpn bisa muncul?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8d412a07-fee7-45d7-817b-e9fc2b2f512f",
+    "data": [
+      {
+        "text": "mau nanya dong kapan cashback saya masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ffa2b879-7533-47cb-84bc-790d72e2fb9f",
+    "data": [
+      {
+        "text": "mau nanya nih kapan cashback saya masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ec250ae9-9ea8-4794-8dfa-1399c9835e95",
+    "data": [
+      {
+        "text": "mau nanya ya kapan cashback saya masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bf9cd004-1e9d-4e18-83db-d7c45970110f",
+    "data": [
+      {
+        "text": "Kemarin kn saya order dengan promo TOPEDSERU , tp kok cashbacknya belum masuk? Atau tunggu barang diterima?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "0b11fe9f-b70d-446b-be04-2a21d248b9ad",
+    "data": [
+      {
+        "text": "mau tanya kapan cashback saya masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6d419cbe-bd2a-49ac-97f7-616671c9159f",
+    "data": [
+      {
+        "text": "mau tanya dong kapan cashback saya masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "87ae9def-e628-45bf-bb52-59fd70c12dbc",
+    "data": [
+      {
+        "text": "cashback saya kenapa belum masuk?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a69ccc37-f9e3-408a-88fa-144b76f29eee",
+    "data": [
+      {
+        "text": "kenapa tokocash saya tidak bertambah? saya sudah melakukan pembelian sebesar 3jt tapi tokocash saya tidak bertambah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8e54e4c1-2fae-42f0-97ef-47238c9372ec",
+    "data": [
+      {
+        "text": "dari beberapa transaksi saya koq cash backnya ga ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f239e6c6-37aa-4acd-a656-ae72cc09f0e3",
+    "data": [
+      {
+        "text": "Hello, saya mendapatkan 2 kupon cashback 150rb dan saya sudah melakukan pembelanjaan 2x pada tanggal 15 okt tapi cashback yg saya dapat cuma 1x ya? Thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "779eb8ec-f885-49f5-9be7-a1e2667045d5",
+    "data": [
+      {
+        "text": "Pagi ini saya membeli tiket pesawat pp jakarta- yogya. Saya menggunakan kode promo \u0026#39;TOPED\u0026#39; dan tertulis akan mendapatkan cashback 10% senilai RP.147.000,-. Transaksi sukses. Saya juga sudah mendapatkan SMS dari Tokopedia bahwa mendapatkan cashbac",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9e3dd891-d72b-4c2a-9503-7e7a1dfd1744",
+    "data": [
+      {
+        "text": "berarti besok baru masuk cashbacknya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0ede9459-7487-4115-a621-95f4ce0ca9b4",
+    "data": [
+      {
+        "text": "kalo boleh tau cashback itu langsung di terima atau nunggu dulu ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ca8fa66c-432e-4755-b038-6102a5ce2b57",
+    "data": [
+      {
+        "text": "cashback",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e752fd11-c91e-4c74-b285-3c22856d583b",
+    "data": [
+      {
+        "text": "kalau saya mau bayar tagihan digital hari ini, apakah cash back nya bisa langsung saya terima, atau ter pending lagi seperti 2 invoice saya sebelumnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b24a8be7-0673-499c-9c37-f84789526a67",
+    "data": [
+      {
+        "text": "Berapa hari/minggu/bulan cashback yg masuk ke ovo ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cabc2fdb-f566-4425-acc9-714c7093cc03",
+    "data": [
+      {
+        "text": "Cashback ke ovo masuk nya berapa lama ya ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e2716dd3-169a-4bc1-8cd1-07f2a7c17496",
+    "data": [
+      {
+        "text": "saya sudah beli tiket pesawat memakai kupon cashback promo, kapan saya bs nerima cashbacknya ya??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

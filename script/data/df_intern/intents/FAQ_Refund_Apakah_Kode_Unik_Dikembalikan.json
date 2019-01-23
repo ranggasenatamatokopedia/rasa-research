@@ -1,0 +1,53 @@
+{
+  "id": "1f7aa928-9f19-48b8-8f1d-54015f9d49f3",
+  "name": "FAQ_Refund_Apakah_Kode_Unik_Dikembalikan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Refund_Apakah_Kode_Unik_Dikembalikan-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "430c35b4-691d-43bd-8d06-3dfcaface6e0",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "5a254564-fdb7-47ec-bbe0-d947d87f75b4",
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jangan khawatir ya, kode unik akan dikembalikan ke Saldo Tokopedia kamu ketika transaksi dinyatakan selesai :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520238528,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_refund_apakah_kode_unik_dikembalikan"
+    }
+  ]
+}

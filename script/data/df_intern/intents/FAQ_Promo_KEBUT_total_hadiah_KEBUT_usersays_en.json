@@ -1,0 +1,353 @@
+[
+  {
+    "id": "7a5aa386-d2f8-4f43-a8f0-fafeba730705",
+    "data": [
+      {
+        "text": "jumlah hadiah kebut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "78c6210a-52df-4d48-9c5a-360cf0b2dacf",
+    "data": [
+      {
+        "text": "promo kebut total hadiahnya sampai berapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c492c54f-d261-4e81-b66e-890c28c28504",
+    "data": [
+      {
+        "text": "total hadiah kebut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c8c4ea20-0f7a-46e3-807e-7aadc69f8dcc",
+    "data": [
+      {
+        "text": "ada berapa banyak hadiah yang saya bisa dapatkan ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " promo kebut ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a9d1a686-73af-4e13-8439-f37364dca805",
+    "data": [
+      {
+        "text": "saya sangat berharap akan mendapatkan banyak hadiah dari kebut ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eeebb809-8432-48cd-a826-722e3059aaf9",
+    "data": [
+      {
+        "text": "kebut ini sangat heboh semoga hadiahnya juga banyak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f3151941-5202-4d7f-9f7f-21942a5820ba",
+    "data": [
+      {
+        "text": "tolong informasikan hadiah dong apa saja yang bisa saya dapet kalau ikut kebut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d3e38870-3538-4ed8-b153-294b0b199e8b",
+    "data": [
+      {
+        "text": "ada berapa total keseluruhan hadiah dari kebut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "989aec5e-8454-4e6b-96e8-6b181ba727cb",
+    "data": [
+      {
+        "text": "banyak ngga hadiah dari promosi kebut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2bf81293-be12-42d0-8f86-ce9e6a9d5b13",
+    "data": [
+      {
+        "text": "saya mau tau hadiah yang akan diterima kalau ikutan promo kebut ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5d02bdfb-cab5-4dac-badf-c59c867c13b6",
+    "data": [
+      {
+        "text": "beneran ada hadiahnya kalau ikutan kebut ini?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cee596e6-6710-4f5a-b202-5d52a0465223",
+    "data": [
+      {
+        "text": "apa benar kalau ikut kebut dapet hadiah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e47c6518-d01e-4fda-8580-a0f399697d20",
+    "data": [
+      {
+        "text": "saya mau tau hadiah hadiah dari kebut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "491e2c79-1e96-47ee-83e8-522b3550d653",
+    "data": [
+      {
+        "text": "mau",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ikutan promo kebut tapi dapet hadiah ngga?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6c40ee9c-5a55-4425-8f51-dd9625468a47",
+    "data": [
+      {
+        "text": "ada hadiah apa aja ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kebut?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7bee098e-039a-4b6a-ae5d-ab66e63cc3db",
+    "data": [
+      {
+        "text": "berapa jumlah yang saya dapet kalo ikut kebut?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "66856aea-7b3a-4c98-aaa1-b13842cf06a8",
+    "data": [
+      {
+        "text": "total hadiahnya berapa untuk kebut?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6fff41d1-bb9d-4eb2-a505-bb5fe5e30002",
+    "data": [
+      {
+        "text": "tokopedia menyediakan hadiah apa aja untuk promo kebut?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ef27069b-21ce-46c1-ba37-c462fb65edf1",
+    "data": [
+      {
+        "text": "banyak ngga hadiah dari promosi kebut?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f1619bc2-4811-474d-a2a2-47a5759a12a5",
+    "data": [
+      {
+        "text": "berapa jumlah hadiah dari promo kebut ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e763cf74-1d93-4020-b419-d0aa260eba56",
+    "data": [
+      {
+        "text": "hadiah apa aja yang bisa diterima ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kebut?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5e8e5e5d-4845-42fe-a675-87df6a531457",
+    "data": [
+      {
+        "text": "berapa banyak hadiah di promo kebut ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "80603143-2c7d-4774-a5a5-d80719dc8eda",
+    "data": [
+      {
+        "text": "promo kebut itu banyak hadiahnya ngga?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f489fbd8-e4a1-4ae6-881c-28666366b16d",
+    "data": [
+      {
+        "text": "promo kebut ada hadiahnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "95b851ab-5a9c-417a-9803-97efdd1fd42e",
+    "data": [
+      {
+        "text": "promosi kebut menghasilkan hadiah apa saja ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "656f674c-3bb8-4497-9a55-b9bd201798d5",
+    "data": [
+      {
+        "text": "akan ada hadiah apa sih kalau ikut kebut?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c12771c7-631a-428c-8fe5-8efd4029190e",
+    "data": [
+      {
+        "text": "ini apa istimewanya kebut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d9cc3cd2-fb34-4d80-83db-4b8339761ac6",
+    "data": [
+      {
+        "text": "dapet apa kalo ikut kebut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c7f9d504-870a-41c8-b6b6-a9a1a7019008",
+    "data": [
+      {
+        "text": "emang hadiah kebut apa aja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "id": "51dd0684-1562-4a1b-8440-be0ff509db6d",
+  "parentId": "974cef2f-9b12-443d-a16d-20e9890e6cd1",
+  "rootParentId": "2f8cbeef-ace2-4920-b98a-19f47da047c4",
+  "name": "Fraud_Saya_Mendapat_Email_Melanggar_SNK_Select_Invoice_MP_Finished_Not_Fraud_Valid",
+  "auto": true,
+  "contexts": [
+    "Fraud_Saya_Mendapat_Email_Melanggar_SNK_Select_Invoice_MP_Finished_Not_Fraud-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Saya_Mendapat_Email_Melanggar_SNK_Select_Invoice_MP_Finished_Not_Fraud_Valid-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah Toped cek, dana atas transaksi tersebut tidak direview. Mohon untuk melakukan pengecekan kembali."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531975844,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "case_status_valid"
+    },
+    {
+      "name": "case_status_unknown"
+    }
+  ]
+}

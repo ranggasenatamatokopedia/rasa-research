@@ -1,0 +1,2387 @@
+[
+  {
+    "id": "9a060126-9b01-4cf0-afa6-26e1732125f0",
+    "data": [
+      {
+        "text": "tidak menerima kode otp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dfe49ba4-ab68-4fc5-acdd-8d6b279db592",
+    "data": [
+      {
+        "text": "saya tidak menerima sms otp ketika mau membayar angsuran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "000f80ca-1177-45c6-bf49-ba71ea351776",
+    "data": [
+      {
+        "text": "kode otp ovo tidak pernah dapat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "29c22f2f-5fc4-4cd2-becd-765021fee9f0",
+    "data": [
+      {
+        "text": "ini gmn kode otp masih masuk ke no yg lama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "44778aee-b095-40c0-8fdf-79d15ca17061",
+    "data": [
+      {
+        "text": "masih aktif no yg baru cuma otp masuk ke ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " no skrng",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8d1529bd-0d44-413f-878f-8912935ac6fd",
+    "data": [
+      {
+        "text": "no tlp yg lama masih masuk kode otp padahaln no sudah saya ganti baru",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e7e42f44-6a8a-4f7e-a449-9c2481838276",
+    "data": [
+      {
+        "text": "masih aktif cuma saya ganti no baru tp kode otp masih masuk ke no yg lama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "84bbcd2b-962a-48e5-be30-58b4a3664c86",
+    "data": [
+      {
+        "text": "iya kode verifikasi ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ovo itu saya lupa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dee89bf7-17c3-4dc7-8e25-569338c096ee",
+    "data": [
+      {
+        "text": "Kode verifikasi ga terkirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e21342c4-0231-447a-a063-c8e7c4f0f5b5",
+    "data": [
+      {
+        "text": "saya tidak mendapatkan kode otp saat transaksi tiket kereta api",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "014a5787-2b3f-4d4e-8829-3c80f438271d",
+    "data": [
+      {
+        "text": "kode verifikasi ovo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2ca84da6-1cf4-437e-8494-05b9f4501686",
+    "data": [
+      {
+        "text": "kenapa saya tidak menerima kode otp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7eb9874a-0d17-4879-a60a-77103d0eeb2d",
+    "data": [
+      {
+        "text": "saya tidak mendapatkan kode verifikasi pembayaran untuk ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo cash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6810cb69-b6b6-4bb8-a855-9cf5c7b2332e",
+    "data": [
+      {
+        "text": "mau beli token pln mau bayar dengan ovo tidak bisa karena saya tidak terima kode verifikasi di hp saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a7202527-c091-485f-9271-c0c07014668b",
+    "data": [
+      {
+        "text": "nomor terverifikasi tapi tidak menerima kode OTP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2b1950bb-600a-40c1-9253-a311894734f1",
+    "data": [
+      {
+        "text": "kode otp juga blm sy terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "29e30589-e409-43e7-af1f-07f1a89e5dae",
+    "data": [
+      {
+        "text": "sudah coba lagi berkali kali tetap tidak dapat kode otp ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ovo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6f924d3c-d0e0-435f-b6c1-657d2ed1b198",
+    "data": [
+      {
+        "text": "mau bayar pakai OVO tapi kenapa kode SMS gak ",
+        "userDefined": false
+      },
+      {
+        "text": "masuk2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "14218f99-bea7-4d9e-82c1-030cf8aba338",
+    "data": [
+      {
+        "text": "saya tidak menerima kode otp saat membayar memakai ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3d67943c-31ff-458e-8969-aa8f8e1df792",
+    "data": [
+      {
+        "text": "saya ",
+        "userDefined": false
+      },
+      {
+        "text": "tadi siang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " melakukan aktivasi OVO, tp saya tidak mendapatnya SMS OTP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "47ffed07-053f-4a9f-a501-2e1575e0602d",
+    "data": [
+      {
+        "text": "sy mau aktivasi ovo, tapi kode otp sama sekali tidak sy dapatkan, apakah kendala ini dari tokopedia ataukah provider yg sy gunakan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d67609a7-53a0-4f8d-8d88-571a5f705152",
+    "data": [
+      {
+        "text": "mau aktivasi ovo tp knp kode verifikasi nya saya selalu ga dpt ya via sms ? saya kirim ulg terus tapi ga ",
+        "userDefined": false
+      },
+      {
+        "text": "masuk2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kode verifikasi nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8633be33-d300-45a4-89f4-9e72f2a99ac0",
+    "data": [
+      {
+        "text": "Aktivasi ovo kode verifikasinya tidak pernah masuk ke sms hp saya. Sudah coba ",
+        "userDefined": false
+      },
+      {
+        "text": "10x",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "401b008c-2e60-4fa3-958e-3c2e0d2bb62b",
+    "data": [
+      {
+        "text": "sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "3x",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dalam ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hari ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya tidak mendapat sms kode verifikasi ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ovo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "674bdd27-f17c-4525-905e-103b6263fe18",
+    "data": [
+      {
+        "text": "OVO  belum terverifikasi kode (OTP) yang dikirimkan melalui SMS tidak bisa dimasukan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2ae4bb51-3d0c-4e19-ad69-3bd07c53d244",
+    "data": [
+      {
+        "text": "udah ",
+        "userDefined": false
+      },
+      {
+        "text": "3x",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " minta kode tapi kok tdk ada sms masuk yaa.. padahal no terdaftar di toped aktif selalu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "48e19a18-ede2-4a51-9ec4-0aa855927a6c",
+    "data": [
+      {
+        "text": "saya tidak bisa aktivasi ovo karena sms verifikasi tidak bisa masuk.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0dcfcc81-0073-4427-a4e1-d50bfe060afd",
+    "data": [
+      {
+        "text": "saya tidak bisa aktivasi ovo di akun tokopedia ini., tidak menerima kode otp nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b0121766-1b91-40bd-a05c-7d4f714a4c8c",
+    "data": [
+      {
+        "text": "Saya mau menggunakan promo ovo. Tetapi tidak dapat otp ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ovo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8720afe2-f767-4f6e-89de-bc86c8a63c36",
+    "data": [
+      {
+        "text": "utk pembayaran via ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bth kode verifikasi dan nomor hp saya yg tertera salah. jd saya tdk mendapat kode verifikasi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8e5329ba-63f8-464d-90cf-6f6c1f2346f8",
+    "data": [
+      {
+        "text": "saya mau bayar via ",
+        "userDefined": false
+      },
+      {
+        "text": "CC",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "BCA",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tapi OTPnya lama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eb68b99a-d886-4565-9cb5-21b71846d79d",
+    "data": [
+      {
+        "text": "saya tidak terima OTP kredit card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2c41600e-a95b-444e-9418-6419b14192bc",
+    "data": [
+      {
+        "text": "saya tidak terima OTP untuk pembayaran dari ",
+        "userDefined": false
+      },
+      {
+        "text": "CC",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "63509188-0a46-4cf1-9f44-5ac383c6b15f",
+    "data": [
+      {
+        "text": "saya tidak terima OTP untuk pembayaran dari bank",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "efb5acc8-8825-4b74-bad5-7a0c831ac582",
+    "data": [
+      {
+        "text": "Mana nih OTPnya, saya mau bayar dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "CC",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b5816435-0c7e-4682-a1e5-a1b19c034762",
+    "data": [
+      {
+        "text": "saya sudah ganti nomor, kenapa OTP ",
+        "userDefined": false
+      },
+      {
+        "text": "CC",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " masih dikirim ke nomor lama ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8442ebfe-2ad7-4420-9fac-ddf0d71e875f",
+    "data": [
+      {
+        "text": "sms secure code masuk k nomer lama, sy sudah ganti di pengaturan tokped tp mash dinomer lama smsnya dikirim.. bagaimana yah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a7b3eb49-2377-48a2-967b-37ce3ce1199a",
+    "data": [
+      {
+        "text": "saya belanja pake ",
+        "userDefined": false
+      },
+      {
+        "text": "cc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tpi tidak dimnta kode verifikasi. otp jg tdk terkirim.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "96f3eceb-e9df-4487-8297-773502f95aec",
+    "data": [
+      {
+        "text": "Sms otp dr ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak terkirim ke hape saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d305fd34-a8c2-4f2e-857e-4cd62d6ba9f7",
+    "data": [
+      {
+        "text": "pengiriman otp ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " knp masih di nomor yg lama?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f8691484-0544-4971-96a4-b0c894c79132",
+    "data": [
+      {
+        "text": "saya mau bayar pake ",
+        "userDefined": false
+      },
+      {
+        "text": "cc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kenapa otpnya masuk ke nomor lama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "87a95b1a-0814-44e3-8b70-f5d4548a89f4",
+    "data": [
+      {
+        "text": "saya bayar pake ",
+        "userDefined": false
+      },
+      {
+        "text": "cc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kenapa lama banget",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c1e86b84-93c4-4a93-b0fa-4cd4e4296644",
+    "data": [
+      {
+        "text": "sya pake kredit card kenapa ga sampe sampe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f9d33581-08d1-455f-85ed-c483dd7651f5",
+    "data": [
+      {
+        "text": "saya udah ganti nomor di akun, kenapa otp dikirim ke nomor lama saat bayar dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "cc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c68bbdec-e798-4e8b-bfd1-9ceedce030ef",
+    "data": [
+      {
+        "text": "kenapa otp dikirim ke nomor lama, padahal udah ganti nomor diakun. saya pake ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5e760a3b-9db8-449b-a126-7e66fcaa5e13",
+    "data": [
+      {
+        "text": "mana otp ",
+        "userDefined": false
+      },
+      {
+        "text": "cc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ac9b91f8-2127-492a-a9c3-5f9a36d475a5",
+    "data": [
+      {
+        "text": "mana otp ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "abb8127a-f5c6-4260-870a-6807a8096aa0",
+    "data": [
+      {
+        "text": "mana otp kredit card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "849bd291-b831-4738-84f3-c16252182e3f",
+    "data": [
+      {
+        "text": "mana otp creditcard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a10018e6-ce03-4412-aa1c-b5766933708d",
+    "data": [
+      {
+        "text": "Sy ga dpt security code ketika sy hendak melakukan pembyran dngn ovocash",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6d2190db-9a6e-4402-82b7-a3a9ee9f60d8",
+    "data": [
+      {
+        "text": "transaksi belum berhasil karena tidak ada OTP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "31587445-9411-492a-91e1-53c3bb0e060d",
+    "data": [
+      {
+        "text": "no hp terverifikasi tapi otp yg diminta tidak terkirim ke no hp saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "06e15330-7d83-4f13-933b-77b0951d362d",
+    "data": [
+      {
+        "text": "tidak menerima kode OTP tersebut ke nomor ponsel saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d19e78a0-2de2-4ea7-9a67-e4870508c132",
+    "data": [
+      {
+        "text": "saya tidak terima kode otp,sudah coba ",
+        "userDefined": false
+      },
+      {
+        "text": "berkali2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1128a0c8-f63a-4045-8167-ed2c4209f6a9",
+    "data": [
+      {
+        "text": "tidak nerima kode OTP email sudah tidak aktif,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1591e933-f945-4191-acf9-0f5b79a413ac",
+    "data": [
+      {
+        "text": "Tidak menerima OTP padahal HP masih aktif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0e15c1db-47d2-4e1c-8718-0f2246aa93dd",
+    "data": [
+      {
+        "text": "saya sudah request ",
+        "userDefined": false
+      },
+      {
+        "text": "3x",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kode OTP tp tidak ada SMS yg masuk ke HP saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7d940134-a1cc-41e4-af67-5e676bad22d8",
+    "data": [
+      {
+        "text": "gak ",
+        "userDefined": false
+      },
+      {
+        "text": "dikirim2 kode",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " otp ke nmr hape sy. padahal nmr aktif dan msh sy pake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7bcae497-ed35-4bd2-8268-5c84f96f184f",
+    "data": [
+      {
+        "text": "Tidak mendapatkan kode OTP pada nomor hp yang berada di tangan saya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "390b1b8c-c6c7-48ef-b9e6-6c2fbfe7df23",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kenapa kode otp saya lama ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ffebe0b1-e2ae-45e1-9e28-317a384b29df",
+    "data": [
+      {
+        "text": "Pergantian nomer baru n tidak terima kode OTP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "009f6848-1115-43ee-8f50-9e74eafc1c99",
+    "data": [
+      {
+        "text": "Ganti nomer baru, tidak menerima kode OTP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "57a376ff-d395-445b-a836-6979e38688c6",
+    "data": [
+      {
+        "text": "Pergantian nomer baru, tidak terima kode OTP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "18138651-32c2-4570-817a-e0f4a4e5a564",
+    "data": [
+      {
+        "text": "Nomer HP saya aktif tetapi kenapa tidak menerima OTP?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "191000c3-21b4-4b8c-a0e7-e6d744c6090c",
+    "data": [
+      {
+        "text": "saat minta kode OTP kenapa tidak mendapat kode OTP?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cea83983-3453-4ebf-a8e3-3a2804d612ce",
+    "data": [
+      {
+        "text": "Sy sdh update data ganti no HP, tp saat transaksi sy ga bs terima OTP krn yg tertera msh no lama sy yg sdh hilang..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dc3b2670-83fc-44e7-8389-0f8fa884d464",
+    "data": [
+      {
+        "text": "Kenapa untuk sms verifikasi otpnya gak pernah masuk?selalu gagal..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "98cb2843-e609-43b5-b3d5-d7ccae3d51fd",
+    "data": [
+      {
+        "text": "Tidak menerima kode OTP. padahal nomor saya sudah benar dan aktif.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7a370b21-688d-4147-bf82-28b70a0e2892",
+    "data": [
+      {
+        "text": "Nomer handphone masih sama tetapi sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "3x",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak menerima OTP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8495fe4d-3f49-4796-ac15-f4fbc0224f8c",
+    "data": [
+      {
+        "text": "tidak menerima otp sms, no hp yg didaftarkan aktif.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7d92cb27-7996-4133-9170-df6f23e01014",
+    "data": [
+      {
+        "text": "Ingin ganti nohp, namun tidak menerima kode OTP baik via email maupun SMS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c56ec86a-0d4e-4781-b6a5-4d9d2a3ce2a1",
+    "data": [
+      {
+        "text": "saya ganti no hp , sehingga OTP tdk saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "16496f1c-5caf-4548-a3d8-622102326e45",
+    "data": [
+      {
+        "text": "saya tidak mendapatkan kode OTP, nomor saya masih aktif.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e427b028-8944-4cad-9a69-abbc6688aee0",
+    "data": [
+      {
+        "text": "Saya tidak menerima kode otp ataupun telfon berupa kode verifikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bc39c04f-cd51-4463-b76c-ea031e51c9e3",
+    "data": [
+      {
+        "text": "Saya tidak bisa mendapatkan otp tokopedia walaupun nomer hape sayabsdh benar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "713c96ae-31ae-437b-9dbb-98ccf43a22aa",
+    "data": [
+      {
+        "text": "minta otp nomer hp saya mati.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e0fc2c1d-ebd3-40c0-a7d2-7eba2a5ff67d",
+    "data": [
+      {
+        "text": "Hp saya hilang jadi saya tidak bisa menerima kode otp tersebut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "22e30d29-de59-42a8-b504-13d8d33e83a2",
+    "data": [
+      {
+        "text": "No hp yang di daftar sudah aktif tapi saya gaq bisa terima OTP lewat tlp dan sms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "17178192-9ecf-422a-8571-4be28b9ef64e",
+    "data": [
+      {
+        "text": "TIDAK MENERIMA KODE DARI OTP APA KESALAHAN SAYA TIDAK TAU",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "10b71231-3ecb-4831-838f-b725d144b119",
+    "data": [
+      {
+        "text": "idak menerima kode OTP, harap bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "156b7ac5-c153-4edd-a74f-565a9c9c6c1c",
+    "data": [
+      {
+        "text": "Verifikasi OTP tidak tahu. Karena nomer nya sudah tidak aktif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f3746e04-0a5f-47c1-81b2-2f3431feb86a",
+    "data": [
+      {
+        "text": "tidak bisa meminta otp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9e986a06-ff9d-4fcf-a9e3-0c4e2b585d85",
+    "data": [
+      {
+        "text": "Tdk menerima kode otp.tolong bntu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8027fdf0-954b-4c66-be67-c198e36c21a7",
+    "data": [
+      {
+        "text": "saya tidak bisa menerima kode otp padahal no hp sudah benar dan masih aktif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e38efd6e-b47c-46fe-a743-46c78f86f63c",
+    "data": [
+      {
+        "text": "kenpa saya tidak menerima kode OTP ya ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "93cb054e-d387-4aee-bb98-93c7d69533cf",
+    "data": [
+      {
+        "text": "Saya sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "3x",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak mendapat kode OTP via sms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "afdb5b85-24c3-443a-8e26-0726391633bf",
+    "data": [
+      {
+        "text": "saya tidak menerima kode OTP baik melalui sms atau pun melalui panggilan ke nomor saya, padahal no hp saya masih aktif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "98c2beff-8a5a-4508-8acc-6fe45aa05145",
+    "data": [
+      {
+        "text": "nomer yang terdaftar pada akun aktif tapi OTP dari tokped tidak pernah terkirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "725107fa-5669-49bd-b6f5-84eedc544575",
+    "data": [
+      {
+        "text": "saya tidak bisa menerima OTP karena udah ganti nomor hp.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ec9bd8bf-a099-498f-851e-88bd26372447",
+    "data": [
+      {
+        "text": "harus input kode OTP sementara nomor tersebut sudah tidak aktif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e0631e06-dd5f-4848-ab32-5768668b145e",
+    "data": [
+      {
+        "text": " Kode OTP tidak terkirim ke nomor hp saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4c7cfa68-0667-4e74-a0b5-aa79f7d13f0f",
+    "data": [
+      {
+        "text": "Bagaimana Cara mendapatkan kode otp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a9e6d5fb-2d08-40bf-af28-3ba2bb629d43",
+    "data": [
+      {
+        "text": "saya tidak menerima kode otp sms ataupun telepon, sudah beberapa kali saya coba tidak ada kode otp.mohon dibantu...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "12009d9a-db8c-401c-bf56-0c9d17dab7d4",
+    "data": [
+      {
+        "text": "Tidak bisa terima otp karna no hp tidak aktif dan email lupa sandi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6aa76f13-6c5a-408f-acbf-bc90c1f9f6d6",
+    "data": [
+      {
+        "text": "No. Hp sudah tidak aktif. Tidak bisa terima otp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "18396130-6227-4961-9693-45467995cbba",
+    "data": [
+      {
+        "text": "Tidak mendapat OTP baik SMS, WA maupun sudah dicoba untuk memilih by phone call",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7047d12a-583e-44b3-8de6-1696a6df999a",
+    "data": [
+      {
+        "text": " kode otp tidak dikirimkan oleh tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "978d8616-2a6a-4057-a8c7-c597614ddf88",
+    "data": [
+      {
+        "text": "saya tidak menerima kode OTP.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0c3e4c5b-2ed2-4927-8125-5024b0ac9279",
+    "data": [
+      {
+        "text": "Tidak menerima kode otp Sehingga tidak bisa transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cc7ee570-6fb4-4e75-a115-017a5db448a6",
+    "data": [
+      {
+        "text": "tetapi untuk verifikasi tidak menerima kode OTP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "617cddb3-8657-4a76-9988-5594b1fd0145",
+    "data": [
+      {
+        "text": "Kode OTP nya mana ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "04cfae16-9072-4ea4-947d-f7c1cd69545f",
+    "data": [
+      {
+        "text": "Tidak bisa terima otp karna no hp tidak aktif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6f2138ae-0c53-4585-ab31-8471fe316c71",
+    "data": [
+      {
+        "text": "nomor OTP ga masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "951e47a5-ce17-4955-99ce-e77548d7f1bb",
+    "data": [
+      {
+        "text": "saya tidak terima OTP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9d58860b-1491-4fcb-9af4-a8fc8c038c29",
+    "data": [
+      {
+        "text": "tidak terima OTP sms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "79d9ebf6-e4c0-480d-98a3-5ec6619d19b7",
+    "data": [
+      {
+        "text": "Kode verifikasi dari toped sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " blm di kirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1c19ea7b-cb50-46c5-ad13-a47a1c623953",
+    "data": [
+      {
+        "text": "Saya tidak terima kode verifikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2529b2e9-8f32-4423-8530-3e8f733be590",
+    "data": [
+      {
+        "text": "tidak terima OTP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "140db1d2-da5b-438a-a582-becdd130fa87",
+    "data": [
+      {
+        "text": "OTPnya mana nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "898560f8-339a-431b-ba70-ec05cd265eb8",
+    "data": [
+      {
+        "text": "tidak terima OTP call",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "80cbbfa0-d6b8-4f30-9d8a-7a61fa61ec8c",
+    "data": [
+      {
+        "text": "kode OTP utk masuk ke ",
+        "userDefined": false
+      },
+      {
+        "text": "toko cash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gagal terus saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a8edd0c7-6ba6-4006-a0ad-3cf0051c84f1",
+    "data": [
+      {
+        "text": "mana nih otp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f7f6b76b-9cf1-429a-b70d-441da9688f62",
+    "data": [
+      {
+        "text": "nomor saya aktif, OTPnya ga masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ce28493c-bb14-4fb5-9567-408fedd41354",
+    "data": [
+      {
+        "text": "Kode verifikasi tdk terkirim ke nomor hape",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e9e3a104-716c-408b-96e9-4ad8b9cb1a5b",
+    "data": [
+      {
+        "text": "saya sudah tunggu OTP tapi tidak kunjung diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7e93891f-919c-4889-8259-5834cf447c66",
+    "data": [
+      {
+        "text": "OTP call tidak saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d4672ba1-892b-467b-92ae-d83c29a18b30",
+    "data": [
+      {
+        "text": "OTP ga masuk-masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "06865be9-a8ea-41c5-8c14-50f0f2800ac0",
+    "data": [
+      {
+        "text": "kode verifikasi saya ga masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "44ef1bdd-f738-4911-99be-aedb18c128cd",
+    "data": [
+      {
+        "text": "Mana kode verifikasi saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e2bb5ded-3d8a-47c7-aaff-8b499134b361",
+    "data": [
+      {
+        "text": "mana kode OTP saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ecef3d35-7082-436b-9cbd-55142afda189",
+    "data": [
+      {
+        "text": "saya tidak terima kode otp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c02c645e-75ea-4d98-b304-85a659eca148",
+    "data": [
+      {
+        "text": "OTP nya ga saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ba3ce3ae-f8b4-42bb-8e5c-991d692a6b49",
+    "data": [
+      {
+        "text": "saya tidak terima OTP call",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7750daba-96d5-42f2-8eba-ca63b8f6eada",
+    "data": [
+      {
+        "text": "saya ingin beli paket data/pulsa sangat sulit, menunggu verifikasi yg dikirim lewat sms/via tlp.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "26c95826-cf95-4833-89c1-1988bbdc97e4",
+    "data": [
+      {
+        "text": "nomor saya yg akun ini udah gak bisa digunakan, lalu saya mau tarik dana ke rekening harus request kode otp, sementara nomor saya udah yg akun ini udah keblokir, gimana dong?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ad269229-81db-4469-9583-0f8386e6f412",
+    "data": [
+      {
+        "text": "mana nih kode OTP saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9036efa9-0368-4863-8d8e-9f70f554c9b6",
+    "data": [
+      {
+        "text": "sms OTP tidak saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0f0f6950-e54b-45b3-8fd9-9a4f63a1296f",
+    "data": [
+      {
+        "text": "kode verifikasi tidak saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "79a09fb8-e917-4599-aa89-58a91aab6279",
+    "data": [
+      {
+        "text": "Saya tidak mendapatkan sms OTP saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "399e099e-dd97-4446-9909-18498c491304",
+    "data": [
+      {
+        "text": "Kode verivikasi tidak terkirimkan ke nomor telepon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4e721e49-e02e-4264-b70e-9bea3e48a1f4",
+    "data": [
+      {
+        "text": "tidak terima kode verifikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0ff2525e-d56d-406e-abd1-65cd51121806",
+    "data": [
+      {
+        "text": "kode OTP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "22d52780-8c74-40f5-830a-6acbb7a90614",
+    "data": [
+      {
+        "text": "mana OTP saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b4ab899d-e459-4225-bad9-577bb1f3e4ab",
+    "data": [
+      {
+        "text": "tidak terima kode OTP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "55113d01-fc77-44e2-bbd4-a5430edbabc4",
+    "data": [
+      {
+        "text": "mana nih kode verifikasi saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "61be727c-8bce-48b3-8838-920b1c541b02",
+    "data": [
+      {
+        "text": "saya tidak mendapatkan sms kode verifikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dfb435bd-cb83-404f-8a6c-6df10b55bcf5",
+    "data": [
+      {
+        "text": "saat verifikasi nomor telepon, tidak ada satupun kode yang masuk melalui sms saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "75815c25-108c-466a-822b-fa899680d3ee",
+    "data": [
+      {
+        "text": "kode verifikasi tidak masuk ke hp saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "70deb9b3-5f71-4955-ac90-4c6137dfe917",
+    "data": [
+      {
+        "text": "nomor saya aktif, tapi OTP tidak ada yang masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5784a24b-28b4-4024-8d29-55085c2c71aa",
+    "data": [
+      {
+        "text": "kode verifikasi tidak juga saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "067c792f-1c54-43a8-a4c1-7423beb8c9f7",
+    "data": [
+      {
+        "text": "nomor saya aktif, kode verifikasi tidak juga masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8db781ed-c09b-405c-8755-4ad41907c573",
+    "data": [
+      {
+        "text": "OTP tidak kunjung diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6c078ca6-c0cf-4179-aec4-4894cc6251d5",
+    "data": [
+      {
+        "text": "bagaimana caranya ketika minta verifikasi yg no teleponnya sudah tidak aktif, apakah bisa melalui aplikasi whatsapp atau email? terimakasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "42c50ffc-3331-425b-81c5-a7f6eb0b99de",
+    "data": [
+      {
+        "text": "masih ga bisa masukin kode OTPparah susahnya ganti nomor hp bikin pala pecah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "091eea17-d308-4dc3-91cc-566a81097197",
+    "data": [
+      {
+        "text": "kode konfirmasi dikirim ke sms, udah 3x minta kode tapi kok tdk ada sms masuk yaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ddd15be2-6d44-4d62-8d94-1f475ae22b2d",
+    "data": [
+      {
+        "text": "saya ingin mengganti nomor hp yg terdaftar di tokopedia saya karena nomor tersebut sudah mati.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "43c0ae94-02bf-495e-83d8-1fab15ea8213",
+    "data": [
+      {
+        "text": "Saya Mau Ganti nomor min...tapi ko kode otp nya ga di kirim kirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "72d6274f-ae99-4bf4-be49-de76986e154d",
+    "data": [
+      {
+        "text": "saya tidak mendapatkan otp di email karena no hp sya mati saya mau ganti nomer mohon bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a0b75f55-f509-476a-8d59-24e0a8d8cbf5",
+    "data": [
+      {
+        "text": "Tidak bisa aktivasi ovo, kode sms aktivasi tidak diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d40bb395-933f-4341-a809-7144381d07b6",
+    "data": [
+      {
+        "text": "Saya tidak bisa aktivasi Ovo cash akun saya. Saat pertama aktivasi, kode SMS tidak masuk sama sekali walaupun sudah kirim ulang.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "23dda2ec-dfc3-46ba-b970-e5d5bf6525a8",
+    "data": [
+      {
+        "text": "saya mau aktifasi ovo dr tdi tp blum dpt sms code verifikasi. sampe akhirnya harus tgu 1x24 jam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0a6c04f4-48b8-426a-ae05-51153a43c7f4",
+    "data": [
+      {
+        "text": "bagaimana aktivasi ovo? mgkn sy ada kesalahan klik di awal.  saya blom pernah pakai ovo,kl klik ativasi,terkirim kode verifikasi ke no hp sy...tapi smsnya gak ada. ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a3c4d723-1f83-4a21-be64-f6f95129f859",
+    "data": [
+      {
+        "text": "saya tidak bisa aktivasi OVO, kode aktivasinya tidak pernah masuk ke nomor saya padahal nomornya aktif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4fff5b4e-8f9f-4fb6-a347-74f29ec6f41f",
+    "data": [
+      {
+        "text": "sy mengalami kendala dalam pembyrn pln menggunakan ovo cash...krn tidak dikirimin sms pd saat pembyran.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "62f81e6a-bc3b-47c4-a3ee-6acdc7fd9130",
+    "data": [
+      {
+        "text": "halo, sy mau aktivasi ovo utk pakai tokocash, tp kirim otp sms ga masuk2 k nomor sy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "682c1d3e-3d76-4f43-84fa-726a7f2fb0d6",
+    "data": [
+      {
+        "text": "kode ove di masukan tapi verifikasi tdk berfungsi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "737c0a19-d52d-453a-876c-f759c399e35b",
+    "data": [
+      {
+        "text": "tapi no nya sudah tidk aktif jadi sya tidak bisa menerima kode verifikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ee88be7d-a1d6-4b6d-a0f1-8c2eef689634",
+    "data": [
+      {
+        "text": "susah sekali mengaktifkan OVO, nomer aktivasi yg dikirim kan slalu salah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "89eeb36a-05d7-41a4-8bc4-78cdfc9e2f47",
+    "data": [
+      {
+        "text": "TIDAK TERIMA KODE OTP UNTUK AKTIVASI OPO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d12d0e35-4cd9-4dda-b1a8-9f80d984d8db",
+    "data": [
+      {
+        "text": "aktivasi gak bisa2 gak ada sms otp yang masuk.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ac948127-65e9-4c66-8902-f406477472bd",
+    "data": [
+      {
+        "text": "hai saya ga bisa connect ke OVO..sms 4digit nya ga kekirim2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "36564126-cb42-441e-ae26-f8348b785c06",
+    "data": [
+      {
+        "text": "setelah dia mendaftar dengan google dan bertrasanksi dia diverifikasi melalui email tetapi kode tidak masuk ke email dia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "841d7a4b-be96-4ba5-8757-6d4927923f6b",
+    "data": [
+      {
+        "text": "saya tidak salah input kode otp dari ovo ,kenapa di suruh ulangi dalam 24jam.terima kode saja tidak,bagaimana bisa salah input",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "08de40bf-3e60-4d8a-a3ad-d041eba92273",
+    "data": [
+      {
+        "text": "sudah kirim melalui sms 4 kalim tidak ada. kode masuk di sms saya. lalu saya coba ulang gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4456d5c9-452f-4b6d-bdc9-027b87ef7c94",
+    "data": [
+      {
+        "text": "sudah coba yang ke 8 kali tetap tidak dapat sms kode otp dari ovo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "13a127e2-c41b-458d-827b-1c76770bcf08",
+    "data": [
+      {
+        "text": "Tidak bisa mengganti nomer HP, karena nomer yang lama sudah tidak aktif.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "11b70b73-3e46-4e2e-9bf9-7e6600afecbc",
+    "data": [
+      {
+        "text": "tidak berhasil aktivasi ovo smp di tahap memasukkan security code 2x trus stag di situ tdk bisa lanjut.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d30cde3b-444a-418a-bf35-0deed0fa6de2",
+    "data": [
+      {
+        "text": "saya mau aktivasi ovo tp knp kode verifikasi nya saya selalu ga dpt ya via sms ? saya kirim ulg terus tapi ga masuk2 kode verifikasi nya.. mohon bantuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "29a89ec7-64f6-44fd-9a18-d521991889e0",
+    "data": [
+      {
+        "text": "lupa secury code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7ba72208-c752-485d-b539-ddd00439f848",
+    "data": [
+      {
+        "text": "saya lupa kode ovo saya. apakah bisa di reset?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "aa60d2fe-901b-4620-ae4e-e572aee43947",
+    "data": [
+      {
+        "text": "saya tidak bisa pakai ovopoint,, tidak dapat sms verivikasi padahal nomornya sdh terhubung,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d463e2a2-79fc-405b-8cef-b6c7a3393e86",
+    "data": [
+      {
+        "text": "hi untuk dapat code security ovo bisa kemana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "54b916dc-5885-4bbe-ab93-b284cf9ec6fe",
+    "data": [
+      {
+        "text": "payment code ovo saya tidak diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "db518c4f-7220-4b74-8124-ba144974a43e",
+    "data": [
+      {
+        "text": "selamat siang. Saya mau bayar dengan ovo tapi tidak tauh security code saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0579965b-eca4-4900-883a-4dbc511b2771",
+    "data": [
+      {
+        "text": "masukkan security code OVO anda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "063eccd1-9785-4540-aa3d-049b55cebc5e",
+    "data": [
+      {
+        "text": "pembayaran menggunakan Poin tp muncul notif verifikasi securyti code. security code yg dmksud apa yah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "00e22665-df92-49b8-af81-6d0da056a532",
+    "data": [
+      {
+        "text": "Sdh verifikasi by sms 7x (sms verifikasi tdk ad yg masuk)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a2571e5c-9f08-4570-aadb-2216c6f62d0e",
+    "data": [
+      {
+        "text": "saya ingin mengganti no telfon saya, karna udah ga aktif. terus saya menggunakan metode OTP lewat email, tetapi email dari tokopedia tidak masuk2 sehingga tidak bisa saya ganti.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "87eef7c2-df13-4985-aa60-1cb490168153",
+    "data": [
+      {
+        "text": "saya req verifikasi code via email sudah 3 kali tapi tak kunjung terima code tersebut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "051a9682-2a23-4e9b-a69d-154cdf9321c0",
+    "data": [
+      {
+        "text": "saya gak dapet sms kode verifikasinya ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "90948d89-f5fd-4a3d-846f-92660af67a62",
+    "data": [
+      {
+        "text": "Kode verifikasi yg dikirim saat konfirmasi pembayaran dengan ovo point tidak pernah diterima via sms maupun email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0e06ef7e-cd4a-4cb3-94df-e8a56759f8b2",
+    "data": [
+      {
+        "text": "Tidak bisa verifikasi kode  di email yang saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "60e46541-870b-4299-844d-80acd6ba6d92",
+    "data": [
+      {
+        "text": "Bgmn saya bisa mendapatkan kode OVO ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4a7ec029-8187-4dad-b152-ffabc2074131",
+    "data": [
+      {
+        "text": " karena kode dikirmkan ke nomor yg sudah tidak aktif . sedangkan saya sudah menggunakan nomor yang baru.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9e194b43-f4c4-4a73-b1a9-e3b658162fef",
+    "data": [
+      {
+        "text": "Mau bayar pake ovo, tp tidak muncul no verifikasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "610c24cd-1400-479d-82a1-6549f7bdc50c",
+    "data": [
+      {
+        "text": "Tidak terima OTP saat pembelian voucher",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4a7229a1-e3be-4bcb-ab8b-a3ba1b81d432",
+    "data": [
+      {
+        "text": "Say akan membayar dengan cicilan kartu kredit.kenapa kode otp dikirimkan ke no telp saya yang lama.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d091e20e-ca07-426d-8834-c94df4e54ef0",
+    "data": [
+      {
+        "text": "min bagaimana cara tau security secure ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b962d730-14b2-4867-84cc-736716c5e6bd",
+    "data": [
+      {
+        "text": "Transaksi via cc bca cicilan kok gagal.  Saya tdk dpt kode otp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

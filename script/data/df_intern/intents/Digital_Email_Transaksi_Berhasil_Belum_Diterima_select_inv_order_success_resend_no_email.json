@@ -1,0 +1,48 @@
+{
+  "id": "dcb3a175-450b-4511-b341-259066e99166",
+  "parentId": "4718d9ba-53c1-4401-b45a-5a390728c74e",
+  "rootParentId": "9bfd7954-aa4e-4fe0-9970-896182c9392a",
+  "name": "Digital_Email_Transaksi_Berhasil_Belum_Diterima_select_inv_order_success_resend_no_email",
+  "auto": false,
+  "contexts": [
+    "Digital_Email_Transaksi_Berhasil_Belum_Diterima_select_inv_order_success-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Email_Transaksi_Berhasil_Belum_Diterima_select_inv_order_success_resend_no_email-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Maaf, akun kamu saat ini belum memiliki email. Kamu bisa isi di halaman pengaturan akun untuk melengkapi emailnya ya :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga info Toped membantu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534945368,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "resend_no_email"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+[
+  {
+    "id": "15f8fa9f-8540-42e5-9c51-8a4ab9ef3a8a",
+    "data": [
+      {
+        "text": "Boleh kan kalo saya kirim pake kurir pribadi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4e63bfd8-5761-4743-a8d4-ff21ec89180b",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya kan punya kurir pribadi, itu gimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3d5a9d15-6d21-4caf-a6ac-c3416b796530",
+    "data": [
+      {
+        "text": "Apakah boleh mengirimkan paket dengan kurir pribadi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b21f9b83-eb13-4c1e-b403-419b0ba69a80",
+    "data": [
+      {
+        "text": "Saya mau kirim pake kurir pribadi, gapapa kan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "18154053-3c38-4de4-94d7-11f80b7086e5",
+    "data": [
+      {
+        "text": "Apakah bisa mengirimkan dengan kurir pribadi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8c3b497b-f549-4fcf-9d4a-96b4f904dd5a",
+    "data": [
+      {
+        "text": "Saya mau pake kurir sendiri aja biar aman..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "75b667f8-f8b9-491a-bdcd-e86606336249",
+    "data": [
+      {
+        "text": "barang sudah saya kirim sendiri tanpa proses pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5d20f3bc-2691-40aa-8f3f-7b43d775cbe4",
+    "data": [
+      {
+        "text": "Barang saya kirimkan lewat indah express atas persetujuan buyer, tapi ditokped tidak ada opsi indah express maka saya pilih asal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "571d2e91-7d12-4601-a2b5-cebd44b38917",
+    "data": [
+      {
+        "text": "ini ada pembeli saya yg ingin mengambil sendiri barangnya ke toko, terus resinya gimana nih min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4c8d5940-e748-4401-8c3c-423db9add16a",
+    "data": [
+      {
+        "text": "bisa mengatur pengiriman dengan kendaraan sendiri?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

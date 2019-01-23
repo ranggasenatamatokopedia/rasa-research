@@ -1,0 +1,37 @@
+{
+  "id": "9d20bb27-6893-4bfe-a213-d636b591a1b4",
+  "name": "FAQ_Digital_Wilayah_Pembayaran_Air_PDAM_Tidak_Tersedia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Digital_Wilayah_Pembayaran_Air_PDAM_Tidak_Tersedia-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Saat ini, pembayaran Air PDAM hanya tersedia untuk beberapa wilayah saja. Yuk cek  !TKPD_URL_WILAYAH_PDAM!, lalu klik bagian \u0027Wilayah\" untuk tahu apakah wilayah kamu termasuk di dalamnya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_digital_wilayah_pembayaran_air_pdam_tidak_tersedia"
+    }
+  ]
+}

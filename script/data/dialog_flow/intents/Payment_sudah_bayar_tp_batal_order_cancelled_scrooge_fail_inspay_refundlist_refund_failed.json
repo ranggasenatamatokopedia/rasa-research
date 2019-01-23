@@ -1,0 +1,68 @@
+{
+  "id": "47a033d7-9e94-4326-a231-a8ab8496d421",
+  "parentId": "7d157072-9d98-461d-8c10-a1cad978be91",
+  "rootParentId": "96f23e85-fae0-4896-8203-08e968aef1b9",
+  "name": "Payment_sudah_bayar_tp_batal_order_cancelled_scrooge_fail_inspay_refundlist_refund_failed",
+  "auto": true,
+  "contexts": [
+    "Payment_sudah_bayar_tp_batal_order_cancelled_scrooge_fail_inspay_refundlist_not_null-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Payment_sudah_bayar_tp_batal_order_cancelled_scrooge_fail_inspay_refundlist_refund_failed-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9949d8e3-cccd-4fdd-b2cd-3f3a9729e65f",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1246"
+        },
+        {
+          "id": "39f7f56b-208a-46a2-b53e-0c2be808cf1c",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Payment_sudah_bayar_tp_batal"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped bantu buatkan tiketnya ya dan kalau ada informasi lebih lanjut akan disampaikan lewat email :)"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 0,
+            "data": {
+              "show_rating": false
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532396294,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "refund_status_failed"
+    }
+  ]
+}

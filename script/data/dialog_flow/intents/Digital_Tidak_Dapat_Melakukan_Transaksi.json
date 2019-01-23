@@ -1,0 +1,50 @@
+{
+  "id": "c230094b-7dd5-43f4-984b-d415098c4e53",
+  "name": "Digital_Tidak_Dapat_Melakukan_Transaksi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Digital_Tidak_Dapat_Melakukan_Transaksi-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh kasih tahu Toped notifikasi apa yang muncul saat ingin melakukan pembelian?"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "1. Terjadi kendala teknis/permohonan tidak dapat diproses\n2. Akun telah melebihi batas pembelian\n3. Nomor/Id pelanggan tidak ditemukan\n4. Nomor yang kamu masukkan salah/tidak sesuai/tidak didukung\n5. Produk sedang mengalami gangguan\n6. Stok habis\n7. Tagihan tidak tersedia/tidak memiliki tagihan/sudah lunas\n8. Produk yang dipilih tidak tersedia"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa pilih poin 1 - 8 diatas ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "Digital_Tidak_Dapat_Melakukan_Transaksi-followup"
+    },
+    {
+      "name": "digital_tidak_dapat_melakukan_transaksi"
+    }
+  ]
+}

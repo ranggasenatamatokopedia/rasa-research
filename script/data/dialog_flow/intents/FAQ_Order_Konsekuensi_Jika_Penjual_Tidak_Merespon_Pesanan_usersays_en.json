@@ -1,0 +1,424 @@
+[
+  {
+    "id": "97209b2a-bff9-4083-a9e3-08df237c0c2c",
+    "data": [
+      {
+        "text": "pesanan yang masuk ke saya, tapi saya ga respon gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f78b0164-6a71-4181-8b2b-289046a8706e",
+    "data": [
+      {
+        "text": "gimana klo saya mengabaikan pesanan yang masuk?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cab564d0-6108-489d-8e97-a898fcd1f92c",
+    "data": [
+      {
+        "text": "pesanan sudah masuk, tapi saya tidak respon. apakah saya kena penalty?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "284bb5b9-906b-488a-a32d-65209067aabe",
+    "data": [
+      {
+        "text": "apa konsekuensi jika ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak merespon pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cd60c4ee-2178-4455-a160-626fbc9c563f",
+    "data": [
+      {
+        "text": "kalo pesanan ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak saya respon gimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4623ae5d-86e7-4f15-964c-d0721d276c15",
+    "data": [
+      {
+        "text": "gimana kalau ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak merespon pesanan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "07ce54c3-9a26-42e8-9701-59c830253348",
+    "data": [
+      {
+        "text": "bagaimana kalau saya tidak merespon pesanan dari ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4c9ab6d1-ac71-4d68-855c-e05f1135324f",
+    "data": [
+      {
+        "text": "kalo ada pesenan masuk tapi saya ga respon, apa saya dapet penali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cc71ec67-8caf-4d55-b5fe-c66e57b20a37",
+    "data": [
+      {
+        "text": "gimana klo saya tidak merespon order dari ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cde29f6d-54ce-4aeb-bd80-6db960b52dcf",
+    "data": [
+      {
+        "text": "gimana klo pesenan dari ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak saya respon?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "96deea4c-0b81-485d-aad0-a53280e7bec2",
+    "data": [
+      {
+        "text": "apakah saya akan dapat penalti kalau mengabaikan pesanan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a956e677-3ca1-4426-a536-9f134691dea5",
+    "data": [
+      {
+        "text": "gimana klo pesanan dari ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya diamkan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2
+  },
+  {
+    "id": "043bd51b-efdb-4ee4-968b-e8bc857c6c3f",
+    "data": [
+      {
+        "text": "bagaimana jika saya tidak merespon pesanan dari ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d14b661e-3043-42e7-aff3-816e70f45afa",
+    "data": [
+      {
+        "text": "klo saya ga respon, apakah saya dikasih penalti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "41ebbb05-396e-42b8-b7e3-2aa763e23cbe",
+    "data": [
+      {
+        "text": "Jika saya tidak merespon pesanan yang masuk, apa konsekuensinya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ecf5dc14-9b01-4f26-929a-5b12459d6f30",
+    "data": [
+      {
+        "text": "kalau saya tidak merespon pesanan dari ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " apakah reputasi saya berkurang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5c6bc897-1550-427c-aa64-757b5ef8a1f6",
+    "data": [
+      {
+        "text": "g direspon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4b7c28d6-5193-4440-9ae1-a5f78261a44a",
+    "data": [
+      {
+        "text": "saya seller kak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1ea82b16-0f70-475a-8614-e7fccce75817",
+    "data": [
+      {
+        "text": "belum difollowup oleh seller",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "036203e0-5203-4947-b759-1d7fb337d0de",
+    "data": [
+      {
+        "text": "tp blum ad respon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "610aba2a-15fd-4883-abc5-22e7a3f616f5",
+    "data": [
+      {
+        "text": "waktu responnya bikin hanya 2/3 jam setelah pembelian...agar kita pembeli bisa men cancel apa bila penjual tidak merespon lebih dari itu...karna kita beli barang di tokped butuh urgent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7afbac2a-42be-4349-8994-83226b6b0c3f",
+    "data": [
+      {
+        "text": "apakah jika melewati batas respon transaksi akan otomatis di batalkan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "35ea2b24-a22b-445c-af8e-df4b07d0a712",
+    "data": [
+      {
+        "text": "pelapakna tidak ada respon juga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7a85ea42-1562-4b5d-ab45-4e574cc5c1b5",
+    "data": [
+      {
+        "text": "sya sdh tarnsfer dr 3 hari yg lalu tpi smpr skrng btng belum di kirim bisa di cancel aja ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cc3fa222-9691-4beb-907b-cb7d0380c9a0",
+    "data": [
+      {
+        "text": "kalo kelamaan proses saya gak mau",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "793f8c89-d3d4-48d1-badf-a81164011052",
+    "data": [
+      {
+        "text": "Saya mau tau status refund dana, atas transaksi yang penjual tidak mengirimkan barang nya kembali ke saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "523b76b6-6015-49c7-9e85-7fc5af8d90b9",
+    "data": [
+      {
+        "text": "apakah jika melewati waktu batas respon akan di batalkan otomatis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e55b55fc-e314-417c-a027-82fdc108db48",
+    "data": [
+      {
+        "text": "Sudah lewat waktu yang ditentukan, penjual tidak merespon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "58a94867-0814-4b19-8418-c25d1130f28a",
+    "data": [
+      {
+        "text": "kmrin sy pesan di toko yang sama cm responnya lamban sekali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ac34df03-0358-4bed-87fd-40e5b9712cda",
+    "data": [
+      {
+        "text": "saya sudah mengirimkan cancel order selanjutnya gmn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6ce48bf0-17af-4047-aae7-197a8e67aa8e",
+    "data": [
+      {
+        "text": "tolong invoice pembelian dibatalkan karena respon penjual lambat sekali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

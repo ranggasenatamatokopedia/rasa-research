@@ -1,0 +1,43 @@
+{
+  "id": "b53bd12a-2d53-49f6-8a13-b4b36a7372c3",
+  "parentId": "8527c817-a5fe-415b-bbd9-d6b35eb54fd9",
+  "rootParentId": "ac27f987-10da-4579-826b-fdb70eef3ed6",
+  "name": "TOKOPOINT_Tidak_bisa_menggunakan_minimum_purchase_upload_img",
+  "auto": false,
+  "contexts": [
+    "TOKOPOINT_Tidak_bisa_menggunakan_minimum_purchase_get_platform-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Tidak_bisa_menggunakan_minimum_purchase_upload_img-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai, mohon lampirkan URL Link/screenshoot dari produk yang akan dibeli ya!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523605854,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "add_text_platform"
+    }
+  ]
+}

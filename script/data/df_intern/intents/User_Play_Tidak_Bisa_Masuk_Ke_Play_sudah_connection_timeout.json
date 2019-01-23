@@ -1,0 +1,51 @@
+{
+  "id": "c03e5e6c-4075-40bb-9af0-ea5cc1213e15",
+  "parentId": "58bb905d-0c93-4501-a025-d9b11770f4d2",
+  "rootParentId": "e24c0d6b-ef5c-4d53-ac56-e76f47176faf",
+  "name": "User_Play_Tidak_Bisa_Masuk_Ke_Play_sudah_connection_timeout",
+  "auto": true,
+  "contexts": [
+    "User_Play_Tidak_Bisa_Masuk_Ke_Play_sudah-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "User_Play_Tidak_Bisa_Masuk_Ke_Play_sudah_connection_timeout-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Tolong infoin Toped, kamu masuk ke Play nya melalui apa?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Shake-Shake",
+              "Top Chat",
+              "Banner"
+            ],
+            "type": 1
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544432196,
+  "fallbackIntent": false,
+  "events": []
+}

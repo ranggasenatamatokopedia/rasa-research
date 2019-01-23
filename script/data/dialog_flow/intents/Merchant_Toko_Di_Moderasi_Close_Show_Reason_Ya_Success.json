@@ -1,0 +1,43 @@
+{
+  "id": "4440151a-8f4e-4b63-8eb7-db9eaba0121d",
+  "parentId": "d784217c-8d99-44f3-8301-ff822daf3500",
+  "rootParentId": "7f287c44-496d-4df8-b6b5-0c29a68454fc",
+  "name": "Merchant_Toko_Di_Moderasi_Close_Show_Reason_Ya_Success",
+  "auto": true,
+  "contexts": [
+    "Merchant_Toko_Di_Moderasi_Close_Show_Reason_Ya-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Toko_Di_Moderasi_Close_Show_Reason_Ya_Success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toko sudah Toped buka ya, yuk refresh halaman toko kamu."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1547008973,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "is_success"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "783553cf-c351-457c-9f18-169d7b3de668",
+  "parentId": "9490c732-af8e-44f3-aac5-9332ce6164ec",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Transaksi_Berhasil_Tapi_kode_unik_promo_evoucher_voucher_belanja_transaksi_sebelumnya",
+  "auto": true,
+  "contexts": [
+    "Promo_Transaksi_Berhasil_Tapi_Tidak_Mendapat_Benefit_kode_unik_promo_evoucher_voucher_belanja-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetInvoiceList",
+      "affectedContexts": [
+        {
+          "name": "Promo_Transaksi_Berhasil_Tapi_kode_unik_promo_evoucher_voucher_belanja_transaksi_sebelumnya-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon menunggu sebentar ya, Kak :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon informasikan transaksi Kakak ya"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522987774,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "transaksi_sebelumnya"
+    }
+  ]
+}

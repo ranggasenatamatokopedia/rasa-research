@@ -1,0 +1,93 @@
+[
+  {
+    "id": "549d3fc4-0cb8-466a-a466-91a34f75485d",
+    "data": [
+      {
+        "text": "Nominal pergantian dari asuransi brp?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a6fa51de-cf0d-420b-a6d7-7e06810af4bf",
+    "data": [
+      {
+        "text": "Berapa nominal pergantian barang rusak atau hilang pada Tokopedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a9a0a4aa-4bcf-4fca-97e7-f60c6b85348b",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kalo saya gak pake asuransi pengiriman, dan barang saya hilang atau rusak dalam pengiriman, pergantiannya berapa ya yang akan saya terima?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bfe3ba98-6579-4e68-8560-4f1e06360bdc",
+    "data": [
+      {
+        "text": "Kalo saya pakai asuransi, pergantiannya full kan ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7945f4e5-8f64-4275-af09-57699012754f",
+    "data": [
+      {
+        "text": "Asuransi yang saya pakai, bisa cover berapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b6349308-7349-44a1-a75a-0280cdaeccec",
+    "data": [
+      {
+        "text": "Min, kalo saya pake asuransi, dan barang saya ",
+        "userDefined": false
+      },
+      {
+        "text": "hilang",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " atau rusak, berapa nominal yang akan di ganti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e37b42eb-55be-4032-8cf2-e59f9334fd89",
+    "data": [
+      {
+        "text": "Kalo saya pakai asuransi, berapa pergantiannya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

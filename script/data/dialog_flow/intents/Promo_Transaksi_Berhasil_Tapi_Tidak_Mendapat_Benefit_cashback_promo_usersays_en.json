@@ -1,0 +1,71 @@
+[
+  {
+    "id": "0a7df957-156f-4ceb-85fe-54a627340d64",
+    "data": [
+      {
+        "text": "cashback promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3756b935-de7e-4cf6-a2b6-f8e2c371cd6d",
+    "data": [
+      {
+        "text": "benefit_cashback_promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9fb5455b-92b5-4481-aa48-1afe622e210f",
+    "data": [
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "769b021a-ce7b-4062-9821-e028df4a6598",
+    "data": [
+      {
+        "text": "pertama",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3790097f-9d13-4131-806d-cd724053e810",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2b6c5dbb-0b60-428c-8e8d-2e5f6cbb54f4",
+    "data": [
+      {
+        "text": "one",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "6ecf1467-7602-4c90-8cbd-72822d7ca5b7",
+    "data": [
+      {
+        "text": "resolusi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "94d1df59-eef5-462f-bc94-db2820189f8e",
+    "data": [
+      {
+        "text": "invoice_pesanan_dikomplain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c3b75552-1ca4-465b-8b55-3f7d72694627",
+    "data": [
+      {
+        "text": "resolution",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "798c3564-f16f-40a6-86dc-e7b12c987e44",
+    "data": [
+      {
+        "text": "resol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

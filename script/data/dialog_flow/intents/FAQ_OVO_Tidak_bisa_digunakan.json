@@ -1,0 +1,32 @@
+{
+  "id": "62494219-75e9-459b-9ada-7a6d0fc05648",
+  "name": "FAQ_OVO_Tidak_bisa_digunakan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Perlu kamu ketahui, bahwa pembayaran dengan menggunakan OVO Cash tidak dapat berlaku untuk produk - produk berikut, ya:\n- Pembayaran tagihan Kartu Kredit\n- Tokopedia Emas"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Dan untuk pembayaran menggunakan OVO Points tidak berlaku untuk produk - produk ini, ya:\n- Pembayaran tagihan Kartu Kredit\n- Reksa Dana\n- Tokopedia Emas"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

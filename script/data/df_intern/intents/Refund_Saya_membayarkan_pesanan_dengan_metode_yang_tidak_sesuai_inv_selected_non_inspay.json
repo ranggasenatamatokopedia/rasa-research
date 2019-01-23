@@ -1,0 +1,58 @@
+{
+  "id": "83413f7a-c83c-43ee-bc83-85b1ac9b8cd4",
+  "parentId": "5d9c0e62-cdd6-483f-b266-554c2e31597f",
+  "rootParentId": "f9ec542f-62a1-4f00-a77f-a5b3cb164296",
+  "name": "Refund_Saya_membayarkan_pesanan_dengan_metode_yang_tidak_sesuai_inv_selected_non_inspay",
+  "auto": false,
+  "contexts": [
+    "Refund_Saya_membayarkan_pesanan_dengan_metode_yang_tidak_sesuai_inv_selected-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bffbe92b-f201-41f4-b382-c1a9734afe95",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "11",
+          "isList": false
+        },
+        {
+          "id": "99a20729-1c3d-4cd3-82c0-6f3267c08aad",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Refund_Saya_membayarkan_pesanan_dengan_metode_yang_tidak_sesuai"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kesalahan metode pembayaran, biasanya terjadi pada metode pembayaran instant payment."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Dimana kamu memilih pembayaran metode instant payment tapi tidak melakukan pembayaran dengan metode tersebut."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523870126,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "non_inspay"
+    }
+  ]
+}

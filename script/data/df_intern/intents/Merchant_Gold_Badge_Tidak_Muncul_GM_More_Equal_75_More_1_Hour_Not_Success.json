@@ -1,0 +1,62 @@
+{
+  "id": "33bc7563-3cfc-4004-87d9-edc4a9e1d44a",
+  "parentId": "662d622d-696f-4ee6-b5dd-ef21b9bcb80a",
+  "rootParentId": "aff6fa6f-2bad-4320-bb2d-dc7125c355a5",
+  "name": "Merchant_Gold_Badge_Tidak_Muncul_GM_More_Equal_75_More_1_Hour_Not_Success",
+  "auto": true,
+  "contexts": [
+    "Merchant_Gold_Badge_Tidak_Muncul_GM_More_Equal_75_More_1_Hour-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Gold_Badge_Tidak_Muncul_GM_More_Equal_75_More_1_Hour_Not_Success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a1cb751f-c389-4aa5-a533-95b851560c1e",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1027",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped belum berhasil melakukan penyesuaian padan Power Badge kamu. Untuk kendala ini Toped bantu buatkan tiketnya, ya. Mohon tunggu sebentar."
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "data": {
+              "show_rating": false
+            },
+            "type": 0
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536556240,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "clear_cache_not_success"
+    }
+  ]
+}

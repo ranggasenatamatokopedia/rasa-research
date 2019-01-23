@@ -1,0 +1,59 @@
+{
+  "id": "31e81eac-32ab-4546-8342-d55d0d4b16e3",
+  "parentId": "c89c47da-a232-4e5c-bde8-2c96423e3953",
+  "rootParentId": "67024543-88fb-488f-907b-85ef94921089",
+  "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_belum_trx_ticket",
+  "auto": false,
+  "contexts": [
+    "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_belum_trx_get_img-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_belum_trx_ticket-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9945582a-491d-482e-8667-7d55680784e8",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1705",
+          "isList": false
+        },
+        {
+          "id": "ec1750e6-e2ab-4739-b4d6-5eef64046323",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Terima kasih ya datanya. Akan dikonfirmasi ke tim Toped dulu ya untuk dicek lebih lanjut. Kalau sudah ada informasi, pasti akan Toped kasih tahu kembali"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513040943,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

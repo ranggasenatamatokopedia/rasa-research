@@ -1,0 +1,32 @@
+{
+  "id": "32a2290a-aca0-4e72-8cba-50572de06e4f",
+  "name": "FAQ_Refund_Mengapa_Dana_Belum_Diterima_Padahal_Pusat_Resolusi_Selesai",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Tak perlu panik. Proses pengembalian dana bisa memakan waktu hingga 2x24 jam di hari kerja dan ditujukan ke Saldo Tokopedia milikmu.\n\nTapi ada peraturan yang berbeda jika kamu melakukan transaksi dengan kartu kredit. Sesuai dengan kebijakan bank penerbit kartu kredit, pengembalian dana ke limit bisa diproses hingga 14 hari kerja.\n\nUntuk lebih jelasnya, silakan hubungi tim \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://tkp.me/contact-us\"\u003eCustomer Care\u003c/a\u003e Tokopedia"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520238450,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_refund_mengapa_dana_belum_diterima_padahal_pusat_resolusi_selesai"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "47c45230-f928-4f16-861d-9581cf0113dc",
+  "name": "FAQ_LOGISTIK_Driver_Minta_Uang",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_logistik_driver_minta_uang"
+    }
+  ]
+}

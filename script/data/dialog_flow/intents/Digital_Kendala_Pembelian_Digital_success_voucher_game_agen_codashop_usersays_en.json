@@ -1,0 +1,46 @@
+[
+  {
+    "id": "596505e2-d2f7-41ae-91fb-fd1e97b51ab5",
+    "data": [
+      {
+        "text": "operator_free_fire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "798d75d7-e889-4239-8ecc-3706c6ff1780",
+    "data": [
+      {
+        "text": "operator_ragnarok_m_eternal_love",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "349531c5-e1c1-4346-a09a-d83805afd516",
+    "data": [
+      {
+        "text": "operator_garena_arena_of_valor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4176976b-900b-41ef-aa36-86529b1931a4",
+    "data": [
+      {
+        "text": "operator_mobile_legends",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "id": "3666be6a-b8fa-4a4d-ac3b-cf7ea2a098af",
+  "parentId": "50d0a2eb-5479-493c-bb68-f41644027488",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_select_invoice_wtp_scrooge_waiting_Belum",
+  "auto": true,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_select_invoice_wtp_scrooge_waiting-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_select_invoice_wtp_scrooge_waiting_Belum-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Silakan gunakan kode pembayaran yang tertera pada Daftar Transaksi Digital kamu dan lakukan pembayaran jika kamu masih menginginkan transaksi tersebut."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga informasi Toped membantu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534000672,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,48 @@
+{
+  "id": "968520eb-7030-491e-a011-6505751e97f2",
+  "parentId": "53d7ee33-9588-4ad5-9e60-c692d582b555",
+  "rootParentId": "96f23e85-fae0-4896-8203-08e968aef1b9",
+  "name": "Payment_sudah_bayar_tp_batal_scrooge_fail_manual_transfer_refundlist_refund_progress",
+  "auto": true,
+  "contexts": [
+    "Payment_sudah_bayar_tp_batal_scrooge_fail_manual_transfer_refundlist_not_null-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetRefundNotesFromRefundList",
+      "affectedContexts": [
+        {
+          "name": "Payment_sudah_bayar_tp_batal_scrooge_fail_manual_transfer_refundlist_refund_progress-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kak, refundnya sedang dalam proses ya. Jadi, Kakak dapat menunggu terlebih dahulu maksimal 1x24 jam ya. Jika Kakak menggunakan kartu kredit, mohon ditunggu ya maksimal 14 hari kerja untuk pengembaliannya ke limit."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut informasi pengembalian dana kakak ya:"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531452432,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "refund_status_on_progress"
+    }
+  ]
+}

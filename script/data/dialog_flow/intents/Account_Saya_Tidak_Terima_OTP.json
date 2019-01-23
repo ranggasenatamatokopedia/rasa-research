@@ -1,0 +1,56 @@
+{
+  "id": "6b16a86e-4800-47e0-b4de-236c26fc42d9",
+  "name": "Account_Saya_Tidak_Terima_OTP",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Account_Saya_Tidak_Terima_OTP-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "76117b96-8ad7-4909-8267-5fa9d77fb7a6",
+          "dataType": "@metode_bayar",
+          "name": "metode_bayar",
+          "value": "$metode_bayar",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau kendala kamu terkait OTP OVO atau OTP penggunaan kartu kredit, Toped sarankan untuk menghubungi pihak OVO atau Bank secara langsung.\n\nUntuk kendala OTP selain hal diatas, informasikan ke Toped apakah nomor kamu yang terdaftar di Tokopedia masih aktif?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Aktif",
+              "Tidak aktif"
+            ],
+            "type": 1
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "account_saya_tidak_terima_otp"
+    }
+  ]
+}

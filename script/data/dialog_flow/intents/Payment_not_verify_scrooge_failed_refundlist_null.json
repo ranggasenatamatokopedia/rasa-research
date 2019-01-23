@@ -1,0 +1,43 @@
+{
+  "id": "7cfb2fe5-ea8b-4459-8328-ed9abd9bc9dc",
+  "parentId": "77ce76ac-dd95-4848-a302-43d828d8735b",
+  "rootParentId": "7702a921-0bc2-479f-9cd3-aade8103768a",
+  "name": "Payment_not_verify_scrooge_failed_refundlist_null",
+  "auto": true,
+  "contexts": [
+    "Payment_not_verify_scrooge_failed_manual_trf-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Payment_not_verify_scrooge_failed_refundlist_null-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Baik, bisa lampirkan bukti pembayaran berhasilnya, Kak?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531197999,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "refund_list_is_null"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "430a7289-7fa2-4f22-b858-ae7d755140d5",
+    "data": [
+      {
+        "text": "case_status_bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "336b9471-60b9-4734-94e3-a73fd663e2d9",
+    "data": [
+      {
+        "text": "bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3581dd06-48e4-471c-bd26-9c928a7914d5",
+    "data": [
+      {
+        "text": "case_status_suspect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4b67de53-dd37-4f3c-903d-7135f94a2f8e",
+    "data": [
+      {
+        "text": "suspect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

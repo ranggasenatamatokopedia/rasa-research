@@ -1,0 +1,46 @@
+{
+  "id": "6cf352d7-de91-4077-8b6f-96c20d9933ec",
+  "parentId": "e5a3a3eb-0e1d-4a2c-aeaf-0eb015acc951",
+  "rootParentId": "96f23e85-fae0-4896-8203-08e968aef1b9",
+  "name": "Payment_sudah_bayar_tp_batal_order_cancelled",
+  "auto": true,
+  "contexts": [
+    "Payment_sudah_bayar_tp_batal_order_status-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetPaymentScroogeStatus",
+      "affectedContexts": [
+        {
+          "name": "Payment_sudah_bayar_tp_batal_order_cancelled-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531448947,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_canceled"
+    },
+    {
+      "name": "invoice_batal_otomatis_oleh_sistem"
+    }
+  ]
+}

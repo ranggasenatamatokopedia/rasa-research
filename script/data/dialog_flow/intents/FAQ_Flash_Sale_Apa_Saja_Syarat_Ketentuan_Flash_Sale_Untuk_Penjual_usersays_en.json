@@ -1,0 +1,397 @@
+[
+  {
+    "id": "a32affbc-7932-4b4a-9d8c-b70a6a6c7ab3",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan mau produk saya ada di flash sale. Boleh bantu infokan syarat dan ketentuannya apa saja?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "35be4a84-2357-467b-b138-01faa150bbd6",
+    "data": [
+      {
+        "text": "Jika saya mau ikut flash sale, ketentuannya apa saja ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5f3ae21c-0230-4565-93ce-dba66bc2800c",
+    "data": [
+      {
+        "text": "Saya berminat ikut flash sale, apakah ada syarat dan ketentuannya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9a2d4a4e-9f4e-4190-97db-a782036e2525",
+    "data": [
+      {
+        "text": "minta S\u0026K Flash sale ",
+        "userDefined": false
+      },
+      {
+        "text": "dong",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya mau ikutan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fd883ca8-5c5b-4549-9493-3286c4590f37",
+    "data": [
+      {
+        "text": "temen saya produknya ikut flash sale, boleh tau apa saja ketentuan yang harus dipenuhi untuk mengikuti Flash sale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bf30df01-7574-4239-bfec-e1ff309ff59a",
+    "data": [
+      {
+        "text": "ketentuan flahsale untuk ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " apa ya? Kok saya ga nemu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ab55a000-e4fd-4bb5-9c32-701fbc09cca3",
+    "data": [
+      {
+        "text": "Saya tidak menemukan syarat dan ketentuan mengikuti flash sale, boleh saya minta ga ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " S\u0026K sebagai ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "673ad6c9-fa57-406e-82c8-b271b9342f61",
+    "data": [
+      {
+        "text": "Untuk ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ada ketentuan Flash sale ga ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "603a011f-84da-488b-bd07-3f0864b5aa58",
+    "data": [
+      {
+        "text": "syarat flash sale buat ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " apa saja?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "037c7ff9-b584-4339-95b9-5b548737bad1",
+    "data": [
+      {
+        "text": "Selamat ",
+        "userDefined": false
+      },
+      {
+        "text": "pagi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Admin, apakah untuk flash sale ada Syarat dan ketentuannya? Jika ia boleh tau?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "99bbffab-76b3-43f4-b445-33fb7b4e1edf",
+    "data": [
+      {
+        "text": "saya ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan ingin ikut flash sale, boleh tau ketentuannya apa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "26837939-0388-4084-b18c-acefbb8eadd6",
+    "data": [
+      {
+        "text": "Ini flash salenya ketentuan nya apa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "28807661-bed5-4f42-ab7b-7483e2612e18",
+    "data": [
+      {
+        "text": "Apakah semua ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dapat mengikuti Flashsale? atau apakah ada Syarat dan ketentuannya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ae98bda3-fa24-4f83-8271-55973c5593a8",
+    "data": [
+      {
+        "text": "Saya minta ketentuan dan syarat untuk mengikuti Flash sale sebagai ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "059f64f8-b521-4c0e-ab17-78f943f60571",
+    "data": [
+      {
+        "text": "Berikan saya info syarat dan ketentuan untuk mengikuti flash sale ",
+        "userDefined": false
+      },
+      {
+        "text": "25ribu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bagaimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "83783513-014f-4a53-a6c6-0b6bdc41554f",
+    "data": [
+      {
+        "text": "Bagaimana caranya agar produk saya bisa ikut flash sale? Boleh minta Syarat dan ketentuannya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? Terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c6b283ff-a8fe-4964-8eb7-6704ed7b68cc",
+    "data": [
+      {
+        "text": "Boleh tau untuk Flash sale syarat dan ketentuannya apa? Apakah semua user boleh ikut?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0b50b864-c149-48c2-a2bb-f4ed69113bdd",
+    "data": [
+      {
+        "text": "syarat ikut flash sale sebagai ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " apa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4559b2e3-20de-4b1f-a378-6edf855ced7d",
+    "data": [
+      {
+        "text": "Saya Ingin mengajukan Produk saya mengikuti Flash sale, untuk syarat dan kententuannya apa aja ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "966ba58d-c180-4780-aa16-8ab05830bb1e",
+    "data": [
+      {
+        "text": "Saya ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " baru, cara agar produk saya ikut flash sale bagau mana ? Minta ketentuannya untuk ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f8045f84-7d6e-48c5-a7b4-387d48f2a922",
+    "data": [
+      {
+        "text": "apa saja syarat dan ketentuan flash sale ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

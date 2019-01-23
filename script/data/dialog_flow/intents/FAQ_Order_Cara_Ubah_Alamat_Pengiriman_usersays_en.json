@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ddc095c7-ead0-451e-854b-c659ddf9c9f1",
+    "data": [
+      {
+        "text": "Sy ada kendala perihal salah pilih alamat pengiriman, apakah bisa dirubah ke alamat yg lain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "540b7dac-0381-4e3f-864d-1e151997cb6c",
+    "data": [
+      {
+        "text": "Mau ubah alamat, alamat yg tertera sudah tidak di tinggalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cf7206ac-8977-416f-993d-4aee1a1e56c9",
+    "data": [
+      {
+        "text": "saya sudah terlanjur beli.. tapi lupa merubah alamat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "56fe8c0d-2b90-4960-b62a-d71ef44d4545",
+    "data": [
+      {
+        "text": "Alamat salah. Tapi sdh bayar, mau ganti alamat pengiriman bgmn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4374a477-0886-439a-ae65-e5b1f8701887",
+    "data": [
+      {
+        "text": "saya mau ganti alamat pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7db38cb0-f208-46bf-9e41-ad2f2ba562cc",
+    "data": [
+      {
+        "text": "Saya ingin mengubah alamat pengiriman untuk pembelian ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d11e3125-497c-4dbd-ab6d-43424f027704",
+    "data": [
+      {
+        "text": "gimana caranya ubah alamat rumah ke alamat kantor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5b96e20b-8278-4ec9-bf3d-88fba940bc01",
+    "data": [
+      {
+        "text": "salah memasukan alamat ingin merubah alamat penerima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "06accb72-98f7-424c-aabe-83808782e0d9",
+    "data": [
+      {
+        "text": "ada kesalahan input alamat, harusnya alamat kantor bukan alamat rumah. bisakah diubah alamatnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dc4a21ca-fe62-4298-b7a6-d02472405f44",
+    "data": [
+      {
+        "text": "bagaimana cara ubah alamat pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "158d6b80-4ca4-47a7-8844-59be5054dd9e",
+    "data": [
+      {
+        "text": "Ganti alamat pengiriman jl. galuh mas Raya ruko pasar bersih blok B ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sukaharja teluk jambe timur karawang ",
+        "userDefined": false
+      },
+      {
+        "text": "41361",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". 081806322513",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b254e681-7904-471b-a628-022d3c8c3596",
+    "data": [
+      {
+        "text": "bagaimana cara ganti alamat di invoice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fc7d90db-e757-42e5-97db-b38d30fea521",
+    "data": [
+      {
+        "text": "bisa bantu saya ganti alamat yang tercetak di invoice pesanan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7ecc8ced-d71a-46ff-a674-0e1b83fa66ad",
+    "data": [
+      {
+        "text": "saya salah cantumkan nomor rumah pas waktu beli, apakah bisa diganti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "38601602-f2da-46a0-8769-81b88db05c06",
+    "data": [
+      {
+        "text": "salah masukan alamat tujuan, apa masih bisa ganti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2c9a4eed-bfb2-48d9-93b8-218d5b8042fc",
+    "data": [
+      {
+        "text": "saya mau update alamat yang ada di invoice karena salah kode ",
+        "userDefined": false
+      },
+      {
+        "text": "pos",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", apakah masih bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "32c0b56c-2fe6-476f-8dec-f32d06d0060b",
+    "data": [
+      {
+        "text": "pesanan sudah diteruskan ke ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", gimana cara ubah alamatnya ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "be2c59f9-075d-4326-9b6c-2b268a4eb7df",
+    "data": [
+      {
+        "text": "Saya ingin mengganti alamat pengiriman apakah bisa? Saya lupa klik ke alamat kantor (Jakarta), sudah terlanjur ter-klik ke alamat rumah sedangkan rumah tidak ada orang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1ef8e69c-3e1d-48a8-9ad4-b11ecc59f0b2",
+    "data": [
+      {
+        "text": "saya mau ganti Alamat bisa? masih dalam ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kota kok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "15ed8099-0a80-43b3-b6d4-8604d56c7fe2",
+    "data": [
+      {
+        "text": "saya sudah terlanjur pesan tapi ada alamat yang salah, gimana cara ubah alamat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2410de55-d48c-4b56-b8c1-4b2c87c04bbb",
+    "data": [
+      {
+        "text": "saya mau ganti alamat yang tercantum di invoice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8d8cfbbd-10fc-430e-a650-ae8af243a99c",
+    "data": [
+      {
+        "text": "tolong bantu ubah alamat pengiriman yang tercantum di invoice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "35f4c1c3-0828-42de-8eed-3659fb0a1be1",
+    "data": [
+      {
+        "text": "Gimana cara ganti alamat? Saya order barang tapi saya lupa ganti alamat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "64951a40-fb70-4e03-8df5-733d8a845017",
+    "data": [
+      {
+        "text": "salah masuk kan alamat min",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a20c143d-2926-4c3b-8312-dba3b96a339b",
+    "data": [
+      {
+        "text": "Di list alamat pengiriman sy kan banyak nah saya mau hapus itu gimana caranya? ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2e560486-e825-4543-b89a-6f3f14a558a6",
+    "data": [
+      {
+        "text": "INV/20181123/XVIII/XI/236102425 Saya mau merubah alamat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9b640377-e0dd-4041-a48e-a7e74f58a1d6",
+    "data": [
+      {
+        "text": "ada pembeli ditoko saya dan sudah melakukan proses pembayaran tapi pembeli chat untuk ganti alamat tapi dengan kabupaten yang sama apa tidak ada masalah dengan peraturan tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3361949b-978c-447a-8e48-ce0f90d1111a",
+    "data": [
+      {
+        "text": "saya sudah memasukkan kode pos yg salah tetapi sudah melakukan transaksi ,apakah bisa diubah???",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9a2f5f03-04b9-4ac0-8b93-883db3a402bc",
+    "data": [
+      {
+        "text": "Saya  sdah terlanjur bayar pesanan saya tetapi ternyata saya belum rubah alamat padahal saya sudah  tdak tingal di depok.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3d5524e4-f678-4c4e-9dfb-69052568d5bd",
+    "data": [
+      {
+        "text": "tp td saya udah chat ke penjual katanya tidak bisa merub@h alamat di invoice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

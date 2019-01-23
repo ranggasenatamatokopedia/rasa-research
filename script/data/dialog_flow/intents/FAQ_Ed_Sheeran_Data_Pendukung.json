@@ -1,0 +1,38 @@
+{
+  "id": "1fe646b2-cce8-4ff8-9a36-5c729ef394da",
+  "name": "FAQ_Ed_Sheeran_Data_Pendukung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Ed_Sheeran_Data_Pendukung-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Dokumen seperti KTP/SIM/Paspor maupun data pendukung lainnya digunakan untuk mengkonfirmasi pemesanan kamu jika ada perubahan informasi. Data pendukung anak usia dibawah/diatas 14 tahun dapat menggunakan kartu pelajar atau paspor dan wajib didampingi orang tua. Namun, untuk anak dibawah 6 tahun tidak diizinkan untuk masuk ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Selengkapnya kamu bisa lihat !TKPD_URL_TIKET_ED_SHEERAN!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

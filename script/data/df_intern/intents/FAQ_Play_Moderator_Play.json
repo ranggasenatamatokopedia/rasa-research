@@ -1,0 +1,31 @@
+{
+  "id": "c92de912-03a2-4564-b6ba-45c6082b9d5f",
+  "name": "FAQ_Play_Moderator_Play",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setiap Play akan di kelola langsung oleh admin dari Tokopedia ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_play_moderator_play"
+    }
+  ]
+}

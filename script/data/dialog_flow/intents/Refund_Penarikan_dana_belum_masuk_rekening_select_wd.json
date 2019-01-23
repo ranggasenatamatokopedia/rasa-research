@@ -1,0 +1,52 @@
+{
+  "id": "a20ce1ef-766d-4a2a-9dca-817eaa6933b8",
+  "parentId": "99a48618-b9ce-4053-a781-474e5404f8ad",
+  "rootParentId": "99a48618-b9ce-4053-a781-474e5404f8ad",
+  "name": "Refund_Penarikan_dana_belum_masuk_rekening_select_wd",
+  "auto": true,
+  "contexts": [
+    "Refund_Penarikan_dana_belum_masuk_rekening-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckWithdrawalHoldStatus",
+      "affectedContexts": [
+        {
+          "name": "Refund_Penarikan_dana_belum_masuk_rekening_select_wd-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6c758aeb-7fd2-4e39-8138-da6540f137aa",
+          "required": false,
+          "dataType": "@day",
+          "name": "day",
+          "value": "$day",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek dulu ya, mohon tunggu sebentar :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513040943,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "select_withdrawal_list"
+    }
+  ]
+}

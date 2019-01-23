@@ -1,0 +1,25 @@
+{
+  "id": "4d37ceb1-be12-4390-a000-92bdecc60338",
+  "name": "FAQ_LOGISTIK_Cara_Ubah_Kurir_dan_Resi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_logistik_cara_ubah_kurir_dan_resi"
+    }
+  ]
+}

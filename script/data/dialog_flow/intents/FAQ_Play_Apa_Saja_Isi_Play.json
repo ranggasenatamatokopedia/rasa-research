@@ -1,0 +1,31 @@
+{
+  "id": "8883bbf9-7eb2-4ff1-84f7-0c76de7b84ab",
+  "name": "FAQ_Play_Apa_Saja_Isi_Play",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Di Play kamu bisa mengirimkan chat kepada sesama pengguna Play. Kamu juga bisa mengikuti vote dan kuis yang sedang berlangsung di dalam Play tersebut :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_play_apa_saja_isi_play"
+    }
+  ]
+}

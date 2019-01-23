@@ -1,0 +1,43 @@
+{
+  "id": "f07c8c3e-904b-4419-8354-1d210bd3c974",
+  "parentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Transaksi_Berhasil_Tapi_Tidak_Mendapat_Benefit_cashback_promo",
+  "auto": true,
+  "contexts": [
+    "Promo_Transaksi_Berhasil_Tapi_Tidak_Mendapat_Benefit-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetInvoiceList",
+      "affectedContexts": [
+        {
+          "name": "Promo_Transaksi_Berhasil_Tapi_Tidak_Mendapat_Benefit_cashback_promo-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Bisa informasikan ke Toped invoice yang Kakak maksud ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 0,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522725211,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "benefit_cashback_promo"
+    }
+  ]
+}

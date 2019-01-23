@@ -1,0 +1,43 @@
+{
+  "id": "f664a549-d38b-4b2c-8678-d46697a617cd",
+  "parentId": "b5b40046-1379-4d5a-b965-5f772820ed80",
+  "rootParentId": "35e16175-3fd0-4749-bf64-4e1b94b883f1",
+  "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer_Canceled_Not_Verified",
+  "auto": true,
+  "contexts": [
+    "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer_Canceled-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer_Canceled_Not_Verified-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sayang sekali, Toped cek status pesanan kamu dibatalkan karena pembayaran tidak terverifikasi :("
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532579328,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "canceled_is_not_verified"
+    }
+  ]
+}

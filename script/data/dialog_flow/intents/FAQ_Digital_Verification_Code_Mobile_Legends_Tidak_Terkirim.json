@@ -1,0 +1,36 @@
+{
+  "id": "2b99b3fa-dfe5-4b16-8003-d466193b4b30",
+  "name": "FAQ_Digital_Verification_Code_Mobile_Legends_Tidak_Terkirim",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu nggak perlu khawatir ya. Kamu bisa login/logout akun mobile legends terlebih dulu kemudian lakukan  \u003ci\u003eclear cache\u003c/i\u003e dan \u003ci\u003eclear cookies\u003c/i\u003e dan \u003ci\u003eclear cookies\u003c/i\u003e pada perangkat yang digunakan."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga membantu kamu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_digital_verification_code_mobile_legends_tidak_terkirim"
+    }
+  ]
+}

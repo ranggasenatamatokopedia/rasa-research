@@ -1,0 +1,32 @@
+{
+  "id": "68003750-10ce-4f24-ac82-0d83800fc04a",
+  "name": "FAQ_Refund_Bagaimana_Cara_Mengajukan_Refund",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa ajukan pengembalian dana (refund) melalui fitur Pusat Resolusi, caranya klik \"Komplain\" pada pesananmu dan ajukan solusi tersebut.\n\nKamu boleh ajukan solusi pengembalian dana dengan 2 alasan ini ya:\n1. Barang belum diterima hingga melebihi batas waktu yang ditetapkan. \n2. Ada cacat pada barang, tidak sesuai dengan kondisi pada foto produk, atau berbeda ukuran dsb."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520238458,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_refund_bagaimana_cara_mengajukan_refund"
+    }
+  ]
+}

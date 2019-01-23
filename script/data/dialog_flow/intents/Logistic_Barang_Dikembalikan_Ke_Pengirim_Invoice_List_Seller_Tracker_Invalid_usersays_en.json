@@ -1,0 +1,24 @@
+[
+  {
+    "id": "53b7e063-87aa-452a-bfc9-e5d516b44f47",
+    "data": [
+      {
+        "text": "invoice_kode_resi_pengiriman_tidak_valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "12fdb0b7-e145-4e89-b81b-d8a86a88a406",
+    "data": [
+      {
+        "text": "tracker invalid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

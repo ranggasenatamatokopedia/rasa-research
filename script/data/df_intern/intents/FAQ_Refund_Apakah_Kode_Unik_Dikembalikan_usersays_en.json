@@ -1,0 +1,303 @@
+[
+  {
+    "id": "78647b8f-7ec8-42f8-b1e7-81458723ae93",
+    "data": [
+      {
+        "text": "kembalikan kode unik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8dbfbe50-712e-4b86-a56c-1a53d428f081",
+    "data": [
+      {
+        "text": "saya ",
+        "userDefined": false
+      },
+      {
+        "text": "kemarin",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " pake kode unik tolong kembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "126aea66-165b-4bc0-a647-4cb755757136",
+    "data": [
+      {
+        "text": "mau nanya nih apakah nominal kode unik dikembalikan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bbb6f9c5-4543-4587-b49c-1a41e0494720",
+    "data": [
+      {
+        "text": "mau nanya apakah nominal kode unik dikembalikan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "70f06818-85a6-417f-a1b3-b7336ee22018",
+    "data": [
+      {
+        "text": "kode unik kembali atau tidak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8616b5c0-30fc-4907-9806-1f9db2b50842",
+    "data": [
+      {
+        "text": "mau nanya ya apakah nominal kode unik dikembalikan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eb9321be-2a92-43f8-8088-fb72173f9b09",
+    "data": [
+      {
+        "text": "kode unik saya mana ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a569a73e-a354-4902-bb50-574993dc529c",
+    "data": [
+      {
+        "text": "kembaliin uang kode unik saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "68e451bc-9ebc-4f8f-b2df-f80b686d4b66",
+    "data": [
+      {
+        "text": "mana nih kode uniknya kok ngga dikembaliin sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ec58bcb4-bc64-45a0-b580-285a7411cf22",
+    "data": [
+      {
+        "text": "ini kode unik nya balik kan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bb5d9d18-1581-48ae-bb24-5937354143a1",
+    "data": [
+      {
+        "text": "mau tanya nih apakah nominal kode unik dikembalikan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6b913e53-ffd6-425a-a64c-fade3e228815",
+    "data": [
+      {
+        "text": "mau tanya apakah nominal kode unik dikembalikan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a61d4930-b3f1-42d8-8576-19ee134f8ba6",
+    "data": [
+      {
+        "text": "kode unik dibalikin kan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0c988fc6-27f6-4665-a8eb-923636470d8c",
+    "data": [
+      {
+        "text": "saya transaksinya sudah selesai nih kode unik dibalikin kan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "638ce463-b3d0-4670-b8e2-65a5769a81ab",
+    "data": [
+      {
+        "text": "kode unik pasti dikembaliin ga sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2d5b0628-829d-4fd1-a2cd-599b12afd059",
+    "data": [
+      {
+        "text": "saya ngga mau bayar kode uniknya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d15e8d44-4326-44a9-8247-03d50d49e216",
+    "data": [
+      {
+        "text": "mau nanya dong apakah nominal kode unik dikembalikan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "41f2ae3f-0af6-4f05-a1ab-cd4e5ae35bc1",
+    "data": [
+      {
+        "text": "mau tanya ya apakah nominal kode unik dikembalikan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "42da7133-36cf-4fcc-8ecf-563349e3f40e",
+    "data": [
+      {
+        "text": "mau tanya dong apakah nominal kode unik dikembalikan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "93e469e0-964d-4335-8502-bba1cd820585",
+    "data": [
+      {
+        "text": "saya minta kode unik yang dibayarkan kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "be4924a2-2b79-42f1-96a4-e13aeecb003c",
+    "data": [
+      {
+        "text": "saya bakal terima kembali ngga sih kode unik yang dibayar ",
+        "userDefined": false
+      },
+      {
+        "text": "pertama",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " kali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6212dd38-b0e0-43b8-aa3c-909fb3867fc0",
+    "data": [
+      {
+        "text": "pemesanan kembali kan pake kode unik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1c78392-35fe-4de4-b8bc-ae7aa7928019",
+    "data": [
+      {
+        "text": "kode unik dari pesanan saya dikembaliin ga?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d0cff1ef-8846-45b9-aa44-660cd11957fc",
+    "data": [
+      {
+        "text": "kembaliin kode unik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2c932108-a179-4b9d-b46c-73efb69207ea",
+    "data": [
+      {
+        "text": "sy td kan udh gagal pake kode toped .. apa msh bisa pakai kode itu lagi di transaksi yg lain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

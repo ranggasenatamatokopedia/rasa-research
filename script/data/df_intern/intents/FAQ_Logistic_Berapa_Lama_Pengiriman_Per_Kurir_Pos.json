@@ -1,0 +1,54 @@
+{
+  "id": "48042273-2cbb-4744-9953-5ebf7b459b3b",
+  "parentId": "62328066-6ba6-453c-b337-f9f221db5f6f",
+  "rootParentId": "62328066-6ba6-453c-b337-f9f221db5f6f",
+  "name": "FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir_Pos",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir_Pos-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa ketik jenis layanan Pos Indonesia yang ingin kamu tanyakan ya, apakah Express atau Kilat Khusus?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 1,
+            "quick_replies": [
+              "Express",
+              "Kilat Khusus"
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528173888,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "pos"
+    }
+  ]
+}

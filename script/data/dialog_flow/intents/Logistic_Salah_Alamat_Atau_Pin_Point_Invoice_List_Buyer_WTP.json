@@ -1,0 +1,69 @@
+{
+  "id": "70431dbd-6681-4365-9395-3aaca1d346e1",
+  "parentId": "75ff3ca8-b338-428a-a276-4970c86e879f",
+  "rootParentId": "b5d703e5-b4ee-4716-a78d-6a74da4e1538",
+  "name": "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Buyer_WTP",
+  "auto": true,
+  "contexts": [
+    "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Buyer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Buyer_WTP-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pesanan kamu masih dalam proses pengecekan pembayaran. Jika sudah dilakukan pembayaran mohon menunggu proses verifikasi."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Namun jika kamu belum melakukan pembayaran, silakan segera melakukan pembayaran sesuai nominal yang tertera ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535971248,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_belum_bayar"
+    },
+    {
+      "name": "invoice_cc_challenge"
+    },
+    {
+      "name": "invoice_payment_confirm"
+    },
+    {
+      "name": "invoice_payment_confirmed_unik"
+    },
+    {
+      "name": "invoice_checkout_state"
+    },
+    {
+      "name": "invoice_pending"
+    },
+    {
+      "name": "invoice_pending_unik"
+    },
+    {
+      "name": "invoice_pending_due"
+    }
+  ]
+}

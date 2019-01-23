@@ -1,0 +1,43 @@
+{
+  "id": "84e07c41-5621-424a-a96a-a42f148046cb",
+  "parentId": "bc8f4622-0f27-4009-a4cd-f030fe0388ae",
+  "rootParentId": "bc8f4622-0f27-4009-a4cd-f030fe0388ae",
+  "name": "FAQ_Payment_cara_bayar_transfer_bank",
+  "auto": true,
+  "contexts": [
+    "FAQ_Payment_cara_bayar-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Payment_cara_bayar_transfer_bank-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk pembayaran menggunakan Transfer Bank, ikuti cara ini ya:\n\n1. Klik \u0027Bayar\u0027 dan masuk ke halaman Keranjang belanja, pilih metode pembayaran Transfer bank, lalu klik Checkout.\n2. Pilih bank yang kamu gunakan, isi nomor serta nama pemilik rekening. Centang Simpan nomor rekening, agar kamu tidak perlu memasukkan data lagi jika berbelanja kembali. Klik Bayar Sekarang.\n3. Lakukan pembayaran sesuai jumlah pembelian pada invoice dan tunggu pembayaran kamu diverifikasi oleh Tokopedia. Untuk waktu verifikasi tetap sama, yakni 1×24 jam untuk pembayaran ke sesama bank, atau 2×24 jam untuk pembayaran antar bank yang berbeda"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534749463,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "bank_transfer"
+    }
+  ]
+}

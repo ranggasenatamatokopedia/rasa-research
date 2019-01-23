@@ -1,0 +1,56 @@
+{
+  "id": "19f6da14-ac26-4b58-a2e5-1835e42054d9",
+  "parentId": "fa4361cc-dbab-4de3-9e43-251b8cbc37c4",
+  "rootParentId": "90b4ed65-34d8-4fd4-a8f8-c87e563d6528",
+  "name": "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_Baru_mau_pakai_ticket",
+  "auto": false,
+  "contexts": [
+    "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_Baru_mau_pakai_upload2-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_Baru_mau_pakai_ticket-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "46f674dd-7a0e-426b-b616-ba71892b8b3e",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "solution_id",
+          "value": "1420"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon menunggu sebentar ya, Kak :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped coba bantu buatkan tiketnya ya, Kak."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523519236,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "baru_mau_ticket_created"
+    }
+  ]
+}

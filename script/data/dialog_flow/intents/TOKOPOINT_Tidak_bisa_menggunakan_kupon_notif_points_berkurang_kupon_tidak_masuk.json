@@ -1,0 +1,43 @@
+{
+  "id": "fc8e0e32-a645-4e27-abbb-a66809e634bd",
+  "parentId": "ac27f987-10da-4579-826b-fdb70eef3ed6",
+  "rootParentId": "ac27f987-10da-4579-826b-fdb70eef3ed6",
+  "name": "TOKOPOINT_Tidak_bisa_menggunakan_kupon_notif_points_berkurang_kupon_tidak_masuk",
+  "auto": false,
+  "contexts": [
+    "TOKOPOINT_Tidak_bisa_menggunakan_kupon-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "InsertDate",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Tidak_bisa_menggunakan_kupon_notif_points_berkurang_kupon_tidak_masuk-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh kasih tahu Toped kapan kamu menukar point menjadi kupon?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523430346,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "notifikasi_points_berkurang_kupon_tidak_masuk"
+    }
+  ]
+}

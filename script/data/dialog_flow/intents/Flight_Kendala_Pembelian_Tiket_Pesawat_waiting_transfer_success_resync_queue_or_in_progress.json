@@ -1,0 +1,46 @@
+{
+  "id": "5f38d9c3-27e6-4502-af73-e12e4f88fe3e",
+  "parentId": "ca6f0047-5198-42aa-9b9c-6058bd8b85ae",
+  "rootParentId": "7f7a8cb1-cbe8-48a9-9930-7686b772cf99",
+  "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_waiting_transfer_success_resync_queue_or_in_progress",
+  "auto": false,
+  "contexts": [
+    "Flight_Kendala_Pembelian_Tiket_Pesawat_waiting_transfer_scrooge_success_resync-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_waiting_transfer_success_resync_queue_or_in_progress-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Tidak perlu khawatir, Toped akan bantu teruskan ke agen ya. Cek berkala pada \"Daftar Transaksi Tiket Pesawat\" kamu."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537963095,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_in_progress"
+    },
+    {
+      "name": "invoice_ready_for_queue"
+    }
+  ]
+}

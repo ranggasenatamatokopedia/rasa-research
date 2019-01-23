@@ -1,0 +1,38 @@
+{
+  "id": "feb81303-1d7c-48a3-a885-831eec20699c",
+  "name": "FAQ_Merchant_Pengertian_Voucher_Toko",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Merchant_Pengertian_Voucher_Toko-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Voucher Toko adalah promo berupa Cashback atau Gratis Ongkir yang bisa digunakan penjual untuk melakukan promosi ke pembeli."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Dengan fitur ini, penjual bisa memberikan ketentuan dan biaya voucher sesuai keinginan."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

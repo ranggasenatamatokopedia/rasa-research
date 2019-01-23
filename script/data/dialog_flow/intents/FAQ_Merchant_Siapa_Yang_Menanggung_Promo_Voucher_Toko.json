@@ -1,0 +1,33 @@
+{
+  "id": "c98e1fde-cc52-48e2-ab9a-e7eec34edcd1",
+  "name": "FAQ_Merchant_Siapa_Yang_Menanggung_Promo_Voucher_Toko",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Merchant_Siapa_Yang_Menanggung_Promo_Voucher_Toko-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Nominal promo voucher 100% ditanggung oleh pihak Penjual, ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

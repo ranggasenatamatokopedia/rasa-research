@@ -1,0 +1,43 @@
+{
+  "id": "8b42b21e-fae7-46b4-8974-d3d2338f7a26",
+  "parentId": "79399d3d-1735-4a38-83f0-804a798b2f2c",
+  "rootParentId": "79399d3d-1735-4a38-83f0-804a798b2f2c",
+  "name": "Merchant_Produk_Dalam_Pengawasan_Input_Link",
+  "auto": true,
+  "contexts": [
+    "Merchant_Produk_Dalam_Pengawasan-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckProductUnderSupervisionByURL",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Produk_Dalam_Pengawasan_Input_Link-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped bantu cek dulu ya. Mohon tunggu sebentar :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534330933,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "input_link_product"
+    }
+  ]
+}

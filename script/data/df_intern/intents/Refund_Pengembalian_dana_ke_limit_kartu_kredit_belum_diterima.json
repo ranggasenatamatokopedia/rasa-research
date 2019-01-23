@@ -1,0 +1,53 @@
+{
+  "id": "98a033dd-9635-495b-b8a0-ef6074eb13ed",
+  "name": "Refund_Pengembalian_dana_ke_limit_kartu_kredit_belum_diterima",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetInvoiceList",
+      "affectedContexts": [
+        {
+          "name": "Refund_Pengembalian_dana_ke_limit_kartu_kredit_belum_diterima-followup",
+          "parameters": {},
+          "lifespan": 4
+        },
+        {
+          "name": "Refund_Pengembalian_dana_ke_limit_kartu_kredit_belum_diterima-followup-2",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh kasih tahu Toped transaksi mana yang pengembalian dananya belum kamu terima?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 0,
+            "data": {
+              "show_rating": false
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "refund_pengembalian_dana_ke_limit_kartu_kredit_belum_diterima"
+    }
+  ]
+}

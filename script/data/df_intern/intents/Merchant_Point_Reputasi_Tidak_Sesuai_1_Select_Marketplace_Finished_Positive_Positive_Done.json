@@ -1,0 +1,43 @@
+{
+  "id": "1e90b8f2-b583-4d70-945c-35d9128eb683",
+  "parentId": "808cda25-833d-4d88-86a8-fd683aea17c6",
+  "rootParentId": "cf17fcc0-2998-4ff8-8cf4-6a1ca0e60443",
+  "name": "Merchant_Point_Reputasi_Tidak_Sesuai_1_Select_Marketplace_Finished_Positive_Positive_Done",
+  "auto": false,
+  "contexts": [
+    "Merchant_Point_Reputasi_Tidak_Sesuai_1_Select_Marketplace_Finished_Positive_Positive-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Point_Reputasi_Tidak_Sesuai_1_Select_Marketplace_Finished_Positive_Positive_Done-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau Toped bantu cek, poin reputasi Toko sudah bertambah dan sesuai. Yuk coba kamu cek lagi ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536556669,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "is_done"
+    }
+  ]
+}

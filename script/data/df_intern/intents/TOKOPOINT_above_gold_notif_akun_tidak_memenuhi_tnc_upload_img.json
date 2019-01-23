@@ -1,0 +1,63 @@
+{
+  "id": "d62af136-dd86-4cf5-a00d-d7d9f66b0108",
+  "parentId": "24d2713f-17c0-438e-a245-b6725884f20e",
+  "rootParentId": "21aa44dd-8f3e-443e-89aa-2604000c5bed",
+  "name": "TOKOPOINT_above_gold_notif_akun_tidak_memenuhi_tnc_upload_img",
+  "auto": false,
+  "contexts": [
+    "TOKOPOINT_above_gold_notif_akun_tidak_memenuhi_tnc_get_email-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_above_gold_notif_akun_tidak_memenuhi_tnc_upload_img-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8005c651-38b3-41c5-839e-d603d02217d3",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1418"
+        },
+        {
+          "id": "1b46ff30-0a6b-450a-8a81-f6a328a23483",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "TOKOPOINT_Tidak_dapat_Kirim_Kupon"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon tunggu sebentar :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped bantu buatkan tiketnya ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523437031,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

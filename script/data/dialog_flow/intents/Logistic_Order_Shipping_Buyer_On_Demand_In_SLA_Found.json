@@ -1,0 +1,48 @@
+{
+  "id": "c4750e07-bf3e-4dc7-a8ef-e36d873dad75",
+  "parentId": "61e46799-5c7a-4d5f-a756-671369b02c4e",
+  "rootParentId": "d19f77a0-9fc1-4329-9b8c-1f9cb2ed3084",
+  "name": "Logistic_Order_Shipping_Buyer_On_Demand_In_SLA_Found",
+  "auto": true,
+  "contexts": [
+    "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Shipping_Buyer_On_Demand_In_SLA-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetDriverDetails",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Order_Shipping_Buyer_On_Demand_In_SLA_Found-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek pesanan kamu masih dalam estimasi waktu pengiriman dan saat ini dalam proses pengiriman oleh pihak driver. Boleh tunggu dulu ya :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Terkait kelanjutan pengiriman pesanan, kamu juga dapat menghubungi pihak driver pada nomer berikut:"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541054803,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "driver_found"
+    }
+  ]
+}

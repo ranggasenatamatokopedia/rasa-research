@@ -1,0 +1,53 @@
+{
+  "id": "c51687f5-c136-4dbc-979e-a84aea977f82",
+  "name": "Fraud_Akun_Bodong_Tokopedia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Fraud_Akun_Bodong_Tokopedia-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Tokopedia tidak akan melakukan konfirmasi data yang bersifat pribadi dan rahasia selain melalui !TKPD_URL_AKUN_RESMI_TOKOPEDIA!. Pastikan kamu tidak memberikan data pribadi yang bersifat rahasia kepada pihak manapun."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Apakah ada hal lain yang bisa Toped bantu?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Ya",
+              "Tidak"
+            ],
+            "type": 1
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "fraud_akun_bodong_tokopedia"
+    }
+  ]
+}

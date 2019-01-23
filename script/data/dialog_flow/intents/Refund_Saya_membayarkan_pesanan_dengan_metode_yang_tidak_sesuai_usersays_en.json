@@ -1,0 +1,562 @@
+[
+  {
+    "id": "2bfd7a7c-76f6-4152-a365-dc1b35209207",
+    "data": [
+      {
+        "text": "hallo selamat ",
+        "userDefined": false
+      },
+      {
+        "text": "sore",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya salah ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " harusnya saya menggunakan klik ",
+        "userDefined": false
+      },
+      {
+        "text": "bca",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tp saya salah menggunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " banking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "87ea93ef-d2af-4688-964e-a5a721507130",
+    "data": [
+      {
+        "text": "salah metode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2488e9aa-36c7-4f7f-aecf-9890f8bfac74",
+    "data": [
+      {
+        "text": "Saya salah metode pembayaran tapi. saya sudah transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b7c60acf-036e-41ce-b8ec-9ea99190c2b8",
+    "data": [
+      {
+        "text": "saya salah memilih utk metode pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "302267c1-878b-46a1-8743-c7775a09eb7a",
+    "data": [
+      {
+        "text": "bisakah bantu untuk pembatalan atau penggantian metode bayarnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cce2deda-08ea-400b-a34a-4ebbebcd9301",
+    "data": [
+      {
+        "text": "kak ini saya tf menggunakan ke rek ",
+        "userDefined": false
+      },
+      {
+        "text": "BNI",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " toped bukan ",
+        "userDefined": false
+      },
+      {
+        "text": "bni",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " virtual. Gmna kak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "034a6311-54fd-406c-ad11-5ca7d978eebb",
+    "data": [
+      {
+        "text": "dengan metode pembayaran melalui transfer ",
+        "userDefined": false
+      },
+      {
+        "text": "mandiri",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1df79d61-3af6-4b66-b4f8-6f857d7a8275",
+    "data": [
+      {
+        "text": "metode pembayaran yang saya lakukan salah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b144ba63-bc5c-4ef2-bfd3-1420d937a6cd",
+    "data": [
+      {
+        "text": "salah menggunakan metode pembayaran, mohon bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "52204a1f-45dd-46b6-a7a5-76ea3cf31739",
+    "data": [
+      {
+        "text": "saya ada salah metode pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e5d22881-53d7-4f51-8cb0-49d3bd264054",
+    "data": [
+      {
+        "text": "Salah metode pembayaran. Harusnya klikbca malah transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "91616edb-2fe1-401e-9b54-efae55bb0e7d",
+    "data": [
+      {
+        "text": "saya udah bayar, tapi metodenya salah nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "291d75f8-5a5d-47da-b1d2-a9fb000ee867",
+    "data": [
+      {
+        "text": "bayar metodenya salah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4c9a9cb6-500d-47f4-9857-e6d699f413de",
+    "data": [
+      {
+        "text": "saya salah metode pembayaran ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tapi sudah transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fdc6d7ae-3f8c-42a2-b183-cd5632c2a81c",
+    "data": [
+      {
+        "text": "iyha\\nqan\\nsaya pakai metode transaksi\u0027nya, qimana cara saya, harus isi qan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e74afec6-3cd4-40bd-a710-56c14468f239",
+    "data": [
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mungkin saya salah pilih metode pembayaran, harusnya transfer..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a870b122-8232-4a4c-8262-00f198e3a5e2",
+    "data": [
+      {
+        "text": "kita sudah pilih metode pembayarannya transfer ",
+        "userDefined": false
+      },
+      {
+        "text": "bank bca",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1799cc98-01c0-4a6e-80e3-1d6173b3bf60",
+    "data": [
+      {
+        "text": "saya mau melakukan pembayaran melalui saldo tetapi tidak bisa transaksi kenapa alasannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f765ef14-2240-497c-8574-c33609197b35",
+    "data": [
+      {
+        "text": "Pembayaran di ubah lewat ",
+        "userDefined": false
+      },
+      {
+        "text": "mandiri",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mobile banking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4288791b-5eac-4859-bc85-998bb93a469b",
+    "data": [
+      {
+        "text": "Saya salah metode pembayaran transfer ke tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5edfd366-540f-4333-887c-690c21251533",
+    "data": [
+      {
+        "text": "gimana ya jika salah metode transfer..uang saya nyangkut di tokopedia..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6c0162f0-f6cd-4bbe-95ce-5413c0538040",
+    "data": [
+      {
+        "text": "saya membayarkan pesanan dengan metode yang tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e0bfa763-e140-4ef6-b915-8209011e0379",
+    "data": [
+      {
+        "text": "gimana ya kalo saya salah metode pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9fb29a91-7ad7-420d-a097-850094b0055a",
+    "data": [
+      {
+        "text": "Tolong pesanan dicancel Karena salah metode pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6b9a523b-dfb3-4723-9716-46884f3d1561",
+    "data": [
+      {
+        "text": "salah metode transfer seharusnya transfer atm malah mobile banking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "356cbf4c-0fed-4e60-904e-2e3dc9f8fa4a",
+    "data": [
+      {
+        "text": "gimana dong saya salah metode pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6d4aab4c-4fd0-4df6-aa05-49e296c7013e",
+    "data": [
+      {
+        "text": "pembayaran transfer sy belum terverifikasi atau pakai metode lain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bcf819ef-76a8-418b-abbc-d6afceeb34dc",
+    "data": [
+      {
+        "text": "udah byr eh salah metode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6d21ccac-181d-4108-84c1-3b25370e15c3",
+    "data": [
+      {
+        "text": "salah metode pembayaran, sudah transfer, tapi pesanan dibatalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "23b500e5-daad-43d7-a2c6-4e54172d4cac",
+    "data": [
+      {
+        "text": "saya salah metode pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5e599c26-5edd-4b8e-8cb0-5ef4210ba6ca",
+    "data": [
+      {
+        "text": "bisa saya batalkan lalu ganti metode pembayaran?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "45a404d2-136a-45cb-a3d0-01efe0df3ca5",
+    "data": [
+      {
+        "text": "saya transfer mobile banking. salah pilih metode nya tolong dbantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2d21885e-251b-428a-b994-b0be32c4597e",
+    "data": [
+      {
+        "text": "tapi ternyata saya metode pembayarannya harusnya virtual account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7f9178c8-342f-44fa-92d8-2888b398cbf3",
+    "data": [
+      {
+        "text": "metode salah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7aa6cacb-ae0c-4247-b37f-d5cbf24d1f05",
+    "data": [
+      {
+        "text": "Awalnya saya salah konfirmasi pesanan saya yang awalnya pembayaran via indomart malah saya transferkan via rekening BCA. Pesanan tidak terkonfirmasi dan saldo tokopedia tidak bertambah. Ini solusinya bagaimana yaa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2953fd1c-4416-4356-9f92-91bf31f36a9f",
+    "data": [
+      {
+        "text": "Saya Salah metode pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a7358e02-47ac-41fd-bfc4-65a87fe22e68",
+    "data": [
+      {
+        "text": "ma\u0026#39;am, sebelumnya saya Salah transfer bank tokopedia yg lain ☹",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3
+  },
+  {
+    "id": "7a865998-9ffd-4511-9a42-ed6d89a8772c",
+    "data": [
+      {
+        "text": "kk, seharusnya sama.tranfer ke virtual.tokopedia, tp.salah kirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ac26950c-1d3c-467b-89f1-ca66d801effd",
+    "data": [
+      {
+        "text": "sepertinya saya transfer ke rekening tokped yang lainnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "70324e96-f29c-445c-81ea-5fd9d10fe517",
+    "data": [
+      {
+        "text": "selamat malam. sy salah transfer ke rekening Tokopedia yg Cimb niaga. bagaimana caranya agar bisa refund?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dae0195a-72dc-4d07-9124-1a389f61dbd4",
+    "data": [
+      {
+        "text": "hallo selamat sore, saya salah transfer harusnya saya menggunakan klik bca tp saya salah menggunakan m bangking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d423306c-2453-4c79-acce-8f6310939ff1",
+    "data": [
+      {
+        "text": "Saya sudah checkout invoice tagihan listrik tadi malam, metode pembayaran nya via bni virtual Tapi saya bayar via transfer manual ibanking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "22efed81-d194-4e5a-ba85-ef2085b5212c",
+    "data": [
+      {
+        "text": "saya tidak transfer ke bank BNI melalui bank BTN",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

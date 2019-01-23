@@ -1,0 +1,37 @@
+{
+  "id": "268142e9-c092-4a3f-9e61-ea60af416cac",
+  "name": "FAQ_Flash_Sale_Bagaimana_Cara_Mendaftar_Flash_Sale_Tokopedia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flash_Sale_Bagaimana_Cara_Mendaftar_Flash_Sale_Tokopedia-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Saat ini Penjual yang bisa mengikuti Flash Sale, hanya Penjual yang mendapat undangan dari Tokopedia ya :) Kalau ada perkembangan terkait pendaftaran Flash Sale, akan Toped infokan kembali."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_flash_sale_bagaimana_cara_mendaftar_flash_sale_tokopedia"
+    }
+  ]
+}

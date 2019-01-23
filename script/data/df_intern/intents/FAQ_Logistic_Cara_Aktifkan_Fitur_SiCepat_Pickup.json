@@ -1,0 +1,33 @@
+{
+  "id": "d0f7c563-0d3f-4a20-a621-469ad25a047c",
+  "name": "FAQ_Logistic_Cara_Aktifkan_Fitur_SiCepat_Pickup",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Logistic_Cara_Aktifkan_Fitur_SiCepat_Pickup-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Fitur ini akan aktif secara otomatis. Jadi, kamu bisa langsung mencobanya, ya! :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

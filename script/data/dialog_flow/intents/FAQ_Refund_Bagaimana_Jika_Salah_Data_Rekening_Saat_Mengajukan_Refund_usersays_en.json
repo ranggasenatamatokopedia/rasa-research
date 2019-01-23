@@ -1,0 +1,339 @@
+[
+  {
+    "id": "90cfa434-2ca1-460b-b4a4-6368dde9e400",
+    "data": [
+      {
+        "text": "maaf tadi saya tarik uang dari ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ke rekening saya tapi saya tidak cek ternyata rekeningnya sudah tidak dipake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1f5d4202-1f0d-475d-bdd6-8c2a5c50b432",
+    "data": [
+      {
+        "text": "saya mau batalin penarikan dana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "328bfa43-8286-421a-b4b3-55084b35ba25",
+    "data": [
+      {
+        "text": "saya mau narik uang disaldo salah memasukan rekening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "279afb54-65ec-486e-9b94-f3fe456d5b67",
+    "data": [
+      {
+        "text": "saya ingin membatalkan withdrawal karena ada kesalahan dalam pemasukan nmr rekening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5b26c77c-2046-41a4-a12e-dd1af1d6f206",
+    "data": [
+      {
+        "text": "saya salah dalam menarik dana dari ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "87bb7a2a-63a3-4ce2-81d3-038ea20ec4dd",
+    "data": [
+      {
+        "text": "nomor rekening nya salah tulis, tp nama nya bener nama saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d99d5f3-50c7-4256-b594-c74b81626ece",
+    "data": [
+      {
+        "text": "saya salah masukkan nomor rekening ketika mai tarik dana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bfb499d8-f4ff-47eb-83d7-cfc72cc28f7a",
+    "data": [
+      {
+        "text": "saya slah no rekening saat pengembalian penarikan dana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c49b4c8b-2151-4574-942b-b4b71554793e",
+    "data": [
+      {
+        "text": "hanya saat menuliskan no rek untuk penarikan ada kesalahan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a3465d84-963f-4cea-8c31-863d408d3680",
+    "data": [
+      {
+        "text": "pak saya salah no rekening waktu pengem balian dana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6962b614-b162-4e34-a2ef-d4f0f58cdac5",
+    "data": [
+      {
+        "text": "min bisa ganti rekening ga saya salah input digit terakhir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b2feda3-62af-4ab8-8ddd-307cee29de36",
+    "data": [
+      {
+        "text": "jadi apa dananya bisa kembali...karna kesalahan data di nama rekening..\\n",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "83adcc7a-a691-478d-8c7e-2920b0db2e0f",
+    "data": [
+      {
+        "text": "salah memasuki no rekening bca pada saat penarikan dana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d685cc28-fff6-4fd8-a77c-0c8a62e780a4",
+    "data": [
+      {
+        "text": "says salah memasukan nomor rekening saat may penarikan dana.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d66ad87-4728-4218-86fc-bbcc45ec1c93",
+    "data": [
+      {
+        "text": "klo rekening tdk valid di kembalikan saja dana di saldo tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f3c4b48d-0180-4ca8-9bf2-a990e36c0e5d",
+    "data": [
+      {
+        "text": "saya salah masukin no rekening pas tarik dana. ini gimana yah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8984a504-486d-4bcc-899a-75bbb2808f73",
+    "data": [
+      {
+        "text": "saldo akun apa bisa dikirim lagi ke rekening karna saya salah masukkan no rekening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "eb0e2f49-ab84-4fe3-959d-1d3f5ee7180b",
+    "data": [
+      {
+        "text": "DAPATKAH SAYA MEMBATALKAN PENARIKAN DANA SAYA ??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3cf599df-5b43-410c-8763-67324a12e695",
+    "data": [
+      {
+        "text": "saya tadi mau ambil uang dari toko cash, 1,300.000,tapi saya kurang angka 1,nomor rekening nya, atas nama bank nya aimahita sitohang 0719490817,dan saya ketik 071949081 jadi kurang angka belakang nya tolong di proses ya pak, bu. soalnya saya jualan baran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c74bdaae-56c4-492a-a611-464d68f8aae5",
+    "data": [
+      {
+        "text": "saya salah dalam menarik dana dari saldo saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9abb1b18-9d95-479f-88d4-f28beffee6e2",
+    "data": [
+      {
+        "text": "maaf tadi saya tarik uang dari saldo ke rekening saya tapi saya tidak cek ternyata rekeningnya sudah tidak dipake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3264cf6c-f1ff-4402-a02b-5fe268df4f25",
+    "data": [
+      {
+        "text": "sy tarik dana krn salah bank , harusnya BCA jd BCA syariah, dr kmrn blm masuk sampai skrg, keterangan pending",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2d4b26f0-63a4-40de-a9d1-c378b147b2e5",
+    "data": [
+      {
+        "text": "saya ada kendala penarikan saldo tgl 1 nov saya telah melakukan kesalahan penulisan nama rekening dan sampai skrg uang tsb belum msk ke rek saya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6c367e3a-435a-4d85-a2c1-26549e930221",
+    "data": [
+      {
+        "text": "mohon untuk membatalkan pencairan dana yang pending",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "656cbb59-354c-4e01-957a-e9a663d2750a",
+    "data": [
+      {
+        "text": "nomor rekening tujuan mungkin sudah tidak aktif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7daac6cd-322f-46b2-9511-8688d2cd1bf1",
+    "data": [
+      {
+        "text": "saya salah memilih bank, mohon segera dibantu untuk dicancel agar bisa melakukan penarikan ulang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "32480fa6-eb9c-4ffa-a146-973a34f79ba3",
+    "data": [
+      {
+        "text": "saya telah melakukan penarikan dana sebesar 3005000. ke bank bri. tp kemarin saya salah ketik bank tujuan yang seharusnya bank bri ini saya ketik ke bank bri Syariah.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c7ed81c6-9c4b-4e2d-9e83-a2b4311a6226",
+    "data": [
+      {
+        "text": "Saya salah memilih bank untuk PENCAIRAN DANA Seharusnya BCA tapi saya justru pilih BANK KEB INDONESIA Karna dari itu saldo saya tidak masuk, tapi pihak tokopedia telah men SUKSES kan pencairan dana saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "id": "90cc35d9-6cac-4efb-bf7a-d3f0e0e1ccd0",
+    "data": [
+      {
+        "text": "saya mau pindahin reksa dana saya ke rekening dong, gmn caranya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "22660fb8-77c0-4933-b17e-b991a9fa6cfe",
+    "data": [
+      {
+        "text": "gimana caranya pindahin reksa dana ke rekening pribadi saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c4a12367-992e-40d2-b033-d118d75c7e39",
+    "data": [
+      {
+        "text": "saya mau mindahin reksa dana ke rekening dong, gimana caranya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7ca50bce-81db-4e26-8ab3-8d16279a5a35",
+    "data": [
+      {
+        "text": "kalo reksa dana saya di pindahin ke rekening bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "de2d9574-677b-4bef-ba65-eca4831569d8",
+    "data": [
+      {
+        "text": "gmn ya caranya pindahin reksa dana ke rekening?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "589e6cf6-c022-4f84-93e9-3979ccb8e6f3",
+    "data": [
+      {
+        "text": "bisa gak sih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kalo reksa dana saya di pindahin ke rekening pribadi saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "01c473d9-981c-441e-8a81-385e25e2a632",
+    "data": [
+      {
+        "text": "kalo reksa dana saya di pindahin ke rekening bisa gak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e25f6c5b-4d55-47b3-9052-1c5ba99d7815",
+    "data": [
+      {
+        "text": "saya mau reksa dana saya pindah ke rekening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "403e1ab5-529b-4f66-a072-349fb26b264b",
+    "data": [
+      {
+        "text": "gimana cara pindahkan reksa dana ke rekening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d9ca6824-77e7-447f-8d66-0652dd7494a9",
+    "data": [
+      {
+        "text": "tolong pindahkan reksa dana ke rekening saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "674dc5a3-4c04-49a0-a721-ded6073f10e6",
+    "data": [
+      {
+        "text": "Bisakah penarikan dana dari reksadana di ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

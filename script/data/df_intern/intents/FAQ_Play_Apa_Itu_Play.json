@@ -1,0 +1,31 @@
+{
+  "id": "081d9336-9b6c-4ccb-baf0-f82c89aaf623",
+  "name": "FAQ_Play_Apa_Itu_Play",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Play adalah sebuah chat room yang di kelola langsung oleh admin Tokopedia. Play hanya bisa di akses via aplikasi di Android dan iOS kamu, ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_play_apa_itu_play"
+    }
+  ]
+}

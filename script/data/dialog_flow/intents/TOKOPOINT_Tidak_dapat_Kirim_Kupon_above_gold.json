@@ -1,0 +1,48 @@
+{
+  "id": "22f9b153-494a-4894-8f6b-3b858f698d90",
+  "parentId": "21aa44dd-8f3e-443e-89aa-2604000c5bed",
+  "rootParentId": "21aa44dd-8f3e-443e-89aa-2604000c5bed",
+  "name": "TOKOPOINT_Tidak_dapat_Kirim_Kupon_above_gold",
+  "auto": false,
+  "contexts": [
+    "TOKOPOINT_Tidak_dapat_Kirim_Kupon-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Tidak_dapat_Kirim_Kupon_above_gold-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh beritahu Toped notifikasi yang muncul seperti apa, Kak?\n1. Alamat email tidak terdaftar di Tokopedia\n2. Akun tidak memenuhi Syarat dan Ketentuan \n3. Notifikasi lain"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa pilih antara nomor 1 sampai 3 ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523435028,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "membership_above_gold"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "81a0e974-12f4-46b7-afc3-48ec6cdbbad2",
+  "parentId": "d9393172-10d0-43d8-ad5f-e6bbb2d8e52b",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_select_invoice_waiting_scheduler",
+  "auto": false,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_select_invoice-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckDigitalCheckOutTime",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_select_invoice_waiting_scheduler-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533017001,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_waiting_scheduler"
+    }
+  ]
+}

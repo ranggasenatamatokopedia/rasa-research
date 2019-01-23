@@ -1,0 +1,48 @@
+{
+  "id": "37b88233-efd1-40da-b856-cbced347f36c",
+  "parentId": "998dba0b-7a36-4726-b2f3-90baa93698c2",
+  "rootParentId": "097ccd10-206d-47d6-b058-24ef1540018f",
+  "name": "Payment_VA_number_not_found_select_inv_VA_false",
+  "auto": true,
+  "contexts": [
+    "Payment_VA_number_not_found_select_inv-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Payment_VA_number_not_found_select_inv_VA_false-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek transaski ini tidak menggunakan metode pembayaran Virtual Account "
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Karena nomor Virtual Account akan muncul saat kamu memilih metode pembayaran Virtual Account."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531713975,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "is_not_va"
+    }
+  ]
+}

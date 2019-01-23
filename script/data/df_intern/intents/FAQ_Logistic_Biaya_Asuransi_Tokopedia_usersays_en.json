@@ -1,0 +1,98 @@
+[
+  {
+    "id": "958de504-7d3e-40e0-b1aa-df73ca18b5b6",
+    "data": [
+      {
+        "text": "Berapa ya biaya asuransi Tokopedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0716ef3b-17ed-46a6-a51b-e9af5905d557",
+    "data": [
+      {
+        "text": "Kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya bayar biaya asuransi ",
+        "userDefined": false
+      },
+      {
+        "text": "Wahana",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kayanya lebih mahal deh. Kenapa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9695a68e-30da-46d9-a5dd-81a0b5dc19c6",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", asuransi yang saya bayarkan itu berapa duit sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5605e9dc-e94b-4645-8627-e0a976dd2ebb",
+    "data": [
+      {
+        "text": "Berapa biaya asuransi Tokopedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6a2df911-8bf3-433a-b1bf-13ff95deb396",
+    "data": [
+      {
+        "text": "apa itu tidak menggunakan asuransi logistik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3ed48008-5f87-4954-b4ad-4c685e7e2fe6",
+    "data": [
+      {
+        "text": "au tanya asuransi dlm setiap transaksi di tokopedia itu asuransi apa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f4ed3f6e-6a10-4341-95ad-7cb492ff61ca",
+    "data": [
+      {
+        "text": "mau tanya asuransi dlm setiap transaksi di tokopedia itu asuransi apa ya?  kebetulan sy beli brg dr toko di smrg.  dan brgnya kaca ada retak.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

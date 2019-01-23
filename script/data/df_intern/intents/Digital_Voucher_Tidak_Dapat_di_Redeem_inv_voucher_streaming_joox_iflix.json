@@ -1,0 +1,59 @@
+{
+  "id": "baa67ee8-a168-462d-81b5-87f5fb7b7cc8",
+  "parentId": "7c9b4ffb-8d3e-4150-a7f0-9865827ee50b",
+  "rootParentId": "dbbb1e17-3271-4c65-b2a2-5cb80603b2a4",
+  "name": "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_streaming_joox_iflix",
+  "auto": true,
+  "contexts": [
+    "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_streaming-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_streaming_joox_iflix-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d02ba714-0cee-47cb-bb57-31a4797b0552",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "email",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Boleh beritahu Toped email akun layanan streaming kamu?"
+            }
+          ]
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon informasikan juga nomor telepon yang terdaftar."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536395886,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "operator_joox"
+    },
+    {
+      "name": "operator_iflix"
+    }
+  ]
+}

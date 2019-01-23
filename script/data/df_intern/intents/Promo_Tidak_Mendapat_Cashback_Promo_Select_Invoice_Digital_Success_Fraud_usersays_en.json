@@ -1,0 +1,46 @@
+[
+  {
+    "id": "b8744e27-a7fa-41a6-a745-f13f4d173106",
+    "data": [
+      {
+        "text": "invoice_is_fraud",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "43db5d97-585c-4bcd-aa8c-dbbc8fb529f8",
+    "data": [
+      {
+        "text": "invoice fraud",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "135aa44f-0a08-45cc-8db5-e1a5bdb135d6",
+    "data": [
+      {
+        "text": "is fraud",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "26f9f2fd-9f69-469d-88d1-bb9904872eaa",
+    "data": [
+      {
+        "text": "fraud",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

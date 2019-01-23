@@ -1,0 +1,43 @@
+{
+  "id": "8a938c39-3432-4c36-b951-c394a6d9da53",
+  "parentId": "73682839-494c-41e0-9a9a-7eabf02d805c",
+  "rootParentId": "7702a921-0bc2-479f-9cd3-aade8103768a",
+  "name": "Payment_not_verify_MP_platform_verified",
+  "auto": true,
+  "contexts": [
+    "Payment_not_verify_MP_platform-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Payment_not_verify_MP_platform_verified-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek transaksi ini sudah terverifikasi ya Kak dan sudah tidak terjadi kendala pada pembayarannya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531444757,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_pembayaran_diterima"
+    }
+  ]
+}

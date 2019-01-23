@@ -1,0 +1,56 @@
+{
+  "id": "4d256d9e-7d94-41bd-9adb-1bac1c4c2c9c",
+  "parentId": "398f59c9-2761-48b5-be9b-e0836339f763",
+  "rootParentId": "2857f78e-0f0e-4f9f-a32c-1bf155c0c208",
+  "name": "Logistic_Barang_Tidak_Dapat_Dikirim_Invoice_List_Seller_Process_Conventional_Upload",
+  "auto": true,
+  "contexts": [
+    "Logistic_Barang_Tidak_Dapat_Dikirim_Invoice_List_Seller_Process_Conventional-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Tidak_Dapat_Dikirim_Invoice_List_Seller_Process_Conventional_Upload-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "26535b7b-1eaf-453b-9694-203b24db5345",
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1339"
+        },
+        {
+          "id": "8897339c-1100-4189-8c5f-dbfc7975cc46",
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Logistic_Barang_Tidak_Dapat_Dikirim"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Terima kasih, ya. Boleh tunggu sebentar, Toped akan bantu buatkan tiket Layanan Pengguna untuk dicek lebih lanjut. Perkembangan informasinya akan dikirim lewat email :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546486033,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

@@ -1,0 +1,1417 @@
+[
+  {
+    "id": "805d4b82-6efd-4611-a7b7-ed68b3bc3a81",
+    "data": [
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya digunakan pihak lain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "63968e92-23c5-4e1b-b739-34af621b541c",
+    "data": [
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya digunakan orang lain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5a0fc416-6519-47ae-8b1d-a85f7f318b5c",
+    "data": [
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya ada yang pake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1ff03f02-c289-4a44-b085-2efce37cbebd",
+    "data": [
+      {
+        "text": "ovo cash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya berkurang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d42b948a-21bb-412e-a9ef-cbd7cbd5a35a",
+    "data": [
+      {
+        "text": "ovo cash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya ada yang pake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7ff0dfe4-b379-4020-8f9e-5010e195ae7f",
+    "data": [
+      {
+        "text": "ovo points",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya berkurang padahal tidak saya pakai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "926e0611-0907-4d15-9071-fa2097bd5240",
+    "data": [
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya hilang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4a27730e-db6c-4377-b5c8-cb2b9533e2fa",
+    "data": [
+      {
+        "text": "saya tidak bertransaksi tapi kok ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya berkurang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eba88a2e-04d9-40b8-8170-45687738ed19",
+    "data": [
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya berkurang tapi tidak pernah belanja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "70c2b35f-435f-46a2-8640-e9d092539fb0",
+    "data": [
+      {
+        "text": "ada  transaksi menggunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya padahal saya nggak belanja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b3df6d77-1296-4c3b-8f37-8d299fac80f6",
+    "data": [
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya berkurang di tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "03db3e5b-dceb-426b-86e5-66bd4c35da27",
+    "data": [
+      {
+        "text": "kok ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya berkurang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bdd97663-6ee6-45c3-a50e-3fdd0e0e7831",
+    "data": [
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya dipake orangsaldo ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya hlang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2e4c3a94-4112-4591-807e-fde08ef48313",
+    "data": [
+      {
+        "text": "ovo saya dipake orangsa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "83525d75-e8f1-4d55-af28-dd9c2a6bde4b",
+    "data": [
+      {
+        "text": "Saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Tokoepdia saya disalahgunakan untuk pembelian pulsa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cac6b07a-ce9d-42f1-b975-504fcd985807",
+    "data": [
+      {
+        "text": "saldo tokopedia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya tiba-tiba berkurang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ab9f0592-eb3a-430f-ae09-f44f6f85a733",
+    "data": [
+      {
+        "text": "apakah ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo tokopedia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " aman karena ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya baru saja dipakai bertransaksi oleh ornag lain melalui akun saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "857441d4-0dea-4312-936c-96f1ce874418",
+    "data": [
+      {
+        "text": "Saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya sebelumnya ",
+        "userDefined": false
+      },
+      {
+        "text": "45.000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kenapa ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "0",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "da88d7c5-6f77-43c7-b1bf-7a7307e8e6bb",
+    "data": [
+      {
+        "text": "saldo tokped",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya hilang, segera dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2be9e545-3686-4af6-bcea-38afb98eaa2a",
+    "data": [
+      {
+        "text": "akun saya di hack dan ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya disalahgunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7c5cb2b1-f551-413e-9b82-07c0f85b1b61",
+    "data": [
+      {
+        "text": "saldo tokopedia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya masih ada ",
+        "userDefined": false
+      },
+      {
+        "text": "2juta",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sebelumnya, ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kenapa hilang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8d80768e-2104-490b-9b80-4c7f59274a12",
+    "data": [
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya sepertinya dipakai belanja oleh orang lain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e29513f3-6c5b-4cf1-9ec1-afbc3384cbba",
+    "data": [
+      {
+        "text": "tokocash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya dipakai orang lain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f6f44141-67c6-4602-aeb6-24c690de18b3",
+    "data": [
+      {
+        "text": "terakhir kali saya cek saya masih punya ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tokocash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kenapa ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hilang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "91f3c517-2ab6-4807-81ed-997b9122a17b",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tolong ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo tokopedia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya di hack orang sehingga dipake belanja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "28c92c62-25fb-4f25-9dd9-448651c527bf",
+    "data": [
+      {
+        "text": "tokocash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya dipake orang lain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1a18200d-b78e-4824-afe2-ced63f034e4d",
+    "data": [
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya digunakan orang lain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "da817242-0f9a-4775-9870-05c37df63257",
+    "data": [
+      {
+        "text": "tolong di cek apakah ",
+        "userDefined": false
+      },
+      {
+        "text": "tokocash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya dipakai bertransaksi karena saya tidak merasa belanja di tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cc0d9e36-002d-4b1b-b278-3a37a383624c",
+    "data": [
+      {
+        "text": "tokocash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya digunakan orang lain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "caf7e4c0-1716-4dc7-be2f-762f49933bae",
+    "data": [
+      {
+        "text": "Saldo Tokopedia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya disalahgunakan untuk pembelian paket data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "36804208-8993-45f1-abd3-dc751b7c9980",
+    "data": [
+      {
+        "text": "kembalikan ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo tokopedia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya, itu bukan saya yang berbelanja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "52138b87-c594-4076-8aa2-4b7fdde517df",
+    "data": [
+      {
+        "text": "Kok saldo saya ilang min ?? tadinya masih banyak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "de6552fc-2a4d-42f7-8ce6-f80048d2dffc",
+    "data": [
+      {
+        "text": "Saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya ",
+        "userDefined": false
+      },
+      {
+        "text": "2jt",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " menghilang entah kemana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "65a8d1c9-7125-4592-9b42-bae00cbbb5b5",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tolong cek kenapa ",
+        "userDefined": false
+      },
+      {
+        "text": "tokocash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya berkurang ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0897387a-aa92-4115-bf18-693e2e67b960",
+    "data": [
+      {
+        "text": "Saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya berkurang, ada email pembelian pulsa ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". saya ga lakuin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eb46c14d-e958-475b-a4ab-1794576a2769",
+    "data": [
+      {
+        "text": "toko cash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya dipakai belanja oleh orang lain padahal saya tidak pernah melakukan transaksi apapun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5f7c4aa3-d62d-4fc5-a215-16005ddef5c2",
+    "data": [
+      {
+        "text": "saya tidak melakukan transaksi apapun tapi kenapa ",
+        "userDefined": false
+      },
+      {
+        "text": "tokocash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya berkurang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b50e7883-b647-4724-876f-7c31cb2a2a8e",
+    "data": [
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya tiba-tiba hilang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "08530077-a147-4ebf-99a5-1f8248b300bd",
+    "data": [
+      {
+        "text": "Ada email transaksi, saya ga pesen min. saldo saya abis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a057c88e-f5ed-4348-be77-f1a6d7325b0a",
+    "data": [
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya dipakai orang lain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4bee33e5-1172-485d-9678-e66104877237",
+    "data": [
+      {
+        "text": "saldo tokopedia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya dipake orang lain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9537780d-a1d2-4dfc-a499-4e1793d48817",
+    "data": [
+      {
+        "text": "tokocash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya dipake sama orang lain ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7cb68e79-e636-4f4f-826e-ebacb46f3268",
+    "data": [
+      {
+        "text": "kok ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tokocash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya bisa berkurang ya padahal nggak saya pakai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3831dfdd-d877-4008-90bf-969a9da0f68d",
+    "data": [
+      {
+        "text": "sepertinya toko cas saya dipakai orang lain ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "623178f8-bffe-4585-94c3-df5947227ab3",
+    "data": [
+      {
+        "text": "Saldo saya berkurang, ada email pembelian paket data min. saya ga lakuin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2c4aeb8e-6534-4da3-af6c-a786a8b321d6",
+    "data": [
+      {
+        "text": "tokocash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya dipakai orang lain ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5246239a-76d8-45e3-bfb8-2cd0c244af4d",
+    "data": [
+      {
+        "text": "halo tokopedia saya mau lapor ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tokocash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya yang berkurang padahal tidak pernah saya gunakan berbelanja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8bb8616b-548c-483f-a86f-9ef71d7ec5c1",
+    "data": [
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tokopdia saya sebelumnya ada xxx tapi kenapa ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " habis ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fa3de9ba-15a3-4fa4-9fe5-1b4ab5777ea9",
+    "data": [
+      {
+        "text": "upload_image",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "162929c4-420e-42bb-b5da-663030aa46f7",
+    "data": [
+      {
+        "text": "sebelumnya saya maish punya ",
+        "userDefined": false
+      },
+      {
+        "text": "tokocash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya cek ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cuma ",
+        "userDefined": false
+      },
+      {
+        "text": "0",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f7fb7285-14b9-4da5-87e3-b3150eb4935f",
+    "data": [
+      {
+        "text": "tokocash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya sebelumnya ada beberapa ratus ribu kenapa sekaramg jadi ",
+        "userDefined": false
+      },
+      {
+        "text": "0",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ef55aabc-569e-4848-af48-3db7039d0d3e",
+    "data": [
+      {
+        "text": "apakah ",
+        "userDefined": false
+      },
+      {
+        "text": "tokocash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya digunakan oleh orang lain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ca271fa6-a0f8-44c0-986e-9b4dd127e337",
+    "data": [
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tokocash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya dipake sama orang iseng ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "394f8c22-2112-4e61-9d51-faea213afd24",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya berkurang padahal tidak saya pakai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8ef62afb-b09c-4f84-8d6d-8a7dbd0ddaf4",
+    "data": [
+      {
+        "text": "Saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1jt",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tiba tiba ilang, dapet info dari admin tentang transaksi. transaksi siapa ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f2ff606a-c2f4-4ef9-9afa-4386bbfa8b3f",
+    "data": [
+      {
+        "text": "saldo saya 0 padahal saya belum melakukan penarikan dana. payah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "69b7e36e-4509-4c5d-98b7-9735ee1fd79b",
+    "data": [
+      {
+        "text": "saya ditipu penjual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "14732d8c-b7fe-4f8e-9687-a9e59079c6b9",
+    "data": [
+      {
+        "text": "saya tidak melakukan transaksi top up pembayaran BPJS kesehatan kenapa saldo saya memotong.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bc2233f9-d573-4f40-9e35-15ef20fb454b",
+    "data": [
+      {
+        "text": "saldo tokocash dan ovo saya tiba-tiba hilang padahal tidak pernah melakukan transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5e2276e4-6848-4488-b311-40a860d43d80",
+    "data": [
+      {
+        "text": "kenapa tokocash saya tiba2 hilang.padaha saya ga belanja apa2?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9add90c4-0cdc-4419-bc77-efb7d1d381d2",
+    "data": [
+      {
+        "text": "kenapa tokocash saya yg sebelumnya ada tp sebagian hilang, tolong balikkin uang saya. kenapa toped jadi gak aman gini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "06e36752-4060-49f3-b8d3-de4d54e5e24b",
+    "data": [
+      {
+        "text": "saya tidak melakukan pembayaran bpjs tetapi ada yg melakukan pembayaran bpjs menggunakan saldo saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f02c05c8-c1e0-4ba7-86f6-9f0258028b1f",
+    "data": [
+      {
+        "text": "tolong segera batalkan pembelian saya karena mencurigai sebagai penipuan. INVIDTAG",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c61aecb0-ba89-492e-8a90-5b4f7d3005c3",
+    "data": [
+      {
+        "text": "mengapa ovo saya ada pemotongan untuk market place? padahal saya tidak melakukan transaksi apa apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "13db10dd-c4c7-43af-9450-496d486ae4ed",
+    "data": [
+      {
+        "text": "saya di sms sudah melakukan transaksi berhasil.. padahal saya tidak melakukan transaksi apapun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2e64c4a2-50f6-4157-8867-6208553ea9db",
+    "data": [
+      {
+        "text": "tp sy check d history blanja sya, sy gak prnah lakukan transaksi pd tgl n dgn harga itu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "895f9b0a-520c-4a62-a656-9cf45d20a750",
+    "data": [
+      {
+        "text": "tokocash saya kepotong padahal saya tidak melakukan transaksi apa2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cbf51d98-6cba-43aa-bd19-32843f3df251",
+    "data": [
+      {
+        "text": "nominal tokocash berkurang pdhl tdk ada transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "89b7648a-ddb6-4aff-8a2a-c17ae91b6efb",
+    "data": [
+      {
+        "text": "saya tdk lakukan transaksi pembelian apapun tapi saldo saya berkutang terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e95a33ac-7961-4285-9d91-16c68804e98d",
+    "data": [
+      {
+        "text": "akun topednya kena Hijack pengambilan dana sekita 4,6jt akhirnya syukur toped membekukan \u0026 memulihkan history akun saya.. saya hanya mau info si penipu membuat etalase sama dengan harga sama yang murah tidsk masuk akal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7a0d196d-7f62-4af9-a869-cfb3282653ae",
+    "data": [
+      {
+        "text": "ini tiba2 ada transaksi di akun saya dr marketplace tp saya merasa tidak melakukan pembelian apa2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9fb0fe10-1dc7-4aab-a8cb-e59db77917ee",
+    "data": [
+      {
+        "text": "saya gak nemu adanya transaksi di ovo saya, tp ovo saya ke potong saldonya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d02dd8bf-f20e-4cc2-a0d5-6d819cde4561",
+    "data": [
+      {
+        "text": "kenapa toko cash saya berkurang ya, padahal saya gak beli apa2 loh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b1d8949f-b7ab-4a66-b875-f05a1f450e45",
+    "data": [
+      {
+        "text": "saldo saya hilang semalem, ada keterangan transaksi, tetapi saya tidak merasa melakukan transaksi itu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "de601ff0-1e7d-40b8-8a89-640984ec7221",
+    "data": [
+      {
+        "text": "kenapa saldo cash saya habis/hilang ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f2b1bcef-58c9-40ac-b9c8-2cf4edb984ab",
+    "data": [
+      {
+        "text": "uang terdebet krn transaksi fraud.. tidak ada transaksi saldo terpotong setiap hari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

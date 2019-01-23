@@ -1,0 +1,59 @@
+{
+  "id": "a5d328ae-eec2-4137-a3a6-6a6956fe3b14",
+  "parentId": "331e3641-99aa-405d-8082-96feaae7d546",
+  "rootParentId": "97b8dee9-c18a-464e-81ff-25eed5cf59ac",
+  "name": "Fraud_Saldo_Tokopedia_atau_TokoCash_Digunakan_Pihak_Lain_Saldo_Tokopedia_Unggah",
+  "auto": true,
+  "contexts": [
+    "Fraud_Saldo_Tokopedia_atau_TokoCash_Digunakan_Pihak_Lain_Saldo_Tokopedia",
+    "Fraud_Saldo_Tokopedia_atau_TokoCash_Digunakan_Pihak_Lain_Saldo_Tokopedia-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Saldo_Tokopedia_atau_TokoCash_Digunakan_Pihak_Lain_Saldo_Tokopedia_Unggah-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "aafcaac8-7d60-4367-979a-ef37d6bb7bfa",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1641"
+        },
+        {
+          "id": "d3477466-b32e-459f-8795-b21466f8e39f",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Fraud_Saldo_Tokopedia_atau_TokoCash_Digunakan_Pihak_Lain"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Terima Kasih untuk bukti yang kamu lampirkan. Toped bantu buatkan tiketnya. Mohon menunggu."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1543303347,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "Upload_image"
+    }
+  ]
+}

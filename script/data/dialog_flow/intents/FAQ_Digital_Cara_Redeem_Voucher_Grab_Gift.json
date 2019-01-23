@@ -1,0 +1,36 @@
+{
+  "id": "e79b37d7-9dc6-42db-94ac-eb63f6a45fd9",
+  "name": "FAQ_Digital_Cara_Redeem_Voucher_Grab_Gift",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai, untuk redeem voucher Grab Gift, kamu bisa ikuti langkah ini ya:\n\n1. Buka aplikasi Grab, masukkan lokasi penjemputan dan tujuan seperti biasa\n2. Pilih layanan Grab yang akan digunakan\n3. Masukkan kode voucher Grab Gift yang didapat dari Tokopedia di kotak promo\n4. Pastikan semua data yang dimasukkan sudah benar, lalu klik “Book” "
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Selamat mencoba :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_digital_cara_redeem_voucher_grab_gift"
+    }
+  ]
+}

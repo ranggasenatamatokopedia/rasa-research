@@ -1,0 +1,52 @@
+{
+  "id": "e52d5c2b-4c42-4c3f-ab55-1010efea73aa",
+  "parentId": "843b1180-85e0-4ca4-8914-f782413ed44d",
+  "rootParentId": "debdb44e-b23a-4c52-8626-59514944fd55",
+  "name": "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Seller_cancelled",
+  "auto": false,
+  "contexts": [
+    "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Seller-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Seller_cancelled-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon maaf, pesanan kamu batal dan dananya sudah Toped kembalikan ke Pembeli."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513040943,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_batal_otomatis_oleh_sistem"
+    },
+    {
+      "name": "invoice_canceled"
+    },
+    {
+      "name": "invoice_pencarian_barang_pengganti"
+    },
+    {
+      "name": "invoice_pesanan_ditolak_penjual"
+    }
+  ]
+}

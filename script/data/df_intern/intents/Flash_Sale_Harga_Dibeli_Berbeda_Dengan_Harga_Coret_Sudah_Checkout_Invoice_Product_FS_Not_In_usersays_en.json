@@ -1,0 +1,40 @@
+[
+  {
+    "id": "ff2a4738-5021-4828-916c-4e847d562b14",
+    "data": [
+      {
+        "text": "not ",
+        "userDefined": false
+      },
+      {
+        "text": "in",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "803a294c-c609-41ec-82f5-dd8734332310",
+    "data": [
+      {
+        "text": "not in time frame",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "27eb9324-f1ae-4e7a-9534-cdad6d87e789",
+    "data": [
+      {
+        "text": "is_not_in_fs_time_frame",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

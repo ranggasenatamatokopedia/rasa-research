@@ -1,0 +1,36 @@
+{
+  "id": "8d98c729-0b97-49d4-bd0f-21d98e72de62",
+  "name": "FAQ_Order_Cara_Terima_Sebagian",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sebelum mengirim pesanan sebagian, pastikan kamu sudah konfirmasi dan Pembeli setuju dengan pengiriman sebagian tersebut ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau Pembeli sudah setuju, kamu bisa ikuti langkah berikut ini:\n\n1. Masuk ke menu “Pesanan Baru”\n2. Pilih opsi “Terima Sebagian”\n3. Tulis sisa stok yang tersedia, lalu klik “Respons Pesanan”."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_order_cara_terima_sebagian"
+    }
+  ]
+}

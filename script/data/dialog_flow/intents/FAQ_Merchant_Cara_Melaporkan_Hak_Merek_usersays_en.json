@@ -1,0 +1,465 @@
+[
+  {
+    "id": "3a76099b-4c12-4772-b3a1-77c2f28f4d0e",
+    "data": [
+      {
+        "text": "saya ingin tau cara melakukan pelaporan hak merk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d5f59adf-bf4b-4427-830b-c5d7f7a27bb6",
+    "data": [
+      {
+        "text": "Bagaimana cara saya mengetahui apakah pelaporan saya sudah di cek Tokopedia atau belum?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9f8bea83-69c2-402e-af78-4b09bc7b0f81",
+    "data": [
+      {
+        "text": "Berapa lama proses pengecekan setelah saya isi form pelaporan hak merek?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "09306b21-1cc3-4892-bfba-803f767a767e",
+    "data": [
+      {
+        "text": "Saya sudah melakukan pelaporan hak merek, apa yang harus saya lakukan setelahnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c9a199ec-af22-42be-ac2f-6aa56fff4653",
+    "data": [
+      {
+        "text": "Apa yang harus saya lakukan setelah saya mengisi form pelaporan hak merek?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b1493664-9847-4272-a049-7d24985e9b0e",
+    "data": [
+      {
+        "text": "mereka menggunakan merk saya untuk berjualan dan ini tidak sesuai etika berdagang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "97b3c406-3255-4ee6-a3e9-73f0b0679047",
+    "data": [
+      {
+        "text": "hak merek saya disalahgunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "695960d6-966b-49da-a804-54b2ca048974",
+    "data": [
+      {
+        "text": "ini hak merek saya kenapa dijual bebas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bf1e2040-dcec-440e-a355-4eb4ddd3128d",
+    "data": [
+      {
+        "text": "bantu saya untuk melakukan hukuman pada yang melanggar hak merek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5fea601f-f9e9-4490-92bd-a7a4d9cfaa57",
+    "data": [
+      {
+        "text": "ini produk saya tapi digunakan mereknya oleh orang laiin yaang tidak bertanggung jawab",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2f6463ad-0718-4d97-bb27-bf3364e0a286",
+    "data": [
+      {
+        "text": "bagaimana cara saya untuk melaporkan orang yang melanggar hak cipta?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "528d8e4a-8d9e-4ecc-b21f-ff541d214d77",
+    "data": [
+      {
+        "text": "tidak bisa dibiarkan ini pelanggaran pada merek dagang saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5d263ae1-da69-45fc-b69a-13d33d874424",
+    "data": [
+      {
+        "text": "saya ingin melaporkan hak cipta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d4d56cde-1969-4b83-ab06-718ac658fca6",
+    "data": [
+      {
+        "text": "tolong bantu hapus ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " yang melanggar hak cipta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7597c229-0eb5-45e2-a101-b5e1452ae2ba",
+    "data": [
+      {
+        "text": "saya mau melaporkan ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " yang dengan sengaja memakai merek dagang saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "53c7dedb-4082-4611-bb0b-fdd90f407c60",
+    "data": [
+      {
+        "text": "untuk merek dagang saya jika ada yang pakai gimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "05792ee7-ecf6-4684-a6cd-d051ff436a1e",
+    "data": [
+      {
+        "text": "terkait merk dagang, bagaimana saya melaporkan pelanggarannya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "63c2b954-da51-4118-9688-8d11707f6ca9",
+    "data": [
+      {
+        "text": "Apa yang bisa saya lakukan untuk klaim merek dagang saya ini?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "52063d0a-2ef1-4357-98a6-54aadacb6170",
+    "data": [
+      {
+        "text": "Bagaimana ini saya mau laporin pelanggaran hak merk pada dagangan yang saya jual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2e2fd91e-42d9-479e-81a2-2618cb1e6d11",
+    "data": [
+      {
+        "text": "selamat ",
+        "userDefined": false
+      },
+      {
+        "text": "siang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya pemilik merek dagang tertentu yang digunakan oleh orang lain dengan harga lebih murah. tolong tindak lanjuti ini semua!!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bfe08b44-c2cc-4d45-9e36-c9e6aefa30cc",
+    "data": [
+      {
+        "text": "keterlaluan tokopedia membiarkan pedagang mensalahgunakan hak cipta ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "04d0a9fb-014f-46bc-80ae-b410b3876224",
+    "data": [
+      {
+        "text": "ada ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " yang menggunakan merek dagang saya tolong di banned",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "04bc136e-21e9-40b6-8508-c7c84e6128e2",
+    "data": [
+      {
+        "text": "tolong bantu melaporkan pelanggaran hak cipta oleh ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3e4a1969-a1ce-4633-9e83-bd268c628c7b",
+    "data": [
+      {
+        "text": "pelanggaran hak cipta pada merk dagang saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e8231630-0968-4e57-8758-88ac5e7b0284",
+    "data": [
+      {
+        "text": "halo admin, saya mau melaporkan hak merek terkait obat merk dagang nuskin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b92fd3d8-21e7-442c-a60c-8b89f5ce711b",
+    "data": [
+      {
+        "text": "Saya hendak melakukan pelaporan hak merek atas nama Klien P. Adolf Heuken yang merupakan Pencipta dan Pemegang Hak Cipta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "148b7f00-8fad-4029-9b75-59d24a4a267c",
+    "data": [
+      {
+        "text": "halo admin, saya mau melaporkan hak cipta terkait obat merk dagang nuskin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b239c70f-c47a-4f71-aac5-d16df7aaf6af",
+    "data": [
+      {
+        "text": "maaf selai saya dg merk sonton repack @isti_sudiro dipajang di tokopedia tapi tidak izin ke saya dan harga yang dijual sangat mahal. sya amau melaporkan pelanggaran hak merk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "32e8767a-7624-4daa-9de6-0143dd2af37f",
+    "data": [
+      {
+        "text": "saya ingin melaporakan pelanggaran hak merek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d05b799c-1640-440a-adde-6f2f959e4a6c",
+    "data": [
+      {
+        "text": "tolong bantu melaporkan hak merek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c8d03697-f000-41fe-9b9d-00498079b909",
+    "data": [
+      {
+        "text": "saya mau melaporkan pelanggaran hak merk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9a895b28-99d9-4e47-ae0c-98f9b18ef4c7",
+    "data": [
+      {
+        "text": "Bagaimana prosedur pelaporan hak merek di Tokopedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "988a3ca3-c2ac-459c-bb65-ad7651eec6e3",
+    "data": [
+      {
+        "text": "Saya ingin tau cara melakukan pelaporan hak merek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2d815553-4677-48a1-bcc0-7c142236fef3",
+    "data": [
+      {
+        "text": "Saya ingin melakukan pelaporan hak merek saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c0ac27f3-81d7-4126-9a74-24337909aa92",
+    "data": [
+      {
+        "text": "Bagaimana cara melaporkan hak merek saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d63d4f9d-768b-4c78-a87d-65e9087e3fa2",
+    "data": [
+      {
+        "text": "Apa yang harus saya lakukan apabila saya menemukan konten di Tokopedia yang mungkin melanggar Hak Kekayaan Intelektual (\"HKI\") milik saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1325fdc4-8d7f-4df2-9bbc-18a348e7062a",
+    "data": [
+      {
+        "text": "Ada beberapa lapak yang menggunakan foto produk dgn watermark nama toko saya dan menjual dgn harga yg tdk wajar.. Saya uda laporkan dari 3hr yg lalu.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "082bc384-cfd8-4aed-ae57-16c42c53c631",
+    "data": [
+      {
+        "text": "mohon bantuannya untuk dapat memblokir penjualan produk-produk tersebut.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

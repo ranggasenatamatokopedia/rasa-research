@@ -1,0 +1,38 @@
+{
+  "id": "9f72f67c-c054-4a06-8851-96c0f7b405e2",
+  "name": "FAQ_Merchant_Cara_membuat_Voucher_Toko",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Merchant_Cara_membuat_Voucher_Toko-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Voucher toko bisa dibuat melalui aplikasi Tokopedia di laptop/komputer, ya. Berikut Toped kasih tau cara membuat Voucher Toko:\n1. Masuk ke Akun Tokopedia kamu melalui laptop/komputer.\n2. Pilih menu Toko.\n3. Pilih Voucher Toko\n4. Pilih Tambah Voucher, dan pilih jenis Voucher Toko yang kamu ingin buat (Cashback atau Gratis Ongkir).\n5. Isi Detail Voucher."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah itu, kamu bisa pilih \"simpan voucher\" dan voucher toko kamu akan otomatis aktif dan bisa digunakan. Pastikan juga kamu tidak membuat lebih dari 10 voucher secara bersamaan, ya. Selengkapnya mengenai cara pembuatan voucher toko, bisa kamu lihat !TKPD_URL_VOUCHER_TOKO!."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "782f7b9e-bd92-4066-8299-3f5535ecd897",
+    "data": [
+      {
+        "text": "invoice_refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f834f6eb-6d5b-432c-8969-b1ef098ee3b2",
+    "data": [
+      {
+        "text": "invoice_failed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e031724e-d466-4dd6-a400-d023bd884211",
+    "data": [
+      {
+        "text": "invoice_cancelled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "512aae49-7306-4181-bb6b-aefc0eb19089",
+    "data": [
+      {
+        "text": "refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "00fed11a-aa9c-4b14-86db-108150fe56eb",
+    "data": [
+      {
+        "text": "cancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "08544a3a-62fb-459f-9b03-0ee793836e50",
+    "data": [
+      {
+        "text": "failed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

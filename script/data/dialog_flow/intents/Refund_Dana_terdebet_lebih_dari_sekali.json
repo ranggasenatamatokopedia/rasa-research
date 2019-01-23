@@ -1,0 +1,48 @@
+{
+  "id": "bf866ec3-a8a1-4f3b-ba73-82194336a55c",
+  "name": "Refund_Dana_terdebet_lebih_dari_sekali",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetInvoiceList",
+      "affectedContexts": [
+        {
+          "name": "Refund_Dana_terdebet_lebih_dari_sekali-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "Refund_Dana_terdebet_lebih_dari_sekali-followup-2",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon tunggu sebentar, ya :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Bisa beri tahu Toped yang mana transaksi Kakak? Kakak bisa pilih invoice di bawah ini ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "refund_dana_terdebet_lebih_dari_sekali"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "a57e33d0-f0ac-42b1-98c1-436d7228e03b",
+  "parentId": "1b8f09d1-f6fc-4300-8b7f-6cd8bf1eb630",
+  "rootParentId": "3a53428c-92bf-45c6-b647-80dd03d60014",
+  "name": "Apps_Kendala_Aplikasi_Tombol_Tidak_Berfungsi_Belum",
+  "auto": true,
+  "contexts": [
+    "Apps_Kendala_Aplikasi_Tombol_Tidak_Berfungsi_followup",
+    "Apps_Kendala_Aplikasi_Tombol_Tidak_Berfungsi-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Apps_Kendala_Aplikasi_Tombol_Tidak_Berfungsi_Belum-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped sarankan kamu untuk melakukan Clear Data terlebih dahulu.Untuk melakukan Clear Data langkahnya adalah :\n1. Klik Setting di smartphone \n2. Pilih Apps \n3. Pilih Tokopedia \n4. Pilih Storage \n5. Clear Data"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga informasi dari Toped membantu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545097359,
+  "fallbackIntent": false,
+  "events": []
+}

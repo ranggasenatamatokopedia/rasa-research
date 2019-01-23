@@ -1,0 +1,276 @@
+[
+  {
+    "id": "031aaa4c-509a-46ac-9b2d-688578dff865",
+    "data": [
+      {
+        "text": "kok level member saya turun ya mulai taun ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a88ad3b4-bc57-4bd3-adf8-4ea2ec1a8229",
+    "data": [
+      {
+        "text": "napa sih level member saya turun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1f384ba8-38ff-462a-9f90-496c15ea54b1",
+    "data": [
+      {
+        "text": "kenapa turun level dari platinum jadi gold?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "059a5fe4-26b2-458b-a2a9-2b194f7e98e2",
+    "data": [
+      {
+        "text": "apakah level membership tokopoints saya masih bisa turun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ff4e3ec1-0f66-4d08-9739-d36d3c999b3c",
+    "data": [
+      {
+        "text": "apakah level member saya masih bisa turun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7403d50d-82d8-434e-84b0-3666ce8eed0b",
+    "data": [
+      {
+        "text": "apa status membership saya bisa turun lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f938e835-3f13-4551-9a8c-728c5b4dfecc",
+    "data": [
+      {
+        "text": "kenapa tingkat membership akun ku turun?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d6760b57-0537-4e2a-98bd-eb656d559a17",
+    "data": [
+      {
+        "text": "kok bisa turun level membership ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8f6c0344-34de-4796-be67-9bf75783127f",
+    "data": [
+      {
+        "text": "level member saya mungkin turun ga sih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3db84e78-f416-41d2-a07d-0b06b2a9d4a9",
+    "data": [
+      {
+        "text": "apa membership saya bisa turun?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8a43d5b8-2f98-4291-9ec1-0afd7f624228",
+    "data": [
+      {
+        "text": "kenapa membership bisa turun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e0a7f2d5-7761-4767-be63-10cea183c3f1",
+    "data": [
+      {
+        "text": "kenapa level member tokopoints turun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "68c259de-1828-4b62-a510-d6359220e918",
+    "data": [
+      {
+        "text": "mengapa kok tokopoint level saya turun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a9cd175c-9f43-4b1f-a271-1d4b584460ae",
+    "data": [
+      {
+        "text": "membership saya bisa turun ga ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "32b129f0-d4ca-40c5-b025-8a569850dd2a",
+    "data": [
+      {
+        "text": "awal ",
+        "userDefined": false
+      },
+      {
+        "text": "tahun ini",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " kenapa level tokopoint saya turun?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "522f9786-afbc-4e69-a8a5-6427b1c5db9b",
+    "data": [
+      {
+        "text": "kapan level member tokopoint saya turun?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "36711226-a560-4a6c-a24e-48a615e77b09",
+    "data": [
+      {
+        "text": "kapan membership saya turun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2fccb2a1-14c1-4d62-a8eb-0eee95253021",
+    "data": [
+      {
+        "text": "kok level membership saya menurun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ec20cb96-dc10-4fed-bdf2-aefd74955673",
+    "data": [
+      {
+        "text": "kenapa kok akun saya turun level member tokopoints ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cdf44714-699e-4deb-938f-e85f691c8a99",
+    "data": [
+      {
+        "text": "status membership saya masih bisa turun ga ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "06b2a8e3-757c-40cf-9587-10c0105c376e",
+    "data": [
+      {
+        "text": "kok bisa turun level membership sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ed843a63-85a4-49de-b09b-4779d316537a",
+    "data": [
+      {
+        "text": "mengapa status membership bisa turun?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "815e2291-081c-494f-845c-fc2ed23e7187",
+    "data": [
+      {
+        "text": "kapan level member tokopoint saya turun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4d647b3a-1959-4749-9d26-f2d6878e1ab7",
+    "data": [
+      {
+        "text": "apakah membership saya bisa turun jadi classic lagi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

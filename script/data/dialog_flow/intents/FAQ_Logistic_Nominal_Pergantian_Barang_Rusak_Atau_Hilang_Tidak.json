@@ -1,0 +1,33 @@
+{
+  "id": "75301ce4-3145-4197-855b-5cc2057d20c5",
+  "parentId": "cf95bcc3-a9d4-4fe5-82a9-e6e8c115bd3b",
+  "rootParentId": "cf95bcc3-a9d4-4fe5-82a9-e6e8c115bd3b",
+  "name": "FAQ_Logistic_Nominal_Pergantian_Barang_Rusak_Atau_Hilang_Tidak",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Nominal_Pergantian_Barang_Rusak_Atau_Hilang-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FAQ_Logistic_Nominal_Pergantian_Barang_Rusak_Atau_Hilang.FAQ_Logistic_Nominal_Pergantian_Barang_Rusak_Atau_Hilang-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu masih bisa mendapatkan ganti rugi dengan nilai 10x ongkos kirim atau senilai harga barang dengan ketentuan diambil nominal yang terendah ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529481373,
+  "fallbackIntent": false,
+  "events": []
+}

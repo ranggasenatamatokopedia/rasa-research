@@ -1,0 +1,156 @@
+[
+  {
+    "id": "870786de-8c8d-444a-86d3-b04fef79a2a2",
+    "data": [
+      {
+        "text": "instant kurir",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "06d8b727-b842-4c23-b48d-4b0dc2a4c566",
+    "data": [
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "99309a3e-e182-4775-8bd9-faf399abfbad",
+    "data": [
+      {
+        "text": "kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "instan",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d0baf242-1b09-4775-9709-00578ffcfc60",
+    "data": [
+      {
+        "text": "instant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f987cfc2-c9ce-4966-b60e-0ad0057e47a7",
+    "data": [
+      {
+        "text": "kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c6c75750-01a0-4bbd-8902-7c756ac27972",
+    "data": [
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c8c346db-a961-4634-a66b-995741720439",
+    "data": [
+      {
+        "text": "instan kurir",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f3c0c112-d2e4-4356-854c-b7ecf70af677",
+    "data": [
+      {
+        "text": "instan",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6312bf47-266a-40b5-8f39-7645488f7cb2",
+    "data": [
+      {
+        "text": "kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "instant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c43468cd-2c46-4de6-ba57-9d51c93641f8",
+    "data": [
+      {
+        "text": "instant courier",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b045080e-7902-4c1b-b605-ea636bace945",
+    "data": [
+      {
+        "text": "on demand",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c50758cb-f5c3-4222-8ae8-e8108792894c",
+    "data": [
+      {
+        "text": "ondemand",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

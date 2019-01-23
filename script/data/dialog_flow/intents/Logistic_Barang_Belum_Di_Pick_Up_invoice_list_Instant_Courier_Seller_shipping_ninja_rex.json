@@ -1,0 +1,46 @@
+{
+  "id": "beb960ee-af2f-4236-a34b-dd30a291185d",
+  "parentId": "cd1a622f-0752-41d9-b15d-481dcdb7fe2e",
+  "rootParentId": "debdb44e-b23a-4c52-8626-59514944fd55",
+  "name": "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Seller_shipping_ninja_rex",
+  "auto": false,
+  "contexts": [
+    "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Seller_shipping-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckLogisticsSLAExpirationStatus",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Seller_shipping_ninja_rex-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513040943,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "courier_rex"
+    },
+    {
+      "name": "courier_ninja_xpress"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "7c9b4ffb-8d3e-4150-a7f0-9865827ee50b",
+  "parentId": "4b996eb7-c44a-455b-9a9c-a343d7402335",
+  "rootParentId": "dbbb1e17-3271-4c65-b2a2-5cb80603b2a4",
+  "name": "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_streaming",
+  "auto": true,
+  "contexts": [
+    "Digital_Voucher_Tidak_Dapat_di_Redeem_inv-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetOperatorNameDigital",
+      "affectedContexts": [
+        {
+          "name": "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_streaming-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536394896,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "digital_streaming"
+    }
+  ]
+}

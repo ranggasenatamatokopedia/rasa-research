@@ -1,0 +1,37 @@
+{
+  "id": "0d4c99b4-53e6-4d91-aacc-b75d81c462fa",
+  "name": "Fraud_Apakah_Tokopedia_Bisa_COD",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Fraud_Apakah_Tokopedia_Bisa_COD-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sesuai dengan !TKPD_URL_SYARAT_DAN_KETENTUAN_TOKOPEDIA!  pada point O nomor 1, penjual dan pembeli tidak dapat melakukan proses COD atau bertransaksi diluar sistem Tokopedia. Selalu gunakan kurir pengiriman yang bekerjasama dengan Tokopedia untuk menjaga keamanan dan kenyamanan transaksi kamu."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "fraud_apakah_tokopedia_bisa_cod"
+    }
+  ]
+}

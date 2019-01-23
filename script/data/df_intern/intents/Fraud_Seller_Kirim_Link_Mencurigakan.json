@@ -1,0 +1,53 @@
+{
+  "id": "68474931-ede2-4b68-9b6c-4a0e1a2d71ec",
+  "name": "Fraud_Seller_Kirim_Link_Mencurigakan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Fraud_Seller_Kirim_Link_Mencurigakan-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau kamu menerima link yang mencurigakan, Toped sarankan untuk tidak mengaksesnya. Toped punya panduan yang bisa kamu lihat !TKPD_URL_SITUS_LINK_PISHING!, jika nantinya menerima link yang mencurigakan."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Apakah informasi yang Toped berikan sudah cukup jelas?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Sudah",
+              "Belum"
+            ],
+            "type": 1
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "fraud_seller_kirim_link_mencurigakan"
+    }
+  ]
+}

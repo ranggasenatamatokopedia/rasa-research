@@ -1,0 +1,43 @@
+{
+  "id": "a82e5e12-6079-4991-b2e0-2bea9e3fbc48",
+  "parentId": "c3a8673d-3c55-474f-bb1b-bf946f69c761",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_success_others_operator_voucher_code_not_empty",
+  "auto": false,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_success_others_operator_has_SN-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_success_others_operator_voucher_code_not_empty-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk informasi Serial Number (SN) kamu, yaitu #voucher_code_not_empty.payload"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534144223,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "voucher_code_not_empty"
+    }
+  ]
+}

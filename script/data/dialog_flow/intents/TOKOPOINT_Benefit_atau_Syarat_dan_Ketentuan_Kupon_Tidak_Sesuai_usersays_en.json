@@ -1,0 +1,35 @@
+[
+  {
+    "id": "fd0d8095-73f4-4ad3-8f27-a50acebbb091",
+    "data": [
+      {
+        "text": "poin yang diterima tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "85405697-2cde-440c-b0c3-b96ba7d9746d",
+    "data": [
+      {
+        "text": "loyalty poin tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ec792e78-f311-4354-9f7c-87efdb0f95b5",
+    "data": [
+      {
+        "text": "poin yang diterima kurang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

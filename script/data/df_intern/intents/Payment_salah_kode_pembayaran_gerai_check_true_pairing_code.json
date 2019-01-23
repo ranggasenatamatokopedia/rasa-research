@@ -1,0 +1,47 @@
+{
+  "id": "e3307300-886e-466d-8f51-97776b432437",
+  "parentId": "64e80c98-13eb-4d14-babf-e0a83c3f21d5",
+  "rootParentId": "8d6cc4ef-96f8-4de8-9cc0-b39dfd7bb0af",
+  "name": "Payment_salah_kode_pembayaran_gerai_check_true_pairing_code",
+  "auto": true,
+  "contexts": [
+    "Payment_salah_kode_pembayaran_gerai_check_true-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckTransactionCodeMatch",
+      "affectedContexts": [
+        {
+          "name": "Payment_salah_kode_pembayaran_gerai_check_true_pairing_code-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8b1cca19-bb1b-4439-9145-4057ee882b8a",
+          "dataType": "@sys.any",
+          "name": "kodebayar",
+          "value": "$kodebayar",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek sebentar ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532487999,
+  "fallbackIntent": false,
+  "events": []
+}

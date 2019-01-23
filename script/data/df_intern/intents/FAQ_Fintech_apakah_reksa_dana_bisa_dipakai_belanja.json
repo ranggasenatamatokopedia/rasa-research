@@ -1,0 +1,27 @@
+{
+  "id": "754e7287-d5a6-41c9-b894-93d536a9b2c8",
+  "name": "FAQ_Fintech_apakah_reksa_dana_bisa_dipakai_belanja",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika kamu ingin menggunakan dana Reksa Dana untuk berbelanja, maka kamu bisa menjual Reksa Dana terlebih dahulu ke saldo Tokopedia ya"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

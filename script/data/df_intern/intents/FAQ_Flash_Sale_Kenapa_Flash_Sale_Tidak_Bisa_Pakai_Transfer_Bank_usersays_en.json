@@ -1,0 +1,351 @@
+[
+  {
+    "id": "f39013bf-2318-4bc0-a1b4-967ee68f4e7a",
+    "data": [
+      {
+        "text": "sudah checkout namun pas bayar tidak ada transfere bank.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8ced191a-b0ce-4cca-a32f-61908a657185",
+    "data": [
+      {
+        "text": "Apakah flash sale ",
+        "userDefined": false
+      },
+      {
+        "text": "25",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " rb promo hariini transaksi pembayaran nya boleh melalui transfer bank? Karna kalau dari tokoCash/saldo tokopedia tidak bisa top up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b3dda719-25a5-4af1-95c4-c57110a08f35",
+    "data": [
+      {
+        "text": "pembelian produk flash sale tidak bisa pakai transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4952cee8-e94f-4452-a36a-6adcafcb1fef",
+    "data": [
+      {
+        "text": "bisa dibantu pembelian flash sale pake transfer bank manual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bd667902-ca70-4454-bd9d-b3ab81b6293f",
+    "data": [
+      {
+        "text": "kenapa flash sale tidak ada pilihan transfer bank ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "33fc6b8e-b1d5-4a07-8e14-a91cd5837aa4",
+    "data": [
+      {
+        "text": "Saya melakukan transaksi Flash sale, tapi kok tidak ada pilihan transfer bank nya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3fce6c7c-23e6-4340-91db-cee775b93cad",
+    "data": [
+      {
+        "text": "Flash sale ini kok  pembayarannya knpa tidak ada transfer bank nya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "70514f4c-79a5-426a-8205-b233940ef9d0",
+    "data": [
+      {
+        "text": "di flash sale kenapa tidak boleh pake transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d306f9a1-7514-4a95-aa79-9a05aeb15dcb",
+    "data": [
+      {
+        "text": "Transfer bank pas jam flash sale Hilang, apakah tidak bisa pakai?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "82b3376c-4313-4d29-bd38-1fc45615b166",
+    "data": [
+      {
+        "text": "Tidak nemu transfer bank pada pembayaran flash sale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2d28ba92-6ac4-4291-b4ee-c1db715ef628",
+    "data": [
+      {
+        "text": "apakah saya boleh transfer ATM saat pembelian flash sale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8c9f9879-d489-49fc-9f32-c4e2d7a4748b",
+    "data": [
+      {
+        "text": "flash sale kok ga ada pilihan transfer manual ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d55d45df-fa41-41f0-9f00-09c8e38ff600",
+    "data": [
+      {
+        "text": "Pilihan transfer bank tidak dibuat di Di Flash sale ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7de69d22-e1b4-46ec-8b58-af31c3c273af",
+    "data": [
+      {
+        "text": "Apakah transfer bank ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dimatikan untuk Flash sale?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a038dd0c-c4e4-4e36-9eff-4ecac0954696",
+    "data": [
+      {
+        "text": "Selesai belanja Flash sale , kok ga ada transfer banknya ",
+        "userDefined": false
+      },
+      {
+        "text": "min. Ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kenapa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "95635e81-f468-4634-86a7-cbb98ceb229d",
+    "data": [
+      {
+        "text": "sudah beli tapi tidak ada Transfer Bank nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0e9a77ce-020e-4ee3-b50f-501c2b6c176f",
+    "data": [
+      {
+        "text": "Ini kok Tidak ada transfer bank ya pas bayar Flash sale?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "147f3255-ed71-445c-85ca-bd286fb0bce7",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mohon bantu, pilihan transfer bank tidak ada pas saat sudah mau bayar Flash sale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ab0fcf19-126b-4dea-b8d0-c28144443c9b",
+    "data": [
+      {
+        "text": "Ini pas mau bayar produk flahsale, transfer banknya kok tidak ada di pilihan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "08869c97-a613-4674-b889-21f10d8f5866",
+    "data": [
+      {
+        "text": "transfer bank tidak ada pas mau bayar flash sale, ini kendapa ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "739467ec-b543-40ea-9e6b-0a4586fbd54b",
+    "data": [
+      {
+        "text": "Kenapa metode bayar transfer bank tidak ada buat Flash sale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d8459b76-b57e-405a-b4c5-a6121032865d",
+    "data": [
+      {
+        "text": "pembelian flash sale kenapa tidak bisa pake transfer manual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "00c53325-074b-4fd5-ac6c-5475b1db3b32",
+    "data": [
+      {
+        "text": "Transfer bank tidak ada saat bayar produk flashsale, kenapa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "67a645d9-afed-4ebf-af68-02c85b6c44cb",
+    "data": [
+      {
+        "text": "Saya ga bisa pilih Transfer bank setelah belanja Flash sale, kenapa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "685ec0bb-1f16-4831-8101-5d3cec657ba5",
+    "data": [
+      {
+        "text": "kok tidak ada pilihan transfer bank ya buat Flash Sale?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7085ff01-37e5-47bc-ac2c-4a0fd54599c3",
+    "data": [
+      {
+        "text": "apakah pembayaran via Transfer Bank Manual bisa digunakan untuk Flash Sale? Karena saya mencoba mendaftarkan kartu debit, namun tidak berhasil.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b670cace-5dbf-4e2b-8951-25f1172d9f81",
+    "data": [
+      {
+        "text": "kenapa flash sale tidak dibuka untuk transfer atm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "11e22a4f-e653-4e72-87c2-a5fcb3650f7d",
+    "data": [
+      {
+        "text": "di flash sale kenapa tidak boleh pake transfer bank",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

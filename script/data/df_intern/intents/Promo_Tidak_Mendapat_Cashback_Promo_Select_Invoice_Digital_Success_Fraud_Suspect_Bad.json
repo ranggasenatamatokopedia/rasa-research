@@ -1,0 +1,51 @@
+{
+  "id": "0a758b0d-e21d-4152-ade3-d541bed0b01b",
+  "parentId": "36384351-aa6b-4a8c-91a7-7f8852ecbb75",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Tidak_Mendapat_Cashback_Promo_Select_Invoice_Digital_Success_Fraud_Suspect_Bad",
+  "auto": false,
+  "contexts": [
+    "Promo_Tidak_Mendapat_Cashback_Promo_Select_Invoice_Digital_Success_Fraud-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectSupportMessagePage",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Mendapat_Cashback_Promo_Select_Invoice_Digital_Success_Fraud_Suspect_Bad-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah Toped cek, transaksi kamu masih dalam proses pengecekan sistem. Kamu bisa tunggu maksimal 1x24 jam ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Nanti jika transaksinya sudah sesuai dengan Syarat dan Ketentuan, cashback akan diberikan."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532070442,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "case_status_suspect"
+    },
+    {
+      "name": "case_status_bad"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "3cce7bef-eaa9-489b-a34a-b71e061426b6",
+    "data": [
+      {
+        "text": "invoice_finished",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a279f27d-010f-4d9a-a12a-f6f14b2fcf41",
+    "data": [
+      {
+        "text": "invoice_suspect_fraud",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5658bf11-736a-44e1-8b8e-e4f7cd728348",
+    "data": [
+      {
+        "text": "finished",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d4b3f0f8-dbfc-4867-932d-6f852b3dd13f",
+    "data": [
+      {
+        "text": "invoice_fraud_review",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "49bea837-fbd5-48aa-a7c6-5620aa2d81a3",
+    "data": [
+      {
+        "text": "invoice_cancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cd715114-9156-4062-ae79-4ff4678fe284",
+    "data": [
+      {
+        "text": "selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

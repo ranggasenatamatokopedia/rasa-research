@@ -1,0 +1,51 @@
+{
+  "id": "cd1c9a9d-af41-4a6e-9577-d64828a361f0",
+  "name": "FAQ_Flash_Sale_Kenapa_Transaksi_Flash_Sale_Dibatalkan_Otomatis_Setelah_Melakukan_Pembayaran",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flash_Sale_Kenapa_Transaksi_Flash_Sale_Dibatalkan_Otomatis_Setelah_Melakukan_Pembayaran-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d6dcaf56-b67a-4c7b-88aa-9e9c0f582dd7",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon maaf ya kalau stok barang impianmu sudah habis, pesanan akan dibatalkan otomatis dan dana akan dikembalikan ke OVO Cash kamu."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kedepannya, kamu bisa segera lakukan pembayaran dan jangan sampai kehabisan ya!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_flash_sale_kenapa_transaksi_flash_sale_dibatalkan_otomatis_setelah_melakukan_pembayaran"
+    }
+  ]
+}

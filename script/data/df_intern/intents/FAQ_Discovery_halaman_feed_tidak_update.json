@@ -1,0 +1,37 @@
+{
+  "id": "bf91ebe9-e7ff-4a92-b5a6-3a707be8e10c",
+  "name": "FAQ_Discovery_halaman_feed_tidak_update",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "faq_discovery_halaman_feed_tidak_update-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika halaman feeds tidak terupdate, kamu bisa coba beberapa langkah berikut ini:\n\n1. Unfavorite dan favoritekan kembali toko yang tidak update.\n2. Lakukan pengecekannya kembali melalui beberapa perangkat berbeda, seperti desktop/laptop/mobile site sebagai perbandingannya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_discovery_halaman_feed_tidak_update"
+    }
+  ]
+}

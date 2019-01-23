@@ -1,0 +1,65 @@
+{
+  "id": "132cb91e-5a62-4eee-9342-4eddcc768695",
+  "parentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Transaksi_Berhasil_Tapi_Tidak_Mendapat_Benefit_giftcard_tokopedia",
+  "auto": true,
+  "contexts": [
+    "Promo_Transaksi_Berhasil_Tapi_Tidak_Mendapat_Benefit-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Promo_Transaksi_Berhasil_Tapi_Tidak_Mendapat_Benefit_giftcard_tokopedia-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Transaksi di Tokopedia",
+              "Undian/Quiz",
+              "Pengajuan pinjaman/Kartu kredit/Asuransi"
+            ],
+            "type": 1
+          }
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai Kak, untuk kode gift card biasanya akan dikirimkan melalui email/sms Kak. coba cek email dulu ya, di inbox, spam, junk juga."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau sudah di cek tapi belum ada, boleh infokan ke Toped Kak, gift card yang di maksud dari mana?\n1. Transaksi di Tokopedia\n2. Undian/Quiz\n3. Pengajuan pinjaman/Kartu kredit/Asuransi"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Silakan pilih 1 sampai 3 ya, Kak :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523005207,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "benefit_giftcard"
+    }
+  ]
+}

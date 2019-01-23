@@ -1,0 +1,35 @@
+[
+  {
+    "id": "5b95639f-0d1d-46fb-8b2c-6becc9174aa9",
+    "data": [
+      {
+        "text": "invoice_pesanan_sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b95e6243-c395-4d90-a672-7ed1e148f17d",
+    "data": [
+      {
+        "text": "delivered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "86952909-68e2-4aaa-b376-5997e452650a",
+    "data": [
+      {
+        "text": "deliv",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

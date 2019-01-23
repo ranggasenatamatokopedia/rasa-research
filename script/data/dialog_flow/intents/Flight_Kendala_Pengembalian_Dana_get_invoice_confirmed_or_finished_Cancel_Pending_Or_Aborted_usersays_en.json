@@ -1,0 +1,24 @@
+[
+  {
+    "id": "d238a44e-9772-4a66-b0e9-95669f7e60c2",
+    "data": [
+      {
+        "text": "flight_cancel_status_aborted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "406cbbe2-f6a4-47c1-b50a-a15702428f43",
+    "data": [
+      {
+        "text": "flight_cancel_status_pending",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

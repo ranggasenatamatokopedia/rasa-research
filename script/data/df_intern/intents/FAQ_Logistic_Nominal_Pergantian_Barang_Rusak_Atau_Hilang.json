@@ -1,0 +1,48 @@
+{
+  "id": "cf95bcc3-a9d4-4fe5-82a9-e6e8c115bd3b",
+  "name": "FAQ_Logistic_Nominal_Pergantian_Barang_Rusak_Atau_Hilang",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Logistic_Nominal_Pergantian_Barang_Rusak_Atau_Hilang-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped pastikan kembali apakah transaksi kamu menggunakan asuransi?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 1,
+            "quick_replies": [
+              "Ya",
+              "Tidak"
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_logistic_nominal_pergantian_barang_rusak_atau_hilang"
+    }
+  ]
+}

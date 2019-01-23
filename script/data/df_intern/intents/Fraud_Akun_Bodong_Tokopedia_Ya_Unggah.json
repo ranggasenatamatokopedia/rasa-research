@@ -1,0 +1,43 @@
+{
+  "id": "6ce4f887-9c43-42f4-a0e5-5bc2f153cbe2",
+  "parentId": "52e4ada4-ebd2-4261-a399-ef8445a2961d",
+  "rootParentId": "c51687f5-c136-4dbc-979e-a84aea977f82",
+  "name": "Fraud_Akun_Bodong_Tokopedia_Ya_Unggah",
+  "auto": true,
+  "contexts": [
+    "Fraud_Akun_Bodong_Tokopedia_Ya-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Akun_Bodong_Tokopedia_Ya_Unggah-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Terima Kasih untuk bukti yang kamu lampirkan. Toped bantu buatkan tiketnya. Mohon menunggu."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539233535,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

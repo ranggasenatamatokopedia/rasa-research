@@ -1,0 +1,45 @@
+{
+  "id": "16414c6e-3cf9-42e7-973f-5464297c93ed",
+  "parentId": "14c06dd3-983d-4070-8c5d-c8291ccb3a28",
+  "rootParentId": "71a33cbf-81d5-44bf-a8e3-e4ab7880b670",
+  "name": "FAQ_Logistic_Berapa_Lama_Waktu_Pickup_Barang_Grab_Sameday",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Berapa_Lama_Waktu_Pickup_Barang_Grab-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8d94c9c3-d723-49e8-ae2e-7a044a79747a",
+          "dataType": "@layanan_kurir_pick_up",
+          "name": "layanan_kurir_pick_up",
+          "value": "$layanan_kurir_pick_up",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk Same Day, estimasi waktu penjemputan oleh kurir yaitu 3 jam setelah Penjual melakukan permintaan pick up."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528326241,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "sameday"
+    }
+  ]
+}

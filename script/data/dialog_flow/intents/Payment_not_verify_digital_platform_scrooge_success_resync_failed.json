@@ -1,0 +1,55 @@
+{
+  "id": "3a944052-4068-4ace-b94c-73add0fac78b",
+  "parentId": "d2cd2869-e5eb-4bba-ad7f-78fd6b4fa6e8",
+  "rootParentId": "7702a921-0bc2-479f-9cd3-aade8103768a",
+  "name": "Payment_not_verify_digital_platform_scrooge_success_resync_failed",
+  "auto": true,
+  "contexts": [
+    "Payment_not_verify_digital_platform_scrooge_success_under_6hour-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Payment_not_verify_digital_platform_scrooge_success_resync_failed-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped bantu buatkan tiketnya ya dan kalau ada informasi lebih lanjut akan disampaikan lewat email :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531214092,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "waiting_payment"
+    },
+    {
+      "name": "waiting_third_party"
+    },
+    {
+      "name": "waiting_transfer"
+    },
+    {
+      "name": "cancelled"
+    },
+    {
+      "name": "refunded"
+    }
+  ]
+}

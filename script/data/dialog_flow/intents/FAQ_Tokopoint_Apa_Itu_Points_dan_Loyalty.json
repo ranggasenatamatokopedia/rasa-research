@@ -1,0 +1,31 @@
+{
+  "id": "d5fc9ad1-55fb-4487-89b4-766b542e5602",
+  "name": "FAQ_Tokopoint_Apa_Itu_Points_dan_Loyalty",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Points adalah nilai yang bisa kamu kumpulkan untuk ditukarkan menjadi Kupon yang tersedia pada halaman Penukaran Points, sedangkan Loyalty merupakan nilai yang bisa kamu dapat dan kumpulkan untuk tingkatkan Status Membership akun Tokopedia kamu."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_tokopoint_apa_itu_points_dan_loyalty"
+    }
+  ]
+}

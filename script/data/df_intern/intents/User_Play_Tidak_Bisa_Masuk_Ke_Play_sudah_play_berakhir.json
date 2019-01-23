@@ -1,0 +1,44 @@
+{
+  "id": "4670240d-383d-4715-ab53-fb3860fbeb35",
+  "parentId": "58bb905d-0c93-4501-a025-d9b11770f4d2",
+  "rootParentId": "e24c0d6b-ef5c-4d53-ac56-e76f47176faf",
+  "name": "User_Play_Tidak_Bisa_Masuk_Ke_Play_sudah_play_berakhir",
+  "auto": true,
+  "contexts": [
+    "User_Play_Tidak_Bisa_Masuk_Ke_Play_sudah-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "User_Play_Tidak_Bisa_Masuk_Ke_Play_sudah_play_berakhir-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sesi Play kali ini telah berakhir. Jangan khawatir, kamu masih bisa mengikuti Play di lain kesempatan :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa masuk ke Play dengan Shake Shake perangkatmu, klik banner di halaman depan atau melalui fitur top chat. Pastikan kamu masuk Play sesuai jadwal, ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539590119,
+  "fallbackIntent": false,
+  "events": []
+}

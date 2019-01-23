@@ -1,0 +1,58 @@
+{
+  "id": "594a6623-e100-415c-bfde-bbf27ab1175c",
+  "parentId": "4718d9ba-53c1-4401-b45a-5a390728c74e",
+  "rootParentId": "9bfd7954-aa4e-4fe0-9970-896182c9392a",
+  "name": "Digital_Email_Transaksi_Berhasil_Belum_Diterima_select_inv_order_success_resend_not_success",
+  "auto": false,
+  "contexts": [
+    "Digital_Email_Transaksi_Berhasil_Belum_Diterima_select_inv_order_success-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Digital_Email_Transaksi_Berhasil_Belum_Diterima_select_inv_order_success_resend_not_success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ad0c351d-580c-4a96-b052-e017fb319492",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1237"
+        },
+        {
+          "id": "da7867df-10b9-4a49-b91f-736be73e64ee",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Digital_Email_Transaksi_Berhasil_Belum_Diterima"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Maaf, email transaksi kamu belum berhasil dikirim kembali. Toped bantu buatkan tiket ya. Mohon ditunggu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534159395,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "resend_not_success"
+    }
+  ]
+}

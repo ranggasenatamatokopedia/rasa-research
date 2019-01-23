@@ -1,0 +1,49 @@
+{
+  "id": "799b96e3-c17a-4e48-a28d-2fdef8d34d12",
+  "parentId": "d9393172-10d0-43d8-ad5f-e6bbb2d8e52b",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_select_invoice_success",
+  "auto": false,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_select_invoice-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetCategoryDigitalProduct",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_select_invoice_success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533023786,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_success"
+    },
+    {
+      "name": "invoice_to_be_settled"
+    },
+    {
+      "name": "invoice_settled"
+    }
+  ]
+}

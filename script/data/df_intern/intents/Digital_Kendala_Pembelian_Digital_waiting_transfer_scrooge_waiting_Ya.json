@@ -1,0 +1,39 @@
+{
+  "id": "4d1794bd-7325-499b-8d5d-24d9ff6dc5e6",
+  "parentId": "737cf618-6007-4669-8018-b8044f7b884f",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_waiting_transfer_scrooge_waiting_Ya",
+  "auto": true,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_waiting_transfer_scrooge_waiting-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_waiting_transfer_scrooge_waiting_Ya-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Bantu Toped juga ya untuk lampirkan bukti pembayaran kamu dan Toped akan cek terlebih dulu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534002020,
+  "fallbackIntent": false,
+  "events": []
+}

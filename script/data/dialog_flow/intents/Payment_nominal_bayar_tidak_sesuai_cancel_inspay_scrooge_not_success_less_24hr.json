@@ -1,0 +1,43 @@
+{
+  "id": "627dc098-85c5-4f5e-b6c6-b4da7939c3ae",
+  "parentId": "b2554588-1cca-4434-94e9-09d0e1d4bb9a",
+  "rootParentId": "feb54c5b-52cd-4135-8fbe-6ef49ccb8866",
+  "name": "Payment_nominal_bayar_tidak_sesuai_cancel_inspay_scrooge_not_success_less_24hr",
+  "auto": true,
+  "contexts": [
+    "Payment_nominal_bayar_tidak_sesuai_select_inv_cancel_inspay_scrooge_not_success-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Payment_nominal_bayar_tidak_sesuai_cancel_inspay_scrooge_not_success_less_24hr-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kak, ditunggu dulu ya untuk mutasinya. Kakak bisa tunggu 1x24 jam ya dan setelah itu bisa hubungi Toped lagi :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531701830,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "less_than_1_day"
+    }
+  ]
+}

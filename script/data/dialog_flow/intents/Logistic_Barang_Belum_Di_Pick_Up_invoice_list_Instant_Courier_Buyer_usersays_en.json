@@ -1,0 +1,24 @@
+[
+  {
+    "id": "a898be1b-3cfd-4f92-bd9e-27a5300c5669",
+    "data": [
+      {
+        "text": "buyer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bd1e8813-de30-4a09-8149-c4ab1336bbf1",
+    "data": [
+      {
+        "text": "user_is_buyer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

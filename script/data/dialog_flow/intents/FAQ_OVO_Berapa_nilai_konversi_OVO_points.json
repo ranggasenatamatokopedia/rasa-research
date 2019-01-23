@@ -1,0 +1,31 @@
+{
+  "id": "9606874a-1922-496d-898c-c8503f408b95",
+  "name": "FAQ_OVO_Berapa_nilai_konversi_OVO_points",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Nilai Konversi 1 Poin OVO adalah Rp1,-"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_ovo_berapa_nilai_konversi_ovo_points"
+    }
+  ]
+}

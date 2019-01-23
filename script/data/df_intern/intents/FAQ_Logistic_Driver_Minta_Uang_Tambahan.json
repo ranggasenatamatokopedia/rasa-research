@@ -1,0 +1,36 @@
+{
+  "id": "a37ab08a-ac13-4200-8f80-e64aa5f50667",
+  "name": "FAQ_Logistic_Driver_Minta_Uang_Tambahan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Total nominal yang dibayarkan sudah termasuk ongkos kirim. Maka, kamu tidak perlu membayar ongkos kirim lagi pada driver yang mengantar barang ya. Kecuali kalau kamu memang ingin memberikan uang tip."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon maaf, Tokopedia tidak bertanggung jawab atas biaya yang dikeluarkan selain dari transaksi pada invoice ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_logistic_driver_minta_uang_tambahan"
+    }
+  ]
+}

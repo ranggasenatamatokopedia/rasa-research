@@ -1,0 +1,45 @@
+{
+  "id": "34179c4a-11eb-4f42-873b-aa9d7f142b2c",
+  "parentId": "62328066-6ba6-453c-b337-f9f221db5f6f",
+  "rootParentId": "62328066-6ba6-453c-b337-f9f221db5f6f",
+  "name": "FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir_Wahana",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir.FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f38abde9-34d2-4617-b4d6-55479e21042d",
+          "dataType": "@kurir_reguler",
+          "name": "kurir_reguler",
+          "value": "$kurir_reguler",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon maaf, ya. Estimasi waktu paket diterima tidak dapat ditentukan karena bergantung dengan jarak lokasi alamat Penjual dan Pembeli."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528173702,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "wahana"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "733dd180-200b-4603-af4e-cfd0e86e04f0",
+  "parentId": "df03b041-9395-4c3e-9081-4253f9f12c9d",
+  "rootParentId": "aff6fa6f-2bad-4320-bb2d-dc7125c355a5",
+  "name": "Merchant_Gold_Badge_Tidak_Muncul_GM_Under_75",
+  "auto": true,
+  "contexts": [
+    "Merchant_Gold_Badge_Tidak_Muncul_GM-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Gold_Badge_Tidak_Muncul_GM_Under_75-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon maaf, Toped cek skor toko kamu belum mencapai 75 point sehingga Power Badge nya tidak muncul."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Tingkatkan terus penjualanmu untuk mencapai skor 75, ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536314968,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "under_75"
+    }
+  ]
+}

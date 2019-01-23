@@ -1,0 +1,39 @@
+{
+  "id": "28cea2ed-6e0e-48ce-be6b-88b35ac82311",
+  "parentId": "e5ddb095-11e2-44d0-a686-c477add0deaf",
+  "rootParentId": "e5ddb095-11e2-44d0-a686-c477add0deaf",
+  "name": "TokoPoints_Tidak_Dapat_Memainkan_Lucky_Egg_Kendala_Teknis",
+  "auto": true,
+  "contexts": [
+    "TokoPoints_Tidak_Dapat_Memainkan_Lucky_Egg-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetInfoSummaryTokenIdle",
+      "affectedContexts": [
+        {
+          "name": "TokoPoints_Tidak_Dapat_Memainkan_Lucky_Egg_Kendala_Teknis-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon menunggu, Toped cek dulu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534331879,
+  "fallbackIntent": false,
+  "events": []
+}

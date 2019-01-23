@@ -1,0 +1,32 @@
+{
+  "id": "c9cea0bc-e232-4408-8417-8afebb166b0e",
+  "name": "FAQ_Refund_Apakah_Dana_Bisa_Dikembalikan_Jika_Barang_Tidak_Sesuai",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa ajukan pengembalian dana (refund) kalau barang yang diterima tidak sesuai dengan pesanan. Caranya kunjungi halaman transaksi yang berkendala dan klik \"Komplain\", lalu pilih solusi yang ingin kamu ajukan."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520238454,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_refund_apakah_dana_bisa_dikembalikan_jika_barang_tidak_sesuai"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "fd1bf6cb-6ca4-43f5-81ab-4e6c90d321d0",
+  "parentId": "f19ef164-6e8f-41f6-9f11-8554bbd35cae",
+  "rootParentId": "35e16175-3fd0-4749-bf64-4e1b94b883f1",
+  "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer_Process",
+  "auto": true,
+  "contexts": [
+    "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer_Process-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pesanan kamu sedang diproses oleh pihak penjual. Mohon tunggu dulu ya :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu juga bisa hubungi Penjual melalui fitur \"tanya Penjual\" agar pesanan segera dikirimkan."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532421280,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_barang_diganti"
+    },
+    {
+      "name": "invoice_sedang_diproses_penjual"
+    }
+  ]
+}

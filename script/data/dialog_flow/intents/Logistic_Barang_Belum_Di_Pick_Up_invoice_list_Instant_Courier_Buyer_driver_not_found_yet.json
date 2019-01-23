@@ -1,0 +1,48 @@
+{
+  "id": "da2b91c4-3dc8-4e70-bf97-86bf9abafad5",
+  "parentId": "372dc99f-48d4-4f4a-a8d2-feaa30ac2a92",
+  "rootParentId": "debdb44e-b23a-4c52-8626-59514944fd55",
+  "name": "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Buyer_driver_not_found_yet",
+  "auto": true,
+  "contexts": [
+    "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Buyer_Shipping_In_SLA-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Buyer_driver_not_found_yet-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai, Toped infokan kalau pesanan kamu saat ini masih dalam proses pencarian driver. Kamu bisa tunggu dulu ya :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau sudah dapat driver, akan ada info nama dan nomor telepon driver yang pick up pesanan kamu di halaman \"Status Pemesanan\". Silakan cek berkala :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528777895,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "driver_not_found_yet"
+    }
+  ]
+}

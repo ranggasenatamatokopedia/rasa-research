@@ -1,0 +1,1445 @@
+[
+  {
+    "id": "2693c916-37ee-4b8a-b1e9-3ce403f6a8ab",
+    "data": [
+      {
+        "text": "sudah bayar, tapi masih tertagih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4f7658eb-1d26-4706-8426-35d04b623495",
+    "data": [
+      {
+        "text": "Transaksi berhasil pembyran Indovision. Sy menggunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Limit sy dah berkurang. Tapi kok tagihan tetap msh muncul.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4be01280-35d9-4ea6-932a-b59dfc223168",
+    "data": [
+      {
+        "text": "saya bayar pascabayar tgl ",
+        "userDefined": false
+      },
+      {
+        "text": "25 mei 2018",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", dan status sudah berhasil, tapi pada bulan ",
+        "userDefined": false
+      },
+      {
+        "text": "juni",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2018",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tagihannya jadi double, saya tanya ke ",
+        "userDefined": false
+      },
+      {
+        "text": "gerai",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " langsung ternyata pembayaran bulan ",
+        "userDefined": false
+      },
+      {
+        "text": "mei",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tersebut tidak masuk failed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ab0b5a13-03b6-42bf-98c8-48e39fd32757",
+    "data": [
+      {
+        "text": "Pembayaran masih muncul padahal status sudah berhasil bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "645eb100-769f-4acf-8840-58307b7eefe0",
+    "data": [
+      {
+        "text": "Status Pembayaran saya di Tokopedia sudah berhasil, Tetapi Saya masih ditagih oleh Indosat dan dibilang Sudah jatuh tempo mohon segera dibayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c5f9d77d-810e-41a1-a465-4de79bcce122",
+    "data": [
+      {
+        "text": "sy sudah melakukan pembayaran tagihan gas ",
+        "userDefined": false
+      },
+      {
+        "text": "id",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 03119318 tgl ",
+        "userDefined": false
+      },
+      {
+        "text": "11 mei 2018",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", status sukses, struk terlampir, namun ketika mau bayar bulan ",
+        "userDefined": false
+      },
+      {
+        "text": "juni",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " keluar tagihan periode ",
+        "userDefined": false
+      },
+      {
+        "text": "mei",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "43e3e8ef-4384-4886-bbfe-5991ecac44cd",
+    "data": [
+      {
+        "text": "pembayaran pdam sudah terbayar tgl ",
+        "userDefined": false
+      },
+      {
+        "text": "22",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "juni",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di tokopedia tapi dicek pertanggal ",
+        "userDefined": false
+      },
+      {
+        "text": "25",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "juni",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tahihan masih muncul dan belum terbayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ded39ddb-9d8e-4ffe-8a4e-d70dc8b75d0c",
+    "data": [
+      {
+        "text": "trx saya dengan nomor inv. ivr/",
+        "userDefined": false
+      },
+      {
+        "text": "20180403",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "/xviii/iv/",
+        "userDefined": false
+      },
+      {
+        "text": "45314951",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sudah sukses tetapi sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "hari ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tlp blm bisa dipakai. setelah dicek pihak telkom menyatakan masih ada tagihan yg harus dilunasi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1ffa1f03-3b6f-485c-9e6c-675938b286a1",
+    "data": [
+      {
+        "text": "Saya sudah bayar tagihan kartu Pascabayar dgn Telkomsel (Halo) dan transaksi berhasil. Namun ketika saya cek belum ada notifikasi pembayaran tagihan berhasil serta ketika saya cek kembali, dari operator info nomor terblokir.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ba30dc49-5456-4af4-bab3-9a835ed2baeb",
+    "data": [
+      {
+        "text": "Tagihan aeon sudah lunas namun saat di inquiry masih ada tagihan, saya takut karna pernah trauma ditagih bunga oleh aeon ",
+        "userDefined": false
+      },
+      {
+        "text": "500rb",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " lebih bukan karena kesalahan saya ",
+        "userDefined": false
+      },
+      {
+        "text": "100",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "%",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "51a0c8b0-48c5-445e-8360-8fd0756e47d0",
+    "data": [
+      {
+        "text": "pembayaran sudah berhasil, tapi pihak telkom pusat telfon masih ada tagihan dengan nominal ",
+        "userDefined": false
+      },
+      {
+        "text": "50.000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " lebih sekian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "244050d4-d9e4-4a3c-b8c5-652c388b363b",
+    "data": [
+      {
+        "text": "transaksi pembayaran BFI melalui tokopedia sdh berhasil, tp kenapa saat dicek di BFI tagihan bulam ini msh ada, mohon dipercepat karena ",
+        "userDefined": false
+      },
+      {
+        "text": "hari ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " batas akhr pembayaran tagihan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "522a7272-85e9-4ef2-a4db-9637cf9b7ddb",
+    "data": [
+      {
+        "text": "pembayaran sudah berhasil namun sistem firstmedia menyatakan tagihan blm lunas. saya bayar via tokopedia tgl ",
+        "userDefined": false
+      },
+      {
+        "text": "13",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "juni",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aec805e4-ed71-4fc3-a743-1c90c1498cf5",
+    "data": [
+      {
+        "text": "indosat tidak menerima pembayaran lewat tokopedia. tagihan pascabayar saya masih muncul dan tidak berbayar.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6f8b4d9f-0e14-4050-93da-741a84771cdc",
+    "data": [
+      {
+        "text": "saya sudah bayar telkom tetapi kok kena blokir ya dan ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " telepon tidak dapat digunakan. invoice IVR/",
+        "userDefined": false
+      },
+      {
+        "text": "20180410",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "/XVIII/IV/",
+        "userDefined": false
+      },
+      {
+        "text": "47224857",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f9a7a2e9-d29f-43f5-8831-2f96ce43a4a9",
+    "data": [
+      {
+        "text": "utk pembayaran bpjs dibulan selanjutnya yaitu bulan ",
+        "userDefined": false
+      },
+      {
+        "text": "juni",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2018",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan sy sudah melakukan pembayaran bulan ",
+        "userDefined": false
+      },
+      {
+        "text": "mei",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". setelah sy check sy ditagih ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bulan dimana bln ",
+        "userDefined": false
+      },
+      {
+        "text": "juni",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sy dibilang blm bayar, pdhl saya sudah transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d1b7e765-7148-4bdc-909d-ece5d733d527",
+    "data": [
+      {
+        "text": "bantu donk sudah berhasil tp indihome msh diblokir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b21ad9ea-d1d9-44a9-87d0-f4a880e1de57",
+    "data": [
+      {
+        "text": "Transaksi berhasil tetapi masih keluar tagihan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f5d3ed89-f378-4812-868a-68dac54e6114",
+    "data": [
+      {
+        "text": "Bulan ",
+        "userDefined": false
+      },
+      {
+        "text": "April",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2018",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tgl ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kami sudah membayar lunas tagihan BPJS. ",
+        "userDefined": false
+      },
+      {
+        "text": "Kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ada lagi tagihan yang langsung kami bayar lunas ",
+        "userDefined": false
+      },
+      {
+        "text": "14 April 2018",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Tapi kenapa pembayaran ini tidak cover ",
+        "userDefined": false
+      },
+      {
+        "text": "bulan Mei 2018?",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "93da6c99-de94-4d7c-8bd7-1e58454f9630",
+    "data": [
+      {
+        "text": "sy td kan ",
+        "userDefined": false
+      },
+      {
+        "text": "da",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tuk pembayaran Telkom,tp knp msh ",
+        "userDefined": false
+      },
+      {
+        "text": "da",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tagihan ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "49e3e576-eaca-468d-852d-c97462c31d0d",
+    "data": [
+      {
+        "text": "Transaksi sudah berhasil.. Tapi speedy masih gak bisa koneksi karena status blm bayar tagihan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3e3672bd-2340-4b18-93a4-32110ccde967",
+    "data": [
+      {
+        "text": "saya sudah melakukan pembayaran 08112427778, tetapi tagihan masih muncul, dan ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya sudah terpotong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6849a72e-7a4a-43dd-9986-a5ced87d32d2",
+    "data": [
+      {
+        "text": "bulan lalu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya kan bayar tagihan xl prioritas tp kok tagihan bulan ",
+        "userDefined": false
+      },
+      {
+        "text": "april",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nya masih ada. padahal transaksinya berhasil.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c65ef91c-fd81-4a44-ac48-5a604a6d3332",
+    "data": [
+      {
+        "text": "transaksi berhasil,tp tagihan card nya blm berkurang ini. tlg dibantu ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "084b0cf1-1bcb-4d7c-b90c-deed0202bb71",
+    "data": [
+      {
+        "text": "pembayaran tagihan bpjs saya sudah berhasil di tokopedia, tp tagihan masih muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0862fa5e-4df4-4555-a4df-cc40c5a0293b",
+    "data": [
+      {
+        "text": "Selamat ",
+        "userDefined": false
+      },
+      {
+        "text": "pagi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya sudah melakukan pembayaran, ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hari yang lalu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tapi sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " masih terhitung tertunggak di indihome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0cb61c59-b877-4f5b-bdab-6bd758578198",
+    "data": [
+      {
+        "text": "saya sudah bayar kenapa masih ada tagihannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "874e1814-12eb-4a00-a836-5b20aea8d97a",
+    "data": [
+      {
+        "text": "Pembayaran masih muncul bahkan jumlahnya bertambah termasuk denda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a74ac612-a388-484a-b7d5-3005c21df967",
+    "data": [
+      {
+        "text": "Stlh dilakukan pengecekan di tagihan sy.ternyata pbyran sy blm diterima oleh pihak kartukredit sehingga sy dikenakan keterlambatan sbesar ",
+        "userDefined": false
+      },
+      {
+        "text": "25ribu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di tgl ",
+        "userDefined": false
+      },
+      {
+        "text": "9juni",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "30b7ff15-213f-47a3-a1e0-0e044223f59a",
+    "data": [
+      {
+        "text": "pembayaran berhasil, tetapi masih ada tagihan...mohon di follow up SEGERA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "11c24809-dfd3-46b4-b966-38015fc491f0",
+    "data": [
+      {
+        "text": "Pembayaran sudah di lakukan di hari yang sama dan dana sudah berhasil di debet kerekening ",
+        "userDefined": false
+      },
+      {
+        "text": "BNI",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " TOKOPEDIA tetapi tagihan masih muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8e3c00d3-409f-451c-9805-53ead871cfbf",
+    "data": [
+      {
+        "text": "transaksi berhasil udah dapet email tapi kok tagihannya kok masih ada aja jadi belom bisa di pakai ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "716e8442-a399-4a73-922c-d80211c1217d",
+    "data": [
+      {
+        "text": "mohon info untuk pembayan tagihan ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hsbc, kenapa tagihan masih muncul?untuk jatuh tempo tagihan ",
+        "userDefined": false
+      },
+      {
+        "text": "hari ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " menunggu saran baik selanjutnya, thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bea3861d-9450-4079-ac20-86385a2e9232",
+    "data": [
+      {
+        "text": "Tagihan ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya masih belum berkurang untuk ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Bank Mega saya? kok lama banget ya? saya lakukan pambayaran via toped sejak ",
+        "userDefined": false
+      },
+      {
+        "text": "hari Sabtu lalu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a51f3773-b14e-4e26-8a30-00a32bedb6a1",
+    "data": [
+      {
+        "text": "Tagihan sudah di bayar tapi kenapa masih muncuL ya..? Harusnya Tagihan itu muncuL stLh tgL ",
+        "userDefined": false
+      },
+      {
+        "text": "23",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tiap buLan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "43a98d22-933f-4ddb-a770-50ba771b854d",
+    "data": [
+      {
+        "text": "tgl ",
+        "userDefined": false
+      },
+      {
+        "text": "31",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mei",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sy membayar firstmedia via tokped dan ",
+        "userDefined": false
+      },
+      {
+        "text": "hari ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tgl ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "juni",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sy di tagih katanya sy blm membayar tagihan. suami saya jd ",
+        "userDefined": false
+      },
+      {
+        "text": "marah2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "82d6ddc6-1ff7-45e5-b87e-7cd29883d0fc",
+    "data": [
+      {
+        "text": "Saya masih mendapat tagihan telkom utk bulan ",
+        "userDefined": false
+      },
+      {
+        "text": "Maret",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2018",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sebesar ",
+        "userDefined": false
+      },
+      {
+        "text": "Rp",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". ",
+        "userDefined": false
+      },
+      {
+        "text": "217.416",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Ini tolong dibantu ya, soalnya saya udah bayar melalui tokopedia di tanggal ",
+        "userDefined": false
+      },
+      {
+        "text": "20",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Maret",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5ebca7c4-7973-4673-8ab6-4ee73783c8ff",
+    "data": [
+      {
+        "text": "saya sudah bayar namun tagihan masih muncul. no. referensi sudah diverifikasi oleh petugas call center bpjs namun tidak terdaftar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d8ce8a48-94f6-4caf-a92b-7c682cda8fea",
+    "data": [
+      {
+        "text": "Pembayaran pascabayar matrix ooredoo 08165440321 dengan metode bayar ",
+        "userDefined": false
+      },
+      {
+        "text": "tokocash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". ",
+        "userDefined": false
+      },
+      {
+        "text": "Saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tokocash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " terdebet tapi masih muncul tagihan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5d791372-7ef3-4e7b-b2bf-1747342fba47",
+    "data": [
+      {
+        "text": "Ini kok ",
+        "userDefined": false
+      },
+      {
+        "text": "bln ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mau sya bayarkan malah tagihan ada ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bulan ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ae66fb5f-749e-4e90-85c6-d3302e61114d",
+    "data": [
+      {
+        "text": "Tagihan masih muncul dan jumlah tagihan pihak firstmedia berbeda dengan jumlah tagihan yg muncul di sistem Tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "39ab7734-3d58-40b9-8497-80bf3361f31e",
+    "data": [
+      {
+        "text": "tagihan masih muncul. Biasanya sudah otomatis update saat pembayaran bpjs berhasil. Kok sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "4hari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum update pembayaran bulan ",
+        "userDefined": false
+      },
+      {
+        "text": "juli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c6af54f7-0c71-4509-bbd4-b949113ceed2",
+    "data": [
+      {
+        "text": "saya udah SUKSES bayar tagihan bulan ",
+        "userDefined": false
+      },
+      {
+        "text": "Juni",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi ketika saya coba test mau bayar lagi bulan ",
+        "userDefined": false
+      },
+      {
+        "text": "Juni",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " maka nominal masih muncul seperti kondisi saya belum bayar. Padahal yg benar adalah muncul pesan SUDAH LUNAS.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fcdffb1b-c3a1-4f3c-8e9d-e03cb71bfded",
+    "data": [
+      {
+        "text": "pembayaran sudah berhasul kenapa tagihan masih muncul ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8f0bf8fc-e9bd-4a7a-b656-c2c45eab32bd",
+    "data": [
+      {
+        "text": "tgl ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sdh membayar via Toped tp tagihan masih muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d89f9195-955c-42aa-8b7b-ff2f24faf854",
+    "data": [
+      {
+        "text": "Pembayaran bpjs bulan ",
+        "userDefined": false
+      },
+      {
+        "text": "april",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " berhasil bayar, tapi kenapa waktu bayar bulan ",
+        "userDefined": false
+      },
+      {
+        "text": "mei",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tagihan masih muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3e72f7bd-0607-4abf-aa83-7bcc03699a66",
+    "data": [
+      {
+        "text": "Pembayaran ini tidak tercatat di BPJS yg saya bayarkan, padahal pembayaran sudah berhasil dilakukan namun tagihannya masih muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4d5e952e-de4e-4aff-a104-6531aed91f60",
+    "data": [
+      {
+        "text": "Tagihan sy belum terbayarkan. Saya ingin refund uang sy krn sy harus membayar sendiri tagihan sy ke bank",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0e8ba072-d8a3-4b0d-a733-64589e5800d5",
+    "data": [
+      {
+        "text": "dari telkom tagihan masih muncul sehingga jaringan internet telkom saya ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak bisa digunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d6c8d2e6-5e9f-4c70-9844-fa115197feee",
+    "data": [
+      {
+        "text": "tgl ",
+        "userDefined": false
+      },
+      {
+        "text": "24 mei",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya melakukan pembayaran ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bank mega mll tokopedia. tetapi tagihan saya masih muncul dan dikenakan bunga telat bayar dr pihak mega",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "89a8ae33-f723-4174-a74c-884d92de75ce",
+    "data": [
+      {
+        "text": "Pembayaran sudah dinyatakan berhasil namun tagihan masih muncul di lembaran tagihan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2ccaed9c-b47c-49cc-88d6-26525a4045df",
+    "data": [
+      {
+        "text": "Tagihan xl prioritas masih muncul padahal transaksi pembayaran berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ee211909-285c-4eec-8f87-95e4e9736636",
+    "data": [
+      {
+        "text": "status pembayaran gagal melebihi batas waktu bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2bac8484-f596-424f-af6e-3f3db455e186",
+    "data": [
+      {
+        "text": "tagihan di KK HSBC sy Rp 581.298 itu tagihan apa ya sbab sy liat di transksi sy ga ada senilai itu tolong dijelaskan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7b40065e-7dba-47f1-b071-272bfe02bb40",
+    "data": [
+      {
+        "text": "saya sudah bayar bpjs tp kok masih ada tagihannya ya ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "232014d9-891f-4567-ab54-3e85bad91a67",
+    "data": [
+      {
+        "text": "tgl 19 okt saya melakukan pembayaran listrik PLN melalui tokopedia namun skg dr pihak PLN msh menagih saya krn di sistem PLN blm terbayarkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8a4359e2-d695-45c2-b563-c0bb16513b9e",
+    "data": [
+      {
+        "text": "sudah melunasi tagihan qcash yang pinjam dana 600rb tapi kok di nottif nya tagihan masih ada ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "09067610-175c-4da3-ba0c-e5f2db037bea",
+    "data": [
+      {
+        "text": "saya bayar bpjs bulan november,tapi kok tagihannya masih ada ya? berikut daya cantumkan bukti pembayarannya,cash saya juga blm masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "36979a11-a3d5-4b81-8c4d-dc410b6d75a3",
+    "data": [
+      {
+        "text": "tanggal 2 november saya bayar BPJS Kesehatan, untuk bulan november melalui virtual account Bank BNI, tpi kenapa masih ada tagihan BPJS di bulan november? saldo dari rekening saya juga terpotong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a7ed37b8-6c79-4820-bb93-e541f911ee06",
+    "data": [
+      {
+        "text": "pembayaran listrik saya kenapa gak sesuai ya, saya udah bayar bulan lalu kenapa masih ada tagihannya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "19a9acdb-8fb6-4361-8d09-71b03c770d92",
+    "data": [
+      {
+        "text": "Saya sdh membyr tagihan bpjs, tp msh mendpt peringatan jatuh tempo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cafc51c2-84a6-4bac-9734-f3352d88ffb6",
+    "data": [
+      {
+        "text": "saya di kirimkan tagihan bpjs hari ini.sedangkan tagihan ini suda saya bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "88642d6d-1fac-4835-b8d7-38b1dbf93458",
+    "data": [
+      {
+        "text": "Pembayaran PAM belum ter upadate di kantor PAM sehingga ditagih lagi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "688f2b4b-ef81-4bb8-9005-128f6a27ec7e",
+    "data": [
+      {
+        "text": "pembayaran pdam kab bogor bln okt sukses, tapi saya ditagih lagi dibulan berikutnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "28a11ead-426b-4337-9c2a-c2a246db0aa7",
+    "data": [
+      {
+        "text": "pertanyaan saya kok uda bayar utk nov tp masih ditagih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

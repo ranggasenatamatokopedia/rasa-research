@@ -1,0 +1,48 @@
+{
+  "id": "f5c33d04-9642-4567-8cbb-f0b253037ab2",
+  "parentId": "1bb143be-b7a6-42ff-9709-0dbf47395e7e",
+  "rootParentId": "52ec60f4-3e96-4394-855f-4b7f7c4c5110",
+  "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_halaman_metode_pembayaran_input_id",
+  "auto": false,
+  "contexts": [
+    "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_melebihi_batas_halaman_metode_pembayaran-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_halaman_metode_pembayaran_input_id-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh kasih tahu Toped detail identitas pembayaran yang kamu gunakan? (Contoh: Shelly1210 menggunakan KlikBCA/8912345678 dengan transfer bank)."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau kamu gunakan kartu kredit/debit online/installment (cicilan) sebagai metode pembayarannya, kamu bisa sebutkan 6 digit awal dan 4 digit akhir dari kartu yang digunakan ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523860573,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "input_payment_method"
+    }
+  ]
+}

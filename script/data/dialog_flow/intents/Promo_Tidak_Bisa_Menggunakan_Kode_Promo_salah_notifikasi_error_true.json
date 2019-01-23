@@ -1,0 +1,43 @@
+{
+  "id": "9f5cf456-e3d8-47b2-ac84-3ad3ec5cd9bd",
+  "parentId": "4e4411cb-620f-48ef-88b9-e7af477822b4",
+  "rootParentId": "52ec60f4-3e96-4394-855f-4b7f7c4c5110",
+  "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_salah_notifikasi_error_true",
+  "auto": true,
+  "contexts": [
+    "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_salah-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_salah_notifikasi_error_true-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh kasih tahu Toped, darimana kamu mendapat kode promo ini? Apakah dari Email, SMS, Voucher fisik, atau pada Halama promo Tokopedia?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523603854,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "notif_error_kode_tidak_ditemukan_true"
+    }
+  ]
+}

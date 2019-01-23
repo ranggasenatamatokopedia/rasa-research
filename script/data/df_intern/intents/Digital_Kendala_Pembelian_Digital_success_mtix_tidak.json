@@ -1,0 +1,39 @@
+{
+  "id": "57d88cc8-578a-4bf2-8afe-d209ecb437e4",
+  "parentId": "4e12b790-599b-4ac0-8c08-8d77876e4c55",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_success_mtix_tidak",
+  "auto": true,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_success_mtix-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_success_mtix_tidak-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika ada kendala lain, dengan senang hati Toped akan membantu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533030796,
+  "fallbackIntent": false,
+  "events": []
+}

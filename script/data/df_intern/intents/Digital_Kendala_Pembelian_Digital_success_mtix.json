@@ -1,0 +1,64 @@
+{
+  "id": "4e12b790-599b-4ac0-8c08-8d77876e4c55",
+  "parentId": "799b96e3-c17a-4e48-a28d-2fdef8d34d12",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_success_mtix",
+  "auto": false,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_select_invoice_success-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_success_mtix-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pembayaran saldo M-Tix kamu sudah berhasil pada #digital_m-tixxxi.time_success"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika masih tidak muncul, kamu bisa \u003ci\u003erefresh\u003c/i\u003e halaman M-Tixnya dan juga bisa hubungi Customer Service Mtix di 021-31902121, Email csmtix@21cineplex.co.id"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Apakah saat ini kamu masih mengalami kendala?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Ya",
+              "Tidak"
+            ],
+            "type": 1
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533027543,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "digital_m-tixxxi"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "6fcee064-3bb9-4dd5-92b7-7b47f9792c31",
+  "parentId": "dde8ae2a-9271-4847-a8b2-05c8604fa637",
+  "rootParentId": "bc8f4622-0f27-4009-a4cd-f030fe0388ae",
+  "name": "FAQ_Payment_cara_bayar_virtual_account_maybank",
+  "auto": true,
+  "contexts": [
+    "FAQ_Payment_cara_bayar_virtual_account-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Payment_cara_bayar_virtual_account_maybank-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut langkah - langkah untuk melakukan pembayaran Maybank Virtual Account:\n1. Masukkan kartu ATM Maybank \u0026 PIN.\n2. Pilih Menu Pembayaran/Top Up Pulsa. \n3. Pilih Menu Pembayaran Lainnya. \n4. Pilih E-Commerce. Pilih Tokopedia dari Daftar Transfer. \n5. Masukkan Nomor HP yang terdaftar di akun Tokopedia kamu.\n6. Validasi pembayaran. \n7. Simpan struk transaksi sebagai bukti pembayaran."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534827606,
+  "fallbackIntent": false,
+  "events": []
+}

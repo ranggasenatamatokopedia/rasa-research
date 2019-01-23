@@ -1,0 +1,48 @@
+{
+  "id": "50dd4f70-3c96-4fc5-a9c5-01193ffec242",
+  "parentId": "0b617227-57f6-4a6e-a74c-d5492c2b4e07",
+  "rootParentId": "a7e1b254-86ed-4335-a90a-f9746590e450",
+  "name": "KAI_Kode_Booking_Belum_Diterima_resend_to_registered_email_then_success",
+  "auto": false,
+  "contexts": [
+    "KAI_Kode_Booking_Belum_Diterima_status_success_resend_to_registered_email-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "KAI_Kode_Booking_Belum_Diterima_resend_to_registered_email_then_success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Email transaksi berhasil sudah Toped kirim ke #resend_success.payload. Kamu bisa cek menu kotak masuk, \u003ci\u003espam\u003c/i\u003e, \u003ci\u003ejunk\u003c/i\u003e ataupun folder email."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga info Toped membantu kamu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540365628,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "resend_success"
+    }
+  ]
+}

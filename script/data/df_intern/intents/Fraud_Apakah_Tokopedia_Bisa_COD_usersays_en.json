@@ -1,0 +1,681 @@
+[
+  {
+    "id": "7978149c-7b8f-42a3-b801-bee4d8eb9f16",
+    "data": [
+      {
+        "text": "pembeli datang sendiri ke toko dan sudah mengambil barang pesanan, bagaimana untuk update resi pengiriman?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "db1386bc-4249-4b90-b7ae-10d36663881f",
+    "data": [
+      {
+        "text": "tolong dibantu untuk merubah pengirimannya menjadi COD ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "79932a8b-91f9-48e9-b71d-a9ec68ff901c",
+    "data": [
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " minta COD",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5526012e-a23a-4360-a785-d28aee22eb95",
+    "data": [
+      {
+        "text": "tokopedia mendukung COD tidak ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "43de348b-c285-4971-8703-ef32a38cd427",
+    "data": [
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " maunya COD aja ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ada6a8c3-1515-4f17-96de-bb5afe31583e",
+    "data": [
+      {
+        "text": "bagaimana sistem COD di Tokopedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3a08374a-b61f-4c3c-ab3b-ca73d7c488e6",
+    "data": [
+      {
+        "text": "saya mau ubah kurir ke COD saja apakah bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "53ca317a-b40d-4400-be5c-9e4344018cae",
+    "data": [
+      {
+        "text": "di tokopedia bisa ketemuan langsung alias cod nggak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6e6b0867-2298-4098-ac39-861e24ecdc5f",
+    "data": [
+      {
+        "text": "tolong diubah kurirnya saya mau COD",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6a5ea778-9067-492e-8b5a-7dacd23406fa",
+    "data": [
+      {
+        "text": "saya mau kirim barang langsung, sistem COD gitu ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ae731a4e-9342-44d5-ba28-8bcea53019f7",
+    "data": [
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tetap mau COD, resikonya apa",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fd5d8ff4-f9c8-4a11-b4ed-c1c997692fb1",
+    "data": [
+      {
+        "text": "boleh COD nggak ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "34896692-de12-499c-9713-9bf148ffd740",
+    "data": [
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bilang mau COD saja, apakah bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ff40f40f-f27a-42c2-9a84-db795f604dff",
+    "data": [
+      {
+        "text": "saya dan ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sepakat untuk COD, apakah bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a3273728-f9be-4242-b331-a075776b35bb",
+    "data": [
+      {
+        "text": "saya ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mau melakukan transaksi via cod, bagaimana mekanismenya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "07e7b01c-a16f-450d-917e-ee168059035e",
+    "data": [
+      {
+        "text": "rumah saya dan ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " deket kok, saya jalan kaki aja ya ambil barangnya (COD)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ec61f014-aca7-4a21-88b7-1e05856a98c3",
+    "data": [
+      {
+        "text": "rumah saya dan ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " deket kok, saya COD aja ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f6c6c644-3be2-4894-812a-18a48af05e69",
+    "data": [
+      {
+        "text": "boleh kirim COD?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "31dc81b4-6377-4a61-99b7-4e1ae9c04931",
+    "data": [
+      {
+        "text": "Transaksi langsung COD, bagaimana pengisian kode pengirimannya ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7b086f9e-fc19-4805-970c-3b1cd5dc9764",
+    "data": [
+      {
+        "text": "COD aja lah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "548faf19-a820-41d8-b8e3-8c5179420bb3",
+    "data": [
+      {
+        "text": "saya mau kirim pake sistem cash on delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d8e09471-b432-46fb-9804-696e32675bcd",
+    "data": [
+      {
+        "text": "saya mau COD ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", apa yang harus saya lakukan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "806be53c-90a8-4228-8b5b-a820cc267d2f",
+    "data": [
+      {
+        "text": "kirim barangnya diganti aja jadi COD ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c61201f0-95f3-40c0-8f10-c82ae5e296b8",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya dan ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mau CODan aja biar cepet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5bfd252f-1f7a-4fef-8ca2-6c0a3dee94f8",
+    "data": [
+      {
+        "text": "tolong dibantu langkah langkah COD ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "68d907d6-3904-4f7e-9812-5128b8e5eb38",
+    "data": [
+      {
+        "text": "apakah dari tokopedia memfasilitasi proses COD?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f7580484-c493-4c55-9cfe-6c28b1917439",
+    "data": [
+      {
+        "text": "apakah COD diperbolehkan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "065a8b16-bf1a-4898-8475-5e7ae3d6ac63",
+    "data": [
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " maunya kirim COD ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", bisa nggak ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "133cbbdc-e360-486c-9a8a-26d299f29a51",
+    "data": [
+      {
+        "text": "pengiriman barangnya bisa via COD nggak ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e604ea71-dae7-47d9-85f4-869b7ddef500",
+    "data": [
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sudah setuju kirim barang lansgung atau proses COD",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9ffff14a-dd22-45e5-b2e3-469ffe95d8f6",
+    "data": [
+      {
+        "text": "kalau saya mau COD resikonya apa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "811f2185-2e8b-41e2-a762-0915e5e3648d",
+    "data": [
+      {
+        "text": "karena rumah deket saya mau COD aja bisa nggak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c51e9e93-b04d-4832-986c-0c9e20b6cb79",
+    "data": [
+      {
+        "text": "saya mau COD aja ah, pakai kurir lama, kebetulan saya dan ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tetangga.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f94aa8f6-9f80-490f-b121-e6121f965a2b",
+    "data": [
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mau ketemu saya langsung bisa nggak ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b0a25d16-e450-474c-b2ef-052950be3f50",
+    "data": [
+      {
+        "text": "Apakah pengambilan barang bisa COD ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7d7c2e6b-0a7a-42eb-b6ff-b3b03b3638c9",
+    "data": [
+      {
+        "text": "kalau dikirim pake kurir lama, saya pmau pilih COD aja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "daa4f0d9-c450-417f-8810-84715c6ddc33",
+    "data": [
+      {
+        "text": "saya sudah kasih barnag via COD, bagaimana pengisian resi nya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5b3d2ac3-e08e-4baf-a377-5b169bf580e0",
+    "data": [
+      {
+        "text": "saya mau ambil sendiri barang nya ke ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", bisa nggak ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "caa5639e-3fe7-43df-9a6e-431bbb9a88e5",
+    "data": [
+      {
+        "text": "apakah tokopedia memfasilitasi cod ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "77bc04f2-093b-4ff9-b6cf-3d77262f9487",
+    "data": [
+      {
+        "text": "kalo pake sistem COD gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4cb9d972-1faf-4b46-a984-104bbcb4a668",
+    "data": [
+      {
+        "text": "tolong bantu ganti kurir, say mau cod saja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5fe57383-cdd4-4e85-a629-8ef51008daf2",
+    "data": [
+      {
+        "text": "buyer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " minta COD",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7bf7323a-e18a-48d9-8a6d-a8eefa5e031b",
+    "data": [
+      {
+        "text": "saya mau COD dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eb1217b3-4d94-4e64-b6d3-17e07a0c1160",
+    "data": [
+      {
+        "text": "saya mau COD bisa nggak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8396c699-313e-48ed-8f73-fbf9749f6288",
+    "data": [
+      {
+        "text": "pembeli datang sendiri ke toko dan sudah mengambil barang pesanan, bagaimana untuk update resi pengiriman? no transaksi : INVIDTAG",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "86f467d6-0a33-4a84-8ae6-34f1f8f2a1c7",
+    "data": [
+      {
+        "text": "slamat siang, saya mau tanya kalo saya mau ambil barangnya (tidak dikirim pke kurir) gmn ya caranya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

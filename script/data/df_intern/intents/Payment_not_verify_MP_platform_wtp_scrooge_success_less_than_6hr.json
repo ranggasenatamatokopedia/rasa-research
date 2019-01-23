@@ -1,0 +1,43 @@
+{
+  "id": "1c48a503-ebcc-4381-8172-d928a7cba049",
+  "parentId": "b314a3f6-c0a9-48fa-a3d2-a42d06a02868",
+  "rootParentId": "7702a921-0bc2-479f-9cd3-aade8103768a",
+  "name": "Payment_not_verify_MP_platform_wtp_scrooge_success_less_than_6hr",
+  "auto": true,
+  "contexts": [
+    "Payment_not_verify_MP_platform_wtp_scrooge_success-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DoResyncPayment",
+      "affectedContexts": [
+        {
+          "name": "Payment_not_verify_MP_platform_wtp_scrooge_success_less_than_6hr-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped akan bantu coba verifikasi pembayaran Kakak ya. Mohon menunggu sebentar."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531382292,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "less_than_6hr"
+    }
+  ]
+}

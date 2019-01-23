@@ -1,0 +1,31 @@
+{
+  "id": "d3d82a70-266c-4266-874a-743531801a44",
+  "name": "FAQ_PROMO_Saya_pakai_kode_promo_tapi_pesanan_saya_hanya_terkirim_sebagian_apakah_saya_tetap_menerima",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Cashback akan diberikan ke OVO Points kamu ketika transaksi sudah berhasil dan sesuai dengan Syarat dan Ketentuan. Nominal cashback akan dihitung sesuai dengan nominal pesanan yang berhasil.\n\nJadi walaupun salah satu transaksi kamu gagal (karena ditolak penjual atau terdapat pengembalian dana sebagian dari pusat resolusi), kamu akan tetap menerima cashback dari transaksi lain yang berhasil."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_promo_saya_pakai_kode_promo_tapi_pesanan_saya_hanya_terkirim_sebagian_apakah_saya_tetap_menerima"
+    }
+  ]
+}

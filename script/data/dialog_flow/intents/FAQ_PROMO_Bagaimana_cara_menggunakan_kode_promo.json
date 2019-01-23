@@ -1,0 +1,31 @@
+{
+  "id": "a38890c2-2a22-4daf-9620-aa771c950344",
+  "name": "FAQ_PROMO_Bagaimana_cara_menggunakan_kode_promo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah kamu pilih barang yang diinginkan dan melengkapi alamat pengiriman, kamu bisa langsung mengisi kode promo dan melihat potensi cashback yang akan diterima. \r\n\r\nKemudian kamu bisa klik \"Gunakan Kode Promo atau Kupon\" pada bagian bawah detail pesanan sebelum memilih metode pembayaran ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_promo_bagaimana_cara_menggunakan_kode_promo"
+    }
+  ]
+}

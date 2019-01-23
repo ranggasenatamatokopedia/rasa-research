@@ -1,0 +1,61 @@
+{
+  "id": "a22e5337-cbc1-420a-81e3-f78360eb89ac",
+  "parentId": "4f733348-5682-4d51-aec4-35fb84696e58",
+  "rootParentId": "3b15cc03-402c-40c1-9882-3fff37020fad",
+  "name": "Payment_pengembalian_limit_tdk_sesuai_select_inv_is_cc_one_invoice_else_status",
+  "auto": true,
+  "contexts": [
+    "Payment_pengembalian_limit_tdk_sesuai_select_inv_is_cc_one_invoice-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Payment_pengembalian_limit_tdk_sesuai_select_inv_is_cc_one_invoice_else_status-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kak, Toped cek transaksi ini masih belum dibatalkan ya sehingga transaksi nya masih dalam proses."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531727599,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_barang_diganti"
+    },
+    {
+      "name": "invoice_pembayaran_diterima"
+    },
+    {
+      "name": "invoice_sedang_diproses_penjual"
+    },
+    {
+      "name": "invoice_sedang_dikirim"
+    },
+    {
+      "name": "invoice_pesanan_sampai"
+    },
+    {
+      "name": "invoice_pesanan_dikomplain"
+    },
+    {
+      "name": "invoice_menunggu_status_kurir"
+    }
+  ]
+}

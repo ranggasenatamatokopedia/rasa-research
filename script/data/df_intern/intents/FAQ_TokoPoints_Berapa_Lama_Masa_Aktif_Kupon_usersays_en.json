@@ -1,0 +1,332 @@
+[
+  {
+    "id": "47cba22d-3d5b-4989-b4f7-06a9e5bf2979",
+    "data": [
+      {
+        "text": "kupon ini bisa dipake sampe tanggal brapa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eaa17c55-6df4-4498-830c-3db8c2cf5cc0",
+    "data": [
+      {
+        "text": "kupon ini kadaluwarsanya sampai kapan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "42b04e53-c21e-47d9-97c1-3a22eaf74433",
+    "data": [
+      {
+        "text": "masa aktif kupon berapa hari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b2f31cba-ba54-42c2-80c1-87d604f28371",
+    "data": [
+      {
+        "text": "kupon saya bisa dipake berapa hari?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "72fef2a4-fa97-429c-9c08-1a5c4bddb771",
+    "data": [
+      {
+        "text": "berapa lama masa aktif kupon ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "999503c6-efff-4cf9-bbf6-9ebafee14b04",
+    "data": [
+      {
+        "text": "kupon ini bisa dipakai sampai tanggal berapa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "99572ae5-b2f9-4a8e-a127-2f9d0393dc20",
+    "data": [
+      {
+        "text": "kupon saya hangus kapan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7a6794e6-2378-4170-a180-bc727c0e42c8",
+    "data": [
+      {
+        "text": "kupon saya expired kapan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "21176b1f-587c-42af-abd6-67c62a399160",
+    "data": [
+      {
+        "text": "kupon saya expired tanggal berapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "08308f3a-eddb-457e-8ab2-5265a9173166",
+    "data": [
+      {
+        "text": "kapan masa aktif kupon saya habis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d0ebae56-2178-4c31-8826-0fc208f03a65",
+    "data": [
+      {
+        "text": "kapan kupon saya hangus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "930cdf8f-cf4b-4182-8102-39bb12eb99ab",
+    "data": [
+      {
+        "text": "masa aktif kupon ini sampe kapan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2131d22f-8252-4012-b86b-5384bbe5b091",
+    "data": [
+      {
+        "text": "kupon saya kapan exp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "58309931-3d0b-4f1e-8683-420a4ecd12f0",
+    "data": [
+      {
+        "text": "kapan expired kupon ini?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "20d21981-6796-44db-a4b4-c534d0f0995b",
+    "data": [
+      {
+        "text": "kupon saya bisa dipakai sampai kapan ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9653dd8c-720e-412b-8e32-c5c2f1ca0cc3",
+    "data": [
+      {
+        "text": "kupon ini bisa dipakai sampai kapan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "40b6d74c-07b8-4c0f-a870-a3c1a2f91c3d",
+    "data": [
+      {
+        "text": "kupon ongkir expired nya berapa hari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0b399eb0-5037-408a-af08-51cdb427cc32",
+    "data": [
+      {
+        "text": "kapan kupon saya expired",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "be0e475a-02a5-4d9a-ae4f-b814cb52ea80",
+    "data": [
+      {
+        "text": "kupon ini expired nya kapan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b1359077-d632-44f8-a648-6a0a4aed6e53",
+    "data": [
+      {
+        "text": "kupon saya expired nya kapan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "483205e6-64cd-44a4-9ee7-a44be95f379a",
+    "data": [
+      {
+        "text": "kupon ini bisa digunakan sampe kapan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f76c0b27-b0a2-4573-b171-336f39f0ceaa",
+    "data": [
+      {
+        "text": "kapan waktu penggunaan kupon ini berakhir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cd2d301f-f571-4e65-a843-d2f6126769ff",
+    "data": [
+      {
+        "text": "kupon ku kapan kadaluwarsa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "50b16a33-c9e3-459c-baf6-c674464ffa28",
+    "data": [
+      {
+        "text": "berapa lama masa aktif kupon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9cc62476-5ec0-4135-a9a7-e18573aea7ef",
+    "data": [
+      {
+        "text": "kupon saya bisa dipake sampe kapan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a3e026bc-09fd-4b96-9f19-159f3b1b3f6e",
+    "data": [
+      {
+        "text": "saya bisa gunakan kupon ini sampe tanggal berapa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "beda75fb-08e4-49b5-a31d-d0ac84f79ae1",
+    "data": [
+      {
+        "text": "kapan expied kupon ini?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e17a5763-0a59-4c62-969c-42899d03d255",
+    "data": [
+      {
+        "text": "tanggal expired kupon ini kapan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1520a99d-b010-4e20-99eb-79ad4d9e9730",
+    "data": [
+      {
+        "text": "kupon saya masa aktifnya sampai kapan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d83f8997-b162-4574-a6c3-4d32fd4fb21c",
+    "data": [
+      {
+        "text": "voucher gratis ongkir 25rb untuk kurir jne gak bisa lagi ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

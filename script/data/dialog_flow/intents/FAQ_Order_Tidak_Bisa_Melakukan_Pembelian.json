@@ -1,0 +1,53 @@
+{
+  "id": "961fca1c-f114-40f1-8527-593b61fc45bf",
+  "name": "FAQ_Order_Tidak_Bisa_Melakukan_Pembelian",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Order_Tidak_Bisa_Melakukan_Pembelian-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kasih tahu Toped dulu ya kendala apa yang kamu alami:"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa pilih salah satu dari pilihan ini, ya."
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "button_actions": [
+              {
+                "message": "Kendala pada sistem jaringan (terjadi kesalahan server)"
+              },
+              {
+                "message": "Tidak terdapat tombol beli"
+              }
+            ],
+            "type": 2
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

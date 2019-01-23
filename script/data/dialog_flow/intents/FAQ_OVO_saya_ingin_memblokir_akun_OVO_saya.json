@@ -1,0 +1,31 @@
+{
+  "id": "11c0d6d5-65aa-4083-a48c-3d8dd39e5f8d",
+  "name": "FAQ_OVO_saya_ingin_memblokir_akun_OVO_saya",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika Kamu ingin memblokir akun OVO Kamu, silakan Kamu hubungi Call Center OVO di 1 500 696 (Senin-Minggu, 07.00-23.00 WIB) atau email ke cs@ovo.id. Tim OVO akan segera membantu Kamu."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_ovo_saya_ingin_memblokir_akun_ovo_saya"
+    }
+  ]
+}

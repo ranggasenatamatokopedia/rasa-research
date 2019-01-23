@@ -1,0 +1,52 @@
+{
+  "id": "101588ba-2d2d-48e9-8280-505259196ed3",
+  "parentId": "552224e0-b377-4138-b1ad-3c45be0c7557",
+  "rootParentId": "3a53428c-92bf-45c6-b647-80dd03d60014",
+  "name": "Apps_Kendala_Aplikasi_Aplikasi_Terhenti_Sudah_Create_Ticket",
+  "auto": true,
+  "contexts": [
+    "Apps_Kendala_Aplikasi_Aplikasi_Terhenti_Sudah-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Apps_Kendala_Aplikasi_Aplikasi_Terhenti_Sudah_Create_Ticket-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a608ad09-ac3d-4b8e-9269-60259641afae",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1528",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Terkait kendala kamu akan Toped bantu buatkan tiket layanan pengguna terlebih dahulu, ya. Mohon tunggu sebentar :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1545979909,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "9d02b14c-2bce-42f1-9638-0f5adf03d61e",
+  "parentId": "1a807b46-0b99-4b2c-b48c-ff2df9481fc9",
+  "rootParentId": "90b4ed65-34d8-4fd4-a8f8-c87e563d6528",
+  "name": "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_cashback_rejected_partial",
+  "auto": false,
+  "contexts": [
+    "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_cashback-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_cashback_rejected_partial-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "kak, setelah kami cek, ini transaksinya dalam 1 pembayaran ada yg di batalkan sama penjual"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "sesuai dengan S\u0026K kak, Kupon nya terhitung sudah digunakan, untuk cashback yang kamu terima, dihitung secara pro-rate untuk transaksi kamu yang sukses ya kak"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "tapi maaf, untuk pesanan yang dibatalkan, nominal pro-rate cashbacknya, tidak bisa dikembalikan ke kamu :("
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523508256,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "order_reject_partial"
+    }
+  ]
+}

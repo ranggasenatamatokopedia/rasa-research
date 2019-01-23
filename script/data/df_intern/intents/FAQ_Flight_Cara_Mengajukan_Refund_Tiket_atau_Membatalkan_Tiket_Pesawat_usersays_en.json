@@ -1,0 +1,1004 @@
+[
+  {
+    "id": "b97e8489-1123-4dd9-848e-d84e182c7f88",
+    "data": [
+      {
+        "text": "utk batalin tiket pesawat ada biaya pembatalannya gak ya min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "10aadd39-f048-4660-bacd-7992fffcb858",
+    "data": [
+      {
+        "text": "min, tlg infokan berapa biaya jika ingin batalin tiket pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "82b5868a-b046-4609-9279-64d34ca578b4",
+    "data": [
+      {
+        "text": "saya mau ngebatalin tiket pesawat ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gmn utk biaya pembatalannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "04e4cc41-a184-47f8-853a-7240d5980754",
+    "data": [
+      {
+        "text": "min, berapa biaya pembatalan tiket pesawat jika saya mengajukan refund?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "551f590d-9330-4b8d-8060-0d038dfb0209",
+    "data": [
+      {
+        "text": "tiket pesawat saya ingin dibatalkan, saya mau tnya berapa kah biaya pembatalannya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2
+  },
+  {
+    "id": "82ee5390-0ef9-44b9-9201-0a172b259c65",
+    "data": [
+      {
+        "text": "apakah ada biaya pembatalan apabila melakukan pembatalan tiket penerbangan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c19264f6-ab82-4305-8ad1-7a3cf7333e77",
+    "data": [
+      {
+        "text": "tiket pesawat kalo dibatalin ada biaya nya? berapa min biayanya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "60c8e0b3-0d5e-4a25-9481-3020560a4a27",
+    "data": [
+      {
+        "text": "saya mau batalin tiket pesawat, berapa biaya pembatalan tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cb845b94-fee2-40b8-8568-4b07f962a16a",
+    "data": [
+      {
+        "text": "Saya ingin membatalkan penerbangan ini karena terkendala masalah pekerjaan sehingga saya tidak bisa terbang pada hari tersebut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b506d637-6d73-4ff3-a289-8846f726feed",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", cara batalin tiket pesawat gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "59610167-60df-477a-8edf-943b95b16262",
+    "data": [
+      {
+        "text": "cara refund tiket psawat gmn ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "969b1c5f-8835-4b15-9802-d18930ba9800",
+    "data": [
+      {
+        "text": "saya ingin membatalkan tiket pesawat, bagaimana caranya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "13124fc5-1546-4f79-8f6a-0192d79e64f2",
+    "data": [
+      {
+        "text": "ajukan cara refund tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "38f127ca-aeee-4bb9-bf09-893391135305",
+    "data": [
+      {
+        "text": "ajukan cara pengembalian tiket penerbangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "12e8e409-0fbd-4bc4-9bc9-3a697c3fd2ee",
+    "data": [
+      {
+        "text": "cara pengajuan pengembalian dana utk tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "11fe2454-348a-4764-91da-8958fcbeddb5",
+    "data": [
+      {
+        "text": "Penerbangan dibatalkan karena ada gangguan alam erupsi gunung merapi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e3b25271-b036-4135-8e95-2c5892e90dbc",
+    "data": [
+      {
+        "text": "cara refund pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e855a5bb-4727-47d0-b004-b1c23a96daa1",
+    "data": [
+      {
+        "text": "pengemabalian dana dr tiket pesawat saya gimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2a20f493-2fd8-4fa3-8e3e-46b18c69d221",
+    "data": [
+      {
+        "text": "Saya ingin membatalkan ticket pesawat saya yang Lion Air ",
+        "userDefined": false
+      },
+      {
+        "text": "5 Juni 2018",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " @",
+        "userDefined": false
+      },
+      {
+        "text": "18",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ":",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " CGK-Solo. Hanya yang CGK-Solo saja karena ada keperluan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a48f2743-6816-4fee-b8a1-580ef3b44ae1",
+    "data": [
+      {
+        "text": "JOG-KOE \n AHMADIN GUNAWAN\n BATAL BERANGKAT ADA KEPELUAN LAIN\n mhon segera di proses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "024bb1d5-367a-4430-b845-34c63245eb14",
+    "data": [
+      {
+        "text": "informasikan cara mengajukan pengembalian tiket penerbangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8d65ba23-1b1e-4e94-a8d5-ff8c3d8c8ffd",
+    "data": [
+      {
+        "text": "cara mengajukan pengembalian dana tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a7ddb975-431b-445a-af40-1a3a889e2b0a",
+    "data": [
+      {
+        "text": "selamat ",
+        "userDefined": false
+      },
+      {
+        "text": "pagi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", mhon informasi mengenai proses pembatalan tiket penerbangan saya.....",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5a2777bb-5f4a-45ca-af5f-0f89b66d30ea",
+    "data": [
+      {
+        "text": "Saya sudah melakukan pembatalan tiket pesawat maskapai lion pada ",
+        "userDefined": false
+      },
+      {
+        "text": "hari ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". menurut pihak maskapai, tokopedia yang harus memproses, dan dananya akan di kembalikan ke tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0f3aa953-f52a-41c2-8280-92ee714566d0",
+    "data": [
+      {
+        "text": "saya ingin tahu cara untuk membatalkan tiket pesawat di Tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1204cec9-82f9-4cdf-81ef-733716dfc603",
+    "data": [
+      {
+        "text": "caranya utk mengajukan refund tiket penerbangan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e509abb9-04bd-4855-b330-02e9ba642a13",
+    "data": [
+      {
+        "text": "ajukan refund utk tiket pesawat bagaimana caranya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a9e7ca36-847f-4edc-b812-aeec76d0ebdb",
+    "data": [
+      {
+        "text": "cara mengajukan pengembalian dana utk tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "27d73409-2789-4e1a-8d47-5627e7585773",
+    "data": [
+      {
+        "text": "cara mengajukan pengembalian dana tiket penerbangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "54ce66d5-dc4e-41f1-85dc-a37fe22215d9",
+    "data": [
+      {
+        "text": "cara refund tiket penerbangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c041e6b7-01eb-4635-a52c-c6a70f3f4460",
+    "data": [
+      {
+        "text": "gimana cara membatalkan tiket pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d5fde7fc-ee14-444a-bde2-cb93e15c308a",
+    "data": [
+      {
+        "text": "bisakah saya membatalkan tiket tujuan padang-medan dengan booking no : NJFBWR.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "50aeff2b-e20e-4f94-abf1-95b17b9b81ea",
+    "data": [
+      {
+        "text": "saya ingin membatalkan tiket penerbangan saya ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " maskapai garuda dengan kode booking ",
+        "userDefined": false
+      },
+      {
+        "text": "TGXZG8",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "42535baa-ace6-4097-bd55-57429a3611c0",
+    "data": [
+      {
+        "text": "Saya ingin membatalkan tiket CGK-BDJ a/n Frezia Revanely dengan no booking ",
+        "userDefined": false
+      },
+      {
+        "text": "LJNW3G",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", dikarenakan tidak jadi kembali ke Banjarmasin pada tanggal tersebut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6f65809f-b5cb-4eb4-9ffa-d755100eab2a",
+    "data": [
+      {
+        "text": "pengembalian dana dr tiket pesawat saya gimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "92fc0a0d-cba2-49ac-afff-36b513602784",
+    "data": [
+      {
+        "text": "ajukan refund tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "647944d3-dbe2-46b8-8aec-3c99b0dda453",
+    "data": [
+      {
+        "text": "cara pengembalian dana utk tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2ea598a4-fe38-4491-b7eb-69455de5eda1",
+    "data": [
+      {
+        "text": "gimana caranya refund tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e3f2000f-3374-4f15-8df9-b211755673b1",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", mohon informasikan gimana cara refund tiket pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0ba7a0d4-c4d3-4487-8807-f5a13e154645",
+    "data": [
+      {
+        "text": "pengembalian dana dr tiket pesawat gimana caranya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cedb5043-7799-4758-8d78-111b2ba1c21b",
+    "data": [
+      {
+        "text": "permintaan tiket pesawat dibatalkan karena ada urusan mendadak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "13da055a-adad-4b34-b402-24015ef41525",
+    "data": [
+      {
+        "text": "Saya membatalkan penerbangan, dikarenakan bapak saya sakit dan harus kembali dirawat di RS. Mohon maaf untuk Tokopedia dan citilink.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "674128dc-f3af-409a-9a33-3a25e9fc49b7",
+    "data": [
+      {
+        "text": "cara mengajukan refund utk tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b526048a-89eb-41f0-babb-65e3bdd84764",
+    "data": [
+      {
+        "text": "cara ajukan refund tiket pesawattt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "108ef16f-3b34-4d89-b879-a260731fbf55",
+    "data": [
+      {
+        "text": "Saya Ingin membatalkan penerbangan karna ada urusan mendadak.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4dba24ab-2751-490e-90e1-cd141f15d0a8",
+    "data": [
+      {
+        "text": "ajukan cara pengembalian dana utk tiket penerbangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b286965d-ae5c-470c-977e-b1ac87669c95",
+    "data": [
+      {
+        "text": "saya mau mengajukan refund tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6fa09f6a-7702-4d46-837b-f2501ce4cf32",
+    "data": [
+      {
+        "text": "saya mau membatalkan tiket dengan kode booking diatas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b0a87865-30f5-4c5a-97ba-3befd81062a6",
+    "data": [
+      {
+        "text": "gmn caranya sih refund tiket penerbangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "450376e8-c0b9-4553-964e-7bf9ce8e769a",
+    "data": [
+      {
+        "text": "Selamat ",
+        "userDefined": false
+      },
+      {
+        "text": "siang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", mohon maaf tiket pesawat perlu dibatalkan karena ada perubahan rencana lebaran.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4eb344d5-60a1-441f-bc62-40c61d1a7fc0",
+    "data": [
+      {
+        "text": "cara refund tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b02186ca-61fb-4493-89a6-94ab4252f8fd",
+    "data": [
+      {
+        "text": "ajukan pengembalian tiket penerbangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b42c78e5-fd47-4a08-bfb5-d0dd4e475865",
+    "data": [
+      {
+        "text": "refund tiket penerbangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ab233cea-19c7-4677-bc1a-dde106b1df25",
+    "data": [
+      {
+        "text": "cara ajukan refund tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "089b2c7b-1866-4015-9449-8d880df5835f",
+    "data": [
+      {
+        "text": "cara refund tiket pesawat gmn yaaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "97823b57-79d8-4eec-8c0c-85aa9254bcef",
+    "data": [
+      {
+        "text": "saya mau tnya gimana kalo ajuin refund tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c9b0027f-1ba3-4c02-b1d1-3724b47f5ac9",
+    "data": [
+      {
+        "text": "cara mengaajukan pengembalian dana utk tiket penrbangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b5430111-0fcc-41f3-b20f-84dd3c9efdd6",
+    "data": [
+      {
+        "text": "Bagaimana caranya membatalkan tiket pesawat yang sudah saya beli?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "905e725d-67a9-473b-8eaf-3f41532a5b34",
+    "data": [
+      {
+        "text": "saya mau tanya gimana kalo ajuin pengembalian tiket penerbangan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4bbde356-ce89-4c93-a68e-e38471abd9a0",
+    "data": [
+      {
+        "text": "bagaimana cara mengajukan refund tiket pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6ad6b7a4-af1b-418a-8c63-dab88bc3acff",
+    "data": [
+      {
+        "text": "cara nya gimana utk refund pengembalian dana utk tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "15bd9daa-ad35-470a-aa92-cd48273f2490",
+    "data": [
+      {
+        "text": "cara ajukan refund utk tiket penerbangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d2290b96-254b-4f0b-b1b3-2a717c7b2173",
+    "data": [
+      {
+        "text": "infokan cara ajukan refund tiket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3aaa16d6-33c5-4c10-a483-e83b16e0b042",
+    "data": [
+      {
+        "text": "cara mengajukan refund tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "885b5858-2ade-4851-b36e-ae716c6ff09f",
+    "data": [
+      {
+        "text": "refund  tiket pesawat caranya gimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "97a92ca3-723a-461f-9820-e353ffad0b80",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tlg informasikan cara refund tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eca8c7d2-775c-4635-a110-3bd11b4260bf",
+    "data": [
+      {
+        "text": "ajukan cara pengembalian dana tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3a07d1a9-b295-4f99-b39a-6d8887e03984",
+    "data": [
+      {
+        "text": "cara mengajukan refund utk tiket penerbangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c61ab02d-a7fa-4635-8050-9501f3e5f073",
+    "data": [
+      {
+        "text": "Selamat ",
+        "userDefined": false
+      },
+      {
+        "text": "pagi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya ingin mengajukan pembatalan tiket penerbangan garuda dengan no invoice ",
+        "userDefined": false
+      },
+      {
+        "text": "ID",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "P9J-DDP3G-08WH",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Berikut saya lampirkan attachment KTP nasabah. Mohon bantuan untuk prosesnya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "be2cccdc-c952-4a4d-a803-96d869993455",
+    "data": [
+      {
+        "text": "bagaimana cara membatalkan tiket sriwijaya air? sy melihat ada tombol batalkan di tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9bf25592-d687-4062-92b3-945c074267e2",
+    "data": [
+      {
+        "text": "informasikan cara mengajukan pengembalian tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a87fa1cd-3593-4a73-bc47-e0d568843b95",
+    "data": [
+      {
+        "text": "saya mau batalkan tiket itu ktny sesuai syarat n ketentuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9bf11e81-3cfc-4c7b-a683-12963efb7034",
+    "data": [
+      {
+        "text": "sy salah klik untuk pemberangkatan besok Seharusnya untuk pemberangkatan hari ini. Apakah tiket sy tersebut msh bisa di batalkan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ffc5ce1a-23a6-4502-bad9-714a91bdd958",
+    "data": [
+      {
+        "text": "refund tiket pesawat kode booking MWR2J4",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c83fd641-f91a-46ed-b097-a8548a30b8f3",
+    "data": [
+      {
+        "text": "saya ingin refund tiket pesawat. bagaimana caranya??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a09abf56-4ce4-40d5-bdc9-a733bd33f49e",
+    "data": [
+      {
+        "text": "berapa lama proses pembatalan tiket pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8430ead5-b7dc-495a-9d34-675c3c81554f",
+    "data": [
+      {
+        "text": "Saya mau refund tiket pesawat yg naik lion dan batik air tgl 16/11, 17/11 dan tgl 20/11itu gmna yah prosesnya? pengembaliannya bagaimna?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b757b4e0-d0dc-43a3-8656-097324e950ce",
+    "data": [
+      {
+        "text": "\u0027saya perlu telp ke maskapai utk cancel tiket? saya.mau.cancel tiket pesawat. gimana caranya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "758ad5b2-832f-436d-b61e-64a770190c0d",
+    "data": [
+      {
+        "text": "Hi,Maskapai Lion Air bisa di refund kah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

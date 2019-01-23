@@ -1,0 +1,93 @@
+[
+  {
+    "id": "af951865-e7ba-47ec-bbec-ccb1eaae98ae",
+    "data": [
+      {
+        "text": "mohon blokir akun ovo saya soalnya hp hilang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c3fcacdf-5eb9-4b98-a0fc-39fcdddfc20b",
+    "data": [
+      {
+        "text": "hp saya hilang jadi saya mau blokir akun ovo saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3dc7c62f-22e5-44f4-9698-6654bc25bb1d",
+    "data": [
+      {
+        "text": "saya ingin memblokir akun ovo saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "04bffb4b-544b-45e2-a2cf-be5155067323",
+    "data": [
+      {
+        "text": "blokir akun ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "676ff452-b36c-4e81-af87-c766c5360b01",
+    "data": [
+      {
+        "text": "cara blokir akun ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4fc8dfc3-46ed-4d32-8deb-9fb1fb3f9d20",
+    "data": [
+      {
+        "text": "tolong blokir akun ovo saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bc4b317b-15f2-4524-8a58-07f562f058a3",
+    "data": [
+      {
+        "text": "tolong blokirin ovo saya dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

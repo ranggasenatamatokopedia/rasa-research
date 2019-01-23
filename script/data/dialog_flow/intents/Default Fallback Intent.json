@@ -1,0 +1,55 @@
+{
+  "id": "f7362377-a571-4fa6-95f2-0f9a0b97c915",
+  "name": "Default Fallback Intent",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Cara refund",
+              "Cara pakai kode promo",
+              "Barang saya belum sampai"
+            ],
+            "type": 1
+          }
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": [
+            "Untuk pertanyaan tersebut, informasi lengkapnya bisa kamu tanya langsung ke !TKPD_URL_CONTACTUS_SUBMIT! Tokopedia ya :)",
+            "Yuk tanya ke !TKPD_URL_CONTACTUS_SUBMIT! Tokopedia untuk informasi selengkapnya yang ingin kamu ketahui :)",
+            "Hai Toppers, untuk pertanyaan tersebut kamu bisa tanya langsung ke !TKPD_URL_CONTACTUS_SUBMIT! Tokopedia agar mendapatkan informasi lebih lengkap"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped bisa kasih tahu kamu informasi seputar Tokopedia yang kamu butuhkan, lho :)"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521799608,
+  "fallbackIntent": true,
+  "events": [
+    {
+      "name": "default_fallback_intent"
+    }
+  ]
+}

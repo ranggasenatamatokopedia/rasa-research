@@ -1,0 +1,48 @@
+{
+  "id": "c6bcbc7f-bd14-4ef2-a290-10e9e9308558",
+  "parentId": "372dc99f-48d4-4f4a-a8d2-feaa30ac2a92",
+  "rootParentId": "debdb44e-b23a-4c52-8626-59514944fd55",
+  "name": "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Buyer_driver_found",
+  "auto": true,
+  "contexts": [
+    "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Buyer_Shipping_In_SLA-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetDriverDetails",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Buyer_driver_found-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah Toped cek, pesanan kamu sudah mendapat driver dan masih dalam waktu estimasi pengiriman ke lokasi kamu. Mohon tunggu dulu ya :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Terkait kelanjutan pengiriman, kamu juga bisa menghubungi pihak driver pada nomor berikut:"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528776784,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "driver_found"
+    }
+  ]
+}

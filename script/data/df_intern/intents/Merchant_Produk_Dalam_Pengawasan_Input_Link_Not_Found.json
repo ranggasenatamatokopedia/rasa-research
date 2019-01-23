@@ -1,0 +1,48 @@
+{
+  "id": "f545c223-9726-4c45-90f4-78fa46b5375e",
+  "parentId": "8b42b21e-fae7-46b4-8974-d3d2338f7a26",
+  "rootParentId": "79399d3d-1735-4a38-83f0-804a798b2f2c",
+  "name": "Merchant_Produk_Dalam_Pengawasan_Input_Link_Not_Found",
+  "auto": false,
+  "contexts": [
+    "Merchant_Produk_Dalam_Pengawasan_Input_Link-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Produk_Dalam_Pengawasan_Input_Link_Not_Found-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Link produk yang kamu berikan tidak ditemukan."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk melihat link produk dapat kamu lakukan melalui desktop dengan cara:\n1. Masuk ke toko\n2. Klik Etalase \u0027Pengawasan\u0027\n3. Klik produk yang dimaksud\n4. Copy link produk"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534331418,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "is_not_found"
+    }
+  ]
+}

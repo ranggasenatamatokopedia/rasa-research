@@ -1,0 +1,32 @@
+{
+  "id": "4620d57a-605f-4fe1-a341-fc39643c7981",
+  "name": "FAQ_Digital_Topseller_Kenapa_tidak_dapat_komisi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika kamu membeli produk digital melalui TopSeller namun tidak mendapat komisi berupa Cashback ke TokoCash, pastikan beberapa hal ini, ya:"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "1. Transaksi kamu sudah dinyatakan selesai dan kamu sudah menerima produk digital mu.\n2. Kamu melakukan pembelian melalui aplikasi TopSeller dan bukan aplikasi Tokopedia.\n3. TokoCash kamu sudah dinyatakan aktif. \n4. Transaksi kamu tidak melanggar Syarat \u0026 Ketentuan Tokopedia."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

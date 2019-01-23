@@ -1,0 +1,1830 @@
+[
+  {
+    "id": "6f34e80f-4e89-4a4a-9753-80d75228e76f",
+    "data": [
+      {
+        "text": "komisinya apaan sih kalo pake mitra tokopedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "26dff865-164c-406b-8d49-50dc76fb8aff",
+    "data": [
+      {
+        "text": "Sebelum saya  download, saya mau tau dulu berapa komisi buat saya kalo saya pake aplikasi mitra toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1e1c249a-839b-4c33-99b5-75e6194eed81",
+    "data": [
+      {
+        "text": "Saya udah download aplikasi mitra toped, potongan buat saya berapa min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "913ff697-7d99-421d-a683-4a2f1ad3ad62",
+    "data": [
+      {
+        "text": "Komisi buat saya berapa duit ya min kalo saya pake aplikasi mitra toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "43949fe8-1718-408b-bb0b-b4aebc58ac78",
+    "data": [
+      {
+        "text": "Potongannya berapa ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kalo via apikasi mitra toped?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7eba5b74-a9b6-49e7-8ad7-b7e7a6139904",
+    "data": [
+      {
+        "text": "Komisi buat saya brp duit min kalo saya isi pulsa atau paket data lewat aplikasi mitra toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f7237229-ebfa-4142-b0b1-f12f76de4450",
+    "data": [
+      {
+        "text": "Kalo saya isi via aplikasi mitra toped, komisi buat saya berapa duit ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4f963ab3-1f64-4aee-a05f-c977242c1427",
+    "data": [
+      {
+        "text": "Kalo saya isi via mitra toped, potongannya berapa min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "29dfedff-4332-403d-a969-40e7093ff1bd",
+    "data": [
+      {
+        "text": "Potongannya berapa duit min kalo saya pake aplikasi mitra toped?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fc14bd0c-ba5b-4e24-a192-e1ccb4157664",
+    "data": [
+      {
+        "text": "Saya mau pake aplikasi mitra toped, tp saya mau tau dulu potongan dan komisi buat saya berapa duit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bc9612c4-a7e6-4266-81f8-125cdd5562f6",
+    "data": [
+      {
+        "text": "Potongan dan komisi buat saya berapa duit min kalo saya pake aplikasi mitra toped?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8adbbdaa-252b-4b75-9ba8-61f7ff33d08a",
+    "data": [
+      {
+        "text": "Aplikasi mitra toped itu potongannya berapa ya kalo saya isi paket data lewat situ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dc5b3de2-c3b4-4cf2-82bc-98467929146a",
+    "data": [
+      {
+        "text": "Aplikasi mitra toped itu potongannya berapa ya kalo saya isi pulsa disitu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "adb645ac-7886-474c-b80a-ae7fcfcb0870",
+    "data": [
+      {
+        "text": "Berapa duit potongan harga kalo saya pake aplikasi mitra toped?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "28a02c67-a965-4f28-be0f-19249552f10f",
+    "data": [
+      {
+        "text": "Saya mau pake aplikasi mitra tokopedia, potongan harganya berapa duit min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3ccc3d14-db4c-45ce-85ad-a9fd4869027f",
+    "data": [
+      {
+        "text": "Saya pake aplikasi mitra toped, potongan harganya berapa duit ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6dc1b9ab-02e2-43c5-8854-a18f172d7fd4",
+    "data": [
+      {
+        "text": "Potongan harganya brp duit ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kalo saya pake aplikasi mitra toped?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f186f6a1-ecfc-4be8-80ba-c239d815b1db",
+    "data": [
+      {
+        "text": "Berapa potongan yang saya dapat kalo saya pake aplikasi mitra toped?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d586efe2-b8d7-46b6-a213-a64058f67747",
+    "data": [
+      {
+        "text": "Berapa potongan buat saya kalo saya pake aplikasi mitra tokopedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "493972a0-7b53-4f69-be1b-bfd268ce0d2b",
+    "data": [
+      {
+        "text": "Berapa komisi buat saya kalo saya pake aplikasi mitra toped?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "073917c9-3435-4ab4-9b5d-4d6e2c11155b",
+    "data": [
+      {
+        "text": "Saya udah download mitra toped, komisi buat saya berapa duit ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bcd111ec-7611-40bb-a341-15e92d2a5c8e",
+    "data": [
+      {
+        "text": "Potongan nya brp duit min buat saya kalo saya pake mitra toped?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a8f7a1de-5034-4b6a-a513-32e678ec3638",
+    "data": [
+      {
+        "text": "Saya udah download aplikasi mitra toped, terus komisi yg saya dapat berapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eedc3aa9-e273-46c2-aa78-c0664d5e2747",
+    "data": [
+      {
+        "text": "Gimana ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " komisi buat saya kalo saya pake aplikasi mitra toped ini?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1aa4ce29-0f89-4977-96f9-0fcb6fbd1247",
+    "data": [
+      {
+        "text": "Kalo saya pake aplikasi mitra toped ini, komisi buat saya gimana ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6756b69a-abb4-4789-b0b6-6c8c220d866d",
+    "data": [
+      {
+        "text": "Komisi yang saya dapat itu gimana ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "61dff576-6349-4969-a36b-a404c69dc8cf",
+    "data": [
+      {
+        "text": "oh gitu, terus untungnya apa ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d80f110a-22dc-4e0b-9a25-deabd72c0f17",
+    "data": [
+      {
+        "text": "terus untungnya apa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9bec325b-8323-4421-a1fb-0c4254a46624",
+    "data": [
+      {
+        "text": "terus untungnya apaan ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2dcafef6-9744-42c6-bc56-83bf53046b3d",
+    "data": [
+      {
+        "text": "oh gitu, terus untungnya buat aku apaan ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "24798e3d-b601-4f5c-96fd-a253d596aa5b",
+    "data": [
+      {
+        "text": "oh begitu, terus keuntungannya buat aku apaan ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "efdbb190-d95b-4b45-9feb-fd4ab97735dd",
+    "data": [
+      {
+        "text": "oh gitu, terus untungnya buat saya apa ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "855a225d-4f13-4ddb-b1f1-e67ef61ac442",
+    "data": [
+      {
+        "text": "oh gitu, terus untungnya jadi mitra toped apaan ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6a5971a3-fcf8-41eb-8878-3a660c94a607",
+    "data": [
+      {
+        "text": "untungnya buat aku apa ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kalo aku pake aplikasi mitra tokopedia ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "09e52a9b-e655-4f84-ba74-2294f8d22c3f",
+    "data": [
+      {
+        "text": "apa keuntungannya jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5566dab6-6d49-409d-b8b5-a5a19ca09b1a",
+    "data": [
+      {
+        "text": "apa keuntunganku jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4b5ae001-da7a-4c65-994a-504b5e74d594",
+    "data": [
+      {
+        "text": "keuntungan jadi mitra tokopedia itu apa ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4bf2d2ff-d98a-4ec9-9e72-f0a36b6ad48d",
+    "data": [
+      {
+        "text": "keuntungan jadi mitra tokopedia apa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8df84ddc-8235-44fb-b85d-223de57e2723",
+    "data": [
+      {
+        "text": "Keuntungan jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "728cb4fd-d4d8-450e-b1aa-0740b7229f4e",
+    "data": [
+      {
+        "text": "apa keuntungan yg aku dapat kalo jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "37728e3c-fe12-4ff0-b656-08504c1f61be",
+    "data": [
+      {
+        "text": "keuntungan yg aku dapat jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4e44d8bc-d42c-4841-9c28-61aacafb0c1b",
+    "data": [
+      {
+        "text": "keuntungan yg di dapat jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "058e7d3c-2625-48be-b719-d6e079cee884",
+    "data": [
+      {
+        "text": "keuntungannya apa jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8f6a9794-9494-4445-bc36-73e44d19eaed",
+    "data": [
+      {
+        "text": "mitra tokopedia apa keuntungannya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bde8a7be-4de5-41e8-8547-58359725e6dc",
+    "data": [
+      {
+        "text": "mitra tokopedia keuntungannya apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "afb90c18-5a44-40da-868e-4d2613409e1c",
+    "data": [
+      {
+        "text": "mitra tokopedia keuntungannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3d62ef3a-9f13-4487-a59d-579aa9dc565b",
+    "data": [
+      {
+        "text": "Keuntungan mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2992d69a-045c-485a-bafb-1263ef6b669b",
+    "data": [
+      {
+        "text": "mitra tokopedia keuntungan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ef322097-db9e-40b4-9e77-f25c81c3b553",
+    "data": [
+      {
+        "text": "mitra tokopedia untungnya apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "65b01cea-f184-4614-98ba-6341822f1c15",
+    "data": [
+      {
+        "text": "mitra tokopedia apa keuntungannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "43dfc1cc-1c50-4711-b6a5-f0c864870e87",
+    "data": [
+      {
+        "text": "mitra tokopedia apa keuntungannya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "833ed1a0-4dd4-4ce1-ac3f-aa2ebdff5097",
+    "data": [
+      {
+        "text": "Mitra tokopedia keuntungannya apa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "90ec50a2-56ff-4c66-81e1-fd5a0f13d52a",
+    "data": [
+      {
+        "text": "mitra tokopedia untungnya apa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a19e08be-12b7-4783-8a48-ea87cd392335",
+    "data": [
+      {
+        "text": "mitra tokopedia apaya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " untungnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "15a76d83-5cc8-460d-8b57-8c66240d1d28",
+    "data": [
+      {
+        "text": "kalo pake mitra tokopedia apa bikin untungnya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c89ac6de-e6c4-4e9c-8597-bf46761d875d",
+    "data": [
+      {
+        "text": "apa keuntungan jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "94656938-59dd-4c34-a995-fe56aac7096d",
+    "data": [
+      {
+        "text": "keuntunganku apa jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d874434e-f89b-49f1-9571-31ae9d470e5f",
+    "data": [
+      {
+        "text": "keuntungannya apa ya jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b84d1872-713b-4177-aac4-f7a1d8aad16d",
+    "data": [
+      {
+        "text": "untungnya apa jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "afc85a33-e043-47fa-8611-c469ec57bd2e",
+    "data": [
+      {
+        "text": "apasih untungnya jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "46b89d38-123e-4444-b48f-f10232a086df",
+    "data": [
+      {
+        "text": "apa keuntungan mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b002be10-18fd-4682-bb8e-d1fce5bce29e",
+    "data": [
+      {
+        "text": "kalo saya gabung jadi mitra tokopedia, untungnya apa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3fbaac75-49d1-4da5-9118-4b80b46f31aa",
+    "data": [
+      {
+        "text": "untungnya apa ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " jadi mitra toped?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c59b4f39-9f43-4afb-8987-a503b4867b74",
+    "data": [
+      {
+        "text": "keuntungan mitra tokopedia apa aja ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e7e10780-bc33-4c4c-a9cb-843a9aa51856",
+    "data": [
+      {
+        "text": "keuntungan menjadi mitra tokopedia apa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a7d87c45-7a44-43dc-a847-6579d785fa0d",
+    "data": [
+      {
+        "text": "keuntungan saya jd mitra tokopedia itu apa aja ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "13545bee-cf41-4f2b-aff1-c436839241bc",
+    "data": [
+      {
+        "text": "apa keuntungan saya menjadi mitra tokopedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "183226d9-b6ed-466b-be45-225aa80fea04",
+    "data": [
+      {
+        "text": "keuntungan mitra tokopedia apa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "03d00ee1-8fe5-43a6-9b5b-419fe8215dc9",
+    "data": [
+      {
+        "text": "keuntungan mitra tokopedia apa aja ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b53a31d3-4b35-4bbb-8723-354f1af0f421",
+    "data": [
+      {
+        "text": "keuntungan yg ku dapat ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mitra tokopedia apa ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a53ca80d-f241-4c2c-adfb-f048818f1379",
+    "data": [
+      {
+        "text": "keuntungan yg saya dapat dari mitra tokopedia apa min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "27823b7e-f8cd-4017-a1be-3409ae3fbfc4",
+    "data": [
+      {
+        "text": "keuntungan untuk saya jadi mitra tokopedia apa ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f800b31e-4453-443b-9d6f-5e4b90fa9084",
+    "data": [
+      {
+        "text": "keuntungan yg didapat dr mitra tokopedia apa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f1c3aefe-6598-4955-822b-015f8b59e236",
+    "data": [
+      {
+        "text": "keuntungan yg saya dapatkan dr bergabung di mitra tokopedia apa ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1fe9c9d8-e5de-4e98-ab1d-51f190227676",
+    "data": [
+      {
+        "text": "keuntungan mitra tokopedia apa ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a3fb0aff-3be5-47bc-9340-ba30906c045b",
+    "data": [
+      {
+        "text": "mitra toped bisa bikin nambah keuntungan saya gak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8caad9f5-0436-474e-ac39-8718bf0e2656",
+    "data": [
+      {
+        "text": "mitra toped bisa bikin nambah penghasilan saya  gak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3cb5061a-c2e8-4aba-b738-1f5e5ec7e199",
+    "data": [
+      {
+        "text": "mitra toped bisa bikin nambah penghasilan gak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f8a4bccd-35b6-4af5-bb0e-3438ca5c2b69",
+    "data": [
+      {
+        "text": "mitra toped bisa ",
+        "userDefined": false
+      },
+      {
+        "text": "nambah2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " penghasilan ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "84cd2e63-da4a-4dc8-a443-5a2f7e2e403a",
+    "data": [
+      {
+        "text": "mitra toped bisa bikin saya nambah penghasilan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5695af52-2966-4f60-82b2-06c09cbcd3bd",
+    "data": [
+      {
+        "text": "mitra tokopedia bisa bikin saya nambah penghasilan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "05557350-1c22-4b6b-9d01-a28156352f0b",
+    "data": [
+      {
+        "text": "apakah mitra tokopedia bisa buat saya jadi untung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "73a2cd6f-36aa-4c59-9e5d-dd6112982a63",
+    "data": [
+      {
+        "text": "apa mitra tokopedia bisa bikin saya untung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fe52442c-c0f4-4359-9bb9-e01f7cc9dbde",
+    "data": [
+      {
+        "text": "apa mitra tokopedia bisa bikin untung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1d795def-8457-4feb-aa24-11be20814d11",
+    "data": [
+      {
+        "text": "mitra tokopedia bs bikin untung gak sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6974c145-4bf1-4ff1-b2e1-3cbdb82ca7ad",
+    "data": [
+      {
+        "text": "mitra tokopedia memang bisa menguntungkan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c023bd78-d000-49fa-be2e-ab569f15bf1b",
+    "data": [
+      {
+        "text": "mitra tokopedia apa untungnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "16478273-d57d-40c7-b88f-92a30b323753",
+    "data": [
+      {
+        "text": "mitra tokopedia bikin untung gak min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9ab2f3c6-949d-42f3-b41e-a3d71ebd28eb",
+    "data": [
+      {
+        "text": "gmn untungnya jd mitra toped ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bd875c0d-eb6b-481a-922b-f767cae96f90",
+    "data": [
+      {
+        "text": "Keuntungan kalo aku jadi mitra toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f5b3669e-c512-49f1-80b6-36ff60e6a7a7",
+    "data": [
+      {
+        "text": "Keuntungan kalo jadi mitra toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "afb593b0-8039-4724-a35a-734e446e7476",
+    "data": [
+      {
+        "text": "Keuntungan jadi mitra toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aac32412-14d7-493f-9896-0d775e6ff3a6",
+    "data": [
+      {
+        "text": "Keuntunganku jadi mitra toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a824f5fc-fdd9-4530-93ce-ba229973f223",
+    "data": [
+      {
+        "text": "Keuntunganku jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "20c362af-1068-41a6-ae00-6b67d9692f33",
+    "data": [
+      {
+        "text": "Keuntungan jadi minta tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "34663f34-b38b-4510-b502-08db5613b166",
+    "data": [
+      {
+        "text": "Keuntungan aku jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7b659dcd-97bc-47b0-82ed-048aab80b446",
+    "data": [
+      {
+        "text": "Apa keuntungan kalo saya jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "73fae849-c618-418c-a094-3d504209eacc",
+    "data": [
+      {
+        "text": "Keuntungan yg aku dapat bila jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4c40c420-b606-453c-b41b-37d6e5ac066d",
+    "data": [
+      {
+        "text": "Keuntungan saya bila menjadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4b313c8b-e553-4309-a246-0e107b6949c0",
+    "data": [
+      {
+        "text": "Keuntungan yg ku dapat jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0d80bd53-d8d2-44f8-ac70-f3edee07acf4",
+    "data": [
+      {
+        "text": "Keuntuungan yg ku dapat kalo jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0d7f9b46-1dd6-43cd-b09e-db813c01b6fc",
+    "data": [
+      {
+        "text": "Keuntungan yg saya dapat kalo saya gabung jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c244198d-cbef-4f4c-9c17-dbb06acafe26",
+    "data": [
+      {
+        "text": "Keuntungan yg aku dapat kalo kalo aku jadi mitra toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7bcdcd87-f414-4631-9764-6fdbf621812d",
+    "data": [
+      {
+        "text": "Keuntungan yg aku dapat kalo jadi mitra tokpedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4ef656ee-2536-40ed-bc83-6563e715785c",
+    "data": [
+      {
+        "text": "Apa untungnya jadi mitra toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6dd7f8cb-7b98-4a59-a375-4ddbf780aea3",
+    "data": [
+      {
+        "text": "Untungan jadi mitra toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d40c911a-3ea1-49f3-9f5f-6a93fd9942f1",
+    "data": [
+      {
+        "text": "keuntungan nya jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "204f75bb-3577-4159-8fd2-d7d6f5ef284c",
+    "data": [
+      {
+        "text": "Apasih keuntungan jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9007cbc5-993d-4d1c-91d3-0ba81538057e",
+    "data": [
+      {
+        "text": "Untungnya jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "197009ea-1dd8-48bc-98d6-a09708436b53",
+    "data": [
+      {
+        "text": "Keuntungan untuk jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7498677e-890b-4708-ba68-af21c55e4404",
+    "data": [
+      {
+        "text": "Apa keuntungan jadi mira tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6d2889b3-6144-48b5-9770-75802f753c53",
+    "data": [
+      {
+        "text": "Untung mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6e144128-3579-4ec6-868a-579372affda7",
+    "data": [
+      {
+        "text": "Mitra tokopedia apa keuntungannya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b35c500e-218b-41e4-9098-a170f66724d5",
+    "data": [
+      {
+        "text": "Apa keuntungan buat saya kalo saya jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a4a889a5-a869-4f4d-9aa8-02d7bb02841f",
+    "data": [
+      {
+        "text": "Untungnya apa min bat saya kalo saya jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1d940f2a-ea1f-4df8-ab87-9347dd7d82a2",
+    "data": [
+      {
+        "text": "Untungnya apa ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kalo saya jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e071bebc-44af-4e13-a7f6-f50908d29e41",
+    "data": [
+      {
+        "text": "Min, apa keuntungan buat saya kalo saya jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3bc72490-e44e-458b-a899-12ae08a52688",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", apa keuntungan saya kalo saya jadi mitranya tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9753997d-8306-4f4c-8e30-962b0dfad2d5",
+    "data": [
+      {
+        "text": "Apa keuntungan kalo jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "373cd78b-06b8-48ab-92b3-cebf5c14b48b",
+    "data": [
+      {
+        "text": "Keuntungan kalo jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "282adfea-cfd3-4b56-83cb-680fdd611e1c",
+    "data": [
+      {
+        "text": "Mitra tokopedia kelebihannya apa min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ca81b228-8064-46b0-aac6-6df1610bdb27",
+    "data": [
+      {
+        "text": "Mitra tokopedia keuntungannya apa ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4e6e3b14-674e-43dc-b6d6-6a62310e8f8c",
+    "data": [
+      {
+        "text": "Apa keuntungan buat saya kalo saya jadi mitra tokopedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "faa41f5d-4ef2-4173-a3d3-854cefbb2d8f",
+    "data": [
+      {
+        "text": "Kalo saya gabung jadi mitra tokopedia, keuntungan buat saya itu apa ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "abe3a33e-fbf2-46eb-8284-94275227c090",
+    "data": [
+      {
+        "text": "Saya udah download mitra tokopedia, selanjutnya apa keuntungan saya min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1c04c675-777e-4c4f-a783-097b36b03c2f",
+    "data": [
+      {
+        "text": "Saya udah punya toko nih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di rumah, kalo saya mau gabung jadi mitra tokopedia, nambah gak keuntungan saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "97234f4d-9363-4b1b-91c4-683469386e95",
+    "data": [
+      {
+        "text": "Kalo saya gabung jadi mitra tokopedia, apa keuntungan yg akan saya dapatkan ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dc9443a8-9852-48ff-a8c2-92fd828906c9",
+    "data": [
+      {
+        "text": "Apa untungnya jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d2e20c09-58ce-4d44-9e13-c52bcf35b25f",
+    "data": [
+      {
+        "text": "Apa keuntungan yg saya dapat jika saya jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b852b3e4-9e16-4ceb-a33b-e85198cdaaf1",
+    "data": [
+      {
+        "text": "Keuntungan yang di dapat kalo jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1fdc48c7-4679-4ea7-8e07-20de907b2c81",
+    "data": [
+      {
+        "text": "Saya udah download aplikasi mitra tokopedia, keuntungannya apa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8af0070d-5e3d-4190-96f2-de4e030f7346",
+    "data": [
+      {
+        "text": "Saya udah download aplikasi mitra tokopedia, keuntungannya apa ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d8d525f0-8996-4002-8865-487f05a0d3c5",
+    "data": [
+      {
+        "text": "Apa ya keuntungan yang saya dapat dari mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8e3ebcf0-7ff2-409a-b3ac-bdeea5187883",
+    "data": [
+      {
+        "text": "Kalo saya jadi mitra tokopedia, keuntungannya itu apa ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "516135f8-9ea7-4334-b3dc-819492532c63",
+    "data": [
+      {
+        "text": "Keuntungan jadi mitra tokopedia tu apa min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "33e3634b-228a-4225-b69b-2c9b5e92e395",
+    "data": [
+      {
+        "text": "Apasih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " keuntungan jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ff1f2974-9ddb-4c7f-91c6-9b7d4e78046e",
+    "data": [
+      {
+        "text": "Apa ya keuntungan jadi mitra tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "id": "79643f6e-1b7b-464a-a557-d5b16862b824",
+  "name": "FAQ_Mitra_Tokopedia_Cara_Tarik_Saldo_Mitra",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Mitra_Tokopedia_Cara_Tarik_Saldo_Mitra-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa ikuti langkah di bawah ini untuk penarikan Saldo di Mitra Tokopedia, ya:\n1. Masuk ke akun Mitra Tokopedia\n2. Klik \"Tarik Saldo\"\n3. Masukkan nominal saldo yang ingin ditarik\n4. Pilih nomor rekening yang dituju\n5. Klik \"Tarik Saldo\""
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sebagai tambahan info, untuk proses penarikan saldo ke rekening kamu membutuhkan waktu maksimal 2x24 jam hari kerja. Tunggu dan cek berkala rekening kamu, ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,344 @@
+[
+  {
+    "id": "f3670958-f6aa-4ec7-aa6e-527fadd62682",
+    "data": [
+      {
+        "text": "komisinya kok saya ga dapet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f34e7e22-5194-4d45-b2e9-ed0cfc73ca44",
+    "data": [
+      {
+        "text": "saya blm dpt komisi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a059cd33-93dc-4f6e-8918-8ed4b74ae0fb",
+    "data": [
+      {
+        "text": "komisi belum saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "52a35538-a8c8-4253-bad3-3c68a1b2fd68",
+    "data": [
+      {
+        "text": "komisi saya belum dapat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "feb65ec7-6f01-4135-93f6-7b114af5f87e",
+    "data": [
+      {
+        "text": "kenapa saya tidak dapat komisi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6de7ef7b-7e34-436a-99f3-5159056783b5",
+    "data": [
+      {
+        "text": "saya belum dapat komisi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d89f002b-bee8-4a75-9b26-c6fea3739c12",
+    "data": [
+      {
+        "text": "saya belum menerima komisi untuk transaksi ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "87f051a6-e617-40a1-b333-524d3cd2e4e6",
+    "data": [
+      {
+        "text": "kenapa tidak dapat komisi sebagai agen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4ffb2041-fd5d-41aa-bd94-bf0dcd23e6f4",
+    "data": [
+      {
+        "text": "Tidak dapat komisi sebagai agen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "75f6a7d7-5b94-4a69-b25d-210f6eff06de",
+    "data": [
+      {
+        "text": "transaksi berhasil, namun komisi agen.toped belum diberikan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d2dc7e95-afd2-4213-89fc-4cf8952738a1",
+    "data": [
+      {
+        "text": "sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " komisi reseller belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0c52e57f-f3ba-4cc7-a1ef-12f96a0b4b9c",
+    "data": [
+      {
+        "text": "Komisi belum masuk ke ",
+        "userDefined": false
+      },
+      {
+        "text": "tokocash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dd61b0ae-e655-4638-b24b-cf5b8b731610",
+    "data": [
+      {
+        "text": "Komisi belum diberikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0c472888-c3fa-496e-a91f-440139f80edd",
+    "data": [
+      {
+        "text": "tidak dpt komisi dlm transaksi ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "07e17864-36cf-432a-b4ee-3a12ebb3dc12",
+    "data": [
+      {
+        "text": "Saya belum terima komisi sebagai reseller/Agen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "288c94e7-6c6a-4d57-9c7d-a95c292e48ad",
+    "data": [
+      {
+        "text": "Saya tidak mendapat komisi sebagai agen / reseller,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e07b7dd9-ed4e-4ce1-8205-15872e5388ba",
+    "data": [
+      {
+        "text": "Komisi agen reseller tidak masuk.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "42dd30a6-b5e3-422c-952a-00f62464d92e",
+    "data": [
+      {
+        "text": "komisi atau cashback dari transaksi ini via aplikasi top ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "184b8c2d-9e03-496c-b258-041e82152069",
+    "data": [
+      {
+        "text": "komisi sebagai agen/reseller belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dc2700ec-fa9d-46b2-96e4-35fc024dbc66",
+    "data": [
+      {
+        "text": "Belum Dapat Komisi agen topseller",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ee8e5884-edc1-4cc7-8f10-74d72c404e51",
+    "data": [
+      {
+        "text": "belum menerima komisi dari penjualan paket data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "90a3126d-9f98-4e37-88cf-a1fc18420eda",
+    "data": [
+      {
+        "text": "untuk komisi knp blm masuk ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "92010215-ca98-4c3b-81fe-6470d500cb77",
+    "data": [
+      {
+        "text": "Komisi reseler blm masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "082f5a5a-91a4-41c3-ad9c-389351975146",
+    "data": [
+      {
+        "text": "saya tidak dapat komisi, kpn saya dapat komisi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1a10b939-63af-435b-a831-9b3fb57a4da7",
+    "data": [
+      {
+        "text": "belum mendapat komisi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "82ea2f03-c14d-4242-979d-834459c813a4",
+    "data": [
+      {
+        "text": "belum dapat komisi ,mohon petunjuknya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cd776a68-e3e0-4922-9010-445c1f3ebdc1",
+    "data": [
+      {
+        "text": "Kok komisi dari penjualan pulsa saya tidak masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1a6f062d-771d-4512-959c-8caf0ff17bed",
+    "data": [
+      {
+        "text": "Transaksi sudah berhasil, bonus komisi belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a4288b4a-3da1-462e-9dfc-b940def3d1cd",
+    "data": [
+      {
+        "text": "ini kenapa saya gak dapat komisi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

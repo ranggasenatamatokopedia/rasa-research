@@ -1,0 +1,43 @@
+{
+  "id": "46638648-f31f-49e2-b95f-5fbcb2840393",
+  "parentId": "0e1d4e97-8d3b-457d-95b0-632bf68b3cd3",
+  "rootParentId": "b375e190-8e6c-475d-ac8e-0e3e3ac5900d",
+  "name": "Logistic_Tidak_Bisa_Klik_Pick_Up_Invoice_List_On_Demand_Process_Grab_Number_Valid",
+  "auto": true,
+  "contexts": [
+    "Logistic_Tidak_Bisa_Klik_Pick_Up_Invoice_List_On_Demand_Process_Grab-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckLogisticRateUserAddressAndProductValidBySelectedInv",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Tidak_Bisa_Klik_Pick_Up_Invoice_List_On_Demand_Process_Grab_Number_Valid-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538650493,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "buyer_number_is_valid"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "e8c61652-78ca-49c0-b640-812973d6585d",
+  "name": "FAQ_Order_Apakah_Kurir_Pesanan_Peluang_Bisa_Diganti",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pesanan yang diambil dari fitur Peluang tidak bisa diganti kurir pengirimannya ya. Penjual baru harus mengirimkan barang sesuai dengan kurir tertera."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_order_apakah_kurir_pesanan_peluang_bisa_diganti"
+    }
+  ]
+}

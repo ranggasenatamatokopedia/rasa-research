@@ -1,0 +1,55 @@
+{
+  "id": "69a71446-605a-4187-bf9a-b18365fac77c",
+  "parentId": "484e8b91-a2aa-43fa-ac56-442c7cbc82e9",
+  "rootParentId": "2857f78e-0f0e-4f9f-a32c-1bf155c0c208",
+  "name": "Logistic_Barang_Tidak_Dapat_Dikirim_On_Demand_Sudah_Gosend_Grab",
+  "auto": true,
+  "contexts": [
+    "Logistic_Barang_Tidak_Dapat_Dikirim_On_Demand_Sudah-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckCancelRetryEligibility",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Tidak_Dapat_Dikirim_On_Demand_Sudah_Gosend_Grab-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536724179,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "courier_go-send"
+    },
+    {
+      "name": "courier_gosend"
+    },
+    {
+      "name": "courier_gojek"
+    },
+    {
+      "name": "courier_go-jek"
+    },
+    {
+      "name": "courier_grab"
+    }
+  ]
+}

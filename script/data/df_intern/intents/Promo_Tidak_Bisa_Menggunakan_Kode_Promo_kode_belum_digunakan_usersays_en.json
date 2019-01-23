@@ -1,0 +1,46 @@
+[
+  {
+    "id": "6df7b0df-4429-4571-80eb-3994d1d9edb0",
+    "data": [
+      {
+        "text": "pesan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dda7a6e2-237a-478a-8b5d-ef939bb58c68",
+    "data": [
+      {
+        "text": "kode_promo_belum_digunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a04be2f5-f4a2-4410-9a93-73759e05d44c",
+    "data": [
+      {
+        "text": "sms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5646486a-6c21-45b3-8d4f-c481426d2319",
+    "data": [
+      {
+        "text": "email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

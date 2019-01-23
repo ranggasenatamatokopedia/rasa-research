@@ -1,0 +1,37 @@
+{
+  "id": "736e2be6-23e0-480a-b495-d0fbf4425193",
+  "parentId": "b5c28b56-548a-4393-9854-8bb97ac3875b",
+  "rootParentId": "8d5186a7-0c3f-4aa7-a870-f19a17cc5ac2",
+  "name": "Fintech_Penjualan_berhasil_dana_belum_masuk_mtf_order_detail",
+  "auto": true,
+  "contexts": [
+    "Fintech_Penjualan_berhasil_dana_belum_masuk_mtf-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetInfoMFOrder",
+      "affectedContexts": [
+        {
+          "name": "Fintech_Penjualan_berhasil_dana_belum_masuk_mtf_order_detail-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535958393,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "select_invoice"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "4718d9ba-53c1-4401-b45a-5a390728c74e",
+  "parentId": "6fa0718b-4eaf-428b-a3b9-1de866c6e918",
+  "rootParentId": "9bfd7954-aa4e-4fe0-9970-896182c9392a",
+  "name": "Digital_Email_Transaksi_Berhasil_Belum_Diterima_select_inv_order_success",
+  "auto": false,
+  "contexts": [
+    "Digital_Email_Transaksi_Berhasil_Belum_Diterima_select_inv-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DoResendEmailSuccess",
+      "affectedContexts": [
+        {
+          "name": "Digital_Email_Transaksi_Berhasil_Belum_Diterima_select_inv_order_success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped akan kirim kembali email transaksi kamu yang berhasil ya"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534156871,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_success"
+    },
+    {
+      "name": "invoice_to_be_settled"
+    },
+    {
+      "name": "invoice_settled"
+    }
+  ]
+}

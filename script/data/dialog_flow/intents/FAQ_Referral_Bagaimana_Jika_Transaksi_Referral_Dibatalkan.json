@@ -1,0 +1,37 @@
+{
+  "id": "8747d0a6-9b72-4f88-a631-cbc02c52a515",
+  "name": "FAQ_Referral_Bagaimana_Jika_Transaksi_Referral_Dibatalkan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Referral_Bagaimana_Jika_Transaksi_Referral_Dibatalkan-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika transaksi kode Referral dibatalkan, maka Toppers dan Teman tidak bisa mendapat bonus TokoCash. Pastikan pesanan kamu berhasil dan sesuai dengan Syarat dan Ketentuan ya!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_referral_bagaimana_jika_transaksi_referral_dibatalkan"
+    }
+  ]
+}

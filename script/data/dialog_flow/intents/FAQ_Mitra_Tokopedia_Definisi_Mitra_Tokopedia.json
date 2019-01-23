@@ -1,0 +1,38 @@
+{
+  "id": "bc96c6ed-640d-4973-9907-d223cfa723b5",
+  "name": "FAQ_Mitra_Tokopedia_Definisi_Mitra_Tokopedia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Mitra_Tokopedia_Definisi_Mitra_Tokopedia-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Aplikasi Mitra Tokopedia adalah aplikasi yang Toped sediakan untuk pemilik toko, warung atau siapa saja yang ingin menambah pendapatan dengan berjualan produk-produk digital Tokopedia seperti pulsa, paket data, dan lain-lain."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sebagai informasi, untuk saat ini aplikasi Mitra Tokopedia hanya tersedia untuk versi Android ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

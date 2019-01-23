@@ -1,0 +1,25 @@
+{
+  "id": "d338023e-2850-47a4-9c65-ca01b02c4380",
+  "name": "FAQ_LOGISTIK_Ubah_Kurir_Pick_Up_Ke_Reguler",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_logistik_ubah_kurir_pick_up_ke_reguler"
+    }
+  ]
+}

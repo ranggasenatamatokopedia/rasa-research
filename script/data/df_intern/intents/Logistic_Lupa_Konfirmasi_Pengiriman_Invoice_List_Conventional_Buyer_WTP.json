@@ -1,0 +1,69 @@
+{
+  "id": "78bef792-27a3-437b-af22-4ef24fc1b275",
+  "parentId": "f19ef164-6e8f-41f6-9f11-8554bbd35cae",
+  "rootParentId": "35e16175-3fd0-4749-bf64-4e1b94b883f1",
+  "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer_WTP",
+  "auto": true,
+  "contexts": [
+    "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer_WTP-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pesanan Kakak masih dalam proses pengecekan pembayaran. Jika sudah dilakukan pembayaran mohon menunggu proses verifikasi."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Namun jika belum melakukan pembayaran, silakan segera melakukan pembayaran sesuai nominal yang tertera ya, Kak."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532419773,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_cc_challenge"
+    },
+    {
+      "name": "invoice_payment_confirm"
+    },
+    {
+      "name": "invoice_payment_confirmed_unik"
+    },
+    {
+      "name": "invoice_belum_bayar"
+    },
+    {
+      "name": "invoice_checkout_state"
+    },
+    {
+      "name": "invoice_pending"
+    },
+    {
+      "name": "invoice_pending_unik"
+    },
+    {
+      "name": "invoice_pending_due"
+    }
+  ]
+}

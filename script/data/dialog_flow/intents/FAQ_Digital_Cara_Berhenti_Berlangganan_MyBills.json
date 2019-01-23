@@ -1,0 +1,42 @@
+{
+  "id": "b6172603-b685-4892-b175-d9aa46c2c3fa",
+  "name": "FAQ_Digital_Cara_Berhenti_Berlangganan_MyBills",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Digital_Cara_Berhenti_Berlangganan_MyBills-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk berhenti berlangganan MyBills, kamu bisa lakukan dengan cara:\n1. Kamu dapat menggunakan Apps, dan silakan akses halaman MyBills.\n2. Pilih langganan tagihan yang ingin dinon-aktifkan\n3. Klik \"Non-Aktifkan\" ketika muncul pop up non-aktifkan auto debit di halaman Detail Pembayaran\n4. Klik \"Ya\" untuk menon-aktifkan Auto Debet."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Selamat mencoba ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_digital_cara_berhenti_berlangganan_mybills"
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+[
+  {
+    "id": "ae3ce204-6162-44ed-9d19-5cd817f8fd01",
+    "data": [
+      {
+        "text": "kalo pesanannya masuk peluang, kurir masih bisa diganti ga sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c4a9e1bf-88f5-4535-84f3-656ebdc0d81d",
+    "data": [
+      {
+        "text": "pesenan yang masuk peluang memang gabisa ubah kurir ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a2432056-22a1-443f-8714-6f417962cdc2",
+    "data": [
+      {
+        "text": "pesanan yang dari peluang, masih boleh ganti kurir gak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "63849225-2a32-49ef-ad63-e29993ccf52d",
+    "data": [
+      {
+        "text": "pesanan yang saya ambil dari peluang kok ga ada opsi ganti kurir ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a7a35ff4-d511-4864-838d-92324d429ce9",
+    "data": [
+      {
+        "text": "apakah bisa ganti kurir untuk pesanan peluang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "06146d36-4370-4b87-a471-fd270e5d0896",
+    "data": [
+      {
+        "text": "Kalau pesanan peluang, kurirnya bisa diganti ga ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fa065764-830b-4879-bd68-402e0da3671d",
+    "data": [
+      {
+        "text": "mau ganti kurir buat pesanan peluang bisa ga ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "76bb9b4a-4461-4a94-99cb-1292457f8a29",
+    "data": [
+      {
+        "text": "pesanan dari peluang apa harus pake kurir yang dipilih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bd9a68c6-91cb-433f-87df-3f28071e8809",
+    "data": [
+      {
+        "text": "pesanan peluang masih bisa ganti kurir ga sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6fff453e-9f2a-4a98-91a8-be2f7759949d",
+    "data": [
+      {
+        "text": "kenapa pesanan peluang yang saya terima tidak ada pilihan ganti kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2
+  },
+  {
+    "id": "fb8b76e8-61c2-4296-a9c4-a8cbf2c4f3cc",
+    "data": [
+      {
+        "text": "ganti kurir buat order peluang caranya gimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bd36e3d7-2f7d-4f3e-8938-7287f1873f4b",
+    "data": [
+      {
+        "text": "pesanan peluang yang sudah sayang ambil, bisa ganti kurir ga?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b8c586b1-eb70-4b5a-aade-2dad69760736",
+    "data": [
+      {
+        "text": "kalo pesenan dari peluang mau ganti kurir bisa ga sih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2d014b6c-ea98-4832-b378-889abc44e656",
+    "data": [
+      {
+        "text": "kalo ambil pesanan dari peluang, musti pake kurir yang persis ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "eaae9a8a-e0ef-49ea-a82b-53ed901a2784",
+    "data": [
+      {
+        "text": "kurir order peluang bisa diganti tidak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fd781737-dcb6-4a8f-8892-3f5ac445228a",
+    "data": [
+      {
+        "text": "kalo mau ganti kurir order peluang apa masih bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aabacc68-47dd-4261-847e-76b924dae030",
+    "data": [
+      {
+        "text": "saya udah ambil order dari peluang, mau ganti kurir ke ",
+        "userDefined": false
+      },
+      {
+        "text": "JNE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bisa ga ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a1f002f7-9d8f-4faa-bd19-1a6f826fb845",
+    "data": [
+      {
+        "text": "mau ganti kurir buat order peluang, tapi ga ada tombolnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5f240d86-c1b1-4fe6-b96d-530dd326acaf",
+    "data": [
+      {
+        "text": "kalo mau ubah kurir pesanan peluang, tombolnya dimana ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "97e57928-cbed-40a4-aace-9d1eaaeb3afb",
+    "data": [
+      {
+        "text": "mau ganti kurir tapi gabisa, apa karena ini pesanan peluang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3f23ccd7-dad3-4e71-ba9b-9426c3bf7c14",
+    "data": [
+      {
+        "text": "apakah pesanan peluang masih bisa ganti kurir?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "59814e70-a5c1-4719-864b-e80593c37f57",
+    "data": [
+      {
+        "text": "ubah kurir dari pesenan peluang gimana caranya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

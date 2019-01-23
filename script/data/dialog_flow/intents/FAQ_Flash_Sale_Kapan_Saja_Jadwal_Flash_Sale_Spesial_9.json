@@ -1,0 +1,37 @@
+{
+  "id": "fb21b70e-b1f1-47ee-a6c0-63f4aa93c0c9",
+  "name": "FAQ_Flash_Sale_Kapan_Saja_Jadwal_Flash_Sale_Spesial_9",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flash_Sale_Kapan_Saja_Jadwal_Flash_Sale_Spesial_9-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa langsung cek di laman !TKPD_URL_S\u0026K_FLASH_SALE_SPESIAL_9!. Yuk, ikutan dan jangan sampai kelewatan untuk mendapatkan produk impian kamu!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_flash_sale_kapan_saja_jadwal_flash_sale_spesial_9"
+    }
+  ]
+}

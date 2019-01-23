@@ -1,0 +1,78 @@
+{
+  "id": "1fe4d4c8-7e17-407d-bc7f-1cf718e4fda7",
+  "parentId": "b52e43ab-d642-45fe-97bd-5d3704045429",
+  "rootParentId": "96f23e85-fae0-4896-8203-08e968aef1b9",
+  "name": "Payment_sudah_bayar_tp_batal_order_status_scrooge_waiting_ticket",
+  "auto": true,
+  "contexts": [
+    "Payment_sudah_bayar_tp_batal_order_status_scrooge_waiting-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Payment_sudah_bayar_tp_batal_order_status_scrooge_waiting_ticket-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "db0feee8-fd69-4b8d-9ae1-d4587180d57f",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1246"
+        },
+        {
+          "id": "9e6d5b0f-89f7-4bda-84b4-a5f6188b1d18",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Payment_sudah_bayar_tp_batal"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon tunggu sebentar, Kak"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Terima kasih, Kak. Untuk bukti bayarnya akan dicek dulu"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped bantu buatkan tiketnya ya dan kalau ada informasi lebih lanjut akan disampaikan lewat email :)"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 0,
+            "data": {
+              "show_rating": false
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531466555,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

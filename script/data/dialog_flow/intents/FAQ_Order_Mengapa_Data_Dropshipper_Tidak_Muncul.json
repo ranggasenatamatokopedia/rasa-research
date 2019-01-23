@@ -1,0 +1,42 @@
+{
+  "id": "cf0dc4a3-548b-4547-86a0-5c1200556526",
+  "name": "FAQ_Order_Mengapa_Data_Dropshipper_Tidak_Muncul",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Order_Mengapa_Data_Dropshipper_Tidak_Muncul-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9c977731-378c-472d-bd31-ba6edfff6582",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Data dropship hanya akan muncul pada invoice transaksi marketplace ya. Pastikan bahwa kolom \"Kirim sebagai dropshipper\" sudah diklik, sebelum melakukan checkout.\n\nKalau kamu sudah memastikan hal tersebut, namun data dropship tidak muncul pada invoice harap informasikan ke !TKPD_URL_CONTACTUS_SUBMIT! kami."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

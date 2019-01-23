@@ -1,0 +1,44 @@
+{
+  "id": "5775850c-a124-4863-8bf1-8435bc49a0da",
+  "parentId": "685c0311-1f6a-4017-9a49-677ba620e1cb",
+  "rootParentId": "685c0311-1f6a-4017-9a49-677ba620e1cb",
+  "name": "FAQ_Digital_Cara_Redeem_ITunes_Dengan_Mengubah_Akun_US_Yes",
+  "auto": true,
+  "contexts": [
+    "FAQ_Digital_Cara_Redeem_ITunes_Dengan_Mengubah_Akun_US-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Digital_Cara_Redeem_ITunes_Dengan_Mengubah_Akun_US_Yes-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau kamu memiliki kredit yang sudah terdaftar di akun Apple, perubahan region bisa dilakukan dengan melakukan aktivasi pada salah satu billing ya :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "kamu bisa pilih mengaktifkan Credit Card Billing atau Play Store Carrier Billing (Telkomsel Billing atau Indosat Billing)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533270370,
+  "fallbackIntent": false,
+  "events": []
+}

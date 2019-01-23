@@ -1,0 +1,62 @@
+{
+  "id": "63bab58f-8e8c-4773-995c-07cfa91f078d",
+  "parentId": "c95b094c-3bbf-4b87-b373-536400e4989e",
+  "rootParentId": "dbbb1e17-3271-4c65-b2a2-5cb80603b2a4",
+  "name": "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_game_unipin",
+  "auto": false,
+  "contexts": [
+    "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_game-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_game_unipin-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk voucher Unipin adalah UP Points dengan kode UPGC (Unipin Gift Card) sehingga bisa langsung kamu redeem pada website game."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Saat ini apakah kode voucher masih tidak dapat di-redeem?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Ya, masih",
+              "Sudah bisa"
+            ],
+            "type": 1
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536392155,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "operator_unipin_voucher"
+    },
+    {
+      "name": "operator_unipin_test_operator"
+    }
+  ]
+}

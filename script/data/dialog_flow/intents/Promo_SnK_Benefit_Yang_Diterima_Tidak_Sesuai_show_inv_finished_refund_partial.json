@@ -1,0 +1,58 @@
+{
+  "id": "959b88fd-b20f-4237-978b-605931963643",
+  "parentId": "62cebc3c-7c9c-4719-94b5-e5aa772e8bc1",
+  "rootParentId": "67024543-88fb-488f-907b-85ef94921089",
+  "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_inv_finished_refund_partial",
+  "auto": false,
+  "contexts": [
+    "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_kupon_tokopoints_show_inv_MP_OS-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_inv_finished_refund_partial-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek transaksinya pernah masuk Pusat Resolusi dengan solusi akhir pengembalian dana sebagian, jadi benefit yang akan kamu terima menyesuaikan solusi tersebut ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "- Kalau kamu gunakan Kupon Gratis Ongkir dari Membership dan Tukar Points, dan ada pengembalian dana sebagian, maka dana yang dikembalikan tidak termasuk ongkos kirim. Tapi kalau ada pengembalian barang atau retur, kupon sudah tidak berlaku sehingga subsidi ongkir dibatalkan ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "- Kalau kamu gunakan Kupon Cashback dari Tukar Points, maka benefit cashback yang diberikan akan sesuai dengan nominal yang sukses dari Pusat Resolusi ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jadi untuk cashback yang kamu terima saat ini sudah sesuai ya:)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526544176,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "in_resol_finished_partial_refund"
+    }
+  ]
+}

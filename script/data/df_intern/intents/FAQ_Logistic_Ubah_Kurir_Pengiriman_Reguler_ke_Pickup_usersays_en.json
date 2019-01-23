@@ -1,0 +1,58 @@
+[
+  {
+    "id": "a2255da2-3624-41a5-a9e6-a75904149632",
+    "data": [
+      {
+        "text": "tiga",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2ed4bfb5-7437-4e7e-bf6d-07e72b0ca551",
+    "data": [
+      {
+        "text": "reguler",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ke pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5920d247-2e37-4e64-bcd3-d2cd09774cc8",
+    "data": [
+      {
+        "text": "reguler",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ke pickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d4dc830a-7863-4749-b65e-9bf25231b05c",
+    "data": [
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

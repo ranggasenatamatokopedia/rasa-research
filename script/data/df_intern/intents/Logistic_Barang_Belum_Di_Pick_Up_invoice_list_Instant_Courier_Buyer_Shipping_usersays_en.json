@@ -1,0 +1,68 @@
+[
+  {
+    "id": "97f62e0d-dbf1-4c76-bc8d-4ac6b2e8fd60",
+    "data": [
+      {
+        "text": "invoice_melakukan_pencarian_driver_harap_menunggu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "00baee4b-b9bb-4389-8ea1-8703aeded612",
+    "data": [
+      {
+        "text": "invoice_menunggu_status_kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "120b52c7-8cca-4399-bfbd-35c2f8164c5b",
+    "data": [
+      {
+        "text": "invoice_kode_resi_pengiriman_tidak_valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "05a6c361-1554-4a07-a974-96df0958dc48",
+    "data": [
+      {
+        "text": "invoice_order_berkendala_pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4bdd6223-f400-4197-bb30-621874a1d353",
+    "data": [
+      {
+        "text": "shipping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3f1f7278-66c2-43e2-8784-180a4fb733ec",
+    "data": [
+      {
+        "text": "invoice_sedang_dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

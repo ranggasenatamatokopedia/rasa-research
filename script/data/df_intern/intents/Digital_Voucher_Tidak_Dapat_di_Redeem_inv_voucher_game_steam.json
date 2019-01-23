@@ -1,0 +1,62 @@
+{
+  "id": "51ae2ddb-3ff5-4008-a1a2-9c07390aacd7",
+  "parentId": "c95b094c-3bbf-4b87-b373-536400e4989e",
+  "rootParentId": "dbbb1e17-3271-4c65-b2a2-5cb80603b2a4",
+  "name": "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_game_steam",
+  "auto": true,
+  "contexts": [
+    "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_game-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Voucher_Tidak_Dapat_di_Redeem_inv_voucher_game_steam-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pastikan untuk kode yang dimasukkan adalah PIN yang dikirimkan saat transaksi berhasil, bukan Serial Numbernya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Saat ini apakah kode PIN masih tidak dapat diredeem?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Ya, masih",
+              "Sudah bisa"
+            ],
+            "type": 1
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536392971,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "operator_steam_wallet_idr"
+    },
+    {
+      "name": "operator_steam_wallet_usd"
+    }
+  ]
+}

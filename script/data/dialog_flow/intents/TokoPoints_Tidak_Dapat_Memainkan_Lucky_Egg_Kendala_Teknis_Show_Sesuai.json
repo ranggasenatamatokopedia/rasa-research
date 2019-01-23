@@ -1,0 +1,44 @@
+{
+  "id": "6882fd9a-5d35-46a7-bf40-b7faa9857364",
+  "parentId": "6cc16ecb-d949-4b8c-8242-f08521e632e3",
+  "rootParentId": "e5ddb095-11e2-44d0-a686-c477add0deaf",
+  "name": "TokoPoints_Tidak_Dapat_Memainkan_Lucky_Egg_Kendala_Teknis_Show_Sesuai",
+  "auto": true,
+  "contexts": [
+    "TokoPoints_Tidak_Dapat_Memainkan_Lucky_Egg_Kendala_Teknis_Show-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "TokoPoints_Tidak_Dapat_Memainkan_Lucky_Egg_Kendala_Teknis_Show_Sesuai-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Baik, kalau jumlah Lucky Egg yang belum dipecahkan sudah sesuai dengan info dari Toped, berarti tidak berkendala ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Yuk segera pecahkan Lucky Egg kamu, dan dapatkan benefit yang ada didalamnya!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534387718,
+  "fallbackIntent": false,
+  "events": []
+}

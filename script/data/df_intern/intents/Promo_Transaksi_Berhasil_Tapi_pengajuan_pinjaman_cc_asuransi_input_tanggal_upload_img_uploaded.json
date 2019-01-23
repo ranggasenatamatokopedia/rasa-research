@@ -1,0 +1,56 @@
+{
+  "id": "5039919a-7bd2-45a6-9e8c-634981930a16",
+  "parentId": "91a46569-d964-4566-b69e-630a06e0e688",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Transaksi_Berhasil_Tapi_pengajuan_pinjaman_cc_asuransi_input_tanggal_upload_img_uploaded",
+  "auto": false,
+  "contexts": [
+    "Promo_Transaksi_Berhasil_Tapi_pengajuan_pinjaman_cc_asuransi_input_tanggal_upload_img-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Promo_Transaksi_Berhasil_Tapi_pengajuan_pinjaman_cc_asuransi_input_tanggal_upload_img_uploaded-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e9d2e5a3-d95a-4e21-9b36-fafac5ed5a1b",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1082"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon menunggu sebentar ya, Kak :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped coba bantu buatkan tiketnya ya, Kak."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523015938,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

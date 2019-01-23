@@ -1,0 +1,53 @@
+{
+  "id": "b8e83835-211e-441a-b752-3377709aa461",
+  "parentId": "f9535481-700f-4b96-b275-80cf097fd837",
+  "rootParentId": "7702a921-0bc2-479f-9cd3-aade8103768a",
+  "name": "Payment_not_verify_digital_platform_waiting_payment_scrooge_waiting_ticket",
+  "auto": true,
+  "contexts": [
+    "Payment_not_verify_digital_platform_waiting_payment_scrooge_waiting-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Payment_not_verify_digital_platform_waiting_payment_scrooge_waiting_ticket-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon tunggu sebentar, Kak."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Terima kasih, Kak. Untuk bukti bayarnya akan dicek dulu."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped bantu buatkan tiketnya ya dan kalau ada informasi lebih lanjut akan disampaikan lewat email :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531211655,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

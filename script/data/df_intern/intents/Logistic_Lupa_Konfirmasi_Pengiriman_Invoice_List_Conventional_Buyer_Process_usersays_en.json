@@ -1,0 +1,51 @@
+[
+  {
+    "id": "0ad34fca-0c9c-4a20-b3b6-46babd4babfb",
+    "data": [
+      {
+        "text": "process",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5566bd0a-e75b-4add-a244-4be41882db51",
+    "data": [
+      {
+        "text": "invoice_sedang_diproses_",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1236f190-c88c-4576-a04f-092cc3db99aa",
+    "data": [
+      {
+        "text": "invoice_barang_diganti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6db3a3d9-3949-4178-bf04-0fac5057664a",
+    "data": [
+      {
+        "text": "proses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

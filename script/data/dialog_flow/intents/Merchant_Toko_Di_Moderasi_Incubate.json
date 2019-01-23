@@ -1,0 +1,43 @@
+{
+  "id": "4f96913d-762e-4306-a404-5ae5e0c7bed7",
+  "parentId": "7f287c44-496d-4df8-b6b5-0c29a68454fc",
+  "rootParentId": "7f287c44-496d-4df8-b6b5-0c29a68454fc",
+  "name": "Merchant_Toko_Di_Moderasi_Incubate",
+  "auto": false,
+  "contexts": [
+    "Merchant_Toko_Di_Moderasi-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Toko_Di_Moderasi_Incubate-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Status toko kamu saat ini sedang dipersiapkan menjadi Official Store. Kalau sudah ada informasi, tim Toped akan menghubungi kamu. Ditunggu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534250359,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "is_incubated"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "9490c732-af8e-44f3-aac5-9332ce6164ec",
+  "parentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Transaksi_Berhasil_Tapi_Tidak_Mendapat_Benefit_kode_unik_promo_evoucher_voucher_belanja",
+  "auto": true,
+  "contexts": [
+    "Promo_Transaksi_Berhasil_Tapi_Tidak_Mendapat_Benefit-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Promo_Transaksi_Berhasil_Tapi_Tidak_Mendapat_Benefit_kode_unik_promo_evoucher_voucher_belanja-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "transaksi sebelumnya",
+              "pengajuan pinjaman / kartu kredit / asuransi"
+            ],
+            "type": 1
+          }
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai Kak, untuk kode unik biasanya akan dikirimkan melalui email/sms Kak. coba cek email dulu ya, di inbox, spam, junk juga."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau sudah dicek tapi belum ada, boleh infokan darimana asal kode unik yang dimaksud:\n1. transaksi sebelumnya, atau\n2. pengajuan pinjaman / kartu kredit / asuransi"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon jawab dengan 1 atau 2 ya, Kak"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "benefit_kode_unik_promo"
+    }
+  ]
+}

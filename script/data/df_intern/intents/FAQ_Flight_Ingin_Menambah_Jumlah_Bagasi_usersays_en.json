@@ -1,0 +1,166 @@
+[
+  {
+    "id": "5361f91c-1856-4b9e-9a96-3f5a08bdf815",
+    "data": [
+      {
+        "text": "tambah bagasi bagaimana caranya ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? saya mau tambah utk penerbangan internasional",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f1ec5b8f-ee98-4e02-acd8-54c50418a898",
+    "data": [
+      {
+        "text": "saya mau request tambah bagasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "25ce9ba7-1e0c-4750-b89c-1dbedd502b1e",
+    "data": [
+      {
+        "text": "tolong saya mau request penambahan bagasi utk penerbangan internasional",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e5c50173-ed8d-4169-a3d6-ee45c69ac7cd",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tlg tambah bagasi saya dong, saya mau melakukan perjalanan internasional",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4bc293e7-7d9a-4493-a720-b035c9abda8b",
+    "data": [
+      {
+        "text": "saya mau menambah bagasi ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", bisa gak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a4cb9b06-b5aa-4b93-a137-eb6cded773ca",
+    "data": [
+      {
+        "text": "bisa menambah jumlah bagasi utk perjalanan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0065da76-43b8-4a0d-8343-24f8cbb8fd53",
+    "data": [
+      {
+        "text": "bisa menambah jumlah bagasi utk penerbangan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "65a5be5b-6532-48b0-90c0-f3f5b687c755",
+    "data": [
+      {
+        "text": "saya ingin menambah jumlah bagasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "90acc9ab-cfe9-4bfb-be52-a828159a2478",
+    "data": [
+      {
+        "text": "apa bisa saya nambah bagasi ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", karna sepertinya tidak cukup utk bawa banyak barang. saya penerbangan internasional",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dadcc9a9-15fc-4625-a053-63a7f56a1067",
+    "data": [
+      {
+        "text": "bisakah saya menambah bagasi utk penerbangan luar negeri?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cde7f5d0-5610-4170-b73e-75b9c960ce0f",
+    "data": [
+      {
+        "text": "saya bisa menambah bagasi tidak ya utk penerbangan internasional?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2168f0e9-3ec5-4221-9e50-3230945c7238",
+    "data": [
+      {
+        "text": "Apakah saya bisa menambah jumlah bagasi untuk penerbangan internasional?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

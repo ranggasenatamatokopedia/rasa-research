@@ -1,0 +1,32 @@
+{
+  "id": "87a7c09b-ed4f-4ff9-863f-978392fae793",
+  "name": "FAQ_Refund_Apakah_Biaya_Layanan_Dikenakan_Jika_Pembayaran_Kartu_Kredit_Dibatalkan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Aturan pengembalian biaya layanan bisa berbeda-beda tergantung pada kasusnya. Jika pesananmu dibatalkan semuanya, biaya layanan akan dikembalikan 100% ke limit kartu kredit.\n\nNamun jika kamu membeli beberapa barang dan sebagian dari barang tersebut berhasil dikirimkan, biaya layanan tidak bisa dikembalikan."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520238510,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_refund_apakah_biaya_layanan_dikenakan_jika_pembayaran_kartu_kredit_dibatalkan"
+    }
+  ]
+}

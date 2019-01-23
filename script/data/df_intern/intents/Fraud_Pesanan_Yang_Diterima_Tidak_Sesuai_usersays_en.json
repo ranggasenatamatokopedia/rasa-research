@@ -1,0 +1,2472 @@
+[
+  {
+    "id": "bae23169-299a-42be-96e3-dbc7a07079f3",
+    "data": [
+      {
+        "text": "Barang tidak sesuai. ",
+        "userDefined": false
+      },
+      {
+        "text": "Penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak responsif sama sekali.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2793fac4-a7b4-4634-abdb-3d1c63a44359",
+    "data": [
+      {
+        "text": "Barang tidak sesuai yang di pesan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0c633678-838b-411a-b7dd-99eee173c8d4",
+    "data": [
+      {
+        "text": "Barang tidak sesuai dengan yg berikan ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "16dae885-8fc2-4450-a536-92ba2f5902c2",
+    "data": [
+      {
+        "text": "barang tidak sesuai setelah saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b8e3f1f1-47a6-48f6-ba7e-a9c9a4710a6a",
+    "data": [
+      {
+        "text": "Toped, saya mau komplain barang rusak tidak bisa dipakai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0ccc0bf6-bd73-43a5-9344-0ffb3b567bab",
+    "data": [
+      {
+        "text": "barang yg udah sy terima tapi gak sesuai gimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8897dabf-709a-45ef-8c6d-81cc62192bd1",
+    "data": [
+      {
+        "text": "Barang rusak, saya minta solusi ganti barang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9fa3caa2-8a14-47ce-a59a-51e6c2f3e238",
+    "data": [
+      {
+        "text": "barang tidak sesuai iklan dan foto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7312bec8-982f-41e5-ab65-0f856d1bb1c7",
+    "data": [
+      {
+        "text": "pesanan yang saya terima tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4ed5acc0-ee58-410b-aeaf-00a918e9d907",
+    "data": [
+      {
+        "text": "saya terima barang tidak sesuai (tidak bisa d pakai sama sekali) bagaimana procedure pengembalian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "06995cf6-32ed-47c2-8743-156569d59f42",
+    "data": [
+      {
+        "text": "Toped, saya pesan ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " barang yang sama tapi yg dikirim cuma ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", bagaimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a1d943ad-2cad-4ee6-b803-dd7e6a539266",
+    "data": [
+      {
+        "text": "Barang tidak sesuai dengan deskripsi, gimana komplain nya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c1a08995-77e2-4da6-8588-2af309f885ca",
+    "data": [
+      {
+        "text": "barang yg saya terima gak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "31c93798-cf06-43a0-a110-c1f0dae9d4fa",
+    "data": [
+      {
+        "text": "Barang tidak sesuai deskripsi dan saya minta transaksi dibatalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "61752bd0-8ae6-47ae-9ec0-fe95627e41eb",
+    "data": [
+      {
+        "text": "Saya mau pembatalan pembelian karena detail barang tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "52ada86f-61c5-472d-8ee1-1d3f9631f598",
+    "data": [
+      {
+        "text": "barang yang saya terima tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "30c09292-1bfd-4b0a-8c08-538fe25add15",
+    "data": [
+      {
+        "text": "order yang saya terima tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e0058057-1106-446c-8170-623e6f5c8f51",
+    "data": [
+      {
+        "text": "Barang pesanan kurang ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " buah, saya mau pengajuan komplain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "55671405-9593-4a87-bd29-f55a5f7d1bf8",
+    "data": [
+      {
+        "text": "pesanan tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3227bbe9-6289-4f9a-b608-a1fde1571bfa",
+    "data": [
+      {
+        "text": "barang yang datang tidak sesuai dengan yang saya pesan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2c063614-f7ec-4208-b7e4-0587ff4fe37c",
+    "data": [
+      {
+        "text": "barang yg sampai tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "98fce6a1-e74d-433c-8eef-5cf4a66f3bec",
+    "data": [
+      {
+        "text": "ini gimana, barang yg saya terima gak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "49a7f227-0278-4639-b8cf-3cabbc017a48",
+    "data": [
+      {
+        "text": "saya mau komplain, barang tidak sesuai sama dengan yg deskripsi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c905afdd-f21c-49bb-860b-790fd005f6bc",
+    "data": [
+      {
+        "text": "pesenan yg ku terima gak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b782aab1-60e9-4a6e-a881-d5a6fb11ed1e",
+    "data": [
+      {
+        "text": "barang tidak sesuai, dikasih barang kw parahal belinya yg ori",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "82a27e31-4ef2-4d14-ba08-ed1b43aba4a5",
+    "data": [
+      {
+        "text": "barang tidak sesuai pesanan, saya mau kembalikan barang dan uang saya kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c23300bf-de1d-4342-bc20-6cad33e8f626",
+    "data": [
+      {
+        "text": "barang yg ku terima gak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "17083722-3071-4fea-8da5-39cb147b2381",
+    "data": [
+      {
+        "text": "barang yg saya terima kok ga sesuai ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dbcf5c57-219f-496f-b682-6682874ee53d",
+    "data": [
+      {
+        "text": "barang tidak sesuai gambar, barang tidak dapat berfungsi. gimana cara komplain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ff964b92-1de1-49fd-9def-c2b716b177a8",
+    "data": [
+      {
+        "text": "barang yang saya terima tidak sesuai dengan di deskripsi, bagaimana cara komplain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b634d5fd-bd37-4c22-8ad3-250b172d47e8",
+    "data": [
+      {
+        "text": "Barang Tidak Sesuai Dan Buku Panduan Tdk Ada Dan Saya Maau Kembalikaan Dana Saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "63d01802-d8f0-4692-8d44-6602979990be",
+    "data": [
+      {
+        "text": "pesanan yg saya terima gak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a372ae43-f1e6-40d6-9063-b993e00b389d",
+    "data": [
+      {
+        "text": "Barang tidak sesuai pesanan mohon bantuan nya untuk dapat dibuka kan kolom komplain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "90d3eba0-823c-411b-871e-aff40e9e9a31",
+    "data": [
+      {
+        "text": "barang saya terima tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4c10f701-3d18-451c-b12d-dd8f015ba610",
+    "data": [
+      {
+        "text": "gimana cara komplain barang yg tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ce64850f-e2d1-4b40-a761-25754471df3c",
+    "data": [
+      {
+        "text": "pesanan sudah saya terima tapi tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5eacf6f4-7277-41a7-99b6-c1408932720b",
+    "data": [
+      {
+        "text": "saya beli barang di toko xxx berupa baju bola ori, pas sampe di saya cuma kaos oblong biasa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bcbe52f9-3ae6-48b2-b4da-a903bad467a3",
+    "data": [
+      {
+        "text": "Pesan hp dikirimnya batu bata, penipuan namanya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7569fc3c-7c67-4c94-a47f-0fcb31e2909f",
+    "data": [
+      {
+        "text": "Terlanjur pesan di toko ini, setelah dicek banyak ulasan ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " yang merasa tertipu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b79758f0-7f1a-4ba9-9fe4-6b8ef2bdc84e",
+    "data": [
+      {
+        "text": "barangnya palsu nih, ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nya nipu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1cecf4ea-0398-4178-a150-f7b812ea1598",
+    "data": [
+      {
+        "text": "saya pesan hape tapi yang saya terima hanya charger saja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c4649dba-9468-4fcb-9e5b-11109142aa87",
+    "data": [
+      {
+        "text": "Beli iphone X yang dikirim hp xiomi, penjual mau nipu nih min",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7a7e2d0b-7c1d-4ab8-a7d7-80839c34e169",
+    "data": [
+      {
+        "text": "barang yang saya terima tidak sesuai dengan yang ada di toko ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ini penipu ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "92b984f8-a092-4f29-a69b-a20f824e9cbe",
+    "data": [
+      {
+        "text": "barang yang dikirim ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak sesuai dengan janji",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "33307ec1-74c1-4389-800b-ef46afbfa358",
+    "data": [
+      {
+        "text": "kenapa barang yang datang berbeda dengan yang ada di foto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e9fedc86-c4c4-42da-ab71-b7cb1f421036",
+    "data": [
+      {
+        "text": "saya pesan hp kok yang dikirim malah indomie goreng",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fad69bb6-8d7f-452a-a344-b9fbfa135443",
+    "data": [
+      {
+        "text": "Kata ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " barang ori, kenyataannya kw super. Saya merasa ditipu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "07dacc13-21cb-48a8-ba23-3c652597d3cb",
+    "data": [
+      {
+        "text": "Saya ",
+        "userDefined": false
+      },
+      {
+        "text": "beli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " baju ukuran L dikirim XL dan beda warna, penipuan ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "90977f81-a541-49df-96e7-96176bbd99ea",
+    "data": [
+      {
+        "text": "palsu nih barang yang dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "311cafcb-25ae-4219-850a-11269f3dea6f",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kirimkan barang yang berbeda dari yang di etalase produknya dia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5441355e-17dc-4d1a-b7e9-367b803f9b8b",
+    "data": [
+      {
+        "text": "barang yang saya terima palsu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "398fe0b6-c6bf-4dfe-bc1c-88cc50ca0ace",
+    "data": [
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kasih saya barang tiruan, tidak asli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cf950a30-d3fe-4001-ac17-d179017e81a2",
+    "data": [
+      {
+        "text": "barang yang saya terima kenapa berbeda ya? apakah ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " menipu saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c063d4ce-ddee-4f5a-a2b2-9cf01bb4874b",
+    "data": [
+      {
+        "text": "Saya memesan hp tapi yang diterima sabun mandi, ini penipuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "88a92185-995e-4dd4-8041-5dc53cd87282",
+    "data": [
+      {
+        "text": "barang yang saya terima tidak original",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0bb0b11f-b835-4292-bdcf-29491155077e",
+    "data": [
+      {
+        "text": "Saya ditipu ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", pesan ",
+        "userDefined": false
+      },
+      {
+        "text": "PS3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi yang dikirim hanya amplop kosong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6388fa58-594c-4f38-b678-84c5ddb23e9d",
+    "data": [
+      {
+        "text": "Saya beli hp, waktu cek pengirimannya resi tidak terlacak dan infonya produk yang dikirimkan berupa baju bukan hp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c662b1a7-a09b-4c6a-9560-237e8e417713",
+    "data": [
+      {
+        "text": "barang yang saya terima tidak original sesuai dengan janji ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bfae0eb6-4775-41ba-b75b-1c2caca521c2",
+    "data": [
+      {
+        "text": "komplain barang salah kirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bd1de9e4-4556-49e2-ab9d-ccc91b7e674f",
+    "data": [
+      {
+        "text": "barang sampe tdak sesuai pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9d9a1354-aae5-4383-a345-0a2b3d8302f6",
+    "data": [
+      {
+        "text": "ternyata ada bagian yg kurang dari barang yg saya pesan, tapi terlanjur klik selesai. gimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d56668c2-f57a-4bdc-9ad9-41fceabb0599",
+    "data": [
+      {
+        "text": "tokocash tiba tiba hilang 500rb ini kenapa ya ? padahal aku tidak ada transaksi dengan nominal itu sama sekali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5ef2fd44-54ae-4f28-bd91-dc56ffe13833",
+    "data": [
+      {
+        "text": "barang yg saya pesan ada 4 (sosis,  kentang, mayonais, saos) tapi yg dikirim hanya 2(sosis,mayonais), alasannya karena 2 nya lagi sedang kosong, tp uangx tdk dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2acf7295-6186-4648-8a6a-4dba7fb86b6a",
+    "data": [
+      {
+        "text": "saya ada membeli produk dari toko hammer, Titan gel dengan kemasan warna hitam merah, namun yang dikirim yang warna gold. Sudah saya ajukan komplain setelah lewat 1 hari ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "783b1949-7af6-4ec3-a5ec-58a0c90f87ae",
+    "data": [
+      {
+        "text": "saya sudah terlanjur konfirmasi barang di terima tp produk nya berkendala",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2f67a225-7b8a-42e1-9bb9-fb2d9cdd72ea",
+    "data": [
+      {
+        "text": "kiriman infocus 2unit hanya ga ada remote dan box",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fc73d4e9-12c3-4800-a56b-6eb813a79711",
+    "data": [
+      {
+        "text": "barang yang saya terima bermasalah dan tidak bisa digunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "424183df-ae9c-4430-875f-1f2ab6dc83d4",
+    "data": [
+      {
+        "text": "saya beli ada 6 kenis dari 6 toko berbeda.tapi kenapa di barang yang sedang di kirim cuma ada 4",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d49a069c-997c-4768-af6c-a99a7755576b",
+    "data": [
+      {
+        "text": "jumlah pesanan tdk sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e0afbee1-a114-4994-a03e-871d81a64c25",
+    "data": [
+      {
+        "text": "saya udh komplain untuk barang yg saya terima gak sesuai, tp komplainnya di tutup otomatis, tlg bantu perpanjang ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0694f893-25e7-46c8-bfb5-18a0002fec38",
+    "data": [
+      {
+        "text": "pesanan tidak sesuai dengan yang saya pesan dan barang tersebut rusak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4e82726d-6d56-4b37-aea2-673b27317b79",
+    "data": [
+      {
+        "text": "saya melakukan pembelian dan barang yang sampai namun tidak sesuai dengan yang dipesan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b5f4b4bc-51ce-4bbc-a68c-14090a79b5be",
+    "data": [
+      {
+        "text": "saya kemarin beli barang, dan sepertinya dari pihak JNE kemarin barangnya tertukar..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bdfcb53d-24b7-4654-bcf8-8bb0b88abb4f",
+    "data": [
+      {
+        "text": "barang yg di kirim pecah berantakan dan paket keteramgan nya mainan anak pdhal saya order nya botol minun,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a902e32f-3801-45a4-adba-f233f22505dd",
+    "data": [
+      {
+        "text": "namun tiba2 belum sampai 1 bulan, satus software tersebut expired dan penjual tidak merespon chat saya sudah 2 hari.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dc31040c-e776-4857-8e33-fd2fe978ee95",
+    "data": [
+      {
+        "text": "jika brg yg di beli tidak original setelah 3hari gimana solusinya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9e7d691b-d1a0-48d0-a9e5-ca978ec20ee6",
+    "data": [
+      {
+        "text": "barang yg dikirim tdk sesuai seharusnya sepatu tpi kenapa yg dikirim amplop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0cbeb16f-8212-44e1-8e60-29badabbbed5",
+    "data": [
+      {
+        "text": "barang yg dikirim penjual barang rusak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c3198936-96f5-455b-a69e-3ba133a2ef39",
+    "data": [
+      {
+        "text": "kak,  bagaimana caranya klu saya mau balikin jam tangan karna yg saya terima rusak. ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e406f186-ab07-49ee-b874-86e228ebd1be",
+    "data": [
+      {
+        "text": "saya memesan 10 buah barang yang diterima hanya 6.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cb925f5c-e651-4ad9-bcf0-861e52cff59f",
+    "data": [
+      {
+        "text": "saya pesen dua produk di penjual yg sama, tp yg dikirim cuma satu karena yg lainnya habis, uang saya gimana tuh?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3803298e-3984-4ce2-913b-e1ac7dcc44bf",
+    "data": [
+      {
+        "text": "Saya menerima barang yang warnanya tidak sesuai dengan foto yang didisplay di tokopedia jadi saya ingin refund. sy sudah chat dengan penjual dan penjual menyetujuinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3a268b21-2db6-4184-b3c9-bda6c9e89efa",
+    "data": [
+      {
+        "text": "Pembelian Hp xiomi redmi 2 prime barangnya rusak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "24a25133-c666-4b47-affd-21ddb95037aa",
+    "data": [
+      {
+        "text": "toko Rimas Technology hanya mengirim barang sebagian / tidak lengkap sesuai pesanan , bagaimna cara saya mendapatkan uang kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "38128833-ac50-417f-bc7e-bc743a0679f9",
+    "data": [
+      {
+        "text": "Seller salah kirim barang . Untuk invoiceINV/20181101/XVIII/XI/225508483",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dc0b297d-8788-4c57-84ff-2ec7157b5221",
+    "data": [
+      {
+        "text": "Saya mau retour barang karena gak fungsi ke Mi jakarta tapi sulit sekali komunikasi sama toko.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e56bdf8f-e1fe-48ac-9872-e991b27be279",
+    "data": [
+      {
+        "text": "penipuan untuk jual beli mas berlian. mohon tokopedia menindak langsung penjualnya krna telah melakukan penipuan. ternyata yg dijual bukan emas.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d7d29327-c421-4131-899b-48263e9bc7ac",
+    "data": [
+      {
+        "text": "barang baru sampai 1 minggu kemudian setelah acara selesai dengan alasan ekspedisi overload dan ketika dibuka pun ditemukan 1 barang hancur dan alasan penjual kerusakan oleh pihak ekspedisi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "733ec545-0f7e-41f6-8b2a-38aa0790bf58",
+    "data": [
+      {
+        "text": "saya beli barang 2 pasang. yg dikirim cuma 1 pasang. sampai sekarang komplain saya tidak ditanggapi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4b439120-0090-4f33-99cf-a95fee395110",
+    "data": [
+      {
+        "text": "saya belanja di mitra abadi tp brng yg sy terima ada yg rusak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "96c45326-fc97-4577-97ad-a24186f6f0fc",
+    "data": [
+      {
+        "text": "malam, saya mau komplai kepada toko little pillower karena saya memesan box nasi bento 50pcs tp tutup nya kurang 3. saya minta jln keluarnya. karena saya baru menghitung nya malam ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b1e232d5-48c6-431e-8126-f44d55e880b2",
+    "data": [
+      {
+        "text": "saya bei brg dr toko, dan brgnya kaca ada yg retak, claim asuransinya gmn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "550db753-d3ee-40ee-bb83-01fcbd17aba0",
+    "data": [
+      {
+        "text": "pesan 2 UNIT!!, DIKIRIM CUMA 1 UNIT!!!!!, pesan NO REPACK!!, DIKIRIM BARANG REPACK!!!!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e7adf389-0aa0-414e-9a21-635d0c7a9f7d",
+    "data": [
+      {
+        "text": "saya pesen cover ipad2 lama tapi seller kasih ukuran yg salah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ac3a7620-02d9-48ec-b1f3-a042e0a685d7",
+    "data": [
+      {
+        "text": "lcd yg sy terima dlm keadaan scretch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "700b05d8-341d-439c-acb3-55be290d6153",
+    "data": [
+      {
+        "text": "refund barang karena barang kurang dr penjual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9e2a79c2-77d9-4d03-b6df-1ea3a80db687",
+    "data": [
+      {
+        "text": "Barang jualan saya rusak dalam pengiriman, bagaimana saya harus klaim asuransi? barang ditolak pembeli. Tokopedia tidak membolehkan bayar asuransi ke kurir..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e45bacfe-dd6f-49dc-b8eb-e8bf91c06ba5",
+    "data": [
+      {
+        "text": "minta pengembalian uang karena barang tidak sesuai pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bf677775-b1cb-4f91-9d7e-535979b72b52",
+    "data": [
+      {
+        "text": "bagaimana caranya klu saya mau balikin barang saya karena yg saya terima rusak, mohon bantuannya, tks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "357fe8e8-fcdd-44ea-9214-ce9fe01d2773",
+    "data": [
+      {
+        "text": "Sy pesan barang ada 2.. yg 1 kosong.. Sy minta refund ga dikirim2.. tolong pihak tokped menghubungi penjual. toko cahaya shop.. sy sudah nunggu berhari2..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3d149be8-04d5-4e9b-a75a-ce7bedccd33a",
+    "data": [
+      {
+        "text": "Barang dg no. faktur INV/20181029/XVIII/X/223679430  ada 2 item , salah satu barang tiba dalam kondisi rusak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0688f6bb-5ff1-41b3-8399-5bbf18793c00",
+    "data": [
+      {
+        "text": "barang ga sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9d0addfa-6bcf-4e3f-9672-8e857911bfb0",
+    "data": [
+      {
+        "text": "Saya hanya menerima sebagian barang pesanan saya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5530b541-b35b-45d8-832b-0e360cefaea4",
+    "data": [
+      {
+        "text": "Barang yg dikirim tdk sesuai dan kurang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d545fe0a-d347-4959-9c49-255da3975688",
+    "data": [
+      {
+        "text": "status pembelian saya selesaikan, sore ini saya baru sempat buka paket kiriman ternyata cuma ada 1 unit masi kurang 1 unit lagi,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ba2f1eee-7d32-4114-a603-65ed4c308951",
+    "data": [
+      {
+        "text": "mengapa uang saya ditahan, untuk invoice nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "687fc91a-9e07-4ca5-afc0-dbedf28eb115",
+    "data": [
+      {
+        "text": "Pesanan saya 12 buah namun yang kami terima hanya 9 buah, tolong refund dana selisih volume ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "31d67ad9-70ed-402a-8e92-1d5e3a68fae7",
+    "data": [
+      {
+        "text": "sy pesan / beli pompa sepeda. pompa tdk bisa digunakan.patah slang angin nya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b29576e2-873f-4720-a723-d06ade6acec3",
+    "data": [
+      {
+        "text": "ada 1 store tokopedia mengirim barang tidak sesuai dengan pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "67bdcd83-e309-40da-92a7-1eb16923d153",
+    "data": [
+      {
+        "text": "Kalo misalkan ada barang sy yg kurang dr yg sy pesan apakah sy tetap tekan transaksi selesai atau sy konfirmasi dulu ke tokonya sampai barang yg kurang dtg baru setelah itu sy tekan transaksi selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6a6dd35a-ab92-41e3-98a1-fe1a2ed7d06b",
+    "data": [
+      {
+        "text": "transaksi sdh selesai tapi ada masalah sama barang yg di beli  bgmn solusinya ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "be3168e5-bff4-459e-9e16-de17b826c20d",
+    "data": [
+      {
+        "text": "saya mau melaporkan komplain saya ke penjual ini. saya beli barang 2 pasang. yg dikirim cuma 1 pasang. sampai sekarang komplain saya tidak ditanggapi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7aafd8b9-473e-4626-ae13-74fdc562d81d",
+    "data": [
+      {
+        "text": "barang yang saya beli ... baru saya pasang sudah rusak , hari ini saya ke toko tersebut dan membantu mengirimkan ke pihak servic di gigabyte , ini juga di kenakan biaya dan harus menunggu 3-7 hari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "eae4cf6a-ef33-494c-a019-cd4fb5ec5cfd",
+    "data": [
+      {
+        "text": "saya mau retur barang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "677e34ae-b4b6-4e56-ac56-2ae147808cd8",
+    "data": [
+      {
+        "text": "Barang sudah sampai tapi kurang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "272c02f6-5087-4c69-aae7-0b5f09c8f08a",
+    "data": [
+      {
+        "text": "sudah di bilang lem bulu mata yg di kirim palsu dan tidak ada bpom nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "95223409-3610-44a9-9c63-e702547f3ea6",
+    "data": [
+      {
+        "text": "barang sudah diterima tapi cacat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "487176f6-19c6-4699-be05-5742b6200393",
+    "data": [
+      {
+        "text": "mohon dibantu untuk no. invoice ini: INVIDTAG pembeli menyatakan barang berjamur tapi sebelum dikirim kita cek dulu tidak ada yg berjamur n sudah saya arahkan ke pembeli untuk kirim video packing n produk yg jelas beserta no. code produknya tapi pembeli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "06c50828-03fc-4822-bad7-f7d986205f4a",
+    "data": [
+      {
+        "text": "pesanan sy tdk sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fc3e6fcc-68e9-40f5-885f-e202fc7487b7",
+    "data": [
+      {
+        "text": "minta di kirimkan kembali oleh seller tapi seller belom ada jawaban mungkin karena transaksi sdh selesai dan duit sudah cair",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5b41ed00-7426-4d58-8ec4-3b48c76b458f",
+    "data": [
+      {
+        "text": "sy mendapatkan barang rusak dan bukan barang baru seperti yg diiklankan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b68677bc-1fa6-4c89-93aa-40b340aa55e7",
+    "data": [
+      {
+        "text": "saya pesan brg 2 buah mouse yang sampai hanya 1 disaya. pengiriman menggunakan jne yes sedangkan penjual kirim menggunakan reguler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5fad183d-9571-4e1f-a427-edabf17b6958",
+    "data": [
+      {
+        "text": "pesanan saya ke toko resmi Anker Indonesia dikirim tipe B2141J11, beda warna. Masalah nya Charger ini tidak bisa Fast Charging, padahal dalam keterangan pemakaian penggunaan nya bisa Fast Charging.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "71d8d4d8-c0bc-46b0-b338-2cfd5de876d6",
+    "data": [
+      {
+        "text": "sya ingin mengembalikan barang yg saya beli dan meminta uang saya kembali karna prodak yg saya terima prodak tidak sesuai pesananan barang nya palsu tidak original",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8b86e0ee-8e16-4092-9136-d006528adba5",
+    "data": [
+      {
+        "text": "ternyata warna cat yg saya beli kurang matching",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "aaa86e2c-6b1c-4403-907b-9b44518ec39e",
+    "data": [
+      {
+        "text": "barang yg dikirim tidak lengkap.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "69d18912-75d6-464d-b05e-4f9654e400d4",
+    "data": [
+      {
+        "text": "barang yg dikirim oleh penjual (the luxe) yaitu bantal dan guling masing2 dua set, tidak sesuia deskripsinya. bantal dan guling yg dikirim lebih kecil ukurannya dari pada deskripsinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a445515b-8b49-44ee-811a-072ad0dff9e1",
+    "data": [
+      {
+        "text": "batik couple familybrg yg sy terima tnyata beda motif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e6736159-80bb-4a01-b8b7-ab572a86f734",
+    "data": [
+      {
+        "text": "Saya kan di komplain brng kurang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3f88e1ba-daaa-4a86-a3c4-5392ee1eb1b8",
+    "data": [
+      {
+        "text": "alamat yg di tulis seller gak sesuai, jadi makanannya rusak ini, intinya seller terlalu memaksakan diri ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0cc8144e-4eb6-44a0-a683-df9d2078f0a8",
+    "data": [
+      {
+        "text": "saya beli di  toped tp barangnya error, toped minta saya kirim barang ke penjual tp saya di luar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "61cd5432-9991-434e-b00e-079ffc1deca2",
+    "data": [
+      {
+        "text": "paket yg saya terima ada masalah. tp tokonya minta ongkir pulang pergi saya yang tanggung. apa memang seperti itu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ce308b06-c988-48b9-85ec-6a247f2aecef",
+    "data": [
+      {
+        "text": "kiriman saya terima tidak lengkap, sudah chating langsung ke penjual tidak pernah direspon. ditelepon juga nomor penjual sudah tidak terdaftar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a29a21f5-9360-44e0-a965-63ef74f51d24",
+    "data": [
+      {
+        "text": "barang sudah diterima tapi rusak. thermos tidak bisa dibuka dan pecah dalamnya. sudah hubungi penjual. Namun belum mendapatkan balasan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "eeec60fb-0a9b-4044-9d45-54e3380c1a7f",
+    "data": [
+      {
+        "text": "bell pintu yg saya beli tidak bisa berfungsi remotenya. saya sudah berusaha chat ke penjual tp tokonya tutup. tempo hari ada pesan dibuka tgl 24 okt. hari ini saya liat pesannya dibuka tgl 27 okt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c8636ce4-639b-4c6c-a1db-956eccca914e",
+    "data": [
+      {
+        "text": "sy pesen alat utuk jagung senilai 2jt+ ongkir jdi 2.4jtBarang yg dikirim tdk sesuai. Sesuai kesepakatan sy mau tuker sy di suruh kirim balik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4b71b47c-4897-4eb3-8a0a-e3f88c81617a",
+    "data": [
+      {
+        "text": "penjuan tidak mau bertanggung jwb sm apa yg dia kirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5e58fb84-3019-4e8a-ac0d-93421ce627a2",
+    "data": [
+      {
+        "text": "saya sudah menjelaskan deskripsi produk secara detail..dan itu sudah diperiksa oleh teknisi..2. komplain mengenai bagian yg retak, kalau memang retak kenapa tidak langsung setelah komplain setelah barang sampai..tp komplain setelah dibawa ke teknisi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "63c6f7b2-9823-413e-b1e9-edaf04ef2077",
+    "data": [
+      {
+        "text": "ini barang yg saya terima tidak sesuai, sudah lewat lama banget, berapa lama saya harus menunggu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "884cd19d-881b-4ec3-a09e-744345f4c20f",
+    "data": [
+      {
+        "text": "saya pesen barang tp yg diterima tidak sesuai, tolong perpanjang masa pencairan dana untuk penjual sampai saya menerima keseluruhan barang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "42c35dd2-83b4-4061-8484-a8dcdf3c0a1a",
+    "data": [
+      {
+        "text": "pada saat barang dateng tidak saya videokan hanya foto, pas saya bukan barangnya ada yg pecah, bagaimana nih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5ce11e7c-9f8a-41cc-b330-7f60ce1a98e5",
+    "data": [
+      {
+        "text": "masalah claim asuransi karena barang yg saya terima dalam keadaan rusak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "31cdb2d7-fa7d-42f6-8b42-e3c6842be4e9",
+    "data": [
+      {
+        "text": "tetapi masa kadaluarsa barang yang di pesan telah habis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fd79ad1a-6bda-49a0-9ff8-003967426ed6",
+    "data": [
+      {
+        "text": "sya pesan sepatu fila ukuran 41 tapi yang di kirim sepatu ukuran normal 38 ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "db2fad95-0b66-4628-ae14-a110db8164bd",
+    "data": [
+      {
+        "text": "BARANG PALSU.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a7390c6d-9e70-4626-877f-4c1f6b10b090",
+    "data": [
+      {
+        "text": "sampai saat ini pelapak vitaminmurah belum mengembalikan dana dari barang kami yg tdk lengkap spt yg dijanjikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ffe8ffc8-7139-45fb-a5a7-59dc02d1c587",
+    "data": [
+      {
+        "text": "dana refund tidak kunjung di transfer oleh penjual. saya order 3 di kirim cuma 2 alasan nya stock kosong jadi di kirim 2 dulu. mohon bantuan tokopedia untuk follow up ke pihak penjual agar cepat di refund dana saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4ea7332a-db6c-4234-9db4-179f2cc53145",
+    "data": [
+      {
+        "text": "pesanan buku yang pertama ga ada setelah saya buka packingnya..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "742b32f8-7ed2-4940-bd94-a7a99d4be4e7",
+    "data": [
+      {
+        "text": "Ternyata setelah barang sampai ada yg kelupaan dikirim dr pihak tokonya. gimana ini padahal di Akun saya barang sudah dianggap terkirim. ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c9a0c967-9a6d-432b-8fb8-3e9b6782f61d",
+    "data": [
+      {
+        "text": "Memori ram yang dibeli dengan nomor invoice tidak bisa digunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d97a513b-2d30-41a3-a850-134d00176969",
+    "data": [
+      {
+        "text": "2 pembelian ini barangnya pecah 1 ktnya ada asuransi disuruh orang toko komplain ke tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a6af3ef5-2070-4736-8354-2b2d83d7f035",
+    "data": [
+      {
+        "text": "saya menerima barang rusak, sdh chat ke penjual .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "432235e6-87e7-4c6a-aaca-6078cde5c688",
+    "data": [
+      {
+        "text": "beli tv samsung . terindikasi penipuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "74ae6fb8-be83-4329-b460-fce27f066c77",
+    "data": [
+      {
+        "text": "Kedatangan barang, tdk sesuai dgn yg saya order. Saya sdh complain, tetapi penjual Tidak mau merespons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ea7c994e-15ec-495b-95e6-514f823a58fb",
+    "data": [
+      {
+        "text": "tidak sesuai kualitas nya dan saya menduga ini tiruan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6a016c24-6ded-432c-b85b-16e3298f1e00",
+    "data": [
+      {
+        "text": "mohon dibantu untuk invoice karena 1 barang rusak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9f2fc21d-32a6-44a5-9e39-2b3b34ac80fa",
+    "data": [
+      {
+        "text": "Penjual menipu dengan pasang iklan bahwa produknya dijamin lebih bagus.dia pasang harga super mahal yang ternyata ketika sampai barangnya sama saja  Ukuran produk pun tidak sesuai..produk lebih kecil dr ukuran deskripsi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "33879dad-45d5-403f-9d3a-25900262f627",
+    "data": [
+      {
+        "text": "saya dapet komplen, bahwa barang kurang, terus saya kirim lagi pake grab, tapi resi grab kagak ke lacak di grabnya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5b1a14a2-88ad-4d31-bf41-f4fcc2397922",
+    "data": [
+      {
+        "text": "Penjual salah kirim barang ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "14917dd5-7485-4361-85c9-5a67887f65c9",
+    "data": [
+      {
+        "text": "tolong di kaji lagi bagaimana supaya barang saya bisa diretur,saya pesan sepatu onitsuka mexico cream black \u003cbr\u003etapi yg datang warna putih saya komplain ke pembeli dia bilang sudah sesuai warnanya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0c3db4a5-0c56-4a9f-89ad-33282d181397",
+    "data": [
+      {
+        "text": "aku pesan talang air chevrolet spin yg datanh secuirty lock . aku minta tuker n udah isi kolom komplaim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c6a44f51-d559-41a6-9a55-9f4bee34dcf2",
+    "data": [
+      {
+        "text": "Saya membeli barang dr jclick. Saya sudah telanjur konfirmasi menerima barang. Lalu saya cek barang rusak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "702c7404-2e23-40b1-b514-9a21e7bbe9fc",
+    "data": [
+      {
+        "text": "barang tidak lengkap . maksudnya cd, saya tidak mengerti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "59bb4cb4-ffd1-4592-b727-9c3a105352da",
+    "data": [
+      {
+        "text": "Bagaimana cara tukar barang  yang tidak sesuai?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e98dc583-2819-45e7-935c-dbc0ea6f3cf1",
+    "data": [
+      {
+        "text": "Saya sudah klik selesai..untuk pembelian keyboard laptop Asus..namun ada kendala karena ada touch tidak berfungsi..jadi saya ingin mengembalikan keyboardnya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4f5fa7b1-0159-4759-ac69-d232cad11766",
+    "data": [
+      {
+        "text": "sy sudah pesan khusus ke seller. tp dia mengirim barang yg salah. dan sy baru sadar saat sy sudah click terima. j",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ba896876-8ce5-4862-9f88-2c48b2c6c5f0",
+    "data": [
+      {
+        "text": "untuk pemesanan pd invoice ini, yg dikirim bkn barang tp kwitansi saja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bd4c0284-ba5e-4dbd-9e6d-b55cc957aae1",
+    "data": [
+      {
+        "text": "penjual menjual brg kw",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "033bcef5-ede1-4c8c-8256-32bff9e13e0a",
+    "data": [
+      {
+        "text": "Barang yg dikirim beda warna mustinya rose gold tp yg dikirim hitam, sudah complain tapi stgh hari tidak ada respon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3f8749fc-4680-4d24-b083-a74ac42702a7",
+    "data": [
+      {
+        "text": "Barangnya rusak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "960ddb68-89e0-4399-990f-792c67424d81",
+    "data": [
+      {
+        "text": "Barang yg dibeli minta sy tuker tp toko minta hub teknisi mereka. Setelah saya hub dikasih cara2 oemasangan barang yg sy beli yakni cctv xiaomi, ttp tidak bisa juga. Sy minta ganyi dan no response",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e83578d3-19fd-4e12-a9c8-3c6ed489ccb4",
+    "data": [
+      {
+        "text": "saya terlanjur klik selesai tapi barang yang di terima cacat . Finished / Selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5af7e544-9194-4695-9630-f842114f4e83",
+    "data": [
+      {
+        "text": "saya ada beli barang dan ada yg kurang tp terlanjur konfirmasi transaksi selesai.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f6a3c571-391c-4d99-a048-feb2996fa7e9",
+    "data": [
+      {
+        "text": "beli samsung j6 plus \u003d2 unit seller baru kirim 1 unit terlanjur tertekan terima barang mohon bantuannya .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fb1adad9-29b5-48b9-bfaa-81472e408bf8",
+    "data": [
+      {
+        "text": "selamat pagi,saya telah bertransaksi dalam pemesanan miranda magic hair shampoo warna BLACK  tetapi setelah saya cek yg dikirim warna Wine red padahal semalam saat tiba sudah saya konfirmasi paket diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "98f679c0-101c-4f1f-a3ac-904dbfb898a1",
+    "data": [
+      {
+        "text": "Barang tidak sesuai pesanan (pilihan motif geometri di kirim motif kembang)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a0f9db00-fd10-4a88-b4f4-30a1bc882567",
+    "data": [
+      {
+        "text": "Saya berbelanja di salah satu online sebanyak 5 item tetapi hanya 4 item di terima sebelumnya saya sdh tanya apakah barang tersebut ready n jwbnya Ya...setelah saya byr barang nya tdk ada....bgm pengembalian dana...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "898d3303-5256-4c52-8c71-0062c0f64d80",
+    "data": [
+      {
+        "text": "Saya baru saja membeli sepatu, tapi waktu alam sepatu saya datang, besok paginya harus ke luar kota jadi blom sempet cek detail ukuran. Saya mau tukar ukuran sepatu tapi status transaksinya sudah selesai dan tidak bisa komplain.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b1f602ce-b5ed-450d-b1f0-f1e00dfa92d3",
+    "data": [
+      {
+        "text": "ngin retur tp transaksi sudah selesai, dan sudah konfirmasi terima barang karena sy dropshipper, bgtu barang sampai sy lsg kirim kembali ke pembeli ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2fe86f01-0c77-45b1-ab82-0044136f09f1",
+    "data": [
+      {
+        "text": "mohon maap saya ada masalah dengan transaksi itu barang yg di kirim tidak sesuai bagaimana cara mengajukan komplainnya jika transaksi sudah selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "505911f1-a68e-4651-a134-31b476581db0",
+    "data": [
+      {
+        "text": "Barang saya ada yang kurang . Sudah diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c8b5e852-4630-4b7a-a3d1-972050d9c489",
+    "data": [
+      {
+        "text": "Saya beli alat uap omron c 28 tapi mesin tidak bs nyala",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c796612f-c951-42ab-b8bf-e7fe791d2fd0",
+    "data": [
+      {
+        "text": "tidak sesuai aplikasi.dan tidak nyala.saya udah chat penjual tidak di jawab.sy minta di kembali dana aj.60.000 termasuk ongkir 9.000.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f9537a09-c74a-4766-814d-951357f09b3a",
+    "data": [
+      {
+        "text": "Ukuran velg tidak sama dngn deskripsi..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b7af9219-4444-48e0-aaa5-ad0a48789406",
+    "data": [
+      {
+        "text": "jika barang sudah diterima dan di konfirmasi tapi ternyata baru ditemukan kalau tidak sesuai deskripsi, apakah masih bisa mengajukan pengembalian dana ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f547f64b-79fc-4ffb-aa09-162b79625390",
+    "data": [
+      {
+        "text": "saya beli barang pas saya terima tidak lengkap tapi sudah terlanjur saya klik terima . Finished / Selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7e6dbe8f-551c-42cd-a47d-7435414c13af",
+    "data": [
+      {
+        "text": "Barang yang diterima ada cacat produksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0ab08315-3924-4515-8b63-75deb66cadfd",
+    "data": [
+      {
+        "text": "saya beli 2 item barang... yang 1 item ternyata kosong jd mo di refund. barang satunya yg stock nya ada, tetep dikirim. gmn cr refund nya? . sedang dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "30b0cc5d-c9e0-4e61-bf29-57375d8f9f74",
+    "data": [
+      {
+        "text": ". say sudah terlanjur klik selesai dan akan komplain apakah bisa dibantu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "47e67fc3-2a70-47e0-a8da-af9bfe1aca1b",
+    "data": [
+      {
+        "text": "barang yg saya pesan datangnya tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6274836f-e8cb-4a46-bf80-a8bb293d2667",
+    "data": [
+      {
+        "text": "I made a complaint and have received no follow up from Tokopedia and they allowed the shop to take my money for a faulty product. This is very unprofessional and I want this product changed for a correct one or my money back asap.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0373b650-568e-44e1-a3a1-beae4e6e924b",
+    "data": [
+      {
+        "text": "tp pesanannya udh slsi bs? . barangnya salah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "87152947-ff33-4b35-9df7-2f48b968d449",
+    "data": [
+      {
+        "text": "barang tidak berfungsi . Finished / Selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5a4960aa-7525-4f68-954e-0609558e293d",
+    "data": [
+      {
+        "text": "Paket tidak sesuai dengan pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0eb6ac8e-6c28-49b9-b9b1-dfe5a29509e4",
+    "data": [
+      {
+        "text": "barang yang di order tidak sesuai gambar ,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b821caac-fdf4-4214-81c9-7494058efe24",
+    "data": [
+      {
+        "text": "HP order 2  baru d kirim 1. Penjual hanya bilang akan d cek, tapi tokopedia segera mentransfer uang.Bagaimana bisa tokopedia ceroboh? Saya merasa sangat dirugikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ecbde8b6-ad3f-440f-a800-a3f778440a9f",
+    "data": [
+      {
+        "text": "Saya pesan barang lewat akun ade saya, d toko yg sama tapi 2x order, pesanan saya yg 1 sampe 1 y lg nggak, dgn maksud supaya voucher pengiriman y bisa d gunakan, tapi pelayanan dari toko y benar2 buat saya kecewa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0742d5c2-8450-4a79-8958-b05505d637bc",
+    "data": [
+      {
+        "text": "barang yang saya terima tidak sesuai dengan gambar yg dideskripsikan penjual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1dc4e73e-0b5e-4096-8672-93e3d90d8ff3",
+    "data": [
+      {
+        "text": "Barang yang saya beli dari toko TBE sudah rusak padahal belum sampe sebulan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f41143c1-be09-4726-a93b-063769c351dc",
+    "data": [
+      {
+        "text": "Barang kedua tidak sama dng kiriman pertama. Size, warna dan kualitas... toko GOOD MERCH. Tidak bisa upload foto atau video",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8f476eb1-f02e-417c-b922-4d383187f191",
+    "data": [
+      {
+        "text": "barang saya salah kirim oleh penjual,,tapi saya terlanjur klik selesai.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cbfac142-45e0-4a77-af62-18f06d19c2b9",
+    "data": [
+      {
+        "text": "Produk gagal. Memotong apel yang sudah dipotong kecil 1 cm aja tidak bisa. Pisaunya cuma nempel ke 1 potong apel. Tidak kuat berputar.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3365644a-a562-4c67-aea0-ade126f3ec9f",
+    "data": [
+      {
+        "text": "Bagaimana prosedur retur barang yang saya terima ternyata tidak berfungsi dengan baik? . sudah diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d89fbc62-8043-4195-916a-1254b3a62ae8",
+    "data": [
+      {
+        "text": "kalau jumlah kiriman barang gak sesuai total yang kita beli,terimakasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f468a4ef-8942-4148-a507-de9cb1e12750",
+    "data": [
+      {
+        "text": "saya pesan tempered glass untuk dikirim.saya baru tahu barangnya salah karena saya dari luar kota baru sampai. uang sudah cair. bagaimana??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2620414d-5a84-4c77-a41c-5a0e253dc63c",
+    "data": [
+      {
+        "text": "saya beli 2 brush real technique di toko beauty haulindo. tapi brg nya bunyi kayak koplak gitu. sedangkan yg 1 lagi nggak. apakah saya bisa minta tukar barang ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b60be7a3-c749-4462-a9c8-4ea4af966c09",
+    "data": [
+      {
+        "text": "saya terlanjur memencet tombol konfirmasi terima barang sehingga tidak bisa komplain kerusakan barang yang saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "74b18ddd-f809-4be1-ac22-e09ddaee6fdb",
+    "data": [
+      {
+        "text": "saya beli charger dari promo tokopedia, waktu saya beli di deskripsinya tertulis charger + cable, setelah saya proses pembelian ternyata deskripsi barang di ganti oleh penjual, jadi cuma dapet kepala chargernya saja tanpa cable",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "14dd96b2-5212-4448-a611-1d976ea472a9",
+    "data": [
+      {
+        "text": "Gbr produk di chat beda dgn yg ditawarkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "efab9945-76b2-47a3-884e-958e154e99ac",
+    "data": [
+      {
+        "text": "Pemesanan buku aktifitas disney dari adinata official store bermasalah seperti foto terlampir, bagaimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

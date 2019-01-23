@@ -1,0 +1,584 @@
+[
+  {
+    "id": "ba5cad84-ce9b-4ff0-a474-e2149842b19e",
+    "data": [
+      {
+        "text": "gimana pesan tiket pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "842a4b78-8343-4830-98b7-f42f95f01710",
+    "data": [
+      {
+        "text": "caranya gimana buat bayar tiket pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b96dedc1-2b7a-48d4-9a09-7c0d58fdbd69",
+    "data": [
+      {
+        "text": "Mau tanya ovo point ga bisa dipakai di pembelian tiket pesawat ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "65a43348-3f28-4f8c-bdb3-3fbc1b99924b",
+    "data": [
+      {
+        "text": "Untuk pemesanan tiket pesawat kenapa tidak ada pilihan ovo di motede pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "387d9564-c11f-4037-b335-a4a669b6cf82",
+    "data": [
+      {
+        "text": "bgmna cara bayar tiket pesawat dgn ovo ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "91a8d57a-5051-41c1-b0e2-dcd7b92b3c67",
+    "data": [
+      {
+        "text": "min, tiket pesawat pakai metode bayar apa saja?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "751e2817-cf16-4dde-80bd-d14965b45328",
+    "data": [
+      {
+        "text": "saya mau beli tiket pesawat di tokopedia menggunakan metode apa saja ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3d9c35dd-2af8-4f17-a806-8e2de557c16e",
+    "data": [
+      {
+        "text": "metode bayar utk pembelian tiket pesawat bs minta tlg informasikan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bf544343-52c0-4854-909c-f1a0913689e8",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", infokan metode pembayaran utk beli tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5a8a5788-bd1c-422f-ae78-37f1862816e1",
+    "data": [
+      {
+        "text": "caranya gimana utk saya memesan tiket pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "063544db-1675-4629-bf3e-083727ca4e9c",
+    "data": [
+      {
+        "text": "bs informasikan metode bayar nya apa saja utk beli tiket psawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "30577be7-f225-4b13-a500-cad6978ddf8b",
+    "data": [
+      {
+        "text": "apa saja metode bayar utk beli tiket pesawat di toped?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2ae06884-a52b-480d-b16b-22cb7e58de45",
+    "data": [
+      {
+        "text": "infokan metode apa aja utk beli tiket pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e863e4ed-dee4-421e-89ec-3892237aa1e3",
+    "data": [
+      {
+        "text": "bagaimana cara melakukan pemesanan tiket penerbangan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ef4ff534-fe06-4e80-9dfb-068c7ccfb27d",
+    "data": [
+      {
+        "text": "pesan tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "57593756-9a11-43b7-a6d7-a4d4da2da1b7",
+    "data": [
+      {
+        "text": "gimana cara booking tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fb6bc1f1-41f2-472e-b5ae-6387f70ce51d",
+    "data": [
+      {
+        "text": "tiket pesawat ingin dipesanmem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bee5955e-5d46-48f4-92d1-6d704f21ac5c",
+    "data": [
+      {
+        "text": "cara pesan tiket pesawat di tokoepdia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7d63bf6d-89b1-40cf-8d8a-0e0450ae4dc4",
+    "data": [
+      {
+        "text": "cara pesen tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b9fa0cdf-5f66-4481-ae5e-5d5daa74a7af",
+    "data": [
+      {
+        "text": "gimana cara pesen tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dfaed90a-8e70-4504-98c5-1370055ece26",
+    "data": [
+      {
+        "text": "cara membeli tiket pesawat di tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f6125796-44a5-446f-ae3a-289b9cf79cbb",
+    "data": [
+      {
+        "text": "pemesanan tiket penerbangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bd1182ed-a73d-4c0a-8eb2-182034acb2b1",
+    "data": [
+      {
+        "text": "memesan tiket penerbangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5c9fa769-1195-400b-a04e-ec323aebdd28",
+    "data": [
+      {
+        "text": "pesan tiket penerbangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a8de1241-e334-473e-8b8d-53cfa581aed4",
+    "data": [
+      {
+        "text": "pemesanan tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "084a384b-332d-4055-9ab1-ebd7b6616157",
+    "data": [
+      {
+        "text": "memesan tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "702bf7da-8fde-4c27-96df-bf4a97bb3d5d",
+    "data": [
+      {
+        "text": "cara pesen tiket penerbangan di tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "79cd7cc3-a0d5-4fda-9af6-14ffe02f510e",
+    "data": [
+      {
+        "text": "booking tiket flight gimana caranya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e4174e6d-8682-49a8-81ae-620393eb05f1",
+    "data": [
+      {
+        "text": "cara memesan tiket pesawat di tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2425b292-0c45-4d4d-bc74-7cf6145a91a3",
+    "data": [
+      {
+        "text": "cara pesan tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4e7c0873-993e-49a9-a512-3912964f7f9f",
+    "data": [
+      {
+        "text": "booking tiket pesawat gimana caranya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5c690a5a-4c08-4a76-8820-eef183abee3c",
+    "data": [
+      {
+        "text": "tiket pesawat gimana cara pesen nya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b98f5a4d-2c55-4f21-a82e-1411ce2f2fbf",
+    "data": [
+      {
+        "text": "saya minta tlg utk infokan cara memesan tiket pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "14b94165-9cf7-459c-b9f2-611b63169520",
+    "data": [
+      {
+        "text": "cara beli tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fdb74d47-67e0-4101-93ca-95e820dc3af5",
+    "data": [
+      {
+        "text": "cara booking tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fbde291d-33ec-47a2-bb85-947dd014af31",
+    "data": [
+      {
+        "text": "cara memesan tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "375d61ba-1144-4d70-b909-55268f7558c2",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tlg ",
+        "userDefined": false
+      },
+      {
+        "text": "dong",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya mau pesan tiket pesawat bagaimana caranya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "df800106-d661-4c9f-8802-a818fbd45f13",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tolong gimana cara pesan tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "932e6345-3173-41cf-824d-b1bdc6b3ba58",
+    "data": [
+      {
+        "text": "cara pesan tiket pesawat gimana ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7362eb8e-7c4d-48ff-afc8-bcd8fca7e650",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tolong utk pemesanan tiket pesawat bagaimana caranya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c8dab86b-817f-4bc3-8ac3-f3e35abe0b0b",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gimana cara pesan tiket psawat di tokped?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b0e36b1f-6216-49ff-af23-580a75173cd9",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " info gimana cara pesan tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5a4920dd-7e92-4a28-b147-af3948148dde",
+    "data": [
+      {
+        "text": "cara pesan tiket pesawat di tokopedia bagaimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b99457db-3f8f-45f5-8069-9ba5ed551bbf",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " help tiket pesawat gimana cara pesannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f993fec4-43f7-43ee-9fc7-4bb5c55f6ad5",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", help gimana cara pesan tiket pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ff599785-bcde-4db2-9e4e-77eed74ebcce",
+    "data": [
+      {
+        "text": "bagaimana cara melakukan pemesanan tiket pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "903d6ed5-be47-4aa0-b48e-d35ee870dc4c",
+    "data": [
+      {
+        "text": "saya mau tanya gimana cara memesan tiket pesawat di tokopedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6224d8de-fd04-4d39-9d10-e36e90cbdf04",
+    "data": [
+      {
+        "text": "bagaimana cara memesan tiket pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

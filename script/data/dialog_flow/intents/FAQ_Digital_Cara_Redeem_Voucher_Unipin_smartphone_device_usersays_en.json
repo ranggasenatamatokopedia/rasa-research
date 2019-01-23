@@ -1,0 +1,68 @@
+[
+  {
+    "id": "e9c22d0e-b103-4a04-9bde-fb0a8ec08610",
+    "data": [
+      {
+        "text": "handphon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c75ef9d2-26c7-41bf-a444-5b7b30f4835b",
+    "data": [
+      {
+        "text": "handphone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "18d27de0-ee81-403d-abb1-20915f8e019b",
+    "data": [
+      {
+        "text": "perangkat smartphone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9089db66-e2c8-460a-a63c-af0a0e47712d",
+    "data": [
+      {
+        "text": "smartphone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "18d92406-7117-467d-99f0-78d42d817546",
+    "data": [
+      {
+        "text": "henfon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4f0bbb8f-1dff-487c-a384-f0f80487ed5b",
+    "data": [
+      {
+        "text": "hp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

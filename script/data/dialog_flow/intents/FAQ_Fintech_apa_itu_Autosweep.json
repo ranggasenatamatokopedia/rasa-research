@@ -1,0 +1,32 @@
+{
+  "id": "af895b1d-4197-4451-a942-84e0ef0934f3",
+  "name": "FAQ_Fintech_apa_itu_Autosweep",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Autosweep adalah sebuah fitur yang tersedia di Tokopedia Reksa Dana yang memudahkan Pengguna untuk melakukan pembelian Unit Reksa Dana tanpa harus mengajukan pembelian secara manual (satu persatu)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika kamu ingin menonaktifasi Autosweep, kamu bisa masuk halaman Reksadana kemudian geser toogle Autosweep."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

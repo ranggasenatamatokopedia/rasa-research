@@ -1,0 +1,39 @@
+{
+  "id": "292be470-3add-4ec5-89d0-99a03b594e29",
+  "parentId": "8f76e013-2e1a-45dd-87c0-3654057ce9bb",
+  "rootParentId": "8f76e013-2e1a-45dd-87c0-3654057ce9bb",
+  "name": "FAQ_Order_Tidak_Bisa_Melakukan_Pembayaran_Muncul_Notif_Error",
+  "auto": true,
+  "contexts": [
+    "FAQ_Order_Tidak_Bisa_Melakukan_Pembayaran-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Order_Tidak_Bisa_Melakukan_Pembayaran_Muncul_Notif_Error",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika muncul notifikasi \"Kendala Teknis\" maka kamu bisa coba secara berkala dan coba di perangkat lain ya. Namun jika masih berkendala kamu bisa hubungi !TKPD_URL_CONTACTUS_SUBMIT!. Lampirkan juga screenshot halaman yang berkendala."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538557388,
+  "fallbackIntent": false,
+  "events": []
+}

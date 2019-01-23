@@ -1,0 +1,143 @@
+[
+  {
+    "id": "50d48859-f2a9-4852-92a9-3613848fb863",
+    "data": [
+      {
+        "text": "saya mau melakukan penerbangan keluar negeri, paspor harus aktif berapa lama?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "811ec1ca-25e7-4372-85b1-7d7bf7ad8282",
+    "data": [
+      {
+        "text": "saya mau keluar negeri, berapa lama paspor harus aktif?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "149dfd59-1b2e-4257-9271-0928e35ba2f0",
+    "data": [
+      {
+        "text": "masa berlaku paspor kalau mau pergi ke luar negeri berapa lama ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "33537195-2ab2-453e-8c51-8f4cb096fdcf",
+    "data": [
+      {
+        "text": "ingin melakukan penerbangan internasional, brp lama masa berlakunya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4a4ea91d-718e-4fb8-8c41-c2aca5a7d911",
+    "data": [
+      {
+        "text": "saya mau perjalanan keluar negeri, paspor hrs aktif berapa lama ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b8e14c9e-04a1-4765-b027-08714a206a76",
+    "data": [
+      {
+        "text": "paspor hrs berlaku brp lama utk melakukan perjalanan luar negeri?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c35b54bd-7442-455d-b6e4-15b3a77b073b",
+    "data": [
+      {
+        "text": "paspor hrs berapa lama utk melakukan perjalanan internasional?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8a2a7508-7f52-406c-a285-b72239a4e012",
+    "data": [
+      {
+        "text": "saya mau melakukan perjalanan internasional, jadi masa berlaku paspor nya hrs berapa lama ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2f44f777-a4b0-4ade-8c7d-6ed2a14c4257",
+    "data": [
+      {
+        "text": "berapa lama paspor harus diperpanjang kalau mau lakukan penerbangan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2196a223-0686-4703-8afb-74bf41ae2199",
+    "data": [
+      {
+        "text": "masa berlaku paspor harus berapa lama ya kalo mau melakukan penerbangan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d8974d45-00c4-4e3b-8b0f-ba5c86c781a4",
+    "data": [
+      {
+        "text": "jika masa berlaku paspor saya kurang dari 6 bulan, apakah saya bisa melakukan perjalanan internasional?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cfa36978-0082-4b18-a48a-d41d3cb3fcf5",
+    "data": [
+      {
+        "text": "Apakah saya bisa melakukan penerbangan internasional jika paspor kurang dari ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bulan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

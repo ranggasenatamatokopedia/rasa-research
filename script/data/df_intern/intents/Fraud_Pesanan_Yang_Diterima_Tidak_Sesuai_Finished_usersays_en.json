@@ -1,0 +1,46 @@
+[
+  {
+    "id": "f91a03cb-8bf0-49b9-9a6d-1ada49801516",
+    "data": [
+      {
+        "text": "Finished / Selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a3a7d38b-e468-4645-9373-b6aa7a93b78e",
+    "data": [
+      {
+        "text": "selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a5abecc1-a912-49b6-b57d-d411898d647e",
+    "data": [
+      {
+        "text": "Finish",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e1afcdd6-5c3e-4c10-a3f1-1a25c3c5b92c",
+    "data": [
+      {
+        "text": "Finished",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

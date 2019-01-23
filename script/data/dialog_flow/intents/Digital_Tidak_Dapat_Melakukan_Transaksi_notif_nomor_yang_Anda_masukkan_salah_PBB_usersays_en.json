@@ -1,0 +1,57 @@
+[
+  {
+    "id": "c6f780e3-7021-4ad0-94f4-d508ac5b2552",
+    "data": [
+      {
+        "text": "PBB",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b4891dd2-bafc-44de-b8b2-a204e736dd25",
+    "data": [
+      {
+        "text": "Pajak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b6e860fb-a282-489e-9fbe-2797840b93e6",
+    "data": [
+      {
+        "text": "pajak bumi dan bangunan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d1149643-0822-4a77-ade5-8a77452a3531",
+    "data": [
+      {
+        "text": "pajak/pbb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "20a5c4a0-27b8-4557-af3e-98510ea77bfb",
+    "data": [
+      {
+        "text": "pajak pbb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

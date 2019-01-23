@@ -1,0 +1,113 @@
+[
+  {
+    "id": "4909db42-2ae3-4cde-9568-d21a02639ceb",
+    "data": [
+      {
+        "text": "benefit_kode_unik_promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5943398-d7bd-4147-b02e-c40b56d614b9",
+    "data": [
+      {
+        "text": "e voucher",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "237525f3-3a29-4107-84ec-7ebcad90af61",
+    "data": [
+      {
+        "text": "ketiga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b1d987c2-d814-4583-a3da-8d9cb6ac02cb",
+    "data": [
+      {
+        "text": "three",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ff20bede-449c-47d1-9d34-158174a0bda6",
+    "data": [
+      {
+        "text": "evoucher",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9af2aafe-8064-4b30-a649-beb929147129",
+    "data": [
+      {
+        "text": "tiga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aa0674cd-01ad-4fb6-9516-48208cc97980",
+    "data": [
+      {
+        "text": "kode unik promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4bc2eb3c-749b-4a07-bee3-8da3c1b9307d",
+    "data": [
+      {
+        "text": "Kode unik promo / e-Voucher",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "747aeb88-c308-4eda-a8d0-f337db372110",
+    "data": [
+      {
+        "text": "vocer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d8acde7f-5e82-4a65-824d-5744c645c3a7",
+    "data": [
+      {
+        "text": "3",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

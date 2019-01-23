@@ -1,0 +1,43 @@
+{
+  "id": "f1c99d65-8980-4b52-a483-39962a0ba1ca",
+  "parentId": "369593d0-733e-4975-a6c0-973e8ec8a60d",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_cancelled_refund_on_progress_cc",
+  "auto": false,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_cancelled_scrooge_refund_on_progress-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_cancelled_refund_on_progress_cc-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Butuh 14 hari kerja sampai dana kamu berhasil dikembalikan ke dalam limit Kartu Kredit."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533886787,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "cc"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+[
+  {
+    "id": "8a74c43f-deb9-42e0-ac31-83af92e5ef24",
+    "data": [
+      {
+        "text": "blm sy terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c3cbb540-25f3-47b8-8cd5-7ec6d7fbceef",
+    "data": [
+      {
+        "text": "Belum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6004cbee-f613-4b44-b50f-c513764e4e81",
+    "data": [
+      {
+        "text": "blm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "425bbfcd-37aa-4fa7-bae5-e783bef1e6f1",
+    "data": [
+      {
+        "text": "belum ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d055ca87-e829-4192-b5c3-5a268eb444cf",
+    "data": [
+      {
+        "text": "blm ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a389a7b2-16f3-42c8-8ad6-298109f6bf38",
+    "data": [
+      {
+        "text": "beloman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

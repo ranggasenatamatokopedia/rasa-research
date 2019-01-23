@@ -1,0 +1,35 @@
+[
+  {
+    "id": "4d85f8ae-9e3d-4626-89b0-66dfe3abaf42",
+    "data": [
+      {
+        "text": "invoice_menunggu_status_kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "41064199-324e-4bfe-8383-8e426a8a92c1",
+    "data": [
+      {
+        "text": "menunggu status kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e70a5dbd-4971-4a4c-8c29-ffa3f1714e32",
+    "data": [
+      {
+        "text": "waiting for courier",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

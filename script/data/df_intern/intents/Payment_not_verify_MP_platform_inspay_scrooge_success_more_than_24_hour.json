@@ -1,0 +1,43 @@
+{
+  "id": "d9192df0-8a1d-4220-8f40-2f88b9551b02",
+  "parentId": "38a6dbfa-e61c-454f-bd8a-97aa39370ab9",
+  "rootParentId": "7702a921-0bc2-479f-9cd3-aade8103768a",
+  "name": "Payment_not_verify_MP_platform_inspay_scrooge_success_more_than_24_hour",
+  "auto": true,
+  "contexts": [
+    "Payment_not_verify_MP_platform_cancelled_inspay_scrooge_success-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckRefundListExist",
+      "affectedContexts": [
+        {
+          "name": "Payment_not_verify_MP_platform_inspay_scrooge_success_more_than_24_hour-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531359019,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "more_than_6_hours"
+    }
+  ]
+}

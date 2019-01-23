@@ -1,0 +1,24 @@
+[
+  {
+    "id": "17f1ebf5-8f77-4dd2-8536-335ea16f8789",
+    "data": [
+      {
+        "text": "case_status_valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "16b65518-fc79-4330-96ed-942d9372998d",
+    "data": [
+      {
+        "text": "case_status_unknown",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

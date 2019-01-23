@@ -1,0 +1,31 @@
+{
+  "id": "c60c78dc-a232-4201-8572-c06c2ce852b6",
+  "name": "FAQ_Tokopoint_Apa_Itu_Lucky_Egg",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Lucky Egg adalah Fitur permainan interaktif pada program TokoPoints. Kamu bisa mendapatkan Loyalty, Points dan/atau Kupon yang bisa digunakan untuk bertransaksi kembali di Tokopedia."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_tokopoint_apa_itu_lucky_egg"
+    }
+  ]
+}

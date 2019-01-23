@@ -1,0 +1,503 @@
+[
+  {
+    "id": "d0cd88b3-8a92-4ba2-a6f7-d1c83065f865",
+    "data": [
+      {
+        "text": "Mau tanya soal kurir Apakah ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bisa di jadikan pengiriman barang di toko pedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "212fb59d-0f60-4cde-b37c-f2e669534a9f",
+    "data": [
+      {
+        "text": "ninja",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "xpres",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a1236650-a34d-4e44-aefb-4df7b9a73b8f",
+    "data": [
+      {
+        "text": "ninja",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ekpres",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "710d78f4-4fb5-47b0-aeef-f8e2c4308d9e",
+    "data": [
+      {
+        "text": "ninja",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ekspress",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3aeba2f0-ce38-4841-8a7d-8bf8220b60c7",
+    "data": [
+      {
+        "text": "ninja express",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d4ee3278-c0b0-4cca-bb42-d2b8e3b96af9",
+    "data": [
+      {
+        "text": "rex 10",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7e5150e6-9221-49ba-8fb3-4e78f8fc5cdd",
+    "data": [
+      {
+        "text": "rex-10",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "73af80da-9ba6-4804-b202-b51aacf34873",
+    "data": [
+      {
+        "text": "rex",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cead6aa5-9a6f-4d9f-8963-8b995a1fcb74",
+    "data": [
+      {
+        "text": "ninja",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "27c3cd56-ee1e-4218-9aa1-9d01776f2ecb",
+    "data": [
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3f162a13-d4f7-43f7-9061-ccca9255a142",
+    "data": [
+      {
+        "text": "go_send",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "552c925a-0631-49ba-8c71-2c2eb2135317",
+    "data": [
+      {
+        "text": "go-send",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a7022375-aa15-4178-9cdd-255d5f409c92",
+    "data": [
+      {
+        "text": "gosend",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f85c8ab0-d780-470a-afdc-3ea967c8a041",
+    "data": [
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fa563eb4-106a-4dc0-bb2b-535bfd7cb828",
+    "data": [
+      {
+        "text": "go send",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "instant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8699e491-36d3-45e6-a0d6-eca8f3836fc7",
+    "data": [
+      {
+        "text": "menggunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "ninja xpress",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "608dc42a-832b-477a-8a80-773aadd182b1",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", selain ",
+        "userDefined": false
+      },
+      {
+        "text": "Gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ada apalagi sih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kurir yg ",
+        "userDefined": false
+      },
+      {
+        "text": "cepet",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di Toped?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ca5371fc-3366-4655-a67a-a40e6b1e5664",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", di Toped ada kurir apa aja ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " yang service nya cepet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c39d8e51-72d9-47fe-a4ee-7a86508b1bac",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya mau beli barang di Toped, tapi mau ",
+        "userDefined": false
+      },
+      {
+        "text": "besok",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " harus sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kira-kira bagusnya pake kurir apa ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " yang ",
+        "userDefined": false
+      },
+      {
+        "text": "instan",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gitu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a300caa5-80b7-49bd-9753-0f4ffaebc9ce",
+    "data": [
+      {
+        "text": "Ada kurir pick up apa saja di Tokopedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b81db152-8b50-438f-ae22-8c4a609df250",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", ada apa aja sih layanan ",
+        "userDefined": false
+      },
+      {
+        "text": "Instan Kurir",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " atau layanan Kurir dengan sistem Pick Up di Tokopedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9b72024d-1e12-432f-9389-fc1f81b320ad",
+    "data": [
+      {
+        "text": "mengenai fitur pengiriman grab",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "da388ea5-32ac-40ed-8175-53f06f0dfce6",
+    "data": [
+      {
+        "text": "gosend sameday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8d6b1b12-b5c8-409b-82d4-7b48be9c9e9c",
+    "data": [
+      {
+        "text": "Grab kak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1674d482-a134-4afd-9098-cfd13d2db049",
+    "data": [
+      {
+        "text": "kalo kita pakai gosend?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e079c9b1-0d4d-41d6-ac86-97f59e34b5c8",
+    "data": [
+      {
+        "text": "menggunakan ninja xpress",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b7f4498f-c8af-45d9-a9c2-c4b3f0b339e1",
+    "data": [
+      {
+        "text": "go send instant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2b984a82-60a4-4f94-aece-ee23afaf1197",
+    "data": [
+      {
+        "text": " saya hanya aktifkan instant.Tapi yg yg same day jg muncul.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "104c121b-0f61-4906-9944-285c29bfc6a1",
+    "data": [
+      {
+        "text": "bagaimana saya bisa menambahkan pengiriman lewat gosend di toko saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e73ffa64-657a-46ac-82f2-b9b2a464ab9a",
+    "data": [
+      {
+        "text": "apakah pengiriman pembelian tdk ada pemilihan kurir ojol atau lainnya ? saya lihat hanya pilihan durasi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b13c2d8d-9ab5-4c26-9b6f-e6a579c2f4ec",
+    "data": [
+      {
+        "text": "pemesan mau dikirim lewat instam courir (gojek/grab)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

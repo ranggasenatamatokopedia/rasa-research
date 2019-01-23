@@ -1,0 +1,110 @@
+[
+  {
+    "id": "9990359c-00f0-4f59-9c49-615228365339",
+    "data": [
+      {
+        "text": "invoice_shipping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "920b01f2-6c11-4248-aaac-3534e56c6fc9",
+    "data": [
+      {
+        "text": "invoice_process",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "62c06599-dab6-4320-9637-9f82df93f6fd",
+    "data": [
+      {
+        "text": "invoice_pending",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eb2c2bbf-691b-4099-a808-f84f4e62e4a5",
+    "data": [
+      {
+        "text": "invoice_resolution",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "62ca82a9-d63a-46dc-b333-5c3977cd11cc",
+    "data": [
+      {
+        "text": "invoice_delivered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7eb41d2e-2930-4923-b494-4faec04bd820",
+    "data": [
+      {
+        "text": "invoice_verified",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "db5731b6-b12f-4471-bfa5-328a69381f52",
+    "data": [
+      {
+        "text": "invoice_suspect_fraud",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4d46205a-5994-428f-838c-5493044c1712",
+    "data": [
+      {
+        "text": "invoice_fraud_review",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d8c03036-1fd7-4022-be56-42ab5b444ca0",
+    "data": [
+      {
+        "text": "invoice_waiting_",
+        "userDefined": false
+      },
+      {
+        "text": "third",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "_party",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "2b3aac51-8a6d-49c5-a009-62d337aca3f3",
+  "name": "FAQ_PROMO_Bagaimana_perhitungan_cashback_promo_yang_akan_diterima",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Cashback akan dihitung secara otomatis berdasarkan jumlah nominal transaksi, tapi tidak termasuk ongkir ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_promo_bagaimana_perhitungan_cashback_promo_yang_akan_diterima"
+    }
+  ]
+}

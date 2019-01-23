@@ -1,0 +1,163 @@
+[
+  {
+    "id": "4c3917d3-97a6-481e-9214-727eb634ee95",
+    "data": [
+      {
+        "text": "tidak terdapat tombol beli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c89e0bf4-c7f5-44c9-9efa-8562614498c2",
+    "data": [
+      {
+        "text": "no buy button",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "316e4b0a-de25-4058-ab95-1b9abc5b8fed",
+    "data": [
+      {
+        "text": "tidak menemukan tombol beli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "007243a3-d5d9-4fe9-9a6d-b7c595a98219",
+    "data": [
+      {
+        "text": "ngga ada tombol belinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5a30956a-804f-41ef-aec6-6870b0b18f2f",
+    "data": [
+      {
+        "text": "tdk ada tombolnya n",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9c411c3d-b6f8-4f10-9b9d-3638f3388848",
+    "data": [
+      {
+        "text": "tombol belinya ngga ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6faeb1e2-1608-4f51-ba96-0bf9f4bd903b",
+    "data": [
+      {
+        "text": "nomor ",
+        "userDefined": false
+      },
+      {
+        "text": "dua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7b3e9b19-04e3-45f5-908e-7f768349377d",
+    "data": [
+      {
+        "text": "dua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "27930ce0-fe47-4202-8907-f32d8bce4efa",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "33cb5763-965b-433b-b584-10ba1374fded",
+    "data": [
+      {
+        "text": "nomor ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cff5fa1c-6c1d-4ad0-8946-b735435a9919",
+    "data": [
+      {
+        "text": "kedua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "349e5b5c-563f-4cc1-ac7d-1829e6853a1d",
+    "data": [
+      {
+        "text": "yang ",
+        "userDefined": false
+      },
+      {
+        "text": "kedua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3097b4b9-7a0c-41d4-b9a7-165cefbef901",
+    "data": [
+      {
+        "text": "tidak ada tombol beli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

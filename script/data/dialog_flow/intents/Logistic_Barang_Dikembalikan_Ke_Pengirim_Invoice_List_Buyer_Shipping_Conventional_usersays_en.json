@@ -1,0 +1,35 @@
+[
+  {
+    "id": "0d39b0ce-481b-412b-85e2-c0cc1aafe4b6",
+    "data": [
+      {
+        "text": "courier_type_is_conventional",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a139ac14-7276-4d93-b8e3-5585eee1b30c",
+    "data": [
+      {
+        "text": "conventional",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "372c3312-6041-4bde-ad87-fd5d4f881212",
+    "data": [
+      {
+        "text": "conven",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

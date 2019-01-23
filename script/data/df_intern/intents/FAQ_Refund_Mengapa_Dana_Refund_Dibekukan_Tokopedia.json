@@ -1,0 +1,32 @@
+{
+  "id": "2beb965d-11f3-4167-9ce8-348eb55ee828",
+  "name": "FAQ_Refund_Mengapa_Dana_Refund_Dibekukan_Tokopedia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika dana pengembalian yang ditujukan ke Saldo Tokopedia milikmu dibekukan penyebabnya bisa sangat beragam. \n\nSilakan hubungi tim \u003ca rel\u003d\"nofollow\" target\u003d\"_blank\" href\u003d\"https://tkp.me/contact-us\"\u003eCustomer Care\u003c/a\u003e Tokopedia untuk keterangan lebih lanjut."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520579343,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_refund_mengapa_dana_refund_dibekukan_tokopedia"
+    }
+  ]
+}

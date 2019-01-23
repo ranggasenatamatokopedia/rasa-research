@@ -1,0 +1,48 @@
+{
+  "id": "a1f19b91-efbb-4988-9da5-69c7bac3f98d",
+  "parentId": "8f5a916d-16b2-4bf2-8308-a6c49e51db02",
+  "rootParentId": "d19f77a0-9fc1-4329-9b8c-1f9cb2ed3084",
+  "name": "Logistic_Order_Process_Buyer_Is_Peluang_Batal_Error",
+  "auto": true,
+  "contexts": [
+    "Logistic_Order_Process_Buyer_Is_Peluang_Batal-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Order_Process_Buyer_Is_Peluang_Batal_Error-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon maaf, Toped gagal mengajukan pembatalan pesanan kamu ke Penjual. Kamu boleh coba lagi nanti ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu juga bisa ajukan pembatalan dari akun kamu melalui menu \"Status Pemesanan\"."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541388872,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "api_error_cancel_order"
+    }
+  ]
+}

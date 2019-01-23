@@ -1,0 +1,43 @@
+{
+  "id": "d593b45f-e113-44d7-aa7f-6b9dce542d75",
+  "parentId": "aff6fa6f-2bad-4320-bb2d-dc7125c355a5",
+  "rootParentId": "aff6fa6f-2bad-4320-bb2d-dc7125c355a5",
+  "name": "Merchant_Gold_Badge_Tidak_Muncul_Not_GM",
+  "auto": true,
+  "contexts": [
+    "Merchant_Gold_Badge_Tidak_Muncul-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Gold_Badge_Tidak_Muncul_Not_GM-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek toko kamu belum terdaftar dalam keanggotaan Power Merchant. Kalau mau Power Badge muncul, kamu bisa berlanggananan Power Merchant terlebih dahulu, ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536033301,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "not_GM"
+    }
+  ]
+}

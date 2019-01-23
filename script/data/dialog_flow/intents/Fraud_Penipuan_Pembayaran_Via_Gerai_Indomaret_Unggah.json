@@ -1,0 +1,43 @@
+{
+  "id": "fba835ac-3402-4c7b-8d60-6e87849285f6",
+  "parentId": "01ff3ad1-4527-4b19-b097-99768abba46d",
+  "rootParentId": "01ff3ad1-4527-4b19-b097-99768abba46d",
+  "name": "Fraud_Penipuan_Pembayaran_Via_Gerai_Indomaret_Unggah",
+  "auto": true,
+  "contexts": [
+    "Fraud_Penipuan_Pembayaran_Via_Gerai_Indomaret-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Penipuan_Pembayaran_Via_Gerai_Indomaret_Unggah-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Terima Kasih untuk bukti yang kamu lampirkan. Toped bantu buatkan tiketnya. Mohon menunggu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539235326,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

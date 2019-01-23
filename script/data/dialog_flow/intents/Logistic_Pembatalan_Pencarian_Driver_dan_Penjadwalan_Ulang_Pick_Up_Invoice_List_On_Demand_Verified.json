@@ -1,0 +1,43 @@
+{
+  "id": "315abc26-b66d-4074-b9f6-3d6ee5de2e42",
+  "parentId": "e34e6067-39f2-4155-888b-91af1ef33ae2",
+  "rootParentId": "25f8caf5-22b1-4b7d-8704-24a6da37b244",
+  "name": "Logistic_Pembatalan_Pencarian_Driver_dan_Penjadwalan_Ulang_Pick_Up_Invoice_List_On_Demand_Verified",
+  "auto": true,
+  "contexts": [
+    "Logistic_Pembatalan_Pencarian_Driver_dan_Penjadwalan_Ulang_Pick_Up_Invoice_List_On_Demand-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Pembatalan_Pencarian_Driver_dan_Penjadwalan_Ulang_Pick_Up_Invoice_List_On_Demand_Verified-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai, pesanannya sudah Toped teruskan ke Toko kamu, ya. Silakan merespons pesanan tersebut :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546423189,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_pembayaran_diterima"
+    }
+  ]
+}

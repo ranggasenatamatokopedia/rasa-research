@@ -1,0 +1,53 @@
+{
+  "id": "70490bf6-c131-4510-86a6-01bd64d0e920",
+  "name": "Peluang_Tidak_Bisa_Menerima_Order_Peluang",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckPeluangRules",
+      "affectedContexts": [
+        {
+          "name": "Peluang_Tidak_Bisa_Menerima_Order_Peluang-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f60518d3-65ea-40b3-b7dc-5acb7dc70bbd",
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "isList": false
+        },
+        {
+          "id": "47089b4b-1fbe-4550-ab06-3b4bc434d08d",
+          "dataType": "@user_role",
+          "name": "user_role",
+          "value": "$user_role",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped bantu cek dulu ya, mohon tunggu sebentar :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "peluang_tidak_bisa_menerima_order_peluang"
+    }
+  ]
+}

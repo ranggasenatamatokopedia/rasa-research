@@ -1,0 +1,35 @@
+[
+  {
+    "id": "4fda436f-693f-4e20-aa21-a537f9dcf857",
+    "data": [
+      {
+        "text": "not null",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7c439121-a347-4f41-abb4-fb9fde2dcc61",
+    "data": [
+      {
+        "text": "notull",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8d1b0204-df6d-4fa8-bf8c-1f8751d30a82",
+    "data": [
+      {
+        "text": "refund_list_is_not_null",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

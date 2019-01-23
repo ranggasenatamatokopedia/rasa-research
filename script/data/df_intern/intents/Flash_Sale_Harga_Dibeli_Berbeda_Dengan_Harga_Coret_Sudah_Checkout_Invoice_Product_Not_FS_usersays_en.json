@@ -1,0 +1,35 @@
+[
+  {
+    "id": "d240d52e-f60d-4d3a-84ed-b8b77b1fcdfa",
+    "data": [
+      {
+        "text": "is_not_flash_sale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "60d3bb4f-c1dd-46a4-8047-006f6e563469",
+    "data": [
+      {
+        "text": "not flash sale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d89d8c3b-10b6-42b0-be4c-be42676ea9ee",
+    "data": [
+      {
+        "text": "not FS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

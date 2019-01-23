@@ -1,0 +1,43 @@
+{
+  "id": "253f099f-5138-4210-9a73-b40bf5131227",
+  "parentId": "9ce058e3-150d-4719-8971-bb0fdf03c7c9",
+  "rootParentId": "feb54c5b-52cd-4135-8fbe-6ef49ccb8866",
+  "name": "Payment_nominal_bayar_tidak_sesuai_select_inv_cancel_inspay_scrooge_success_less_24hr",
+  "auto": false,
+  "contexts": [
+    "Payment_nominal_bayar_tidak_sesuai_select_inv_cancel_inspay_scrooge_success-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Payment_nominal_bayar_tidak_sesuai_select_inv_cancel_inspay_scrooge_success_less_24hr-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kak, mohon menunggu terlebih dahulu ya maksimal 1x24 jam untuk proses refundnya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531658472,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "less_than_24"
+    }
+  ]
+}

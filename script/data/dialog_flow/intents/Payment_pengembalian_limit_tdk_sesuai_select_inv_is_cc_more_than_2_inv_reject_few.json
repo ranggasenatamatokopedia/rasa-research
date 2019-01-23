@@ -1,0 +1,51 @@
+{
+  "id": "951f9a86-7955-4722-aa3d-80c566811144",
+  "parentId": "36065ff9-47dc-41af-a844-baab3cbef015",
+  "rootParentId": "3b15cc03-402c-40c1-9882-3fff37020fad",
+  "name": "Payment_pengembalian_limit_tdk_sesuai_select_inv_is_cc_more_than_2_inv_reject_few",
+  "auto": true,
+  "contexts": [
+    "Payment_pengembalian_limit_tdk_sesuai_select_inv_is_cc_more_than_2_inv-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckRefundListExist",
+      "affectedContexts": [
+        {
+          "name": "Payment_pengembalian_limit_tdk_sesuai_select_inv_is_cc_more_than_2_inv_reject_few-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kak, karena disini terdapat beberapa invoice yang dibatalkan, maka nantinya dana yang dikembalikan pun tidak keseluruhannya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Begitupun dengan biaya admin nya. Yang dikembalikan tidak menyeluruh sehingga biaya admin yang dikembalikan Pro rate ya, Kak."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531789957,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "reject_few"
+    },
+    {
+      "name": "reject_not_all"
+    }
+  ]
+}

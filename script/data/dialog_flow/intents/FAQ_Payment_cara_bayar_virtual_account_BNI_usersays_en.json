@@ -1,0 +1,35 @@
+[
+  {
+    "id": "c4f7cce6-3fe2-4d70-a200-65eb8c22454a",
+    "data": [
+      {
+        "text": "BNI Virtual Account",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "685db842-0053-4cea-9264-cf3aacd3381a",
+    "data": [
+      {
+        "text": "BNI",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "VA",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

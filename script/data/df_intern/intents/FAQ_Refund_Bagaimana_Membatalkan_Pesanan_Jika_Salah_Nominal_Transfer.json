@@ -1,0 +1,32 @@
+{
+  "id": "4c3d4147-1650-47e0-8719-3a914b8ffee9",
+  "name": "FAQ_Refund_Bagaimana_Membatalkan_Pesanan_Jika_Salah_Nominal_Transfer",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau dana yang kamu transfer lebih dari nominal yang tertera pada invoice, kamu bisa ubah data pembayaran di halaman \"Status Pembayaran\". \n\nTapi kalau nominal yang ditransfer kurang, kamu bisa transfer lagi sisa dananya dan lampirkan bukti transfernya. Jangan lupa tulis di kolom Keterangan kalau kamu sudah mentransfer sisa pembayarannya ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520238507,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_refund_bagaimana_membatalkan_pesanan_jika_salah_nominal_transfer"
+    }
+  ]
+}

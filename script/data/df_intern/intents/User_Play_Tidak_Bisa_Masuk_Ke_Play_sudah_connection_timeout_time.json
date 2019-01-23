@@ -1,0 +1,68 @@
+{
+  "id": "8bda8158-d6bf-475a-bb4a-8cf4134f5a38",
+  "parentId": "c03e5e6c-4075-40bb-9af0-ea5cc1213e15",
+  "rootParentId": "e24c0d6b-ef5c-4d53-ac56-e76f47176faf",
+  "name": "User_Play_Tidak_Bisa_Masuk_Ke_Play_sudah_connection_timeout_time",
+  "auto": true,
+  "contexts": [
+    "User_Play_Tidak_Bisa_Masuk_Ke_Play_sudah_connection_timeout-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "User_Play_Tidak_Bisa_Masuk_Ke_Play_sudah_connection_timeout_time-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "289ae02a-78d5-4ba3-a69c-21db92ec969b",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "usertime",
+          "value": "$usertime",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Kamu coba masuk ke Play nya jam berapa? (contoh 09.00 atau 21.00)"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "a8e45b44-0009-452c-ab40-4817cc33ec6e",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "userprovider",
+          "value": "$userprovider",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Kamu menggunakan provider apa? (contoh Indosat)"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Tolong lampirkan screenshot yang berkendala saat ingin masuk ke Play ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544432786,
+  "fallbackIntent": false,
+  "events": []
+}

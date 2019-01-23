@@ -1,0 +1,57 @@
+[
+  {
+    "id": "53dd6301-4425-4006-8fda-45327c109929",
+    "data": [
+      {
+        "text": "1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "740008c9-c300-4897-b064-a262e52242b7",
+    "data": [
+      {
+        "text": "3",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "48edf677-e9f7-4e5a-858e-0f99d4d50f48",
+    "data": [
+      {
+        "text": "INVIDTAG",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e540cd3b-55ed-4563-a6f2-b4a712105961",
+    "data": [
+      {
+        "text": "2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "119e4397-e444-44c7-9c6c-ff90c6191306",
+    "data": [
+      {
+        "text": "select_invoice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

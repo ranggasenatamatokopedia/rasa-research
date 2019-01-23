@@ -1,0 +1,69 @@
+{
+  "id": "351f8a8f-412e-42f4-93bc-4773b6d3d760",
+  "parentId": "68474931-ede2-4b68-9b6c-4a0e1a2d71ec",
+  "rootParentId": "68474931-ede2-4b68-9b6c-4a0e1a2d71ec",
+  "name": "Fraud_Seller_Kirim_Link_Mencurigakan_Belum",
+  "auto": true,
+  "contexts": [
+    "Fraud_Seller_Kirim_Link_Mencurigakan-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Seller_Kirim_Link_Mencurigakan_Belum-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "bb758d56-9087-4ce2-b848-42f2472c349a",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "URLpishing",
+          "value": "$URLpishing",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Kasih tau Toped linknya, ya. Contoh: https://www.tokopedia.com/contact-us#step1"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "0e9b69bc-8821-483a-9bfa-fca0e6977dc2",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1640",
+          "isList": false
+        },
+        {
+          "id": "e95cfe79-ddc0-4097-a280-e57d32d90e6b",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Fraud_Seller_Kirim_Link_Mencurigakan"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Terima Kasih untuk bukti yang kamu lampirkan. Toped bantu buatkan tiketnya. Mohon menunggu."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539231062,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "7f95a941-cdba-42e2-a3ee-c7f595ab2b79",
+  "name": "FAQ_OVO_bagaimana_jika_nomor_saya_berbeda_dgn_nomor_OVO",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu dapat menyesuaikan nomor akun Tokopedia dengan nomor OVO Kamu ya agar akun Kamu dapat segera terhubung."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_ovo_bagaimana_jika_nomor_saya_berbeda_dgn_nomor_ovo"
+    }
+  ]
+}

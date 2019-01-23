@@ -1,0 +1,39 @@
+{
+  "id": "1e6cb86d-ead2-4693-92b9-132d5c8213d8",
+  "parentId": "d93042eb-7ba0-4f9b-8adc-a220a9c1c39a",
+  "rootParentId": "78a8a659-1f88-470b-8cae-9de1dbc1f058",
+  "name": "Payment_kode_pembayaran_not_found_invoice_select_gerai_sudah_bayar",
+  "auto": true,
+  "contexts": [
+    "Payment_kode_pembayaran_not_found_invoice_select_gerai_wtp_show_code-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Payment_kode_pembayaran_not_found_invoice_select_gerai_sudah_bayar-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh lampirkan bukti pembayarannya?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531637600,
+  "fallbackIntent": false,
+  "events": []
+}

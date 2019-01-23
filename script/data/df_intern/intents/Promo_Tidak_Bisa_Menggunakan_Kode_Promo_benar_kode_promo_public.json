@@ -1,0 +1,42 @@
+{
+  "id": "96286b0e-c6f1-4881-8bf3-f83c3f67b486",
+  "parentId": "9a1e0a5d-c8a3-4870-8e72-42c7f2262113",
+  "rootParentId": "52ec60f4-3e96-4394-855f-4b7f7c4c5110",
+  "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_kode_promo_public",
+  "auto": false,
+  "contexts": [
+    "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_kode_sudah_digunakan-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek kode promo yang kamu gunakan berasal dari halaman Promo Tokopedia, jadi promo tersebut hanya bisa digunakan jika kamu memenuhi Syarat dan Ketentuan yang ada ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa cek Syarat dan Ketentuan kode promonya di halaman yang memuat kode tersebut ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525318308,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "kode_promo_public"
+    }
+  ]
+}

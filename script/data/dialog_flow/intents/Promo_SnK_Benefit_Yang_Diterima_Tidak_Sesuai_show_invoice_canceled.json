@@ -1,0 +1,57 @@
+{
+  "id": "17df395d-1434-4bff-9504-0ebf96471daf",
+  "parentId": "cfe4bafe-113c-400a-ae3f-801dbd3f83c8",
+  "rootParentId": "67024543-88fb-488f-907b-85ef94921089",
+  "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_invoice_canceled",
+  "auto": false,
+  "contexts": [
+    "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_invoice_digital_KAI-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_invoice_canceled-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai, Toped cek transaksi ini statusnya \u0027cancel\u0027 atau pesanannya dibatalkan ya, jadi kamu tidak mendapatkan benefit dari promo yang digunakan."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kode promo ini bisa digunakan kembali selama masih dalam periode promonya ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526457189,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_batal_otomatis_oleh_sistem"
+    },
+    {
+      "name": "invoice_pesanan_ditolak_penjual"
+    },
+    {
+      "name": "invoice_canceled"
+    },
+    {
+      "name": "invoice_refund"
+    }
+  ]
+}

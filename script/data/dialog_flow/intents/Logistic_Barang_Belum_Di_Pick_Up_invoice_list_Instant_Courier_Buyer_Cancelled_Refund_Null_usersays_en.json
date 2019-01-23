@@ -1,0 +1,24 @@
+[
+  {
+    "id": "f6803d5e-0b42-4e85-906c-5bd756b0a554",
+    "data": [
+      {
+        "text": "refund_list_is_null",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e9c84cd7-d95c-48ed-a8a2-346f9bffa687",
+    "data": [
+      {
+        "text": "null",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

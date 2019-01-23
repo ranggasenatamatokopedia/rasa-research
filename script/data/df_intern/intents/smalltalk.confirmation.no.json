@@ -1,0 +1,33 @@
+{
+  "id": "690f5dde-ef4f-49fe-9003-6c4529412c50",
+  "name": "smalltalk.confirmation.no",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.confirmation.no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Maafin aku ya. Saat ini aku baru bisa jawab pertanyaan kamu seputar Refund atau Promo."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 0,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512148214,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "smalltalk_confirmation_no"
+    }
+  ]
+}

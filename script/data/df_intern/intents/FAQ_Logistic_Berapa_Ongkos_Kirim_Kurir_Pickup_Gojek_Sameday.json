@@ -1,0 +1,42 @@
+{
+  "id": "90f557e1-6878-47a8-92cb-5f73f3039320",
+  "parentId": "c614b8d5-cdc0-4011-bd43-77929cab828b",
+  "rootParentId": "73840e93-ca95-444a-a2dd-d1deaab1d5eb",
+  "name": "FAQ_Logistic_Berapa_Ongkos_Kirim_Kurir_Pickup_Gojek_Sameday",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Berapa_Ongkos_Kirim_Kurir_Pickup_Gojek-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FAQ_Logistic_Berapa_Ongkos_Kirim_Kurir_Pickup_Gojek.FAQ_Logistic_Berapa_Ongkos_Kirim_Kurir_Pickup_Gojek-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "279f35fc-746c-4710-851c-b99506e6c037",
+          "required": false,
+          "dataType": "@layanan_kurir_pick_up",
+          "name": "layanan_kurir_pick_up",
+          "value": "$layanan_kurir_pick_up",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "1. Jarak 1 - 15 km Rp15.000\n2. Jarak 15,1 - 30 km Rp20.000\n3. Jarak 30,1 - 35 km Rp30.000\n4. Jarak 35,1 - 40 km Rp40.000"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528787529,
+  "fallbackIntent": false,
+  "events": []
+}

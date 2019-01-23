@@ -1,0 +1,42 @@
+{
+  "id": "f7e1952a-7c6f-4e16-8a3c-1938400afe55",
+  "name": "FAQ_TokoPoints_Kapan_Saya_Akan_Mendapat_Lucky_Egg",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_TokoPoints_Kapan_Saya_Akan_Mendapat_Lucky_Egg-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped infokan, bahwa kamu akan mendapatkan Lucky Egg (kecuali transaksi Gold Merchant, TopAds, Gift Card, Emas, Deals, Pembayaran Zakat, Kurban dan Donasi) maksimal 1x24 jam setelah transaksi sukses/selesai."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sedangkan Lucky Egg Promo akan didapatkan dari program promo tertentu yang berlangsung di Tokopedia."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_tokopoints_kapan_saya_akan_mendapat_lucky_egg"
+    }
+  ]
+}

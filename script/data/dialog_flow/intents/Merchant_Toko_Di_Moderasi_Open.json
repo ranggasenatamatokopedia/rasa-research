@@ -1,0 +1,43 @@
+{
+  "id": "ba485640-85e6-4d74-966d-754f0acee406",
+  "parentId": "7f287c44-496d-4df8-b6b5-0c29a68454fc",
+  "rootParentId": "7f287c44-496d-4df8-b6b5-0c29a68454fc",
+  "name": "Merchant_Toko_Di_Moderasi_Open",
+  "auto": false,
+  "contexts": [
+    "Merchant_Toko_Di_Moderasi-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Toko_Di_Moderasi_Open-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah Toped cek, status toko kamu saat ini open. Kamu bisa menggunakannya untuk transaksi jual beli seperti biasa ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534234746,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "is_open_active"
+    }
+  ]
+}

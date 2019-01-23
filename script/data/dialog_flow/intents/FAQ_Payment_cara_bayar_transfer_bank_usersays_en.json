@@ -1,0 +1,94 @@
+[
+  {
+    "id": "d1381467-87db-4a37-8d01-e9602b511ad1",
+    "data": [
+      {
+        "text": "trg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "082678d2-0a6e-4712-8eb4-8d1c4aa72d24",
+    "data": [
+      {
+        "text": "transfer bank",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "649bb1fc-3de9-487c-8a1e-fe09a4dec465",
+    "data": [
+      {
+        "text": "bank_transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "46aa194e-314a-4ce0-b90f-b76ed47d9ec8",
+    "data": [
+      {
+        "text": "transfer_bank",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "05eafebb-a464-42f3-bbd9-6b8be6b1fe7a",
+    "data": [
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bef45532-7198-40c4-b432-ad763d7f30a4",
+    "data": [
+      {
+        "text": "trf",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6d1850b5-baf8-4ad6-be6b-eab3fbc4322c",
+    "data": [
+      {
+        "text": "cara bayar melalui transfer bank mandiri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9a377907-ddf2-4849-a7ad-ceed68b0a1c1",
+    "data": [
+      {
+        "text": "verifikasi pembayaran lama sekali ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

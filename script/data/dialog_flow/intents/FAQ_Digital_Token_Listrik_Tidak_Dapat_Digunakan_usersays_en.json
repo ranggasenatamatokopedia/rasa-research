@@ -1,0 +1,347 @@
+[
+  {
+    "id": "19f4c49d-6526-4191-88f2-988f82c5a3fe",
+    "data": [
+      {
+        "text": "Hi, katanya token nya tidak berlaku. Mohon di-follow-up karena saya sudah beli dan sudah input token tetapi gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "83e52491-5ac2-47b8-97b8-a10bc624bdb0",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " token saya gak bisa nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f4b9cdea-5b7e-475b-bf25-7c6110af866e",
+    "data": [
+      {
+        "text": "Hallo, saya sudah memasukkan token listrik beberapa kali tetapi tetap gagal. Mohon bantuannya. Nomor meteran listrik saya adalah: ",
+        "userDefined": false
+      },
+      {
+        "text": "56700911672",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "00c0c130-1db4-4f16-b990-ffbe92e93bbf",
+    "data": [
+      {
+        "text": "Token listrik error..tidak dapat digunakan (error 06)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "158f08b7-1925-485b-8773-97f9daf74674",
+    "data": [
+      {
+        "text": "Token listriknya sudah ada, namun saat diinput ke meteran gagal terus, boleh bantu cek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b3557c9e-b98c-47aa-bf5f-51e64b2348c5",
+    "data": [
+      {
+        "text": "token listrik tidak dapat di gunakan (gagal)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "36e13ddf-adf2-4fa8-aa12-ac10ea884cea",
+    "data": [
+      {
+        "text": "Mohon bantuannya nomer token tidak dapat digunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4b6271da-004c-4f9e-9081-1e11517ce906",
+    "data": [
+      {
+        "text": "Token tidak dapat digunakan, nilai tidak bertambah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2cdcd6ce-c3a6-422a-a9ce-20b1c205a250",
+    "data": [
+      {
+        "text": "untuk pembelian token tesebut, tokennya adalah : ",
+        "userDefined": false
+      },
+      {
+        "text": "2704 6820 1503 7673 6492",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Token sudah sy masukkan, tapi gagal, saya juga sudah lapor ke PLN",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "711ad713-702a-4bf3-b439-2c17bbc5bda0",
+    "data": [
+      {
+        "text": "Saya masukin tokennya gagal terus gmn ini?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e34d1275-40ec-46db-a765-d5c87b0c2b99",
+    "data": [
+      {
+        "text": "Nomor token saat dimasukan gagal terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fcaa3e33-75e5-4db4-8990-d60d6245dcfb",
+    "data": [
+      {
+        "text": "Coba mengisikan lagi, token tetap tidak dapat dipakai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c7744773-6d13-4923-be8a-14b269105709",
+    "data": [
+      {
+        "text": "Nomor token koq tidak bisa digunakan sudah berungkali dicoba memasukkan kode token ",
+        "userDefined": false
+      },
+      {
+        "text": "2570 4085 4582 1979 3485",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dengan no.IDPEL ",
+        "userDefined": false
+      },
+      {
+        "text": "511010222829",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7c20ae3c-faa7-4c48-ab04-2dcbecce188c",
+    "data": [
+      {
+        "text": "sudah menunggu ",
+        "userDefined": false
+      },
+      {
+        "text": "dua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " jam lebih masih tidak bisa digunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2972c9c3-dd93-4f3a-98fd-f7e2f158ecd0",
+    "data": [
+      {
+        "text": "sudah coba di masukan ke meteran berulang kali tetapi gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2e3bf672-2200-4d61-82c6-c7fe49c6251e",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kenapa token saya tidak bisa dipake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7135580c-0a50-4b78-94ef-ee2fbd720239",
+    "data": [
+      {
+        "text": "Saya memakai token yang dibeli dari Tokopedia tidak bisa digunakan, ketika saya cek ke pln ternyata token tersebut statusnya used atau sudah digunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4f1ae8d2-2d92-4842-98c3-959537b813f8",
+    "data": [
+      {
+        "text": "token listrik tidak bisa digunakan. ketika di ketikkan di meteran tidak dapat dipakai.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b0025635-a826-46d7-b845-29b797837422",
+    "data": [
+      {
+        "text": "status no tokennya Used...jadi saya tidak bisa menyalakan listriknya...sudah saya hub orang pln..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d6bd2412-4cd3-49b8-8649-26f9e7505a57",
+    "data": [
+      {
+        "text": "nomor token yang saya beli dari tokopedia sebesar ",
+        "userDefined": false
+      },
+      {
+        "text": "500.000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak bisa digunakan,,tolong bantuannya untuk konfirmasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "34fcec8b-65d8-449d-ba07-3b6e57fa31cb",
+    "data": [
+      {
+        "text": "token listrik saya tidak dapat digunakan. saya sudah menghubungi ke pln ",
+        "userDefined": false
+      },
+      {
+        "text": "123",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", dan atas konfirmasi dari pln, transaksi ini tidak pernah terjadi di database mereka",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "571c1d45-40ba-4d78-8039-b5bd4a3f776c",
+    "data": [
+      {
+        "text": "Token listrik saat dimasukin ke meteran tertulis gagal sudah terpakai. Pdahal saya belom pakai. Ini gimana ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b684dfd5-fd3c-4252-99c8-8d1bbbd9b5ae",
+    "data": [
+      {
+        "text": "Token gagal ketika di masukkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "83a0fac4-155b-431a-84f7-4464ea74161a",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " token saya gabisa digunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "13e5302e-f8e8-4017-97ec-1cfb3e233cdd",
+    "data": [
+      {
+        "text": "nomer token listrik pln sudah terpakai saat mengisi. saat cek ke pln benar ada pembelian lewat tokopedia,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

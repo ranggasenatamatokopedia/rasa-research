@@ -1,0 +1,404 @@
+[
+  {
+    "id": "0dd489bd-297d-4ca0-9b54-f846c548f7d6",
+    "data": [
+      {
+        "text": "Bisa gak ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kalo kupon partnernya saya tukerin ",
+        "userDefined": false
+      },
+      {
+        "text": "dua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4fe0c758-a7ab-4594-aecb-15b49a6b941a",
+    "data": [
+      {
+        "text": "apakah ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kupon partner bisa digunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "dua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f8e88df2-ed25-4ece-b1f1-3f9189ed3c2f",
+    "data": [
+      {
+        "text": "apakah ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kupon partner bisa dipakai ",
+        "userDefined": false
+      },
+      {
+        "text": "dua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f85bad1e-a236-4cc7-9514-403ce87c9654",
+    "data": [
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kupon partner bisa dipakai ",
+        "userDefined": false
+      },
+      {
+        "text": "dua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kali tidak ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "74145901-d4ab-4bee-a489-863721f3946f",
+    "data": [
+      {
+        "text": "Kalo saya mau tukerin kupon partnernya lebih dari sekali bisa gak ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "54a984d8-0b63-41ae-8a05-67fe1e8e8357",
+    "data": [
+      {
+        "text": "Bisa gak ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kalo saya tukerin kuponnya lebih dari sekali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "99dfc8e3-1472-49e6-9c4c-ccfcfe12b8e6",
+    "data": [
+      {
+        "text": "Bisa gak ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kalo kupon partnernya saya tukerin lebih dari sekali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a5bcab38-8808-40cc-9634-741f21478f68",
+    "data": [
+      {
+        "text": "Bisa ga kalo saya tukerin kuponnya lebih dari sekali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5b310670-e687-41e0-9dbf-1cddb3df921b",
+    "data": [
+      {
+        "text": "Kalo saya tukerin kuponnya lebih dari sekali gimana ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? Bisa gak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a45a5fff-4f31-47f2-b50b-cc2ef549840a",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", aku punya kupon partner nih, boleh gak kalo saya tukerinnya lebih dari sekali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3e5d9927-ca79-4aa0-95a1-c1ce6c7b6354",
+    "data": [
+      {
+        "text": "Saya punya kupon partner offline nih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kalo saya tukerinnya lebih dari sekali boleh gak ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "639202b2-fa5c-46e5-851e-3bd7ec4b9f20",
+    "data": [
+      {
+        "text": "Kalo saya tukerin kuponnya lebih dari sekali gpp kan ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "47316cf5-b62e-46d9-8990-43b3a0da18b6",
+    "data": [
+      {
+        "text": "Saya mau tukerin kuponnya lebih dari sekali, bisa gak sih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "44148a8c-e883-4271-8682-19b3e2989462",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya mau tukerin kuponnya lebih dari sekali boleh  gak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1a67d8a8-9be9-4952-b1b2-0d403efd4c31",
+    "data": [
+      {
+        "text": "Kalo saya tukerin kuponnya lebih dari ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kali boleh gak ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "065e4996-b495-4b22-9787-796efda15530",
+    "data": [
+      {
+        "text": "Boleh gak kalo saya tukerin kuponnya  lebih dari sekali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "22c10e30-e458-4c91-bb56-1eb3fe492187",
+    "data": [
+      {
+        "text": "Boleh apa enggak kalo saya tukerin kuponnya lebih dari sekali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "981d969b-86bc-478b-bbda-77e7c31c48ba",
+    "data": [
+      {
+        "text": "Kuponnya boleh gak kalo saya tukerin lebih dari ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c533f095-4072-4cbb-b6a1-129177bdab03",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", boleh apa enggak ya kalo saya tukerin kuponnya lebih dari sekali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "73104c95-6efd-4bae-b609-d3fe1f308806",
+    "data": [
+      {
+        "text": "kode free ongkir apakah bisa balik kl sy batalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

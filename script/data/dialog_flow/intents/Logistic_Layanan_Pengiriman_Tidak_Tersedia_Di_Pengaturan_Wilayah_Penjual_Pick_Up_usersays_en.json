@@ -1,0 +1,112 @@
+[
+  {
+    "id": "c7ddc0e6-f12d-4049-a58a-fe3ee891b146",
+    "data": [
+      {
+        "text": "kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "instan",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b5a31282-4291-4010-8be8-d3f2e0435ab9",
+    "data": [
+      {
+        "text": "instant kurir",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6a43b53e-bee2-48a1-a324-02579eeb20de",
+    "data": [
+      {
+        "text": "instant courier",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3ab7268d-55d9-407d-b1db-80f0c766a152",
+    "data": [
+      {
+        "text": "ondemand",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bca78a44-7f6f-40c8-9250-4926cdb6cdc1",
+    "data": [
+      {
+        "text": "pickup",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3719b4c7-d2e8-4cbf-a83b-ca2378dc5fe5",
+    "data": [
+      {
+        "text": "instan kurir",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "516617ea-ae27-4d7d-8765-293d570a6a7f",
+    "data": [
+      {
+        "text": "on demand",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "835c1e90-ea2b-4e93-81a9-a16c0d26cb11",
+    "data": [
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f41835e2-7e1b-4106-b13e-38316fe84c13",
+    "data": [
+      {
+        "text": "instant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

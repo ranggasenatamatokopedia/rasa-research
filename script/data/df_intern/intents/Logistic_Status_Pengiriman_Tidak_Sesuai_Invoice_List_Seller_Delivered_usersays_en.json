@@ -1,0 +1,68 @@
+[
+  {
+    "id": "5f20c165-f5ed-4fd9-a4d5-8ee6b41d6bbf",
+    "data": [
+      {
+        "text": "Deliv",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bebe2f16-a14f-4414-b752-0bebb18df7df",
+    "data": [
+      {
+        "text": "invoice_pesanan_sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f37cc933-8551-4624-857e-3b19c94734c3",
+    "data": [
+      {
+        "text": "Delivered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d4632794-c085-4757-8ba8-5bb46defce4d",
+    "data": [
+      {
+        "text": "invoice_delivery_due",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6ed7992a-dbb3-4cf1-ba2f-c50ca21bbfc4",
+    "data": [
+      {
+        "text": "invoice_delivered_due_limit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a24d13ac-7662-4214-9213-8faccb8171fb",
+    "data": [
+      {
+        "text": "invoice_pesanan_telah_diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

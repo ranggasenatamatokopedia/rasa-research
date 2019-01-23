@@ -1,0 +1,18 @@
+[
+  {
+    "id": "fa52e3aa-271d-40c7-8c5b-ae00e7a92ba7",
+    "data": [
+      {
+        "text": "user_is_",
+        "userDefined": false
+      },
+      {
+        "text": "buyer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

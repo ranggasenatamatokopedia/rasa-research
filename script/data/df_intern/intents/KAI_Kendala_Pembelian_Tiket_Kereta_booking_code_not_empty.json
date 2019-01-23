@@ -1,0 +1,48 @@
+{
+  "id": "9033ad41-29a6-4390-87bb-df000ed67ea2",
+  "parentId": "e15cbebb-51cc-4fc7-9cef-beaaaa5dfdcb",
+  "rootParentId": "b3e075f6-aae4-44df-ad4e-bea75b498908",
+  "name": "KAI_Kendala_Pembelian_Tiket_Kereta_booking_code_not_empty",
+  "auto": false,
+  "contexts": [
+    "KAI_Kendala_Pembelian_Tiket_Kereta_finished-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "KAI_Kendala_Pembelian_Tiket_Kereta_booking_code_not_empty-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk informasi kode booking kamu, yaitu #voucher_code_not_empty.payload"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga informasi Toped membantu kamu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539334209,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "voucher_code_not_empty"
+    }
+  ]
+}

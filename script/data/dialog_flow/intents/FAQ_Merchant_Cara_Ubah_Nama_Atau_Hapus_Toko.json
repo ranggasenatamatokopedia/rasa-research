@@ -1,0 +1,33 @@
+{
+  "id": "bae6811e-5027-4070-82c2-5660296f8dc9",
+  "name": "FAQ_Merchant_Cara_Ubah_Nama_Atau_Hapus_Toko",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Merchant_Cara_Ubah_Nama_Atau_Hapus_Toko-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk penghapusan toko atau perubahan nama toko yang sudah terdaftar di Tokopedia tidak dapat dilakukan ya. Ketentuan ini dapat kamu baca !TKPD_URL_SNK_UBAH_NAMA_AKUN_TOKO!.\n\nTerima kasih atas pengertiannya"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

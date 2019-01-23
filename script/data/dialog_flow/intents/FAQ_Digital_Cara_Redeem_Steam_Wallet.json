@@ -1,0 +1,42 @@
+{
+  "id": "220bc138-950c-4e4e-b33d-ed0bcc145e54",
+  "name": "FAQ_Digital_Cara_Redeem_Steam_Wallet",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Digital_Cara_Redeem_Steam_Wallet-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa redeem steam wallet dengan cara:\n1. Login akun Steam di http://store.steampowered.com/\n2. Silakan pilih \"Account Details\" pada pojok kanan atas\n3. Pilih menu \"Add Funds to your Steam Wallet\"\n4. Pilih \"Redeem a Steam Gift Card or Wallet Code\"\n5. Masukkan kode voucher kamu\n6. Klik \"Continue\"."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika transaksi sukses, kamu akan mendapatkan kode Serial Number dan kode PIN. Namun untuk redeem, kamu hanya cukup masukkan PIN nya saja."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_digital_cara_redeem_steam_wallet"
+    }
+  ]
+}

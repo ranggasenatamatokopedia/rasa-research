@@ -1,0 +1,52 @@
+{
+  "id": "2fee1851-568f-4997-9a3e-de31241ea716",
+  "parentId": "a3f93717-8a6e-4497-9d8d-814813138d52",
+  "rootParentId": "423ba23e-4ef9-436a-8828-c784ffb30629",
+  "name": "Order_Fraud_Dana_Hasil_Transaksi_Belum_Masuk_Atau_Direview_Ya_Select_MP_Finished",
+  "auto": false,
+  "contexts": [
+    "Order_Fraud_Dana_Hasil_Transaksi_Belum_Masuk_Atau_Direview_Ya_Select_MP-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckInvoiceStatusInSauron",
+      "affectedContexts": [
+        {
+          "name": "Order_Fraud_Dana_Hasil_Transaksi_Belum_Masuk_Atau_Direview_Ya_Select_MP_Finished-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532085747,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_finished"
+    },
+    {
+      "name": "invoice_suspect_fraud"
+    },
+    {
+      "name": "invoice_fraud_review"
+    },
+    {
+      "name": "invoice_cancel"
+    }
+  ]
+}

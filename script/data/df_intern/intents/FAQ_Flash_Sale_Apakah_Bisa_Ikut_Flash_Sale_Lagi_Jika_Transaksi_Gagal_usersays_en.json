@@ -1,0 +1,194 @@
+[
+  {
+    "id": "64a94b75-80c9-498e-8af4-1757c0a6aae3",
+    "data": [
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gagal dapet flash sale, mau cobain lagi masih bisa kan ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5aefee6d-1353-41de-8a02-abc2319ceabf",
+    "data": [
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ga berhasil dapet flash sale, mau ikutan lagi aja ah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "65b2cd17-688a-44e3-84cc-d6dfc6c6e87a",
+    "data": [
+      {
+        "text": "yah, ga dapet flash sale nih. masih bisa ikut periode ",
+        "userDefined": false
+      },
+      {
+        "text": "besok",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5d6427cf-2a54-40c1-996c-bf2c1db8144c",
+    "data": [
+      {
+        "text": "duh waktu flash salenya udah abis saya gagal ni, masih boleh ikut lagi gak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "87725d5f-6441-4772-9b1f-72185174b175",
+    "data": [
+      {
+        "text": "udah gagal beli produk flash sale, ini mau coba lagi semoga bisa deh ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "423ddfe3-5303-40ad-a5cb-de0f53a0b0da",
+    "data": [
+      {
+        "text": "gagal ikut flash sale yang ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", next flash sale masih bisa ikut lagi ga ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4306f566-927e-41e8-8176-db830431f567",
+    "data": [
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " orang bisa ikut flash sale lagi ga sih klo pembelian sebelumnya gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9974d713-b5d6-4086-b5af-3ff29b2e3cdf",
+    "data": [
+      {
+        "text": "saya ga berhasil ikut flash sale periode ini, nanti malem masih boleh ikut lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b9d5cc16-7138-4c1c-9c86-61b959f8de02",
+    "data": [
+      {
+        "text": "saya gagal dapet flash sale ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", boleh ikut lagi gak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d27c7630-a06a-4d82-8606-9eb67fab13a3",
+    "data": [
+      {
+        "text": "masih boleh ikut flash sale lagi ga sih klo transaksi saya gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f5e8cfb6-de9b-44c1-9a20-613ea59a6065",
+    "data": [
+      {
+        "text": "saya ",
+        "userDefined": false
+      },
+      {
+        "text": "kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ikut Flash Sale tapi gagal, apa masih bisa ikut lagi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c060427d-808a-43d2-b738-b07c6d5603a3",
+    "data": [
+      {
+        "text": "apakah masih boleh ikut Flash Sale lagi setelah transaksi saya sebelumnya gagal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

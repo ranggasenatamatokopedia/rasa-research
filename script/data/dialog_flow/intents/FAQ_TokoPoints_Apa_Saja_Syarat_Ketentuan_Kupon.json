@@ -1,0 +1,42 @@
+{
+  "id": "94629742-ca16-4a70-9ed4-cc9a3d6dbc04",
+  "name": "FAQ_TokoPoints_Apa_Saja_Syarat_Ketentuan_Kupon",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_TokoPoints_Apa_Saja_Syarat_Ketentuan_Kupon-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Syarat dan Ketentuan tiap Kupon TokoPoints berbeda ya. Jumlah Points yang dibutuhkan untuk menukar Kupon juga berbeda."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa lihat detailnya pada masing-masing halaman Kupon TokoPoints ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_tokopoints_apa_saja_syarat_ketentuan_kupon"
+    }
+  ]
+}

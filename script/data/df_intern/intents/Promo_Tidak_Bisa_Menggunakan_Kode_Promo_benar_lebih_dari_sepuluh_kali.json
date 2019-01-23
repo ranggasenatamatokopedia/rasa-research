@@ -1,0 +1,47 @@
+{
+  "id": "d11c8947-30ff-4f64-990c-b24d8a00cb3d",
+  "parentId": "e540ae13-6993-4973-bead-401b5c3abcf5",
+  "rootParentId": "52ec60f4-3e96-4394-855f-4b7f7c4c5110",
+  "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_lebih_dari_sepuluh_kali",
+  "auto": true,
+  "contexts": [
+    "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai! Notifikasi tersebut muncul setelah kamu mencoba menggunakan promo itu lebih dari 10 kali."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped sarankan, kamu bisa coba lagi promo tersebut setelah 1 jam ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau kamu yakin sudah memasukkan kode promo tersebut saat melakukan pembelian, selanjutnya bisa langsung ke halaman pembayaran ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523832459,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "mencoba_lebih_dari_sepuluh_kali"
+    }
+  ]
+}

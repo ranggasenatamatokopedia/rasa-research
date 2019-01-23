@@ -1,0 +1,49 @@
+{
+  "id": "1e72bfa4-9da8-4410-8dea-a1851c0fbdd3",
+  "parentId": "9019a5b8-52cc-4de9-85ab-5439607b52da",
+  "rootParentId": "96f23e85-fae0-4896-8203-08e968aef1b9",
+  "name": "Payment_sudah_bayar_tp_batal_order_cancelled_scrooge_fail_inspay",
+  "auto": true,
+  "contexts": [
+    "Payment_sudah_bayar_tp_batal_order_cancelled_scrooge_fail-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckRefundListExist",
+      "affectedContexts": [
+        {
+          "name": "Payment_sudah_bayar_tp_batal_order_cancelled_scrooge_fail_inspay-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531453184,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "inspay"
+    },
+    {
+      "name": "cc"
+    },
+    {
+      "name": "kredivo"
+    }
+  ]
+}

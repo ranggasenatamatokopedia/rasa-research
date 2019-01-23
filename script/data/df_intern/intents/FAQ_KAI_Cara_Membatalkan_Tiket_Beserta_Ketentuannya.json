@@ -1,0 +1,38 @@
+{
+  "id": "f66cdd47-a530-4898-ad12-d2a20fd4dae0",
+  "name": "FAQ_KAI_Cara_Membatalkan_Tiket_Beserta_Ketentuannya",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_KAI_Cara_Membatalkan_Tiket_Beserta_Ketentuannya-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk pembatalan tiket, kamu bisa mernghubungi pihak stasiun dengan ketentuan sebagai berikut:\n1. Bawa identitas asli beserta fotokopi sesuai data yang tercantum di tiket. Ingat bahwa pemohon adalah si pemilik tiket.\n2. Pembatalan tiket maksimal dilakukan 30 menit sebelum jadwal keberangkatan.\n3. Biaya pembatalan 25% dari harga tiket.\n4. Jika pemohon bukan si pemilik tiket, kamu bisa bawa surat kuasa bermaterai dengan bukti identitas asli dan fotokopi pemilik tiket.\n5. Jika kode booking sama namun pembatalan lebih dari satu penumpang, maka lampirkan fotokopi penumpang lain dan/atau surat kuasa pembatalan penumpang.\n6. Isi formulir berisi data yang dibutuhkan\n7. Biaya tiket pembatalan akan dikembalikan setelah 30 hari"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga informasi Toped membantu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

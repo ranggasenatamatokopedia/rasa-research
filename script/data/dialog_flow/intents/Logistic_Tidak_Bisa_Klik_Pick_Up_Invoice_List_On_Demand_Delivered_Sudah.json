@@ -1,0 +1,44 @@
+{
+  "id": "fb81115e-d117-4218-80bf-01beb58b4eb6",
+  "parentId": "e67d275e-59b9-4556-828d-ab698a2ef3df",
+  "rootParentId": "b375e190-8e6c-475d-ac8e-0e3e3ac5900d",
+  "name": "Logistic_Tidak_Bisa_Klik_Pick_Up_Invoice_List_On_Demand_Delivered_Sudah",
+  "auto": true,
+  "contexts": [
+    "Logistic_Tidak_Bisa_Klik_Pick_Up_Invoice_List_On_Demand_Delivered-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Tidak_Bisa_Klik_Pick_Up_Invoice_List_On_Demand_Delivered_Sudah-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon tunggu pihak pembeli untuk melakukan konfirmasi penerimaan ya :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Namun tak perlu khawatir, dana penjualan akan diteruskan apabila pihak Pembeli tidak melakukan konfirmasi penerimaan dalam jangka waktu 2x24 jam sejak statusnya terkirim :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538564977,
+  "fallbackIntent": false,
+  "events": []
+}

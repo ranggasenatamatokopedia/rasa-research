@@ -1,0 +1,65 @@
+[
+  {
+    "value": "Mandiri",
+    "synonyms": [
+      "Mandiri",
+      "mandiri",
+      "bank mandiri",
+      "Bank Mandiri",
+      "bank Mandiri"
+    ]
+  },
+  {
+    "value": "Danamon",
+    "synonyms": [
+      "Danamon"
+    ]
+  },
+  {
+    "value": "CIMB",
+    "synonyms": [
+      "CIMB Niaga",
+      "cimb niaga",
+      "Cimb Niaga",
+      "Cimb niaga",
+      "cimb",
+      "CIMB",
+      "Cimb"
+    ]
+  },
+  {
+    "value": "BNI",
+    "synonyms": [
+      "BNI",
+      "Bank BNI",
+      "Bank bni",
+      "bank BNI",
+      "bank bni",
+      "Bank Negara Indonesia",
+      "bank negara indonesia"
+    ]
+  },
+  {
+    "value": "BRI",
+    "synonyms": [
+      "BRI",
+      "Bank BRI",
+      "Bank bri",
+      "bank bri",
+      "bank BRI",
+      "Bank Rakyat Indonesia",
+      "bank rakyat indonesia"
+    ]
+  },
+  {
+    "value": "BCA",
+    "synonyms": [
+      "BCA",
+      "Bank BCA",
+      "Bank bca",
+      "bank bca",
+      "bank central asia",
+      "Bank Central Asia"
+    ]
+  }
+]

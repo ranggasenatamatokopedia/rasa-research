@@ -1,0 +1,45 @@
+{
+  "id": "49b6ef26-bc37-4517-8ff9-6736db01966f",
+  "parentId": "46e1bab3-ce53-407e-942f-66bd7f2f06f2",
+  "rootParentId": "46e1bab3-ce53-407e-942f-66bd7f2f06f2",
+  "name": "FAQ_Logistic_Batas_Waktu_Pickup_Kurir_Ninja",
+  "auto": false,
+  "contexts": [
+    "FAQ_Logistic_Batas_Waktu_Pickup_Kurir-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "62d2c47c-c202-4c8e-b531-ed9ad2c7d42e",
+          "dataType": "@kurir_pick_up",
+          "name": "kurir_pick_up",
+          "value": "$kurir_pick_up",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Batas waktu pick up kurir Ninja Xpress adalah pukul 09.00 - 15.00 WIB ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528325766,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "ninja"
+    }
+  ]
+}

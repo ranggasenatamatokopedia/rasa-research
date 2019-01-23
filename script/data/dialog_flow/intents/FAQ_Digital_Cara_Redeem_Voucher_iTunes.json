@@ -1,0 +1,36 @@
+{
+  "id": "02a07d8d-e964-4702-b909-c35b3285fd2a",
+  "name": "FAQ_Digital_Cara_Redeem_Voucher_iTunes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai, untuk redeem atau penukaran voucher iTunes bisa dilakukan dengan langkah ini:\n1. Masuk ke menu iTunes Store di smartphone-mu\n2. Pilih “Redeem”\n3. Masuk menggunakan Apple ID terdaftar\n4. Pilih \"You can also enter manually\" jika tersedia\n5. Masukkan 16 digit kode voucher (diawali dengan X)\n6. Jika sudah selesai, pilih “Done”"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga informasi ini membantu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_digital_cara_redeem_voucher_itunes"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "8850c3bb-f43e-4aca-bfb7-c5500865ddd0",
+  "parentId": "926a832a-529b-411d-90bc-2d57ea87deb2",
+  "rootParentId": "3b15cc03-402c-40c1-9882-3fff37020fad",
+  "name": "Payment_pengembalian_limit_tdk_sesuai_select_inv_is_not_cc",
+  "auto": true,
+  "contexts": [
+    "Payment_pengembalian_limit_tdk_sesuai_select_inv-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Payment_pengembalian_limit_tdk_sesuai_select_inv_is_not_cc-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kak, Toped cek transaksi tidak menggunakan kartu kredit ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sehingga pengembalian dana nya, akan dikembalikan ke TokoCash Kakak jika aktif, atau saldo Tokopedia Kakak jika TokoCash nya belum aktif."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531801935,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "non_cc"
+    }
+  ]
+}

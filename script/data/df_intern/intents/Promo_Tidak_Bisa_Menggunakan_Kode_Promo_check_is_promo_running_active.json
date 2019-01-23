@@ -1,0 +1,37 @@
+{
+  "id": "278bbbdf-efaa-4c37-b86d-e2352a4c10f9",
+  "parentId": "65accbcc-5288-4814-833f-9e4fa7b81b91",
+  "rootParentId": "52ec60f4-3e96-4394-855f-4b7f7c4c5110",
+  "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_check_is_promo_running_active",
+  "auto": false,
+  "contexts": [
+    "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_kode_promo_telah_berakhir-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai! Toped cek status promonya sudah aktif dan bisa digunakan ya. Kemungkinan ketika kamu coba sebelumnya, promo tersebut belum aktif."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525275724,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "kode_promo_running"
+    }
+  ]
+}

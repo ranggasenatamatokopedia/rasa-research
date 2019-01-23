@@ -1,0 +1,355 @@
+[
+  {
+    "id": "12659c7e-48d3-4282-8788-73dbe2ce3944",
+    "data": [
+      {
+        "text": "saya tidak bs request ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " barang daritadi sedangkan terakhir ",
+        "userDefined": false
+      },
+      {
+        "text": "pick up",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "NINJA xpress",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "jam 15.00",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bc74eda1-5155-4516-adab-5ae2d0e3b5d4",
+    "data": [
+      {
+        "text": "Saya udah klik pick up tapi ga bisa bisa, lagi kenapa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "90689ed1-94c5-4476-97ee-f8eba929905f",
+    "data": [
+      {
+        "text": "Hai, Tokopedia lagi error ya? ini saya klik pickup kok gak bisa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d7a1bad5-aa03-4579-a890-bae332b5e4e7",
+    "data": [
+      {
+        "text": "Padahal masih di sekitar jakarta ko tapi saya gak bisa klik pickup ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a72e68e0-c677-4204-a93f-9280bf3c6d97",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", aplikasi Tokopedia error ya? saya pick up muter-muter doang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "52d69345-9cde-43c0-a668-f86fa1734519",
+    "data": [
+      {
+        "text": "Saya ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " baru, mau coba request pick up ",
+        "userDefined": false
+      },
+      {
+        "text": "gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi selalu ga bisa. Mohon dibantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3037b270-faa7-4078-b60e-113bb406c8cc",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya udah klik pick up tapi muter-muter aja ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "? Itu kenapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cd9af1db-3a56-4ddf-8ac6-19389041fc3a",
+    "data": [
+      {
+        "text": "Seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak bisa request pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7aa458d3-48f8-44c8-b895-74db1e3f0cc9",
+    "data": [
+      {
+        "text": "Tokped lagi error? Saya request pick up selalu ga bisa.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "198d2c9c-84a9-4531-9cff-0b337e34b611",
+    "data": [
+      {
+        "text": "Buyer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " butuh barangnya, tp klik pick upnya error. Tolong dibenerin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a8a1a3d9-4135-4e1d-ab21-870b5cb7b0c5",
+    "data": [
+      {
+        "text": "Saya sudah klik pickup tapi ko keterangannya tidak bisa silahkan coba lagi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9520985f-ff6f-4af1-bb2e-f5729a0a2460",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", ini kenapa saya gak bisa klik pick up ya ",
+        "userDefined": false
+      },
+      {
+        "text": "Gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ya? pembelinya udah nunggu nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9e3f4744-80d6-43fb-be78-fc825104d0f2",
+    "data": [
+      {
+        "text": "Barang udah siap tapi orderannya gak bisa saya klik pickup eror terus. kenapa ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9fcb417d-8218-48c1-b7f6-e29d45280dc5",
+    "data": [
+      {
+        "text": "Saya gak bisa bisa nih klik pickup padahal buyernya sudah minta barangnya ",
+        "userDefined": false
+      },
+      {
+        "text": "hari ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " juga di kirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fc9be9a3-58b4-41c0-b8e1-77c7716de465",
+    "data": [
+      {
+        "text": "INVIDTAG nomer invoice ini ko gabisa request pick up grab same day ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "df117ff6-74ea-4804-9a84-30fa5eb658b7",
+    "data": [
+      {
+        "text": "halo tidak bisa pick up grab",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "48f8807e-8941-4726-a0a5-d3dbb35b6c90",
+    "data": [
+      {
+        "text": "saya tidak bs request pick up barang daritadi sedangkan terakhir pick up NINJA xpress jam 15.00",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fb966c0d-013d-410f-b40a-11ca5efe6589",
+    "data": [
+      {
+        "text": "siang mw tanya sy request pick up kok ga muncul yah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "60cc3931-12a1-4d87-83d6-ca109cfc60ce",
+    "data": [
+      {
+        "text": "tidak dapat request pick up. tolong segera di cek apakah ada kesalahan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dbab908b-ba0b-4c6b-b44b-67978e4652b4",
+    "data": [
+      {
+        "text": "apakah tokopedia sedang ada kendala utk pickup grab?krn sy request pickup tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d982dcad-b829-4a3d-8d5f-ee30c84d6b4c",
+    "data": [
+      {
+        "text": "akan tetapi pada saat request pick up tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fb1242e0-67d0-4c9e-974f-f05b5041ab11",
+    "data": [
+      {
+        "text": "pesanan ini gak bisa pick up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

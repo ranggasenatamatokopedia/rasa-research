@@ -1,0 +1,43 @@
+{
+  "id": "7f131c5d-a3c6-441c-bb48-07576067bb14",
+  "parentId": "c4e2e35b-dd24-471b-8812-793fe26917b0",
+  "rootParentId": "b5d703e5-b4ee-4716-a78d-6a74da4e1538",
+  "name": "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Buyer_Shipping_Conventional_Over_SLA",
+  "auto": true,
+  "contexts": [
+    "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Buyer_Shipping_Conventional-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Salah_Alamat_Atau_Pin_Point_Invoice_List_Buyer_Shipping_Conventional_Over_SLA-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sayangnya, alamat/pin point tidak dapat diubah ketika invoice telah tercetak. Toped sarankan untuk klik \"Status Pemesanan\" dan klik tombol \"Komplain\". Dengan begitu, dana kamu aman bersama Toped :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536501163,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "sla_logistics_is_over"
+    }
+  ]
+}

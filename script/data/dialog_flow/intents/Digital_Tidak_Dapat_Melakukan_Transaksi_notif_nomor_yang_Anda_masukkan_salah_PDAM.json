@@ -1,0 +1,44 @@
+{
+  "id": "ce4fefe6-787f-4ae4-b5b3-514e8da930aa",
+  "parentId": "0413346c-a825-4fd4-93a3-2358e5ba4d1a",
+  "rootParentId": "c230094b-7dd5-43f4-984b-d415098c4e53",
+  "name": "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_nomor_yang_Anda_masukkan_salah_PDAM",
+  "auto": true,
+  "contexts": [
+    "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_nomor_yang_Anda_masukkan_salah-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_nomor_yang_Anda_masukkan_salah_PDAM-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa pastikan dulu bahwa nomor yang kamu masukkan sudah benar dan sesuai ya"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh lampirkan bukti kartu pelanggan atau bukti pembayaran yang pernah dilakukan di Toped?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535964963,
+  "fallbackIntent": false,
+  "events": []
+}

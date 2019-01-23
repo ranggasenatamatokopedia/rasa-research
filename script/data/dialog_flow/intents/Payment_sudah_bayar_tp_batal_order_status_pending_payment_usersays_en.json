@@ -1,0 +1,35 @@
+[
+  {
+    "id": "55271962-1214-46b9-82d1-6cb0298d839a",
+    "data": [
+      {
+        "text": " invoice_pending_due",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7175b301-38fe-4681-951d-6787c27b05e7",
+    "data": [
+      {
+        "text": " invoice_pending",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "303da5b2-2b6f-488d-95a3-250b188f2bc9",
+    "data": [
+      {
+        "text": " invoice_belum_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

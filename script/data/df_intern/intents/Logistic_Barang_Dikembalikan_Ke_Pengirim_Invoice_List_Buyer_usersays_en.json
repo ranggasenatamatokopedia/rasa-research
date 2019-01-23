@@ -1,0 +1,32 @@
+[
+  {
+    "id": "a397efc8-804f-4d92-ba92-53657c4c3d5a",
+    "data": [
+      {
+        "text": "buyer",
+        "alias": "user_role",
+        "meta": "@user_role",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6646d933-5ce8-4c98-95c5-5217b96ac49f",
+    "data": [
+      {
+        "text": "user_is_",
+        "userDefined": false
+      },
+      {
+        "text": "buyer",
+        "alias": "user_role",
+        "meta": "@user_role",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

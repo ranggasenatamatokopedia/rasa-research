@@ -1,0 +1,63 @@
+{
+  "id": "0a640199-324d-4d5f-8326-ad7f49081869",
+  "parentId": "042d9dbc-d76d-4ea3-b420-8bf2936ba1b5",
+  "rootParentId": "8d6cc4ef-96f8-4de8-9cc0-b39dfd7bb0af",
+  "name": "Payment_salah_kode_pembayaran_gerai_check_true_pairing_code_not_match_ticket",
+  "auto": true,
+  "contexts": [
+    "Payment_salah_kode_pembayaran_gerai_check_true_pairing_code_not_match-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Payment_salah_kode_pembayaran_gerai_check_true_pairing_code_not_match_ticket-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "489105cb-1ef9-492d-be9a-965136d39f90",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1306"
+        },
+        {
+          "id": "b3cce7b7-839e-4c45-b9ac-3b77520f4f8f",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Payment_salah_kode_pembayaran"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Baik, terima kasih atas lampirannya ya"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped bantu buatkan tiketnya ya. Nanti teman Toped akan hubungi kamu melalui Pesan Bantuan :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532489829,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

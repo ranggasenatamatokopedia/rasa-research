@@ -1,0 +1,24 @@
+[
+  {
+    "id": "8d4657a2-4f43-42af-be72-d6663d80b7e5",
+    "data": [
+      {
+        "text": "@sys.email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0
+  },
+  {
+    "id": "b9b71ab8-acd0-45a0-b6dc-76f31034d23a",
+    "data": [
+      {
+        "text": "add_text_email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

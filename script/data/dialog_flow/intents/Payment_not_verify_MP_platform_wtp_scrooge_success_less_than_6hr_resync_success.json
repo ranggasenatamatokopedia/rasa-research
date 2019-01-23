@@ -1,0 +1,60 @@
+{
+  "id": "49b0b4cd-6086-4d24-b7a3-ee510789834e",
+  "parentId": "6c82f871-5615-49a9-b907-166d85fe4a7e",
+  "rootParentId": "7702a921-0bc2-479f-9cd3-aade8103768a",
+  "name": "Payment_not_verify_MP_platform_wtp_scrooge_success_less_than_6hr_resync_success",
+  "auto": true,
+  "contexts": [
+    "Payment_not_verify_MP_platform_wtp_scrooge_success_less_than_6hr_resync-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Payment_not_verify_MP_platform_wtp_scrooge_success_less_than_6hr_resync_success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek status transaksi nya sudah berhasil diverifikasi ya, Kak."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pesanan Kakak sudah diteruskan ke penjual. Kakak dapat cek perkembangannya di Status Pemesanan, ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532501820,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_pembayaran_diterima"
+    },
+    {
+      "name": "invoice_sedang_diproses_penjual"
+    },
+    {
+      "name": "invoice_sedang_dikirim"
+    },
+    {
+      "name": "invoice_pesanan_sampai"
+    },
+    {
+      "name": "invoice_pesanan_dikomplain"
+    }
+  ]
+}

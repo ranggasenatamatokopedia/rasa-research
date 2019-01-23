@@ -1,0 +1,32 @@
+{
+  "id": "45d4e8cf-7a1a-4669-91a6-5816e33e4716",
+  "name": "FAQ_OVO_Bagaimana_jika_nomor_saya_kadaluwarsa_hilang",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika nomor yang Kamu gunakan hilang/kadaluwarsa, Kamu dapat menghubungi Call Center OVO di 1 500 696 (Senin-Minggu, 07.00-23.00 WIB) atau email ke cs@ovo.id. Tim OVO akan segera membantu Kamu."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_ovo_bagaimana_jika_nomor_saya_kadaluwarsa_hilang"
+    }
+  ]
+}

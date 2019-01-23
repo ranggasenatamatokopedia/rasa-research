@@ -1,0 +1,58 @@
+{
+  "id": "b0976310-99c4-4e31-b4a8-6f755df78ead",
+  "parentId": "39454bd8-8817-45ae-94a1-f1e2b2c6e8be",
+  "rootParentId": "6f5a3f14-d1e3-439d-92d9-cdd77e2da07f",
+  "name": "Seller_Merchant_Produk_Tidak_Muncul_Etalase_Halaman_Toko_Over_3",
+  "auto": true,
+  "contexts": [
+    "Seller_Merchant_Produk_Tidak_Muncul_Etalase_Halaman_Toko-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Seller_Merchant_Produk_Tidak_Muncul_Etalase_Halaman_Toko_Over_3-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "af75d31c-6e76-4e19-81d6-b738acf4ef8e",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1044"
+        },
+        {
+          "id": "b8a574ff-7472-404e-8d25-00a76d5317e7",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Seller_Merchant_Produk_Tidak_Muncul"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk kendala ini Toped bantu buatkan tiketnya. Boleh ditunggu, ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533726207,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "not_reload_product_if_over_limit"
+    }
+  ]
+}

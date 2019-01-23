@@ -1,0 +1,42 @@
+{
+  "id": "9ae5ea9a-6e2c-46b4-8990-cbfa8469574b",
+  "name": "FAQ_TokoPoints_Kenapa_Saya_Tidak_Bisa_Akses_Halaman_Tokopoints",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_TokoPoints_Kenapa_Saya_Tidak_Bisa_Akses_Halaman_Tokopoints-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon maaf atas ketidaknyamanan kamu ya. Kamu bisa coba langkah berikut ini untuk akses halaman TokoPoints:\r\n \r\n1. Log out akun Tokopedia kamu, kemudian log in lagi\r\n2. Kalau kamu akses Tokopedia lewat aplikasi, pastikan sudah update versi terbaru\r\n3. Pastikan koneksi internetmu stabil\r\n4. Pastikan perangkat yang kamu gunakan mendukung untuk membuka halaman TokoPoints.\r\n5. Kamu bisa coba buka secara berkala ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga kamu bisa segera akses TokoPoints lagi ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_tokopoints_kenapa_saya_tidak_bisa_akses_halaman_tokopoints"
+    }
+  ]
+}

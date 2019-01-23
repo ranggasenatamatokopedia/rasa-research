@@ -1,0 +1,33 @@
+{
+  "id": "86093622-d673-4b83-87ee-c0dd37a953bc",
+  "name": "FAQ_Logistic_Apa_Itu_Fitur_SiCepat_Pickup",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Logistic_Apa_Itu_Fitur_SiCepat_Pickup-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "SiCepat Pickup adalah Fitur baru SiCepat untuk memudahkan Penjual dalam melakukan pengiriman tanpa harus melalui gerai ekspedisi."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

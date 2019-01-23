@@ -1,0 +1,60 @@
+{
+  "id": "ff8f35fb-b682-4fe0-860f-755a16e99465",
+  "parentId": "eb9007bc-712e-4341-b3f0-57b918ea2d60",
+  "rootParentId": "96f23e85-fae0-4896-8203-08e968aef1b9",
+  "name": "Payment_sudah_bayar_tp_batal_order_status_scrooge_success_below_6hr_resync_success",
+  "auto": true,
+  "contexts": [
+    "Payment_sudah_bayar_tp_batal_order_status_scrooge_success_below_6hr_status_check-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Payment_sudah_bayar_tp_batal_order_status_scrooge_success_below_6hr_resync_success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek status transaksi nya sudah berhasil diverifikasi ya, Kak."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kakak dapat pantu proses transaksi Kakak di Status Pemesanan ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532916466,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_shipping"
+    },
+    {
+      "name": "invoice_delivered"
+    },
+    {
+      "name": "invoice_verified"
+    },
+    {
+      "name": "invoice_process"
+    },
+    {
+      "name": "invoice_finished"
+    }
+  ]
+}

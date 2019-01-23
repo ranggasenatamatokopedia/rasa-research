@@ -1,0 +1,43 @@
+{
+  "id": "f50787df-021f-4f69-bddd-af3a6901ff67",
+  "parentId": "49954642-b258-45d1-acb9-35b917bd18f9",
+  "rootParentId": "b3e075f6-aae4-44df-ad4e-bea75b498908",
+  "name": "KAI_Kendala_Pembelian_Tiket_Kereta_expired_or_failed_inspay_less_24_hr",
+  "auto": false,
+  "contexts": [
+    "KAI_Kendala_Pembelian_Tiket_Kereta_scrooge_expired_or_failed_inspay-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "KAI_Kendala_Pembelian_Tiket_Kereta_expired_or_failed_inspay_less_24_hr-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped sedang konfirmasikan pembayaran kamu ke pihak bank ya, dan konfirmasi ke pihak bank membutuhkan waktu 1x24 jam :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539579989,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "less_than_24_hour"
+    }
+  ]
+}

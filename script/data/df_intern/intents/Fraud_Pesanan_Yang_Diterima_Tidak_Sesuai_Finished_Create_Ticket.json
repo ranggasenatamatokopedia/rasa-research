@@ -1,0 +1,69 @@
+{
+  "id": "64a9b5dc-1ee9-4693-bdef-3edc3ba15500",
+  "parentId": "75ddd930-1212-46c1-bf58-6d8386cd2c9e",
+  "rootParentId": "4a4c1baa-578a-4c5e-9c84-7def70acaae6",
+  "name": "Fraud_Pesanan_Yang_Diterima_Tidak_Sesuai_Finished_Create_Ticket",
+  "auto": true,
+  "contexts": [
+    "Fraud_Pesanan_Yang_Diterima_Tidak_Sesuai_Finished-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Pesanan_Yang_Diterima_Tidak_Sesuai_Finished_Create_Ticket-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2d5db262-1860-4f22-9a76-42469d0bb04d",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1335",
+          "isList": false
+        },
+        {
+          "id": "7db93fb6-9708-4d24-8b85-c55c273f53e7",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Fraud_Pesanan_Yang_Diterima_Tidak_Sesuai"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Terima Kasih untuk bukti yang kamu lampirkan. Toped bantu buatkan tiketnya. Mohon menunggu."
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 0,
+            "data": {
+              "show_rating": false
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539920106,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

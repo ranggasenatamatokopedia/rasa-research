@@ -1,0 +1,43 @@
+{
+  "id": "042d9dbc-d76d-4ea3-b420-8bf2936ba1b5",
+  "parentId": "e3307300-886e-466d-8f51-97776b432437",
+  "rootParentId": "8d6cc4ef-96f8-4de8-9cc0-b39dfd7bb0af",
+  "name": "Payment_salah_kode_pembayaran_gerai_check_true_pairing_code_not_match",
+  "auto": true,
+  "contexts": [
+    "Payment_salah_kode_pembayaran_gerai_check_true_pairing_code-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Payment_salah_kode_pembayaran_gerai_check_true_pairing_code_not_match-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped boleh minta tolong untuk upload foto bukti pembayarannya?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532489704,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "code_not_match"
+    }
+  ]
+}

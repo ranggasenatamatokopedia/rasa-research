@@ -1,0 +1,237 @@
+[
+  {
+    "id": "fde65f0d-6da5-4c0a-a056-39ec388acac5",
+    "data": [
+      {
+        "text": "pesanan saya dibatalkan sebagian oleh ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", apakah masih akan dapet cashback?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "668c27c1-0e4b-4ee7-99b5-abde4310bd20",
+    "data": [
+      {
+        "text": "saya pake promo cashback tapi pesanan hanya dikirim sebagian, lalu apakah saya masih bisa menerima cashback?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5f40b008-537d-4bd8-96a8-e065ffed61ab",
+    "data": [
+      {
+        "text": "apakah saya masih dapat cashback klo pesanan dikirim hanya sebagian?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "25cdefa3-9ed0-4ff3-a345-134680521c0d",
+    "data": [
+      {
+        "text": "kalo sebagian pesanan sy tidak dikirim ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " apakah saya masih bisa dapet cashback?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d13cb978-3382-4f60-a918-3ec4a1362987",
+    "data": [
+      {
+        "text": "pesanan saya ada ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi salah satunya ditolak ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", apakah saya masih dapet cashback?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f42d1541-b34a-493a-b560-4fda9111261f",
+    "data": [
+      {
+        "text": "Penjual cuma kirim 1 barang saya pakai promo, dapat tidak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0daf7cca-e2bb-4f8d-9ce3-c7828603a02d",
+    "data": [
+      {
+        "text": "saya pakai promo cashback untuk 4 barang tapi cuma terima 1 dari 4 gimana cashback saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "397282a1-1e5d-4b86-bf9c-e926d3381d40",
+    "data": [
+      {
+        "text": "alasannya kenapa separuh pesanan saya dibatalkan secara otomatis tanpa pemberitahuan sebelumnya? cashback promo saya gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8f125732-8849-45f0-8379-cab1dd68c09f",
+    "data": [
+      {
+        "text": "stengah dibatalkan, promo sudah saya pakai, gimana cashbacknya min, masih dpt tdk?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4b87cdb4-d48d-419c-9c25-e363811316bd",
+    "data": [
+      {
+        "text": "saya belum terima tokocash dari pembelian jas hujan dengan kode promo cashbackpasti  karna saya beli 2 barang yang tersedia hanya 1 dari sellernya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9d251de-29e8-4a5b-8651-3783e18c053d",
+    "data": [
+      {
+        "text": "saya ikut promo cashback dalam 2 pembelian barang... apa jika hanya 1 barang yang terkirim apakah saya masih bisa dapat cashback",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7a4a125a-93c6-4605-9488-81e0775ae46c",
+    "data": [
+      {
+        "text": "saya mau menanyakan kenapa transaksi dibatalkan 2? padahal saya mau dapat cashback promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7d11bf8-8cc6-48fb-a5da-36901ca865d2",
+    "data": [
+      {
+        "text": "sebagian pesanan saya kosong penjual bilang saya tidak menerima cashback apakah benar min?,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b3a5b88-15c8-404f-80f0-6772916c53d0",
+    "data": [
+      {
+        "text": "transaksi saya ada 3 tapi yang berhasil 2 gimana cashback saya diterima atau tidak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9175d3ec-8cfe-40e6-9c63-bcb2bd3f5b37",
+    "data": [
+      {
+        "text": "kalo barangnya cuma 2 dari 3 yang di pesan gimana cashbacknya,,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f42ca782-2f1d-4afe-9bd7-e69adcbda511",
+    "data": [
+      {
+        "text": "mo tanya kenapa transaksi sy dibatalkan bbrp mhn penjelasan dan bgmn dgn promo yg sy pake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "df05c2a0-d2de-463f-8c33-fd7003a42b58",
+    "data": [
+      {
+        "text": "saya beli bedak 27 tapi cuma tersedia 24 padahal saya mau dapat cashback min, tolong dibantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

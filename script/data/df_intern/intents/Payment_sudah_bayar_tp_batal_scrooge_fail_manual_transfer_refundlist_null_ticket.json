@@ -1,0 +1,78 @@
+{
+  "id": "49ee5ddf-fb0d-4391-8305-e416c42edf8f",
+  "parentId": "a74fe93f-de98-4d29-a89b-4804eb989839",
+  "rootParentId": "96f23e85-fae0-4896-8203-08e968aef1b9",
+  "name": "Payment_sudah_bayar_tp_batal_scrooge_fail_manual_transfer_refundlist_null_ticket",
+  "auto": true,
+  "contexts": [
+    "Payment_sudah_bayar_tp_batal_scrooge_fail_manual_transfer_refundlist_null-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Payment_sudah_bayar_tp_batal_scrooge_fail_manual_transfer_refundlist_null_ticket-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4295ccbb-605a-470b-9ea0-19bd03615d37",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1246"
+        },
+        {
+          "id": "d7a008b6-f036-4cfd-8982-96b8284e3252",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Payment_sudah_bayar_tp_batal"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon tunggu sebentar, Kak"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Terima kasih, Kak. Untuk bukti bayarnya akan dicek dulu"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped bantu buatkan tiketnya ya dan kalau ada informasi lebih lanjut akan disampaikan lewat email :)"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 0,
+            "data": {
+              "show_rating": false
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531450520,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

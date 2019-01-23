@@ -1,0 +1,876 @@
+[
+  {
+    "id": "4105657b-9237-4d79-b531-8096c963dac6",
+    "data": [
+      {
+        "text": "Power badge tidak muncul, padahal sudash mencapai skor yang menjadi persyaratan power badge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cf45c015-91a0-4f5e-a8ac-bf461c7c4cf4",
+    "data": [
+      {
+        "text": "kemana perginya power badge saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "68f9f37e-fa09-43d0-92c0-f44300238d25",
+    "data": [
+      {
+        "text": "tidak ada power badge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aa4c7535-a458-42d2-a7ef-1215eba3f14c",
+    "data": [
+      {
+        "text": "power bagde tidak muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6598aa38-5ec0-49c6-8e63-79156c19eeb1",
+    "data": [
+      {
+        "text": "power bedge saya tidak muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c1bb78b8-fad4-4133-b646-7308af00690e",
+    "data": [
+      {
+        "text": "kembalikan power badge saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cf0bac0d-c807-42ab-bf51-8b6f554d6dda",
+    "data": [
+      {
+        "text": "mana nih power badge saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ca3138d5-564f-45f3-8947-fae1a5c3bae0",
+    "data": [
+      {
+        "text": "power badge saya ngga ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2
+  },
+  {
+    "id": "2331126e-cb8c-4073-9774-2a79c05a7ff6",
+    "data": [
+      {
+        "text": "Gold badge tidak muncul, padahal sudash mencapai skor yang menjadi persyaratan gold badge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "62bd02ef-7b84-4bc5-ae6f-0aec4e0ee1b4",
+    "data": [
+      {
+        "text": "power badge tidak tersedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f68762e5-77a4-4586-b632-6b16634cc79d",
+    "data": [
+      {
+        "text": "Mohon bantuannya, produk ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " toko kami kenapa tidak muncul bedge power",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3efdf47a-3dd6-42c7-978e-a5378c750495",
+    "data": [
+      {
+        "text": "tokopedia tolong keluarkan power badge saya ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f576e320-551f-456c-8fa2-5a270c47bcaf",
+    "data": [
+      {
+        "text": "saya mau power badge saya muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eb1ed1e5-b807-4b2b-8969-89b3617ef222",
+    "data": [
+      {
+        "text": "butuh power badge nya tapi kenapa ngga muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2a353dee-ff74-44e6-a9b6-5876a7cb8d93",
+    "data": [
+      {
+        "text": "bantu dong power badge saya tidak ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fbbf131c-331f-46e3-bf8f-f0d2cd56d745",
+    "data": [
+      {
+        "text": "ini power badge kemana ni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "315da49d-45a2-4e68-8c01-c62744028fea",
+    "data": [
+      {
+        "text": "mana ya power badge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dd6acf21-3498-463d-93bf-0798e4fcb5b7",
+    "data": [
+      {
+        "text": "power badge saya tidak muncul kenapa ya tidak pernah muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d74d87db-c17e-44f2-a96e-f8164b9cad57",
+    "data": [
+      {
+        "text": "aktivasi power merchant ",
+        "userDefined": false
+      },
+      {
+        "text": "tadi siang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tapi power badge tidak muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b148083a-a8ca-4cd7-a774-559f0bfae898",
+    "data": [
+      {
+        "text": "Power Badge tidak muncul mohon dilakukan penindakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eee8dd37-cf23-4bd0-b65a-0b25df758da3",
+    "data": [
+      {
+        "text": "kapan akun toko saya mendapatkan power badge ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f2892111-b8c5-4dd8-84e4-94ba6a1a7b60",
+    "data": [
+      {
+        "text": "aktivasi gold merchant ",
+        "userDefined": false
+      },
+      {
+        "text": "tadi siang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tapi gold badge tidak muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f468c5f9-562f-4e35-9f82-d03082c80879",
+    "data": [
+      {
+        "text": "gold badge tidak muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5d80cf10-0d54-4dbc-bf4d-2650b339e7dc",
+    "data": [
+      {
+        "text": "Kami sudah berlangganan untuk menjadi Gold Merchant. Tetapi badge/logo Gold Merchant tidak muncul di toko kami. Harap di perbaiki. Thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "46a1cb3f-5cfd-4b68-b1e8-27bea1a95e62",
+    "data": [
+      {
+        "text": "gold badge saya tidak keluar, Saya harap segera direspon, terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e891ce9d-e86d-4912-8c47-4af202261ee7",
+    "data": [
+      {
+        "text": "gold badge saya tidak muncul kenapa ya tidak pernah muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1f4f0920-5293-42ed-98ae-e754328dd7cc",
+    "data": [
+      {
+        "text": "gold bagde tidak muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "abbe0722-1cca-4709-b72f-bec5723eed8e",
+    "data": [
+      {
+        "text": "Mohon bantuannya, produk dari toko kami kenapa tidak muncul bedge gold merchant ya, rugi dong saya bayar gold merchant kalo bedgenya tidak keluar, gimana sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dc04dfa2-5303-4012-9a73-590327094321",
+    "data": [
+      {
+        "text": "power badge saya tidak keluar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a3a5da32-5d9d-488e-a897-6d288cdc26c0",
+    "data": [
+      {
+        "text": "performa toko sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "90",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". power badge blm muncul. tolong di bantu. thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4c2667e4-e260-4bde-a526-9953545d5c49",
+    "data": [
+      {
+        "text": "Power Badge belum muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "de70c2be-209a-4d87-8712-df8bbe0718f9",
+    "data": [
+      {
+        "text": "PowerBadge belum muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a0083539-2433-4a17-a829-1d9628b70a93",
+    "data": [
+      {
+        "text": "Gold Badge tidak muncul mohon dilakukan penindakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9995744c-7398-4e6a-8cb3-8ba9639f3dae",
+    "data": [
+      {
+        "text": "Mengapa performa toko saya sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "79",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tetapi gold badge tidak muncul?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6ad3554a-2734-4683-9835-693c18db1aba",
+    "data": [
+      {
+        "text": "saya ingin menanyakan mengenai nilai poin saya yang sudah di atas ",
+        "userDefined": false
+      },
+      {
+        "text": "75",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " , kapan akun toko saya mendapatkan gold badge ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "32e4b591-99f2-4fb5-a892-dac09ac9325b",
+    "data": [
+      {
+        "text": "performa toko sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "90",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". gold badge blm muncul. tolong di bantu. thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8197c3e5-9983-48de-8edb-450db4d3f41c",
+    "data": [
+      {
+        "text": "gold badge saya tidak keluar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c1a9b1af-dfa7-4fa0-8ef9-6d51c3c35492",
+    "data": [
+      {
+        "text": "Gold Badge belum muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "17f53c89-4e69-40de-b912-aacd8a1dce85",
+    "data": [
+      {
+        "text": "mengapa gold badge tidak muncul padahal point sudah lebih dr ",
+        "userDefined": false
+      },
+      {
+        "text": "75",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan sy sudah berhasil melakukan payment via ",
+        "userDefined": false
+      },
+      {
+        "text": "CC",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " untuk paket gold merchant ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bulan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "159fb30f-e20c-4d81-9f39-43c25e2d1b3d",
+    "data": [
+      {
+        "text": "dear Cs ,hari tgl ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "jan 2018",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " perpanjang gold merchant menggunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo tokopedia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".namun simbol gold merchant tidak muncul,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "10a3be6d-9f05-4c1c-b613-5f5a36c28065",
+    "data": [
+      {
+        "text": "Gold Badge toko saya tidak muncul sedangkan reputasi toko saya lbh dari ",
+        "userDefined": false
+      },
+      {
+        "text": "75",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5316304c-5396-4c2d-aa8b-f66e61f1f8f6",
+    "data": [
+      {
+        "text": "point saya sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "84",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kok ga jadi gold badge yah...terima kasih.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e8b15a7f-8135-42be-bd33-4760a0f4e719",
+    "data": [
+      {
+        "text": "mengapa gold badge tidak muncul padahal point sudah lebih dr ",
+        "userDefined": false
+      },
+      {
+        "text": "75",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eee78949-e725-4d26-bd9d-55d957f9c9ae",
+    "data": [
+      {
+        "text": "Performa toko sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "80",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " poin, tapi Gold Badge tidak muncul di setiap produk kami.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dcd9f5e7-fe5a-496d-851d-bbf3434e9520",
+    "data": [
+      {
+        "text": "Performa toko saya sudah diatas ",
+        "userDefined": false
+      },
+      {
+        "text": "75",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi gold badge tidak muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "053437d2-7f3a-4e74-b515-2e99e5af3d31",
+    "data": [
+      {
+        "text": "Kali ini saya ingin meminta bantu an nya agar Gold badge di toko saya segera di tampilkan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "70c8d2ef-f8be-45d0-bf96-1ad7a247785d",
+    "data": [
+      {
+        "text": "kenapa ya gold badge saya tidak pernah muncul?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "307fdf7f-413c-49a7-8e88-1b3e42a61a44",
+    "data": [
+      {
+        "text": "Gold badge aku tidak muncul .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8f3dea20-f5cb-4db8-9af4-3ca83cdff0f0",
+    "data": [
+      {
+        "text": "pagi ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya perpanjang langganan Gold Merchant untuk periode ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tahun, tetapi Gold Badge belum muncul, mohon dibantu, makasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "24077ce7-146c-4a92-a29e-2187e02c876e",
+    "data": [
+      {
+        "text": "saya baru saja berlangganan gold merchant tetapi setelah di cek gold badge nya tetap tidak muncul mohon bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6e59ca50-5915-4d32-babd-58b516003601",
+    "data": [
+      {
+        "text": "Tidak ada gold badge dan lambang gold pun tidak ada pada ",
+        "userDefined": false
+      },
+      {
+        "text": "masing2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " produk kami",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bf1a7edc-3d2d-4a43-99ad-c76a4eb27203",
+    "data": [
+      {
+        "text": "padahal saya sudah ikut gold badge...tp gold badge tidak muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a617cf58-10fe-4fa4-bc39-bfb3629f5ad1",
+    "data": [
+      {
+        "text": "Gold badge di produk saya tidak muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5d9b4c1c-b406-4bb5-b660-5c0c750b7d19",
+    "data": [
+      {
+        "text": "Gold Badge belum muncul, mohon dibantu, makasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0ec0c9dc-879f-449c-b222-4febb97eb971",
+    "data": [
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " performa toko saya ",
+        "userDefined": false
+      },
+      {
+        "text": "98",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "100",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " namun ikon gold badge tidak muncul pada toko saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3b93ba80-6c7d-4bb6-997e-221e1730489e",
+    "data": [
+      {
+        "text": "gold badge tidak terupdate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4dd3687f-b098-4066-bf06-fb13e0fed652",
+    "data": [
+      {
+        "text": "point Di toko saya sebesar ",
+        "userDefined": false
+      },
+      {
+        "text": "79poin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". tapi kenapa tidak muncul gold badge pada product saya ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2e3043bc-8bb2-4849-a377-430f6e5d5e92",
+    "data": [
+      {
+        "text": "hanya sebagian produk yang muncul Gold Badge nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "be3a5a7a-6e8e-429a-9817-ed12f5e57db5",
+    "data": [
+      {
+        "text": "gold badge tidak ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "64c37859-3620-406f-b19c-c0ea337d4284",
+    "data": [
+      {
+        "text": "gold badge tidak muncuk pada produk saya mohon penyelesaiannya terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

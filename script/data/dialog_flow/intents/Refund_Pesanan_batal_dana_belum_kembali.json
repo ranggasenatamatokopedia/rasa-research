@@ -1,0 +1,53 @@
+{
+  "id": "e3abac0e-8158-4bee-9362-007b7d5a2c47",
+  "name": "Refund_Pesanan_batal_dana_belum_kembali",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetInvoiceList",
+      "affectedContexts": [
+        {
+          "name": "Refund_Pesanan_batal_dana_belum_kembali-followup",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "Refund_Pesanan_batal_dana_belum_kembali-followup-2",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh kasih tahu Toped transaksi mana yang dimaksud?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 0,
+            "data": {
+              "show_rating": false
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "refund_pesanan_batal_dana_belum_kembali"
+    }
+  ]
+}

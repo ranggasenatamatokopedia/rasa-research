@@ -1,0 +1,33 @@
+{
+  "id": "dd74a8e8-761a-4192-ad81-da3422965ced",
+  "name": "FAQ_Tokopoints_PIN_Kupon_Partner",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Tokopoints_PIN_Kupon_Partner-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "PIN Kupon Partner Offline hanya bisa diisi dan diverifikasi oleh kasir outlet. Pastikan kamu belum \"Swipe\" Kupon tersebut karena kasir tidak mau menerima Kupon yang sudah terbuka."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

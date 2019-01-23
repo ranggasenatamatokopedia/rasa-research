@@ -1,0 +1,38 @@
+{
+  "id": "01ff3ad1-4527-4b19-b097-99768abba46d",
+  "name": "Fraud_Penipuan_Pembayaran_Via_Gerai_Indomaret",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Penipuan_Pembayaran_Via_Gerai_Indomaret-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa unggah terlebih dahulu screenshot pesan yang kamu terima terkait transaksi tersebut dan lampirkan bukti pendukung lainnya yang kamu punya, ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "fraud_penipuan_pembayaran_via_gerai_indomaret"
+    }
+  ]
+}

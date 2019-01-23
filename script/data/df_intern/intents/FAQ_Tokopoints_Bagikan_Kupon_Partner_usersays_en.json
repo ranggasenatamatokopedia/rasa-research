@@ -1,0 +1,139 @@
+[
+  {
+    "id": "8d03fec4-ad7f-4c9b-a429-d81b3b49caf4",
+    "data": [
+      {
+        "text": "Kupon partnernya mau saya kasih sodara, gpp kan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9ac862a2-e515-4d44-a102-18055c1d5eca",
+    "data": [
+      {
+        "text": "Kalo kupon partner ini saya kasih ke sodara saya bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "21327780-4b17-4beb-b19a-cfaf821819cb",
+    "data": [
+      {
+        "text": "Kalo kupon partner ini saya bagiin ke temen bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "203797e0-fb11-49f1-bbb0-c72ec43bd555",
+    "data": [
+      {
+        "text": "Kalo kupon ini di kasih ke temen saya, temen saya bisa pake gak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5358f565-97ad-4550-91f4-a93c0ec31751",
+    "data": [
+      {
+        "text": "Kupon partnernya mau saya kasih ke temen saya boleh gak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1b266185-7ead-4949-8b1a-c85f6a926eff",
+    "data": [
+      {
+        "text": "Kalo temen saya mau pake kupon partner saya bisa gak yah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "15e24f48-2153-48f1-8603-1a2776441018",
+    "data": [
+      {
+        "text": "Bagikan kupon partner ke temen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1553dbec-60cb-472f-a768-847f7bfa7a21",
+    "data": [
+      {
+        "text": "Kupon partnernya mau saya bagikan ke ke temen boleh gak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8cce67cd-9698-49c4-a1d6-b4b1a5b07d0d",
+    "data": [
+      {
+        "text": "Kupon partner ini bisa di pake gak yah sama orang lain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c12351c5-25ba-4dc9-8c96-9759a1a4f2a7",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kupon paerner ini bisa di pake orang lain gak sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bc3d19e0-2d1a-4418-8053-bfe1fd58717c",
+    "data": [
+      {
+        "text": "Kalo kupon partner ini saya bagi ke temen saya bisa gak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bd2a25e8-1099-4f19-80ad-29bd66edc111",
+    "data": [
+      {
+        "text": "Kalo saya mau bagiin kupon partner ini ke temen saya bisa gak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

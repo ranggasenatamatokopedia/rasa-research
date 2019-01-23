@@ -1,0 +1,43 @@
+{
+  "id": "b5863017-fc3b-445f-85f4-7606ff848f66",
+  "parentId": "05c10ea8-c512-42ad-88bc-7ae2a47b451c",
+  "rootParentId": "7f287c44-496d-4df8-b6b5-0c29a68454fc",
+  "name": "Merchant_Toko_Di_Moderasi_Moderated_Is_False_Select_Not_Success",
+  "auto": true,
+  "contexts": [
+    "Merchant_Toko_Di_Moderasi_Moderated_Is_False_Select-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Toko_Di_Moderasi_Moderated-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped gagal memproses pengajuan buka toko kamu, harap mengulangi prosesnya ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546484518,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "is_not_success"
+    }
+  ]
+}

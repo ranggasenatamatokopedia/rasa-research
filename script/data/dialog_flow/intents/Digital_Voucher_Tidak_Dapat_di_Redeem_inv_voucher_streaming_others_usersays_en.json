@@ -1,0 +1,68 @@
+[
+  {
+    "id": "bb5a6a12-4fb0-4f2c-931d-623c7e7f465d",
+    "data": [
+      {
+        "text": "operator_itunes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bc0cd0cb-e25e-4a44-83e8-b05fae35995b",
+    "data": [
+      {
+        "text": "operator_hooq",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f88c447f-9620-4a45-a710-43b87df5e715",
+    "data": [
+      {
+        "text": "operator_squline",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ac148a28-73d0-4fa9-b4d8-3f0cc7214e7c",
+    "data": [
+      {
+        "text": "operator_catchplay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c18772fe-7467-46cc-bbeb-85c4ca8b78c8",
+    "data": [
+      {
+        "text": "operator_genflix",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "76bcb603-f006-4275-a8bc-a480c798f1d9",
+    "data": [
+      {
+        "text": "operator_bein_sports_connect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

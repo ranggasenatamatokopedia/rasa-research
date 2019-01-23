@@ -1,0 +1,69 @@
+{
+  "id": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Transaksi_Berhasil_Tapi_Tidak_Mendapat_Benefit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Promo_Transaksi_Berhasil_Tapi_Tidak_Mendapat_Benefit-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh infokan ke Toped, jenis benefit apa yang belum kamu terima?"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Contoh : Cashback promo"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 2,
+            "button_actions": [
+              {
+                "message": "Cashback promo"
+              },
+              {
+                "message": "Cashback toko / merchant"
+              },
+              {
+                "message": "Kode unik promo / e-Voucher"
+              },
+              {
+                "message": "Giftcard Tokopedia"
+              },
+              {
+                "message": "Extra / bonus TopAds"
+              },
+              {
+                "message": "Extra masa aktif gold merchant"
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "promo_transaksi_berhasil_tapi_tidak_mendapat_benefit"
+    }
+  ]
+}

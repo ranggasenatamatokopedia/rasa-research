@@ -1,0 +1,51 @@
+{
+  "id": "d7e4a64b-741a-43e4-83ee-1dc492c54c91",
+  "parentId": "fc073c8f-75bf-44ac-aba5-4e41da7386ce",
+  "rootParentId": "cf17fcc0-2998-4ff8-8cf4-6a1ca0e60443",
+  "name": "Merchant_Point_Reputasi_Tidak_Sesuai_1_Select_Marketplace_Finished_Positive_Null_Negative_Null",
+  "auto": false,
+  "contexts": [
+    "Merchant_Point_Reputasi_Tidak_Sesuai_1_Select_Invoice_Marketplace_Finished-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Point_Reputasi_Tidak_Sesuai_1_Select_Marketplace_Finished_Positive_Null_Negative_Null-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Poin reputasi belum bertambah karena penjual belum memberikan review untuk transaksi tersebut."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Informasi lengkap mengenai review smiley dapat kamu lihat !TKPD_URL_KETENTUAN_PEMBERIAN_REPUTASI_ULASAN!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536553715,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "is_buyer_positive_seller_null"
+    },
+    {
+      "name": "is_buyer_negative_seller_null"
+    }
+  ]
+}

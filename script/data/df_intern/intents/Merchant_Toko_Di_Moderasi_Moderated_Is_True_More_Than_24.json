@@ -1,0 +1,68 @@
+{
+  "id": "1355d7e3-88ee-4712-88f2-2d55dc15dd9f",
+  "parentId": "7fe5302c-d66b-4ad9-87e5-4aa8a3f9422d",
+  "rootParentId": "7f287c44-496d-4df8-b6b5-0c29a68454fc",
+  "name": "Merchant_Toko_Di_Moderasi_Moderated_Is_True_More_Than_24",
+  "auto": true,
+  "contexts": [
+    "Merchant_Toko_Di_Moderasi_Moderated_Is_True-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Toko_Di_Moderasi_Moderated_Is_True_More_Than_24-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "94370999-3b71-4914-be67-595f5895f5ec",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1036",
+          "isList": false
+        },
+        {
+          "id": "4a35c86c-130e-4d43-bfa0-788b8eafc910",
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Merchant_Toko_Di_Moderasi"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk permintaan buka toko yang kamu ajukan, Toped bantu buatkan tiket bantuan ya dan nanti kamu akan dihubungi oleh CS Toped :)"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "data": {
+              "show_rating": false
+            },
+            "type": 0
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536317787,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "more_than_24_hr"
+    }
+  ]
+}

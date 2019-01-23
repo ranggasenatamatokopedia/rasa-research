@@ -1,0 +1,44 @@
+{
+  "id": "8fb274c9-3366-45b8-b141-6fe521b6b0b9",
+  "parentId": "dfdca2c6-201f-4e41-8cde-d79615cf05fe",
+  "rootParentId": "c230094b-7dd5-43f4-984b-d415098c4e53",
+  "name": "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_id_pelanggan_tidak_ditemukan_emoney",
+  "auto": true,
+  "contexts": [
+    "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_id_pelanggan_tidak_ditemukan-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_id_pelanggan_tidak_ditemukan_emoney-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa pastikan dulu bahwa nomor kartu yang dimasukkan sudah benar yaitu sejumlah 16 digit"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa lampirkan dulu screenshot kendalanya agar bisa Toped cek kembali :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535961116,
+  "fallbackIntent": false,
+  "events": []
+}

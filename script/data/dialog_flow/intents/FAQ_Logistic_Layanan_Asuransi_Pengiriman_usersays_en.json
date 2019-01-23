@@ -1,0 +1,234 @@
+[
+  {
+    "id": "08622ea8-59cb-4567-aed3-83026f89fa02",
+    "data": [
+      {
+        "text": "untuk pembelian product ini saya tambahkan untuk perlindungan asuransi, apabila barang saya hilang pada saat pengiriman dan atau rusak saat saya terima nanti proses claimnya bagaimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0ee9670f-ba21-47be-a9e5-ee3d68628b74",
+    "data": [
+      {
+        "text": "Kemarin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya kirim pake ",
+        "userDefined": false
+      },
+      {
+        "text": "Wahana",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tapi kenapa ga pake asuransi Tokopedia ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1acd7ae6-022a-4ecd-bc09-c1ed5999654f",
+    "data": [
+      {
+        "text": "Asuransi Tokopedia ga berlaku ya buat ",
+        "userDefined": false
+      },
+      {
+        "text": "Wahana",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ed8da389-a621-41b8-9ea1-ced757d216ba",
+    "data": [
+      {
+        "text": "Saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di Tokopedia sudah ada asuransi, ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c6823aa8-5651-41bd-8f42-8b4f4b72998a",
+    "data": [
+      {
+        "text": "Sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sudah ada asuransi ya di Tokopedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7afa9ad1-a989-42f1-80be-4d2fa8f39c1c",
+    "data": [
+      {
+        "text": "Untuk ",
+        "userDefined": false
+      },
+      {
+        "text": "Wahana",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ga pake asuransi ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5016e0a3-648f-4b0b-adfa-a97c1a5a3543",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", di Tokopedia ada asuransi khusus untuk pengiriman gak sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ba09cfe2-f07b-475a-a938-191d6f0ce28a",
+    "data": [
+      {
+        "text": "apakah saya blg ke kurir kalau pengiriman diasuransi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "72d33f56-0cb1-4957-809f-94c76695e09d",
+    "data": [
+      {
+        "text": "mau tnya gan..asuransi barang yg transaksi ditokped itu yg nanggung siapa??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "00744c06-383c-4074-9568-904cf923939e",
+    "data": [
+      {
+        "text": "cara claim asuransi pengiriman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "da693d25-f0fc-485a-b658-6072ed4d0c8f",
+    "data": [
+      {
+        "text": "pengiriman barang rusak karena kurir, barang sudah sy asuransikan . bagaimana cara claim.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8d4032c3-1c9b-4ea1-ac39-5d3d4c1c183a",
+    "data": [
+      {
+        "text": "apakah asuransi pengiriman barang ke pembeli yang disediakan tokopedia itu aman?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bd25a4e5-73ee-4287-b1b2-e720a9d4cb32",
+    "data": [
+      {
+        "text": "pas sampe di buyer barangnya ada yg hancur.bagaimana tanggung jawab jne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4dd8e8cf-d42c-4305-94aa-df40d9052161",
+    "data": [
+      {
+        "text": "barang pecah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e65b446c-5f98-49d7-8917-520c812c4d09",
+    "data": [
+      {
+        "text": "apa fungsi asuransi pengiriman?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "53043e4d-feb2-4b2a-a59e-c192f8996d77",
+    "data": [
+      {
+        "text": "selamat pagi, pembeli saya sudah bayar asuransi, tapi di notifnya saya tidak perlu bayar asuransi logistik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

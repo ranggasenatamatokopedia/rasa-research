@@ -1,0 +1,48 @@
+{
+  "id": "3f0d3d0a-8df8-4053-a48f-d0e636edf146",
+  "parentId": "ecb55367-4a3a-468f-9bcd-38293b968ac7",
+  "rootParentId": "844540fa-3db4-42cc-a62e-c3d9bc90793a",
+  "name": "Resolution_Kendala_Fitur_Resolusi_Batal_Komplain_Solution_Accepted_Not_Courier",
+  "auto": true,
+  "contexts": [
+    "Resolution_Kendala_Fitur_Resolusi_Batal_Komplain_Tdk_Muncul_Inv-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Resolution_Kendala_Fitur_Resolusi_Batal_Komplain_Solution_Accepted_Not_Courier-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah Toped cek, untuk kendala ini solusi awal sudah disetujui, jadi tombol \"Batalkan Komplain\" tidak muncul."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau kedua pihak sudah sepakat menutup komplain di Pusat Resolusi, bisa berikan pernyataan pada kolom diskusi, ya. Nantinya Admin Resolusi akan bantu untuk menutup komplain kamu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536742101,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "solution_accepted_not_courier"
+    }
+  ]
+}

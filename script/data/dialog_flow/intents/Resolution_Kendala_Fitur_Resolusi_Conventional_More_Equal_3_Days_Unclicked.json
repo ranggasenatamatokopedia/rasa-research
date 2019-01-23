@@ -1,0 +1,43 @@
+{
+  "id": "3defc533-4ac5-4bfa-8e0d-8e78c5e4b9ad",
+  "parentId": "07ea3342-ee05-44d2-9324-18e6130957f9",
+  "rootParentId": "844540fa-3db4-42cc-a62e-c3d9bc90793a",
+  "name": "Resolution_Kendala_Fitur_Resolusi_Conventional_More_Equal_3_Days_Unclicked",
+  "auto": true,
+  "contexts": [
+    "Resolution_Kendala_Fitur_Resolusi_Tombol_Bantuan_Tdk_Muncul_Inv-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ResetAndClickHelpButton",
+      "affectedContexts": [
+        {
+          "name": "Resolution_Kendala_Fitur_Resolusi_Conventional_More_Equal_3_Days_Unclicked-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped akan bantu klik tombol \"Minta Bantuan\" di halaman Pusat Resolusi kamu, ya. Mohon menunggu."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536724994,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "conven_more_than_equal_3_not_clicked"
+    }
+  ]
+}

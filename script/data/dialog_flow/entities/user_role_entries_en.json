@@ -1,0 +1,21 @@
+[
+  {
+    "value": "buyer",
+    "synonyms": [
+      "buyer",
+      "pembeli",
+      "pmbeli",
+      "byer"
+    ]
+  },
+  {
+    "value": "seller",
+    "synonyms": [
+      "seller",
+      "pnjual",
+      "penjual",
+      "dropship",
+      "dropshipper"
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "id": "cf5a4e98-b516-499e-819f-2c9a13498eca",
+  "parentId": "d0b495d0-eb92-42e7-839b-7f93eab28589",
+  "rootParentId": "7f7a8cb1-cbe8-48a9-9930-7686b772cf99",
+  "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_waiting_third_party_scrooge_waiting_Ya_sudah",
+  "auto": true,
+  "contexts": [
+    "Flight_Kendala_Pembelian_Tiket_Pesawat_waiting_third_party_scrooge_waiting-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Flight_Kendala_Pembelian_Tiket_Pesawat_waiting_third_party_scrooge_waiting_Ya_sudah-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon tunggu dalam 1x24 jam ya, karena saat ini Toped sedang menunggu mutasi dari pihak Bank."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538047422,
+  "fallbackIntent": false,
+  "events": []
+}

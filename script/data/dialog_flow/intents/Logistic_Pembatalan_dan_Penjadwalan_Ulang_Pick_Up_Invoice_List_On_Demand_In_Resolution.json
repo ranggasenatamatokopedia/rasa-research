@@ -1,0 +1,43 @@
+{
+  "id": "86bc0661-3be9-4266-afa9-41fae15c936c",
+  "parentId": "e34e6067-39f2-4155-888b-91af1ef33ae2",
+  "rootParentId": "25f8caf5-22b1-4b7d-8704-24a6da37b244",
+  "name": "Logistic_Pembatalan_dan_Penjadwalan_Ulang_Pick_Up_Invoice_List_On_Demand_In_Resolution",
+  "auto": true,
+  "contexts": [
+    "Logistic_Pembatalan_Pencarian_Driver_dan_Penjadwalan_Ulang_Pick_Up_Invoice_List_On_Demand-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Pembatalan_dan_Penjadwalan_Ulang_Pick_Up_Invoice_List_On_Demand_In_Resolution-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Transaksi kamu sedang ada di Pusat Resolusi. Toped sarankan agar kamu berdiskusi dengan Pembeli ya untuk kesepakatannya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535540853,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_pesanan_dikomplain"
+    }
+  ]
+}

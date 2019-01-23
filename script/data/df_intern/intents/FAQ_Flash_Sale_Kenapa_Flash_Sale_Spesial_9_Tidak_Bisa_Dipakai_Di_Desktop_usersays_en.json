@@ -1,0 +1,662 @@
+[
+  {
+    "id": "8b287ae2-ded2-4cb2-925f-9bf0aec90fc9",
+    "data": [
+      {
+        "text": "flash sale spesial ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak ada tampilan desktopnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b15acb53-02e2-416e-8885-71d90f331240",
+    "data": [
+      {
+        "text": "tidak muncul tampilan flash sale spesial ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sih, gimana ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c5bd4ecc-709f-4caa-85ce-874bae3c3d53",
+    "data": [
+      {
+        "text": "lho flash sale kok ga ada di desktop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bf5723ea-d3a3-4ab0-8eb9-de24b2fedf9a",
+    "data": [
+      {
+        "text": "lho flash sale tokopedia spesial ",
+        "userDefined": false
+      },
+      {
+        "text": "9999",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " kok ga muncul di desktop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f97d3491-ed9e-4c19-b2ed-fa8e57840727",
+    "data": [
+      {
+        "text": "kok flash sale spesial ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gabisa dipakai di desktop kenapa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "878f6d2c-bb7c-440d-a257-1896dcf729c6",
+    "data": [
+      {
+        "text": "kok flash sale spesial ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tokopedia ga ada di laptop atau browser ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fdf7e5e7-ffb6-4f0b-b961-0f32b30e8a36",
+    "data": [
+      {
+        "text": "padahal saya mau pakai flash sale spesial ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di laptop tapi tidak ada menu nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f422374d-87d9-4e98-9c11-ae003f2a14f2",
+    "data": [
+      {
+        "text": "tidak bisa buka link flash sale tokopedia ultah ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6ff9365b-4547-46c8-ab43-1e090ab4d940",
+    "data": [
+      {
+        "text": "tidak ada link flash sale spesial ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di desktop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1028fff0-8016-4c2a-8178-36a56c541627",
+    "data": [
+      {
+        "text": "kenapa sih flash sale tokopedia ultah ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak dimunculin di desktop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "42c4b3d7-928c-4d1c-8506-ab20b901e84a",
+    "data": [
+      {
+        "text": "kenapa tidak muncul menu flash sale ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di desktop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7c960ed0-27d7-4080-be4e-91ff378393f6",
+    "data": [
+      {
+        "text": "flash sale tokopedia ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " kok ga bisa di desktop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ff67ae8e-6eed-438e-9aa6-fdbffc02b739",
+    "data": [
+      {
+        "text": "kok tidak dimunculkan menu flash sale ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di desktop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6e28c4d7-3b96-40f5-b956-a2ac8d75a48e",
+    "data": [
+      {
+        "text": "tidak muncul menu flash sale spesial ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di desktop kenapa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "46270db5-67be-4f50-8c8c-7c2cdc212e44",
+    "data": [
+      {
+        "text": "kenapa ga bisa beli flash sale spesial ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di laptop?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b7f4cdb1-35bc-4ebb-901d-8d8f079bae05",
+    "data": [
+      {
+        "text": "tidak ada menu flash sale ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di tampilan laptop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7d199d1b-263b-44cc-b423-51a6283123b7",
+    "data": [
+      {
+        "text": "flash sale ultah ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tokopedia ga muncul di desktop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "97cbcf40-5503-43c4-9ae5-3cbba82b6b0a",
+    "data": [
+      {
+        "text": "ga ada tampilan flash sale spesial ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di laptop saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0e616e58-3a87-4bdc-b323-ed405076c7ef",
+    "data": [
+      {
+        "text": "flash sale spesial ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tokopedia ga muncul di desktop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3573b485-3152-4d02-acc4-bbdfbfbf854c",
+    "data": [
+      {
+        "text": "saya kok ga nemuin flash sale tokopedia ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di tampilan browser ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "43307652-3aef-4267-bee0-c1546a9d16a4",
+    "data": [
+      {
+        "text": "tidak ada menu flash sale spesial ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di desktop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d84091cc-5835-4155-9bca-d7e7a608af96",
+    "data": [
+      {
+        "text": "kenapa ga ada flash sale di tampilan desktop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b9323e59-b549-4502-8a9e-46fe5289e5b7",
+    "data": [
+      {
+        "text": "saya mau pake flash sale ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kok di desktop ga ada ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "12e40c56-fe63-461a-8687-cfb156fe2dd7",
+    "data": [
+      {
+        "text": "ga bisa cek flash sale spesial ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di desktop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fd352b1b-aac5-4c91-92e4-f8ea093b8849",
+    "data": [
+      {
+        "text": "kenapa flash sale .spesial ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ga ada di desktop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c101d436-0832-4aa0-bed5-bb0d24906b94",
+    "data": [
+      {
+        "text": "flash sale tokopedia ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak ada tampil di laptop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3775faeb-c96b-444e-b65a-aac073d13efd",
+    "data": [
+      {
+        "text": "kenapa sih tidak ada flash sale ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di desktop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6c57b226-6b14-48c4-a369-3c468352c741",
+    "data": [
+      {
+        "text": "kenapa saya ga dapat link flash sale spesial ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di desktop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3287635f-2b82-4354-b1a1-c397669eba1d",
+    "data": [
+      {
+        "text": "flash sale spesial ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak bisa dibuka di laptop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c2a58579-b9ea-4e9b-9cfd-c38933e283ea",
+    "data": [
+      {
+        "text": "tidak ada menu flash sale ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tokopedia di laptop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c87d2f65-81a7-43f4-ae20-27984e297554",
+    "data": [
+      {
+        "text": "flash sale spesial ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak muncul di desktop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2376825e-62b0-4ed3-aeca-264c1bc30995",
+    "data": [
+      {
+        "text": "tidak ada akses flash sale spesial ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tokopedia di desktop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7b0f46ab-3b7f-4118-afdf-b0b2aec6ac2b",
+    "data": [
+      {
+        "text": "kenapa tidak ada halaman flash sale ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di laptop ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aff97c2e-c6ff-4ecf-86f3-fb8ae30ac13f",
+    "data": [
+      {
+        "text": "saya buka flash sale spesial ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak ada di desktop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

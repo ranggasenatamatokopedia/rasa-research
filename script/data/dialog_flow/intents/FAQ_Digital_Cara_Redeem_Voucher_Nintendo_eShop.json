@@ -1,0 +1,42 @@
+{
+  "id": "5d51f36d-31a0-4301-b09a-62ea537806fa",
+  "name": "FAQ_Digital_Cara_Redeem_Voucher_Nintendo_eShop",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Digital_Cara_Redeem_Voucher_Nintendo_eShop-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Redeem Nintendo eShop Prepaid Card bisa dilakukan dengan cara:\n1. Pilih Icon Nintendo eShop di menu \"Home\"\n2. Geser ke kiri lalu pilih \"Add Funds\"\n3. Pilih \"Redeem a Nintendo eShop Card\"\n4. Masukkan 16 digit kode aktivasi yang terdapat di bagian belakang kartu voucher, kemudian pilih \"OK\" untuk melengkapi transaksi."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga informasi Toped membantu kamu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_digital_cara_redeem_voucher_nintendo_eshop"
+    }
+  ]
+}

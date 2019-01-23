@@ -1,0 +1,69 @@
+{
+  "id": "ada5b859-2dd3-4470-8cef-f901e13f2418",
+  "parentId": "f269e2a8-89ca-45d8-9693-f261d61f1572",
+  "rootParentId": "d9d2ac31-d864-4f6e-836c-94fff4d54ef6",
+  "name": "Logistic_Status_Pengiriman_Tidak_Sesuai_Invoice_List_Buyer_Canceled_Rejected",
+  "auto": true,
+  "contexts": [
+    "Logistic_Status_Pengiriman_Tidak_Sesuai_Invoice_List_Buyer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Status_Pengiriman_Tidak_Sesuai_Invoice_List_Buyer_Canceled_Rejected-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a1dd9ad8-373d-41ba-964e-f16c2e6ea75a",
+          "required": false,
+          "dataType": "@user_role",
+          "name": "user_role",
+          "value": "$user_role",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sayang sekali, Toped cek saat ini status transaksi kamu sudah batal."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Terkait pengembalian dananya kamu bisa cek di OVO Cash/OVO Points/Limit Kartu Kredit/Limit Kredivo, bergantung pada metode pembayaran yang kamu gunakan. Selain itu, maka akan dikembalikan ke Saldo Tokopedia. Tak perlu khawatir, ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531216009,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_pesanan_ditolak_penjual"
+    },
+    {
+      "name": "invoice_batal_otomatis_oleh_sistem"
+    },
+    {
+      "name": "invoice_canceled"
+    },
+    {
+      "name": "invoice_payment_due"
+    },
+    {
+      "name": "invoce_refund"
+    }
+  ]
+}

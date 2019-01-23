@@ -1,0 +1,43 @@
+{
+  "id": "c86917d3-309c-4358-9952-f60fb9d92a1d",
+  "parentId": "6f5a3f14-d1e3-439d-92d9-cdd77e2da07f",
+  "rootParentId": "6f5a3f14-d1e3-439d-92d9-cdd77e2da07f",
+  "name": "Seller_Merchant_Produk_Tidak_Muncul_Halaman_Pencarian",
+  "auto": true,
+  "contexts": [
+    "Seller_Merchant_Produk_Tidak_Muncul-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Seller_Merchant_Produk_Tidak_Muncul_Halaman_Pencarian-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh informasikan ke Toped, keyword yang digunakan saat melakukan pencarian? (Contoh: sandal lucu)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531905283,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "searching_page"
+    }
+  ]
+}

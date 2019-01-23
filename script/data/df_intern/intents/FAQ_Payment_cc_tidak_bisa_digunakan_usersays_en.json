@@ -1,0 +1,1011 @@
+[
+  {
+    "id": "cff4ad7e-6b69-485d-ae44-bf4c066428de",
+    "data": [
+      {
+        "text": "Saya masih belum bs bertransaksi dgn kartu kredit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8fb54a12-0b12-45dc-90ed-b14ab80d0a38",
+    "data": [
+      {
+        "text": "beberapa ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya tidak bisa digunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ffb0cfaa-95b4-49bf-bd65-ee5a6126b89b",
+    "data": [
+      {
+        "text": "Maaf, permohonan Anda tidak dapat diproses. Mohon dicoba kembali. sy mau bayar ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bni",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " muncul kata kata seperti itu sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pagi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nggak bisa bisa mohon bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f1e9a1ca-a62d-4517-b99e-48c84172a72f",
+    "data": [
+      {
+        "text": "Kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak bisa digunakan padahal limit masih ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2d3c649e-5860-42ad-991c-c841111da134",
+    "data": [
+      {
+        "text": "Transaksi saya selalu gagal, sementara limit ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya masih banyak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5bd58d26-1a18-4a64-90eb-6ef30b00ca2b",
+    "data": [
+      {
+        "text": "kenapa kartu kredit ditolak padahal dari pihak bank tidak ada kendala dan selalu tertulis kartu melebihi limit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3893c05b-9283-4924-af1a-1bdffa7307b7",
+    "data": [
+      {
+        "text": "limit ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mencukupi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3371436f-eb58-48ee-be65-8ce8b7766524",
+    "data": [
+      {
+        "text": "saya ingin bertanya mengapa kartu kredit saya tidak bisa melakukan pembayaran sementara limit masih cukup dan tidak ada masalah kata pihak bank nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cec54345-01db-46a2-b44a-8edcaa9b9b18",
+    "data": [
+      {
+        "text": "pembayaran menggunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bni",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak bisa, tidak keluar until mengisi kode otp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d6ee4757-617c-4df1-b0e3-a9ba2dabc819",
+    "data": [
+      {
+        "text": "saya mau bayar dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ac0bbdf3-32ad-4ccc-83d4-a476bfc40b82",
+    "data": [
+      {
+        "text": "mohon dibantu ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya tidak bisa dipakai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eab87a4b-7f59-479b-b5e7-3226c7bf0b5e",
+    "data": [
+      {
+        "text": "mohon dibantu ",
+        "userDefined": false
+      },
+      {
+        "text": "cc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya tidak bisa dipakai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "baac3d74-5c88-4994-b76b-3b42e3293805",
+    "data": [
+      {
+        "text": "cc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya gak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "02a37ead-1843-4608-8f18-235331619b21",
+    "data": [
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya gak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7d5ac3ae-54d0-4e29-a61e-ea804a0d14ae",
+    "data": [
+      {
+        "text": "tolong dong ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya ga bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ada760f6-2495-4b0e-b404-f5c5a71e4d65",
+    "data": [
+      {
+        "text": "tolong dong ",
+        "userDefined": false
+      },
+      {
+        "text": "cc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya ga bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "180ffa60-a80a-44c1-b19c-92e4ec02ae75",
+    "data": [
+      {
+        "text": "saya mau belanja pakai ",
+        "userDefined": false
+      },
+      {
+        "text": "cc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kok gak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "86a35d57-19e1-4a64-828e-3d27b8ed1391",
+    "data": [
+      {
+        "text": "Kartu kredit saya gak bisa digunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "56c9f0df-cd6f-4a6b-b08f-185d8e409796",
+    "data": [
+      {
+        "text": "cc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya gak bisa digunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f2fc72c9-8b44-4d7a-b63a-fb10f63c3ecc",
+    "data": [
+      {
+        "text": "Saya tidak bisa transaksi dengan kartu kredit saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4dafc9d9-964c-465b-a55b-5203b3c6ab37",
+    "data": [
+      {
+        "text": "Mengapa ",
+        "userDefined": false
+      },
+      {
+        "text": "cc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya tidak bisa digunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "18f00406-a6b8-4933-b981-e0a4e7fc0daa",
+    "data": [
+      {
+        "text": "Mengapa kartu kredit saya tidak bisa digunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "729713f2-0acd-40ab-92ae-62c83bf6c280",
+    "data": [
+      {
+        "text": "saya mau belanja pakai kartu kredit kok gak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3a4f8774-1ffc-4705-9cd3-c820071eade8",
+    "data": [
+      {
+        "text": "Saya tidak bisa transaksi dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "cc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "09b63a26-4131-413b-885f-a9686677bc6b",
+    "data": [
+      {
+        "text": "saya tidak dapat melakukan pembayaran dengan kartu kredit.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a8ea3967-bac4-4874-8490-3f826274897e",
+    "data": [
+      {
+        "text": "selamat siang... mohon info knp bayar kartu kredit BNI tidak bisa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8a3e18fd-eece-4845-a2ab-c4e2d0a85a9c",
+    "data": [
+      {
+        "text": "hal ini selalu terjadi setiap saya hendak melakukan pembayaran dengan kartu kredit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6ca70c43-3361-4d51-b9fb-84049a8e1b1c",
+    "data": [
+      {
+        "text": "Kenapa sy tidak dapat melakukan payment cc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4a103e40-2f92-45ca-a741-642278440504",
+    "data": [
+      {
+        "text": "cicilan kartu kredit tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "61baa634-3779-4f8f-bfb1-49928d1378c2",
+    "data": [
+      {
+        "text": "pembayaran kartu kredit saya dengan toped kok bisa gagal ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "84611832-28fe-4fd8-a1c7-5f3ae65fd25d",
+    "data": [
+      {
+        "text": "sy sudah bayar pake kartu kredit dan sudah ada SMS dari kartu kredit nya klw transaksi berhasil, tapi saat sy cek di status pemesanan, tidak ada, gimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e459bb34-9245-480e-8b92-1e07b2a09830",
+    "data": [
+      {
+        "text": "saya mau bayar dengan kartu kredit tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "abaf14d9-2cfc-4295-a2e5-3971f4969392",
+    "data": [
+      {
+        "text": "pembayaran menggunakan kartu kredit bni tidak bisa, tidak keluar until mengisi kode otp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3a47664f-1999-403f-bc66-2dc9f810cd2f",
+    "data": [
+      {
+        "text": "limit kartu kredit mencukupi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "14bc2314-64da-4796-b9f0-a84cc86b56c6",
+    "data": [
+      {
+        "text": "Transaksi saya selalu gagal, sementara limit kartu kredit saya masih banyak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2e65a9ef-a9ad-4c58-beb4-7acf8016e307",
+    "data": [
+      {
+        "text": "saya melakukan pembelian paket data roaming dan sudah melakukan pembayaran namun status nya masih menunggu pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cee6b3fd-05e8-4e22-a7e4-cbc6f78f4fa6",
+    "data": [
+      {
+        "text": "credit card saya tidak bisa digunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1a671ad9-7c76-4724-a5c9-d7c99577eaab",
+    "data": [
+      {
+        "text": "ini pembayaran sy pke kartu kredit gagal terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "901fce88-6626-4da6-9f68-75b3971b7a53",
+    "data": [
+      {
+        "text": "saya menggunakan citibank visa. sering gagal untuk transaksi. sedang dr pihak citibank sudah saya cek tidak ada masalah.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6d9239bf-711d-4d56-9f8e-0763b279c267",
+    "data": [
+      {
+        "text": "kartu kredit uob saya tidak bisa melakukan transaksi di toped, keterangan yang muncul transaksi gagal.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4a69d033-992e-4fd9-9ae8-6eecae558f10",
+    "data": [
+      {
+        "text": "sudah bayar melalui kartu kredit akan tetapi di tolak oleh tokopedia dan transaksi di konfirmasi oleh pihak penerbit kartu kredit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dd172613-5815-4301-b074-f3e0b89d8b98",
+    "data": [
+      {
+        "text": "tidak bisa transaksi dgn metode pembayaran menggunakan kartu kredit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0fa80fb1-db09-4479-801f-25b8eaa4f506",
+    "data": [
+      {
+        "text": "masih belum bisa juga pake uob privmiles utk transaksi di toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "837c2345-f19b-4e4d-b3b2-1f124a2680b2",
+    "data": [
+      {
+        "text": "kenapa saya tidak bisa byr pake cc. cc sy ga masalah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9f88ba3f-8d1d-40b5-9671-5427a367e070",
+    "data": [
+      {
+        "text": "kemaren saya melakukan pembayaran cc yang ternyata tidak berhasil. dana saya dimasukkan ke akun tokopedia pay lagi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f8aaa115-6530-4597-abe5-2a5edcd77d0b",
+    "data": [
+      {
+        "text": "saya ingin menanyakan mengapa pembayaran kartu kredit saya tdk berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c3465a5f-76e7-4ace-bbc4-d2d4e3c503c3",
+    "data": [
+      {
+        "text": "trx ini gagal yah pake cc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "37f8db1c-9203-4b7a-9a07-25a79c24bc5e",
+    "data": [
+      {
+        "text": "kendalanya pembayaran menggunakan kartu kredit saya selalu gagal padahal limit kartu masih ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "be857564-2349-4fa0-981a-43b0f47fb71f",
+    "data": [
+      {
+        "text": "saya tidak bisa menggunakan kartu kredit, keluar info sudah melebihi limit pemakaian kartu krefit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ab5f4c19-9904-461e-a889-31edb4e5b497",
+    "data": [
+      {
+        "text": "Saya tidak bisa melakukan pembayaran seperti biasanya dengan menggunakan cc. pada saat mau memasuki pembayaran sudah bisa masukan otorisasi code tp setelahnya malah error",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cf68d83a-7059-4722-b54a-cd1c3b863bff",
+    "data": [
+      {
+        "text": "transaksi pembayaran tagihan kartu kredit saya blm jg sukses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4afbe646-335d-48cb-8fac-78b2fb4e336e",
+    "data": [
+      {
+        "text": "trasaksi pakai kartu kredit kok gagal terus ya suda coba berulang ulang, kendalanya dimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c216b9a3-18ef-4c3a-a60a-443f26212a0e",
+    "data": [
+      {
+        "text": "kenapa transaksi pembayaran cc saya tdk berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c4b94750-ea40-4c77-884f-6d3a7691a040",
+    "data": [
+      {
+        "text": "Transaksi dengan kartu kredit gagal trs..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "560f64df-2d90-471e-abf1-56d7e4b0838f",
+    "data": [
+      {
+        "text": "saya tidak bisa menggunakan kartu kredit saya untuk pembayaran..mohon bantuannya. sy menggunakan cc bca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5ea8b15c-c879-4104-ad59-0facbbb81cec",
+    "data": [
+      {
+        "text": "pembayaran menggunakan kartu kredit selalu gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fa5dc4e3-37a4-4350-97b9-49700b3f7ddf",
+    "data": [
+      {
+        "text": "Kartu kredit yang anda gunakan telah melebihi batas penggunaan padahal saya belum pernah pakai berbelanja di topedMohon solusinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f64eed7b-6f16-4581-a242-5af784687632",
+    "data": [
+      {
+        "text": "transaksi dgn cc selalu ditolak pdhl kartu aktif dan limit cukup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f84b5099-03f3-4f9e-ba24-e725ccca0c1f",
+    "data": [
+      {
+        "text": "saya mau menambahkan kartu kredit bri saya di tokopedia pay. tapi kok muncul notifikasi kartu kredit anda tidak mendukung.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "89075738-f853-4ab4-bf4b-96145d0e393a",
+    "data": [
+      {
+        "text": "apa sdg ada kendala payment menggunakan credit card untuk transaksi ? sy sdh coba menggunakan 2 CC yg sy punya, semua status di tolak oleh bank, berdasarkan info pihak bank, tidak ada masalah pada CC yg dimiliki",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6f1c9922-e62d-4259-9067-e6d121b7ee8f",
+    "data": [
+      {
+        "text": "saya sudah 3x bayar kartu kredit kok selalu di refund ya uangku,kenapa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e2f4e1d4-10db-4d07-9e6d-c5974b5ac387",
+    "data": [
+      {
+        "text": "KENAPA PEMBAYARAN KARTU KREDIT DIBATALKAN SAMPAI 2 X ??? APAKAH TOKPED MAIN2 ???",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2c6ee55c-5ea2-4c4b-bd8c-847bc8b4d298",
+    "data": [
+      {
+        "text": "Tapi saya input kartu baru tidak bisa terus ya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7ce42077-bbe8-40a9-92bd-36a9acb0b0d1",
+    "data": [
+      {
+        "text": "tidak bisa menggunakan credit card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ec8a8967-a32a-4fa6-ab20-ec4ce741687b",
+    "data": [
+      {
+        "text": "hari ini kenapa saya tidak bisa transaksi menggunakan opsi kartu kredit ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "311f9408-eaeb-4100-a439-4ebad5194b54",
+    "data": [
+      {
+        "text": "knapa saya tidak bisa transaksi menggunakan kartu kredit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4f38bbbc-9b61-495e-a4e3-5b59d1a53942",
+    "data": [
+      {
+        "text": "Dua kali checkout dengan kartu kredit, selalu gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "10ca05fd-2237-40f5-a97e-eff06447bf5d",
+    "data": [
+      {
+        "text": "kenapa tidak bisa transaksi pembayaran CC?sudah 1 jam sy coba coba..gimana yah ada promo cash back utk pembayaran CC tapi malah tidak bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fe38c112-425c-4b03-8efe-32895fa3cf79",
+    "data": [
+      {
+        "text": "mohon penjelasannya mengapa pembayaran kartu kredit ke Citibank saya ditolak,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7146d87a-9644-4201-b166-af166596b9ef",
+    "data": [
+      {
+        "text": "Pembayaran kartu kredit BNI tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "91d637ff-e575-4c28-b297-1caf3a88c0c9",
+    "data": [
+      {
+        "text": "Pembayaran menggunakan kartu kredit standart chartered tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7437f435-bb2f-4510-92dd-0ef6e68a7cb4",
+    "data": [
+      {
+        "text": "hi tokped saya error lg untuk menu pembayaran kartu.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2d4139da-b188-4f6c-991b-e082cd6839a7",
+    "data": [
+      {
+        "text": "Transaksi pembayaran tagihan kartu kredit produk digital gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8a2917a4-5b81-4e1d-b4c4-bad24382d51b",
+    "data": [
+      {
+        "text": "Status pembayaran kartu kredit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1299fc9a-2c32-4a63-87c8-7367ff1a0d53",
+    "data": [
+      {
+        "text": "bgmn status pembayaran cc saya ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a6168312-b6db-4c71-a43e-e687f9005857",
+    "data": [
+      {
+        "text": "Pembayaran kartu kredit BNI saya direfund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

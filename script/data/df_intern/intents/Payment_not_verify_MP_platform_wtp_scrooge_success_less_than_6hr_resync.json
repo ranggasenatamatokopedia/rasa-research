@@ -1,0 +1,43 @@
+{
+  "id": "6c82f871-5615-49a9-b907-166d85fe4a7e",
+  "parentId": "1c48a503-ebcc-4381-8172-d928a7cba049",
+  "rootParentId": "7702a921-0bc2-479f-9cd3-aade8103768a",
+  "name": "Payment_not_verify_MP_platform_wtp_scrooge_success_less_than_6hr_resync",
+  "auto": true,
+  "contexts": [
+    "Payment_not_verify_MP_platform_wtp_scrooge_success_less_than_6hr-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckInvoiceStatusID",
+      "affectedContexts": [
+        {
+          "name": "Payment_not_verify_MP_platform_wtp_scrooge_success_less_than_6hr_resync-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532501441,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "resync_payment"
+    }
+  ]
+}

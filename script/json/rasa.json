@@ -1,0 +1,32 @@
+[
+    {
+    "text":"halo dengan saya ranggga",
+    "actual":"greeting",
+    "prediction":"not greeting",
+    "suggestion": [
+        {
+            "prediction":"not greeting 2",
+            "condifendence":"string"
+        },
+        {
+            "prediction":"not greeting 3",
+            "condifendence":"string"       
+        }
+    ]
+    },
+    {
+        "text":"string",
+        "actual":"string",
+        "prediction":"string 1",
+        "suggestion": [
+            {
+                "prediction":"string 2",
+                "condifendence":"string"
+            },
+            {
+                "prediction":"string 3",
+                "condifendence":"string"       
+            }
+        ]
+        }
+]

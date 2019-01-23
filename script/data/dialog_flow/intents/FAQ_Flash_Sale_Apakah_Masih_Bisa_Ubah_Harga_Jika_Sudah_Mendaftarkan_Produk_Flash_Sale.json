@@ -1,0 +1,42 @@
+{
+  "id": "7110a5fc-1c06-40d0-800c-ad1e46e4a8bb",
+  "name": "FAQ_Flash_Sale_Apakah_Masih_Bisa_Ubah_Harga_Jika_Sudah_Mendaftarkan_Produk_Flash_Sale",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flash_Sale_Apakah_Masih_Bisa_Ubah_Harga_Jika_Sudah_Mendaftarkan_Produk_Flash_Sale-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Harga produk dan diskon saat Flash Sale berlangsung akan sesuai dengan harga pada formulir pada saat kamu mendaftarkan produk ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Harga produk kamu tidak bisa diubah lagi karena Tokopedia sudah melakukan penguncian (product locking) pada 1 jam sebelum dan saat Flash Sale berlangsung."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_flash_sale_apakah_masih_bisa_ubah_harga_jika_sudah_mendaftarkan_produk_flash_sale"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "f77d7327-77fa-4ee5-97d6-985b93f432f2",
+    "data": [
+      {
+        "text": "invoice_is_not_fraud",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "de309d0b-46e1-47e1-a8cd-b647fe40b994",
+    "data": [
+      {
+        "text": "not fraud",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

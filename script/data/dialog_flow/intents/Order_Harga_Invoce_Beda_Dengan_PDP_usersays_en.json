@@ -1,0 +1,683 @@
+[
+  {
+    "id": "07820aed-b84c-44c4-9623-5f97f77d98bf",
+    "data": [
+      {
+        "text": "harga produk yang muncul di invoice gak sama kayak di halaman produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ee038b20-56f3-432f-833f-8ca737254a94",
+    "data": [
+      {
+        "text": "mengapa total harga priduk di invoice beda dengan di halaman produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7a94238a-b87b-4ad4-8009-8668dfe56dac",
+    "data": [
+      {
+        "text": "kenapa harganya beda ya, saat diliat di halaman produk dan checkout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "50d8c9bd-8361-493c-9911-5ccfd4d2616e",
+    "data": [
+      {
+        "text": "harga tidak sesuai dengan detail yg tercantum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "96a52e47-60e7-459c-a240-f3b21ea68802",
+    "data": [
+      {
+        "text": "kenapa harga yang ada di invoice beda dg harga di halaman produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d4e66a5d-283b-46a1-87dc-5cb871e27edf",
+    "data": [
+      {
+        "text": "ini gimana ya, harga yang di invoice kanapa beda dg di produk aslinya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "96159c89-aad3-4660-8751-c655a99dd2aa",
+    "data": [
+      {
+        "text": "di halaman produk sudah saya ubah jadi ",
+        "userDefined": false
+      },
+      {
+        "text": "100rb",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi kenapa di invoice masih ",
+        "userDefined": false
+      },
+      {
+        "text": "95rb",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ff4ad1e4-86eb-4c8b-8ba6-e1b817c66bb7",
+    "data": [
+      {
+        "text": "di invoice pembelian barang ini kena nya harga normal, padahal di halaman produknya harga diskon coret",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8535e1bb-c95e-46c6-b53e-e38eb681d31c",
+    "data": [
+      {
+        "text": "waktu checkout masih berjalan harga diskon, tapi di invoice kenapa berubah jadi normal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ccecbfa4-bd50-40fa-a260-a400fe6334bb",
+    "data": [
+      {
+        "text": "harga produk yang dibeli berbeda dengan yang di halaman produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e8df157b-187f-4607-a347-a51239a6a452",
+    "data": [
+      {
+        "text": "saya beli barang tapi di invoice harganya beda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fc922a01-5b3e-4124-9af5-3d9f72a7b563",
+    "data": [
+      {
+        "text": "mengapa harga produk yang tercantum di invoice pembelian kok beda sama yang di halaman produk saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1b4b9934-0ab1-4309-b464-c37ada7793f4",
+    "data": [
+      {
+        "text": "kenapa harga di invoice pembeli berbeda dengan harga yang diatur untuk produk ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ac06a49e-ddc4-4384-8039-cd1e6746cea9",
+    "data": [
+      {
+        "text": "harga di product page beda dengan saat di checkout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5927245d-41e9-48c2-b917-29cbaab77931",
+    "data": [
+      {
+        "text": "kenapa produk ini tercantum di invoice lebih murah ya? padahal saya sudah ubah harga produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c89ffc9c-c7d8-4753-b8bf-f2da4a0a9e34",
+    "data": [
+      {
+        "text": "harga produk ini berbeda dengan pas di halaman produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6d185798-48d5-4485-afc7-91318497a1d3",
+    "data": [
+      {
+        "text": "produk ini ketika dibeli, harga yang tercantum berbeda dengan harga yang saya atur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9f5f6ddd-fef1-45fc-9b51-bd6bc885c6f9",
+    "data": [
+      {
+        "text": "harga barang berbeda dengan di halaman produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e35a4e48-d854-4a54-946d-c784c14c9e39",
+    "data": [
+      {
+        "text": "padahal di halaman produk dipasang harga ",
+        "userDefined": false
+      },
+      {
+        "text": "200rb",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi di invoice kok cuma ",
+        "userDefined": false
+      },
+      {
+        "text": "180rb",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f89cc1f5-fcf4-4489-9327-9adf3758b08b",
+    "data": [
+      {
+        "text": "setelah tercetak di invoice, harganya berbeda dengan di produk page",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "46b2fcfa-ff82-4644-959b-259e156b4631",
+    "data": [
+      {
+        "text": "harga yang harus dibayar berbeda dengan harga di halaman produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "38c6e4ee-0452-4d95-b5ae-97ce44f3dd59",
+    "data": [
+      {
+        "text": "harga yang saya beli beda dengan harga halaman produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4167b426-a6e9-4da2-b3e2-9049dcf12350",
+    "data": [
+      {
+        "text": "tercetak di invoice harganya beda dengan di halaman produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8be52896-d690-4952-bcc1-176f8892f5b5",
+    "data": [
+      {
+        "text": "kayaknya harga di invoice tidak update, padahal saya udah update harga produk di halaman produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "561bede2-67b9-417a-9e92-45f17a59e72b",
+    "data": [
+      {
+        "text": "harga di invoice ga sama sperti di halaman produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "df3af5b7-9cb7-4aef-9c31-87ca5f620ba1",
+    "data": [
+      {
+        "text": "harga di invoice tidak sesuai dengan harga yang terlihat di halaman produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e7fbae99-555e-4e05-a51a-fa6ed249222e",
+    "data": [
+      {
+        "text": "harga tidak sesuai dengan harga yg tertera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6e2d631d-3eb8-4e83-b881-715a5517f0e5",
+    "data": [
+      {
+        "text": "sudah update harga produk, tapi di invoice pembeli kenapa masih harga lama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e9c3a768-b9e3-4aea-bfc3-87dc11b0e2c1",
+    "data": [
+      {
+        "text": "invoice sudah tercetak tapi harga yang tercantum beda sama harga yang dipasang di halaman produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "abf290a9-4733-4b9f-93e0-73f82a4c3bcf",
+    "data": [
+      {
+        "text": "harga yang tercetak di invoice kok ga sesuai dengan harga yg saya atur di produk ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6128f36c-c06f-473d-ad06-ae572fc16d13",
+    "data": [
+      {
+        "text": "sudah tercetak invoice tapi harga yang harus dibayarkan berbeda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c5dcc2f6-6b9a-4d91-b19b-b5c8e09dd744",
+    "data": [
+      {
+        "text": "harga berubah tdk sesuai yg tertera di halaman produk tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9548fba8-5d23-4dc8-afa0-f6bdf1eb4df0",
+    "data": [
+      {
+        "text": "pas dibeli, harga produknya ga sama dengan harga di halaman produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "484111c4-f3ee-46f9-9f56-c92b04cb2671",
+    "data": [
+      {
+        "text": "harga di invoice berbeda dengan halaman produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6445f359-72d3-4b60-81c8-f1a3519d15cd",
+    "data": [
+      {
+        "text": "total harga di invoice beda banget sama di halaman produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c3bdfa13-9c89-4620-8823-e4a492d0b16d",
+    "data": [
+      {
+        "text": "ada perbedaan harga di invoice pembeli dan di halaman produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e5804697-8f84-4c58-8eb7-82045f225abe",
+    "data": [
+      {
+        "text": "ada perbedaan total harga yang tercantum di invoice dan di halaman produk yang diatur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "df52100c-7fca-4fd5-b407-62290a27f113",
+    "data": [
+      {
+        "text": "harga produknya berbeda dengan yang terlihat di halaman produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "53b05b0d-dff6-4c84-98eb-02824acfb7b1",
+    "data": [
+      {
+        "text": "harga produk yang tercetak di invoice kenapa beda sama harga di halaman produk yg saya atur ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d3931a4f-4700-4279-8f1d-c28f3c1e704e",
+    "data": [
+      {
+        "text": "harga saat di invoice beda dengan di produk aslinya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f3721a95-d3b7-4415-a9f6-d25467bae90a",
+    "data": [
+      {
+        "text": "kenapa harga di invoice berbeda dengan harga yang sudah diatur penjual?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d9de728f-7146-4000-ae20-39cac4296f01",
+    "data": [
+      {
+        "text": "mengapa harga di invoice tidak sama dengan yang saya lihat di produk ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dae30ca4-ecef-4b68-86a1-3b8ddb2d54f0",
+    "data": [
+      {
+        "text": "harga tidak sesuai dengan yg diposting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "89c6064f-ba15-4716-becf-20a9b363284e",
+    "data": [
+      {
+        "text": "kenapa harga di invoice tidak sama dengan harga di halaman produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1cd62bf5-7177-4986-acc3-ad149d238e56",
+    "data": [
+      {
+        "text": "sepertinya ada beda antara harga invoice dan harga produk asli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1c2b79e7-d72c-47d8-bcc1-cd9e7f9a22be",
+    "data": [
+      {
+        "text": "jumlah harga yang tertera di invoice beda dengan yang di halaman depan produknya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aa3b7fdd-9266-464a-b145-bc5492b61653",
+    "data": [
+      {
+        "text": "harga yang ditagihkan di invoice berbeda dengan di halaman produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "021f1781-b5d3-4eff-9374-cd988f4911d8",
+    "data": [
+      {
+        "text": "saat saya beli, di invoice harganya tidak sama dengan halaman produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b4a0a9b1-8bbe-4422-96f2-21accbec39e7",
+    "data": [
+      {
+        "text": "sebelumnya harga sudah diubah, tapi di invoice pembeli masih harga lama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c6b41887-7fcb-420f-a6f8-621ba15b09f6",
+    "data": [
+      {
+        "text": "tercantum di invoice harga normal, berbeda dengan di halaman produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "098beae7-8aea-49a5-9bdf-9da4fdf5c9fc",
+    "data": [
+      {
+        "text": "pas saya beli harganya beda dengan halaman produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c2d57017-979f-47c9-8987-9d15ed6d648e",
+    "data": [
+      {
+        "text": "ini produknya sudah saya ubah harga, tapi yang di invoice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a4862f36-331b-4ff8-b293-db321cee190a",
+    "data": [
+      {
+        "text": "harga invoice kenapa bisa beda sama harga di halaman produk ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d3a1de75-95f7-44dd-8968-70b300a119f0",
+    "data": [
+      {
+        "text": "produk di invoice lebih mahal daripada di halaman produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "513de552-1c87-4498-b288-1e09242a9397",
+    "data": [
+      {
+        "text": "di invoice harganya kembali ke harga normal, beda dengan harga sebelumnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e41714b6-ae7a-4041-a9b9-444a5d86a033",
+    "data": [
+      {
+        "text": "ada perubahan harga di invoice pembeli dan di halaman produk yang diatur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fb769ec9-fcae-4a23-a120-8363e5ab5ae3",
+    "data": [
+      {
+        "text": "total harga di invoice tidak sama dengan harga di halaman produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4dfb7f02-4fab-45e9-94bb-c41c63e5f5d4",
+    "data": [
+      {
+        "text": "harga produk di invoice beda dg di halaman produk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "32e91aba-d97f-4f35-b046-a6ded05eb3be",
+    "data": [
+      {
+        "text": "harga produk yang saya beli, di invoice tercantum berbeda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

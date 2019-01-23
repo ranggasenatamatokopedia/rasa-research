@@ -1,0 +1,46 @@
+[
+  {
+    "id": "501132bd-abc3-4fff-9c55-f072638c22c4",
+    "data": [
+      {
+        "text": "reguler",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ke ",
+        "userDefined": false
+      },
+      {
+        "text": "reguler",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "95baf9ac-caa8-4735-877b-c03b22f48690",
+    "data": [
+      {
+        "text": "4",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a27b3f2e-6eea-4ebc-b329-3258c4198b12",
+    "data": [
+      {
+        "text": "Bagaimana bila saya sudah input resi, tapi lupa menekan tombol ganti kurir, karena resi yg saya masukan beda kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

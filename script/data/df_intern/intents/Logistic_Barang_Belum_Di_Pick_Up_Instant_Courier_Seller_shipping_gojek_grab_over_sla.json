@@ -1,0 +1,37 @@
+{
+  "id": "2b6d3ed5-b3d5-4b70-a4cb-34efa02173fb",
+  "parentId": "ceb71d82-03d6-4aa6-940e-db1c4d9b7b7a",
+  "rootParentId": "debdb44e-b23a-4c52-8626-59514944fd55",
+  "name": "Logistic_Barang_Belum_Di_Pick_Up_Instant_Courier_Seller_shipping_gojek_grab_over_sla",
+  "auto": false,
+  "contexts": [
+    "Logistic_Barang_Belum_Di_Pick_Up_invoice_list_Instant_Courier_Seller_shipping_gojek_grab-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckCancelRetryEligibility",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Belum_Di_Pick_Up_Instant_Courier_Seller_shipping_gojek_grab_over_sla-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513040943,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "sla_logistics_is_over"
+    }
+  ]
+}

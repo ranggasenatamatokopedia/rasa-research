@@ -1,0 +1,33 @@
+{
+  "id": "71cb0325-06ac-4b69-a61f-f3ffe73ed0c7",
+  "name": "FAQ_Mitra_Tokopedia_Definisi_Mitra_Toppers",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Mitra_Tokopedia_Definisi_Mitra_Toppers-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mitra Toppers adalah fasilitas Pinjaman Online yang di sediakan oleh Tokopedia untuk para pemilik toko yang sedang mengembangkan usahanya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

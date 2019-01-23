@@ -1,0 +1,24 @@
+[
+  {
+    "id": "4c91f299-37c0-43e9-96fe-6869007b2797",
+    "data": [
+      {
+        "text": "operator_unipin_voucher",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2066c645-a804-4176-9f1a-a0a063aeb379",
+    "data": [
+      {
+        "text": "operator_unipin_test_operator",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "46148acd-c0a2-4f03-a32f-48d308c7e0a0",
+  "parentId": "d2c37f3a-76c9-42b6-8fd7-e184557f83eb",
+  "rootParentId": "36de46a2-13d2-4f09-9ff4-8abcbcb54ba3",
+  "name": "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Buyer_Waiting_For_Courier",
+  "auto": true,
+  "contexts": [
+    "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Buyer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Buyer_Waiting_For_Courier-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped cek status transaksi kamu masih menunggu status pengiriman dari pihak kurir. Boleh tunggu dalam jangka waktu 3x24 jam sejak pihak penjual melakukan pengiriman ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika dalam jangka waktu tersebut resi masih tidak dapat dilacak, Kamu bisa mengajukan komplain dengan masuk ke halaman \"Status Pemesanan\" dan klik tombol \"Komplain\"."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533888916,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_menunggu_status_kurir"
+    }
+  ]
+}

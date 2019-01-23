@@ -1,0 +1,43 @@
+{
+  "id": "ecb55367-4a3a-468f-9bcd-38293b968ac7",
+  "parentId": "62529b88-e916-4c3b-8b57-c036b114378b",
+  "rootParentId": "844540fa-3db4-42cc-a62e-c3d9bc90793a",
+  "name": "Resolution_Kendala_Fitur_Resolusi_Batal_Komplain_Tdk_Muncul_Inv",
+  "auto": true,
+  "contexts": [
+    "Resolution_Kendala_Fitur_Resolusi_Batal_Komplain_Tdk_Muncul-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetSelectedSolutionInResolution",
+      "affectedContexts": [
+        {
+          "name": "Resolution_Kendala_Fitur_Resolusi_Batal_Komplain_Tdk_Muncul_Inv-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon tunggu sebentar ya, Toped bantu cek dulu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536741636,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "select_invoice"
+    }
+  ]
+}

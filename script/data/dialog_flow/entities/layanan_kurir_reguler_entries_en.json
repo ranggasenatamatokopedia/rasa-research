@@ -1,0 +1,81 @@
+[
+  {
+    "value": "BEST",
+    "synonyms": [
+      "BEST",
+      "bes",
+      "best"
+    ]
+  },
+  {
+    "value": "REG",
+    "synonyms": [
+      "REG",
+      "reguler",
+      "reg",
+      "regular",
+      "Reg",
+      "Regular",
+      "Reguler"
+    ]
+  },
+  {
+    "value": "Kilat Khusus",
+    "synonyms": [
+      "Kilat Khusus",
+      "kilat",
+      "kilat khusus",
+      "Kilat khusus",
+      "kilat Khusus",
+      "kilat kusus",
+      "Kilat Kusus",
+      "Kilat"
+    ]
+  },
+  {
+    "value": "Ekpress",
+    "synonyms": [
+      "Ekpress",
+      "ekspres",
+      "express",
+      "expres",
+      "xpress",
+      "xpres",
+      "ekpres",
+      "Ekpress",
+      "Ekspres",
+      "Express",
+      "Expres",
+      "Xpress",
+      "Xpres",
+      "Ekpres",
+      "ekpres"
+    ]
+  },
+  {
+    "value": "ONS",
+    "synonyms": [
+      "ONS",
+      "ons",
+      "Ons"
+    ]
+  },
+  {
+    "value": "OKE",
+    "synonyms": [
+      "OKE",
+      "oke",
+      "Oke"
+    ]
+  },
+  {
+    "value": "YES",
+    "synonyms": [
+      "YES",
+      "Yes",
+      "yes",
+      "yEs",
+      "yeS"
+    ]
+  }
+]

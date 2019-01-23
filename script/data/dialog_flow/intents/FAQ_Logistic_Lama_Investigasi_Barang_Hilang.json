@@ -1,0 +1,36 @@
+{
+  "id": "0ed09204-8b57-404b-988a-a19d30abfc12",
+  "name": "FAQ_Logistic_Lama_Investigasi_Barang_Hilang",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah kamu melaporkan kehilangan barang dalam proses pengiriman, Tokopedia akan mengecek terlebih dulu kepada pihak kurir dengan estimasi waktu yang bervariasi. Untuk layanan pengiriman Instant, Same Day, dan Next Day membutuhkan waktu 3x24 jam. Sedangkan untuk layanan pengiriman reguler, membutuhkan waktu 7x24 jam."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Selanjutnya, Tokopedia memerlukan waktu untuk proses investigasi 1x24 jam sejak semua berkas yang diperlukan telah kamu lengkapi."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_logistic_lama_investigasi_barang_hilang"
+    }
+  ]
+}

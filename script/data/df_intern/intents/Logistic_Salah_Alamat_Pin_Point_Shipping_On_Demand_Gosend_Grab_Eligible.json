@@ -1,0 +1,43 @@
+{
+  "id": "fad0d104-7dbd-4f27-90d3-92af87664755",
+  "parentId": "0ebf4387-933b-4d87-9a26-678d835d2025",
+  "rootParentId": "b5d703e5-b4ee-4716-a78d-6a74da4e1538",
+  "name": "Logistic_Salah_Alamat_Pin_Point_Shipping_On_Demand_Gosend_Grab_Eligible",
+  "auto": true,
+  "contexts": [
+    "Logistic_Salah_Alamat_Pin_Point_Shipping_On_Demand_Gosend_Grab-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "RequestCancelPickup",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Salah_Alamat_Pin_Point_Shipping_On_Demand_Gosend_Grab_Eligible-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536506072,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "eligible_to_cancel_retry"
+    }
+  ]
+}

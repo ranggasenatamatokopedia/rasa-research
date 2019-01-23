@@ -1,0 +1,37 @@
+{
+  "id": "f52fff24-4304-4583-954f-9055f3721f0d",
+  "name": "FAQ_Flight_Mengapa_Daftar_Penerbangan_Tidak_Muncul",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flight_Mengapa_Daftar_Penerbangan_Tidak_Muncul-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk beberapa penerbangan, ada yang hanya menawarkan kelas Ekonomi atau kelas Bisnis saja. Pilihan penerbangan yang muncul tergantung ketersediaan kursi dari pihak maskapai."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_flight_mengapa_daftar_penerbangan_tidak_muncul"
+    }
+  ]
+}

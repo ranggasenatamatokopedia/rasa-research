@@ -1,0 +1,98 @@
+[
+  {
+    "id": "b2767ec0-0efb-42d7-8478-3a95c6acc827",
+    "data": [
+      {
+        "text": "saya pakai yang ",
+        "userDefined": false
+      },
+      {
+        "text": "instan",
+        "alias": "layanan_kurir_pick_up",
+        "meta": "@layanan_kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "084c36ac-9acc-4cb8-ba0d-6df9f60836e3",
+    "data": [
+      {
+        "text": "instan kurir",
+        "alias": "layanan_kurir_pick_up",
+        "meta": "@layanan_kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9ce9c750-a981-4fef-9426-8d10840ceef0",
+    "data": [
+      {
+        "text": "instant",
+        "alias": "layanan_kurir_pick_up",
+        "meta": "@layanan_kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5102e0ab-876a-4f35-8fe2-9ac528b33e0a",
+    "data": [
+      {
+        "text": "yang terakhir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eefcb339-a7c1-4f6b-be92-b99ca97da159",
+    "data": [
+      {
+        "text": "inskur",
+        "alias": "layanan_kurir_pick_up",
+        "meta": "@layanan_kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "52ee98da-41ce-4867-be5c-4eb0831367b1",
+    "data": [
+      {
+        "text": "instant kurir",
+        "alias": "layanan_kurir_pick_up",
+        "meta": "@layanan_kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "853c58a8-64f2-442b-b4a7-649976e09245",
+    "data": [
+      {
+        "text": "yang ",
+        "userDefined": false
+      },
+      {
+        "text": "kedua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "id": "c68db85e-e0f8-466a-8e27-ac10cd165274",
+  "name": "Digital_Transaksi_Berhasil_Namun_Voucher_Belum_Diterima",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetInvoiceListDigital",
+      "affectedContexts": [
+        {
+          "name": "Digital_Transaksi_Berhasil_Namun_Voucher_Belum_Diterima-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa infokan ke Toped, invoice mana yang berkendala?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "digital_transaksi_berhasil_namun_voucher_belum_diterima"
+    }
+  ]
+}

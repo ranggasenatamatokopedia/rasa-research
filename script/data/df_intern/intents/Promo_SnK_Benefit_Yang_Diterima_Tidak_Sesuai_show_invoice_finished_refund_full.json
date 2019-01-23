@@ -1,0 +1,53 @@
+{
+  "id": "6ce0ccf9-b77a-4b33-bbbf-53a5679a7629",
+  "parentId": "de462ed0-7d36-4e8b-9fc9-4867bf96201c",
+  "rootParentId": "67024543-88fb-488f-907b-85ef94921089",
+  "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_invoice_finished_refund_full",
+  "auto": false,
+  "contexts": [
+    "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_invoice_MP_OS-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_show_invoice_finished_refund_full-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah dicek, ternyata transaksi ini pernah masuk ke Pusat Resolusi dengan solusi akhirnya yaitu pengembalian dana keseluruhan atau pesanannya di \u0027cancel\u0027."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "\nSesuai S\u0026K, kalau kendala kamu masuk ke Pusat Resolusi dan terdapat pengembalian dana keseluruhan di dalam satu pembayaran, maka:\n\n- Promo Gratis Ongkir, kode promonya masih dapat kamu gunakan kembali selama masa promonya belum berakhir.\n- Promo Cashback, kode promonya masih dapat kamu gunakan kembali selama masih dalam periode promo.\n- Promo Diskon dengan kode unik, kode promo terhitung sudah dapat digunakan dan dana yang dikembalikan tidak termasuk diskon dari promo tersebut. \n"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau transaksinya batal secara keseluruhan, kamu bisa coba kode promonya lagi ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526464691,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "in_resol_finished_full_refund"
+    }
+  ]
+}

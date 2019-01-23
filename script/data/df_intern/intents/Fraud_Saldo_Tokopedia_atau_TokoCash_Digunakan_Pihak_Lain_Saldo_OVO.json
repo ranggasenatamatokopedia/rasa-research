@@ -1,0 +1,39 @@
+{
+  "id": "01a5b5c2-abc4-488e-89d0-1c812a98900e",
+  "parentId": "97b8dee9-c18a-464e-81ff-25eed5cf59ac",
+  "rootParentId": "97b8dee9-c18a-464e-81ff-25eed5cf59ac",
+  "name": "Fraud_Saldo_Tokopedia_atau_TokoCash_Digunakan_Pihak_Lain_Saldo_OVO",
+  "auto": true,
+  "contexts": [
+    "Fraud_Saldo_Tokopedia_atau_TokoCash_Digunakan_Pihak_Lain-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Saldo_Tokopedia_atau_TokoCash_Digunakan_Pihak_Lain_Saldo_OVO-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Apabila Saldo OVO Points atau OVO Cash kamu berkendala, Toped sarankan kamu untuk menghubungi Call Center OVO di 1 500 696 (Senin-Minggu, 07.00-23.00 WIB) atau email ke cs@ovo.id. Tim OVO akan segera membantu Kamu."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1543300185,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "46c6494e-79c8-4d6f-af16-4e9a716ab92a",
+  "name": "FAQ_Play_Tidak_Bisa_Vote_Di_Play",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk vote di dalam Play di butuhkan koneksi internet yang stabil. Pastikan internet kamu dalam keadaan stabil, ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

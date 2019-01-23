@@ -1,0 +1,38 @@
+{
+  "id": "1f7cdb09-47fd-4e69-958f-680310d6f47a",
+  "name": "FAQ_Merchant_Tidak_Bisa_Membuat_Voucher_Toko",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Merchant_Tidak_Bisa_Membuat_Voucher_Toko-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut hal-hal yang perlu kamu perhatikan dalam pembuatan voucher toko : \n\n1. Pastikan kamu menggunakan perangkat laptop/komputer dalam mem buat voucher toko. \n2. Kode Voucher yang kamu buat tidak dapat menggunakan kata ‘TOP’, ‘TOPED’, atau ‘TOKOPEDIA’.\n3. Penjual tidak dapat membuat Kode Voucher yang sama dengan Kode Voucher yang masih aktif dalam periode yang sama."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Selengkapnya mengenai cara pembuatan voucher toko, bisa kamu lihat !TKPD_URL_VOUCHER_TOKO!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

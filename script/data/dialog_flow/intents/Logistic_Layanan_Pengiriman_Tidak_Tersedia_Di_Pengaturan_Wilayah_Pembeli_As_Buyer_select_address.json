@@ -1,0 +1,33 @@
+{
+  "id": "2cafce3f-05b0-41fe-a6d9-a0ea76b63e22",
+  "parentId": "d863499f-e3c8-4c18-a0ae-8786a75dc909",
+  "rootParentId": "e1fd67c7-5a72-4184-9a6c-bda4c6e61524",
+  "name": "Logistic_Layanan_Pengiriman_Tidak_Tersedia_Di_Pengaturan_Wilayah_Pembeli_As_Buyer_select_address",
+  "auto": true,
+  "contexts": [
+    "Logistic_Layanan_Pengiriman_Tidak_Tersedia_Di_Pengaturan_Wilayah_Pembeli_As_Buyer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SelectAddress",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Layanan_Pengiriman_Tidak_Tersedia_Di_Pengaturan_Wilayah_Pembeli_As_Buyer_select_address-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538037160,
+  "fallbackIntent": false,
+  "events": []
+}

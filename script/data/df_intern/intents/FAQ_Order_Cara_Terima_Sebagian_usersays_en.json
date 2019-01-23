@@ -1,0 +1,164 @@
+[
+  {
+    "id": "907cc35c-2c74-4624-b721-87cd9ed6f240",
+    "data": [
+      {
+        "text": "Bagaimana langkah terima sebagian pesanan karena produk saya hanya ada sebagian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "63854b27-bece-4974-b262-29f85a419bfc",
+    "data": [
+      {
+        "text": "cara terima sebagian pesanan gimana ya, ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "49faa672-25db-4344-9e81-5fb80a97ec73",
+    "data": [
+      {
+        "text": "saya ingin pesanannya tetap diproses, tapi bagaimana caranya kalau mau kirim sebagian saja?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7b2ea917-c06d-42a4-8b4a-712e99381d63",
+    "data": [
+      {
+        "text": "bagaimana cara terima sebagian pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fff01c0e-ae4f-4816-af8b-a2046ef7c9db",
+    "data": [
+      {
+        "text": "bagaimana cara terima pesanan sebagian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9fcc9d54-4e32-46f1-b83d-cb93948497d3",
+    "data": [
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pesan ",
+        "userDefined": false
+      },
+      {
+        "text": "20",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pcs tapi saya cuma ada ",
+        "userDefined": false
+      },
+      {
+        "text": "15",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", gimana cara saya memproses sebagian yang ready saja?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4b098c97-ca57-4a01-a611-3aebdf550e23",
+    "data": [
+      {
+        "text": "gimana cara ambil sebagian pesanan dari ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tanpa harus membatalkan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9fbd9944-f2d5-4f44-b2d2-6889c74c3b1f",
+    "data": [
+      {
+        "text": "kalau mau terima sebagian pesanan, gimana caranya ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "450c0b37-2718-4376-810d-df37b43c3635",
+    "data": [
+      {
+        "text": "Gimana cara terima sebagian pesanan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a195f681-1fda-4bde-b301-74bd02e49876",
+    "data": [
+      {
+        "text": "kalau mau kirim pesanan sebagian saja gimana caranya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "31f65d07-9ac9-4a89-bdc3-06ee2555c9c3",
+    "data": [
+      {
+        "text": "kalau ada pembeli beli di toko kami. beberapa barang misal total ongkir 2kg. kemudian ada barang yg kosong ditempa kami. kemudian kami kirim kan barang dengan berat 1kg. lalu apakah kami mengembalikan sisa berat (1kg) ke pembeli?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "id": "1bd055e0-788f-4f99-916c-d25c4717567d",
+  "name": "FAQ_PROMO_Apa_itu_Kode_QR",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_PROMO_Apa_itu_Kode_QR-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kode QR merupakan kode yang bisa di scan untuk mengetahui promo di Tokopedia. Caranya ikuti langkah berikut ini ya:\n\n1. Buka aplikasi Tokopedia dan klik tombol QR di pojok kanan atas\n2. Centang text box untuk mengaktifkan kamera\n3. Scan kode QR dengan mengarahkan kamera ke kode QR yang ada\n\nKalau kode QR yang kamu scan sudah sesuai, maka secara otomatis halaman Tokopedia mu akan menampilkan promosi tersebut.\n"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521799626,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_promo_apa_itu_kode_qr"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "c96f555b-7024-41a4-a8c8-0b240c54256e",
+  "parentId": "697eeddc-775d-486b-9dd8-f112286ca6d6",
+  "rootParentId": "52ec60f4-3e96-4394-855f-4b7f7c4c5110",
+  "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_melebihi_batas_input_date_halaman_kode_promo",
+  "auto": true,
+  "contexts": [
+    "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_melebihi_batas_input_date-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_melebihi_batas_input_date_halaman_kode_promo-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon lampirkan screenshot produk yang mau kamu beli ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523837898,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "promo_code_page"
+    }
+  ]
+}

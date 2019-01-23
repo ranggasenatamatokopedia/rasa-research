@@ -1,0 +1,68 @@
+{
+  "id": "618ef5b3-1f37-49a3-979d-06732c0af27d",
+  "parentId": "3a5f2ee0-dc0d-46c6-99c4-1d20535ae23e",
+  "rootParentId": "d19f77a0-9fc1-4329-9b8c-1f9cb2ed3084",
+  "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Rejected_Pending",
+  "auto": true,
+  "contexts": [
+    "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Order_Kendala_Pesanan_Dan_Pengiriman_Invoice_List_Rejected_Pending-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah Toped cek, pesanan kamu sedang dalam pencarian produk pengganti di Peluang ya. Kamu bisa tunggu hingga mendapat produk pengganti. Namun apabila kamu tidak ingin melanjutkan pencarian produk pengganti, Toped bisa bantu membatalkan pesanan kamu."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jadi, kamu ingin membatalkan pesanan atau ingin melanjutkan pencarian produk pengganti?"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Contoh: Batalkan Pesanan"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "button_actions": [
+              {
+                "message": "Batalkan Pesanan"
+              },
+              {
+                "message": "Cari Produk Pengganti"
+              }
+            ],
+            "type": 2
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541153460,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_pencarian_barang_pengganti"
+    }
+  ]
+}

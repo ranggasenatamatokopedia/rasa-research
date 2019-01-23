@@ -1,0 +1,43 @@
+{
+  "id": "7d29a34b-c5a3-4067-b026-c7707b6404ec",
+  "parentId": "57b811d1-28d9-407c-a3b7-ffd84d39d293",
+  "rootParentId": "e1fd67c7-5a72-4184-9a6c-bda4c6e61524",
+  "name": "Logistic_Pengiriman_Tidak_Tersedia_Wilayah_Penjual_Pin_Point_Available_Courier_List_Not_Valid",
+  "auto": true,
+  "contexts": [
+    "Logistic_Pengiriman_Tidak_Tersedia_Wilayah_Penjual_Pick_Up_Pin_Point_Available_Courier_List-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Pengiriman_Tidak_Tersedia_Wilayah_Penjual_Pin_Point_Available_Courier_List_Not_Valid-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Maaf ya, kurir yang ingin kamu gunakan ternyata belum tersedia pada daerah pengiriman kamu. Coba pilih kurir yang lain ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534220127,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "shipper_is_not_valid"
+    }
+  ]
+}

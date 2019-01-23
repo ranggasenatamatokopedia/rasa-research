@@ -1,0 +1,53 @@
+{
+  "id": "cdd4640e-056e-4b35-b79e-5e59cf669291",
+  "name": "Account_Kendala_Ubah_Data_Diri",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Account_Kendala_Ubah_Data_Diri-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa beri tahu Toped, kendala ubah data diri apa yang kamu alami?\n1. Ubah email\n2. Ubah nomor telepon"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa pilih nomer 1 atau 2"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 1,
+            "quick_replies": [
+              "1",
+              "2"
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "account_kendala_ubah_data_diri"
+    }
+  ]
+}

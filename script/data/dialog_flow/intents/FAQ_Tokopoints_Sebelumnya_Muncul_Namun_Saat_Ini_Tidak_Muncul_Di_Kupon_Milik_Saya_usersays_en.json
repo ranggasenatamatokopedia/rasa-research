@@ -1,0 +1,512 @@
+[
+  {
+    "id": "dd9f88ac-c7f4-4f8c-94fe-6dc8e2915100",
+    "data": [
+      {
+        "text": "Kenapa kupon saya gak ada, waktu itu ada kok kuponnya saya udah berhasil tukerin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5fa238d7-2c72-4e82-94c2-069ef2658047",
+    "data": [
+      {
+        "text": "Kenapa gak ada kuponnya ya? Waktu itu saya udah tukerin dan berhasil loh kenapa ",
+        "userDefined": false
+      },
+      {
+        "text": "skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gak ada di kupon milik saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b8fc5f7f-2a18-4cd0-a8cc-270dcd1b2f87",
+    "data": [
+      {
+        "text": "Waktu itu saya udah sukes tukerin tokopoints saya, kenapa ",
+        "userDefined": false
+      },
+      {
+        "text": "skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kuponnya gak ada ya, saya mau pake kuponnya nih padahal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e5519197-1544-4dba-a465-4958a4e6bced",
+    "data": [
+      {
+        "text": "Waktu itu saya udah berhasil tukerin tokopoints saya, kenapa ",
+        "userDefined": false
+      },
+      {
+        "text": "skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kuponnya gak ada ya, saya mau pake nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4fb9c7b0-1748-4fc3-808e-d3e9f724f8c0",
+    "data": [
+      {
+        "text": "Waktu itu saya udah berhasil tukerin tokopoints saya jadi kupon partner, kok ",
+        "userDefined": false
+      },
+      {
+        "text": "skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gak ada di kupon milik saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4927f7a4-fae8-460c-ae64-056e7bc03c14",
+    "data": [
+      {
+        "text": "Perasaan dulu saya pernah tuker point di kupon milik saya deh, kok ",
+        "userDefined": false
+      },
+      {
+        "text": "skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gak ada yaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f27b18c4-3003-4a66-8b4b-49c3756c823d",
+    "data": [
+      {
+        "text": "Kenapa di halaman kupon milik saya gak ada kupon nya ya? Perasaan dulu saya pernah tuker deh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2167d6e1-75a2-49f7-a507-2b5f0ed9fa74",
+    "data": [
+      {
+        "text": "Kupon saya kok gak ada ya di halaman kupon milik saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c6651a98-5b05-4eef-8f15-220b4376519a",
+    "data": [
+      {
+        "text": "Kenapa kupon saya sebelumnya ada kok ",
+        "userDefined": false
+      },
+      {
+        "text": "skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gak ada ya di halaman kupon milik saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e7a56ca3-f3b8-411a-a9dd-d5883e40d697",
+    "data": [
+      {
+        "text": "Dulu saya pernah tuker kupon partnernya, tapi kok ",
+        "userDefined": false
+      },
+      {
+        "text": "skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gak ada, kemana tuh ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ba55d6df-f9db-4bc0-af92-ffb7bd385fbd",
+    "data": [
+      {
+        "text": "Perasaan waktu itu ada loh kupon saya, kok ",
+        "userDefined": false
+      },
+      {
+        "text": "skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gak ada ya, kemana ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0a564226-5783-4fa1-a570-4ad5fa068fd2",
+    "data": [
+      {
+        "text": "Kok kupon partner saya gak muncul ya? Sebelumnya adaloh di halaman kupon milik saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c710bb98-40c4-40ab-8d22-8d622cfd3793",
+    "data": [
+      {
+        "text": "Kenapa kupon partner saya gak muncul ya, sebelumnya ada loh di halaman kupon milik saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0e38a1a8-10de-4bd7-ba97-304b9e7c40a1",
+    "data": [
+      {
+        "text": "Padahal sebelumnya ada, tapi ",
+        "userDefined": false
+      },
+      {
+        "text": "skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gak ada di halaman kupon milik saya, kemana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c8ef5950-a4d6-4f60-a657-4827afeca9ec",
+    "data": [
+      {
+        "text": "Padahal sebelumnya ada, tapi ",
+        "userDefined": false
+      },
+      {
+        "text": "skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gak ada di halaman kupon milik saya, kenapa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0d54404f-e5b8-473d-9517-52f09bda66b1",
+    "data": [
+      {
+        "text": "Kuponnya sebelumnya ada, kok ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gak ada ya di halaman kupon milik saya hmmm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c003fbd4-235f-4f7e-a997-0ba87458102c",
+    "data": [
+      {
+        "text": "Kuponnya sebelumnya ada, kok ",
+        "userDefined": false
+      },
+      {
+        "text": "skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gada di halaman kupon milik saya hmmm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "66ff1ca1-3e43-4c44-8173-0a50f8e74d67",
+    "data": [
+      {
+        "text": "Sebelumnya ada loh, kok ",
+        "userDefined": false
+      },
+      {
+        "text": "skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gak ada ya di kupon milik saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "32e6c45b-1f43-401d-ba56-4d524947359b",
+    "data": [
+      {
+        "text": "Sebelumnya ada di kupon milik saya, ",
+        "userDefined": false
+      },
+      {
+        "text": "skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " udah gak ada ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "97ccc4e5-9c8f-4ac5-8a13-30c9406dd865",
+    "data": [
+      {
+        "text": "Kok kupon saya gada di kupon milik saya ya? Sebelumnya adaloh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a6aa6e82-4f38-4154-9db7-401041396060",
+    "data": [
+      {
+        "text": "Kenapa kupon saya udah gak ada di kupon milik saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "098db617-65ac-4c58-a7c7-268615586bc7",
+    "data": [
+      {
+        "text": "Sebelumnya ada, kenapa ",
+        "userDefined": false
+      },
+      {
+        "text": "skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gak ada ya di halaman kupon milik saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "da282c2f-26d4-41d4-9c45-1a7e3342dcdf",
+    "data": [
+      {
+        "text": "Kok di halaman kupon milik saya udah gada ya kuponnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e2a667f7-f36c-4245-a747-2e0837d1dabf",
+    "data": [
+      {
+        "text": "Perasaan waktu itu ada kuponnya, kok ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gak ada ya kuponnya di menu kupon milik saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a4d89ce3-b989-4b0d-840e-a06b5f5116a7",
+    "data": [
+      {
+        "text": "Waktu itu ada kok ",
+        "userDefined": false
+      },
+      {
+        "text": "skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gak ada ya kupon saya di menu kupon milik saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ac1e553b-f812-4c65-8cb9-66c1b4cf0555",
+    "data": [
+      {
+        "text": "Sebelumnya kuponnya ada di halaman kupon milik saya, kok ",
+        "userDefined": false
+      },
+      {
+        "text": "skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " udah  gada ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f0448a64-b459-4a2e-92ae-8f13a636d5dd",
+    "data": [
+      {
+        "text": "td sy pecahin lucky egg dpt kupon cashback, tp d cek d kupon sy koq ga ada ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "30147daf-0f92-48db-ba1a-281cfd397434",
+    "data": [
+      {
+        "text": "saya dapat kupon tetapi sekarang hilang tidak muncul di kupon saya..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "92ac3658-75eb-4bbe-a984-e32eef6feff2",
+    "data": [
+      {
+        "text": "setelah logout dan log in kembali, voucher cashback tetap tidak muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "88021dc0-1496-429a-ac94-13f055d0c8cf",
+    "data": [
+      {
+        "text": "Kok telor saya tadi udh saya pecahin trs dpt kupon cashback malah ilang tuh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

@@ -1,0 +1,109 @@
+{
+  "id": "aeefc0a8-db65-4910-bc16-182c347a284e",
+  "parentId": "f2458716-e998-4d5d-bcf5-275f42e738e5",
+  "rootParentId": "440cef8c-a263-47ad-b658-e035da03a8e0",
+  "name": "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_inquiry_found_others",
+  "auto": false,
+  "contexts": [
+    "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_order_success-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_inquiry_found_others-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a688b0c1-83be-4762-8d79-ff89c6996caf",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1233",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped akan bantu buatkan tiket untuk dicek lebih lanjut dan informasi selanjutnya akan dikirim lewat layanan pengguna."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Senang bisa membantu kamu :)"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "data": {
+              "show_rating": false
+            },
+            "type": 0
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534228785,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "digital_pulsa"
+    },
+    {
+      "name": "digital_streaming"
+    },
+    {
+      "name": "digital_roaming"
+    },
+    {
+      "name": "digital_emoney"
+    },
+    {
+      "name": "digital_paketdata"
+    },
+    {
+      "name": "digital_listrikpln"
+    },
+    {
+      "name": "digital_vouchergame"
+    },
+    {
+      "name": "digital_angsurankredit"
+    },
+    {
+      "name": "digital_gaspgn"
+    },
+    {
+      "name": "digital_hiburan"
+    },
+    {
+      "name": "digital_pajak"
+    },
+    {
+      "name": "digital_ticketevent"
+    },
+    {
+      "name": "digital_vouchers"
+    },
+    {
+      "name": "digital_retribusi"
+    },
+    {
+      "name": "digital_m-tixxxi"
+    }
+  ]
+}

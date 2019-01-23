@@ -1,0 +1,43 @@
+{
+  "id": "b0436ece-88ed-4752-9cf0-3244b4ebd428",
+  "parentId": "fce20e70-b31c-45e1-8063-7184dcdeeb9d",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Transaksi_Berhasil_Tapi_Tidak_Mendapat_Benefit_extra_gold_merchant_pilih_invoice",
+  "auto": false,
+  "contexts": [
+    "Promo_Transaksi_Berhasil_Tapi_Tidak_Mendapat_Benefit_extra_gold_merchant-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetInvoiceList",
+      "affectedContexts": [
+        {
+          "name": "Promo_Transaksi_Berhasil_Tapi_Tidak_Mendapat_Benefit_extra_gold_merchant_pilih_invoice-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Bisa infokan invoice mana Kak yang dimaksud?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523276343,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "kode_promo"
+    }
+  ]
+}

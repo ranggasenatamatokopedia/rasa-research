@@ -1,0 +1,101 @@
+[
+  {
+    "id": "6824f2ee-2227-429c-8c50-7a50608a3e4f",
+    "data": [
+      {
+        "text": "transaksinya dibatalin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "37b54b08-c443-4212-8e94-f65d5767d248",
+    "data": [
+      {
+        "text": "transaksi batal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5b044621-ea5b-4038-af2f-a817e100989b",
+    "data": [
+      {
+        "text": "kembalikan uang aja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5b2524b4-2d83-4453-b097-cd176957615c",
+    "data": [
+      {
+        "text": "cancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "08d835c7-fc1a-47e1-b692-b9dfbc27b7a6",
+    "data": [
+      {
+        "text": "kembalikan uang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "062e774a-adae-499d-9b90-276158b00a7f",
+    "data": [
+      {
+        "text": "batalin aja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "06887336-7845-4690-8e89-1459eae5e7c1",
+    "data": [
+      {
+        "text": "refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "71e19dbc-b057-488a-9257-fd87efb4f460",
+    "data": [
+      {
+        "text": "batal transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ba3a841c-7cd6-42b8-acd2-1cfda04c98da",
+    "data": [
+      {
+        "text": "batal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

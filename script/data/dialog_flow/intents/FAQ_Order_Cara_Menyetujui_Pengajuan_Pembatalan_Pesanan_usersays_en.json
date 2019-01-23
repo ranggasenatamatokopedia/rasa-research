@@ -1,0 +1,395 @@
+[
+  {
+    "id": "67b2656b-a2ce-473c-b608-1f7c7bb2d239",
+    "data": [
+      {
+        "text": "saya harus pencet tombol apa untuk batalkan pesanan ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cb3d1bb2-5f49-402d-b709-219d11641e01",
+    "data": [
+      {
+        "text": "bagaimana cara setujui pengajuan pembatalan pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4a72689d-1262-43cf-8014-1d9de4314aa5",
+    "data": [
+      {
+        "text": "kalau ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sudah ajukan pembatalan pesanan, gimana saya harus menyetujuinya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "91143b7c-82d4-459a-adf3-745582f73ee4",
+    "data": [
+      {
+        "text": "bagimana caranya menyetujui pembatalan pesanan berdasarkan permintaan ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3c25ec28-860a-42c3-8ad8-000450060b2b",
+    "data": [
+      {
+        "text": "buyer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya sudah request pembatalan order, gimana cara batalin ordernya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fff1e806-29f4-4e3f-8cde-a6b121011843",
+    "data": [
+      {
+        "text": "gimana caranya batalkan pesanan atas permintaan ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a4cd9fc4-a49f-49ac-8b60-41645ed95e7d",
+    "data": [
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " minta dibatalkan dan saya setuju, gimana langkahnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a84305c6-1fed-4d36-b441-6e09040a9697",
+    "data": [
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sudah ajukan pembatalan, gimana agar saya konfirmasi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bcc4726d-60bd-4f00-b959-8aa03527c623",
+    "data": [
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " udah request cancel order, gimana cara batalinnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9622393f-f22d-457a-a5b3-0d746d27a268",
+    "data": [
+      {
+        "text": "kalo ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ajukan batal, gimana caranya menyetujui?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a954f20c-9dc9-4c06-b8b0-6933c8e7ef4b",
+    "data": [
+      {
+        "text": "pesanan di request batal oleh ",
+        "userDefined": false
+      },
+      {
+        "text": "buyer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", gimana cara batalinnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ed649cb7-7861-459c-b22b-db075f8f0024",
+    "data": [
+      {
+        "text": "gimana cara setujuin pengajuan pembatalan dari ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bd081cee-6059-4f20-8f4a-2369f5a89f0e",
+    "data": [
+      {
+        "text": "bagaimana cara menerima permintaan pembatalan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e94d9301-9e39-4a7e-8dc7-b6b669ac7ae1",
+    "data": [
+      {
+        "text": "cara menyetujui pengajuan pembatalan pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1fb36438-78f6-49e5-8372-d2ca9407c1d9",
+    "data": [
+      {
+        "text": "gimana cara konfirmasi permintaan pembatalan pesanan dari ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "db19796f-3ce8-4d19-b646-60c35094f15e",
+    "data": [
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " minta batalkan pesanan,gimana cara saya menyetujuinya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "af6ec5d1-f9ba-4f17-923b-c9264da0d05d",
+    "data": [
+      {
+        "text": "bagaimana cara menyetujui pengajuan pembatalan pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a3b85ac7-b832-4c64-93f6-0b6cbe7ed8d1",
+    "data": [
+      {
+        "text": "gimana cara membatalkan pesanan ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "64ca3440-0dac-474a-934a-4be4e4a2ddd0",
+    "data": [
+      {
+        "text": "Bagaimana cara menyetujui pengajuan pembatalan pesanan dari ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7524d6f9-5eab-4610-b3ac-33da2546b878",
+    "data": [
+      {
+        "text": "mohon support untuk cancel orderan saya bisa? masih ada batas respon dr penjual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3e74ab6a-a016-4b71-a3fb-99435f76d832",
+    "data": [
+      {
+        "text": "karena terlalu lama..saya batalkan transaksi dengan harapan transaksi tersebut dibatalkan dan uang masuk ke cash..dan saya bisa transaksi lagi dengan metode lain..agar pulsa bisa segera masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1731c63f-583c-4766-ab31-8ae08726add2",
+    "data": [
+      {
+        "text": "Bagaimana cara membatalkan pesanan karena toko ada aturan pada hari ini (Minggu) tidak melakukan pengiriman?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3d1db3fc-ddbb-4e93-8ea7-cb3b3c325c1c",
+    "data": [
+      {
+        "text": "bagaimana cara refund ke pembeli kalau barang yg disorder stoknya kurang dr yg disorder? mohon penjelasannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d8a18cc8-419f-4ca6-ad30-57e016d5d223",
+    "data": [
+      {
+        "text": "mohon sekali bantuaanya agar tidak di kirim karna pembeli saya membatalkan pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ec6ed97e-bda6-4a0c-b28c-56523350d589",
+    "data": [
+      {
+        "text": "sy pake dropship di deksripsi salah baca hinga ada kesalafahaman dalam pembelian ,dan kita sudah sepakat utk pembatalan tatnsaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b99a5de5-8d8c-41e0-a5a8-e88407ce917b",
+    "data": [
+      {
+        "text": "mnta di bantu di bantu batalkan ordernya agar tidak mengurangi nilai toko say.. stock kosong.. sudah ada persetujuan dengan pembeli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

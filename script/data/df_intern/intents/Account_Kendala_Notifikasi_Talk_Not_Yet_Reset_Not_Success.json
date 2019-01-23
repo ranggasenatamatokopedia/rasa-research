@@ -1,0 +1,43 @@
+{
+  "id": "411f1888-b182-44ac-8b23-2dbac4aadcd4",
+  "parentId": "af06ea3c-2bdf-4ccb-85c0-51785a13de9b",
+  "rootParentId": "35ea81e4-4843-4cfe-b8fd-335f2f7a0eea",
+  "name": "Account_Kendala_Notifikasi_Talk_Not_Yet_Reset_Not_Success",
+  "auto": true,
+  "contexts": [
+    "Account_Kendala_Notifikasi_Talk_Not_Yet_Reset-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Account_Kendala_Notifikasi_Talk_Not_Yet_Reset_Not_Success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon maaf ya saat ini Toped mengalami kendala untuk melakukan penyesuaian notifikasi di akun kamu. Kamu bisa coba kembali, ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534152868,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "reset_not_success"
+    }
+  ]
+}

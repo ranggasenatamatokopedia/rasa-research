@@ -1,0 +1,48 @@
+{
+  "id": "a2c4cd03-5c27-4172-9f8d-230b79ca6150",
+  "parentId": "5a3ae86f-4bc4-46c1-8ebb-9d3f3a267663",
+  "rootParentId": "52ec60f4-3e96-4394-855f-4b7f7c4c5110",
+  "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_produk_tertentu_input_platform",
+  "auto": false,
+  "contexts": [
+    "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_produk_tertentu-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_produk_tertentu_input_platform-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh kasih tahu Toped produk apa yang kamu beli? \r\nKalau produk belanja, kamu bisa input link produknya ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau produk digital, kamu bisa ketik nama produk dan nominal pembelian ya (contoh: Token listrik 500.000 atau KFC 100.000)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523837171,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "input_platform"
+    }
+  ]
+}

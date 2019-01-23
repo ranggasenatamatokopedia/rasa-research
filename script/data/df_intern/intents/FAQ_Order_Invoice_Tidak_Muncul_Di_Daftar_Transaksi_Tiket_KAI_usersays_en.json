@@ -1,0 +1,81 @@
+[
+  {
+    "id": "08e05f32-a9fd-4a71-bda0-68ec6cb2d9b1",
+    "data": [
+      {
+        "text": "KAI",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f9d92c8a-425e-42f7-97fc-72c4f36cdfd9",
+    "data": [
+      {
+        "text": "tiket KAI",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f948d734-aaa2-4b4a-9104-a488751e828d",
+    "data": [
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e05e0fc5-acad-4628-99f8-40dfaa69395b",
+    "data": [
+      {
+        "text": "tiket kreta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "57207cbd-b598-4a3d-9e95-e7d59dda8b13",
+    "data": [
+      {
+        "text": "tiga",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b2561adc-c81d-44d1-89f6-16094c4f07a0",
+    "data": [
+      {
+        "text": "tiket kereta api",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cfbaca59-fdd4-4e4f-9ce9-947f677338c1",
+    "data": [
+      {
+        "text": "tiket kereta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

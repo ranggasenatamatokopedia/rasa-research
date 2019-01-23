@@ -1,0 +1,33 @@
+{
+  "id": "38ccbdf9-64fe-4c06-b76f-8438e0ce932f",
+  "name": "FAQ_Tokopoints_Kode_Promo_Kupon_Online_Tidak_Bisa_Di_Gunakan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Tokopoints_Kode_Promo_Kupon_Online_Tidak_Bisa_Di_Gunakan-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Maaf ya, kalau kode promonya tidak bisa di pakai, kamu bisa langsung menghubungi pihak partner untuk di cek lebih lanjut, ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

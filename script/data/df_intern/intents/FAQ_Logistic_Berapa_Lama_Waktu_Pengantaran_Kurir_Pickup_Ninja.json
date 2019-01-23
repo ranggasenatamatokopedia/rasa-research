@@ -1,0 +1,37 @@
+{
+  "id": "a882c281-3023-44c5-b768-f2ef34febf38",
+  "parentId": "5e652467-1f9f-4b2b-a3db-89af64cabeef",
+  "rootParentId": "5e652467-1f9f-4b2b-a3db-89af64cabeef",
+  "name": "FAQ_Logistic_Berapa_Lama_Waktu_Pengantaran_Kurir_Pickup_Ninja",
+  "auto": false,
+  "contexts": [
+    "FAQ_Logistic_Berapa_Lama_Waktu_Pengantaran_Kurir_Pickup-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Estimasi waktu penjemputan oleh kurir adalah 5x24 jam setelah penjual melakukan permintaan pick-up."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528697690,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "ninja"
+    }
+  ]
+}

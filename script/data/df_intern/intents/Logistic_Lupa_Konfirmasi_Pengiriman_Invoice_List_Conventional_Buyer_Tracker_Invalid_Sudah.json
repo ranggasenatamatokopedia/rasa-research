@@ -1,0 +1,44 @@
+{
+  "id": "c8939acd-42a5-43ca-96b7-18342be3d473",
+  "parentId": "e885555c-eaba-4fc2-af5a-f3103094a670",
+  "rootParentId": "35e16175-3fd0-4749-bf64-4e1b94b883f1",
+  "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer_Tracker_Invalid_Sudah",
+  "auto": true,
+  "contexts": [
+    "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer_Tracker_Invalid-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Lupa_Konfirmasi_Pengiriman_Invoice_List_Conventional_Buyer_Tracker_Invalid_Sudah-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau sudah terima pesanan dengan baik, kamu bisa lakukan konfirmasi penerimaan di halaman \"Status Pemesanan\" ya :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah kamu melakukan konfirmasi penerimaan di halaman \"Status Pemesanan\", Toped akan teruskan dananya kepada penjual."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532433156,
+  "fallbackIntent": false,
+  "events": []
+}

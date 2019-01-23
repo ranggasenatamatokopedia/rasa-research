@@ -1,0 +1,37 @@
+{
+  "id": "ed34cadb-281e-4193-8e12-acc6cb2153f4",
+  "parentId": "76a1bfcc-e983-4bdb-90d0-f66f204fea2b",
+  "rootParentId": "76a1bfcc-e983-4bdb-90d0-f66f204fea2b",
+  "name": "FAQ_Logistic_Jarak_Tempuh_Kurir_Pickup_Grab",
+  "auto": false,
+  "contexts": [
+    "FAQ_Logistic_Jarak_Tempuh_Kurir_Pickup-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sesuai kebijakan dari Grab, batas terjauh pengantaran layanan Sameday adalah 40 km dan 30 km untuk layanan Instan."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528716138,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "grab"
+    }
+  ]
+}

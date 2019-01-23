@@ -1,0 +1,39 @@
+{
+  "id": "df77724e-46e4-4cc5-869e-548073bf61f6",
+  "parentId": "17b77d71-d556-4bda-a5eb-6fd5f7e9f7a2",
+  "rootParentId": "e1fd67c7-5a72-4184-9a6c-bda4c6e61524",
+  "name": "Logistic_Layanan_Pengiriman_Tidak_Tersedia_Di_Pengaturan_Wilayah_Penjual_Pick_Up",
+  "auto": true,
+  "contexts": [
+    "Logistic_Layanan_Pengiriman_Tidak_Tersedia_Di_Pengaturan_Wilayah_Penjual-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckPinPointAvailabilityBasedOnShopData",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Layanan_Pengiriman_Tidak_Tersedia_Di_Pengaturan_Wilayah_Penjual_Pick_Up-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534217367,
+  "fallbackIntent": false,
+  "events": []
+}

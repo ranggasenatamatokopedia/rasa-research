@@ -1,0 +1,24 @@
+[
+  {
+    "id": "e05672fb-05d6-4bdb-8a15-6ff2687adfd6",
+    "data": [
+      {
+        "text": "is_success_select_invoice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "403e47b6-63e9-4467-9fe7-860ccee4d221",
+    "data": [
+      {
+        "text": "@sys.any:code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0
+  }
+]

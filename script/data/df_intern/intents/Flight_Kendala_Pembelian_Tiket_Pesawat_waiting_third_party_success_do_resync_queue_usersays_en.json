@@ -1,0 +1,24 @@
+[
+  {
+    "id": "091b9bda-4e3d-41e1-90ea-8840d3573ed2",
+    "data": [
+      {
+        "text": "invoice_in_progress",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "61e833ba-e87c-4d12-9148-cf94068dca2a",
+    "data": [
+      {
+        "text": "invoice_ready_for_queue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

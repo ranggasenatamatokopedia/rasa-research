@@ -1,0 +1,352 @@
+[
+  {
+    "id": "e0e4ae60-c389-4e3c-810c-8d1f4856dcd8",
+    "data": [
+      {
+        "text": "berapa batasan waktu buat pakai kode referral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f0c4f4a1-5efc-4962-9ffe-6d7705363232",
+    "data": [
+      {
+        "text": "kode referral bisa dipakai sampe kapan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a2c49dec-dc75-4fc5-9dc1-97be0a0b242f",
+    "data": [
+      {
+        "text": "expired kode referral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "53535fa9-afd1-49cc-a52c-a61357dc90f9",
+    "data": [
+      {
+        "text": "referral bisa dipake sampe kapan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5d7457e1-fd26-4965-abcd-fa0b0049a6eb",
+    "data": [
+      {
+        "text": "kode referal brp lama masa aktifnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "88d71706-4405-41c1-838f-7b917a719691",
+    "data": [
+      {
+        "text": "apakah kode referral yang saya dapat masih bisa digunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "385dc9c2-0289-497b-8f69-f72f1f01dec7",
+    "data": [
+      {
+        "text": "kode referral bisa saya pake sampe kapan ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "711738d5-e2e6-4f0c-9cd0-36ce89500297",
+    "data": [
+      {
+        "text": "masa expired kode referral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c5f948c0-0c9c-4abf-8920-e36aa602e487",
+    "data": [
+      {
+        "text": "ini transaksi ",
+        "userDefined": false
+      },
+      {
+        "text": "kedua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya, apakah saya masih bisa pake kode referral ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a8645b4c-c398-4a97-b871-b078333e5837",
+    "data": [
+      {
+        "text": "sampe kapan saya masih boleh pake kode referral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "28d39f66-5983-4c25-bae7-fd26daff1a22",
+    "data": [
+      {
+        "text": "apakah saya masih bisa pake kode referral jika sudah lama membuat akun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9d0d9a58-e2c6-4565-abc4-bacd50db319b",
+    "data": [
+      {
+        "text": "apakah referral punya expired?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f7b1e1e8-1c2a-40e6-a631-a160d91bec60",
+    "data": [
+      {
+        "text": "kode referral bisa digunakan sampai kapan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "53a7e428-4bed-474d-894a-7a482776bbde",
+    "data": [
+      {
+        "text": "apakah ada batasan waktu maksimal penggunaan kode referral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c2956ac7-6536-4be9-9b9c-7832aa686486",
+    "data": [
+      {
+        "text": "kapan saya bisa pake kode referral buat transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dfb5168d-fd60-40a0-9f3f-f07e683be8f4",
+    "data": [
+      {
+        "text": "saya udah pernah beli sebelumnya, tapi apa masih bisa gunakan kode referral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a8ced8b7-88f0-4f7d-a5b0-3bd4a97ce848",
+    "data": [
+      {
+        "text": "kapan referral bisa digunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "842b091b-629e-4519-840b-7ebc81b9b8e4",
+    "data": [
+      {
+        "text": "kode referral bisa dipake sampe kapan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "95b8914b-2c21-4a11-a21e-5bf87f0cc52d",
+    "data": [
+      {
+        "text": "kapan akun saya masih boleh pakai kode referral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "88635d12-54a2-4f16-88db-d564b6e93be9",
+    "data": [
+      {
+        "text": "apakah saya masih boleh menggunakan kode referral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7f905e90-cb41-475d-a47f-2b339c5d71ee",
+    "data": [
+      {
+        "text": "apakah kode referral punya masa aktif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8c94280e-1788-4b5f-ae30-995ade2daa1f",
+    "data": [
+      {
+        "text": "saya udah lama daftar akun toped tapi belum pernah transaksi, apakah masih boleh pakai kode referral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a1cecd0b-0cfe-4af2-95fc-508a4712a799",
+    "data": [
+      {
+        "text": "apakah ada massa expired penggunaan kode referral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "df0148f7-3785-4792-ba90-2ce4ba673e6a",
+    "data": [
+      {
+        "text": "apakah referral punya masa aktif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3cdaca1c-27a3-44bc-87c4-4fdbde51acb1",
+    "data": [
+      {
+        "text": "saya sudah pernah transaksi, apakah masih boleh pake kode referral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5417f8ba-1f67-416a-98c9-d5d4a641d956",
+    "data": [
+      {
+        "text": "apakah ada batasan penggunaan kode referral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "34beaa72-2313-4b07-9bda-64a3220a22fd",
+    "data": [
+      {
+        "text": "saya udah dikasih kode referral, kapan bisa digunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7660d7cd-a6fa-4723-b907-2a20dc1dc1ae",
+    "data": [
+      {
+        "text": "saya dapet kode referral, kapan bisa dipake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f7dec644-c1cb-4bb5-8ac4-d3ea5b6a672d",
+    "data": [
+      {
+        "text": "kapan kode referral boleh digunakan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fbd29799-e58b-4213-992c-e5385ea0b6f2",
+    "data": [
+      {
+        "text": "kapan teman bisa menggunakan kode referral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a5de5ab2-4727-4f8d-89f7-e39235638508",
+    "data": [
+      {
+        "text": "kapan teman saya bisa menggunakan kode referral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

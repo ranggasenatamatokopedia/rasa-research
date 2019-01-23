@@ -1,0 +1,43 @@
+{
+  "id": "fda9d0e9-ceb3-4c81-a116-bca6e54388e6",
+  "parentId": "8ac85501-34b7-42e4-a2c7-456ce12d1d1f",
+  "rootParentId": "67024543-88fb-488f-907b-85ef94921089",
+  "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_kode_promo_benar",
+  "auto": true,
+  "contexts": [
+    "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_sudah_trx_kode_promo-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetInvoiceList",
+      "affectedContexts": [
+        {
+          "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_kode_promo_benar-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh infokan kepada Toped invoice mana yang kamu maksud?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526454031,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "kode_promo_benar"
+    }
+  ]
+}

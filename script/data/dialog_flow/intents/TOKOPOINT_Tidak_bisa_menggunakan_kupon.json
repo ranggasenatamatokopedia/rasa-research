@@ -1,0 +1,42 @@
+{
+  "id": "ac27f987-10da-4579-826b-fdb70eef3ed6",
+  "name": "TOKOPOINT_Tidak_bisa_menggunakan_kupon",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Tidak_bisa_menggunakan_kupon-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai, boleh kasih tahu Toped notifikasi seperti apa yang muncul?\n\n1. Kode promo tidak ditemukan\n2. Kupon pilihan tidak muncul\n3. Belum memenuhi nominal minimal pembelian\n4. Akun tidak memenuhi syarat dan ketentuan\n5. Points berkurang tetapi kupon tidak ada di halaman \"Kupon Saya\""
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa pilih antara nomor 1 sampai 5 ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "tokopoint_tidak_bisa_menggunakan_kupon"
+    }
+  ]
+}

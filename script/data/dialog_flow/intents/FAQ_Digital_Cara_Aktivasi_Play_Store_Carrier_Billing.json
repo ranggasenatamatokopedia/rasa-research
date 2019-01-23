@@ -1,0 +1,36 @@
+{
+  "id": "bf8d7d51-308c-4b57-8642-901530e360d9",
+  "name": "FAQ_Digital_Cara_Aktivasi_Play_Store_Carrier_Billing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk aktivasi Play Store Carrier Billing, pastikan kamu sudah memiliki akun Gmail dan bisa ikuti langkah berikut:\n1. Masuk ke menu \"Play Store\"\n2. Klik ikon menu lalu pilih opsi \"Account\"\n3. Pilih \"Payment Methods\" lalu klik \"Enable Billing\"\n4. Lakukan verifikasi akun dengan mengisi informasi yang tercantum\n5. Jika aktivasi berhasil, kamu akan menerima SMS notifikasi"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Selamat mencoba ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_digital_cara_aktivasi_play_store_carrier_billing"
+    }
+  ]
+}

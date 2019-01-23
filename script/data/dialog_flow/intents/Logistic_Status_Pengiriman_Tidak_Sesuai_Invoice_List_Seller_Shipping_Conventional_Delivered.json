@@ -1,0 +1,48 @@
+{
+  "id": "09b82bf6-851c-441e-896e-81c2dfdf3d10",
+  "parentId": "f8255b6c-7549-4e73-8447-f0243a5cfc18",
+  "rootParentId": "d9d2ac31-d864-4f6e-836c-94fff4d54ef6",
+  "name": "Logistic_Status_Pengiriman_Tidak_Sesuai_Invoice_List_Seller_Shipping_Conventional_Delivered",
+  "auto": true,
+  "contexts": [
+    "Logistic_Status_Pengiriman_Tidak_Sesuai_Invoice_List_Seller_Shipping_Conventional-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Status_Pengiriman_Tidak_Sesuai_Invoice_List_Seller_Shipping_Conventional_Delivered-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau Toped cek status transaksinya saat ini sudah terkirim. Mohon menunggu pembeli melakukan konfirmasi penerimaan, ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sebagai info tambahan, dana penjualan kamu akan Toped bantu teruskan kalau pembeli tidak melakukan konfirmasi penerimaan dalam 2x24 jam sejak statusnya terkirim. Jadi kamu tidak perlu khawatir :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532402851,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "track_delivered"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "b6bc617d-b646-44a6-a8cc-5c1297a2df5e",
+  "parentId": "f2458716-e998-4d5d-bcf5-275f42e738e5",
+  "rootParentId": "440cef8c-a263-47ad-b658-e035da03a8e0",
+  "name": "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_inquiry_found_air_pdam",
+  "auto": false,
+  "contexts": [
+    "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_order_success-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Digital_Pembayaran_Sudah_Berhasil_Namun_Tagihan_Masih_Muncul_inquiry_found_air_pdam-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1dfe21ce-8161-4dbe-be9a-ab43e32d5e2d",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1233",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pembayaran tagihan air pdam/tv kabel/pascabayar kamu sudah berhasil. Mohon ditunggu dalam 2x24 jam hari kerja untuk Toped bisa menanyakan ke pihak terkait."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped akan bantu buatkan tiket untuk dicek lebih lanjut dan informasi selanjutnya akan dikirim lewat layanan pengguna. Senang bisa membantu kamu :)"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "data": {
+              "show_rating": false
+            },
+            "type": 0
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534228215,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "digital_airpdam"
+    },
+    {
+      "name": "digital_tvkabel"
+    },
+    {
+      "name": "digital_pascabayar"
+    }
+  ]
+}

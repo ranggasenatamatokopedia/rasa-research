@@ -1,0 +1,75 @@
+[
+  {
+    "value": "BRIVA",
+    "synonyms": [
+      "BRIVA",
+      "bri virtual account",
+      "virtual akun bri",
+      "bri virtual akun"
+    ]
+  },
+  {
+    "value": "maybank_VA",
+    "synonyms": [
+      "maybank_VA",
+      "maybank VA",
+      "maybank virtual account",
+      "virtual account maybank",
+      "virtual akun maybank",
+      "maybank virtual akun"
+    ]
+  },
+  {
+    "value": "Mandiri_VA",
+    "synonyms": [
+      "Mandiri_VA",
+      "Mandiri VA",
+      "mandiri virtual account",
+      "mandiri virtual akun",
+      "virtual akun mandiri"
+    ]
+  },
+  {
+    "value": "BNI_VA",
+    "synonyms": [
+      "BNI_VA",
+      "bni virtual account",
+      "VA BNI",
+      "virtual account bni",
+      "virtual akun bni",
+      "bni virtual akun"
+    ]
+  },
+  {
+    "value": "CIMB_VA",
+    "synonyms": [
+      "CIMB_VA",
+      "cimb virtual account",
+      "virtual account cimb",
+      "cimb virtual akun",
+      "virtual akun cimb"
+    ]
+  },
+  {
+    "value": "BCA_VA",
+    "synonyms": [
+      "BCA_VA",
+      "bca virtual account",
+      "VA BCA",
+      "virtual account bca",
+      "virtual akun bca",
+      "bca virtual akun"
+    ]
+  },
+  {
+    "value": "danamon_VA",
+    "synonyms": [
+      "danamon_VA",
+      "danamon VA",
+      "danamon virtual account",
+      "virtual account danamon",
+      "danamon virtual akun",
+      "virtual akun danamon"
+    ]
+  }
+]

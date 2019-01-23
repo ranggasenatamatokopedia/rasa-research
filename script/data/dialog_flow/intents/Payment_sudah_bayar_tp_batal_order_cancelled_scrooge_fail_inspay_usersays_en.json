@@ -1,0 +1,40 @@
+[
+  {
+    "id": "8ed66abd-5008-404a-81e1-d962d4fd31d2",
+    "data": [
+      {
+        "text": " inspay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fdf4cffb-2775-44fa-8eee-2466ae56b38e",
+    "data": [
+      {
+        "text": " kredivo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b2ba78fd-3436-4141-8f56-9c4561cfce06",
+    "data": [
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

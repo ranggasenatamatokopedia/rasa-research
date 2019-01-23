@@ -1,0 +1,54 @@
+{
+  "id": "feb62989-ec21-4a9d-a00b-35d42d78cd1c",
+  "parentId": "0c828cc9-4183-4700-abc8-63a6f60d4b18",
+  "rootParentId": "a7e1b254-86ed-4335-a90a-f9746590e450",
+  "name": "KAI_Kode_Booking_Belum_Diterima_status_success_resend_to_unregistered_email",
+  "auto": true,
+  "contexts": [
+    "KAI_Kode_Booking_Belum_Diterima_status_success-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DoResendEmailSuccessNotListedKAI",
+      "affectedContexts": [
+        {
+          "name": "KAI_Kode_Booking_Belum_Diterima_status_success_resend_to_unregistered_email-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "86f80f65-e38f-45ae-886d-9bcc9072abae",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "email",
+          "value": "$email",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Informasikan email kamu yang tidak terdaftar di Toped ya"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu sebentar, Toped akan kirimkan kode booking ke email tersebut ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540360894,
+  "fallbackIntent": false,
+  "events": []
+}

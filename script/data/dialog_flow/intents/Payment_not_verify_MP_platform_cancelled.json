@@ -1,0 +1,57 @@
+{
+  "id": "553e28fc-a6f1-47a5-b3cd-6a187ff6e3a9",
+  "parentId": "73682839-494c-41e0-9a9a-7eabf02d805c",
+  "rootParentId": "7702a921-0bc2-479f-9cd3-aade8103768a",
+  "name": "Payment_not_verify_MP_platform_cancelled",
+  "auto": true,
+  "contexts": [
+    "Payment_not_verify_MP_platform-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Payment_not_verify_MP_platform_cancelled-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai Kak, Toped cek transaksi ini sudah batal. Apakah kakak sebelumnya sudah melakukan pembayaran?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Sudah",
+              "Belum"
+            ],
+            "type": 1
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531272551,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_canceled"
+    },
+    {
+      "name": "invoice_batal_otomatis_oleh_sistem"
+    }
+  ]
+}

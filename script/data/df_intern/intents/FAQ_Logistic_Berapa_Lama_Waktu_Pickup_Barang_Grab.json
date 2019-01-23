@@ -1,0 +1,43 @@
+{
+  "id": "14c06dd3-983d-4070-8c5d-c8291ccb3a28",
+  "parentId": "71a33cbf-81d5-44bf-a8e3-e4ab7880b670",
+  "rootParentId": "71a33cbf-81d5-44bf-a8e3-e4ab7880b670",
+  "name": "FAQ_Logistic_Berapa_Lama_Waktu_Pickup_Barang_Grab",
+  "auto": false,
+  "contexts": [
+    "FAQ_Logistic_Berapa_Lama_Waktu_Pickup_Barang-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Logistic_Berapa_Lama_Waktu_Pickup_Barang_Grab-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa ketik jenis layanan Grab yang ingin kamu tanyakan ya, apakah Same Day atau Instant Courier?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528326117,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "grab"
+    }
+  ]
+}

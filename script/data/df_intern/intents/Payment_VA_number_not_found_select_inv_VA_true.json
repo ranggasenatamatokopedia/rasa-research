@@ -1,0 +1,48 @@
+{
+  "id": "2590aca7-d248-49f0-94fe-574701295f03",
+  "parentId": "998dba0b-7a36-4726-b2f3-90baa93698c2",
+  "rootParentId": "097ccd10-206d-47d6-b058-24ef1540018f",
+  "name": "Payment_VA_number_not_found_select_inv_VA_true",
+  "auto": true,
+  "contexts": [
+    "Payment_VA_number_not_found_select_inv-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ShowTransactionCode",
+      "affectedContexts": [
+        {
+          "name": "Payment_VA_number_not_found_select_inv_VA_true-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa lakukan pembayaran sebelum waktunya habis ya"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut nomor Virtual Account kamu ya"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531712629,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "is_va"
+    }
+  ]
+}

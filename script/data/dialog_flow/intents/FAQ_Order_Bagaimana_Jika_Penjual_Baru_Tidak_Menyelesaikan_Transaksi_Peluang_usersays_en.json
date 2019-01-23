@@ -1,0 +1,266 @@
+[
+  {
+    "id": "1d8e7f0a-b78e-4c4d-8d86-92e02e26eafd",
+    "data": [
+      {
+        "text": "bagaimana jika ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " baru tidak menyelesaikan transaksi pesanan peluang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6a5a6de0-229b-48ee-97dc-81c45b90fe6c",
+    "data": [
+      {
+        "text": "poin ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " baru dikurangin ga ya kalau udah terima order peluang tapi ga dikirimin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "837c9d64-9a33-43ae-bcf8-152aa98d96a1",
+    "data": [
+      {
+        "text": "apa akibatnya kalau sudah terlanjur ambil pesanan peluang tapi tidak jadi mengirimkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "82feb776-3f02-488d-9935-84a272a0fe54",
+    "data": [
+      {
+        "text": "kalo pesanan tidak diselesaikan, kena penalty dari peluang ga ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "df54346f-f844-4e92-a743-3a56924f347d",
+    "data": [
+      {
+        "text": "sudah ambil pesanan peluang tapi barang tidak bisa dikirim, kalau dibatalkan saya kena penalty berapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "223ada38-8734-4002-a61e-6f07d06e9955",
+    "data": [
+      {
+        "text": "klo saya tidak bisa mengirim pesanan yang dari peluang, apakah saya kena penalty?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "70f4c750-5eb3-4f67-92cb-863ca1451d1d",
+    "data": [
+      {
+        "text": "sanksi apa yang diberikan kepada ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " baru yang tidak menyelesaikan pesanan peluang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "daa9dfc0-cd45-44e9-b2de-911ac5c7c703",
+    "data": [
+      {
+        "text": "apakah ada pengurangan reputasi kalau pesanan peluang tidak diselesaikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "13ae797e-e541-4c69-ae17-33e5bdb67281",
+    "data": [
+      {
+        "text": "berapa penalti yang dikenakan ke ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " yang tidak mengirim pesanan peluang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1b9883e8-c331-4386-91a6-4f83f763a7fb",
+    "data": [
+      {
+        "text": "kalo ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " baru ga ngirim pesenan peluangnya gimana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7ac89931-69b9-44de-b81b-5f365636b1a0",
+    "data": [
+      {
+        "text": "kalau sudah ambil order peluang tapi transaksi tidak diselesaikan gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d6a9b0c8-ba73-4ef1-8936-b3e2943341c7",
+    "data": [
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " yang udah ambil peluang, tapi tidak menjalankan tugas mengirim pesanan, dapet penalty ga sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "35bcbf9e-d298-4b6a-8b3b-b6662dfc169a",
+    "data": [
+      {
+        "text": "apakah ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " baru akan kena penalty kalo tidak ngirim pesanan peluang yang udah diambil?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a9141021-e27c-4f2c-9f4b-1eb50a486930",
+    "data": [
+      {
+        "text": "kalo pesenan peluang udah diambil sama ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " baru, tapi ga dikirimin gimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5ce4b068-8ead-4c3d-af25-0346987668c0",
+    "data": [
+      {
+        "text": "jika pesanan peluang sudah diterima namun tidak diselesaikan, apakah akan mendapat sanksi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f4c5c5d4-a93b-4e41-8ca4-b4db8b983542",
+    "data": [
+      {
+        "text": "apakah ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " akan dikenakan penalty jika tidak menyelesaikan pesanan peluang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "38c745f7-ea33-4be3-b068-8ec1dbc156fa",
+    "data": [
+      {
+        "text": "bagaimana kalau saya tidak berhasil menyelesaikan transaksi yang saya ambil dari peluang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

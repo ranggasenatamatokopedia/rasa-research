@@ -1,0 +1,33 @@
+{
+  "id": "9c365e15-a0e1-4f00-9559-6f209b7b956a",
+  "name": "FAQ_KAI_Data_Pada_Kode_Booking_Salah",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_KAI_Data_Pada_Kode_Booking_Salah-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika ada kesalahan data pada kode booking dan ingin melakukan perubahan data, kamu bisa hubungi PT. KAI di (021) 121 untuk melakukan pengecekan lebih lanjut ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

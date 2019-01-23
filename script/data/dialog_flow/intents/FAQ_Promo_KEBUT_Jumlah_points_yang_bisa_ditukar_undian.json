@@ -1,0 +1,27 @@
+{
+  "id": "0b463db9-94ce-4f90-9e1a-19550c5bb370",
+  "name": "FAQ_Promo_KEBUT_Jumlah_points_yang_bisa_ditukar_undian",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa menukarkan TokoPoints dengan Kupon Untung sesuai dengan batas maksimum per hari yang telah ditentukan."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "df783d7a-8790-49fa-96f7-e09d3244eb22",
+  "parentId": "6230b9e6-6ac7-4118-bd68-191791d0d74b",
+  "rootParentId": "844540fa-3db4-42cc-a62e-c3d9bc90793a",
+  "name": "Resolution_Kendala_Fitur_Resolusi_Tidak_Bisa_Upload_Inv_Video_Uploaded",
+  "auto": true,
+  "contexts": [
+    "Resolution_Kendala_Fitur_Resolusi_Tidak_Bisa_Upload_Inv_Video-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadVideoURL",
+      "affectedContexts": [
+        {
+          "name": "Resolution_Kendala_Fitur_Resolusi_Tidak_Bisa_Upload_Inv_Video_Uploaded-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536745015,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "video_URL_uploaded"
+    }
+  ]
+}

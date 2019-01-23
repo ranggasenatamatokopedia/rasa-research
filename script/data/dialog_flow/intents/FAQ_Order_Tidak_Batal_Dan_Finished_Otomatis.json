@@ -1,0 +1,48 @@
+{
+  "id": "d73eb916-a141-4d3e-ab63-cb227cdca4dd",
+  "name": "FAQ_Order_Tidak_Batal_Dan_Finished_Otomatis",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Order_Tidak_Batal_Dan_Finished_Otomatis-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh infokan detail kendalanya ke Toped? Kamu bisa pilih antara nomor 1 atau 2 ya :)\n1. Order tidak batal otomatis atau berstatus extend\n2. Order tidak finished otomatis"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 1,
+            "quick_replies": [
+              "1",
+              "2"
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_order_tidak_batal_dan_finished_otomatis"
+    }
+  ]
+}

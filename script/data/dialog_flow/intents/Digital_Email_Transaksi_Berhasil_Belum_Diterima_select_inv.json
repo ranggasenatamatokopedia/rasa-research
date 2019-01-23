@@ -1,0 +1,43 @@
+{
+  "id": "6fa0718b-4eaf-428b-a3b9-1de866c6e918",
+  "parentId": "9bfd7954-aa4e-4fe0-9970-896182c9392a",
+  "rootParentId": "9bfd7954-aa4e-4fe0-9970-896182c9392a",
+  "name": "Digital_Email_Transaksi_Berhasil_Belum_Diterima_select_inv",
+  "auto": false,
+  "contexts": [
+    "Digital_Email_Transaksi_Berhasil_Belum_Diterima-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckInvoiceStatusIDDigital",
+      "affectedContexts": [
+        {
+          "name": "Digital_Email_Transaksi_Berhasil_Belum_Diterima_select_inv-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534156588,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "SELECT_INVOICE"
+    }
+  ]
+}

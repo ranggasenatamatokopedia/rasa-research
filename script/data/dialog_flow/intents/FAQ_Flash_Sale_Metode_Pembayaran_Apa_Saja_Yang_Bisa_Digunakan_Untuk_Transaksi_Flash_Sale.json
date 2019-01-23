@@ -1,0 +1,37 @@
+{
+  "id": "476e7e53-a2df-4e47-950a-b0fd1f5ba0b5",
+  "name": "FAQ_Flash_Sale_Metode_Pembayaran_Apa_Saja_Yang_Bisa_Digunakan_Untuk_Transaksi_Flash_Sale",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Flash_Sale_Metode_Pembayaran_Apa_Saja_Yang_Bisa_Digunakan_Untuk_Transaksi_Flash_Sale-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa menggunakan metode pembayaran berikut untuk promo Flash Sale :\n\n1. Saldo Tokopedia\n2. OVO Cash / OVO Points\n3. Transfer Bank\n4. Virtual Account\n5. Pembayaran Instan\n6. Kredivo\n7. Kartu Kredit / Debit\n8. Tunai Di Gerai Retail"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_flash_sale_metode_pembayaran_apa_saja_yang_bisa_digunakan_untuk_transaksi_flash_sale"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "28bf9452-f604-414d-816f-f00424aae84f",
+  "parentId": "c68db85e-e0f8-466a-8e27-ac10cd165274",
+  "rootParentId": "c68db85e-e0f8-466a-8e27-ac10cd165274",
+  "name": "Digital_Transaksi_Berhasil_Namun_Voucher_Belum_Diterima_select_inv",
+  "auto": false,
+  "contexts": [
+    "Digital_Transaksi_Berhasil_Namun_Voucher_Belum_Diterima-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckInvoiceStatusIDDigital",
+      "affectedContexts": [
+        {
+          "name": "Digital_Transaksi_Berhasil_Namun_Voucher_Belum_Diterima_select_inv-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu sebentar ya, Toped bantu cek dulu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534162725,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "select_invoice"
+    }
+  ]
+}

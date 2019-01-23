@@ -1,0 +1,43 @@
+{
+  "id": "707a5daa-336c-433e-98b5-dc821edd6622",
+  "parentId": "9ed9f61e-1b60-48d7-a16b-ee131df316e6",
+  "rootParentId": "90b4ed65-34d8-4fd4-a8f8-c87e563d6528",
+  "name": "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_MPOS",
+  "auto": false,
+  "contexts": [
+    "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_Kupon_Tidak_Sesuai_berhasil-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_MPOS-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Ini kita cek dulu ya, Kak :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523436072,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "notif_tnc_tdk_sesuai_MP_OS_inv"
+    }
+  ]
+}

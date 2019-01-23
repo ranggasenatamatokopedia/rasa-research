@@ -1,0 +1,24 @@
+[
+  {
+    "id": "31df759e-8d0f-440a-89f8-affadb78a221",
+    "data": [
+      {
+        "text": "kode_promo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "76a538aa-dfb7-492c-95c9-c6b373855a08",
+    "data": [
+      {
+        "text": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0
+  }
+]

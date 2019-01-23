@@ -1,0 +1,62 @@
+[
+  {
+    "id": "4ebe66ce-8c3b-4538-92ac-98e8c7195fd3",
+    "data": [
+      {
+        "text": " invoice_sedang_dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f39dc12c-a278-4388-9854-09b4c53c67e6",
+    "data": [
+      {
+        "text": " invoice_kode_resi_pengiriman_tidak_valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "57c5af05-ff52-436e-ab95-2b68184f9ba2",
+    "data": [
+      {
+        "text": " invoice_pesanan_sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3f78dcba-bdbb-45eb-82b3-ff6aa69d0d88",
+    "data": [
+      {
+        "text": " invoice_sedang_diproses_",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f0cacb93-e5e4-494e-bb2e-c9c6c36d4761",
+    "data": [
+      {
+        "text": " invoice_pesanan_telah_diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

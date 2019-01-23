@@ -1,0 +1,60 @@
+[
+  {
+    "id": "7ee71d54-dea2-4cd7-a4a2-e6aa02c375d7",
+    "data": [
+      {
+        "text": "va",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e6b3b17a-5024-4435-aba2-1efd2dbf9d3f",
+    "data": [
+      {
+        "text": "tokocash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8589f219-a830-4fd4-926d-171b3814e3c5",
+    "data": [
+      {
+        "text": "inspay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1bcb74e0-6129-464f-aec1-a741a7509c98",
+    "data": [
+      {
+        "text": "transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b4ba14b8-595b-4502-9d9a-7d6b0458f386",
+    "data": [
+      {
+        "text": "gerai",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

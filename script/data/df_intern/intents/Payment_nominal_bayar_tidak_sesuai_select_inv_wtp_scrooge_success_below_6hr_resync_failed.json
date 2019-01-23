@@ -1,0 +1,79 @@
+{
+  "id": "9f66743b-279b-49a6-b014-fe8eb3eedbdd",
+  "parentId": "3c8d18e4-97f0-40d3-9c6f-a88dca99b4ab",
+  "rootParentId": "feb54c5b-52cd-4135-8fbe-6ef49ccb8866",
+  "name": "Payment_nominal_bayar_tidak_sesuai_select_inv_wtp_scrooge_success_below_6hr_resync_failed",
+  "auto": true,
+  "contexts": [
+    "Payment_nominal_bayar_tidak_sesuai_select_inv_wtp_scrooge_success_below_6hr_resync-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Payment_nominal_bayar_tidak_sesuai_select_inv_wtp_scrooge_success_below_6hr_resync_failed-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8de73f7b-6c9b-45ac-8609-56d57709dd54",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1506"
+        },
+        {
+          "id": "4685aee4-ad8d-4d77-a8df-9f0743525033",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Payment_nominal_bayar_tidak_sesuai"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kak, Toped bantu buatkan tiketnya ya. Kakak nanti akan dihubungi lebih lanjut lewat Pesan Bantuan."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532506596,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_canceled"
+    },
+    {
+      "name": "invoice_pending"
+    },
+    {
+      "name": "invoice_pending_unik"
+    },
+    {
+      "name": "invoice_cc_challenge"
+    },
+    {
+      "name": "invoice_belum_bayar"
+    },
+    {
+      "name": "invoice_pending_due"
+    },
+    {
+      "name": "invoice_payment_confirm"
+    },
+    {
+      "name": "invoice_payment_confirmed_unik"
+    }
+  ]
+}

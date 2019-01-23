@@ -1,0 +1,44 @@
+{
+  "id": "7abec44f-2b5c-45b7-bd42-00e453bcc6f4",
+  "parentId": "b9b204e8-ba73-4e60-8662-8ab3561b1657",
+  "rootParentId": "b9b204e8-ba73-4e60-8662-8ab3561b1657",
+  "name": "FAQ_Order_Invoice_Tidak_Muncul_Di_Daftar_Transaksi_Tokopedia_Emas",
+  "auto": true,
+  "contexts": [
+    "FAQ_Order_Invoice_Tidak_Muncul_Di_Daftar_Transaksi-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Order_Invoice_Tidak_Muncul_Di_Daftar_Transaksi_Tokopedia_Emas-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Melalui aplikasi Tokopedia Android/ iOS, kamu bisa ikuti langkah berikut :\n1. Masuk ke laman Beranda\n2. Pilih icon menu \"Keuangan\n3. Pilih \"Emas\"\n4. Pilih menu \"Riwayat Transaksi\"\n5. Pastikan kamu gunakan filter \"Semua\" agar seluruh transaksi Jual dan Beli kamu bisa terlihat."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Semoga informasi Toped membantu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533815288,
+  "fallbackIntent": false,
+  "events": []
+}

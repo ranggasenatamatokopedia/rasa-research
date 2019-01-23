@@ -1,0 +1,43 @@
+{
+  "id": "96c12ce3-b186-40e8-b491-57b23293e584",
+  "parentId": "51708da8-6937-457d-8f20-1aebbd7474ff",
+  "rootParentId": "35ea81e4-4843-4cfe-b8fd-335f2f7a0eea",
+  "name": "Account_Kendala_Notifikasi_Talk_Already_Reset_Over_1_Hour",
+  "auto": true,
+  "contexts": [
+    "Account_Kendala_Notifikasi_Talk_Already_Reset-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ResetTalkNotificationbyUserID",
+      "affectedContexts": [
+        {
+          "name": "Account_Kendala_Notifikasi_Talk_Already_Reset_Over_1_Hour-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Notifikasi talk (diskusi) di akun kamu sudah Toped sesuaikan sebelumnya. Kalau masih ada kendala, Toped akan menyesuaikannya kembali. Mohon menunggu, ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533889599,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "over_1_hour"
+    }
+  ]
+}

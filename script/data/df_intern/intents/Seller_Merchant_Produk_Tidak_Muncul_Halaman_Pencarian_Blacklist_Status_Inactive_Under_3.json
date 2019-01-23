@@ -1,0 +1,43 @@
+{
+  "id": "a3e7e722-ec76-481d-babb-c98d2434baeb",
+  "parentId": "80ce3155-0b5b-462d-81ab-cd99907407ad",
+  "rootParentId": "6f5a3f14-d1e3-439d-92d9-cdd77e2da07f",
+  "name": "Seller_Merchant_Produk_Tidak_Muncul_Halaman_Pencarian_Blacklist_Status_Inactive_Under_3",
+  "auto": true,
+  "contexts": [
+    "Seller_Merchant_Produk_Tidak_Muncul_Halaman_Pencarian_Blacklist_Status_Inactive-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DoReloadProduct",
+      "affectedContexts": [
+        {
+          "name": "Seller_Merchant_Produk_Tidak_Muncul_Halaman_Pencarian_Blacklist_Status_Inactive_Under_3-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534307976,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "do_reload_product_if_under_limit"
+    }
+  ]
+}

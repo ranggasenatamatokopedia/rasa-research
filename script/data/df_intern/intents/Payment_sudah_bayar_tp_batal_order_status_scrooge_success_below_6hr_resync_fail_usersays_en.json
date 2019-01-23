@@ -1,0 +1,79 @@
+[
+  {
+    "id": "79534e6d-b386-43d9-b8b7-d5806703dbfd",
+    "data": [
+      {
+        "text": " invoice_belum_bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "056eea4a-4de0-4c8c-a2f9-2144e5d68672",
+    "data": [
+      {
+        "text": " invoice_pending_unik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8ff572f7-6561-480f-ad2e-c37b70cf986b",
+    "data": [
+      {
+        "text": " invoice_pending_due",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c512ab75-4c81-4504-bfcd-5318998d237d",
+    "data": [
+      {
+        "text": " invoice_payment_confirm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "30ac1b4e-5995-43a5-ba83-dffdc5836528",
+    "data": [
+      {
+        "text": " invoice_pending",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f479ea92-21bb-4bff-a57b-425ca4fddc4c",
+    "data": [
+      {
+        "text": " invoice_canceled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "da7a580a-8fd9-41e0-8d8e-67e2dff831d4",
+    "data": [
+      {
+        "text": " invoice_cc_challenge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

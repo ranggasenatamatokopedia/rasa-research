@@ -1,0 +1,31 @@
+{
+  "id": "8a9b4a89-f1ab-4b36-984c-97181709551c",
+  "name": "FAQ_Logistic_Batas_Waktu_Respons_Pesanan_Dan_Konfirmasi_Pengiriman_Reguler",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk layanan pengiriman reguler, batas respons pesanan oleh penjual adalah 1x24 jam ditambah batas waktu konfirmasi pengiriman hingga 1x24 jam di hari kerja."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_logistic_batas_waktu_respons_pesanan_dan_konfirmasi_pengiriman_reguler"
+    }
+  ]
+}

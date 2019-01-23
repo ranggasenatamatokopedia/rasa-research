@@ -1,0 +1,37 @@
+{
+  "id": "99203b3e-91e8-4193-8c3e-ce0a741a53e2",
+  "parentId": "f75713bc-43ff-4cb3-902b-32f2be6459df",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Tidak_Mendapat_Cashback_Promo_Select_Invoice_MP_Rejected",
+  "auto": false,
+  "contexts": [
+    "Promo_Tidak_Mendapat_Cashback_Promo_Select_Invoice_MP-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah Toped cek, pesanan kamu sudah batal sehingga cashback tidak bisa diberikan. Jika bersedia, kamu bisa transaksi kembali ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532337247,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_reject"
+    }
+  ]
+}

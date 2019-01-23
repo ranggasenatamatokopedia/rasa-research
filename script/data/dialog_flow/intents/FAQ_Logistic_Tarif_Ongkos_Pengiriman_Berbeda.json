@@ -1,0 +1,33 @@
+{
+  "id": "c5941243-d4cd-432f-9d06-9e707b24f1d1",
+  "name": "FAQ_Logistic_Tarif_Ongkos_Pengiriman_Berbeda",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Logistic_Tarif_Ongkos_Pengiriman_Berbeda-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pastikan kamu sudah memenuhi hal-hal berikut ya:\n\n1. Wilayah asal dan tujuan pengiriman pada resi pengiriman kamu, sesuai dengan yang tertera pada Tokopedia.\n2. Berat yang tertera pada invoice sesuai dengan ketentuan berat pihak ekspedisi.\n3. Layanan pengiriman yang kamu pilih sudah sesuai dengan pilihan pihak Pembeli."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "f986aee0-6883-4b58-8804-2e40c26bbe40",
+  "name": "FAQ_Logistic_Apa_Itu_Fitur_Upload_Resi_Sekaligus",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Upload Resi Sekaligus adalah Fitur untuk memasukkan nomor resi pengiriman sejumlah pesanan sekaligus yang dapat digunakan oleh semua Penjual di Tokopedia :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_logistic_apa_itu_fitur_upload_resi_sekaligus"
+    }
+  ]
+}

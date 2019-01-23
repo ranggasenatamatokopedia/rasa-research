@@ -1,0 +1,39 @@
+{
+  "id": "fa857508-4c8b-4036-bb43-7a10ed136ed9",
+  "parentId": "912968a4-cdf7-4bac-9252-7ec604d6d510",
+  "rootParentId": "79399d3d-1735-4a38-83f0-804a798b2f2c",
+  "name": "Merchant_Produk_Dalam_Pengawasan_Input_Link_Under_Supervision_Ingin_Di_Hapus",
+  "auto": true,
+  "contexts": [
+    "Merchant_Produk_Dalam_Pengawasan_Input_Link_Under_Supervision-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DeleteProduct",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Produk_Dalam_Pengawasan_Input_Link_Under_Supervision_Ingin_Di_Hapus-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539166878,
+  "fallbackIntent": false,
+  "events": []
+}

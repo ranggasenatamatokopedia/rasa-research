@@ -1,0 +1,48 @@
+{
+  "id": "7d71c4ad-4920-43a5-99af-950ac96025e8",
+  "parentId": "967a7745-b813-4064-94cd-92658bbe44c8",
+  "rootParentId": "7702a921-0bc2-479f-9cd3-aade8103768a",
+  "name": "Payment_not_verify_MP_platform_wtp_scrooge_waiting_above_4hr",
+  "auto": true,
+  "contexts": [
+    "Payment_not_verify_MP_platform_wtp_scrooge_waiting-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Payment_not_verify_MP_platform_wtp_scrooge_waiting_above_4hr-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Transaksi ini, akan Toped bantu selesaikan di Pesan Bantuan, ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu nantinya dapat melihat perkembangan penyelesaian kendala ini disana. Mohon menunggu sementara waktu, ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546916046,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "above_4hr"
+    }
+  ]
+}

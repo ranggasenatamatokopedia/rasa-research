@@ -1,0 +1,42 @@
+{
+  "id": "559c2f50-9ca3-428d-b00c-a1b9414c6b91",
+  "parentId": "f35cedcc-a083-41f0-a2ca-a0950449fb3b",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Transaksi_Berhasil_Tapi_Tidak_Mendapat_Benefit_cashback_not_finished",
+  "auto": false,
+  "contexts": [
+    "Promo_Transaksi_Berhasil_Tapi_Tidak_Mendapat_Benefit_cashback_promo_inv-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hai Kak, Toped cek Status Pesanan nya belum Sukses. Toped sarankan Kakak untuk menunggu terlebih dahulu, ya :)."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Cashback akan diberikan setelah status pesanan Sukses dan transaksi tidak melanggar Syarat Ketentuan."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522898779,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "transaction_not_finished"
+    }
+  ]
+}

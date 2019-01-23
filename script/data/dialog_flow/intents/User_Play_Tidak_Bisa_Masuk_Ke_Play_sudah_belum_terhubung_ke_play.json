@@ -1,0 +1,44 @@
+{
+  "id": "aa868263-5889-4fa2-af60-f57e845797b0",
+  "parentId": "58bb905d-0c93-4501-a025-d9b11770f4d2",
+  "rootParentId": "e24c0d6b-ef5c-4d53-ac56-e76f47176faf",
+  "name": "User_Play_Tidak_Bisa_Masuk_Ke_Play_sudah_belum_terhubung_ke_play",
+  "auto": true,
+  "contexts": [
+    "User_Play_Tidak_Bisa_Masuk_Ke_Play_sudah-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "User_Play_Tidak_Bisa_Masuk_Ke_Play_sudah_belum_terhubung_ke_play-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa Log Out dan Log In akun Tokopedia terlebih dulu, ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Selanjutnya kamu bisa masuk ke Play kembali dengan Shake Shake perangkatmu, klik banner di halaman depan atau melalui fitur top chat, ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539590178,
+  "fallbackIntent": false,
+  "events": []
+}

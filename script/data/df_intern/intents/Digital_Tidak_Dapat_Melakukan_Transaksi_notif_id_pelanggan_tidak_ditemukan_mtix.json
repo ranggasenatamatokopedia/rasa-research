@@ -1,0 +1,44 @@
+{
+  "id": "cb2af1e4-9edb-4ade-82a2-854ad1226277",
+  "parentId": "dfdca2c6-201f-4e41-8cde-d79615cf05fe",
+  "rootParentId": "c230094b-7dd5-43f4-984b-d415098c4e53",
+  "name": "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_id_pelanggan_tidak_ditemukan_mtix",
+  "auto": true,
+  "contexts": [
+    "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_id_pelanggan_tidak_ditemukan-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Digital_Tidak_Dapat_Melakukan_Transaksi_notif_id_pelanggan_tidak_ditemukan_mtix-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh pastikan dulu bahwa kamu sudah mendaftarkan nomor telepon atau login di akun m-tix"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau kamu dapat login di aplikasi m-tix tapi tidak dapat top up di Toped, kamu bisa lampirkan screenshot error yang muncul ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535959403,
+  "fallbackIntent": false,
+  "events": []
+}

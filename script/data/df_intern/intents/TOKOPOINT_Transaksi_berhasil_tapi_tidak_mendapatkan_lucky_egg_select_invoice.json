@@ -1,0 +1,43 @@
+{
+  "id": "2edb01cd-2078-4123-851e-a6a1f148234c",
+  "parentId": "9413a6be-1e59-431f-b086-229dfc670fe6",
+  "rootParentId": "9413a6be-1e59-431f-b086-229dfc670fe6",
+  "name": "TOKOPOINT_Transaksi_berhasil_tapi_tidak_mendapatkan_lucky_egg_select_invoice",
+  "auto": true,
+  "contexts": [
+    "TOKOPOINT_Transaksi_berhasil_tapi_tidak_mendapatkan_lucky_egg-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetOrderFinishedIn24Hours",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Transaksi_berhasil_tapi_tidak_mendapatkan_lucky_egg_select_invoice-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon menunggu ya, Toped cek dulu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523433735,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "select_invoice"
+    }
+  ]
+}

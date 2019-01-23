@@ -1,0 +1,39 @@
+{
+  "id": "25102d5a-e01d-43f2-8f96-2a4dc9738341",
+  "parentId": "dfd5c5d7-f8a2-4c65-b4f6-2dc2bd8c057f",
+  "rootParentId": "bc8f4622-0f27-4009-a4cd-f030fe0388ae",
+  "name": "FAQ_Payment_cara_bayar_instant_payment_mandiri_clickpay",
+  "auto": true,
+  "contexts": [
+    "FAQ_Payment_cara_bayar_instant_payment-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Payment_cara_bayar_instant_payment_mandiri_clickpay-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut langkah-langkah apabila kamu mau melakukan pembayaran dengan Mandiri Clickpay:\n\n1. Masukkan produk ke Keranjang Belanja.\n2. Pilih metode pembayaran Mandiri Clickpay, lalu klik Checkout.\n3. Masukkan nomor kartu debit dan respon token. Klik Bayar Sekarang."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534831767,
+  "fallbackIntent": false,
+  "events": []
+}

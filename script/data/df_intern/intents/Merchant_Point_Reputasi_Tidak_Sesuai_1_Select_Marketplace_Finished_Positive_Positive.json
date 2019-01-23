@@ -1,0 +1,43 @@
+{
+  "id": "808cda25-833d-4d88-86a8-fd683aea17c6",
+  "parentId": "fc073c8f-75bf-44ac-aba5-4e41da7386ce",
+  "rootParentId": "cf17fcc0-2998-4ff8-8cf4-6a1ca0e60443",
+  "name": "Merchant_Point_Reputasi_Tidak_Sesuai_1_Select_Marketplace_Finished_Positive_Positive",
+  "auto": false,
+  "contexts": [
+    "Merchant_Point_Reputasi_Tidak_Sesuai_1_Select_Invoice_Marketplace_Finished-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckPointReputationCount",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Point_Reputasi_Tidak_Sesuai_1_Select_Marketplace_Finished_Positive_Positive-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536553828,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "is_buyer_positive_seller_positive"
+    }
+  ]
+}

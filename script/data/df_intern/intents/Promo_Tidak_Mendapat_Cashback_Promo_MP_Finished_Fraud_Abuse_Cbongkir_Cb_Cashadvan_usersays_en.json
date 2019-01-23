@@ -1,0 +1,35 @@
+[
+  {
+    "id": "9224b8d4-3833-476a-988d-820a59a35be4",
+    "data": [
+      {
+        "text": "case_status_abuse_cashback_ongkir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7b3888f5-682d-4a64-9b6d-45760899e05e",
+    "data": [
+      {
+        "text": "case_status_cash_advance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4c2979b5-f06a-4f38-8673-a4dd70d77366",
+    "data": [
+      {
+        "text": "case_status_unhold_without_cashback",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

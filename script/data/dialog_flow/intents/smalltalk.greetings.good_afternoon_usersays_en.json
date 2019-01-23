@@ -1,0 +1,159 @@
+[
+  {
+    "id": "a0debfde-a061-46ad-a95d-bdf420ee50b3",
+    "data": [
+      {
+        "text": "hai selamat siang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1517870528
+  },
+  {
+    "id": "a8313158-9eb2-41d6-b2db-305ce2ddf150",
+    "data": [
+      {
+        "text": "selamat ",
+        "userDefined": false
+      },
+      {
+        "text": "siang",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1517870528
+  },
+  {
+    "id": "4da8ec27-9723-48ba-b943-302a4c18305c",
+    "data": [
+      {
+        "text": "ciang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0a066bbd-0b17-467c-b57e-0e0b223ef899",
+    "data": [
+      {
+        "text": "siang min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d47d990f-6d43-4263-bac1-4ffca712a74c",
+    "data": [
+      {
+        "text": "mat ",
+        "userDefined": false
+      },
+      {
+        "text": "siang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6e66f8fb-f50e-4d5a-93a0-c94e6895c589",
+    "data": [
+      {
+        "text": "met siang ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1517870528
+  },
+  {
+    "id": "19258495-c388-44b6-9514-8312b20252fb",
+    "data": [
+      {
+        "text": "afternoon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4bda555a-ed11-4d93-acf7-2a7333f1e443",
+    "data": [
+      {
+        "text": "good afternoon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dc74a0ac-6a6a-4743-899e-e5f6fc42f326",
+    "data": [
+      {
+        "text": "met ",
+        "userDefined": false
+      },
+      {
+        "text": "siang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6677b47e-e6ee-4ef7-a4c8-6a7e7ef449cc",
+    "data": [
+      {
+        "text": "siang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1b39442b-281f-426f-88bf-d7850109e405",
+    "data": [
+      {
+        "text": "siang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4fa58e22-c86e-4a6f-b9ad-3d5752ef614f",
+    "data": [
+      {
+        "text": "Selamat Siang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

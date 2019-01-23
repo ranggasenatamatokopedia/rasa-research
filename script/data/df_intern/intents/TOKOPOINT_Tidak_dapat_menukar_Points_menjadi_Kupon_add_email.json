@@ -1,0 +1,43 @@
+{
+  "id": "aac417e2-8c40-4d6b-9722-eabb674696a3",
+  "parentId": "3702cbdf-e0ed-4db6-ae17-f7e78b7ba6f0",
+  "rootParentId": "3702cbdf-e0ed-4db6-ae17-f7e78b7ba6f0",
+  "name": "TOKOPOINT_Tidak_dapat_menukar_Points_menjadi_Kupon_add_email",
+  "auto": true,
+  "contexts": [
+    "TOKOPOINT_Tidak_dapat_menukar_Points_menjadi_Kupon-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Tidak_dapat_menukar_Points_menjadi_Kupon_add_email-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh infokan notifikasi error apa yang muncul di aplikasi kamu? \"verifikasi akun\" ataukah \"sudah melebihi batas penukaran\"."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523430675,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "add_text_email"
+    }
+  ]
+}

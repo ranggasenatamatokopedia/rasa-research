@@ -1,0 +1,33 @@
+{
+  "id": "fc930a57-2a04-408b-ae75-5e489a45dcc9",
+  "name": "FAQ_Merchant_Cara_Membuka_Toko",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Merchant_Cara_Membuka_Toko-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut ini Toped berikan langkah-langkah pembuatan toko melalui laptop / komputer :\n\n1. Klik menu \"Toko\", lalu pilih \"Buka toko\"\n2. Isi informasi toko berupa nama dan domain. Untuk nama dan domain bersifat permanent ya, jadi pastikan kamu sudah mengisinya dengan benar.\n3. Lengkapi informasi toko lainnya.\n4. Masukan alamat penjemputan barang dan tandai lokasinya di peta\n5. Pilih kurir yang Anda inginkan\n\nSebagai informasi tambahan, untuk satu akun / email yang terdaftar hanya bisa memiliki satu toko ya. Jadi, kamu bisa membuat toko dengan email / akun yang belum memiliki toko."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

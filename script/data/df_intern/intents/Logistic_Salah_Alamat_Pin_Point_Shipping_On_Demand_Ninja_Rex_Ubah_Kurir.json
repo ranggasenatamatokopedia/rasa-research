@@ -1,0 +1,39 @@
+{
+  "id": "4d81baaf-410d-4cfc-87a9-36ffca46ebcb",
+  "parentId": "9e550c44-3a9c-470e-b18a-8e1de3850fab",
+  "rootParentId": "b5d703e5-b4ee-4716-a78d-6a74da4e1538",
+  "name": "Logistic_Salah_Alamat_Pin_Point_Shipping_On_Demand_Ninja_Rex_Ubah_Kurir",
+  "auto": true,
+  "contexts": [
+    "Logistic_Salah_Alamat_Pin_Point_Shipping_On_Demand_Ninja_Rex-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Salah_Alamat_Pin_Point_Shipping_On_Demand_Ninja_Rex_Ubah_Kurir-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk merubah jenis kurir, kamu bisa akses \"Status Pengiriman\" lewat laptop/komputer ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536505176,
+  "fallbackIntent": false,
+  "events": []
+}

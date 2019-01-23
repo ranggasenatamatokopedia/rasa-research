@@ -1,0 +1,49 @@
+{
+  "id": "f29c20af-fcd1-4dcf-8b8e-fd287fb415c7",
+  "parentId": "b2554588-1cca-4434-94e9-09d0e1d4bb9a",
+  "rootParentId": "feb54c5b-52cd-4135-8fbe-6ef49ccb8866",
+  "name": "Payment_nominal_bayar_tidak_sesuai_cancel_inspay_scrooge_not_success_pass_24hr",
+  "auto": true,
+  "contexts": [
+    "Payment_nominal_bayar_tidak_sesuai_select_inv_cancel_inspay_scrooge_not_success-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckRefundListExist",
+      "affectedContexts": [
+        {
+          "name": "Payment_nominal_bayar_tidak_sesuai_cancel_inspay_scrooge_not_success_pass_24hr-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531701930,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "more_than_equals_1_days"
+    },
+    {
+      "name": "more_than_equals_2_days"
+    },
+    {
+      "name": "more_than_equals_3_days"
+    }
+  ]
+}

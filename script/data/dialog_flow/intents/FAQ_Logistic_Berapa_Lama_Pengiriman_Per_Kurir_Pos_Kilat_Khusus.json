@@ -1,0 +1,46 @@
+{
+  "id": "d3da2cbd-0a67-4d23-bad9-56df285f9804",
+  "parentId": "48042273-2cbb-4744-9953-5ebf7b459b3b",
+  "rootParentId": "62328066-6ba6-453c-b337-f9f221db5f6f",
+  "name": "FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir_Pos_Kilat_Khusus",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir_Pos-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ddecbfde-b063-431f-9ef1-23b1904e1e11",
+          "required": false,
+          "dataType": "@layanan_kurir_reguler",
+          "name": "layanan_kurir_reguler",
+          "value": "$layanan_kurir_reguler",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Estimasi waktu pengiriman Pos Indonesia dengan layanan Kilat Khusus adalah 2-9 hari kerja ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528174010,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "kilat_khusus"
+    }
+  ]
+}

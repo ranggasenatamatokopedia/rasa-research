@@ -1,0 +1,53 @@
+{
+  "id": "d65671bd-00e6-484c-a949-9c74ba683da9",
+  "parentId": "00651ea0-58f7-4f89-8ef4-62842ed95af4",
+  "rootParentId": "90b4ed65-34d8-4fd4-a8f8-c87e563d6528",
+  "name": "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_gratisongkir_tukarkupon_reject_full",
+  "auto": true,
+  "contexts": [
+    "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_gratisongkir_tukarkupon-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_gratisongkir_tukarkupon_reject_full-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sesuai dengan S\u0026K kak Mulai tanggal 14 Maret 2018, kalau 1 pembayaran ada beberapa invoice, salah satunya di tolak penjual, maka kupon ini terhitung sudah digunakan, dan dana nominal ongkir dari invoice yang batal, kita kembalikan ke tokocash kamu kak"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sedangkan apabila 1 pembayaran hanya ada 1 invoice, kupon nya akan dikembalikan ke halaman \"Kupon Saya\" di akun kamu, dan bisa dugunakan lagi"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau di akun kamu belum ada, bantu lampirkan screenshoot halaman Kupon Saya dari akun kamu ya kak"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523508600,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "reject_by_seller_full"
+    }
+  ]
+}

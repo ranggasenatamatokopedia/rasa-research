@@ -1,0 +1,43 @@
+{
+  "id": "811b3d36-bcd7-414d-a0d5-94474157efe4",
+  "parentId": "8e481f2a-5e61-47c3-9cc7-acb050c8f555",
+  "rootParentId": "0c60f8a5-c89d-4057-9ddc-8071a3ac4418",
+  "name": "Order_Tidak_Bisa_Input_Resi_Select_Inv_Insert_AWB_Is_Success",
+  "auto": true,
+  "contexts": [
+    "Order_Tidak_Bisa_Input_Resi_Select_Inv_Insert_AWB-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Order_Tidak_Bisa_Input_Resi_Select_Inv_Insert_AWB_Is_Success-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped sudah bantu input nomor resi kamu pada invoice tersebut, ya. Kamu bisa melakukan pengecekan berkala pada status pengirimannya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538021843,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "is_success"
+    }
+  ]
+}

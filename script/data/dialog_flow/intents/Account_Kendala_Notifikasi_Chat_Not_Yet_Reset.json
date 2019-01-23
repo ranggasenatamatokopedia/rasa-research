@@ -1,0 +1,43 @@
+{
+  "id": "8c44e235-43dc-49c6-b778-032d4eb8c7f1",
+  "parentId": "351f99d8-fc3c-466c-8029-3dd96501d2ca",
+  "rootParentId": "35ea81e4-4843-4cfe-b8fd-335f2f7a0eea",
+  "name": "Account_Kendala_Notifikasi_Chat_Not_Yet_Reset",
+  "auto": true,
+  "contexts": [
+    "Account_Kendala_Notifikasi_Chat-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ResetChatNotificationbyUserID",
+      "affectedContexts": [
+        {
+          "name": "Account_Kendala_Notifikasi_Chat_Not_Yet_Reset-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu sebentar ya, Toped sedang menyesuaikan notifikasi yang tidak sesuai di akun kamu."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533870974,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "not_yet_reset"
+    }
+  ]
+}

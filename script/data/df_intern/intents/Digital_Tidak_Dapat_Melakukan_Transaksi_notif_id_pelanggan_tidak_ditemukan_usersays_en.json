@@ -1,0 +1,179 @@
+[
+  {
+    "id": "9029f9a4-ee87-4742-b99d-4511d82a44eb",
+    "data": [
+      {
+        "text": "tiga",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "db1db075-a65d-4068-99d7-df11a3640b80",
+    "data": [
+      {
+        "text": "tigaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "777a5d01-0454-450c-917f-7c366efcd1a9",
+    "data": [
+      {
+        "text": "ketiga",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0030d86c-d7aa-4d60-9704-9bc8d7a26f16",
+    "data": [
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "11abc8ee-92ef-4b28-a983-8a30ab5ccba7",
+    "data": [
+      {
+        "text": "num ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "37d17b33-35df-4fe2-bb06-6b14d366fbf4",
+    "data": [
+      {
+        "text": "ke-3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d9c91018-8abc-4c82-8b70-6eb830632e94",
+    "data": [
+      {
+        "text": "nomor ",
+        "userDefined": false
+      },
+      {
+        "text": "tiga",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4bea878f-2378-4ee1-871d-da13623a0a14",
+    "data": [
+      {
+        "text": "ke ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "22806d96-11e5-41a4-ae5d-91c3126a8ad7",
+    "data": [
+      {
+        "text": "nomor ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d6dcb312-1f44-4c89-9006-72f4106170c4",
+    "data": [
+      {
+        "text": "yang ",
+        "userDefined": false
+      },
+      {
+        "text": "ketiga",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "834d25fd-204b-4a95-a243-82c83bede003",
+    "data": [
+      {
+        "text": "no ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "682a4f21-6e44-4a52-8e3e-6025697861d3",
+    "data": [
+      {
+        "text": "yg ktiga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "46249cd8-386b-40db-b4e5-a52d0084bfdd",
+    "data": [
+      {
+        "text": "Nomor/Id pelanggan tidak ditemukan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

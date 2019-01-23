@@ -1,0 +1,40 @@
+{
+  "id": "1779db74-eaf4-4259-832c-c496df1d00e8",
+  "parentId": "66f54922-9ef9-4ea7-bafd-540f46f81c7c",
+  "rootParentId": "9413a6be-1e59-431f-b086-229dfc670fe6",
+  "name": "TOKOPOINT_Transaksi_berhasil_tapi_tidak_mendapatkan_lucky_egg_not_exists",
+  "auto": false,
+  "contexts": [
+    "TOKOPOINT_Transaksi_berhasil_tapi_tidak_mendapatkan_lucky_egg_select_invoice_success-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CheckIsTokenActive",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Transaksi_berhasil_tapi_tidak_mendapatkan_lucky_egg_not_exists-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523434504,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_is_not_fraud"
+    },
+    {
+      "name": "invoice_does_not_exist_in_sauron"
+    }
+  ]
+}

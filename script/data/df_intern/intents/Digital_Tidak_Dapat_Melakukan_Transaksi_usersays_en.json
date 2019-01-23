@@ -1,0 +1,2851 @@
+[
+  {
+    "id": "17de0262-28db-494c-96ba-14d7afa8278b",
+    "data": [
+      {
+        "text": "Saya mau beli token ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini juga",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kenapa tidak bisa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4edf11b0-559a-4175-a2d9-6ed630a79ee1",
+    "data": [
+      {
+        "text": "Gagal transaksi, mengapa yah tidak ada keterangan sudah berkali dicoba tetap gagal, saya gunakan voucher apa karena itu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4cffb05d-56fb-45d9-9fc4-cd8ab44759aa",
+    "data": [
+      {
+        "text": "Hari ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya mencoba beberapa kali untuk membayar tagihan ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " via toped tapi selalu gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f1e662ee-d010-4342-b9fe-1b702cc31675",
+    "data": [
+      {
+        "text": "pak saya minta tolong kenapa klu beli paket data...tidak berhasil..padahal saya udh tukar point sya..biar dpt cash back....barusan ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " x beli tidak berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7bd4ed11-198b-454b-9c5a-6e0dd3465f4c",
+    "data": [
+      {
+        "text": "pagi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya mau transaksi beli token PLN, sudah sejak ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " jam yang lalu selalu kendala teknis, ada apa ya? kalau memang tidak bisa saya mau transaksi via marketplace lainnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "177c2d60-5426-4292-8598-f1575b65983e",
+    "data": [
+      {
+        "text": "Bayar ",
+        "userDefined": false
+      },
+      {
+        "text": "cc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Citibank gagal terus ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", apa sedang Ada kendala?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e2e20a52-bb4a-4b4c-bd7b-fc6d589595a7",
+    "data": [
+      {
+        "text": "Halo, kenapa tidak bisa bayar tagihan ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " oagi ini sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4dced655-fdec-4ca1-951e-61663be6d324",
+    "data": [
+      {
+        "text": "Tdk bisa bayar ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "BNI",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b5f6c957-d386-46ef-b7bf-d52ece42cc69",
+    "data": [
+      {
+        "text": "Saya tidak bisa melakukan pembayaran ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "99c09984-a585-40a4-a75f-789fb8f03486",
+    "data": [
+      {
+        "text": "Ada kendala pembayaran ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "BNI",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a6dbe8c3-32f5-4947-bc52-833da73c9ac4",
+    "data": [
+      {
+        "text": "Waktu saya mau beli token PLN, tidak bisa input. ada pesan error: Terjadi kendala teknis, silakan coba beberapa saat lagi. Kenapa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "745b3bfd-2cd7-4122-8efa-b345c08c6991",
+    "data": [
+      {
+        "text": "saya ga bisa top up emoney karna ada error",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1ef1e77b-74ea-42af-8e43-62797b5c2031",
+    "data": [
+      {
+        "text": "gak bisa bayar tagihan pascabayar, ada notifikasi error yg muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7d3f6750-a232-4ca8-8f9d-0c8d583f8e9d",
+    "data": [
+      {
+        "text": "saya gak bisa beli m-tix. ada error yg muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2696e757-fa2e-498e-9556-dd3fea70e099",
+    "data": [
+      {
+        "text": "saya gak bisa bayar tagihan telepon, karna ada notifikasi error yg muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f5ffe576-ae36-417e-92d0-35926aec48b3",
+    "data": [
+      {
+        "text": "saya tdk bisa bayar gas pgn, karna ada notif eror nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3f6dd893-220c-446e-b7fc-dd1175aa7ef0",
+    "data": [
+      {
+        "text": "saya tdk bisa bayar tagihan ",
+        "userDefined": false
+      },
+      {
+        "text": "cc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", karna ada notif eror nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "91c3434e-6fc9-4f18-8a1b-1f14ccb01cf6",
+    "data": [
+      {
+        "text": "saya tidak bisa bayar tagihan ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", ada notifikasi eror",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "940ce963-da89-4e47-9342-038236fa8eaa",
+    "data": [
+      {
+        "text": "saya gak bs beli voucher roaming, ada notif eror",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "52bad02b-e684-4326-92a1-b61f03f389f2",
+    "data": [
+      {
+        "text": "gak bisa bayar listrik pln, soalnya ada notifikasi eror",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b968932e-3496-4a41-96c6-66e837252a44",
+    "data": [
+      {
+        "text": "gak bisa beli tiket event, ada notif eror",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fb158cb7-707b-48ff-8ea0-5886733dc4d7",
+    "data": [
+      {
+        "text": "gak bisa bayar tagihan air pdam, karna ada notif eror",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "63458a78-df57-451e-b81a-2b75cb83889c",
+    "data": [
+      {
+        "text": "gak bisa bayar tagihan bpjs, ada notif erornya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1c6b9485-3278-42e4-93b9-36ca44351299",
+    "data": [
+      {
+        "text": "tdk bisa bayar tagihan listrik, ada notif eror nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "789c9fcc-a0f4-435d-ae0a-6195102556ec",
+    "data": [
+      {
+        "text": "gak bisa beli voucher deals kfc, ada notif eror juga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a75f2f69-bf1d-4724-8ced-fb4fce93da8d",
+    "data": [
+      {
+        "text": "gak bisa beli voucher streaming, muncul notifikasi eror",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "05280e38-9040-4121-9da9-99afc4e9daf1",
+    "data": [
+      {
+        "text": "gak bisa beli voucher game, ada notif eror yg muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cdc8e796-efe4-4dba-b634-86e996c8d70e",
+    "data": [
+      {
+        "text": "gak bisa beli pulsa, muncul notifikasi error",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "56333301-6979-418f-997e-352e4e285ce1",
+    "data": [
+      {
+        "text": "gak bisa beli tiket hiburan, muncul notif eror",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ce3e751a-edd3-4be4-95e5-9cba47c3969a",
+    "data": [
+      {
+        "text": "kenapa gak bisa transaksi paket data?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "252e4aee-b287-455d-ad11-fcf9892801b9",
+    "data": [
+      {
+        "text": "kenapa saya gak bisa membeli tiket hiburan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0fd9e2f8-8eff-424c-924f-53c4ab126cd8",
+    "data": [
+      {
+        "text": "kenapa saya gak bisa bayar tagihan listrik ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6f15f433-53ac-4a35-861d-094dcd86283d",
+    "data": [
+      {
+        "text": "saya tidak dapat bertransaksi tiket hiburan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "210d6531-15ed-4c47-b492-458931d34e92",
+    "data": [
+      {
+        "text": "tagihan bpjs saya tidak bisa dibayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5ede0642-9ff4-4b2e-be67-7bcb848d6802",
+    "data": [
+      {
+        "text": "tagihan air pdam saya tidak bisa dibayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9f178ca1-54a2-482f-b466-02e6e9c4b46f",
+    "data": [
+      {
+        "text": "tagihan ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak bisa dibayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3
+  },
+  {
+    "id": "7b18546b-0c21-4a22-93f6-ec6b6a0b7eb6",
+    "data": [
+      {
+        "text": "saya tidak bisa membayar tagihan bpjs saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "92aa362c-5e37-4551-ba8c-c3d3853b8123",
+    "data": [
+      {
+        "text": "saya tidak bisa bayar tiket hiburan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "96e23834-85b2-44cf-8df7-fd15107b8de0",
+    "data": [
+      {
+        "text": "saya mau bayar tagihan air pdam, tp gak bisa nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e89c3c8d-cab7-4987-95a4-20693cc279b3",
+    "data": [
+      {
+        "text": "saya mau bayar tagihan telepon, tp kenapa tidak bisa min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ebef322f-5eae-4f1b-a032-8c7392a4fe3e",
+    "data": [
+      {
+        "text": "saya mau beli voucher deals, tp kenapa tidak bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1e8543fe-e0d9-46a4-a04b-9871dddf96af",
+    "data": [
+      {
+        "text": "saya mau beli voucher game, tp kenapa tidak bisa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "50429b22-64da-4b81-853b-d749c5b1924e",
+    "data": [
+      {
+        "text": "saya mau beli pulsa, tp kenapa tidak bisa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4190c5e8-e163-4304-98ee-a7dea038e55c",
+    "data": [
+      {
+        "text": "tidak bisa bayar pulsa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6e78cd58-0fee-4220-8ed2-a5a15026b3ba",
+    "data": [
+      {
+        "text": "tidak bisa bayar token listrik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2cb2fcab-6c86-41f3-9ef4-64a013c98ebf",
+    "data": [
+      {
+        "text": "gak bisa bertransaksi voucher streaming",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "38afa77b-e49b-4c47-854f-2065e9d1619a",
+    "data": [
+      {
+        "text": "gak bisa beli token listrik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ee945b84-4a26-4bbc-9b24-3f5d4f9119a2",
+    "data": [
+      {
+        "text": "gak bisa bayar tagihan listrik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f7540f1e-1ca7-4a23-854d-8b2dc4d9ae4e",
+    "data": [
+      {
+        "text": "gak bisa bayar paket data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "41543de3-897a-4f74-be48-7f97be71c165",
+    "data": [
+      {
+        "text": "gak bisa bayar pulsa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f50d1db7-096e-45bc-a531-fcc57f29bc22",
+    "data": [
+      {
+        "text": "gak bisa melakukan transaksi voucher game",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d2761192-cbe0-44f8-a962-55e2fb3c0884",
+    "data": [
+      {
+        "text": "gak bisa bertransaksi paket data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ffc2d41e-c2c4-4e9f-9734-87eb3ea0af5c",
+    "data": [
+      {
+        "text": "gak bisa transaksi pulsa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0baa6f1b-6444-4496-8704-f19a20a7052b",
+    "data": [
+      {
+        "text": "Setiap kali mau bayar tagihan tv kabel telkom indihome melalui toped, selalu muncul pesan: terjadi kendala teknis. Kenapa ya? Tolong dicek...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0169f32c-579f-45d2-8a6e-65d5d4a92cf2",
+    "data": [
+      {
+        "text": "produk emoney kenapa tidak bisa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "295910a4-eeb9-4ab3-90d9-98288b62b136",
+    "data": [
+      {
+        "text": "kenapa saya gabisa transaksi bpjs? diinformasikan bahwa stok habis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dd04ba5e-4ad7-4c41-827d-b216f44fb9a5",
+    "data": [
+      {
+        "text": "kenapa saya bayar pajak bumi dan bangunan tidak bisa yaa..padahal saya memaaukkan nomor pajaknya benar..tlng di.bantu untuk pembayaran tagihan pajak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6cc74210-e67b-437a-b8f7-44a70df89a43",
+    "data": [
+      {
+        "text": "Tidak bisa transaksi pulsa. Muncul eror \"akun anda telah melebihi batas pembelian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "307396ae-0821-4a2c-9b7e-653c2d89b0df",
+    "data": [
+      {
+        "text": "sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " msh blm bs trx bpjs krn tertulis akun mlebihi batas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7b39d615-d179-412e-9f0b-b5a37c003c4c",
+    "data": [
+      {
+        "text": "tidak bisa melakukan transaksi pembelian streaming",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eb65236a-7e6b-41ee-951c-e2c8451549bd",
+    "data": [
+      {
+        "text": "Tidak dapat melakukan transaksi TV Kabel CBN",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "343b9906-d42a-448c-bdd9-ffb0a02d0568",
+    "data": [
+      {
+        "text": "tidak bisa transaksi pln pasca, \"melebihi batas pembelian\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "49afce2e-47bb-4d2a-a613-bb3b1bc80a62",
+    "data": [
+      {
+        "text": "Saya ingin melakukan pembayaran BPJS untuk bulan ",
+        "userDefined": false
+      },
+      {
+        "text": "Juni",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2018",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tapi ada tulisan \"STOK HABIS\" sampai bulam ",
+        "userDefined": false
+      },
+      {
+        "text": "Mei",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2019",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Itu masalahnya kenapa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f20f66df-1496-4c0d-8ad0-5601abc91347",
+    "data": [
+      {
+        "text": "NOP",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " yg saya masukan di bilang salah, apakah untuk pembayaran PBB kabupaten tangerang tidak bisa dilakukan di toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1cca0787-43e5-40b7-a76f-3871a03c264e",
+    "data": [
+      {
+        "text": "Tidak dapat melakukan pembayaran kartu hallo krn kendala teknis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3b861b20-c3cc-4f6a-bca4-f8d245e20802",
+    "data": [
+      {
+        "text": "tidak bs bertransaksi bpjs nih ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "425f7956-605e-40a0-8c92-ef8b9f21f207",
+    "data": [
+      {
+        "text": "saya ingin bayar tagihan pdam. tiap kali mencoba muncul \"terjadi kesalahan teknis, silakan mencoba beberapa saat lagi\". Apakah tidak bisa melakukan transaksi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e55eae8c-6a11-44d1-b543-99adba1b98bc",
+    "data": [
+      {
+        "text": "tidak bisa transaksi utk produk emoney",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "185fe77f-4e27-4a2e-a57a-401ac8e37c3f",
+    "data": [
+      {
+        "text": "no objek pajak tidak terdaftar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ee0d20c0-45a3-49b0-8117-357ba85aa45f",
+    "data": [
+      {
+        "text": "Setiap pembelian pulsa, akun saya melebihi batas pembelian. Tolong di bantu admin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bebba26e-21c8-44fc-91f2-0bd073432628",
+    "data": [
+      {
+        "text": "akun anda melebihi batas pembelian. ini sampai brp lama? lewat ",
+        "userDefined": false
+      },
+      {
+        "text": "pc",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " muncul ini.....lewat topseller...muncul... : produk blm tersedia..... trs gmn saya melayani pmbyaran pdam?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "50d4eee4-fa36-4678-9430-095f645d9461",
+    "data": [
+      {
+        "text": "tidak bisa bayar pulsa...kendala teknis terusss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0eb64540-3c00-4532-b18c-c2d0c3d7eece",
+    "data": [
+      {
+        "text": "Halo Tokopedia, Saya berkali-kali mencoba membayar PDAM melalui Tokopedia tetapi selalu gagal? Kenapa yaa? Sedangkan pembayaran telah berhasil dan kabupaten saya ada dalam daftar tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2ce7f44c-d857-4104-af5c-a0b4734510c8",
+    "data": [
+      {
+        "text": "tidak dapat melakukan transaksi pembayara listrik, akun anda telah melebihi batas pembelian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3f0425a6-8598-4ad3-8e79-46cb56107060",
+    "data": [
+      {
+        "text": "saya mengalami kendala tidak dapat melakukan transaksi pembayaran angsuran kredit di Al-Ijarah Finance. Setiap sy klik bayar selalu loading lama, lalu muncul notifikasi server error/kendala teknis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c461fddd-741e-47fb-9ca0-6acc8c9ef716",
+    "data": [
+      {
+        "text": "Bulan ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya baru sekali melakukan pembayaran PDAM, untuk pembayaran nomor pelanggan selanjutnya dikatakan saya telah melebihi batas transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "40ce8e15-29f5-4e0c-8feb-fdd3debdb10c",
+    "data": [
+      {
+        "text": "Setelah menginput ",
+        "userDefined": false
+      },
+      {
+        "text": "NOP",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", ada notifikasi nomor obyek pajak anda tidak sesuai. Kok bisa begitu ya..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "43166ee1-d0c1-4ecb-8b16-e7bccc387487",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ada notif stok habis saat saya ingin transaksi bpjs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "07b18f3f-312e-4063-b893-cd67ba01a220",
+    "data": [
+      {
+        "text": "tolong dicek dengan no pdam ",
+        "userDefined": false
+      },
+      {
+        "text": "1202256",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". saya masukan ",
+        "userDefined": false
+      },
+      {
+        "text": "berulang2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kali tetep aja padahal udh sering bayar pdam lewat tokped. baru ini aja kode salah salah katanya padahal udh bener masukin kodenya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6e6a8d39-d8da-41d0-91cb-0b5bd3ec0fc4",
+    "data": [
+      {
+        "text": "Kenapa akun sy tdk dapat transaksi di PDAM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f6300981-ca0c-4b2b-9196-133d219f2343",
+    "data": [
+      {
+        "text": "Halo Tokopedia, Saya berkali-kali mencoba membayar PDAM melalui Tokopedia tetapi selalu gagal? Kenapa yaa? Sedangkan pembayaran telah berhasil dan kabupaten saya ada dalam daftar tokopedia.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8d7ef4a5-1dda-48b1-9354-052cc765c861",
+    "data": [
+      {
+        "text": "Setiap mau transaksi selalu muncul tulisan : AKUN ANDA TELAH MELEBIHI BATAS PEMBELIAN, Jadi tidak bisa transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "227d2ec8-6053-4a0b-99bf-744d2e410067",
+    "data": [
+      {
+        "text": "tidak bisa melakukan transaksi pembelian pulsa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e54ef9fe-41c0-4199-bb89-a64698371b49",
+    "data": [
+      {
+        "text": "tidak bisa transaksi dengan keterangan : akun anda telah melebihi batas pembelian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9121f940-75ab-489e-b3c9-eb71c31b0d4e",
+    "data": [
+      {
+        "text": "Saya baru saja ingin membayar pajak di tokopedia namun saat memasukan nomor objek pajak, bertuliskan \"Nomor Objek Pajak anda tidak sesuai\" padahal nomor yang dimasukkan sudah terdaftar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6da11ca6-7a59-4c2b-84be-9fa8da45d43d",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kenapa saya tidak bisa transaksi emoney ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "97e5e410-ff7e-4f0e-b3cd-a9e1d9b1ccf4",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya tidak bisa transaksi utk e-money",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "15b125ee-248d-48a7-b9b4-909c345269cd",
+    "data": [
+      {
+        "text": "saya coba membayar pajak bumi dan bangunan tetapi muncul keterangan nomer yang di masukan tidak sesuai.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "14fd9252-54db-47dc-8f8c-bddf353ba724",
+    "data": [
+      {
+        "text": "tidak bisa transaksi pembelian voucher games",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4e1c3c84-3eac-4235-8ef3-2ee7e76124ee",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kok saya gabisa transaksi bpjs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3ca2d359-4110-460e-aa4c-bebf521ac961",
+    "data": [
+      {
+        "text": "saya tidak bisa transaksi e-money, diberitahukan produk sedang gangguan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a2439904-26fa-49a2-b349-a73c333225ca",
+    "data": [
+      {
+        "text": "Tidak bisa transaksi, Akun anda telah melampaui batas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d45209a9-3e4f-4ed0-b5aa-efc6dc1790d9",
+    "data": [
+      {
+        "text": "Saya ingin membayar tagihan pdam. Namun setelah saya memilih wilayah dan memasukkan no pelanggan, setiap kali saya mencoba muncul \"terjadi kesalah teknis, silahkan mencoba beberapa saat lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1f0a0a4a-730b-4809-9c8c-8834670ac40d",
+    "data": [
+      {
+        "text": "dr tgl ",
+        "userDefined": false
+      },
+      {
+        "text": "14",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Juni",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sy ingin melakukan pembayaran angsuran BFI yg telah jatuh tempo tp sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "skrg",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak bisa. selalu muncul tulisan terjadi kendala teknis dibagian bawah.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dac21a50-658f-4d78-b5a3-6be6fe4df9f0",
+    "data": [
+      {
+        "text": "saat mau lakukan pembayaran, tertera stok habis. jadi bisa lakukan pembayaran jam berapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4ad3dc55-69a6-4c69-bb19-b258f3bf8cba",
+    "data": [
+      {
+        "text": "saya tidak bisa membayar angsuran , selalu muncul terjadi kesalahan teknis terus, gimana nih. tolong lah di perbaiki",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "122a5ef6-5431-4136-996f-c9f0365c106e",
+    "data": [
+      {
+        "text": "saya ingin melakukan pembayaran angsuran FIF tapi no kontrak selalu tdk bs ditemukan salah no kontrak terlampir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "49755df5-9455-4055-b5a6-a363cb444839",
+    "data": [
+      {
+        "text": "saya sudah memasukan nomer sppt ",
+        "userDefined": false
+      },
+      {
+        "text": "18",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " angka tapi setelah klik beli tertulis bahwa nomer objek yang saya masukan salah. bisa tolong di bantu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "db43e234-45fe-4b2d-9079-e5153fb2e96e",
+    "data": [
+      {
+        "text": "mohon bantuannya om, saya tidak bisa membayar atau melakukan transaksi paket data atau internet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7a15a2e0-c851-402c-92ce-73dd0c728aad",
+    "data": [
+      {
+        "text": "Kenapa setiap mau bayar BPJS kesehatan sejak bulan ",
+        "userDefined": false
+      },
+      {
+        "text": "april",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak bisa dan ada tulisan STOK HABIS ,mohon info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "58e39332-d1a9-4d59-9c43-53b5237b9cc1",
+    "data": [
+      {
+        "text": "Saya sudah masukkan nomor objek pajak sesuai surat pemberitahuan pajak terutang pajak bumi dan bangunan ",
+        "userDefined": false
+      },
+      {
+        "text": "tahun 2018",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", namun selalu gagal, dinyatakan bahwa nomor objek pajak tidak ditemukan. Saya domisili di jogja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "521ed983-5237-4c4c-a329-5ce87dbc752f",
+    "data": [
+      {
+        "text": "Selalu muncul notifikasi kendala teknis ketika ingin membayar tagihan pascabayar, walaupun sudah dicoba berkali-kali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f18a1d7d-8a12-477a-937a-ff95d0432212",
+    "data": [
+      {
+        "text": "mau melakukan pembayaran pbb, no ",
+        "userDefined": false
+      },
+      {
+        "text": "nop",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sudah dimasukkan tp tidak terdeteksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cc6da0ec-66be-4f8e-a543-eba337eef1cd",
+    "data": [
+      {
+        "text": "Saya mau bayar PBB. Ketika dimasukan ",
+        "userDefined": false
+      },
+      {
+        "text": "NOP",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " muncul keterangan jika nomor tidak sesuai. Padahal selama ini saya bayar melalui Bank Jabar tidak ada masalah apapun.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b078b008-bf36-4fa1-b0c2-49a2790f17f0",
+    "data": [
+      {
+        "text": "utk PBB kota Medan.. apakah bisa ",
+        "userDefined": false
+      },
+      {
+        "text": "byr",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " melalui Toko Pedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9f635043-ce3b-4280-b3f6-f9d7e5542199",
+    "data": [
+      {
+        "text": "Halo, sy mau beli pulsa, kok ngak bisa ya, tertulis Akun anda telah melebihi batas pembelian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "142cd192-a00f-4644-8478-eccd110df9ab",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya tidak bisa transaksi emoney",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3f414de3-f85d-47b9-a05f-9db21fe9ea7a",
+    "data": [
+      {
+        "text": "saya mau bayar telkom tetapi ada notif kalau akun saya melebihi batas pembelian. biasanya saya lebih banyak transaksi tetapi baru kali ini ada notif spt itu.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d6db5092-35b3-4d85-be52-f7de88253667",
+    "data": [
+      {
+        "text": "saya tidak dapat melakukan transaksi. akun terbatasi. saya ingin bayar pascabayar halo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "65b83647-ae32-43be-99c8-bffb08696302",
+    "data": [
+      {
+        "text": "Kenapa saya tidak bisa melakukan transaksi pembayaran air? Itu melebihi batas apa yg dimaksud?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0ccd7d6e-43ef-43f2-9ae1-9bc8796c3f7c",
+    "data": [
+      {
+        "text": "setelah input ",
+        "userDefined": false
+      },
+      {
+        "text": "NOP",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan menekan tombol beli.. muncul keterang nomor anda tidak sesuai... pasahan NOPnya sudah sama pada surat PBBnya...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "076eda67-16fc-4d99-991b-1f1437cd8b6c",
+    "data": [
+      {
+        "text": "saya ingin melakukan pembayaran pajak pbb, namun ketika input nomor objek pajak ternyata salah, padahal sudah sesuai dengan sppt nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b5f5dfff-39ec-4c1b-887a-32da2cc732af",
+    "data": [
+      {
+        "text": "saya mencoba bayar PBB lewat toko pedia tapi selalu gagal, alasannya nomer ",
+        "userDefined": false
+      },
+      {
+        "text": "NOP",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya salah. Saya juga mencoba memasukkan ",
+        "userDefined": false
+      },
+      {
+        "text": "NOP",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " lain yg sdh dibayar melalui bank, tapi hasilnya sama ",
+        "userDefined": false
+      },
+      {
+        "text": "bahwa NOP yg diketikkan salah.",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "345ccaff-0002-498e-9063-796a2c8afb50",
+    "data": [
+      {
+        "text": "Kenapa saya mau bayar PbB saya dgn nomer ini tapi tidak bisa??? ",
+        "userDefined": false
+      },
+      {
+        "text": "352502001600703740",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". dibilang kalo nomer saya tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "02aaf885-6c28-4f22-93ef-1e57a261b24b",
+    "data": [
+      {
+        "text": "Nomor objek pajak saya tidak valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "302c9c19-96b8-4bfc-a666-dcf508cea6ec",
+    "data": [
+      {
+        "text": "mau membayar pbb tp ketika dimasukan ",
+        "userDefined": false
+      },
+      {
+        "text": "nop",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kok nda bisa ya, ",
+        "userDefined": false
+      },
+      {
+        "text": "nop",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nya ",
+        "userDefined": false
+      },
+      {
+        "text": "332105000700200360",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "675c0c5e-8041-4fbc-8fd4-2baf85985e2a",
+    "data": [
+      {
+        "text": "Setiap kali saya ingin melakukan transaksi ada notifikasi akun anda telah melebihi batas pembelian. ini kenapa ya? karena saya tidak bisa sama sekali melakukan pembelian pulsa.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bba9bedf-e68c-4dae-9971-643e3c0503b6",
+    "data": [
+      {
+        "text": "Saya selalu gagal bertransaksi di tokopedia perihal pembelian pulsa, sudah ada ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kali. sangat kecewa dengan pelayanan ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "23fd61d4-62f0-4b8d-9302-2c60c280ddaf",
+    "data": [
+      {
+        "text": "kenapa yaa dari bulan ",
+        "userDefined": false
+      },
+      {
+        "text": "april",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "saat ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya coba bayar pdam karawang selalu tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "90fafd8f-64c9-4fb2-a3cc-639b01737b04",
+    "data": [
+      {
+        "text": "Saya dimaklumkan bahawa akun saya sudah melebihi batas pembelian. Apa yang perlu saya lakukan sekiranya ingin melakukan pembelian lagi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "95ecb15d-38e8-46b9-b1ed-b775e291c664",
+    "data": [
+      {
+        "text": "Saya ingin melakukan pembyaran pbb namun ",
+        "userDefined": false
+      },
+      {
+        "text": "NOP",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tersebut tidak valid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4c866531-d250-4f47-aedc-a494ee532278",
+    "data": [
+      {
+        "text": "Barusan mau beli token listrik prabayar seperti biasa, namun tidak berhasil dan muncul error message: Akun Anda telah melebihi batas pembelian.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bfc4db66-8425-468c-95b9-81ec88c3ca69",
+    "data": [
+      {
+        "text": "saya beberapa kali mau bayar Pbb ",
+        "userDefined": false
+      },
+      {
+        "text": "2018",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " selalu ga bisa. disebutkan no yg anda masukkan tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "707c403c-4ad3-404a-b39f-aa60d71ed800",
+    "data": [
+      {
+        "text": "saya akan melakukan pembayaran PBB koq gak bisa ya. saya cek nomor nya benar...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e4b7d641-8555-46a3-bcb1-47c0586acb1d",
+    "data": [
+      {
+        "text": "mau tanya pembayaran pbb no njop:",
+        "userDefined": false
+      },
+      {
+        "text": "351510000402604340",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kenpa ngga bisa yah.tks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e617c2ca-fb7f-41b9-87de-b7223ce9fb89",
+    "data": [
+      {
+        "text": "Tidak bisa membayar PBB YOGYAKARTA. Nomor ",
+        "userDefined": false
+      },
+      {
+        "text": "NOP",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " TIDAK DITEMUKAN. Lokasi Obyek Pajak di YOGYAKARTA.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9cd9d2f2-44c2-43b7-a89f-5c940866ab0f",
+    "data": [
+      {
+        "text": "pembayaran tagihan PDAM saya koq belum diproses ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3e469f87-bf40-4179-9840-44b5d6065acf",
+    "data": [
+      {
+        "text": "belum terkonfirmasi pesanan tiket kereta saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "68cb1880-0342-469f-abc3-22928da2115f",
+    "data": [
+      {
+        "text": "plsa saya pending",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "474d1326-a20b-42c4-bf58-280beeca6af6",
+    "data": [
+      {
+        "text": "saya ada kendala untuk isi pulsa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e4529e77-ecad-4903-a131-4338c6c6b9cb",
+    "data": [
+      {
+        "text": "saya beli paket data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dcae4374-b773-48fc-9898-39bf27c8d79b",
+    "data": [
+      {
+        "text": "SAYA TRANSAKSI PENGISIAN KUOTA 2X GAGAL DAN KEMBALI YANG KE3 JUGA MASIH MENUNGGU. BERAPA LAMA LAGI SAYA HARUS MENUNGGU ?!!!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2ea79d1b-129a-4c32-b118-9b8810f73497",
+    "data": [
+      {
+        "text": "kata operator masuk, tp sy cek gk masuk... sudah 2 kali ini sy beli paket data di tokopedia sama kayak ini....",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cd171692-6235-44b9-ba92-db1b68208ec2",
+    "data": [
+      {
+        "text": "tapi transaksi saya tidak berhasil dan hilang dari daftar transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2b88825d-7307-4d52-98d1-92777e828999",
+    "data": [
+      {
+        "text": "syal isi pulsa kok gagal terus ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "75df890e-a108-45ac-99b2-d2016370e04d",
+    "data": [
+      {
+        "text": "kendala pembayaran angsuran kredit bfi dgn no 4021701204 tdk bisa diproses. notifnya database error. mohon bantuannya. tq",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7839f86f-f661-40d1-af3d-478c5e7e7b07",
+    "data": [
+      {
+        "text": "Knp ya dr kmrn mau bayar tagihan pdam gak bs..tlg dicek ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ddadc1ea-5ce5-4eb1-b13d-e079c817845c",
+    "data": [
+      {
+        "text": "saya tdk bisa bayar tagihan2 bpjs, pln dll, bila di klik tombol bayar layar langsung pindah ke halaman pembelian pulsa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f24e3f58-a3ec-4357-8b14-c6049396cb61",
+    "data": [
+      {
+        "text": "saya tdk bs checkout mau beli tiket kickfest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ab2dd61b-227f-47bf-89e0-c25df4671fdf",
+    "data": [
+      {
+        "text": "mau melakukan pembayaran cc knp gak bisa? apa lagi error?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2ccc7f0f-e754-4910-9fdb-3492cbc6074b",
+    "data": [
+      {
+        "text": "pembayaran kartu kredit kok gagal melulu ya. sudah diendapin 3 hari masih gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "64eb6904-87eb-486d-92ac-e762e6e1ce59",
+    "data": [
+      {
+        "text": "saya tidak bisa transaksi listrik, ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "09530fdd-ff8c-4d9f-aea2-ec2580bc4489",
+    "data": [
+      {
+        "text": "Tidak bisa bayar LISTRIK,  begitu klik Bayar malah masuk ke Menu beli pulsa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "52c0cdee-ed20-4701-8832-1f7d9cb035ed",
+    "data": [
+      {
+        "text": "knp saya setiap mau transaksi bayar cicilan sllu tulisan akun anda melebi batas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9e000aa2-979a-47c1-a0b2-29531545351b",
+    "data": [
+      {
+        "text": "Mau melakukan pembayar tiket kereta api. Akan tetapi waktu sudah habis. Dan pas saya mau beli tiket lagi. Tp selalu gagal dengan alasan nama penumpang sudah ada terus.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "23bef6f9-ddc1-42bf-b636-9d685a7e9676",
+    "data": [
+      {
+        "text": "mau beli PUBG STEAM KEY kok nggak bisa ? atau emang udah di hapus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "85f618e6-4ad0-42f2-a49c-1d588e921ccc",
+    "data": [
+      {
+        "text": "tidak bisa melakukan pembayaran angsuran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7de91630-3bf9-4b81-9cd2-8e2c5a45dd60",
+    "data": [
+      {
+        "text": "tidak dapat membeli token listrik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fc696d89-9cdd-40b9-8b94-0f67f5e7dcb4",
+    "data": [
+      {
+        "text": "kenapa saya selalu error waktu ingin membayar tagihan kartu kredit BNI?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c9496c72-d56b-437c-b2e7-61c1a3cbf886",
+    "data": [
+      {
+        "text": "kenapa saya tidak bisa beli pulsa listrik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d2a69cc8-1670-4433-ba90-1518b38311ba",
+    "data": [
+      {
+        "text": "saya sudah 2x coba transaksi digital tetapi kenapa selalu gagal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c9005b6a-6348-4b4d-b4b8-f673edb329ec",
+    "data": [
+      {
+        "text": "saya tdk bisa beli token listrik, kenapa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "00581b69-2599-4901-ad2f-062938b46555",
+    "data": [
+      {
+        "text": "selamat malam, saya mau beli pulsa knp gak bisa, uangnya malah dikembalikan ke saldo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "afc57b5e-ff43-43e6-905d-2c790719bdf4",
+    "data": [
+      {
+        "text": "Kenapa byr BPJS TK masih belum bisa juga ya sd hr ini?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "424b95a1-1249-4b6d-b536-f3228b700b67",
+    "data": [
+      {
+        "text": "transaksi dengan kode promo saya kok tidak berhasil.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "97d638f6-6b94-451c-b47d-13701d5810db",
+    "data": [
+      {
+        "text": "transaksi pulsa saya tidak bisa di proses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dcbc22af-3607-40c3-89a9-5b9d815bab83",
+    "data": [
+      {
+        "text": "bpjs lg kendala kah? yakali stok kosong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1ff2380d-b658-4490-9879-d0d4ccf53ea4",
+    "data": [
+      {
+        "text": "update saldo emoney gagal, saya top up e money 200rbu dan sudah berhasil tapi ketika mau update saldo nya gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "36f9f1db-76cb-420c-914a-d05c9ac5a156",
+    "data": [
+      {
+        "text": "saya tdk bisa melakukan pembayaran angsuran kredit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d7b18fef-3b43-4a09-b118-423bbd2d9217",
+    "data": [
+      {
+        "text": "saya mau bayar angsuran kredit kenapa gak bisa yah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "28398668-16d4-4f20-9ca7-28001e28b06c",
+    "data": [
+      {
+        "text": "saya mau tagihan kartu kredit dah jatuh tempo tp gak bisa2, gimana nih, mohon bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dafe0fbc-1840-443f-b497-b0e5fc3fb40b",
+    "data": [
+      {
+        "text": "ini mau bayar tagihan kreditplus kok tidak bisa ya gan de kmaren",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "17cfb36f-20cd-4152-8ae7-a3d83d4c507e",
+    "data": [
+      {
+        "text": "ini mau bayar tagihan kartu kredit kok tidak bisa ya gan de kmaren",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1b6c6cc7-d9ac-4130-b0fe-626aecb4df3c",
+    "data": [
+      {
+        "text": "saya gak bs beli pulsa nih min",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "89f620a1-dc95-4ae1-af9b-2515ffed7a17",
+    "data": [
+      {
+        "text": "saya tidak bisa beli pulsa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b21baa94-7fa5-44fe-ac08-99620f958eb8",
+    "data": [
+      {
+        "text": "mau beli pulsa ngak bisa bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f4197a57-56b9-48f4-8c48-d912e4615e85",
+    "data": [
+      {
+        "text": "mau bayar tagihan kartu kredit tidak bisa. dihalaman utama ada menu pembayaran kartu kredit pas di klik keluar isian nomer telp sudah diisi tapi tetap tidak mau",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "457b22fd-1028-4bb4-88a5-2a546b1a8eb5",
+    "data": [
+      {
+        "text": "mengapa saya tidak bisa membayar tagihan KK bri.. sudah 2 kali di kembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5c18fd1a-6532-4ecb-923a-36a33f7822e0",
+    "data": [
+      {
+        "text": "halo, kok saya tidak bisa membeli deals jumlahnya lebih dari 1 ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "46ee9197-64e7-46ea-b03f-73804da0a7ad",
+    "data": [
+      {
+        "text": "saya mau beli token listrik tapi enggak bisa.malah muncul tulisan kendala tekhnis.padahal sebelumnya saya sudah pernah transaksi dan berhasil.tpi kali ini gagal terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4d0077db-390c-4e89-964e-b7418b0e84c2",
+    "data": [
+      {
+        "text": "Saya tidak bisa membayar tiket kereta api dengan ovo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a02432ff-d8e5-4ddc-85c8-247d63893658",
+    "data": [
+      {
+        "text": "semua invoice sdh saya terima.saya mao tanya pembayaran kk ini hari mao check no kk saya bisa gak? buat mastiin aja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "32c7b3ae-d34f-428e-ae16-2cca0366f7aa",
+    "data": [
+      {
+        "text": "siang saya mau nanya soal pembayaran cc di tokopedia kok di tolak melalui sistem ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "22070092-22d3-4e62-abdc-1f83c0485b78",
+    "data": [
+      {
+        "text": "saya ingin membayar pinjaman online dari ATM madiri tidak bisa. sedangkan jatih temponya tgl 31 oktober 2018",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6487c3b4-9dfb-47e4-bdac-cdc85ec6398c",
+    "data": [
+      {
+        "text": "mau tanya kenapa sy byr listrik dgn no id pelanggan saya tdk bisa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "56872aa2-6a79-48fd-9de2-e4d543ed9c99",
+    "data": [
+      {
+        "text": "Sdh 2 hari mau bayar pln selalu hang di bagian dalam proses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "84286547-a513-4f0e-9744-a89684a74df0",
+    "data": [
+      {
+        "text": "Pembayaran token listrik dengan Transfer Bank Mandiri tidak bisa dipilih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "be092f08-ce46-4401-b778-6b920284617a",
+    "data": [
+      {
+        "text": "Promo paket data XL ga bisa di beli /di bayar ,apa alasannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "00b009ac-2c5a-4dd1-b3ea-dd4e72fce2cf",
+    "data": [
+      {
+        "text": "Saya melakukan pembelian pulsa namun pada saat membayar tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b64d1c1a-f409-41b1-8962-9185eb56cfa3",
+    "data": [
+      {
+        "text": "mau tanya, mau beli pulsa bolt udh gabisa lewat toped yah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2b371f2c-a8b3-4a16-a01e-68084e1ebd06",
+    "data": [
+      {
+        "text": "Isi ulang pulsa bolt tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4c069fbf-dd6c-4d6e-8f14-2cf12fa7e14f",
+    "data": [
+      {
+        "text": "saya mau bertanya, kenapa sudah dua kali pembayaran kartu kredit saya gagal terus, terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bec5494a-1bf1-41a6-9323-8b839ceadd28",
+    "data": [
+      {
+        "text": "kenapa setelah berkali-kali mencoba membayar kartu kredit tidak dapat di proses?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f11445bc-c3f4-4927-bc36-f3dfdc9d161f",
+    "data": [
+      {
+        "text": "saya ingin membayar tagihan KK tp kok tidak bisa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "da850564-623f-4065-949e-a24a6935a04c",
+    "data": [
+      {
+        "text": "tidak bisa lanjt transaksi bayar tagihan kartu kredit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f668bb2f-56bf-42b8-8487-2846392fbae6",
+    "data": [
+      {
+        "text": "saya tidak bisa bayar tagihan kartu kredit saya di tokopedia, gimana nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4b444491-eadc-4bbe-a467-ef570a54b1b5",
+    "data": [
+      {
+        "text": "kenapa say tidak bisa memlakukan pembelian voucher makan .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e6e22cc3-fd1d-49cc-a31b-696775c37977",
+    "data": [
+      {
+        "text": "Tidak bisa melakukan pembayaran kartu kredit bni saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "778f268a-4367-4f40-ba05-db98adbe2e5a",
+    "data": [
+      {
+        "text": "Transakai pembaayaran kartu kredit saya gagal lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d8eda8c9-5666-4686-8fc7-22f34e578348",
+    "data": [
+      {
+        "text": "Tidak bisa bayar tagihan kartu kredit. Error di toped nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "80556bbd-54d6-4f14-abc9-24ad95eb741c",
+    "data": [
+      {
+        "text": "transaski pembayaran kartu kredit saya sempat bermasalah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f8441eb9-8d8a-49d8-a26f-4dcd17af09cc",
+    "data": [
+      {
+        "text": "hari ini mengisi e money 500rb  di no kartu belum masuk saldo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ff4e1caa-aecf-4c2c-aa37-37c8aaca4a69",
+    "data": [
+      {
+        "text": "Pln sudah saya byar tetapi tidak ada confirmasi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "470de4ff-b034-4fef-b46e-7b4144dbfc92",
+    "data": [
+      {
+        "text": "Mengapa pembayaran kartu kredit tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e3cef5da-4fc3-4af4-9f67-3cf570fbf056",
+    "data": [
+      {
+        "text": "tidak bisa beli pulsa menggunakan ovo cash",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "08e6538b-ad4a-49d8-9e99-ff38313a12a6",
+    "data": [
+      {
+        "text": "kok saya melakukan  pembelian vocer game garena selalu gagal . maksudnya saya gagal melakukan transaksi pembelian selalu gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3312c4d5-4a47-4a38-896e-18403a8c30f2",
+    "data": [
+      {
+        "text": "Mengapa saya selalu gagal bayar listrik melalui kartu kredit di tokopedia .. padahal bikan2 sebelumnya bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "280c8040-9749-47f0-87ef-c7185bcc71ce",
+    "data": [
+      {
+        "text": "Transaksi gagal setiap top up emoney menggunakan kupon.. dan terus2an selalu gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9fe44d44-f19b-404f-a3c9-8b04e7a77cec",
+    "data": [
+      {
+        "text": "pembayaran kartu kredit kenapa tidak bisa terus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7f3388b0-dde3-4237-af2b-049033f43fbd",
+    "data": [
+      {
+        "text": "saya mau topup listrik.. kok gagal ya. apa sistem lagi gangguan ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "396ee9d5-8a4f-4852-9e4f-c62281d51fe6",
+    "data": [
+      {
+        "text": "Saya melakukan transaksi pembelian pulsa. Krnapa sellau gagal. Dan refund dana. Fyi saya bayar dg ovo points.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d310c9a4-a420-4259-89a1-a9d7bfbe97eb",
+    "data": [
+      {
+        "text": "saya beli voucher makan di toped kenapa muter2 mulu, gak barhasil, sepertinya ada gangguan disistemnya nih, bgm ini?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c7a5a1e5-1d88-4585-a69a-705955b02f23",
+    "data": [
+      {
+        "text": "untuk promo voucher kintan pas select produk gak bisa ya, kenapa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "50d05956-e69b-438e-8dc7-0c5698c89df8",
+    "data": [
+      {
+        "text": "saya beli voucher tp kok ga bs buka ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5ff923fc-cea6-49e9-9270-aa60748da1df",
+    "data": [
+      {
+        "text": "Tidak ada barcode pada voucher makanan saya, gimana saya mau redeem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "22ac0af4-0373-45e6-b07d-5081f1ecb979",
+    "data": [
+      {
+        "text": "tidak bisa melakukan pembayaran tagihan PDAM kota Palembang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c4510b3b-8f3e-42ba-9331-3c73f327b005",
+    "data": [
+      {
+        "text": "tidak bisa bayar pdam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3c47eb40-7106-414b-ad1e-f2af58d1ee2f",
+    "data": [
+      {
+        "text": "mw bayar tagihan barusan ga bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d21f1656-6977-42f6-8152-4f8dce941142",
+    "data": [
+      {
+        "text": "kenapa saya tidak bisa melakukan pembyaran tagihan telkom di tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "af49fe62-1d25-4437-a356-f3f89641771b",
+    "data": [
+      {
+        "text": "mau beli pulsa tp ga bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d5685870-82e6-4c38-ba56-f54020706794",
+    "data": [
+      {
+        "text": "mau bayar tagihan tidak bisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "78124298-4313-4e57-a447-ef19ded61e2f",
+    "data": [
+      {
+        "text": "Min mau bayar PDAM area Sukoharjo kok ga bisa ya kenapa min",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1299cecc-ffc9-426d-a667-34b03c338c93",
+    "data": [
+      {
+        "text": "Top up e-money mandiri gagal terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "57f3971a-e7a6-4838-bb60-06d0933c5dc5",
+    "data": [
+      {
+        "text": "Saya mau top up e money tapi gagal terus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b3b4626d-b009-4c5b-9278-69312aa426eb",
+    "data": [
+      {
+        "text": "Saya ingin melakukan pembayaran tv kabel menggunakan kartu kredit, namun selalu tidak bisaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

@@ -1,0 +1,567 @@
+[
+  {
+    "id": "8ff0c8f4-b027-4428-be7f-22dbba78a0b4",
+    "data": [
+      {
+        "text": "saya ingin membatakan komplain ataa barang yang saya terima dari ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f135d437-0233-4f4a-b3d1-b2a5259210b9",
+    "data": [
+      {
+        "text": "Saya memutuskan menerima saja barang yg salah. Tp tidak ada tombol batalkan komplain. Tlg bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3ba548f2-4cd4-45bb-bf2b-807843fa8a7f",
+    "data": [
+      {
+        "text": "no_cancelled_button",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f73f56f7-7982-4c17-a440-0f7ff9b131e7",
+    "data": [
+      {
+        "text": "masalah dah selesai sudah tukar langsung ke ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c3a62ef9-9fd6-4f11-b9e0-97657d1b8e4e",
+    "data": [
+      {
+        "text": "komplin sdh selasai teratasi. jdi komplin tolong d batalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c4348870-7d6f-48fb-9bac-0308a65bd5c9",
+    "data": [
+      {
+        "text": "Permasalahan sudah selesai,, saya mau batalkan komplain.. trimakasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d28e936b-25ea-4094-8201-7247a59376ee",
+    "data": [
+      {
+        "text": "Hallo bisa minta tolong bantuannya untuk menutup complaint Ini? Karena Saya Mau tutup atau cancel complaint tidak menemukan caranya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5444a0b5-4596-4ea4-b5e0-f89c44d0f77c",
+    "data": [
+      {
+        "text": "tombol menyelesaikan komplain tidak muncul, barang sudah saya retur dan ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sudah menyetujui untuk menukar nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6ca9d7c6-e29e-4014-a3e2-7671e248473f",
+    "data": [
+      {
+        "text": "Saya mau membatalkan komplain. Apakah bisa dibantu? INV/",
+        "userDefined": false
+      },
+      {
+        "text": "20180710",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "/XVIII/VII/",
+        "userDefined": false
+      },
+      {
+        "text": "178162036",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "86d25310-c2e9-4444-b183-6300158f7bd0",
+    "data": [
+      {
+        "text": "masalah komplain sudah selesai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "65bdc3be-c1ed-4810-aec1-8d6b747a00ad",
+    "data": [
+      {
+        "text": "masalah sudah solved, tidak bisa cancel complain, mohon dibantu thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1f4e6bb5-fe22-43a3-bf29-c9872921b320",
+    "data": [
+      {
+        "text": "bagaimana jika ingin membatalkan komplain? barang sudah saya tukar langsung ke toko",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5bbb3635-e641-4794-92fc-b0a6c4cef49c",
+    "data": [
+      {
+        "text": "Hi CS, tolong bantu batal komplain utk invoice ini. kekurangan barang sudah diterima lengkap, langsung dikirim ke rumah oleh ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". trims",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5b6860df-2bb6-45a1-93aa-1dc632dbb0d3",
+    "data": [
+      {
+        "text": "Saya dan ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sudah spakat agar saya membatalkan komplain agar barang bisa diterima karena No resi salah tapi tombol batal komplain tidak muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0971d95d-f455-420a-8989-9b6a37b824fb",
+    "data": [
+      {
+        "text": "saya mau membatalkan komplain krn tnyata barang hanya salah settingan saja bukan rusak secara fisik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "02d24ee4-2da0-48f1-9acb-3afb7327683e",
+    "data": [
+      {
+        "text": "tombol batalkan komplain tidak muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "75a33875-5d54-40f7-854e-ef91c34ba2dc",
+    "data": [
+      {
+        "text": "Barang sudah diterima. Ada ",
+        "userDefined": false
+      },
+      {
+        "text": "2x",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pengiriman ternyata. Dan keduanya sudah saya terima. Tolong batalkan komplain. Terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "429a4b14-9f00-4529-888c-a03624a98c79",
+    "data": [
+      {
+        "text": "Barang yang baru sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " terima, tolong tutup komplain ini, dan meneruskan uang ke ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", makasih.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cc27f993-294d-4c10-bce3-65633ab20282",
+    "data": [
+      {
+        "text": "Kekurangan produk yg sebelumnya sudah dikomplain ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sudah dikirinkan dan telah sampai di tempat saya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2f8aabf0-6d4b-4cb3-94e8-3bdd4749c80a",
+    "data": [
+      {
+        "text": "barang tidak sesuai deskripsi..sy mau batalkan komplain..males urusan sm penjualnya lg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "147069e3-8a6d-4c53-85c3-cec02bfee51c",
+    "data": [
+      {
+        "text": "tolong batalkan komplain saya yg ini ya,,,saya tidak jadi komplain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5ba33755-59dd-4ae2-8150-858538757d2e",
+    "data": [
+      {
+        "text": "Motor sudah dikirim ole ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", dan sudah sy terima. Tp sy tidak bisa batalin komplainnya. Tlg dibantu batalin komplain dan teruskan pembayaran ke ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Tks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "93355a63-3159-4e97-b6ba-20a7fb12366c",
+    "data": [
+      {
+        "text": "tolong dibatalkan komplin saya sebab barang ya udah d kirim oleh ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "681e5055-86c8-4aa2-af2b-745356379826",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". tombol batalkan komplain tidak muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2a5c98c8-ea01-4612-9fe5-aa436ca517c8",
+    "data": [
+      {
+        "text": "Masalah komplain sudah selesai. Saya ingin membatalkan komplain saya. Terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "94664da4-9fd4-47ff-a664-e282119593cd",
+    "data": [
+      {
+        "text": "Saya tidak jadi komplain, mohon di selesaikan transaksi ini ya..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "28578556-3167-4868-94a2-2697a6332b3a",
+    "data": [
+      {
+        "text": "saya ingin membatalkan komplain saya untuk Invoice berikut. Karena produk yang diterima sudah sesuai dengan order pembelian.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f12d4428-39c2-4813-a577-137f12b6806b",
+    "data": [
+      {
+        "text": "barang pengganti sudah dikirimkan oleh ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", minta tolong untuk dibatalkan komplain saya ya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "65aca733-0132-44cd-9155-d4af29c5d187",
+    "data": [
+      {
+        "text": "tombol batal komplain tidak muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "994bfcb1-e1e2-4649-8924-c6cd2806b43e",
+    "data": [
+      {
+        "text": "batalkan komplain tidak muncul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a5223575-7f2c-4553-baf8-7b24a1680677",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "72be93d3-c3e8-4209-ae67-5757eb90c2eb",
+    "data": [
+      {
+        "text": "Pesanan ini tidak bisa dibatalkan complainnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d1d55e71-d186-41d7-9acb-c7a38ebedd6a",
+    "data": [
+      {
+        "text": "tombol batalin komplain tidak ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "58b2a9c9-1d1c-4108-843d-5e73009fc388",
+    "data": [
+      {
+        "text": "tidak ada tombol batalkan komplain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "251b50de-e6f6-40d1-917a-5c69d8fb71b6",
+    "data": [
+      {
+        "text": "masalah sudah selesai tetapi tombol selesai transaksi tidak ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "14f56087-821b-467b-9e67-227252ec2bc2",
+    "data": [
+      {
+        "text": "barang yg saya komplain sudah diganti dan sudah saya terima, jadi maslah komplain sudah selesai. namun setiap kali saya klik \u0026#",
+        "userDefined": false
+      },
+      {
+        "text": "34",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ";Selesaikan Komplain\u0026#",
+        "userDefined": false
+      },
+      {
+        "text": "34",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "; selalu saja gagal dan muncul tulisan (lihat gambar yg saya uplod)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4b05c8dd-8d97-4911-b670-fa4bdafa8260",
+    "data": [
+      {
+        "text": "sy ingin cancel komplain tp tidak ada pilihannya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "de42dd32-24a1-4431-ba5c-a5c974c05191",
+    "data": [
+      {
+        "text": "ngga ada tombol batalin komplain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

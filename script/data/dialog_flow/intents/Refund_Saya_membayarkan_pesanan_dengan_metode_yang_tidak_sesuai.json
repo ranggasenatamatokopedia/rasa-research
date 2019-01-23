@@ -1,0 +1,38 @@
+{
+  "id": "f9ec542f-62a1-4f00-a77f-a5b3cb164296",
+  "name": "Refund_Saya_membayarkan_pesanan_dengan_metode_yang_tidak_sesuai",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetInvoiceList",
+      "affectedContexts": [
+        {
+          "name": "Refund_Saya_membayarkan_pesanan_dengan_metode_yang_tidak_sesuai-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh kasih tahu Toped transaksi mana yang dimaksud?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "refund_saya_membayarkan_pesanan_dengan_metode_yang_tidak_sesuai"
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+[
+  {
+    "id": "f3f162cb-9ef1-47b5-b5c9-21d0bd823075",
+    "data": [
+      {
+        "text": "E tiket saya sampe ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "be325276-6975-42ab-aca5-04ba8f181534",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", gimana kalau saya tidak menerima tiket via email? apa yang harus saya lakukan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f04918e0-b1c4-402c-a6df-caaf300272ec",
+    "data": [
+      {
+        "text": "bagaimana cara agar saya dapat mengirim ulang email tiket pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2ab7f1b9-6d15-483a-89bd-1b0e2fddba85",
+    "data": [
+      {
+        "text": "kirim ulang tiket penerbangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "54307b15-736e-4995-8cc1-fd67fec6c69a",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gimana cara kirim ulang tiket pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3359a3a4-759b-49c4-acba-02ddeae90495",
+    "data": [
+      {
+        "text": "saya tidak bisa mencetak eticket saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ff9e24c0-85c4-4ad5-9d66-d8d1a8b7c1e3",
+    "data": [
+      {
+        "text": "bagaimana cara mendapatkan e-ticket pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d89fccc9-6fe2-42be-bd01-751b90534b56",
+    "data": [
+      {
+        "text": "hi, kalo tiket pesawatnya tidak masuk ke email gimana ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d4177ac9-ad10-4a69-b68c-723bb34f7373",
+    "data": [
+      {
+        "text": "kirim ulang tiket pesawat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b437227d-94d6-441d-9e27-683789a21312",
+    "data": [
+      {
+        "text": "saya belum mendapatkan tiket, bagaimana cara dapat e tiket pesawat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f8d4b873-caf7-4cb3-951f-3c94fb87cb53",
+    "data": [
+      {
+        "text": "Pembayaran sudah berhasil tapi belum menerima e-ticket pesawat, apakah bisa dikirim ulang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "60abd324-13f8-4faa-b12c-1edbbe4b9205",
+    "data": [
+      {
+        "text": "tidak ada eticket mohon segera dibantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3bf9fc4b-03b0-4ebf-8f4d-4067908250ab",
+    "data": [
+      {
+        "text": "pembayaran sudah berhasil namun saya belum menerima tiket penerbangan saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "76b48e48-bfc3-42ad-a345-2da8a4fabce7",
+    "data": [
+      {
+        "text": "E tiket saya sampe sekarang belum dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b439d597-5b80-4972-b6d6-f14af2d5d38a",
+    "data": [
+      {
+        "text": "Saya sudah membatalkan tiket pesawat, tapi kenapa belum ada pemberitahuan email jga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4f95dbc7-be4d-48fa-924d-9f64dbe5a4fd",
+    "data": [
+      {
+        "text": "tiket pesawatnya belum diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6e2c64c7-887b-4318-acdf-fc71ccde14a6",
+    "data": [
+      {
+        "text": "itu transaksi sdh dinyatakan berhasil. tiket pesawat belum di kirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a0e2699b-03bb-4277-b7a8-a056ef7b7635",
+    "data": [
+      {
+        "text": "e-tiket belum dikirim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8762018b-aa70-4046-8a35-28be27ee97a0",
+    "data": [
+      {
+        "text": "etiket pesanan saya blm diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d40200ca-cfcf-4f48-89f4-b5e7fc5e2ef0",
+    "data": [
+      {
+        "text": "email yg dikrim tidak ada lampiran etiket...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0b8ff67f-ca59-4ebd-836d-6fada73c573f",
+    "data": [
+      {
+        "text": "bisa nggak invoice pembelian tiket pesawar saya dikirim dlm bentuk pdf ke email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "13db2e6e-d1ba-4e79-ac0e-9cc3f0e98297",
+    "data": [
+      {
+        "text": "email yg dikirim tidak ada lampiran etiket...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "17570de7-9b26-4cd6-ae54-c1f0d2cba7a9",
+    "data": [
+      {
+        "text": "saya membeli tiket pesawat, eticket saya kirim ke email tapi sampe saat ini eticket nya belum juga saya terima, mohon bantuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "711c0f3e-6e42-40ab-858e-d883a0303693",
+    "data": [
+      {
+        "text": "saya belum menerima e-ticket yang sudah berhasil dalam transaksi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2ade20b6-5c23-4ff2-b9df-ce92a421bc9b",
+    "data": [
+      {
+        "text": "maaf mau tanya kl sy mau pesan tiket pesawat, cetak bukti transaksi nya dimn y terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "37503e8d-2aac-43e0-8b2e-418b4390c0a2",
+    "data": [
+      {
+        "text": "saya minta dikirimkan invoice tiket pesawat PDF ke email saya, dengan penerbangan CGK - KNO kode boking HHQLNK",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a693a702-0828-46b7-ac28-ec55df496427",
+    "data": [
+      {
+        "text": "tetapi etiket blm diemail.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dbeeec05-31ca-4d99-a61d-52115e70d8c1",
+    "data": [
+      {
+        "text": "DI DAFTAR TRANSAKSI SAYA UDAH GAK ADA TIKET YANG SAYA PESAN",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

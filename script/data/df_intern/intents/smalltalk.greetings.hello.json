@@ -1,0 +1,52 @@
+{
+  "id": "4469782c-72d2-410a-a643-900d524e907b",
+  "name": "smalltalk.greetings.hello",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.greetings.hello",
+      "affectedContexts": [
+        {
+          "name": "User_Information_Context",
+          "parameters": {},
+          "lifespan": 10
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": [
+            "Halo juga :)",
+            "Hai juga :)"
+          ]
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 0,
+            "data": {
+              "show_rating": false
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1517871560,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "smalltalk_greetings_hello"
+    }
+  ]
+}

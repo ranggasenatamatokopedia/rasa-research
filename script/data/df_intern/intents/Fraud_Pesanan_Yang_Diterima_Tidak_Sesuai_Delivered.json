@@ -1,0 +1,39 @@
+{
+  "id": "10516263-3e9a-4a93-bd00-b1834593e8a3",
+  "parentId": "4a4c1baa-578a-4c5e-9c84-7def70acaae6",
+  "rootParentId": "4a4c1baa-578a-4c5e-9c84-7def70acaae6",
+  "name": "Fraud_Pesanan_Yang_Diterima_Tidak_Sesuai_Delivered",
+  "auto": true,
+  "contexts": [
+    "Fraud_Pesanan_Yang_Diterima_Tidak_Sesuai-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Pesanan_Yang_Diterima_Tidak_Sesuai_Delivered-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped sarankan untuk tidak menekan tombol konfirmasi penerimaan kalau kamu menerima pesanan yang tidak sesuai. Kamu bisa mengajukan komplain terlebih dahulu ke Pusat Resolusi agar dapat dilakukan penahanan dana pada transaksi kamu, ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539919852,
+  "fallbackIntent": false,
+  "events": []
+}

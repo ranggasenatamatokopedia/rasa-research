@@ -1,0 +1,43 @@
+{
+  "id": "90d5a3e0-9bc1-485d-b530-7fd3e2fc8053",
+  "parentId": "b9cb02ff-7a02-4822-a283-9d28f12259d4",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Transaksi_Berhasil_Tapi_Tidak_Mendapat_Benefit_extra_bonus_topads_pilih_invoice",
+  "auto": false,
+  "contexts": [
+    "Promo_Transaksi_Berhasil_Tapi_Tidak_Mendapat_Benefit_extra_bonus_topads-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetInvoiceList",
+      "affectedContexts": [
+        {
+          "name": "Promo_Transaksi_Berhasil_Tapi_Tidak_Mendapat_Benefit_extra_bonus_topads_pilih_invoice-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Bisa infokan invoice yang mana, Kak?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523275523,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "kode_promo"
+    }
+  ]
+}

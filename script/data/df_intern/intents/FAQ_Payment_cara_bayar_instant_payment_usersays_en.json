@@ -1,0 +1,58 @@
+[
+  {
+    "id": "818dccf9-cf7d-4a58-9377-c08163cb104b",
+    "data": [
+      {
+        "text": "payment ",
+        "userDefined": false
+      },
+      {
+        "text": "instant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "731b8299-417f-4685-9071-31942b5a27e5",
+    "data": [
+      {
+        "text": "instant payment",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "206417a7-9f6d-4521-a1a1-2d91ca4da764",
+    "data": [
+      {
+        "text": "pembayaran instan",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "985e4ae6-3e2d-42e4-aeea-0c2fef0751f4",
+    "data": [
+      {
+        "text": "pembayaran ",
+        "userDefined": false
+      },
+      {
+        "text": "instant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

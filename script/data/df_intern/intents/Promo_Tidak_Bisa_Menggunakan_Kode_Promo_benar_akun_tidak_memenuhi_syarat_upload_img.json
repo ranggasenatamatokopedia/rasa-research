@@ -1,0 +1,43 @@
+{
+  "id": "81c42ce3-9624-42a1-8ec5-cd3f34e6ff05",
+  "parentId": "908eccee-d568-46a2-9eb1-4b6f0cd18081",
+  "rootParentId": "52ec60f4-3e96-4394-855f-4b7f7c4c5110",
+  "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_akun_tidak_memenuhi_syarat_upload_img",
+  "auto": false,
+  "contexts": [
+    "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_akun_tidak_memenuhi_syarat-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_akun_tidak_memenuhi_syarat_upload_img-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon lampirkan screenshot notifikasi error yang kamu terima ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523834548,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "input_email_address"
+    }
+  ]
+}

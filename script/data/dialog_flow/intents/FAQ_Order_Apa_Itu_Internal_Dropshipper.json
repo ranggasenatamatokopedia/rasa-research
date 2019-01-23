@@ -1,0 +1,38 @@
+{
+  "id": "8bd56240-4f84-49c9-b7a4-ca97fd03d732",
+  "name": "FAQ_Order_Apa_Itu_Internal_Dropshipper",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Apa_Itu_Internal_Dropshipper-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Internal Dropshipper adalah keseluruhan transaksi jual-beli yang dilakukan melalui situs Tokopedia."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sesuai Syarat dan Ketentuan baru Tokopedia, sistem Internal Dropshipper sudah tidak diperbolehkan. Kalau transaksi kamu terindikasi sebagai Internal Dropshipper, maka dana akan dikembalikan ke pembeli."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

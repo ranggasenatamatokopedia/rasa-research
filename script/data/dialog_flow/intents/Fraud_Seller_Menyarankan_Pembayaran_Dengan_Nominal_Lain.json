@@ -1,0 +1,38 @@
+{
+  "id": "e7ae5067-fc76-47fb-91aa-e559b0ac231a",
+  "name": "Fraud_Seller_Menyarankan_Pembayaran_Dengan_Nominal_Lain",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Seller_Menyarankan_Pembayaran_Dengan_Nominal_Lain-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sesuai dengan syarat dan ketentuan Tokopedia point D nomor 18, kamu wajib melakukan pembayaran sesuai dengan nominal yang tertera di sistem Tokopedia termasuk kode uniknya.\n\nKalau nominal yang kamu bayarkan tidak sesuai, kamu bisa unggah terlebih dahulu bukti bayarnya disini, ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "fraud_seller_menyarankan_pembayaran_dengan_nominal_lain"
+    }
+  ]
+}

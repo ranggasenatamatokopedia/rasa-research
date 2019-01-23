@@ -1,0 +1,24 @@
+[
+  {
+    "id": "c99d26eb-a129-44f2-9c95-5d00a54d5241",
+    "data": [
+      {
+        "text": "marketplace",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f410a9e6-5892-4b65-9711-1f54117002d3",
+    "data": [
+      {
+        "text": "invoice_marketplace_OS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

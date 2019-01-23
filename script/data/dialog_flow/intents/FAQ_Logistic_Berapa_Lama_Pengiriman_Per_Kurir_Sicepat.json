@@ -1,0 +1,55 @@
+{
+  "id": "aca980f7-0eeb-420b-8904-a9fc8411653f",
+  "parentId": "62328066-6ba6-453c-b337-f9f221db5f6f",
+  "rootParentId": "62328066-6ba6-453c-b337-f9f221db5f6f",
+  "name": "FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir_Sicepat",
+  "auto": true,
+  "contexts": [
+    "FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Logistic_Berapa_Lama_Pengiriman_Per_Kurir_Sicepat-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa pilih jenis layanan SiCepat yang ingin kamu tanyakan ya, apakah BEST, Reguler atau Cargo?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "BEST",
+              "Reguler",
+              "Cargo"
+            ],
+            "type": 1
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528172664,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "sicepat"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "0a84051e-7006-4b12-8049-ae18dda9bcea",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", ini ada calon ",
+        "userDefined": false
+      },
+      {
+        "text": "pembeli",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya lokasinya di Cimahi sedangkan saya di Jakarta, itu emang gak bisa pake ",
+        "userDefined": false
+      },
+      {
+        "text": "Ninja Xpress",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " ya ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c0c29a76-46fb-4c37-a308-860d67152674",
+    "data": [
+      {
+        "text": "kalo jarak pengiriman ",
+        "userDefined": false
+      },
+      {
+        "text": "Rex 10",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " gimana ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3f78caff-86ee-49cc-a648-973af0794426",
+    "data": [
+      {
+        "text": "kalo jarak pengiriman pake ",
+        "userDefined": false
+      },
+      {
+        "text": "Ninja Express",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " gimana ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "49693ada-794e-4724-bc75-63102ce99a05",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", wilayah yang mencakup kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "Rex",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " apa ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dc621d6d-0785-431c-9e72-1fe82600f8ba",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", ini lokasi ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nya di bali, kok saya gak bisa pilih kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "rex",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " ya padahal saya di jakarta?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b37e3435-2413-4c23-8aca-8c11e5e7df40",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kalo saya di surabaya tp ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nya di jakarta bisa gak ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pake ",
+        "userDefined": false
+      },
+      {
+        "text": "Ninja Xpress",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bc99c389-1bbd-4610-a87e-c241ed29448c",
+    "data": [
+      {
+        "text": "Saya mau ganti alamat di orderan saya, tapi respon penjual lama banget. Posisi saya udh pindah ke tangerang.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ce26650e-997a-4b70-ac2f-0f4f23f16133",
+    "data": [
+      {
+        "text": "apakah saya bisa melakukan penjualan ke malaysiapelanggan saya mengalami kesulitan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

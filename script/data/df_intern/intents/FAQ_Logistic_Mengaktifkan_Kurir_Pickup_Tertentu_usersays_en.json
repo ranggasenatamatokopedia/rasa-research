@@ -1,0 +1,214 @@
+[
+  {
+    "id": "039f05c4-3938-4123-a600-fdc6f56104c9",
+    "data": [
+      {
+        "text": "Min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kenapa saya tidak bisa menonaktifkan kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "Grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ya? Karena saya maunya kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "Gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " aja nih.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9df6bfc8-d308-4f25-ba45-62939f5fab5c",
+    "data": [
+      {
+        "text": "Apakah bisa mengaktifkan salah ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "Instan",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan nonaktifkan sisanya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "97b33526-ae89-434b-8555-70451034af22",
+    "data": [
+      {
+        "text": "Terlalu banyak masalah dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "Ninja",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", sehingga mohon dibantu untuk nonaktifkan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f1bc242c-6111-41ae-80b6-fa076314a47c",
+    "data": [
+      {
+        "text": "Dihapus saja kurir ",
+        "userDefined": false
+      },
+      {
+        "text": "Ninja",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di Toko saya, tlg bantu ya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "71aa966c-1b19-42bd-871b-dbc516b3f32c",
+    "data": [
+      {
+        "text": "Tolong nonaktifkan ",
+        "userDefined": false
+      },
+      {
+        "text": "Grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", saya cuma mau pake ",
+        "userDefined": false
+      },
+      {
+        "text": "Gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "300f542f-2e47-4170-b5a2-f2cc5eb41d4a",
+    "data": [
+      {
+        "text": "Saya gamau pake ",
+        "userDefined": false
+      },
+      {
+        "text": "Ninja",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", cuma mau pake ",
+        "userDefined": false
+      },
+      {
+        "text": "Gojek",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "Grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sama ",
+        "userDefined": false
+      },
+      {
+        "text": "REX",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Bisa dibantu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7d0502f7-cada-44a4-b863-0ed3975d4e34",
+    "data": [
+      {
+        "text": "Jika pembeli ingin menggunakan ekpedisi Rex. Itu gmn cara nya ya ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fb3c1c10-8377-44c7-b9cc-383f164df57a",
+    "data": [
+      {
+        "text": "apa ada fitur pilihan biar gosend\u0027a nggak aktif gitu??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "72952c3a-dbc9-4687-a1f1-86a4b720d43d",
+    "data": [
+      {
+        "text": "bagaimana cara mengaktifkan ninja exp di Tokopedia??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

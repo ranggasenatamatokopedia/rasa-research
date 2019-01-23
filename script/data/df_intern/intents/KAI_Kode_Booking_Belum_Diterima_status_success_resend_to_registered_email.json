@@ -1,0 +1,45 @@
+{
+  "id": "0b617227-57f6-4a6e-a74c-d5492c2b4e07",
+  "parentId": "0c828cc9-4183-4700-abc8-63a6f60d4b18",
+  "rootParentId": "a7e1b254-86ed-4335-a90a-f9746590e450",
+  "name": "KAI_Kode_Booking_Belum_Diterima_status_success_resend_to_registered_email",
+  "auto": true,
+  "contexts": [
+    "KAI_Kode_Booking_Belum_Diterima_status_success-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DoResendEmailSuccessKAI",
+      "affectedContexts": [
+        {
+          "name": "KAI_Kode_Booking_Belum_Diterima_status_success_resend_to_registered_email-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2a03e5cb-8f37-47de-9190-a6973818dcd6",
+          "name": "resend_type",
+          "value": "ResendEmailKAI"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped akan kirimkan kembali email transaksi kamu yang berisi kode booking tiket kereta ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540359779,
+  "fallbackIntent": false,
+  "events": []
+}

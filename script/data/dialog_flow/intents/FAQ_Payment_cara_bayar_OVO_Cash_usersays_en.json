@@ -1,0 +1,25 @@
+[
+  {
+    "id": "1a5cd7fb-fa09-4291-88b8-5de0ca793818",
+    "data": [
+      {
+        "text": "ovo cash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "511f42c7-8ee7-4aac-bc4b-f2d53742c884",
+    "data": [
+      {
+        "text": "bagaimana cara menggunakan OVO untuk pembayaran tiket KA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

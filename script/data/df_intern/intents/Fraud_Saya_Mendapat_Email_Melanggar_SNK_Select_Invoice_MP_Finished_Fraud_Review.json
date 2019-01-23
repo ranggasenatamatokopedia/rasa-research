@@ -1,0 +1,57 @@
+{
+  "id": "8906b454-db64-4bbd-b9ad-ae18861969b4",
+  "parentId": "7888e4d7-0006-4fc0-94d6-cc51499fa5e2",
+  "rootParentId": "2f8cbeef-ace2-4920-b98a-19f47da047c4",
+  "name": "Fraud_Saya_Mendapat_Email_Melanggar_SNK_Select_Invoice_MP_Finished_Fraud_Review",
+  "auto": false,
+  "contexts": [
+    "Fraud_Saya_Mendapat_Email_Melanggar_SNK_Select_Invoice_MP_Finished_Fraud-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Saya_Mendapat_Email_Melanggar_SNK_Select_Invoice_MP_Finished_Fraud_Review-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah Toped cek, dana atas transaksi tersebut masih dalam proses review. Mohon kesediaannya untuk menunggu 1x24 jam ya :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau transaksi kamu dinyatakan aman, maka dana akan diteruskan. Tapi jika transaksi dinyatakan terindikasi melanggar syarat dan ketentuan, maka Toped akan mengirimkan informasi melalui fitur Pesan Bantuan."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531820315,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "case_status_active"
+    },
+    {
+      "name": "case_status_awb_retry"
+    },
+    {
+      "name": "case_status_invalid_awb"
+    },
+    {
+      "name": "case_status_hold"
+    }
+  ]
+}

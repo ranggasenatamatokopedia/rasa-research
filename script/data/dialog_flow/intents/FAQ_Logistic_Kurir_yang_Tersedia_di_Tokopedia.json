@@ -1,0 +1,37 @@
+{
+  "id": "4e310a3e-534c-4e34-a3e0-9f8f7b38e8c4",
+  "name": "FAQ_Logistic_Kurir_yang_Tersedia_di_Tokopedia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Logistic_Kurir_yang_Tersedia_di_Tokopedia-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Saat ini, Tokopedia bekerja sama dengan sejumlah kurir reguler, yaitu JNE, TIKI, SiCepat, J\u0026T, Wahana, Pos Indonesia dan First Logistics."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_logistic_kurir_yang_tersedia_di_tokopedia"
+    }
+  ]
+}

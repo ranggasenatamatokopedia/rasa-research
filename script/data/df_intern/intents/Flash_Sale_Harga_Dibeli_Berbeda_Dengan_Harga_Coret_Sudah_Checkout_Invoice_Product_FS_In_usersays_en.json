@@ -1,0 +1,35 @@
+[
+  {
+    "id": "c3de3aca-22fb-4619-bbc1-dadcaedb8f24",
+    "data": [
+      {
+        "text": "is_in_fs_time_frame",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "33901938-442b-4445-8637-2ef530c88f9a",
+    "data": [
+      {
+        "text": "in time frame",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e59ef556-6fae-402e-8a02-9047df2c47e1",
+    "data": [
+      {
+        "text": "time frame",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

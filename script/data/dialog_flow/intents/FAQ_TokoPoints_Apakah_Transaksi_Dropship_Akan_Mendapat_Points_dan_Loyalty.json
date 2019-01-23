@@ -1,0 +1,37 @@
+{
+  "id": "cdb210a7-b405-47d4-94a9-fd730d48a91f",
+  "name": "FAQ_TokoPoints_Apakah_Transaksi_Dropship_Akan_Mendapat_Points_dan_Loyalty",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_TokoPoints_Apakah_Transaksi_Dropship_Akan_Mendapat_Points_dan_Loyalty-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon maaf ya, Points \u0026 Loyalty tidak berlaku untuk Dropshipper atas dua transaksi berbeda dalam satu pengiriman yang sama di Tokopedia."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_tokopoints_apakah_transaksi_dropship_akan_mendapat_points_dan_loyalty"
+    }
+  ]
+}

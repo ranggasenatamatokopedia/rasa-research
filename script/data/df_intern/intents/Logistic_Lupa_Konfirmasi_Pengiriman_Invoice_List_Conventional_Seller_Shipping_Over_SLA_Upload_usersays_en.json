@@ -1,0 +1,46 @@
+[
+  {
+    "id": "e12c9618-6335-4b9b-bdd6-e86249b2fbe9",
+    "data": [
+      {
+        "text": "image",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e424fdcf-36e1-4b94-a4f4-a6e88079576c",
+    "data": [
+      {
+        "text": "upload",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "add27b28-2c0e-4795-86c4-ae0d7241cf6f",
+    "data": [
+      {
+        "text": "upload_image",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "05aaf0ce-8190-48d7-96d2-c91c1b42914c",
+    "data": [
+      {
+        "text": "upload image",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

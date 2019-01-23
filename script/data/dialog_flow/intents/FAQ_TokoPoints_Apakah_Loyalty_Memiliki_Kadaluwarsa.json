@@ -1,0 +1,50 @@
+{
+  "id": "e4ced658-1bee-4f13-bf09-7eb2672150a3",
+  "name": "FAQ_TokoPoints_Apakah_Loyalty_Memiliki_Kadaluwarsa",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_TokoPoints_Apakah_Loyalty_Memiliki_Kadaluwarsa-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "cda13ab0-8fac-421e-a1c9-85b3df37d602",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Loyalty tidak punya masa kedaluwarsa, tapi ada sistem perhitungan ulang (dimulai dari 0) per tanggal 1 Januari setiap tahunnya ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Loyalty yang dikumpulkan pada tahun sebelumnya akan menentukan status Membership kamu di tahun berikutnya ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_tokopoints_apakah_loyalty_memiliki_kadaluwarsa"
+    }
+  ]
+}

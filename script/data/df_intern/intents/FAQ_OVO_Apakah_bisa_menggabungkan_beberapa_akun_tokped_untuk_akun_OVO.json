@@ -1,0 +1,41 @@
+{
+  "id": "b26a2dd0-c543-4f83-b9e9-b06ff04ec101",
+  "name": "FAQ_OVO_Apakah_bisa_menggabungkan_beberapa_akun_tokped_untuk_akun_OVO",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut penjelasannya, ya:"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "1. Kamu dapat mengaktifkan maksimal 5 akun Tokopedia dengan 1 akun OVO untuk nomor handphone yang sama.\n2. Akun Tokopedia yang mengaktifkan OVO pertama kali akan menjadi akun primer yang akan terhubung dengan akun OVO.\n3. Akun lainnya akan menjadi akun sekunder yang terhubung dengan akun OVO, namun tetap bisa menggunakan dana OVO selama terdaftar menggunakan nomor HP yang sama."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Namun ketika Kamu mengaktifkan akun OVO di Tokopedia, saldo OVO Kamu akan terhubung dengan nomor ponsel yang terdaftar di Tokopedia.\nJIka Kamu melakukan perubahan nomor pada akun primer, maka otomatis akan tidak terhubung dengan akun OVO Kamu."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_ovo_apakah_bisa_menggabungkan_beberapa_akun_tokped_untuk_akun_ovo"
+    }
+  ]
+}

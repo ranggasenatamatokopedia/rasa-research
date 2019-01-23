@@ -1,0 +1,33 @@
+{
+  "id": "cf69ea12-d592-4dcc-93cf-5cd86886eb4c",
+  "name": "FAQ_Logistic_Keuntungan_Menggunakan_Fitur_SiCepat_Pickup",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Logistic_Keuntungan_Menggunakan_Fitur_SiCepat_Pickup-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut keuntungan jika kamu menggunakan SiCepat Pickup:\n\n1. Pihak kurir akan melakukan pickup secara langsung ke lokasi kamu.\n2. Nomor resi pengiriman akan terupdate secara otomatis.\n3. Kamu tidak perlu membayarkan ongkos kirim kepada kurir, karena akan terpotong secara otomatis setelah transaksi dinyatakan selesai."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

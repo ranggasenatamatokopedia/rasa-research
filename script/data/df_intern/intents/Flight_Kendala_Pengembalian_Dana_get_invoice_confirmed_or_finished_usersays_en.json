@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2774cd9d-0365-4082-8aed-3e1700f32528",
+    "data": [
+      {
+        "text": "invoice_finished",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "309edadd-feab-4580-947c-a9111d633a8c",
+    "data": [
+      {
+        "text": "invoice_confirmed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

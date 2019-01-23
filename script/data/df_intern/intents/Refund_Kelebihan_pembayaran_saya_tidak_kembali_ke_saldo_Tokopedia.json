@@ -1,0 +1,48 @@
+{
+  "id": "0f818f00-5148-4b3e-935d-6b2a054cb25f",
+  "name": "Refund_Kelebihan_pembayaran_saya_tidak_kembali_ke_saldo_Tokopedia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetInvoiceList",
+      "affectedContexts": [
+        {
+          "name": "Refund_Kelebihan_pembayaran_saya_tidak_kembali_ke_saldo_Tokopedia-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh kasih tahu Toped transaksi mana yang dimaksud?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 0,
+            "data": {
+              "show_rating": false
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "refund_kelebihan_pembayaran_saya_tidak_kembali_ke_saldo_tokopedia"
+    }
+  ]
+}

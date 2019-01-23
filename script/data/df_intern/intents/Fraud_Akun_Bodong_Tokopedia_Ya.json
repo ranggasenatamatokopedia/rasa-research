@@ -1,0 +1,39 @@
+{
+  "id": "52e4ada4-ebd2-4261-a399-ef8445a2961d",
+  "parentId": "c51687f5-c136-4dbc-979e-a84aea977f82",
+  "rootParentId": "c51687f5-c136-4dbc-979e-a84aea977f82",
+  "name": "Fraud_Akun_Bodong_Tokopedia_Ya",
+  "auto": true,
+  "contexts": [
+    "Fraud_Akun_Bodong_Tokopedia-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Fraud_Akun_Bodong_Tokopedia_Ya-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa lampirkan screenshot pesan yang kamu terima terkait permintaan data yang dilakukan, ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539233362,
+  "fallbackIntent": false,
+  "events": []
+}

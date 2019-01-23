@@ -1,0 +1,44 @@
+{
+  "id": "ef3b15b7-fcc8-433c-8732-78354a14ab38",
+  "parentId": "8f76e013-2e1a-45dd-87c0-3654057ce9bb",
+  "rootParentId": "8f76e013-2e1a-45dd-87c0-3654057ce9bb",
+  "name": "FAQ_Order_Tidak_Bisa_Melakukan_Pembayaran_Tidak_Muncul_Metode",
+  "auto": true,
+  "contexts": [
+    "FAQ_Order_Tidak_Bisa_Melakukan_Pembayaran-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Order_Tidak_Bisa_Melakukan_Pembayaran_Tidak_Muncul_Metode-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Hal ini bisa terjadi karena :\n1. Metode pembayaran yang kamu inginkan sedang dinonaktifkan karena sedang berkendala\n2. Kamu menggunakan Kode Promo / Kupon TokoPoints / Kode Referral, dimana syarat dan ketentuannya tidak berlaku untuk metode pembayaran tertentu."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jangan khawatir ya, kamu masih bisa menggunakan metode lain yang saat ini tersedia :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538557142,
+  "fallbackIntent": false,
+  "events": []
+}

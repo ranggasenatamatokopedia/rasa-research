@@ -1,0 +1,44 @@
+{
+  "id": "4c202b4c-a07e-495a-9986-baf0f42c8956",
+  "parentId": "1e92450b-06a1-43f0-ab75-5072713b7924",
+  "rootParentId": "1e92450b-06a1-43f0-ab75-5072713b7924",
+  "name": "FAQ_Digital_Cara_Menggunakan_Voucher_Streaming_Viu_iphone_device",
+  "auto": true,
+  "contexts": [
+    "FAQ_Digital_Cara_Menggunakan_Voucher_Streaming_Viu-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Digital_Cara_Menggunakan_Voucher_Streaming_Viu_iphone_device-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Untuk Viu versi iOS, kamu bisa masuk ke situs resmi menggunakan komputer agar bisa memasukkan kode voucher dari Tokopedia"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Selamat mencoba ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533693496,
+  "fallbackIntent": false,
+  "events": []
+}

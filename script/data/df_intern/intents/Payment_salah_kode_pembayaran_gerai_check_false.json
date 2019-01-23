@@ -1,0 +1,52 @@
+{
+  "id": "a54ac348-34e9-4c79-993b-d0c26c5afc85",
+  "parentId": "59cd556a-b8e3-47c3-9e79-6738cff2087f",
+  "rootParentId": "8d6cc4ef-96f8-4de8-9cc0-b39dfd7bb0af",
+  "name": "Payment_salah_kode_pembayaran_gerai_check_false",
+  "auto": true,
+  "contexts": [
+    "Payment_salah_kode_pembayaran_gerai_check-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Payment_salah_kode_pembayaran_gerai_check_false-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kode pembayaran hanya terdapat pada metode pembayaran Gerai Retail ya"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532489948,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "inspay"
+    },
+    {
+      "name": "transfer"
+    },
+    {
+      "name": "tokocash"
+    },
+    {
+      "name": "cc"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "bb83a87b-7b02-427a-a2a8-a6843641117a",
+  "name": "FAQ_Tokopoints_Masa_Berlaku_Kupon",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Tokopoints_Masa_Berlaku_Kupon-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Masa berlaku setiap Kupon berbeda-beda sesuai syarat dan ketentuan yang berlaku dari masing-masing Kupon."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

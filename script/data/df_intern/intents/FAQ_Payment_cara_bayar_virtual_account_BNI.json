@@ -1,0 +1,49 @@
+{
+  "id": "e95df1b6-f0e4-49c6-8eff-a956cbf7a84a",
+  "parentId": "dde8ae2a-9271-4847-a8b2-05c8604fa637",
+  "rootParentId": "bc8f4622-0f27-4009-a4cd-f030fe0388ae",
+  "name": "FAQ_Payment_cara_bayar_virtual_account_BNI",
+  "auto": true,
+  "contexts": [
+    "FAQ_Payment_cara_bayar_virtual_account-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Payment_cara_bayar_virtual_account_BNI-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut langkah - langkah untuk melakukan pembayaran dengan BNI Virtual Account:\n1. Untuk pembayaran Virtual Account dengan ATM BNI, maka silakan masukkan kartu dan pin ATM Kakak.\n2. Pilih Menu Lainnya.\n3. Pilih Transfer.\n4. Pilih Rekening Tabungan.\n5. Pilih Ke Rekening BNI.\n6. Masukkan 4 angka kode perusahaan untuk Tokopedia: 8277 dan Nomor Handphone yang terdaftar di akun Tokopedia.\n7. Masukkan jumlah pembayaran sesuai tagihan.\n8. Pilih \u0027Ya\u0027 untuk memproses pembayaran."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pembayaran BNI Virtual Account juga dapat dilakukan dengan mobile banking BNI. Ikuti langkah ini ya: \n1. Buka BNI Mobile Banking melalui handphone.\n2. Massukan User ID dan Password.\n3. Pilih menu Transfer.\n4. Pilih Antar Rekening BNI, lalu input Rekening Baru.\n5. Masukkan 4 angka kode perusahaan untuk Tokopedia: 8277 dan nomor handphone kamu.\n6. Cek detail pembayaran dan masukkan Password mobile banking kamu."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu juga bisa membayar BNI Virtual Account melalui iBank Personal, SMS Banking, dan ATM Bank Lainnya. Untuk informasi lebih lengkap, bisa cek disini ya:\n https://www.tokopedia.com/bantuan/cara-pembayaran-via-bni-virtual-account/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534825936,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,58 @@
+{
+  "id": "5e51eafb-ffbf-45e5-8a6b-9f40081f2c76",
+  "parentId": "dde8ae2a-9271-4847-a8b2-05c8604fa637",
+  "rootParentId": "bc8f4622-0f27-4009-a4cd-f030fe0388ae",
+  "name": "FAQ_Payment_cara_bayar_virtual_account_bca",
+  "auto": true,
+  "contexts": [
+    "FAQ_Payment_cara_bayar_virtual_account-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Payment_cara_bayar_virtual_account_bca-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7c534669-0dcb-405c-868a-4cfd02c26fb4",
+          "required": false,
+          "dataType": "@jenis_virtual_account",
+          "name": "jenis_virtual_account",
+          "value": "$jenis_virtual_account",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut langkah-langkah untuk melakukan BCA Virtual Account:\n1. Untuk pembayaran dengan ATM BCA, silakan masukkan Kartu ATM \u0026 PIN.\n2. Pilih menu Transaksi Lainnya \u003e Transfer \u003e ke Rekening BCA Virtual Account.\n3. Masukkan 5 angka kode perusahaan untuk Tokopedia (80777) dan Nomor HP yang terdaftar di akun Tokopedia.\n4. Pastikan detil pembayaran sudah sesuai seperti No VA, Nama, Perus/Produk dan Total Tagihan.\n5. Masukkan Jumlah Transfer sesuai dengan Total Tagihan.\n6. Ikuti instruksi untuk menyelesaikan transaksi.\n7. Simpan struk transaksi sebagai bukti pembayaran."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pembayaran BCA Virtual Account juga dapat dilakukan dengan Mobile Banking BCA. Ikuti langkah ini ya:\n1. Lakukan log in pada aplikasi BCA Mobile.\r\n2. Pilih menu m-BCA, kemudian masukkan kode akses m-BCA.\r\n3. Pilih m-Transfer \u003e BCA Virtual Account.\r\n4. Pilih dari Daftar Transfer, atau masukkan 5 angka kode perusahaan untuk Tokopedia (80777) dan Nomor HP yang terdaftar di akun Tokopedia.\r\n5. Masukkan jumlah yang ingin dibayarkan.\r\n6. Masukkan pin m-BCA.\r\n7. Pembayaran selesai. Simpan notifikasi yang muncul sebagai bukti pembayaran."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "BCA Virtual Account juga dapat dibayarkan melalui KlikBCA, Kantor Bank BCA, serta ATM Bank Lainnya. Untuk mengetahui lebih lengkap, kamu bisa kunjungi https://www.tokopedia.com/bantuan/cara-pembayaran-via-bca-virtual-account/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534825593,
+  "fallbackIntent": false,
+  "events": []
+}

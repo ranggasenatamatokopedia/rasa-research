@@ -1,0 +1,259 @@
+[
+  {
+    "id": "d92dfba4-7af3-4eb1-af46-70e2e33d339f",
+    "data": [
+      {
+        "text": "kesalahan koneksi internet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b4ffbd15-54ed-4aa3-92f5-bbc96488d935",
+    "data": [
+      {
+        "text": "koneksi internet salah ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0ea85b64-298d-40a8-999d-06da6bed825a",
+    "data": [
+      {
+        "text": "salah koneksi internet ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1980f198-5ed4-4edc-81c6-9ef00c0d46bb",
+    "data": [
+      {
+        "text": "kesalahan koneksi internet ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c10d5e3e-829a-48d7-afaa-15ccc96b4f24",
+    "data": [
+      {
+        "text": "salah koneksi internet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fd9c7506-b0f8-4de6-868e-db82d24f845a",
+    "data": [
+      {
+        "text": "trjd kesalahan koneksi inet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b91c464b-bc56-4d6c-b97f-8fbb1d89ee22",
+    "data": [
+      {
+        "text": "kesalahan koneksi inet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "76fa77e4-d5d0-4f9f-a292-bff58a49c5ac",
+    "data": [
+      {
+        "text": "ada kesalahan koneksi internet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e3da1730-967f-461c-b858-44f3864eb459",
+    "data": [
+      {
+        "text": "salah koneksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "29e667b8-d6a7-47ab-a4e6-056023fdcaf6",
+    "data": [
+      {
+        "text": "jadi salah koneksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "79df2c47-566c-4132-b700-71b931c5a157",
+    "data": [
+      {
+        "text": "jadi salah koneks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cf877404-c8bf-4591-9ad8-3fa3e78aa170",
+    "data": [
+      {
+        "text": "terjadi salah koneksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f6ed5063-a2c1-42dc-a079-a9c20c52f95b",
+    "data": [
+      {
+        "text": "terjadi kesalahan koneksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d7e83917-e8bf-492a-97e6-1ed8fbda9307",
+    "data": [
+      {
+        "text": "gada koneksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1d3adb13-4050-439f-9394-17635dd52099",
+    "data": [
+      {
+        "text": "gada koneksi internet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d3aa8355-cbd6-4dfb-a075-6909d9659a8e",
+    "data": [
+      {
+        "text": "tidak ada koneksi internet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bd51dfbd-fdfc-4987-9f29-ffd1a66192a9",
+    "data": [
+      {
+        "text": "tidak ada koneksi net",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e7f9d961-04ae-47b4-8119-769a7c1a7aa9",
+    "data": [
+      {
+        "text": "tidk ada koneksi internet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f9074c9e-e431-4a54-ab57-0628e2a77c9d",
+    "data": [
+      {
+        "text": "tidak ada koneksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8f1659ea-2d09-434e-9f1f-fc98e0e80ec5",
+    "data": [
+      {
+        "text": "tdk ada koneksi internet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1734b51e-59d1-4cbe-b3e8-c60d5a1d7885",
+    "data": [
+      {
+        "text": "gak ada koneksi internet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "abafe041-0494-4e8a-a9c4-ee4d19484455",
+    "data": [
+      {
+        "text": "no_connection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

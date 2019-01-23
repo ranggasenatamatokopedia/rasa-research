@@ -1,0 +1,24 @@
+[
+  {
+    "id": "478cf917-f808-4147-b327-95a4e0fe56c8",
+    "data": [
+      {
+        "text": "case_status_extend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fcd55379-82ea-4507-a26d-81eabadffb5f",
+    "data": [
+      {
+        "text": "case_status_unhold_take_amount",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

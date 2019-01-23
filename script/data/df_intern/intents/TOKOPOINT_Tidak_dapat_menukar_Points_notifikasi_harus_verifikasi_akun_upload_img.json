@@ -1,0 +1,43 @@
+{
+  "id": "7c28ade1-31c3-4bbc-b0db-f39b231f7603",
+  "parentId": "31a2b1bf-1c7d-4d90-80cf-ca42694ee293",
+  "rootParentId": "3702cbdf-e0ed-4db6-ae17-f7e78b7ba6f0",
+  "name": "TOKOPOINT_Tidak_dapat_menukar_Points_notifikasi_harus_verifikasi_akun_upload_img",
+  "auto": false,
+  "contexts": [
+    "TOKOPOINT_Tidak_dapat_menukar_Points_menjadi_Kupon_notifikasi_harus_verifikasi_akun-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Tidak_dapat_menukar_Points_notifikasi_harus_verifikasi_akun_upload_img-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon lampirkan juga notifikasi error ketika kamu akan menggunakan promonya ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523433392,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "upload_image"
+    }
+  ]
+}

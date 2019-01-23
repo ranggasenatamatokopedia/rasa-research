@@ -1,0 +1,33 @@
+{
+  "id": "dd917e12-3693-436b-87b9-28c33a358b81",
+  "parentId": "8f45ceee-4534-4381-86ec-de9e2939f9f9",
+  "rootParentId": "8f45ceee-4534-4381-86ec-de9e2939f9f9",
+  "name": "FAQ_Refund_Kapan_Tombol_Ajukan_Pembatalan_Muncul",
+  "auto": true,
+  "contexts": [
+    "FAQ_Refund_Bagaimana_Cara_Membatalkan_Pesanan_Yang_Tidak_Direspon_Penjual-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "FAQ_Refund_Bagaimana_Cara_Membatalkan_Pesanan_Yang_Tidak_Direspon_Penjual.FAQ_Refund_Bagaimana_Cara_Membatalkan_Pesanan_Yang_Tidak_Direspon_Penjual-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Tombol ajukan pembatalan pesanan akan otomatis muncul 6 jam setelah pembayaran diverifikasi dan berakhir saat Penjual mulai memproses pesanan kamu.\n\nKalau ingin ajukan pembatalan pesanan, kamu bisa ajukan pada waktu tersebut ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520238568,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ea06c6db-739d-405c-bc85-edc98cdbf1d8",
+    "data": [
+      {
+        "text": "input_email_address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "af9aff99-8008-48f3-a86f-af80dbf395bc",
+    "data": [
+      {
+        "text": "@sys.email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0
+  }
+]

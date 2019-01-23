@@ -1,0 +1,7235 @@
+[
+  {
+    "id": "67fa1720-fe18-4f9f-9fd6-d317ada11ab0",
+    "data": [
+      {
+        "text": "saya belum menerima pengembalian uang refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "94e7b97b-e194-49fc-9585-ba902091d289",
+    "data": [
+      {
+        "text": "saya belum menerima pengembalian dana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9266847d-dbd2-4e41-b3b1-82d6a226092d",
+    "data": [
+      {
+        "text": "pesanan saya gagal, sedangkan OVO saya tetap terpotong.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bae6ce6d-65a2-4fdb-a65a-0f6fa1ad4e9d",
+    "data": [
+      {
+        "text": "pembayaran tidak berhasil namun ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo cash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya tidak kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "16ca3c52-d7f5-484a-9b0c-884ada8accce",
+    "data": [
+      {
+        "text": "Hi, mohon rincian untuk invoice barang sudah dikirim tapi dibatalkan ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sistem, ",
+        "userDefined": false
+      },
+      {
+        "text": "kira2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bagaimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "79913070-11f8-4431-bd2c-191f05abae7f",
+    "data": [
+      {
+        "text": "transaksinya gagal, ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " points suda kembali, ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ovo masuk ke ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo tokopedia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tp ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " di rekening saya belum kembali, mohon bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "53159631-7e1a-413e-9a78-d582234d2585",
+    "data": [
+      {
+        "text": "Ovo cash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak masuk...transaksi cancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d4f0507a-8e26-4d9d-86b5-09d1023addda",
+    "data": [
+      {
+        "text": "Ovocash saya tidak kembali setelah saya membatalkan pesanan karena salah alamat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e580f772-1644-40fe-b7fe-63357f1f4163",
+    "data": [
+      {
+        "text": "Pemesanan dibatalkan tokopedia, kapan refundnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "768c0bed-b84f-483e-a993-99ffb1dda9b8",
+    "data": [
+      {
+        "text": "Pengembalian Dana transaksi ditolak karena persediaan barang habis belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d163b5c5-efad-4023-9562-4d057ee495ff",
+    "data": [
+      {
+        "text": "Pengembalian dana ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo cash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum tp ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo poin",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sudah. Tolong di proses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4a49df6a-8424-438a-b375-07b65968e862",
+    "data": [
+      {
+        "text": "Pesanan batal dana belum kembali, ovo point sudah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d254b4b2-3001-4489-8910-3eeb4b44acf1",
+    "data": [
+      {
+        "text": "Pesanan sudah dibatalkan oleh penjual, tapi sampai sekarang saldo belum bertambah lagi.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ca909943-cd4c-457e-b199-e9f446ad9dd6",
+    "data": [
+      {
+        "text": "Produk yg saya kmretur uang belum dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2f129760-9403-44d9-8dc6-28b444f71179",
+    "data": [
+      {
+        "text": "Refund atas pembatalan transaksi statusnya masih belum selesai di proses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3eb8fbd7-2021-423d-98cf-276557a9955a",
+    "data": [
+      {
+        "text": "Refund dana ke ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "u",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "/ trx",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fcb9b477-af5c-4920-95fd-60b945ec7174",
+    "data": [
+      {
+        "text": "Saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pengembalian belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7d80694d-bd6e-4cc1-8fae-c398af466227",
+    "data": [
+      {
+        "text": "Mohon dpt segera kembalikan Ongkir atas transaksi tsb yg batal kirim.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8fc6ddb0-95fd-4454-b308-0fe171dce336",
+    "data": [
+      {
+        "text": "tadi siang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya menerima chat ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " toped yg isinya: Dana senilai ",
+        "userDefined": false
+      },
+      {
+        "text": "Rp",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "5.999.541",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " telah dikembalikan ke ",
+        "userDefined": false
+      },
+      {
+        "text": "Saldo Tokopedia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Anda. (Payment ",
+        "userDefined": false
+      },
+      {
+        "text": "ID",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "PLS1092373899",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ") Tapi saya lhat di ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5751dc8c-63b5-436d-9f22-3a522a1fabfb",
+    "data": [
+      {
+        "text": "Pembatalan transaksi tapi dana Belum balik lagi ke ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo cash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eaf40551-6055-4821-8723-e08739e67889",
+    "data": [
+      {
+        "text": "saya ada order tapi di batalin sama penjualnya. yang saya tanyakan itu uang nya kemana ????",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0bd36c0c-8056-4c7c-99d6-41a52d23fbe3",
+    "data": [
+      {
+        "text": "pesanan saya yang sudah dibayar lunas lewat ",
+        "userDefined": false
+      },
+      {
+        "text": "BCA",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Internet Banking, bagaimana statusnya? Saya tidak melihat history pembatalan atau prosses pembatalan di https://www.tokopedia.com/order-list?nref\u003dpcside",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9f707557-1aba-455f-bd7a-386104611273",
+    "data": [
+      {
+        "text": "Transaksi dengan invoice sudah dibatalkan. Tapi dana blom saya terima. Tolong dibantu.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "026b9cff-d6da-44a6-8de4-374bd8a4de6e",
+    "data": [
+      {
+        "text": "Transaksi dibatalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7cb73dd8-c4d2-4562-b82e-d4a0a14bcc5a",
+    "data": [
+      {
+        "text": "Transaksi dibatalkan oleh tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5a679b4b-ddfe-4bfc-b452-5a65cd06cb8b",
+    "data": [
+      {
+        "text": "Transaksi gagal sudah di laporkan ",
+        "userDefined": false
+      },
+      {
+        "text": "5x24",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " jam tidak ada hasil dan laporan sudah di tutup. Mohon penjelasannya. Makasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "794f3a92-d33e-463b-bbef-6faf687a8efe",
+    "data": [
+      {
+        "text": "order saya batal otomatis karna ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tidak proses, sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " refund belum saya terima dan tertagih di tagihan ",
+        "userDefined": false
+      },
+      {
+        "text": "kartu kredit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "16354bd7-20e2-4b21-8dbd-ee7d37bfba0f",
+    "data": [
+      {
+        "text": "Saya SDH membatalkan pembelian .trs uang sy gmn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ee93eb61-8430-4bd1-8d71-6edf4f140642",
+    "data": [
+      {
+        "text": "Diputuskan akan ada refund, komplain sdh ditutup oleh Toped, sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dana refund belum masuk? Mau lampirkan foto screenshot, tombol tambah foto tdk berungsi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b53b720b-f8ff-4822-9db7-631da41dcf8a",
+    "data": [
+      {
+        "text": "Dear Tokopedia Dalam chat Tokopedia info, tertulis seperti ini : Dana senilai ",
+        "userDefined": false
+      },
+      {
+        "text": "Rp",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "140.580",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " telah dikembalikan ke ",
+        "userDefined": false
+      },
+      {
+        "text": "Saldo Tokopedia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Anda. Tapi pada kenyataannya, dana tersebut blm masuk juga ke ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Ovo saya di Tokopedia. Tolong dibantu proses pengembalian dana saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "728adf5a-846e-4f12-a03f-2c804b603582",
+    "data": [
+      {
+        "text": "uang Refund terpotong saat toko meng cancel pesanan saya. Harusnya ",
+        "userDefined": false
+      },
+      {
+        "text": "144.000",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " namun terpotong ",
+        "userDefined": false
+      },
+      {
+        "text": "109.500",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", mohon dikembalikan semuanya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "64c0f813-9f1b-4ae0-be9f-635ffd536230",
+    "data": [
+      {
+        "text": "uang saya belum kembali... dri tanggal ",
+        "userDefined": false
+      },
+      {
+        "text": "23",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".. gmn ini? baru kali ini ada kendala di toped. tolong secepat nya di proses.!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "56a3738d-817d-4ee5-8a62-b86875bb3a6e",
+    "data": [
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " komplen terakhir, dengan solusi refund. tapi kenapa dananya belom sampe? padahal komplen sudah dianggap selesai?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "66e792d9-dafc-4cc8-9680-b42b834c33f2",
+    "data": [
+      {
+        "text": "Dana transaksi yang gagal selama ",
+        "userDefined": false
+      },
+      {
+        "text": "15",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " hari belum diterima kembali. Mohon bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9d1225d7-3307-427b-9b02-c1e8035d43bf",
+    "data": [
+      {
+        "text": "2 x saya di reject pembelian oleh toko di toped, saya bayar pake ovo. Kok saldo ovo saya berkurang ngak di refund ke ovo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "40ace049-4318-4f37-8986-08db7ee698f4",
+    "data": [
+      {
+        "text": "Dana telah dikembalikan ke ",
+        "userDefined": false
+      },
+      {
+        "text": "Saldo Tokopedia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Anda.  Pembayaran via klikbca. Namun ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " OVO sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum berubah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0b2fcb05-621a-4e95-a083-837bf3c621cc",
+    "data": [
+      {
+        "text": "Dana senilai telah dikembalikan ke ",
+        "userDefined": false
+      },
+      {
+        "text": "Saldo Tokopedia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Anda. belum sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e7850fd6-742e-4995-993a-cf6390ee741a",
+    "data": [
+      {
+        "text": " Dana senila telah dikembalikan ke ",
+        "userDefined": false
+      },
+      {
+        "text": "Saldo Tokopedia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Anda. cuma mau tanya masuk lagi dananya kapan ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6b23cad6-d26c-4db1-a272-3f03a4ad8fda",
+    "data": [
+      {
+        "text": "Dana telah dikembalikan ke ",
+        "userDefined": false
+      },
+      {
+        "text": "Saldo Tokopedia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Anda. dikembalikan kemana ya? tidak ada di ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ataupun ",
+        "userDefined": false
+      },
+      {
+        "text": "toko cash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". pembayaran saya dgn ",
+        "userDefined": false
+      },
+      {
+        "text": "atm",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bca",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9e6e6399-3c21-42c4-a8d1-b2c405f20192",
+    "data": [
+      {
+        "text": "Dana senilai telah dikembalikan ke Saldo Tokopedia Anda. ini belum kami terima di ovo kami sampai sekarang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c5554af1-a5f9-4df5-bb0e-2defd4d2c100",
+    "data": [
+      {
+        "text": "Dana saya blm kembali.tolong segera diproses. Terlalu lama pengembalian dana ke rekening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "502ba17b-e380-43c9-8cd5-ed24e9f19aea",
+    "data": [
+      {
+        "text": "Dana pengembalian belum masuk ke saldo tokopedia saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6b434aee-ef42-447e-9254-d6f7f4285cf5",
+    "data": [
+      {
+        "text": "Dana ovo tidak kembali. Hanya ovo point. Batal melakukan pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "af0916c0-6b72-4678-a534-68f2b201115f",
+    "data": [
+      {
+        "text": "Checkout gagal, saldo terpotong. Sudah lebih dari 1x24 jam saldo belum direfund.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "053cecad-cd8c-4bf1-9ba0-adea0ceadfea",
+    "data": [
+      {
+        "text": "kenapa ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ovo saya tidak di kembalikan setelah Transaksi saya gagal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "56bab72d-f778-40a0-ad73-25e2e12ae543",
+    "data": [
+      {
+        "text": "kenapa ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya tidak balik yaa stelah membatalkan transaksi yg sblum menggunakan bagian ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c3fe8993-5941-4b2b-8881-3309fb00a500",
+    "data": [
+      {
+        "text": "kenapa saldo dan ovo point saya tidak kembali padahal transaksi terbatalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "62658962-ae7c-4b48-8399-c90218eb3cae",
+    "data": [
+      {
+        "text": "sisa dana belum masuk ke OVO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5c5cc93d-23fd-4a8a-b80d-69174add572b",
+    "data": [
+      {
+        "text": "dana refund belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "65205212-75a1-4d56-a7dc-eaa6af918b4d",
+    "data": [
+      {
+        "text": "Pengembalian dana belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9525a490-f773-4769-bf63-54e76e985fc5",
+    "data": [
+      {
+        "text": "refund dana saya belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "162db5a0-653d-43aa-b6f3-32bd8e8293d5",
+    "data": [
+      {
+        "text": "uang belum masuk ke ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bad63bea-bbf5-41c2-969b-ac374cc3d0ca",
+    "data": [
+      {
+        "text": "Penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya membatalkan pesanan saya, namun dana belum kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f373d2c6-d67a-4697-9c2b-595039aa35f9",
+    "data": [
+      {
+        "text": "Kode pembayaran AA087776105073 dibatalkan otomatis oleh tokopedia tetapi point ovo saya tidak kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4f049304-411e-45fe-9069-9cf6d8bedb59",
+    "data": [
+      {
+        "text": "saya sudah membatalkan pesanan. ada uang ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ovo yg terpakai, dan sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum di kembalikan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "85a276e3-3df4-4dd6-bb07-ef8f3a07efc7",
+    "data": [
+      {
+        "text": "kenapa pengembalian dana belum saya terima?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "89972fa8-8f79-41b1-9d02-905d8190958c",
+    "data": [
+      {
+        "text": "transaksi dibatalkan, pembayaran sudah masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cdfb7bb3-10ce-4453-85cd-3b0cd3ebabfc",
+    "data": [
+      {
+        "text": "sudah dicek...belum masuk refundnya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "066600dc-7dde-439f-801d-9bb67db4b6d2",
+    "data": [
+      {
+        "text": "uang refund nya belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e3b119b9-bca7-40dc-a754-6cda6b716b34",
+    "data": [
+      {
+        "text": "transaksi batal tapi dana belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "da099403-db6c-4c9d-9b31-b5b79eb46e87",
+    "data": [
+      {
+        "text": "Transaksi gagal tapi ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ovo terpotong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fdd0fb88-6559-4aa5-8434-507eccf0fc4f",
+    "data": [
+      {
+        "text": "kenapa dana saya belum kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1a97e93d-fff7-48f0-8d12-d283b9002ff4",
+    "data": [
+      {
+        "text": "saya batalkan transaksi dana belum kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d153c991-a976-4b6a-ab45-a7f41638c74f",
+    "data": [
+      {
+        "text": "saya mau tanya untuk transaksi INVIDTAG saya sudah melakukan pembayaran, untuk yang ",
+        "userDefined": false
+      },
+      {
+        "text": "pertama",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dapat notifikasi pembayaran gagal dan ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sudah terpotong, lalu saya ",
+        "userDefined": false
+      },
+      {
+        "text": "transfer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "kedua",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya coba berhasil dan saldo terpotong juga. Saya sudah konfirmasi kepada pi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e5d96338-c89c-4364-ade2-188cb76bf9d5",
+    "data": [
+      {
+        "text": "transaksi yg di batalkan dananya belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e87f6345-bea6-4144-a3f2-05ff4b0d8bce",
+    "data": [
+      {
+        "text": "saya melakukan pembayaran untuk pembelian token PLN. Pembayaran menggunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual account",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". Dana di rekening sdh terdebet. Saya dpt inbox dr toped kl pembelian gagal dan dana sdh dikembalikan ke saldo toko cash saya. Ttp saldo toko cash saya belum berta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d963af63-2c90-4f26-becb-0feb6341330e",
+    "data": [
+      {
+        "text": "kenapa uang ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo cash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " yg gagal transaksi belum masuk?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4482921f-cdc2-41bd-9536-d2ac314c45a4",
+    "data": [
+      {
+        "text": "sumpah dipersulit banget sih, padahal hak saya lho menerima refund, ini kan kesalahan ",
+        "userDefined": false
+      },
+      {
+        "text": "seller",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "416c428c-ec73-4797-be41-0f7902bf9544",
+    "data": [
+      {
+        "text": "Tolong dicek invoice no: INVIDTAG sudah ditolak ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kerena salah harga. saya minta pengembalian dana ke ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " toko pedia saya!!!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7d0c1a92-dfc1-4d99-86e8-3d06117efb71",
+    "data": [
+      {
+        "text": "pengembalian dana belum terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "26be6e80-2ac5-47b7-a7ba-0d9a8bfc1818",
+    "data": [
+      {
+        "text": "pengembalian dana ke ",
+        "userDefined": false
+      },
+      {
+        "text": "bank mandiri",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bbb99b63-7ad1-4688-89c6-abfdf9a6a482",
+    "data": [
+      {
+        "text": "pengembalian dana belum masuk ke ",
+        "userDefined": false
+      },
+      {
+        "text": "toko cash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f3f1d37d-da36-4077-8417-1d9aa0d71387",
+    "data": [
+      {
+        "text": "tanggal pengembalian dana sudah lewat, dana belum dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5da19404-5205-47d1-9c6e-23080039052a",
+    "data": [
+      {
+        "text": "Transaksi batal belum ada refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d0a3e948-c9a5-4f26-bfb8-7d4c276ef668",
+    "data": [
+      {
+        "text": "justru ini uangnya belum ke refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2124cebe-c375-48cd-922e-3ee9c9cd1764",
+    "data": [
+      {
+        "text": "dana belum saya terima.. pengembalian dana hanya di ongkir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "971fb264-f2f0-4741-afaa-8b0a53543b08",
+    "data": [
+      {
+        "text": "Kenapa refund saya belum saya terima ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d1d9fdf5-06fb-4ce8-a0a0-42b6d4bdc937",
+    "data": [
+      {
+        "text": "pengembalian dana blm diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ccf50373-b182-476f-a5fa-b4823ed07903",
+    "data": [
+      {
+        "text": "sudah membayar tetapi dibatalkan oleh sistem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0548f2cf-8f96-49d9-b316-8b3f4eebebf7",
+    "data": [
+      {
+        "text": "pesanan saya disalah ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " toko saya batalkan.karna respon lama. kpn uang saya dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0f2b160a-7a9d-4750-8345-8f9a8b015435",
+    "data": [
+      {
+        "text": "Dana retur belum dikirim balik gan? Padahal returan udah sampe kepenjual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3a4b5633-d858-46aa-b327-8025d95b58c9",
+    "data": [
+      {
+        "text": "INVIDTAG ini refund saya belum sampai kembali ya, ini kan kesalahan ",
+        "userDefined": false
+      },
+      {
+        "text": "Penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " karna telah melebihi batas waktu pengiriman pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e5af19ec-73ab-4bf8-a2f4-2ff249306543",
+    "data": [
+      {
+        "text": "saya ada belanja ",
+        "userDefined": false
+      },
+      {
+        "text": "hari ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " jam ",
+        "userDefined": false
+      },
+      {
+        "text": "11",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", menggunakan ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo point",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " n ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo cash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ". tetapi saya batalkan transaksi sedangkan sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo cash",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dan point saya belum di kembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d2cdf985-1eef-4d84-8000-a3baa88128a5",
+    "data": [
+      {
+        "text": "dana belum kembali ke ovo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "50580d97-8927-4089-ac6f-0b838d003c51",
+    "data": [
+      {
+        "text": "pengembalian dana ke toko cash belum di terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6d50691b-ffb4-4299-8d87-b849f1c13f94",
+    "data": [
+      {
+        "text": "pengembalian dana belum diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "177202e1-feed-43f5-9834-9089415239a2",
+    "data": [
+      {
+        "text": "pengembalian dana,dananya belum masuk ke akun tokped saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "915d061c-10bd-4ea7-991b-13d5e36c3056",
+    "data": [
+      {
+        "text": "pengembalian dana ke ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " belum diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8dfcc3c2-92ce-483b-9c88-f3d0dea2065c",
+    "data": [
+      {
+        "text": "transaksi saya gagal pembayaran dengan ovo, tetapi dana belum kembali ke ovo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b0a53580-354b-4248-8329-6bba3f72ea6a",
+    "data": [
+      {
+        "text": "belanjaan saya ditolak, tapi saya tetap bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "99f3d24e-6355-4373-bc03-513715440349",
+    "data": [
+      {
+        "text": "belom menerima pengembalian dana yg terpotong karena gagal bertransaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "72e396ba-235e-4f19-ad0b-569bce7273a3",
+    "data": [
+      {
+        "text": "saya kan sudah membatalkan pesanan dan ingin dana saya di kembalikan..tp kok sampai skg belum ",
+        "userDefined": false
+      },
+      {
+        "text": "balik2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " uang saya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0e92074d-a193-459c-b583-cef9008fb263",
+    "data": [
+      {
+        "text": "saya gagal beli token PLN, point sudah terpotong. Apakah point bisa kembali ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dde7a690-298f-4f44-9551-e6662db531e4",
+    "data": [
+      {
+        "text": "pesanan sdh dibatalkan ",
+        "userDefined": false
+      },
+      {
+        "text": "penjual",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tapi mengapa uang blm masuk ke toko cash?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f4e005e5-bb9a-4893-b263-90ad7d77c3cd",
+    "data": [
+      {
+        "text": "dana belum dikembalikan...pesanan dibatalkan oleh penjual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8666125d-2c15-44a0-b37b-2f881d7f6232",
+    "data": [
+      {
+        "text": "saya belum menerima dana Pengembalian dan Tokocas atau saldo aaya masih kosong. tolong beritahu saya dimana saya harus melihat saldo saya. jika di tokocast dan saldo di akun saya tidak bisa sya lihat.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "edb5e2e2-f7d4-4dab-afb4-c463e7ef70ef",
+    "data": [
+      {
+        "text": "pesanan batal dana sudah ditarik masuk ke rekening status sukses tpi dana sampe sekarang blm masuk ke rekening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3fc7bfcb-e72e-455f-98a1-66f68eebccc1",
+    "data": [
+      {
+        "text": "pesanan batal tapi dana blm kembali limit CC nya..berapa lama prosesnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b29c4c88-a311-4baf-867c-287cc65d8a4c",
+    "data": [
+      {
+        "text": "saya mau menanyakan tentang permasalahan refund saya blm msk di toko cash oleh admin tokopedia ini no invoice saya INV/",
+        "userDefined": false
+      },
+      {
+        "text": "20180428",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "/XVIII/IV/",
+        "userDefined": false
+      },
+      {
+        "text": "155482312",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ec610b95-5425-4937-89b8-0afbbfb3b334",
+    "data": [
+      {
+        "text": "dear cs, saya mau tnya ",
+        "userDefined": false
+      },
+      {
+        "text": "kmrn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sy ada lakukan pembatalan pembelian tiket, kapan dana saya bisa kembali.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "203d985a-2a74-4120-88a4-99248175ac2e",
+    "data": [
+      {
+        "text": "pesanan di batalkan ... uang belum kembali ke rekening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bedd1aad-3911-45a8-bd0b-b6e7201aadf1",
+    "data": [
+      {
+        "text": "Pesanan sudah dibatalkan dari ",
+        "userDefined": false
+      },
+      {
+        "text": "hari Sabtu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tapi saldo belum di kembalikan. Mohon segera di kembalikan. Terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "605b576d-cb34-4cc4-b575-afacbaaf94b9",
+    "data": [
+      {
+        "text": "Selamat ",
+        "userDefined": false
+      },
+      {
+        "text": "sore",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ",,, apakah dananya bisa segera di kembalikan?...agar saya bisa gunakan untuk pesan lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f14c7e99-496d-4ed9-a27b-a409c6e3cb31",
+    "data": [
+      {
+        "text": "pesanan batal oleh sistem, dana blm balik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "876932cd-c627-4633-a1c0-eb68009cedaf",
+    "data": [
+      {
+        "text": "transaksi batal karena saya lupa transfer, bisa kembalikan dananya ke tokocash secepatnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1e371479-9725-47ed-930e-9de2b1c12654",
+    "data": [
+      {
+        "text": "Proses pengembalian dana bisa di percepat gak.saya mau order Lg brg yg sama dan di toko yg sama.tolong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "856696b7-dc62-43a0-94b5-a7a942d9433d",
+    "data": [
+      {
+        "text": "Pesanan batal dana belum kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f359018f-cec2-446e-a197-edc97ff5e9d7",
+    "data": [
+      {
+        "text": "pesanan batal, ingin tarik kembali dana saya ke rekening pribadi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e4ed00b0-542f-4fa8-969e-439d7c7f20bc",
+    "data": [
+      {
+        "text": "pesanan batal dari toko cash sudah saya tarik ke rekening tpi dana sampe skrng blm jga masuk ke rekening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7b4dcce3-fbf0-43be-8567-67f46a93bd1b",
+    "data": [
+      {
+        "text": "Transaksi di batalkan tapi uang Tidk kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fd453602-25e3-45a7-a82f-717e73151228",
+    "data": [
+      {
+        "text": "Tokopedia telah membatalkan pesanan saya, saya ingin uangnya dikembalikan ke rekening bank saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e63f3cb0-b3a3-4a3e-a496-61f2e55702f5",
+    "data": [
+      {
+        "text": "sy order dan barang dicancel tp dana blm msk ke tokocash. lapornya kmna ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b1907cea-a536-41f7-8359-8d014257bf28",
+    "data": [
+      {
+        "text": "Transaksi saya ditolak . Untuk pengembalian dana caranya bagaiman ya ? Dikarenakan saya melakukan transaski secara kredit ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bulan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d3372208-565a-4e07-8c55-13ca556a756c",
+    "data": [
+      {
+        "text": "Pesanan batal, uang belum kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c53840af-6e84-4cf6-bcb2-5b7eeacb90c4",
+    "data": [
+      {
+        "text": "uang sy kok blom ",
+        "userDefined": false
+      },
+      {
+        "text": "balik2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sih ke tokocajs sy.kan barangya sdh sy batalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "255a1b46-1db2-4fd3-aa99-6f1f093d4675",
+    "data": [
+      {
+        "text": "pesanan batal dana blm kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b02443f0-21fb-44b0-abff-930eaeb3fc38",
+    "data": [
+      {
+        "text": "Pesanan barang tidak dipenuhi dan uang belum kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a6e6d734-d421-4099-95ff-1e29271b8d40",
+    "data": [
+      {
+        "text": "dana udh d transfer tapi pesanan batal, dananya tidak bs kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9a347e32-983b-4ae7-878d-f62905a763a7",
+    "data": [
+      {
+        "text": "pesanan sudah di bayar, pesanan batal oleh sistem dan dana belum kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e0532d89-6ea0-4446-9b5a-8a1ab8feee26",
+    "data": [
+      {
+        "text": "Saya ada membeli barang tapi karena dari pihak penjual lama mengirimnya, jadi saya dicancel orderan tsb. Yang mau saya tanyakan pengembalian uangnya gimana.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "adf5eca3-23ac-47fa-aecb-71bc97e49d14",
+    "data": [
+      {
+        "text": "pesanan batal pak,dana saya minta di kembalikan pak.trims",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2e8a5edd-0b65-437f-8f59-c74e611b2205",
+    "data": [
+      {
+        "text": "malam topet mau tny dana ku yg di batalin di bond petshop kog gak masuk\u0026#34;",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "204e3213-07d8-4037-8fbb-c6b4ac28597e",
+    "data": [
+      {
+        "text": "Dana senilai Rp 36.000 telah dikembalikan ke Saldo Anda. (INVIDTAG).....ini blm saya terima pengembalian uangnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "29d4130f-c3ad-46cf-a45e-b45105bba47d",
+    "data": [
+      {
+        "text": "pesanan sudah d batalkan,tp dana cm sekali yg d balikin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d617d248-d727-4394-be18-fc524ca5ea3f",
+    "data": [
+      {
+        "text": "selamat siang, saya ingin menanyakan kenapa transaksi dengan INVIDTAG tidak berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "40522572-692a-4e1a-a94c-15f84aa15a18",
+    "data": [
+      {
+        "text": "kenapa transaksi saya yang dicancel penjual dananya belum balik ke saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "969c4154-73f3-415c-8991-f36d8c718fad",
+    "data": [
+      {
+        "text": "saya sudah dijanjikan refund dri toko pedia maksimal 3x24 jam, tapi sampai skrg belum masuk juga.mohon bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6e9b4433-934b-4b67-8a6a-817a6cd75ec2",
+    "data": [
+      {
+        "text": "kenapa refund dana saya belum masuk ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5487785e-9df3-4de6-9cca-d6eefcfea46b",
+    "data": [
+      {
+        "text": "- kenapa dana refund kita belum masuk?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c4cb0695-edcc-428f-8c78-7a214ce28e41",
+    "data": [
+      {
+        "text": "INVIDTAG pengembalian belum masuk.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dafe6767-6840-49a0-8639-cd6a6e801f3f",
+    "data": [
+      {
+        "text": "ini kalo transaksi dibatalkan berarti dananya belum masuk ke tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "64a4da8d-c993-4167-be09-6933625f33d3",
+    "data": [
+      {
+        "text": "transaksi saya dibatalkan penjual uang belum masuk ke saldo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cf1a2448-68b2-4e0f-94dd-a2b09561b28d",
+    "data": [
+      {
+        "text": "Kenapa dana yang dikembalikan belum masuk juga sudah 2 hari?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c35b8dc6-5a4e-4668-b4a0-9bf65ff627be",
+    "data": [
+      {
+        "text": "pembelian ini di batalkan tetapi kenapa uang pembayaran belum masuk ke saldo saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2c69dbbe-3c43-4e1b-9448-584c36d73643",
+    "data": [
+      {
+        "text": "tapi virtual acc bca dana sudah terpotong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c38fdab6-0ba8-45cc-ad5a-55efb2ae7133",
+    "data": [
+      {
+        "text": "pagi, mohon maaf sy mau tanya... hari ini ada pesan di inbox sy kalau ada pengembalian dana sehubungan belum ada respon dari penjual sebesar 56.000.... yang saya tanyakan dana itu dikembalikan kemana ya... karena sy cek ke toko cash sy nggak ada dana kem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "625fa210-8d2a-4ec9-b5f1-1891b01ca10b",
+    "data": [
+      {
+        "text": "pagi toko pedia pengembalian dana ko blm sampai jg ya sdh 5 hari jam kerja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "023efdee-252a-44c1-8689-db518ab2429b",
+    "data": [
+      {
+        "text": "kami mohon dapat dilakukan pengembalian dana... makasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cf5871fa-762e-42d6-ad26-f1b056f10fcb",
+    "data": [
+      {
+        "text": "pesanan saya dibatalkan.. namun belum ada info terkait pengembalian dana. mohon dibantu INVIDTAG",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "985a54da-097b-4df4-904b-7cdb1a16d434",
+    "data": [
+      {
+        "text": "saya belum menerima pengembalian dana dari keterangan tersebut : Dana senilai Rp 673.800 telah dikembalikan ke Saldo Anda. (INVIDTAG)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "82d2c9d2-b670-4d44-a9b9-1275683b7d88",
+    "data": [
+      {
+        "text": "Mau tny, refund sy msh belum ada bs tlg cek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d5bb08b7-b9f1-4cb1-bbea-a32617f525bd",
+    "data": [
+      {
+        "text": "lalu ada transaksi saya yg di batalkan penjual tp uangnya belum kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1891fa2b-3b2e-44aa-8025-0995e99dce07",
+    "data": [
+      {
+        "text": "hi tolong tanya sy ada komplain. solusinya adalah retur 19rb. kemudian dana sudah dikembalikan oleh penjual. dikembalikan ke mana ya? karena tidak ada masuk di acc bank sy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9fdcaab0-0e2a-4c64-8d91-473f2ed923d1",
+    "data": [
+      {
+        "text": "barang sudah di bayar tapi produknya kosong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "278e6f7a-ede8-40fe-b4e0-dcafdfc9fecb",
+    "data": [
+      {
+        "text": "Siang, saya masi belom terima pengembalian dana utk invoice inv/20181008/XVIII/X/213832551",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "971e83c2-5ad1-49c4-8846-b1c29ce8d667",
+    "data": [
+      {
+        "text": "pesanan saya dibatalkan, tetapi belum masuk ke saldo saya. saya mendapat chat seperti ini: Dana senilai Rp 85.150 telah dikembalikan ke Saldo Anda. (INVIDTAG) mohon tindak lanjut, terima kasih.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d4a6587c-0f64-47cf-8941-efde29335acd",
+    "data": [
+      {
+        "text": "2 hari yg lalu saya sudah mendapatkan informasi bahwa refund ticket pesawat yang saya batalkan berhasil, dengan Payment ID FLI1069623490. Namun sampai sekarang nominal yang diinformasikan belum masuk ke dalam Saldo saya. Kapan dana refund tersebut masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "714ba485-d089-4e9a-adce-d741ad95a79e",
+    "data": [
+      {
+        "text": "admin sy mau tanya kemarin pemesanan saya di batalkan 2 orang kenapa uang blm masuk ke saldo tokopedia sy yah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "253cd645-ebba-478b-9aa5-7b1851136d8d",
+    "data": [
+      {
+        "text": "selamat sore, beberapa waktu lalu saya melakukan pembatalan transaksi. dengan pengembalian dana 98.000. tapi kenapa dana saya belum masuk dalam saldo saya sampai sekarang ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "99bba922-afab-46ba-a57f-a50065e0815e",
+    "data": [
+      {
+        "text": "belum masuk saldo tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c5710eb7-daa6-4f55-8b1e-cdc32743dec7",
+    "data": [
+      {
+        "text": "tapi uangnya belum masuk ke saldo Tokped saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5bfff2c2-87c4-4065-8eea-cf172702597d",
+    "data": [
+      {
+        "text": "dana belum masuk dalam saldo saya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "04ff4e95-1adc-4d44-8b30-70acf086f02c",
+    "data": [
+      {
+        "text": "tolong dicek pada invoice INVIDTAG, kenapa dananya belum masuk juga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f2ffd348-4048-4c5e-8133-0c111fe8379f",
+    "data": [
+      {
+        "text": "kebapa uang saya belum masuk saldo tokopedia saya ya???",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3dd1289a-9f2d-460c-a9ad-957b3a607703",
+    "data": [
+      {
+        "text": "saya melakukan pembatalan dan uang belum masuk ke saldo saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "060fd8b6-e0a4-4f5b-b21f-6d030059e167",
+    "data": [
+      {
+        "text": "dana saya dikembalikan kesaldo tapi sampai sekarang belum masuk. mohon tanggapannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4d8432c0-7932-4043-926b-0a6e4be0a0a7",
+    "data": [
+      {
+        "text": "pesanan saya dibatalkan sepihak oleh penjual dengan alaan tidak bisa dikirim oleh ninja. bagaimana dengan pembayaran saya ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "00e25175-58cd-4243-8f70-be2ba77ca72d",
+    "data": [
+      {
+        "text": "saya membatalkan transaksi no INVIDTAG karena ada 2 transaksi dg item yg sama, statuw nya sdh dtolak oleh penjual. kapan refund uangnya di kembalikan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ff411556-23c8-4f13-8abc-561c377f9e45",
+    "data": [
+      {
+        "text": "saya membatalkan pesanan krn barang tidak sesuai dengan harga produk 235.000, tetapi dana yg di kembalikan tokopedia hanya 215.000",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6a065c67-9db4-4770-ade7-dd088a81b6d8",
+    "data": [
+      {
+        "text": "kemarin saya belanja di toko boneka lucu...katanya dana saya sudah dikembalikan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1ae15333-7994-4aee-a7a5-e7561efd63cf",
+    "data": [
+      {
+        "text": "kenapa dana pengembalian belum di kembalikan sampai sekarang ya padahal transaksi sudah di batalkan oleh penjualnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "67be4cc6-face-4724-9d10-a03a44654fda",
+    "data": [
+      {
+        "text": "Saya mau Tanya perihal transaksi Saya yg terakhir Ada 2 transaksi, Saya beli produk Dan dibatalkan oleh penjual secara sepihak, tapi kenapa Dana Saya belum di kembalikan di saldo saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8296d99d-4c1d-4372-ab30-888db9503d7b",
+    "data": [
+      {
+        "text": "kenapa uang hasil transaksi yang di tolak belum masuk ke saldo saya kak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "253a88f7-bdce-473a-b3e9-45af983cbbe1",
+    "data": [
+      {
+        "text": "halo min, apa bisa dijelaskan untuk transaksi Order Refund (kesepakatan pembeli dan penjual) kenapa refund tidak full ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "47e45b51-cc3f-4b91-8e81-50a67cb7a36d",
+    "data": [
+      {
+        "text": "komplain sudah selesai, tetapi dana yang si refund kurang, dan tidak sesuai dengan nominal pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2dbc2ac1-76e2-45d8-8266-26b4b4abd7f1",
+    "data": [
+      {
+        "text": "mohon bantuannya untuk mengembalikan saldo toko cash karena transaksi sbelumnya telah batal terimakasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0350419f-22fa-4050-9676-86417ed38ab1",
+    "data": [
+      {
+        "text": "kemarin saya transaksi. namun gagal saldo sudah terpotong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "54efd4aa-836d-4e53-8d09-49ac695729fb",
+    "data": [
+      {
+        "text": "pada tanggal 15 okt 2018 saya belanja 6 outlet dan sy transf tanggal 16 okt sebesar 1.274.000 tapi semua tercancel dan dana saya tdk kembali tolong dikembalikan dana saya an. susana theys dari bca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "22503151-4e17-456f-9017-936c2f05bf07",
+    "data": [
+      {
+        "text": "sore cs saya kemarin beli pulsa saya transfer virtual acc, katanya dibatalkan dan dana akan dikembalikan jadi saya transfer virtusal acc sekali lagi tp saya cek mutasi rekening, tidak ada pengembalian dari tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "aa83d5ce-f5d2-40a6-9d51-9ccecf4e5a84",
+    "data": [
+      {
+        "text": "Bagaimana mengembalikan dana yg sudah saya bayar tp transaksi ny dibatalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "883cccaf-e9ba-4d45-99ed-60b33b64e6ca",
+    "data": [
+      {
+        "text": "sudah dibatalkan dan sdh ada info batal. tp dananya belum kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "66b5a914-24fc-4498-a8a4-82b4b90b3186",
+    "data": [
+      {
+        "text": "barang sudah kembali ke penjual, refund blm masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "db7a7b42-c28c-4216-a845-aabb0158842a",
+    "data": [
+      {
+        "text": "Dana senilai Rp 410.000 telah dikembalikan ke Saldo Anda. (INVIDTAG)... tapi koq di saldo sy blom masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9fcee446-af68-48e4-a5da-cdf5fa5c3601",
+    "data": [
+      {
+        "text": "barang tersebut telah bayar , apa dapat di refund kembali ,kalau saya membatalkan pembelian saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5acac6fd-05db-4d51-b479-acdbdea6b4e7",
+    "data": [
+      {
+        "text": "Beberapa hari lalu saya melakukan Refund, dan pada keterangan tertulis jika Refund, dana yg akan kembali sebesar 125.000. Tapi mengapa hanya 100.000 saja yg masuk ke saldo saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0a95d917-2925-44ed-8d20-9fd023f0ba75",
+    "data": [
+      {
+        "text": "sy dah dpt notifikasi dana akan dkembalikan krn brg tdk dkrm. to smp skrg Dana tsb Blum dtambahkan pd saldi sy. mhn bantuanx. trims",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3911b4ce-9023-4d87-9c36-95647ca75a45",
+    "data": [
+      {
+        "text": "yg transaksi batal itu dana dr tokocash saya di potong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "336347f2-51d9-4df2-830a-6205bc68235d",
+    "data": [
+      {
+        "text": "Transaksi di tokped gagal.. Dana sudah terdebet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7b8e25d8-071d-4798-a09f-592c63bd3efd",
+    "data": [
+      {
+        "text": "Bagaimana jika say sudah transfer tapi di cancel? Dana saya terpotong,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d0ee2fb3-b3e7-4d6d-b5e2-b231057c3a44",
+    "data": [
+      {
+        "text": "Saya sudah transfer ke BRI tokopedia senilai 420.220 dari rekening BRI 757501003382538 a/n ahmad wahyu adi. Tolong unt di refund krn transaksi dibatalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cb5a9e77-7726-499d-8096-f2f4a3a3f398",
+    "data": [
+      {
+        "text": "order saya dibatalkan penjual dan pembayaran saya dng cicilan kartu kredit bagaimana proses refund?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d67e38e4-f5cd-434a-b8a0-02192abc5002",
+    "data": [
+      {
+        "text": "INVIDTAG ini refund saya belum sampai kembali ya, ini kan kesalahan Penjual karna telah melebihi batas waktu pengiriman pesanan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a63c197f-d734-4927-a701-d4090fceb3f8",
+    "data": [
+      {
+        "text": "pesanan saya disalah satu toko saya batalkan.karna respon lama. kpn uang saya dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "724ec790-a2b9-46cf-bf64-680579571a95",
+    "data": [
+      {
+        "text": "Payment Tidak Bisa Melakukan Pembayaran Dengan Kartu Kredit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "eb34f642-6ad9-43e0-88da-a4c2324ec2f1",
+    "data": [
+      {
+        "text": "pengembalian dana ke bank mandiri belum diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a4a670a1-1f6f-4ca3-a0d5-caaecabae613",
+    "data": [
+      {
+        "text": "Payment Cicilan Belum Terkonversi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7dff4f58-d65b-4252-bf21-14dee2246b6d",
+    "data": [
+      {
+        "text": "Tolong dicek invoice no: INVIDTAG sudah ditolak penjual, kerena salah harga. saya minta pengembalian dana ke saldo toko pedia saya!!!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "31c991a3-fa40-4e10-8dd4-023e929b710a",
+    "data": [
+      {
+        "text": "sumpah dipersulit banget sih, padahal hak saya lho menerima refund, ini kan kesalahan seller",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b9e6895e-7acb-485d-815d-f79156c790b0",
+    "data": [
+      {
+        "text": "cara regund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0ac1f2ee-dcd6-4e86-9082-fa8df7a4b326",
+    "data": [
+      {
+        "text": "kenapa uang ovo cash yg gagal transaksi belum masuk?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5482b09d-eb5a-4079-a636-cf1aa91b8e2e",
+    "data": [
+      {
+        "text": "saya melakukan pembayaran untuk pembelian token PLN. Pembayaran menggunakan virtual account. Dana di rekening sdh terdebet. Saya dpt inbox dr toped kl pembelian gagal dan dana sdh dikembalikan ke saldo toko cash saya. Ttp saldo toko cash saya belum berta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2f3dd1c4-585f-452a-8c80-adc00aac1b37",
+    "data": [
+      {
+        "text": "gan refundnya kok belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4e2f1ad8-a084-454b-91ac-45d6b19b790a",
+    "data": [
+      {
+        "text": "saya sudah batal beli transaksi pdamnya kok belum masuk dananya ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c0a7bb85-a8ee-43c3-91d5-4e505d63de24",
+    "data": [
+      {
+        "text": "saya mau tanya untuk transaksi INVIDTAG saya sudah melakukan pembayaran, untuk yang pertama dapat notifikasi pembayaran gagal dan saldo sudah terpotong, lalu saya transfer kedua saya coba berhasil dan saldo terpotong juga. Saya sudah konfirmasi kepada pi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9253a337-3f88-4faf-b223-e4330fa0a7ce",
+    "data": [
+      {
+        "text": "FAQ Flight cancel pengajuan pembatalan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4073db6b-9c75-4ec7-963e-f51fced7fe1c",
+    "data": [
+      {
+        "text": "ini saya sudah mengajukan pembatalan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b5a41700-5a1e-4555-b61a-6c58ef608433",
+    "data": [
+      {
+        "text": "bukan benefit tp refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "01ec40bf-25cb-4305-bbfe-d5a3a3d8b8b0",
+    "data": [
+      {
+        "text": "faq_refund_salah_refund_tiket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "38d01302-df47-4e8a-a9a2-745af2677480",
+    "data": [
+      {
+        "text": "uang belum masuk ke saldo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fb82f377-68a6-484e-a86b-f15f4512952c",
+    "data": [
+      {
+        "text": "saya sudah membatalkan pesanan. ada uang dari ovo yg terpakai, dan sampai sekarang belum di kembalikan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2ae3bc50-0e90-4e01-950e-e3f87584403e",
+    "data": [
+      {
+        "text": "Penjual saya membatalkan pesanan saya, namun dana belum kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ef50c44a-1e90-49f1-a1c2-f9f6408e20f3",
+    "data": [
+      {
+        "text": "kenapa saldo saya tidak balik yaa stelah membatalkan transaksi yg sblum menggunakan bagian saldo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c3155717-343c-4891-8f5c-1edcc916cf0e",
+    "data": [
+      {
+        "text": "kenapa saldo ovo saya tidak di kembalikan setelah Transaksi saya gagal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "16d30e2a-5efe-42e0-b142-60ef960a1d94",
+    "data": [
+      {
+        "text": "pengembalian dana ke saldo belum diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7684c15b-c191-4997-b5b2-22553a0be48c",
+    "data": [
+      {
+        "text": "saya ada belanja hari ini jam 11, menggunakan ovo point n ovo cash. tetapi saya batalkan transaksi sedangkan sampai sekarang ovo cash dan point saya belum di kembalikan. gimana ya solusinya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4a742d9e-98f8-4189-b322-fa707ce42d45",
+    "data": [
+      {
+        "text": "Transaksi gagal tapi saldo ovo terpotong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "414648b6-c6c9-4f04-a613-2eabc57f02e3",
+    "data": [
+      {
+        "text": " transaksi batal tapi dana belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e83456ec-f8ac-411d-84bd-e8ca7c02894d",
+    "data": [
+      {
+        "text": "pembelian saya atas product ..saya batalkan..tp saldo sy belum masuk ke akun saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "869a5384-9974-4eb6-900b-2bfc90dfcd41",
+    "data": [
+      {
+        "text": "saya barusan membeli tiket kereta dan membayar sebagian dengan ovo pay dan toko point, tp setelah gagal membeli ovopay dan tokopoint saya tidak balik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "06e7a902-0cc4-42c1-8e9f-5701a23e2551",
+    "data": [
+      {
+        "text": "2 hari yg lalu saya sudah mendapatkan informasi bahwa refund ticket pesawat yang saya batalkan berhasil, dengan Payment ID FLI1069623490. Namun sampai sekarang nominal yang diinformasikan belum masuk ke dalam Saldo saya. Kapan dana refund tersebut masuk ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "93b829ff-4855-420f-a8f7-d7dd0769f5f6",
+    "data": [
+      {
+        "text": "Tapi refundannya blm masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4994fd58-ab9f-4abc-b014-64ccadb3dee0",
+    "data": [
+      {
+        "text": "refund dana saya blm masuk ke ovo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9ad7804c-c757-4b02-a600-55acaec7c123",
+    "data": [
+      {
+        "text": "saya transaksi tp di batalkan, saya bayar pake ovo dan transfer, sampe sekarang dananya belum kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4ea7c487-7683-494e-bb20-7f57325fe57c",
+    "data": [
+      {
+        "text": "saya barusan cancel transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ca4f8dad-9404-4e8b-b1c9-c197cb7c11b4",
+    "data": [
+      {
+        "text": "hai, pemesanan saya dibatalkan sepihak oleh tokopedia, dan DANA BELUM DIKEMBALIKAN",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0abf6bfe-aa58-4060-8006-9fffecb1884e",
+    "data": [
+      {
+        "text": "uang refund nya belum masuk ke saldo tokocash / rekening aku juga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d2b830b0-5dbf-47e6-be1f-7a125570baab",
+    "data": [
+      {
+        "text": "saya bayar pakai klikbca dikatakan transaksi gagal sedang saya cek di toped masih gantung. Bagaimana ini?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "03f30f5f-e171-467b-ae6a-e69c5c517459",
+    "data": [
+      {
+        "text": "Saya ada pembelian yg saya batalkan, tapi yang telah di refund kok kurang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e47e6b1f-9914-4b2e-a51e-48dab22b1f18",
+    "data": [
+      {
+        "text": "kenapa ovo point saya tidak kembali setelah saya membatalkan transaksi saya yang saya bayar menggunakan ovo point?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6cd03472-131e-4a71-af78-fbab6e0fed48",
+    "data": [
+      {
+        "text": "transaksi gagal tp dana belum dikembalikan ke rekening sya, kira2 kapan ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e17e0a93-9f05-4aac-b72c-87f23840e1d3",
+    "data": [
+      {
+        "text": "transaksi sayax batalkan. tetapi ovocash dan ovopoints saya ko belum dikembalikan. malah nol semua skarang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "094d3e0e-d0c6-430c-a9ab-99de5e1c1799",
+    "data": [
+      {
+        "text": "tolong pengembalian dana ke toko cash nya blm msk...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9cffec06-79b0-43e8-9de0-1b72c015c7a4",
+    "data": [
+      {
+        "text": "Saya sudah membatalkan transaksi di Tokopedia.Pembayaran menggunakan BCA Klikpay dan menggunakan sebagian dari Saldo dan Poin OVOTetapi saldo OVO saya belum kembali.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a4d80169-3e1a-4e97-9bf7-5adf98d7eaa6",
+    "data": [
+      {
+        "text": "orderanini tidak berhasil dan telah di batalkan mohon dana saya 30rb nya di kembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a11c7230-23f5-4f64-b3c2-f2529feb72d6",
+    "data": [
+      {
+        "text": "Pembatalan proses ditutup oleh waktu yg telah lewat,tapi kok uang di toko cash masih nol ya,seharusnya balik lagi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "733ccf4b-6b3c-4558-b1b3-12b60e9f987c",
+    "data": [
+      {
+        "text": "tadi saya menerima pesan bahwa dana saya sudah dikembalikan ke tokocash, namun di tokocashnya sendiri dana saya belum dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3004122f-3aa7-4103-bed9-461fba458bee",
+    "data": [
+      {
+        "text": "saya bayar pake OVO point sebagian, transaksinya batal, tapi kok dananya gak kembali ke OVO point ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "89385f5c-de83-45d8-aca9-7f67a6ffb336",
+    "data": [
+      {
+        "text": "sehubungan respon untuk tokped makin ga jelas, akhirnya saya batalkan transaksi saya..mohon kiranya apabila uang saya masuk kembalikan ke dompet tunai saya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f7287dfd-ae7b-42d7-8c8e-9353b75564f0",
+    "data": [
+      {
+        "text": "tolong dipercepat toko cash saya dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9d3c52c7-db6b-412d-a150-99880d5de536",
+    "data": [
+      {
+        "text": "Saldo belum masuk rekening. Dijanjikan berhari2. Tetapi blm masuk juga. Tiket di tutup semua. Mhn bantuannya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "444929a1-6386-4d61-b629-b9f7ab4484e0",
+    "data": [
+      {
+        "text": "Ada notif Dana senilai Rp 435.436 telah dikembalikan ke Saldo Anda. Tetapi dananya belum masuk ke saldo saya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7557f05d-8900-484c-a3e3-244a4dcf4e2d",
+    "data": [
+      {
+        "text": "Uangnya belum kembali ke rekening saya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "11ca52a3-2988-4506-af6d-ed4dc6fa4af3",
+    "data": [
+      {
+        "text": "kenapa refund saya blm ada?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e45bf099-8b5a-4d34-a9af-7b900a30fd5a",
+    "data": [
+      {
+        "text": "refund blm masuk , tiket pesawat dibatalkan oleh. maskapai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9af882ce-66cc-4fae-aa88-11b4021b6900",
+    "data": [
+      {
+        "text": "sya barusan cancel order, tpi ovo point blm kembali..terimakasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "208ac167-9422-410e-8bd0-138bab0905ab",
+    "data": [
+      {
+        "text": "pembayaran saya dibatalkan, mohon pengembalian dananya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "800db9ed-d1c2-417f-9c35-f3d73bd2c135",
+    "data": [
+      {
+        "text": "pesanan saya masih direview, dana belum dikembalikan tapi laporan sudah ditutup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "718f8a89-0f6b-42a5-af14-bdc23b0a6159",
+    "data": [
+      {
+        "text": "Transaksi ini tidak berhasil.. Apakah saldo dikembalikan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "28bcb812-8694-4a30-9018-80dbebc7093a",
+    "data": [
+      {
+        "text": "bagaimana dana bs kembali ke tokopedia saldo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2ac66709-b70c-4eb3-a815-c3788a052cb1",
+    "data": [
+      {
+        "text": "Dana refund blm masuk toko cash",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c35e0241-203b-4d56-b856-56f7cc89adfe",
+    "data": [
+      {
+        "text": "saya ada cancel 1 transaksi, tp dana toko cash ga balik lg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b796bc9f-c7c7-4e91-aa4e-788327a87fb5",
+    "data": [
+      {
+        "text": "tadi kan saya transaksi flash sale tetapi tiba tiba transaksi saya dikembalikan. pertanyaannya saldo saya balik ke rekening atau kemana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dc5bb711-6dc7-44ea-9fdc-68e022c969af",
+    "data": [
+      {
+        "text": "mengapa pengembalian tokocash ya belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "accb72da-0793-4b6b-80c6-ec8b56da79ff",
+    "data": [
+      {
+        "text": "pengembalian dana belum masuk, saya harus cek dimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a744bde9-63f5-4c00-971a-3bd76d7137d9",
+    "data": [
+      {
+        "text": "Transaksi sya kenapa di anggap batal yg sya beli lego? Dan sya ga dpt cashback. Padahl sdh sering transaksi baru kaya gini seperti ini. Malah barangnya sdh tiba lagi. Aneh sekali tolong di tanggapi secepatnya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4e261920-90a4-4a6c-913c-6a19b3d62206",
+    "data": [
+      {
+        "text": "saya di hubungi sama penjual soal dana saya, katanya akan di balikin karena seller salah input resi pengirimannya, kapan dananya masuk ke saldo saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3b9e81ad-a20e-4c27-a669-ee247d372769",
+    "data": [
+      {
+        "text": "katanya dana telah di kembalikan ke saldo Anda, tp saya belum terima dananya, mohon bantuannya, terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "25ba0b81-9bfa-4703-8191-9eee6b75a768",
+    "data": [
+      {
+        "text": "Pengembalian dana saya ke tokocash tidak kunjung bertambah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "798bb1df-71ba-4fda-ab10-b221b3f0dba9",
+    "data": [
+      {
+        "text": "payment cc bni saya, di info gagal oleh toped sementara saya sdh transfer ke toped melalui BCA virtual account, jafi saya mau uang yg sdh saya transfer di kirim kembali ke rek BCA saya, k",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a323ba66-074c-45d8-9e6a-c59cd8f39f7f",
+    "data": [
+      {
+        "text": "kapan dana saya dikembalikan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3156891b-17d3-498a-ab06-98ad140e806d",
+    "data": [
+      {
+        "text": "Sy melakukan transaksi pada bulan lalu yaitu pembayaran air PDAM kemudian sy sudah melakukan transfer melalui atm, tp pada hari ini baru sadar ternyata transaksi itu keterangannya dibatalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bfb3b2df-fd5c-4e64-a3d6-0c06cbf178bb",
+    "data": [
+      {
+        "text": "saya tadi transaksi jam 9.58 pakai ovo point.. tapi saya cancel.. tapi nggak balik ke ovo point saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "28e65395-45ec-490a-9568-c26295a03a2a",
+    "data": [
+      {
+        "text": "Dana senilai Rp 4.015.000 telah dikembalikan ke Saldo Anda. ini dana saya katanya d kembalikan tp saya cek saldo tokocash + saldo d atm saya..belum ad dana yg masuk dari tokopedia..bagaimana y?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7c6d1193-8dcf-4866-9068-ce968fff41f6",
+    "data": [
+      {
+        "text": "saya dapat pengembalian saldo. tapi kok masuknya ke tokopedia cash bukan kembali ke ovocash saya. saya kan bayar via ovocash.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0aa21775-fc4a-407b-8e5d-34033b64ebbc",
+    "data": [
+      {
+        "text": "tp sampai skg tanggal 9 November 2018 dana blm kembali ke akun sy sepeser pun.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d3fb58b3-08fb-49ef-8119-b3f24f939237",
+    "data": [
+      {
+        "text": "Dana transaksi saya belum kembali ke toko cash",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "22f19ddb-887d-4a3f-a773-c3a5839996d4",
+    "data": [
+      {
+        "text": "saya cancel pesanan TPi saldo tokocash kok blm balik??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2509de2d-b522-40f4-b23f-6b0ae30769c5",
+    "data": [
+      {
+        "text": "Dana refund saya belum masuk dompet. Tolong bantuan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fb24db99-f240-4b8c-8189-933996540d97",
+    "data": [
+      {
+        "text": "ini refundnya blm kembali ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6e0e7f0c-4cc2-4de0-a969-f3d123901627",
+    "data": [
+      {
+        "text": "Dana telah dikembalikan ke Saldo Anda. itu masuk saldo mana ya kak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "da3c1219-0c04-4460-8a76-538702474a87",
+    "data": [
+      {
+        "text": "ovo cash sy blm dikembalikan sebesa Rp. 2.760,-. tlg dicek kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fe03d4f5-c2ea-4861-a274-359e089a960d",
+    "data": [
+      {
+        "text": "pesanan saya di batalin tapi dananya belum masuk, kapan ya uangnya masuk? saya mau belanja jadi tersendat gini padahal saya butuh barangnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "83205cd7-76c5-4148-8613-5e692ec0ea55",
+    "data": [
+      {
+        "text": "pesanan saya di batalin penjual, kata tokopedia dananya udah dikembaliin ke rekening saya tp sampai skrg dananya belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7f1d5279-0e65-4f49-a06a-fdd7dca12ce8",
+    "data": [
+      {
+        "text": "saya sudah melakukan pembatalan untuktransaksi ini tp mengapa ovo poin saya tidak dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3a40bf23-c39a-485e-984a-214fb27eff0d",
+    "data": [
+      {
+        "text": "saya baru sadar ni transaksi sudah lama di batalkan, tapi ga tau dana sudah masuk apa belum. bisa di lihat di mana ya dana masuk?dana saya pa sudah di masukan ke saldo saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "161f8536-22d6-4ebd-941e-52fb000dfcd0",
+    "data": [
+      {
+        "text": "sudah melakukan pembayaran dengan toko cash tapi tidak ada transaksi dan toko cash saya terpotong.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "afce4514-9624-4a7b-8079-09b34c433977",
+    "data": [
+      {
+        "text": "dana pengembalian belum saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "26bbc95c-cea6-43fc-9221-d6ce2eec5972",
+    "data": [
+      {
+        "text": "dana refund belum masuk cash saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dc90d707-ee5c-4e18-b675-70f6fae4b754",
+    "data": [
+      {
+        "text": "pengembalian dana ke saldo customer saya.ko sampe saat ini belum masuk ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ce4d5c04-1902-47d8-ac1a-79be800a9512",
+    "data": [
+      {
+        "text": "produk di cancel penjual dana belum dikembalikani",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "521a7c25-2c0d-452b-852f-4fb0c07c95be",
+    "data": [
+      {
+        "text": "keduanya dibatalkan,padahal saya bayar sebelum habis waktu pembayaran.dan yg masuk saldo toped baru 1 no orderan, sedangkan satunya lagi belum masuk.padahal keduanya dibatalkan pihak toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fc8467e1-0c33-484f-a0f3-9c6278a27183",
+    "data": [
+      {
+        "text": "saya melakukan pembatalan transaksi dengan, karena penjual tidak bisa menyediakan barang yg sesuai, kenapa dana saya belum dikembalikan ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ca321b8f-cc14-4ce1-9241-8fbe818904c0",
+    "data": [
+      {
+        "text": "uang pengembalian saya belum masuk ke toko cash saya sebesar 100rb.setelah kemarin saya retur barang.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e1524886-0799-4cf2-89e8-1b35da75b984",
+    "data": [
+      {
+        "text": "sampai sekarang refund belum saya terima dan tertagih di tagihan kartu kredit saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "55dec031-0fc0-4625-9f32-49711fcfb944",
+    "data": [
+      {
+        "text": "saya cancel order, tpi kedua dana tersebut belum kembali..trimakasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c0a5b322-173d-428d-aff6-b1c35dce24d3",
+    "data": [
+      {
+        "text": "sampai saat ini uang belum kami terima untuk transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "95fc6044-0ec9-495f-8784-61df6012bc3c",
+    "data": [
+      {
+        "text": "uang saya senilai 65.000 belum di balikin sudah hampir 2 minggu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6d672e7c-ea2d-4bbc-bde8-1de80433a185",
+    "data": [
+      {
+        "text": "pembayaran credit card saya Di kembalikan tapi kok belum masuk ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e51cf1d1-d27c-4687-b79e-313941ea5a1b",
+    "data": [
+      {
+        "text": "saldo belum juga d kembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e09757e1-707f-4ac5-ba5d-7973e7127ee1",
+    "data": [
+      {
+        "text": "tokocash saya hilang padahal transaksi terakir saya gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "14ff21e3-dcd0-4d65-97ca-c012450283a3",
+    "data": [
+      {
+        "text": "saya ada transaksi sebesar 369.000 dan dibatalkan admin krn melewati batas pengiriman. yg ingin saya tanyakan kenapa ongkirnya tdk dikembalikan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7d9fec25-5214-4a4c-953f-9cc4c9fa82ee",
+    "data": [
+      {
+        "text": "pembelian saya di cancel oleh penjual tp dananya belum masuk ke saldo saya, tolong bantu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "abafda16-eb26-4fe8-b280-0b0a65ce25ea",
+    "data": [
+      {
+        "text": "saya beli paket tp di batalkan, transaksi saya pake saldo sebagian, apakah saldonya tidak bisa kembali? terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f7c8eb1b-5d75-4a47-931c-78cd3d349022",
+    "data": [
+      {
+        "text": "saldo toko cash saya belum kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b23f901e-e36c-49ed-8ee7-d2c64505f807",
+    "data": [
+      {
+        "text": "status pembayaran dibatalkan, padahal sudah melakukan transfer. kapan dana akan dikembalikan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0eb1f177-f318-49ae-a7d4-02c7489ea550",
+    "data": [
+      {
+        "text": "tokocash tidak kembali pada saat transaki gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "99bc7eed-948c-4069-bbff-629b81e80d5b",
+    "data": [
+      {
+        "text": "Dana dikembalikan ke rekening bank saya atau ke tokopedia? karena sampai sekarang di ke duanya saya cek belum masuk.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0172ce49-6f81-4ff0-9492-fbd661aabdd0",
+    "data": [
+      {
+        "text": "transaksi yg dibatalkan saldonya kemana ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3d58b83e-a717-4b3f-8870-a330a6b1ee2a",
+    "data": [
+      {
+        "text": "transaksi saya tadi dibatalkan sama penjual, kenapa saldo saya belum balik ya min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6dec06e5-15a8-466f-8ab5-f2b81661f5f3",
+    "data": [
+      {
+        "text": "tadi barusan membatalkan transaksi tapi uang belum masuk ke rekening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "eb840b66-b69b-4a73-a376-e1830ebcbde8",
+    "data": [
+      {
+        "text": "refund blom sampai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b7e9c3e3-8e8a-436b-93fa-5eced5dd3e0a",
+    "data": [
+      {
+        "text": "refund belum diproses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "437b78df-f510-4fbc-b0e5-53c0313dc85c",
+    "data": [
+      {
+        "text": "Min... katanya dana mau dikembalikan paling lambat 3x24 jam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9da90b54-bcdf-4e67-835d-0565d33f0457",
+    "data": [
+      {
+        "text": "saya membatalkan pesanan dengan invoice nomor INVIDTAG. tp tokopedia salah mengembalikan dananya di orderan saya yg lain yg masih aktif",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a8262cc4-8d76-409c-a87f-4296d2dbc8b3",
+    "data": [
+      {
+        "text": "Kenapa.saldo ovo hilang padahal transaksi gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7f5beec7-05d7-4d04-9e36-2fa544d7ccf1",
+    "data": [
+      {
+        "text": "pengembalian dana ke OVO belum diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0ed29632-a1f9-4761-9940-15cbf1506f03",
+    "data": [
+      {
+        "text": "Dana belum balik ke saldo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f03d5b1f-8949-4852-8434-fb24a5a660c8",
+    "data": [
+      {
+        "text": "pengembalian dana ke ovo cash belum di terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "19adb836-ad04-4285-97d6-3b13d90c83bd",
+    "data": [
+      {
+        "text": "sudah 3x24 pengembalian dana belum di terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "82f21780-164a-4de4-8aae-740012cabad1",
+    "data": [
+      {
+        "text": "transaksi gagal tapi pengembalian dana belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b84ffc52-ca19-4530-a85b-73f3635e9052",
+    "data": [
+      {
+        "text": "pengembalian dana belum di terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b4a526f6-0723-4c46-bb4d-cc940be1f3a6",
+    "data": [
+      {
+        "text": "pengembalian belum ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "59df65eb-a0f4-4876-bdd8-b4044dc75598",
+    "data": [
+      {
+        "text": "saldo pengembalian saya belom masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "710c5752-1c45-4f9b-9961-41dc38748099",
+    "data": [
+      {
+        "text": "ovo point cash saya belum masuk .. karena pembatalan pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "58ffc5d7-8fad-445b-9474-87ba412eee97",
+    "data": [
+      {
+        "text": "malam, td saya melakukan transaksi paket data dengan mengunakan ovo.point dan virtual account, tapi trx tidak berhasil, tapi Virtual account belum kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d5051dc1-1f7c-4a1a-8cd5-7a256d2f0de8",
+    "data": [
+      {
+        "text": "saldo pembatalan belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ab19a679-348c-4df3-8e4a-5b500b68ce9b",
+    "data": [
+      {
+        "text": "transaksi gagal tp saldo kepotong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b41b7908-6d6b-4823-99c7-19b0f644e47e",
+    "data": [
+      {
+        "text": "barusan saya melakukaan pembayaran, tetapi terjadi server error, pembayaran gagal. tetapi saldo OVO saya tetap terpotong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "28da5eb0-42cb-4a58-81a9-aca364f05432",
+    "data": [
+      {
+        "text": "pengembalian dana dengan id refund PLS1090512520 belum saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "38297e64-9c63-493f-a8d8-daaaaa249ebd",
+    "data": [
+      {
+        "text": "Maaf, refund uang pembatalan pembelian kok belom masuk ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2cb4c1b4-0b9c-44bc-a29b-6fe836a4fff7",
+    "data": [
+      {
+        "text": "saya ada membatalkan pembelian di hari jumat pakai saldo tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "efc038bd-8462-4bfa-96e8-bd43cdcce8b6",
+    "data": [
+      {
+        "text": "saldo pembelian saya belum kembali. kemanakah saldo saya ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "45a6b33a-c90c-41c2-8019-227034159a27",
+    "data": [
+      {
+        "text": "saldo saya tidak kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "07eab4e0-5ca3-45c7-8365-e1ebc7f82590",
+    "data": [
+      {
+        "text": "order saya sudah di cansel sama penjual, dananya kapan di refund?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "78e4abe6-8c0b-4761-bcdd-4d90fb115746",
+    "data": [
+      {
+        "text": "proses pengembalian dana sudh melebihi 2x24jam, tp refund belum kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "96dd0af2-6039-402f-aabb-a64f436a8e4d",
+    "data": [
+      {
+        "text": "sudah melebihi batas waktu transfer uang transfer 254.618 tp yg kembali ke toko cash hanya 199.000",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b0077e5c-36dc-4f53-adb1-addc98e4fc78",
+    "data": [
+      {
+        "text": "sudah dibatalkan, tapi dana belum sy terima.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4abfea01-1331-4150-9491-3687f76de30b",
+    "data": [
+      {
+        "text": "saya ada order barang Preorder. sudah dibayar tp dibatalkan dan tidak ada pengembalian dana.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9cbea4a5-63fa-46d0-a718-aea899c8d8e5",
+    "data": [
+      {
+        "text": "sampe skrg dana refund dari penjual belom masuk, mau tunggu sampe kapan ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "24fa2a14-f8d0-41b5-8633-5c0cbb25ef94",
+    "data": [
+      {
+        "text": "dana refund belum masuk ke saldo saya, tolong cek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "943c462d-9005-41d4-8355-aad8d7c89708",
+    "data": [
+      {
+        "text": "saya juga tdk menerima refund padahal batal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "80781e98-1e05-4881-a3fb-3877657d3131",
+    "data": [
+      {
+        "text": "statusnya terbatalkan, tapi dana belum dikembalikan oleh tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e76b4f67-d657-47eb-ba00-1f7fbc2d8fa9",
+    "data": [
+      {
+        "text": "kapan dana saya masuk...saya mau shop lagi...tanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1fd570b2-fcea-4272-8f9b-82d781abd0ef",
+    "data": [
+      {
+        "text": "saya mau refund uang saldo saya ke rekening btpn saya, baru di infokan gagal dan uangnya masuk ke saldo lagi, tapi uangnya berkurang.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d7902dbc-fbdb-435f-8035-762395cbdb1d",
+    "data": [
+      {
+        "text": "kalau barang yang sudah di bayar, tapi di cansel sama tokonya, uangnya kemana ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "113fa57b-255e-4a03-ba10-f62e468936b8",
+    "data": [
+      {
+        "text": "terdapat transaksi yg dibatalkan tp sampai sekarang dananya blm masuk kembali ke saldonya. ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "54832cd0-096e-4238-b5b2-e913ee324b7a",
+    "data": [
+      {
+        "text": "pesanan saya batal tapi dananya belum balik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "17b0ec44-cc74-4712-a6dd-96ecb8dc343f",
+    "data": [
+      {
+        "text": "saya melakukan pembayaran pdam melalui toped tp tiba2 statusnya dana dikembalikan ke rek saya. tapi saya cek ke rek bca saya tdk ada pengembalian dana dari toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d37bce28-40e7-4dea-9cdf-7ccecc0ab81f",
+    "data": [
+      {
+        "text": "order saya batal transaksi ya perlu nunggu ya transfer balik dari tokopedia nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f93291cd-1518-40b6-b907-fe30286ff690",
+    "data": [
+      {
+        "text": "Mengapa sampai sekarang refund belum saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a8f34420-506f-48ef-a373-a166cfccdcd2",
+    "data": [
+      {
+        "text": "kapan dana saya dikembalikan ?INV/20180922/XVIII/IX/206433640",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6e79b97b-28f7-48ed-af1b-54b96656a33e",
+    "data": [
+      {
+        "text": "pesanan saya batal tapi dana saya belum kembali, ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "00229437-4114-407d-96b8-1027680240e3",
+    "data": [
+      {
+        "text": "saya sudah melakukan pembtalan tiket pesawat dan sdh lewat 7 hari refund belum saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e340ec16-801e-46c3-9751-0ca0dbda4a46",
+    "data": [
+      {
+        "text": "ovo cash senilai 90rb tidak kembali padahal pesanan di batalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c58ea3eb-72f7-4373-8e3e-6c804fde4577",
+    "data": [
+      {
+        "text": "Saya pernah komplein soal dana gantung saya transaksi tanggal 20 Agustus 2018. Transaksi ID invoice PDM-2BEA6-5QPM dana sebesar 749.432. ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2219f1ba-da6b-4f16-a65f-979b94c56423",
+    "data": [
+      {
+        "text": "uang saya ga dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dd2aaf22-4ced-474c-8355-7ef4613e2a4d",
+    "data": [
+      {
+        "text": "untuk perihan pengembalian dana ,apakah harus nunggu 2x24 jam.kemarin siang saya transfer tapi saya batalin karena kekurangan nominal uang.transaksi yang satu nya sudah selesai,tapi yang saya batal kan dana nya belum di kembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "748753a2-dfff-4414-833c-9476bf1a35d9",
+    "data": [
+      {
+        "text": "transaksi batal, dana belum kembalirp. 1.422.800",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b2f5dd84-5cbe-4fa3-8559-e6109508a75b",
+    "data": [
+      {
+        "text": "sekarang tidak ada pengembalian dana padahal jelas jelas batal. !",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fef38414-3b57-4cb5-818f-235ed0db5099",
+    "data": [
+      {
+        "text": "saya ada melakukan order, setelah transfer ternyata barang habis dan infonya dananya sudah dikembalikan ke saldo tokopedia, tp kenapa sampe skrg saldo saya belum bertambah ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fbbafced-d640-428d-96c9-6c87f33eab6b",
+    "data": [
+      {
+        "text": "pesanan saya dibatalkan tp yg kembali hanya ovo point saja, ovo cashnya belum dikembalikan, tolong diproses ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5bd0767f-98e3-46cf-9fb4-aabf03f714d2",
+    "data": [
+      {
+        "text": "pesanan saya dibatalkan oleh tokopedia tp kenapa dananya belum kembali ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "319e7b50-c5b0-45c2-a26d-c7acae3c61d2",
+    "data": [
+      {
+        "text": "mau tanya, saya ada pesanan di batalin, tapi kenapa ovo cash saya ga ada ya? padahal dichat sudah dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a85b7156-fa9d-4719-b3cb-e862789e2a6d",
+    "data": [
+      {
+        "text": "berapa lama waktu yang dibutuhkan untuk kembali ke saldo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3769b2f1-6c95-4ab5-8c34-5610bb98d18c",
+    "data": [
+      {
+        "text": "sudah transfer untuk pembelian tile spacer namun setelah saya transfer via mbanking BCA  nominal verivikasi sistem Tokopedia berubah harga. saya minta refund saja karna harga tidak sesuai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "71261504-b868-4772-9bba-99ea2801201d",
+    "data": [
+      {
+        "text": "koq dana ovo cash sya blm balik ya? td pagi sya ada pembatalan transaksi tp dana nya blm balik lg niey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c76f50c5-59fc-41e1-8565-39f5ed81cb49",
+    "data": [
+      {
+        "text": "transaksi dibatalkan ya...uang sy knp blom dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a14ac053-e18d-48a6-822f-26415b22c152",
+    "data": [
+      {
+        "text": "ada transaksi yang dibatalkan tetapi sudah transfer gimana utk refund nya??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0c6fb375-d64b-4770-950b-65608e497c6b",
+    "data": [
+      {
+        "text": "kendala sudah di tutup tapi dana tidak kunjung dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "26709a77-59d5-4f43-9c31-e7f8fc88c7e6",
+    "data": [
+      {
+        "text": "halooo katanya sy mau dpt uang refund yaaa.   dalam 3 hr krja sdgkn ini sdh 7hr saya cek brkala dana blm masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e18df98b-0fa4-410e-81dd-a722ef66d836",
+    "data": [
+      {
+        "text": "Setelah pembelian saya dibatalkan saldo belum kembali di OVO sayasaya sudah dapat notifikasi sbb: Dana senilai Rp 108.700 telah dikembalikan ke Saldo Anda.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6826bff4-8872-427e-a260-14ff77713aa7",
+    "data": [
+      {
+        "text": "kenapa pesanan saya ci cancel tp ovo cash saya sebesar 90rb blm di kembalikan cm ovo point yg kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d21ef3b3-4935-4224-b116-6bf482e65674",
+    "data": [
+      {
+        "text": "alu kok ovo point sya ga balik..?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b1aeb3cc-1fc4-4251-92c4-db47912c7a4c",
+    "data": [
+      {
+        "text": "melakukan pembelian tapi transaksi sudah dibatalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4d24f2d6-3879-489a-bbc6-0987d81e9190",
+    "data": [
+      {
+        "text": "Liat dana yg sdh dikembalikan dimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7e64d541-9c6c-4f4c-9034-face0c2e512d",
+    "data": [
+      {
+        "text": "dana refund belum masuk.. dari kemaren.. trims",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "77b8597d-62ee-4d41-b7d7-26377f8e88be",
+    "data": [
+      {
+        "text": "di keterangan katanya refund saldo 741 dan 930.. tapi kenapa ya total saldo cuma 930",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "74cc534d-bc68-4a4e-a079-f18c07a5c629",
+    "data": [
+      {
+        "text": "DANA BELOM DI PROSES2 BIASANYA GA SELAMA INI SEBESAR 12JUTA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "999e9abe-3080-40f1-b5c4-71446cb1ce6e",
+    "data": [
+      {
+        "text": "transaksi dibatalkan oleh sistem,dana sebagian menggunakan ovo point tapi belum di kembalikan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2e8bf1d1-9a91-49af-b450-c67abcd9b426",
+    "data": [
+      {
+        "text": "dana pembelian barang yg dibatalkan krn seller tidak ada respon belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4166af3c-ed59-48ed-9aca-a1b27779fdcc",
+    "data": [
+      {
+        "text": "sya mw komplain dana ovo senilai Rp.9863 koq belum ada msuk ya (refund), hanya ovo points saja yg msuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e5f85044-4b6d-49f3-8f82-e67139fee236",
+    "data": [
+      {
+        "text": "dana sebesar 2509000 belum kembali ke saldo toped setelah transaksi batal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "13a6eea2-a26a-4a1a-8e13-640340ca03cc",
+    "data": [
+      {
+        "text": "tokopedia menginformasikan dana dikembalikan sebesar 176.000tp tidak ada dana yg masuk di tcash atau di rekening saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "143e863e-26c4-4c61-80ca-821a33ff018f",
+    "data": [
+      {
+        "text": "hai toped kmren saya order barng tapi dibatlkan dari pihak toped dn dana saya kok tidak di balikin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5a4e5432-8ba7-4177-b8de-362c7ce7ad36",
+    "data": [
+      {
+        "text": "saya camcel pembelian, dan dapat info, dana sudah masuk ke rekening tapi saya cek tidak ada saldo. baik di ovo ataupun rekening saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "04d09693-ff20-4a8b-854d-d3fbf8e124dd",
+    "data": [
+      {
+        "text": "Pesanan batal, terus uang nya smpe sekarang blom dibalikin ke rekening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8482b6b3-c644-41ba-b48a-7984e22df34c",
+    "data": [
+      {
+        "text": "Proses pengembalian dana sampai saat ini masih belum ada kejelasan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f16aa62e-f08d-4691-b518-45bdf697589e",
+    "data": [
+      {
+        "text": "sampai saat ini belum ada refund dari toped sementara status transaksi di batalkan otomatis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9e35c31b-4bd8-4050-907a-5bb1a62fa1d6",
+    "data": [
+      {
+        "text": "Saldo TokoCash saya tidak kembali saat saya batalkan transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f7a61a30-69a6-4118-a6de-7e0b78ebe868",
+    "data": [
+      {
+        "text": "refund pesanan saya blum dikembalikan dr tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0de557e2-0b3b-424e-b8ae-595f9d0dd6cd",
+    "data": [
+      {
+        "text": "sudah refund, kata system saldo sudah bertambah.. tp saya cek saldo gak ada yg brrtambah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3bb02055-685f-4974-8622-6c431c11b2e7",
+    "data": [
+      {
+        "text": "mat malam.. kalo refund kembali kesaldo mana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "df1e0706-5ed2-41d5-8ca1-cabc616e4211",
+    "data": [
+      {
+        "text": "kenapa dana yang sudah saya transfer kok belum dikembalikan ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "573d6e34-d830-4ba3-8d15-e13898d32db0",
+    "data": [
+      {
+        "text": "Dana telah dikembalikan ke Saldo Anda Saya cek di akun Tokopedia saya maupun di rekening tabungan saya nggak ada saldo yg masuk.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cabe39c9-0daa-475c-b2c2-b412009587b9",
+    "data": [
+      {
+        "text": "pembayaran melebihi batas waktu pembayaran sehingga status pembayaran menjadi failed tetapi uang sudah masuk ke rekening tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8b8c8db8-eed5-453f-8b3b-84b6ed2b02d9",
+    "data": [
+      {
+        "text": "saya sudah melakukan pencairan dana, di email sudah ada notifkasi bahwa dana sudah masuk hari jumat,ketika saya cek tadi pagi ko masih belum masuk min,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "66be5147-d796-4219-b3b3-fd7bfae4e197",
+    "data": [
+      {
+        "text": "refund sampai skrng tidak masuk2 dana nya . saya sudah menunggu nya .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4b770ac2-2b42-43ef-809d-2f81272b53bb",
+    "data": [
+      {
+        "text": "saya mendapatkan info dr tokopedia bahwa dana dikembalikan ke rekening.namun sampai skrg dana tsb blm masuk ke rek saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "bcde6340-892f-400e-a0a7-d1ecd797b5ff",
+    "data": [
+      {
+        "text": "knp tokocash saya o. padahal ada chat dana dikembalikan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e3e2146b-e72c-459c-b3c9-866c0e3acf91",
+    "data": [
+      {
+        "text": ")saldo refund belum masuk.tlg ditransfer balik ke rek bca sy tq",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f4dec2dd-2828-47c1-8de7-437402dec961",
+    "data": [
+      {
+        "text": "mas/mba.. saya dapat chat dsri tokopedia untuk pengembalian dana.. tertanggal 23 oktobertapi sampai skrg dana tersebut belum masuk ke akun saya.. karna sudah lebih dari 2x24 jammohon dibantu ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1171a66c-1759-4dc3-a829-a8b160e048af",
+    "data": [
+      {
+        "text": "transaksi pembelian barang saya batalkan dan sy sudah melakukan pembayaran melalui transfer atm mandiri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cefb43f6-ffb0-4129-b683-c8b40ace5c4b",
+    "data": [
+      {
+        "text": "Transaksi dibatalkan sepihak. Uang org gak jelas nyangkut dimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "017538fc-6e9b-4e10-9a5b-2eb233622bb8",
+    "data": [
+      {
+        "text": "Saya membatalkan pesanan dan Toko cash saya blm kembali 40000",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a8d36f07-124f-454e-ad34-3527a82f14e9",
+    "data": [
+      {
+        "text": "belum kembali ke saldo mohon penjelasan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0b4bc713-328e-4513-814f-6cfcb9928661",
+    "data": [
+      {
+        "text": "Transaksi saya ditolak dan ada info dikembalikan ke Saldo saya (diatas).  Tapi saya belum LIHAT SALDO tsb.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "79236503-3387-4ad9-b386-234d2527bd66",
+    "data": [
+      {
+        "text": "saya pakai ovocash 300k, tapi belum direfund sampai sekarang.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6cfa139b-6c5d-4563-b7b7-642b77c9e81e",
+    "data": [
+      {
+        "text": "refund blm diterima pdhl transaksi dibatalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "27a07bd8-7c7c-4a50-b27f-1af24f667018",
+    "data": [
+      {
+        "text": "saya melakukan transaksi, tp di batalkan sepihak dr penjual, smp saat ini blm ada pengembalian ke akun kredivo, mohon bantuannya, thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ba5649de-ab01-49e5-ae2a-0a0887320634",
+    "data": [
+      {
+        "text": "blm ada pengembalian dana seperti solusi yg di janjikan di pusat resolusi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9cb9f326-d97d-4db1-adb1-84d4011cbb04",
+    "data": [
+      {
+        "text": "ada pesanan tp di batalkan, katanya dana saya udah di balikkin tp saya cek saldo ovo saya kok gak nambah ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d7e8c925-7cf1-484a-ad45-59d1b3a29eb2",
+    "data": [
+      {
+        "text": "refund belum masuk atas pembatalan transaksi ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "53347336-eea2-4a4c-91d9-9d10ebf72b41",
+    "data": [
+      {
+        "text": "saya membatalkan pembayaran/transaksi, menggunakan BCA klikpay dan sebagian dari OVO saya. Poin OVO saya sudah kembali. Tetapi Saldo saya belum kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2ca3176b-2cd3-4ce4-ab42-3a63c80facca",
+    "data": [
+      {
+        "text": "Saldo tcash tidak kembali utk Transaksi yg di batalkan penjual..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "76b6a841-61d4-4508-a703-800131631117",
+    "data": [
+      {
+        "text": "sy sdh membatalkan transaksi INV/20181115/XVIII/XI/232054384 krn stock brg tdk ada. Kapan sy dpt pengembalian dana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "86dc9ee5-811b-4bad-92bb-dd31ad19e845",
+    "data": [
+      {
+        "text": "Saya belanja pakai ovo point, tapi trasaksi saya batalkan, tapi knp ovo poin yg batal tdk di refund ??166rb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "646e9bad-7b0c-4d2c-8831-1abfe8778334",
+    "data": [
+      {
+        "text": "transaksi dibatalkan secara otomatis oleh sistem tapi uang di tokocash atau tokopoint tidak kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c78054f1-7360-4a0e-8290-cecdc7921516",
+    "data": [
+      {
+        "text": "transaksi dibatalkan. tapi sudah transfer.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3e6bf898-0eba-4cc0-b4ff-65a304bac8dc",
+    "data": [
+      {
+        "text": "saya ingin menanyakan mengenai pengembalian danapembelian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a38012b1-4711-45e4-b0c6-bac10a188b66",
+    "data": [
+      {
+        "text": "saya telah memesan barang dan melakukan pembayaran via briva, tapi status pemesanan saya di batalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9f36edc9-4572-4a1c-994b-71b852a9d158",
+    "data": [
+      {
+        "text": "akun tokocash saya sudah dikembalikan, namun tidak masuk disaldo saya, kenapa yah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "01e5782a-9383-4b36-9036-3eee58acd451",
+    "data": [
+      {
+        "text": "Pesanan pembatalan saya uang kembali ke mana, karena saya belum terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "630c51d3-bbe6-478e-8885-8cac773e300a",
+    "data": [
+      {
+        "text": "saya menerima chat dari TOPED bahwa akan mengembalikan dana saya sebesar 2 juta atas transaksi yg tidak berhasil. sampai sekarang kenapa dananya belum masuk ya ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "35a8e089-0c79-45df-a0db-df0366141176",
+    "data": [
+      {
+        "text": "ribbon barcode membatalkan traksaksi saya.. duit 54.200 saya belum di balikin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3895a949-59b2-43e0-a2c2-e0292cba009a",
+    "data": [
+      {
+        "text": "Saya masih blm menerima pengembalian Dana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5e918631-134c-429b-b4ea-73da74b4af05",
+    "data": [
+      {
+        "text": "bantu saya dong dari kemarin uang saya belum kembali padahal barang saya sudah kirim kembali dan sudah di terima penjual.. sepertinya penjual tidak mau menekan tombol terima pesanan bagaimanakan kelanjutan uang saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "01ca5cf4-bcbd-4152-b444-d2f74c26ef43",
+    "data": [
+      {
+        "text": "Saya membatalkan pembelian karena item yang saya mau tidak ada, namun refund nya belum saya terima.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fe2a6f6b-0ed3-4bbd-acd8-fb0d0a73c5bb",
+    "data": [
+      {
+        "text": "pembelian saya di cancel langsung setelah di transfer lewat virtual acount, tapi dana tidak masuk lagi ke rekening saya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "efc13933-ef9c-48a7-9847-950ade3cc9be",
+    "data": [
+      {
+        "text": "saya mendapatkan pemberitahuan bahwa dana saya dikembalikan, tapi yang saya terima di toko cash hanya 5.000 saja. yang 2.600.200 mana??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e6ce5820-b893-4213-884e-513a5f9dbab7",
+    "data": [
+      {
+        "text": "Mengapa ketika saya sudah membatalkan transaksi pembelian, dana cash di Toped pay  OVO saya masih saja tidak dikembalikan?? Sehingga mau langsung pakai untuk pembelian berikutnya, tidak bisa.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5680873b-9f93-4c88-ae1b-a3d9bb233cda",
+    "data": [
+      {
+        "text": "barang yg sya bayar di batalkan pdhal sya sdah membayar. tp saya blm dapat dana refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0fd35e2f-d9fb-4765-8955-85ce8be8e563",
+    "data": [
+      {
+        "text": "transaksi batal mengapa dana tidak di kembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "69752dd6-6403-437e-95cb-73ede7ab8dbb",
+    "data": [
+      {
+        "text": "sy melalukan pembatalan transaksi kemudian ada notifikasi bahwa saldo sudah di kembalikan. setelah sy cek tdk ada dana masuk ke rekening saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6dff11ea-3511-470b-93b5-8fb8000e2f09",
+    "data": [
+      {
+        "text": "Dana senilai Rp 1.500.000 telah dikembalikan ke Saldo Tokopedia Anda. (Payment ID PLS1093565196) \u0026gt;\u0026gt;\u0026gt;\u0026gt; saya keberatan krn dana sdh sempat terdebet dr BCA saya 2 hari . Mengapa bisa dibatalkan sepihak ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "897ed971-d3d9-4f84-aeff-f60402f23ab3",
+    "data": [
+      {
+        "text": "penjual nggak kirim barang sd batas kirim shg uang yg sdh saya bayar di krmbalikan k saldo toped saya..tp saya cek koq nggak masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b69d53b9-5df5-4b1b-ac45-f602a2443056",
+    "data": [
+      {
+        "text": "saldo toko cash msh Rp.0 blm ada pemgembalisn dana, saya transaksi nya paka mBCA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a4954941-85dc-4622-983d-ce48c3eadf9f",
+    "data": [
+      {
+        "text": "saya sudah membatalkannya, tapi sampai skrg masi blm saya terima refund nya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a747e42c-10c7-4200-b449-4676dd86ef5d",
+    "data": [
+      {
+        "text": "sudah 1x24 jm refund blm masuk, sangat merugikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a1c57990-f828-4448-bbf5-2643a4207df5",
+    "data": [
+      {
+        "text": "sudah 1x24 jam tapi refund belum juga diterima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6db9a2b2-1906-4000-8b23-721575f4fa2f",
+    "data": [
+      {
+        "text": "saya sudah menunggu refund 1x24jam tapi belum masuk juga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f2485fa1-4d14-4a58-b75b-452d547aa72b",
+    "data": [
+      {
+        "text": "Dana belum masuk. Apakah harus logout?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "72defc43-c402-4172-9f8f-3cb3d353b6b4",
+    "data": [
+      {
+        "text": "di live chat katanya dana akan kembali, tp belum ada dananya pdahal transaksinya batal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "237c2695-cb95-4480-9469-e94b50253344",
+    "data": [
+      {
+        "text": "apakah dana yg direfund sudah masuk ke saldo tokocash?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f664f777-f821-4c73-a076-c277a8025b48",
+    "data": [
+      {
+        "text": "saya sudah tranfer tp sudah lebih dari 12 jam masih belum terverifikasi kemudian saya cancel orderandan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fbf8c468-7f5b-41a9-b3f4-6591efca4e22",
+    "data": [
+      {
+        "text": " invoice ini di batalkan mohon bantuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1be548f5-d86b-4a57-8a32-266557dd8d07",
+    "data": [
+      {
+        "text": "dana ini dikembalikan kemana yah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "34fc4aca-3c79-4d97-a3e7-c67e300bc9df",
+    "data": [
+      {
+        "text": "tapi gagal dana dikembalikan bagaimana ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ccf2ac6d-19dd-462b-afa2-9187c3f10de9",
+    "data": [
+      {
+        "text": "transaksi dibatalkan tapi dananya belum balik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d38ae305-113f-4095-8634-b14200778aac",
+    "data": [
+      {
+        "text": "refund dana belum masuk ke toko cash",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "906dfd64-92e2-4cfb-aaa8-e4acfe477065",
+    "data": [
+      {
+        "text": "pembelian dibatalkan dana blm balik padahal saya sudah bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a140d080-8b35-4b5b-af9f-3ac4e1af7c5b",
+    "data": [
+      {
+        "text": "pembayaran sy batal tp dananya balik kemana ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "24778262-d851-416a-aa06-5352c8a8741c",
+    "data": [
+      {
+        "text": "duit saya belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5c18faa2-56cb-4fd5-9c34-87338ad6d9a7",
+    "data": [
+      {
+        "text": "belum masuk penarikan dana saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c10d12f6-ec86-4fa6-b6d9-8ad96321f688",
+    "data": [
+      {
+        "text": "pengembalian dana karena pembatalan produk saya blom ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "66a5c965-f6ed-4e34-96cd-4a6c7030c618",
+    "data": [
+      {
+        "text": "dana refund ke pembeli blom masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ae93d3d3-226d-410c-9544-b836fb65e19b",
+    "data": [
+      {
+        "text": "dana saya blm direfund ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5c444d86-f160-476f-8ffb-49087742f09d",
+    "data": [
+      {
+        "text": "kenapa dana saya blm cair .setelah pembatalan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1eb43340-215a-4889-892c-89da83487a06",
+    "data": [
+      {
+        "text": "Kenapa dana refund saya belum masuk ke saldo saya ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "465ae043-cf87-43d1-8b48-82f563689d0f",
+    "data": [
+      {
+        "text": "sudah ada diinbox chat pengembalian toko cash, tapi saldo toko cash belum kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "be538bf0-a432-4329-83a1-171ecbb001d0",
+    "data": [
+      {
+        "text": "INV/20181031/XVIII/X/224970872 transaksi saya 1jt. tercancel seller. tapi yg ke refund cm 28rb. ovo tidak berfungsi. kemana uang saya 970rb sisanya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "63f3d288-22fa-40e9-91c0-35ec1408f5e1",
+    "data": [
+      {
+        "text": "saldo sebesar 46.750 rb belum balik ke saldo saya karena sistem pembayaran belanja saya sudah expired",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c399d0bb-bae5-4776-8074-9751a30bdc15",
+    "data": [
+      {
+        "text": "pesanan di batalkan, saya pakai tokocash. knp tokocash saya 0 ?. padahal ada chat dana dikembalikan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "da2e51f7-07c9-4c04-bdbd-2ccbc39cb9f8",
+    "data": [
+      {
+        "text": "kenapa pengembalian dana saya tak kunjung datang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6ec7d288-8572-4e1a-aaba-e6e5ef4a84a8",
+    "data": [
+      {
+        "text": "transaksi saya batalin.. tetapi saldo tokocash tidak dibalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4ffb6ae6-04b7-491b-bcf6-51ccf83f844a",
+    "data": [
+      {
+        "text": "selamat pg...td mlm sy beli brng dr 2 toko. metoda trf mnggunakan sms banking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "be696d3a-c2fd-4753-a648-d9652bf2b506",
+    "data": [
+      {
+        "text": "kenapa dana saya belum kembali? komplain kan sudah jelas, penjual tidak mau melakukan pengecekan ke kurir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6e2ac5a0-dc26-4daa-9963-a4e352f9b7b6",
+    "data": [
+      {
+        "text": "kok dana saya di tokocash yg di cancel dr seller blm balik ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5c74ec8c-aee8-4222-bc0b-a803088159ae",
+    "data": [
+      {
+        "text": "dana belum kembali sebesar 64.000",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "62ee8d83-10b9-4a2f-b78b-996c1d91bb3d",
+    "data": [
+      {
+        "text": "saya baru saja melakukan transaksi menggunakan ovo, dan saya membatalkannya, seharusanya dana ovo kembali lgi kan, tpi blm kembali dana saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3f88e657-8fc6-4a10-bee7-1d57a1a61cda",
+    "data": [
+      {
+        "text": "sudah lebih dari 24 jam dana saya belum kembali ke rekening bank mandiri saya.transaksi yang saya lakukan adalah pbayaran tokopedia menggunakan virtual account bank mandiri.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "377bc7d1-dfb6-40ef-8184-7700456ac4f2",
+    "data": [
+      {
+        "text": "dana refund msuk brp hri krja yaaa...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "34f1b803-7172-4efe-ac41-f1bc56632108",
+    "data": [
+      {
+        "text": "Saya mengajukan refund dah telah diproses sejak tgl 23 Oktober 2018. Dan dikatakan bahwa proses adalah maksimal 7 hari kerja. Sudah melewati 7 hari kerja tapi sama sekali belum ada dana yg dikembalikan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "766d9297-a491-45d0-8629-bf583cd38edf",
+    "data": [
+      {
+        "text": "saldo saya gak kembali ke tokopediamohon bantuan nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8d6025d8-350f-4569-94a0-d370aa490d91",
+    "data": [
+      {
+        "text": "Dana senilai Rp 1.068.417 telah dikembalikan ke Saldo Anda. (Payment ID PLS1086943356)belum masuk tokocash",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "304588ae-17a1-4401-ad4d-afec273bbdac",
+    "data": [
+      {
+        "text": "saya ada pesan barang salah quantity lalu saya batalkan. lalu saya pakai tokocash sebagiankenapa tokocash saya masih nol.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c64e2f5a-b11c-4522-92c8-0784461ce771",
+    "data": [
+      {
+        "text": "Dibatalkan sedang kan sy sdh tranfer tgl 02 nop 2018 dr rek. a.n. siti khadidjah mhn direfun transferan nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "058dc164-9df7-4a01-9934-bcbfcd06c406",
+    "data": [
+      {
+        "text": "transaksi dibatalkan, apakah uang sudah dikembalikan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "983b2871-66eb-40bb-a3b1-9910367a5d69",
+    "data": [
+      {
+        "text": "dana yang sudah terdebet dari rekening tp gagal konfirmasi belum masuk kembali ke rekening padahal sudah mendapatkan chat kalo dana sudah dikembalikan ke rekening saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5151662b-633e-4eae-bf86-809941e549e8",
+    "data": [
+      {
+        "text": "Saya melakukan pembayaran kartu kredit tgl 3dec 2018, lalu menerima message sbb:Dana senilai Rp 3.000.000 telah dikembalikan ke Saldo Tokopedia Anda. (Payment ID PLS1095733621)Mengapa payment ini dicancel? Apa yg bisa saya lakukan dgn dana ini, bisa ditransfer lg kah keluar tokopedia??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "10783250-c3e2-4c2b-80e9-7cf3ef0e311d",
+    "data": [
+      {
+        "text": "Dana 40.000 tdk dikembalikan utk transaksi INV/20181124/XVIII/XI/236639397",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0c02e084-df16-4afe-bae9-f62ff1aa7e69",
+    "data": [
+      {
+        "text": "kami sudah bayar via atm bca tapi.produk kami langsung di batalkan oleh penjual. kami mau kirim pembayaran kami bagaimana caranya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3c018f49-c2ab-4a94-9267-7c730724b070",
+    "data": [
+      {
+        "text": "Barusan saya mau beli pulsa listrik namun gagal setelah memasukan ccv kartu kredit dan dana tidak terpotong katanya. cuma ovo points yang td saya mau gunakan jd 0...tadinya ada 100 ribu...tolong bantu yah..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "96be1015-cb7d-4ba6-82db-fb4fc3ea1c45",
+    "data": [
+      {
+        "text": "trx kereta dibatalkan tetapi dana belum masuk. id 478121468137",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "688852d8-6c5d-4a58-ad21-4624b2b6a623",
+    "data": [
+      {
+        "text": "Knapa dana saya blom di refund jga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b941c1ff-5769-4f6e-aadc-5062cfe6158a",
+    "data": [
+      {
+        "text": "kenapa transaksi saya dibatalkan? alasannya apa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "27a064da-9e5d-4d4c-8941-e35fec47186f",
+    "data": [
+      {
+        "text": "sy mau menanyakan pengembalian dana ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b7f807b6-340b-40a9-998a-8e199bfc2b42",
+    "data": [
+      {
+        "text": "Ovo cash 70rban saya belum balik. Padahal saya gak jadi beli. Tapi di notifikasi bilangnya sudah dikembalikan.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "609101e5-2a24-413c-8a41-7090e1d3b031",
+    "data": [
+      {
+        "text": "Kenapa sya bayar listrik tapi dibatalkan dan dana yang sudah sya transfer blm dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a86ce237-7899-4e20-909a-7c8e8c416bf9",
+    "data": [
+      {
+        "text": "Dana senilai Rp 4.100.000 telah dikembalikan ke Saldo Tokopedia Anda. (Payment ID PLS1094422710) . klo iti di kembalikannya ke mana ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5a9d0e30-8a5f-4acf-8b48-8043c16a2f5b",
+    "data": [
+      {
+        "text": "Pembayaran Kartu Kredit BNI tidak berhasil tapi dana belum kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a5ac6552-635e-4a51-aff1-af2381f96ea5",
+    "data": [
+      {
+        "text": "kenapa pembayaran cc bni saya dikembalikan? . trus bagaimana cara mengambil dananya kembali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7f8c0e40-85c9-488c-bae3-f4cf7b011965",
+    "data": [
+      {
+        "text": "Dana senilai Rp 613.470 telah dikembalikan ke Saldo Tokopedia Anda. (Payment ID PLS1095742651)Kenapa ditolak?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cad77a53-622c-4254-9551-02fef009b5ea",
+    "data": [
+      {
+        "text": "halo transaksi saya untuk pembayaran kartu kredit statusnya dibatalkan tapi saldo belum kembali. tolong dicek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9215c02e-0bc4-4632-bb0c-bdd826a31137",
+    "data": [
+      {
+        "text": "Pengembalian Dana Rp 161.895 ke Saldo Tokopedia Pada 2018-12-05 21:15 (Success) BERHASIL di prosesKenapa dana dikembalikan krn ini untuk pembayaran air PDAM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "97dff37a-247d-4b26-be96-c62114ee7555",
+    "data": [
+      {
+        "text": "Trx dibatalkan tp dana blm kembali.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ceacca1a-c645-4edc-aad2-41ebbbb22862",
+    "data": [
+      {
+        "text": "Ovo point sudah balik tapi saldo ovo saya belum balik padahal di status sudah kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "29002194-e379-459e-889f-132257eb038c",
+    "data": [
+      {
+        "text": " gagal namun uang belum dikembalikan ke toko points",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "be752cda-c215-4c82-add5-986cf9c4e409",
+    "data": [
+      {
+        "text": "transaksi saya dibatalkan oleh toko pedia sudah 2x 24 jam uang saya belum masuk ke ivo toko cash ovo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4dfa102e-6e87-4589-8785-0e94dac0b1f6",
+    "data": [
+      {
+        "text": "Ovo cash belum balik lagi dari transaksi yg gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "644ad710-2a9e-41a6-ba41-64ded888b395",
+    "data": [
+      {
+        "text": "refund belum masuk tapi di chat bantuan katanya udh direfund 98.000",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "53d46e8a-b3a7-4c70-a532-d38dcdc9429e",
+    "data": [
+      {
+        "text": "dapet notif dana dikembalikan, tapi saldo ovo tidak bertambah..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7c986116-1442-4297-ac9f-43f7d2533bc1",
+    "data": [
+      {
+        "text": "Dana refund belum masuk ke saldo ovo tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ab5b8837-5d97-4bf3-b817-47ed036b5792",
+    "data": [
+      {
+        "text": "Seller sudah cancel orderan saya tapi saldo nya belum kembali ke saldo saya...",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "96142769-70e6-4c7f-b39b-0f26718e9ab7",
+    "data": [
+      {
+        "text": "Kenapa dana saya belum kembali? Padahal dari pihak penjual sudah cancel orderan dari saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9761af05-0642-4334-8ad1-1d54e3e1ede1",
+    "data": [
+      {
+        "text": "sudah melakukan pembayarantransaksi dibatalkan epnhual",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c053cb28-4845-4047-b9d7-8a0bf7e10d68",
+    "data": [
+      {
+        "text": "Saya sudah transfer dan saya telah membatalkan transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3b02a7c2-726f-4f77-b464-79531af80a88",
+    "data": [
+      {
+        "text": "Kekurangan pengembalian transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "13dff05e-b689-43d8-aa40-621c35ca768c",
+    "data": [
+      {
+        "text": "sebelumnya saya sempet cancel transaksi,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "eb461f5e-d790-44f8-b4d4-b514fa86ffcf",
+    "data": [
+      {
+        "text": "tolong kembalikan uang saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "edbab366-a765-45c4-8d58-2023de454165",
+    "data": [
+      {
+        "text": "Dana saya belum direfund sampai sekarang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "504c76c8-7a65-4e11-a0fd-cda10125fdaa",
+    "data": [
+      {
+        "text": "Barang dibatalkan olrh toko dana belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fd1caea6-8ccf-46a5-8c13-7a4ab4387a37",
+    "data": [
+      {
+        "text": "pesanan saya batal pakai ovo point tapi belum kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ef9a7999-f127-4170-9ef9-58b87d7bf067",
+    "data": [
+      {
+        "text": "Dana di tolak dana velum di kembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cac51f1a-3348-40ee-af24-1fac33cce3a5",
+    "data": [
+      {
+        "text": "Transaksi gagal dana dikembalikan, tetapi dikembalikan kemana ya? saya cek dana refund blm ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b19abc68-542d-4921-ad57-cd9752cf6394",
+    "data": [
+      {
+        "text": "padahal di tokped sudah dibatalkan oleh penjual tp dananya blm balik\u0027",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5f2cf066-e64b-4bd1-ab8d-822497d72239",
+    "data": [
+      {
+        "text": "Dana refund belum masuk ke saldo tokped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e0f877b9-eab3-47d3-9a74-be74372cc821",
+    "data": [
+      {
+        "text": "dana refund gak ada yang masuk? . ovo juga gak ada?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "18e19764-851c-4225-8089-5e04b327f2ec",
+    "data": [
+      {
+        "text": "Pengembalian dana belum masuk toko cash, Pd hal di pesan sdh ada sms pengembalian berhasil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6ccf33af-a22e-4c76-a82b-be8f0db01148",
+    "data": [
+      {
+        "text": "Dana pengembalian belum kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fd73cdd2-da6a-4348-a53c-57952f6e7330",
+    "data": [
+      {
+        "text": "transaksi dibatalkan tetapi saldo ovo tidak kembali . apakah kamu punya solusi ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "15732de5-35de-45ed-a7c6-c4cdd23b99a5",
+    "data": [
+      {
+        "text": "Pembatalan pesanan tapi Dana lom masuk ke saldo dana saya,  hanya ovopoint yg masuk.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e1d0d574-3bf9-4bb0-bb4f-4e1a2d807936",
+    "data": [
+      {
+        "text": "transaksi gagal, tapi ovo cash tidak kembali . tidak ada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2b81cbdd-c0c4-4095-b655-7c6db5de87f7",
+    "data": [
+      {
+        "text": "tapi transaksi d batalkan sistem n uang blom kembali nih.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "caca97c7-ae1a-4d22-830d-17eff4b688c2",
+    "data": [
+      {
+        "text": "ovo point tdk balik lagi.. sy pas batalin transaksi..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "405db343-12d6-4d38-927e-5c5e62e493f1",
+    "data": [
+      {
+        "text": "pembayaran saya terakhir dibatalkan kenapa ovo point saya tidak kembali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e4c87f55-8699-45ff-a90c-b5105191c81d",
+    "data": [
+      {
+        "text": "refund belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "744c6bbe-eeca-4515-acd1-b0fd056a4c95",
+    "data": [
+      {
+        "text": "Tetapi pesanan saya dibatalkanUang saya gmn ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "adfeb36f-e618-4a01-9d46-25e318b4c726",
+    "data": [
+      {
+        "text": "Pagi , knapa Dana saya tidak dikembalikan ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e6c16d8c-1d1b-43ef-8224-1b6922da1591",
+    "data": [
+      {
+        "text": "saya melakukan pembayaran di toped. ttp transaksi dibatalkan dan uangnya tidak dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2eb23a99-fa65-483c-b6aa-c96928156ada",
+    "data": [
+      {
+        "text": "Transaksi sy ditolak oleh penjual tapi uangnya blm balik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "aa9c0873-cfc9-44ad-a316-19c0cb07caab",
+    "data": [
+      {
+        "text": "Refund saya belum masuk, apa memang lama? Tapi kenapa tulisannya di refund ke saldo tokopedia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5e763e39-a43f-4b79-a007-c81b78549c05",
+    "data": [
+      {
+        "text": "api dana blm masuk ke ovo saya.. kmrn pembayaran lewat ovo . biasanya nunggu berapa lama dana masuk nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cf4cf89a-4b1f-4c0e-b809-46d2a812e83e",
+    "data": [
+      {
+        "text": "duit sy kpn dibalikin toped????",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "32197ac8-5a72-4b9c-8acf-ecf12d73b4ca",
+    "data": [
+      {
+        "text": "saldo rekening BNI saya sudah terpotong tetapi transaksi d batalkan, kalau benar sudah masuk tokopedia tolong dana saya d kembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "139cf0fe-9ec0-4345-99bf-bee53c30e529",
+    "data": [
+      {
+        "text": "sy mau konfirmasi, knp dana pembatalan pesanan dr seller blm masuk ke saldo sy ya min",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "916a9972-a058-4f0c-8b97-36e03b4c1c9f",
+    "data": [
+      {
+        "text": "barang saya di cancel oleh penjual. dana saya d kreditkan ke mana ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a83bca7f-4fe4-4910-aba2-1378bde7fa05",
+    "data": [
+      {
+        "text": "Sdh d Bayar tp Di batalkan tokopedia Dan uang tidak kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cb14ba7d-5091-4412-9912-11fd982f825a",
+    "data": [
+      {
+        "text": "pengembalian dana blm masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b6be2d6d-f8fa-4644-81a0-4a6a48c03506",
+    "data": [
+      {
+        "text": "saya belum menerima pengembalian dana transaksi yg di batalkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a95e1ea7-8dd1-401a-9827-24bdc195547f",
+    "data": [
+      {
+        "text": "hello untuk pembatalan pesanan, duitnya direfund kapan ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0726645e-d549-4876-bcb4-9f716af278bd",
+    "data": [
+      {
+        "text": "Mohon penjelasan kelanjutan Dana yg Saya keluarkan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f2058c5e-faa9-4d9e-bfcb-0e989e15c798",
+    "data": [
+      {
+        "text": "refund saldo ovo atas pembelian terakhir saya belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "167aa55c-7698-47ca-853c-1a226095bcc1",
+    "data": [
+      {
+        "text": "pesanan dibatalkan, dana sudah sejak kemaren belum kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7b387036-5084-4aaa-ba09-7c86e37ca84a",
+    "data": [
+      {
+        "text": "Transaksi sdh dibatalkan namun blm ada dana pembatalan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6c9288aa-5309-4d5e-a826-ed0281a25489",
+    "data": [
+      {
+        "text": "Refund dana belum di terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "09e06449-326a-4d99-8e59-8b06ebcfe8ad",
+    "data": [
+      {
+        "text": "kapan uangnya kembali ya?Terima kasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9a83c216-d296-4c12-ba25-41f7f6543a93",
+    "data": [
+      {
+        "text": "uang ak blum refund nih gimn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fa71ce12-694e-4eea-a544-662865eda721",
+    "data": [
+      {
+        "text": "transaksi saya sudah dibatalkan otomatis oleh sistem tapi ini kok blum kembali ya?apa ada yang salah?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1088c680-c01a-4e13-acd3-59a99c7b4ee1",
+    "data": [
+      {
+        "text": "Hallo syaa mau tanya, kenapa uang saya belum kembali ke akun saya ya ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5eaf6a60-d0e9-40b8-99d5-c8962784ae86",
+    "data": [
+      {
+        "text": "saldo tokopedia belum kembali.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "cbc51266-084c-4562-92c0-44cd4cd8e76b",
+    "data": [
+      {
+        "text": "saya sudah nunggu tapi uang belum juga kembali.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "98fa4f97-2037-4469-87bb-36370ae1599e",
+    "data": [
+      {
+        "text": "refund dana kok blom masuk ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "1ab46a4f-6eca-4f5a-8638-afa5404433be",
+    "data": [
+      {
+        "text": "Pembelian saya dibatalkan. Uangnya kembali kemana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a3f68e1d-7e0c-46ce-8b13-85db50a8c2ba",
+    "data": [
+      {
+        "text": "ini saya sudah transfer tp kepencet batalkan transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4f3258af-23e3-4095-a80a-a72260389e82",
+    "data": [
+      {
+        "text": "Saya melakukan pembatalan transaksi, tetapi sampai sekarang Ovo Point saya tidak kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9720d097-a5df-4316-8e48-6d83625960f3",
+    "data": [
+      {
+        "text": "saya mau menanyakan pesanan saya yang dibatalkan sesaat setelah saya bayar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0314341e-4e01-4d84-a347-b3b9c46ce58d",
+    "data": [
+      {
+        "text": "Barang yang di beli di batalkan  .. dana belum kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c99c087f-7564-4da5-9d15-7c24121b856f",
+    "data": [
+      {
+        "text": "saya tidak mendapat pengembalian dana setelah pesanan ditolak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "72ce699e-96c8-4383-ae9f-2d602ca7cc6f",
+    "data": [
+      {
+        "text": "Dana ovo saya belum kembali bosku",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d47c4ae0-31e0-4517-a7b7-caf0d5f48b31",
+    "data": [
+      {
+        "text": "pesanan batal dan kapan dananya dikembalikan ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "02951556-8dbc-4be9-bf98-d946cba78fa7",
+    "data": [
+      {
+        "text": "mohon informasi utk transaksi saya yg hari ini dicancel penjual. utk dana kok blm masuk ke saldo toped saya ya .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dd68dbc3-611b-4f0d-8d76-6c574d09a60a",
+    "data": [
+      {
+        "text": "Kenapa uang saya belum masuk ya? Padahal dibatalkan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b46bb282-d507-4e1c-98a0-3e4215480851",
+    "data": [
+      {
+        "text": "pengembalian dana ke ovo sampai sekarang belum masuk, sdh diinfokan dr toped tapi sampai sekarang belum saya terima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5a5f0a01-3385-4347-95f1-057f4f10cc3f",
+    "data": [
+      {
+        "text": "Saya melalukan pembatalan transaksi. Pembayaran nya menggunakan kartu kredit, ovo cash dan ovo point. Ovo point saya sudah kembali, tapi ovo cash saya belum.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e1dcdcb8-610e-4a92-8f11-b94fca2ee0ff",
+    "data": [
+      {
+        "text": "belum ada pengembalian dana, sudah 1×24 jam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "95a7891d-b68b-4748-94f5-a5bd121a8259",
+    "data": [
+      {
+        "text": "Transaksi sudah dibatalkan tp dana blm balik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4f9051a4-2830-413b-9604-acd735a0b5ae",
+    "data": [
+      {
+        "text": "Dana ga balik, transaksi dibatalkan penjual. ini invoice nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e76ce3d2-f294-484b-979a-62136a83acfb",
+    "data": [
+      {
+        "text": "Saya cancel transaksi untuk merubah rincian tapi kenapa saldo Ovo saya tidak kembali ke akun?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "52ad9157-ffdd-40c3-a751-dc75132e8b0a",
+    "data": [
+      {
+        "text": "Pesanan sudah saya batalkan tapi sy blom menerima refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f5bfe59f-cd1e-4a7d-a738-87f6346e7cf7",
+    "data": [
+      {
+        "text": "kemarin sy mau shopping camera logitech, cmn di tolak sm pemilik toko. dana refund belum di terima, mohon informasi selanjutnya ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "acd3805a-bd60-44e3-829c-1125418c8e67",
+    "data": [
+      {
+        "text": "saya sudah transfer utk invoice ini, tp pesanan dibatalkan. apa uang bs kembali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0abca8ba-d94b-4e96-9c99-49aa936a464d",
+    "data": [
+      {
+        "text": "menurut inbox dana udah di kembalikan ke saldo toped tp pas saya cek ttp msh O gimana tuh?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "08b4f0fa-f746-4afc-b5e6-d0f0724a746c",
+    "data": [
+      {
+        "text": "dana pembatalan kok belum masuk ke OVO? . sudah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2818e3da-be79-47f4-870a-75117fea3f59",
+    "data": [
+      {
+        "text": "Pembayaran saya di batalkan tapi ovo point saya tidak di kembalikan dengan invoice ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "61edd828-7ba0-4ed2-8b0d-624c7eb29fb3",
+    "data": [
+      {
+        "text": "transaksi saya gagal tapi ovo point saya kepotong dan tidak kembali . transaksinya gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "28f7699a-a7e9-4a32-9fae-449ce69afae7",
+    "data": [
+      {
+        "text": "Kenapa OVO points saya tidak kembali setelah gagal pembayaran melalui klikpay? . Transaksinya gagal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f33baeb6-2808-4b6e-bbc7-5a84e5fe02f3",
+    "data": [
+      {
+        "text": "invoice ini transaksi saya tertolak, gimana dana baliknya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dabed0e0-8859-4a2c-ac56-80386d56d3e7",
+    "data": [
+      {
+        "text": "Pengembalian dana belum masuk saldo toped saya. Dalam inbox dan email di di infokan bahwa sdh masuk ke saldo rekening saya. Tapi dalam riwayat transaksi belum masuk.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a893162f-3c32-4c95-9179-e2573a193813",
+    "data": [
+      {
+        "text": "Transaksi di batalkan tapi saldo kartu kredit saya terpotong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3ed5539c-0fc4-4104-b41c-937543969cdb",
+    "data": [
+      {
+        "text": "refund di produk deal relaksasi saya kog belum masuk? gak ada disini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d3a15764-d113-4f59-92a2-931dd629a54b",
+    "data": [
+      {
+        "text": "Min mau tanya, dana refund dr pembelian di Sumbawa Shop sebesar 30.300 belum masuk ke akun tokped saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7010cbe7-9ec3-4a9b-b020-1b9f6ab69582",
+    "data": [
+      {
+        "text": "refund ovo tidak masuk padahal sudah dikonfirmasi tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "575e8c32-94f1-47ef-9580-341c6abe9cd8",
+    "data": [
+      {
+        "text": "Transaksi di tolak tetapi dana mash blm d kembalikan. Mohon utk d kembalikan atas dana trsebut..thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "7d585377-528c-4f95-9a09-2ee5acfaa399",
+    "data": [
+      {
+        "text": "sy melakukan transaksi dg kartu kredit cimb niaga kemudian dibatalkan, tapi sampai saat ini refund uang blm masuk ke dalam kartu kredit cimb niaga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8fc3b2ff-2b90-443a-8469-80ffd6edceef",
+    "data": [
+      {
+        "text": "Saldo OVO uang di kembalikan belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "90398244-34b7-4d4d-97a5-331660612e03",
+    "data": [
+      {
+        "text": "invoice ini transaksi batal otomatis. pengembalian saldo belum masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4d8c588c-d68a-4bf6-9ee3-e6434750d085",
+    "data": [
+      {
+        "text": "saya mau tanyakan dana yang saya transfer bisa di refund kah? tadi saya batalkan transaksi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f5a3f085-7776-4040-b3a7-6f87757a3293",
+    "data": [
+      {
+        "text": "transaksi saya batalkan tapi dana blm kembali ka .",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c6c4f4d4-0465-41c9-a219-d8e6dd2eb64a",
+    "data": [
+      {
+        "text": "saya tadi melakukan pembelian menggunakan ovopoints, tapi saat pembayaran gagal ovopoints saya habis terpakai, ini bagaimana ya refundnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e71f41db-fea4-41ef-a9e6-3bb787f0c2ec",
+    "data": [
+      {
+        "text": "Mengapa dana pengembalian saya belum masuk ke akun tokopedia saya?Invoice Ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3f2817af-3e11-4f2f-b1d6-f3021eea4b13",
+    "data": [
+      {
+        "text": "saya membeli tiket kereta api, menggunakan virtual account BNI dengan potongan OVo.. namun batal dilakukan pembayaran..  Nah yang balik ke saya cuma ovo points senilai 3600, sementara ovocash senilai 48.000 blm kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "849739a2-0cc0-4a33-af02-f2fdd37f82bc",
+    "data": [
+      {
+        "text": "Saya melakukan transaksi. Sebagian pakai ovo  sebagian saldo dan sebagian pakai klikpay. yang klikpay gagal. tapi kenyataanna cuma saldo yg dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2264b05a-8ce2-4c9d-ab24-f415b3b4fc70",
+    "data": [
+      {
+        "text": "refund ovo tdk masuk pdhal ada info dari toped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "da646b1c-3820-4d4b-b7ab-315b75f296c3",
+    "data": [
+      {
+        "text": "saya kan ada transaksi udah bayar tp pending, trus saya batalkan. Nah saldo saya sudah kena charge, lalu gimana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5ce0e342-89f8-4aba-8cd5-0ce112935c4a",
+    "data": [
+      {
+        "text": "transaksi di batalkan seller.. saya transaksi pake  mbank bca, ovo cash sama ovo point, nah ovo point nya siy uda di balikkin tapi saldo ovo cash sama yg saya transferin via bca virtual account.. belum balik..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "183e31a6-585b-46b2-aaa8-482674162f89",
+    "data": [
+      {
+        "text": "dana ovo saya belum kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "24dc1a54-329b-4165-9663-7b53cace7808",
+    "data": [
+      {
+        "text": "Apakah ovo cash saya sudah kembali?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "00ef5201-b0bb-4be5-972a-2135d2401593",
+    "data": [
+      {
+        "text": "transaksi dengan pembayaran melalui ovo cash dan ovo point. serta kertu kredit tetapi gagal. dan akibatnya saldo ovo cash tidak kembali.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6384054b-f7b9-4063-b451-bf4de31bb00e",
+    "data": [
+      {
+        "text": "Min... Pembatalan transaksi saya batal dan ovo points saya tidak balik.. Boleh di bantu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "af3daa60-0e1b-4edb-8d94-63bb40724d94",
+    "data": [
+      {
+        "text": "pesanan saya dibatalkan karena overtime. Menurut sistem, dana saya sudah dikembalikan, tapi saya cek di saldo belum bertambah.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d930b735-b85d-4c37-bcc3-9c8ed100068c",
+    "data": [
+      {
+        "text": "tadi saya transaksi, menggunakan dana ovo sebagian. tapi transaksi saya gagal dan dana ovo saya tetap berkurang tidak kembali . transaksi nya gagal kak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "236ff37b-e9cb-46ae-a126-23956ef38cf4",
+    "data": [
+      {
+        "text": "saya sudah transfer dana sesuai tagihan, tapi saya batalkan. mengapa dana yang saya batalkan belum balik ke account saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f29f51fb-eb72-4dcf-b694-6c8a8713d876",
+    "data": [
+      {
+        "text": "transaksi saya batal oleh sistem tapi saldo ovo saya sejumlah 67.498 tidak dikembalikan. yg balik cuma ovo points nya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c585fcca-d4c6-4b17-a6dc-fabb95133b27",
+    "data": [
+      {
+        "text": "Saya transaksi pembelanjaan di toko pedia dan akhirnya saya batalin transaksi cma uang yg saya transfer blm balik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4b1ed1fc-326e-4eb5-9e31-340fbca93c33",
+    "data": [
+      {
+        "text": "Saya sudah melakukan pembayaran sesuai jumlah yanh tertera dan sudah berhasil. Tetapi waktu saya cek barang saya di status pemesanan tidak ada, ternyata di batalkan oleh pihak tokopedia,  apa uang saya akan kembali",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "35c44065-2427-4dba-9a83-fbed8392fbe3",
+    "data": [
+      {
+        "text": "Baru saja saya membatalkan transaksi dengan ovo. Ovo pointnya masuk tetapi ovo cashnya tidak masuk.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d7899c9d-91bb-4c4d-ad4f-0b1a14ea00f0",
+    "data": [
+      {
+        "text": "bro/sis, order sy di cancel koq dananya ga balik ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "29bc5794-ebae-420b-b0a2-8d1203f4c449",
+    "data": [
+      {
+        "text": "Saya barusan cancle orderan, tp saya sudah bayar sebelumnya, sampai skrng uang saya belum kembali, saya mau beli barang lg dengan uang itu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dd3c2917-5842-4694-b333-e216827959f1",
+    "data": [
+      {
+        "text": "Pesanan saya yg di batalkan namun dana belum masuk ke saldo saya.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e6a48c4e-ed26-46ac-bb34-3ea453557835",
+    "data": [
+      {
+        "text": "Refund saya belum masuk ke saldo OVO. Padahal sudah ada msg dr tokopedia kalau dana sudah dikembalikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5a22fe0a-3fb5-4a7e-b960-b487b5543aed",
+    "data": [
+      {
+        "text": "Pesanan dibatalkan tapi saldo tidqk kembali, No Invoice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "52034d8e-b7f9-4b7f-9379-51c1d9b0b58b",
+    "data": [
+      {
+        "text": "Transaksi batal,tetapi danaa ovo cashnya belum masuk lagi ke ovo cash,sebesar 30k,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

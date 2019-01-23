@@ -1,0 +1,43 @@
+{
+  "id": "1bcc35d7-dd47-4020-b918-bb54de8f9ef1",
+  "parentId": "98f49bfa-e679-494c-ba6c-3e5323bf26df",
+  "rootParentId": "36de46a2-13d2-4f09-9ff4-8abcbcb54ba3",
+  "name": "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Seller_Tracker_Invalid",
+  "auto": true,
+  "contexts": [
+    "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Seller-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Logistic_Barang_Dikembalikan_Ke_Pengirim_Invoice_List_Seller_Tracker_Invalid-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped sudah cek, resi pengiriman kamu dibuat sebelum ada pesanan yang baru. Nomor resi bisa kamu rubah di halaman \"Status Pengiriman\"."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533804545,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_kode_resi_pengiriman_tidak_valid"
+    }
+  ]
+}

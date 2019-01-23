@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ba472ccf-ac30-496e-909e-e926725ba385",
+    "data": [
+      {
+        "text": "sla_logistics_is_over",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "19377f9f-3860-47ec-b27c-4f3c93653c7e",
+    "data": [
+      {
+        "text": "over SLA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

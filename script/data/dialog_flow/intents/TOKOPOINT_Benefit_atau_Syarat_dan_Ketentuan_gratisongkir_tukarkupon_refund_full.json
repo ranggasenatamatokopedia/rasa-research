@@ -1,0 +1,53 @@
+{
+  "id": "d8e8152c-0af5-4d8e-b44d-a45fa7defbc8",
+  "parentId": "00651ea0-58f7-4f89-8ef4-62842ed95af4",
+  "rootParentId": "90b4ed65-34d8-4fd4-a8f8-c87e563d6528",
+  "name": "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_gratisongkir_tukarkupon_refund_full",
+  "auto": false,
+  "contexts": [
+    "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_gratisongkir_tukarkupon-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Benefit_atau_Syarat_dan_Ketentuan_gratisongkir_tukarkupon_refund_full-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kak, setelah kami cek, ini transaksinya pernah masuk pusat resolusi dan ada pengembalian dana keseluruhan ya, jadi pesanan nya cancel"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sesuai dengan S\u0026K kak Mulai tanggal 14 Maret 2018, kalau 1 pembayaran ada beberapa invoice, ada yang masuk resolusi dan ada pengembalian dana keseluruhan, maka kupon ini terhitung sudah digunakan, dan dana nominal ongkirnya kita kembalikan ke tokocash kamu kak"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sedangkan apabila 1 pembayaran hanya ada 1 invoice, kupon nya akan dikembalikan ke halaman \"Kupon Saya\" di akun kamu, dan bisa dugunakan lagi"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523507777,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "resolution_refund_full"
+    }
+  ]
+}

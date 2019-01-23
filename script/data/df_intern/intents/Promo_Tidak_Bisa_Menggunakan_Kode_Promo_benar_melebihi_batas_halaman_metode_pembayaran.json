@@ -1,0 +1,43 @@
+{
+  "id": "1bb143be-b7a6-42ff-9709-0dbf47395e7e",
+  "parentId": "697eeddc-775d-486b-9dd8-f112286ca6d6",
+  "rootParentId": "52ec60f4-3e96-4394-855f-4b7f7c4c5110",
+  "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_melebihi_batas_halaman_metode_pembayaran",
+  "auto": true,
+  "contexts": [
+    "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_melebihi_batas_input_date-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Promo_Tidak_Bisa_Menggunakan_Kode_Promo_benar_melebihi_batas_halaman_metode_pembayaran-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh kasih tahu Toped secara spesifik, metode pembayaran apa yang kamu pilih? (Contoh: KlikBCA/Transfer Bank)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523860431,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "payment_page"
+    }
+  ]
+}

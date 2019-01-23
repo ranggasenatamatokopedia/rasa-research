@@ -1,0 +1,314 @@
+[
+  {
+    "id": "fc1a9050-24a7-48b3-898e-40b7db062de2",
+    "data": [
+      {
+        "text": "maksimal topup ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "13d9b4c8-f33e-4c59-92f1-dd61dddc16d5",
+    "data": [
+      {
+        "text": "berapa ya maksimal topup ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "04e9f872-f144-4d7a-bc6f-1e8a487181d3",
+    "data": [
+      {
+        "text": "ini gmn ya topup ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "56be9b62-8e5d-489d-8438-8fbdd27ca9ad",
+    "data": [
+      {
+        "text": "ini bagaimana jika saya mau topup ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3cd7d1d0-42ea-44fc-a3b9-66be8461812e",
+    "data": [
+      {
+        "text": "saya mau topup ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1b7bc76d-757e-48bf-9a3b-55822e83b43e",
+    "data": [
+      {
+        "text": "mau topup ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gimana caranya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4e15d33d-a924-40d9-b284-d293d5580d48",
+    "data": [
+      {
+        "text": "gmn cara topup ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7d33ae4b-d809-4fbe-ac46-699873888ba5",
+    "data": [
+      {
+        "text": "topup ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "66b7174a-6237-4f35-87c9-653136e3ec54",
+    "data": [
+      {
+        "text": "cara topup ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4e5a6e78-f893-438e-bab9-091ec003b4d5",
+    "data": [
+      {
+        "text": "gimana cara topup ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b6f4a140-58c8-46d5-940c-65520a39fea2",
+    "data": [
+      {
+        "text": "bagaimana cara topup ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bc3932fb-818a-440a-99be-825b854985e6",
+    "data": [
+      {
+        "text": "Saya tidak bisa TOP UP OVO saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5fb23197-ee3b-4f4a-9e00-e68260fd77f0",
+    "data": [
+      {
+        "text": "bagaiamana cara top up ovo?ngisi saldo ovo cash nya itu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "73d56bc7-695b-45c8-9ee4-b3a061018581",
+    "data": [
+      {
+        "text": "bagaimana cara top up ovo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "99da20d5-0821-4a58-83b5-00d375923e90",
+    "data": [
+      {
+        "text": "Tolong tanya caranya top up OVO melalui tokopedia caranya bagaimana ? Thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "82f260a8-5708-43d0-b25c-69e42391a11e",
+    "data": [
+      {
+        "text": "top up ovo bagaimana caranya) ppp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c181536d-44ea-4fbf-a53e-21285153ed33",
+    "data": [
+      {
+        "text": "Bagaimana cara top up ovo di toped?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "fed1a960-3ef3-4590-a684-b3023489aae5",
+    "data": [
+      {
+        "text": "Bagaimana cara top up ovo cash?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b855f01e-9781-49ff-a11f-d5cc8bb6932f",
+    "data": [
+      {
+        "text": "sudah transfer tapi saldo ovo belum nambah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9baf70a8-d10c-4d85-a378-68f6109f6f02",
+    "data": [
+      {
+        "text": "tidak bisa mengisi dana di ovo tokped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "80f4d56a-cd85-49b9-8b02-781d27f2b4ab",
+    "data": [
+      {
+        "text": "Saya top up saldo ovo via ATM BCA lwt transfer. Virtual acoount. Transaksi berhasil tapi saldo tidak bertambah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "de4dfb91-423d-4403-8e16-a22818531e3a",
+    "data": [
+      {
+        "text": "saya udah topup ovo lewat tokopedia Rp.500.000 saldoku ngga bertambah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "d187d15a-65a3-42eb-b46e-099978f12e80",
+    "data": [
+      {
+        "text": "tidak ada menu topup di laman ovo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ada99bb7-9c04-448e-b38a-c27770cf47a3",
+    "data": [
+      {
+        "text": "resolusi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bd0915a1-6e4d-4c69-a022-61c03e7d8104",
+    "data": [
+      {
+        "text": "invoice_pesanan_dikomplain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

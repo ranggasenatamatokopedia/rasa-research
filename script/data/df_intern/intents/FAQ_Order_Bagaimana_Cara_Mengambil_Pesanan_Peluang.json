@@ -1,0 +1,33 @@
+{
+  "id": "07675f4d-91ff-49f6-8f66-9f7393f4a3fc",
+  "name": "FAQ_Order_Bagaimana_Cara_Mengambil_Pesanan_Peluang",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut ini Toped kasih tahu cara ambil pesanan yang masuk ke Peluang ya:\n\n1. Buka menu \"Peluang\"\n2. Pilih pesanan yang ingin diambil alih, kemudian perhatikan detail pesanan\n3. Klik \"Ambil Peluang\"\n4. Proses pesanan, dan masukkan nomor resi valid."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_order_bagaimana_cara_mengambil_pesanan_peluang"
+    }
+  ]
+}

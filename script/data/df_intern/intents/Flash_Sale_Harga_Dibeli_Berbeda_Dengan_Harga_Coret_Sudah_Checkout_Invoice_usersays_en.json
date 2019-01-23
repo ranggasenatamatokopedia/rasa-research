@@ -1,0 +1,26 @@
+[
+  {
+    "id": "b5510b37-b7c0-492b-8dbc-2b8d3ee7e9c1",
+    "data": [
+      {
+        "text": "num",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dee6e4f6-c872-4541-afd2-a6764951351b",
+    "data": [
+      {
+        "text": "select_invoice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

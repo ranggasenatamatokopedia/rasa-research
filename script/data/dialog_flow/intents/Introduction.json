@@ -1,0 +1,54 @@
+{
+  "id": "257421b2-a246-42cc-8cf1-83fcc1aa2306",
+  "name": "Introduction",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": [
+            "Hai #Welcome.payload, Toped bisa kasih tahu kamu informasi apa pun seputar Tokopedia yang kamu butuhkan lho :)",
+            "Halo #Welcome.payload, bersama Toped di sini! 😊 Kamu bisa andalkan Toped untuk tahu info seputar layanan dan fitur-fitur yang ada di Tokopedia :)",
+            "Kenalkan, Toped di sini! 😊 Kamu pasti #Welcome.payload. Kalau kamu butuh bantuan dan ingin cari informasi seputar Tokopedia, jangan ragu untuk bertanya ya!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Berikut ini adalah contoh dari beberapa hal yang bisa kamu tanyakan ke Toped ya:\n\n- Bagaimana cara refund?\n- Bagaimana cara menggunakan kode promo?\n- Kenapa barang saya belum sampai?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 0,
+            "data": {
+              "show_rating": false
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520831792,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    },
+    {
+      "name": "introduction"
+    }
+  ]
+}

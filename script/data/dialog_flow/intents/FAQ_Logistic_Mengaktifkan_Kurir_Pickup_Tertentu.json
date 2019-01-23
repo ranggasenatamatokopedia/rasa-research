@@ -1,0 +1,31 @@
+{
+  "id": "6813e2f6-b1b8-4c6f-9f09-a3c8b49774ac",
+  "name": "FAQ_Logistic_Mengaktifkan_Kurir_Pickup_Tertentu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau kamu aktifkan layanan Instan dan Sameday, maka semua kurir yang menyediakan layanan tersebut akan otomatis aktif. Jenis layanan akan mempengaruhi kurir yang diaktifkan ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_logistic_mengaktifkan_kurir_pickup_tertentu"
+    }
+  ]
+}

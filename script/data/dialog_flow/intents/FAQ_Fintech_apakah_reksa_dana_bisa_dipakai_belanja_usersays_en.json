@@ -1,0 +1,175 @@
+[
+  {
+    "id": "88b3cde5-50c1-436e-a96c-cd012bf6fd65",
+    "data": [
+      {
+        "text": "kalo saya mau pake reksa dana saya buat belanja bisa apa engga min?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "78c627c8-da70-49d4-a2b1-0a0e333643fe",
+    "data": [
+      {
+        "text": "bisa gak kalo reksa dana saya di pake buat belanja?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e7397c37-ba99-4b5f-9c0e-1131c46e7641",
+    "data": [
+      {
+        "text": "kalo saya mau pake reksa dana saya buat belanja bisa gak ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d582f80c-bff5-4ec3-b947-a048cbbbb168",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", bisa gak sih reksa dana saya di pake buat belanja?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1f4339b3-0042-4166-ab0d-d0ee387f2258",
+    "data": [
+      {
+        "text": "reksa dana saya bisa di pake buat belanja gak ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3b590c58-4c13-4231-8d6d-49903a47fcc5",
+    "data": [
+      {
+        "text": "reksa dana itu bisa di pake buat belanja gak ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "47d8be6b-b494-4b32-bae3-861dcd49b523",
+    "data": [
+      {
+        "text": "sebenernya reksa dana itu bisa di pake buat belanja gak ",
+        "userDefined": false
+      },
+      {
+        "text": "sih  min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3b95cc54-acdd-4e30-9436-9ae2fd62bf11",
+    "data": [
+      {
+        "text": "reksa dana bisa dipakai belanja ga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ea1ee811-a127-41bb-b320-46eb2b44127e",
+    "data": [
+      {
+        "text": "reksadana bisa dipakai belanja ga",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "43421807-cf0b-4108-8604-398ea605cffb",
+    "data": [
+      {
+        "text": "bisa dipakai belanja ga reksadana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2afe44f0-4052-4fde-82a6-cfd01c12997f",
+    "data": [
+      {
+        "text": "bisa dipakai belanja ga reksa dana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c99d1b99-e691-4dd9-9adc-0c47021243b4",
+    "data": [
+      {
+        "text": "Apakah bisa di gunakan belanja dana yang sudah masuk ke reksadana ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

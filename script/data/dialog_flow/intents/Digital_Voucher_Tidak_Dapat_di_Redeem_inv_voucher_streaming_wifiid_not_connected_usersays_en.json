@@ -1,0 +1,75 @@
+[
+  {
+    "id": "72e8319a-d635-4aa5-ac37-ee8a492e51a1",
+    "data": [
+      {
+        "text": "not connect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ed3dc575-330f-4449-8baa-afd9d7014de6",
+    "data": [
+      {
+        "text": "satu",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9e55abed-5ea8-4416-a320-7123546bc60b",
+    "data": [
+      {
+        "text": "yang ",
+        "userDefined": false
+      },
+      {
+        "text": "pertama",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "52858549-2d83-4e41-9fe5-f2158859bb22",
+    "data": [
+      {
+        "text": "tidak connect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7af6a9e5-389c-4850-8f47-5f73eeb78001",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1933185a-8d04-442f-838c-dcaae0fa14ee",
+    "data": [
+      {
+        "text": "not connected",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

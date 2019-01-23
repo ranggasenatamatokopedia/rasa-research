@@ -1,0 +1,43 @@
+{
+  "id": "7346aa6c-e74c-4bea-ace5-b45247977c5e",
+  "parentId": "ac27f987-10da-4579-826b-fdb70eef3ed6",
+  "rootParentId": "ac27f987-10da-4579-826b-fdb70eef3ed6",
+  "name": "TOKOPOINT_Tidak_bisa_menggunakan_minimum_purchase",
+  "auto": false,
+  "contexts": [
+    "TOKOPOINT_Tidak_bisa_menggunakan_kupon-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetTokopointsCoupon",
+      "affectedContexts": [
+        {
+          "name": "TOKOPOINT_Tidak_bisa_menggunakan_minimum_purchase-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh kasih tahu Toped kupon yang ingin kamu gunakan?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523432682,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "minimal_purchase_promo"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "8d5186a7-0c3f-4aa7-a870-f19a17cc5ac2",
+  "name": "Fintech_Penjualan_berhasil_dana_belum_masuk",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Fintech_Penjualan_berhasil_dana_belum_masuk-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Halo. Boleh informasikan ke Toped penjualan investasi mana yang kamu maksud?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 1,
+            "quick_replies": [
+              "Reksa dana",
+              "Emas"
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "fintech_penjualan_berhasil_dana_belum_masuk"
+    }
+  ]
+}

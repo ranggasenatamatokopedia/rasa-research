@@ -1,0 +1,24 @@
+[
+  {
+    "id": "14f94c39-6342-4744-be08-49ba409b4c92",
+    "data": [
+      {
+        "text": "payment_scrooge_status_expired",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2a4fe4ce-b247-4b47-9154-04dca947dd2c",
+    "data": [
+      {
+        "text": "payment_scrooge_status_failed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

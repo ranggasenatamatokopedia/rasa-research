@@ -1,0 +1,25 @@
+[
+  {
+    "id": "5fe2481f-6fcd-4afd-8dfb-4ec2dd1547a4",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f154265e-9c12-43bc-baea-76ae03cb4d5b",
+    "data": [
+      {
+        "text": "Order tidak finished otomatis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

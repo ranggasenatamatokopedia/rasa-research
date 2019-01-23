@@ -1,0 +1,48 @@
+{
+  "id": "d90cd866-d683-42fc-a7c2-b6181f16b090",
+  "parentId": "f9d7aff9-f137-48c5-b9c6-d144bec35928",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_select_invoice_pending_retry_in_SLA",
+  "auto": false,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_select_invoice_pending_retry-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_select_invoice_pending_retry_in_SLA-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah Toped bantu cek, transaksi kamu masih dalam batas estimasi waktu proses pembelian. Kamu bisa menunggu terlebih dulu ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Jika dalam estimasi 1 jam namun transaksi belum berhasil, silakan hubungi Toped kembali :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534003003,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "in_SLA"
+    }
+  ]
+}

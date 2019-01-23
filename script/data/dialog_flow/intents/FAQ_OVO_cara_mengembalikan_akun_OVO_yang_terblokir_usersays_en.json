@@ -1,0 +1,71 @@
+[
+  {
+    "id": "77f84f09-f3fd-493c-8869-d4ebff8b6257",
+    "data": [
+      {
+        "text": "cara membuka blokir akun ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dd2abca2-c989-42ce-8610-a503e5182907",
+    "data": [
+      {
+        "text": "tolong bukain blokir ",
+        "userDefined": false
+      },
+      {
+        "text": "ovo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "95321309-527e-4c50-b4ef-d87509b20660",
+    "data": [
+      {
+        "text": "mohon bantu bukakan blokir di akun ovo saya dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1d3b8c84-c2b9-45ce-b914-7c253cf971b0",
+    "data": [
+      {
+        "text": "bisa tolong bukain blokir di akun ovo saya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "54c34441-cb0b-4c16-b79a-68548265e949",
+    "data": [
+      {
+        "text": "bagaimana cara mengembalikan akun ovo yang terblokir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

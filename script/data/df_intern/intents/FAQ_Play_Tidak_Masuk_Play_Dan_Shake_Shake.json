@@ -1,0 +1,38 @@
+{
+  "id": "a99ad8b6-865a-4a10-8efe-4d56a243cdae",
+  "name": "FAQ_Play_Tidak_Masuk_Play_Dan_Shake_Shake",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "FAQ_Play_Tidak_Masuk_Play_Dan_Shake_Shake",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Sebelum melakukan shake-shake dan mengikuti acaranya, mohon pastikan beberapa hal berikut ini:\n1. Kamu telah mengaktifkan fitur shake-shake di aplikasi Tokopedia.\n2. Kamu melakukan shake-shake pada saat terdapat campaign atau acara yang sedang berjalan.\n3. Aplikasi Tokopedia yang kamu gunakan sudah versi terbaru."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Namun kalau masih mengalami kendala, kamu bisa clear cache aplikasi Tokopediamu dan login kembali, ya."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

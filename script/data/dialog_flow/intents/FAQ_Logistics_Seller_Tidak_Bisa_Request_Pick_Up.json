@@ -1,0 +1,31 @@
+{
+  "id": "92b66d97-7a93-4399-b274-9a0463cd8109",
+  "name": "FAQ_Logistics_Seller_Tidak_Bisa_Request_Pick_Up",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau tidak bisa request pick up, kamu perlu memastikan beberapa hal berikut ini ya:\n\n- Nomor telepon Pembeli valid dengan minimal 10 digit dan maksimal 12 digit.\n\n- Lokasi kamu dan Pembeli tidak melebihi jarak maksimal kurir yang digunakan.\n\n- Waktu klik pickup sesuai dengan batas waktu pick up kurir yang digunakan."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": -1,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_logistics_seller_tidak_bisa_request_pick_up"
+    }
+  ]
+}

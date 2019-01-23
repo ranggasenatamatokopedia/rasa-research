@@ -1,0 +1,364 @@
+[
+  {
+    "id": "d5c5806b-87bc-485a-866e-690bdba47e5d",
+    "data": [
+      {
+        "text": "cara mengisi ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo Tokopedia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0e3a9fc8-0cdb-47c8-aab6-d4d9ae5dadba",
+    "data": [
+      {
+        "text": "isi ",
+        "userDefined": false
+      },
+      {
+        "text": "saldo tokopedia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gmn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6516c458-918e-4179-b7a9-cbba9e00dc9e",
+    "data": [
+      {
+        "text": "kenapa fitur topup saldo tokopedia dihapuskan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9bab9790-f2c9-4417-9c2a-69617209d7ae",
+    "data": [
+      {
+        "text": "Apa ",
+        "userDefined": false
+      },
+      {
+        "text": "sekarang",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bisa topup saldo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "856a3560-3d17-4133-a7de-592def6e86ba",
+    "data": [
+      {
+        "text": "bagaimana cara top up saldo yaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "69fe28da-a0ad-4c26-afe0-5c7412b25f99",
+    "data": [
+      {
+        "text": "kapan saldo bisa topup lagi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3eb7d524-c558-4a08-8f65-f06452ac66ce",
+    "data": [
+      {
+        "text": "bagaimana cara topup saldo ke tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "45d6a8d1-bea9-4510-adda-76916c66991e",
+    "data": [
+      {
+        "text": "bagaimana cara saya TopUp saldo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ee4b858f-d856-4f45-9c29-c527f3aa951d",
+    "data": [
+      {
+        "text": "cara topup Saldo Tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2b5e1339-3cbc-4d5f-ad11-6a342835d425",
+    "data": [
+      {
+        "text": "kok saya gak bisa top up Saldo Tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8bd12152-0494-405d-bf4b-c5ca502a71b4",
+    "data": [
+      {
+        "text": "Apakah masih gak bisa top up saldo ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "303a1d54-70d3-46d6-83b8-8e6f10483014",
+    "data": [
+      {
+        "text": "kapan bisa TopUp Saldo lagi??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c3bfff2f-5195-4197-96c4-dd8833c268c6",
+    "data": [
+      {
+        "text": "Saya tidak bisa topup saldo tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "35b1961d-2e79-4df4-89e3-704c5775c90e",
+    "data": [
+      {
+        "text": "katanya saldo tokopedia tidak bisa ditopup untuk sementara waktu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "27854ed9-8236-4d15-86a4-3d8502124d19",
+    "data": [
+      {
+        "text": "tidak ada topup saldo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c7ab9477-0651-400c-885b-d2128c1f078f",
+    "data": [
+      {
+        "text": "Sampai ",
+        "userDefined": false
+      },
+      {
+        "text": "kapan",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " bisa topup saldo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "550c7a3a-2dde-4732-bcc3-e9320e205c70",
+    "data": [
+      {
+        "text": "bagaimana cara topup Saldo Tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "deeae2d2-3655-48c9-ab0d-6dbba9de947c",
+    "data": [
+      {
+        "text": "gimana cara saya agar bisa topup saldo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5c90f7cc-a68e-4848-b3a0-ade1f94f11ac",
+    "data": [
+      {
+        "text": "Gak ada topup saldo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "15729cbd-fd1e-4caf-8106-1014a3697ce8",
+    "data": [
+      {
+        "text": "kapan mulai dibuka topup saldo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "da23f3b6-d3ae-4312-8aea-9ef4d076e47e",
+    "data": [
+      {
+        "text": "caranya topup saldo gimana caranya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aa8e2fd0-f927-481b-81f5-c26f811853e0",
+    "data": [
+      {
+        "text": "tidak ada tombol untuk topup saldo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "af5cf6dc-09a9-4cf1-801c-77514a027a5f",
+    "data": [
+      {
+        "text": "Apa saldo tokopedia bisa di isi / di tambah.?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f2ebbc85-fc69-4ba0-9e80-cc67686dc0a8",
+    "data": [
+      {
+        "text": "isi saldo tokopedia gmn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a4563736-75fa-4293-accb-0cdd47d3b398",
+    "data": [
+      {
+        "text": "FAQ_Payment_Cara_Menggabungkan_Pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "2893b909-a191-4cf5-af59-cacfa78353a3",
+    "data": [
+      {
+        "text": "klu mau isi saldo caranya gmn y admin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5a6cc590-5ec7-4128-a041-8d523b9fb389",
+    "data": [
+      {
+        "text": "sore mau nany jika saya top up toko cash/saldo apakah bisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "65bb1089-59e9-4ade-b108-d4feaea3df2f",
+    "data": [
+      {
+        "text": "cara tambah saldo toko gmn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "8cac772f-e3f1-4c9b-92a2-984604f9754a",
+    "data": [
+      {
+        "text": "saya ingin memasukan dana ke dalam toko cash biar saya belanja tanpa perlu mentransfer ke rek tokopedia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "de6d7129-72d4-4441-bdd4-c02f277a33f8",
+    "data": [
+      {
+        "text": "gimana cara mengisi Tokopedia pay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

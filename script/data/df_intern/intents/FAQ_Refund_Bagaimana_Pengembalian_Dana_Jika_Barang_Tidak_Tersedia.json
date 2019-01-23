@@ -1,0 +1,32 @@
+{
+  "id": "e2fa8d90-806c-44c0-9e1e-10163716940a",
+  "name": "FAQ_Refund_Bagaimana_Pengembalian_Dana_Jika_Barang_Tidak_Tersedia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau tiba-tiba Penjual infokan stok barang tidak tersedia, kamu bisa ajukan pembatalan pesanan agar dana kamu dikembalikan dan bisa digunakan bertransaksi ulang."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520238464,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_refund_bagaimana_pengembalian_dana_jika_barang_tidak_tersedia"
+    }
+  ]
+}

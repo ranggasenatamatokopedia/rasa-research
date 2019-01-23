@@ -1,0 +1,36 @@
+{
+  "id": "ae8cf954-8127-4889-8757-0419ce1ccdaf",
+  "name": "FAQ_Logistics_Biaya_HTNB",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Biaya Harga Tanggungan Nilai Barang (HTNB) yang masuk dalam layanan Pos Indonesia bersifat pilihan atau tidak wajib ya."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu bisa menghubungi agen Pos Indonesia secara langsung, jika tidak ingin dikenakan biaya tersebut."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_logistics_biaya_htnb"
+    }
+  ]
+}

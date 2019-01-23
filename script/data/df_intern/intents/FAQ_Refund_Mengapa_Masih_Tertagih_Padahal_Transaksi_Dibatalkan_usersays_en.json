@@ -1,0 +1,227 @@
+[
+  {
+    "id": "9a64db59-a387-4bec-bfad-c47904e44881",
+    "data": [
+      {
+        "text": "Pesanan di cancel namun ",
+        "userDefined": false
+      },
+      {
+        "text": "cicilan",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pembayaran ttp ditagihkan ke ",
+        "userDefined": false
+      },
+      {
+        "text": "CC",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6e59c57f-3b5b-48e5-b02d-37748a804c2b",
+    "data": [
+      {
+        "text": "Kenapa ini saya masih ditagihkan ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d4c1f568-d643-4413-906b-5692ec01a24e",
+    "data": [
+      {
+        "text": "pesanan batal, namun kenapa masih muncul tagihan. pdhl pesanan batal.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f456c27e-d704-4a0f-810d-c37428ffec7c",
+    "data": [
+      {
+        "text": "Sesuai dengan instruksi CS sebelumnya untuk invoice INV/",
+        "userDefined": false
+      },
+      {
+        "text": "20180315",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "/XVIII/III/",
+        "userDefined": false
+      },
+      {
+        "text": "143341838",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " transaksi batal, sudah ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bulan, dan billing di ",
+        "userDefined": false
+      },
+      {
+        "text": "Bulan ini",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " saya terima, dana Refund saya belum masuk, tagihan billing tetap berjalan,,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9069083c-956e-4835-8186-40f77ed6b6f7",
+    "data": [
+      {
+        "text": "sya gesek 2x namun gagal, tapi skg tagihan cc saya keluar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dcc4c3f6-1b11-4a29-85cb-0e556176512e",
+    "data": [
+      {
+        "text": "transaksi dibatalkan tetapi tetap ada tagihan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3963ec0-41fc-4c67-b9b0-8311f261e73b",
+    "data": [
+      {
+        "text": "transaksi batal tapi tetap ada tagihan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c53d542-17c6-4d59-880f-c90376f4b48c",
+    "data": [
+      {
+        "text": "trus bagaimana dgn tagihan kartu kredit customer? apa harus dibayar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c7a3d39-6cd2-4667-95f5-3c707f1ed151",
+    "data": [
+      {
+        "text": "transaksi dibatalkan tapi tetap ada tagihan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "adf2a2ad-7e92-4dcd-b53a-1a0b36a48820",
+    "data": [
+      {
+        "text": "justru ini pembayaran di batalkan, tapi tagihannya tetep masuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aaf23be8-b7cc-4ef5-9741-3eafd9b69038",
+    "data": [
+      {
+        "text": "kenapa saya masih ditagih cicilan atas pembelian yang sudah dibatalkan????",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87a6845e-7d31-4289-a6d5-2cc4bbe73931",
+    "data": [
+      {
+        "text": "pembelian saya gagal namun sekarang tagihan kartu kredit saya tertagih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cc71ce7e-9bbc-4d95-be77-db89307e59c8",
+    "data": [
+      {
+        "text": "transaksi gagal tapi saya dapat tagihan dari pihak bank",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "952f2a48-ffd2-476a-b1f2-ddfcd30b7fc4",
+    "data": [
+      {
+        "text": "tolong kredit bank saya di cancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "b4dfdc26-cc2e-4e8a-9c35-d98cb2b06e06",
+    "data": [
+      {
+        "text": "Kenapa saya bisa menghubungi langsung? Saya transaksi ditokped dengan cicilan, tapi dibatalkan oleh pembeli, tapi cicilannya masih masuk ke saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

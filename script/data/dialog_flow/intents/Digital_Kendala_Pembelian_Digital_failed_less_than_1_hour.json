@@ -1,0 +1,53 @@
+{
+  "id": "42555c06-d900-47dc-910d-ac8449bdc869",
+  "parentId": "836a90c8-31f5-48f8-a047-07e542c0793b",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_failed_less_than_1_hour",
+  "auto": false,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_select_invoice_failed-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_failed_less_than_1_hour-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Pengembalian dana kamu masih dalam proses ya :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Butuh 14 hari kerja sampai dana kamu berhasil dikembalikan ke dalam limit Kartu Kredit."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Selain Kartu Kredit, Toped akan mengembalikan dana kamu dalam 1x24 jam ke Saldo Tokopedia. Cek berkala pada menu Daftar Transaksi Digital. Senang bisa membantu kamu :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533021899,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "less_than_1_hour"
+    }
+  ]
+}

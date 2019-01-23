@@ -1,0 +1,44 @@
+{
+  "id": "9e818dec-ec22-44d1-b5c4-c48a3c8f284e",
+  "parentId": "9925d736-353b-4ce3-b30b-e9810df46f1b",
+  "rootParentId": "9925d736-353b-4ce3-b30b-e9810df46f1b",
+  "name": "FAQ_Tokopoints_Cara_Menggunakan_Kupon_Partner_Online",
+  "auto": true,
+  "contexts": [
+    "FAQ_Tokopoints_Cara_Menggunakan_Kupon_Partner-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Tokopoints_Cara_Menggunakan_Kupon_Partner_Online-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau mau melakukan penukaran Kupon Partner secara Online, kamu bisa ikuti langkah di bawah ini, ya:\n1. Masuk ke halaman Tokopoints di akun Tokopedia kamu.\n2. Pilih menu \"Penukaran Points\"\n3. Pilih benefit yang diinginkan dan sesuaikan dengan jumlah Points yang kamu miliki.\n4. Klik \"Tukar\" untuk melakukan penukaran."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kalau sudah berhasil, Kupon bisa kamu temukan di halaman \"Kupon Milik Saya\". Untuk menggunakan Kuponnya, kamu hanya perlu \"Swipe\" kupon tersebut dan kamu akan mendapatkan kode promo yang bisa kamu pakai di halaman partner."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541147420,
+  "fallbackIntent": false,
+  "events": []
+}

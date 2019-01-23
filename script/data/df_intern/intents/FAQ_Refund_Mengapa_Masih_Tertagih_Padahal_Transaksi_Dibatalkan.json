@@ -1,0 +1,32 @@
+{
+  "id": "bd6c6797-634b-47d4-9084-3f50148368d7",
+  "name": "FAQ_Refund_Mengapa_Masih_Tertagih_Padahal_Transaksi_Dibatalkan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kamu tidak seharusnya tertagih transaksi yang dibatalkan dan tidak punya kewajiban membayar. Silakan hubungi bank penerbit kartu untuk menghentikan tagihan yang tidak seharusnya ini.\n\nJangan sedih dan jangan lupa konfirmasikan hal ini ya  :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520579149,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "faq_refund_mengapa_masih_tertagih_padahal_transaksi_dibatalkan"
+    }
+  ]
+}

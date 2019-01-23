@@ -1,0 +1,43 @@
+{
+  "id": "107d632e-5600-4bde-933d-2ed0397cd3df",
+  "parentId": "808cda25-833d-4d88-86a8-fd683aea17c6",
+  "rootParentId": "cf17fcc0-2998-4ff8-8cf4-6a1ca0e60443",
+  "name": "Merchant_Point_Reputasi_Tidak_Sesuai_1_Select_Marketplace_Finished_Positive_Positive_Not_Done",
+  "auto": false,
+  "contexts": [
+    "Merchant_Point_Reputasi_Tidak_Sesuai_1_Select_Marketplace_Finished_Positive_Positive-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Point_Reputasi_Tidak_Sesuai_1_Select_Marketplace_Finished_Positive_Positive_Not_Done-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Poin reputasi akan bertambah dalam 24 jam. Mohon ditunggu dulu ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536562103,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "is_not_done"
+    }
+  ]
+}

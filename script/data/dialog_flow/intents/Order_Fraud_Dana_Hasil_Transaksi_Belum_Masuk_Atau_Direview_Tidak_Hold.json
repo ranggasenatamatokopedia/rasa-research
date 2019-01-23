@@ -1,0 +1,58 @@
+{
+  "id": "e5a31bb7-0afe-47de-9386-52b4dd8c808f",
+  "parentId": "031eae87-90e5-43b3-a584-03439878ade2",
+  "rootParentId": "423ba23e-4ef9-436a-8828-c784ffb30629",
+  "name": "Order_Fraud_Dana_Hasil_Transaksi_Belum_Masuk_Atau_Direview_Tidak_Hold",
+  "auto": false,
+  "contexts": [
+    "Order_Fraud_Dana_Hasil_Transaksi_Belum_Masuk_Atau_Direview_Tidak-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Order_Fraud_Dana_Hasil_Transaksi_Belum_Masuk_Atau_Direview_Tidak_Hold-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6b79608c-df11-4705-9e08-9335ce298a49",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1500"
+        },
+        {
+          "id": "4aec2b05-8e43-4993-af42-e62c9467563c",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "root",
+          "value": "Order_Fraud_Dana_Hasil_Transaksi_Belum_Masuk_Atau_Direview"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kendala ini Toped bantu buatkan tiketnya, ya. Mohon tunggu sebentar, Kak."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532082012,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "deposit_hold"
+    }
+  ]
+}

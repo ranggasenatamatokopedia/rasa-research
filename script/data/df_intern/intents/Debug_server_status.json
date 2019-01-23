@@ -1,0 +1,34 @@
+{
+  "id": "f45fa915-e53d-463e-831f-780f3e0a8765",
+  "name": "Debug_server_status",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Betul, ini adalah akun beta."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "Debug_server_status"
+    },
+    {
+      "name": "debug_server_status"
+    }
+  ]
+}

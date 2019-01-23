@@ -1,0 +1,129 @@
+[
+  {
+    "id": "d2dac8c6-b011-4034-b014-78895aaf883c",
+    "data": [
+      {
+        "text": "gimana redeem voucher ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "be22aaf6-6093-4ee6-8fcd-823f5995448f",
+    "data": [
+      {
+        "text": "gimana cara redeem voucher ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gift card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3099143c-2dcd-4508-919c-521962a85690",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", tlg infokan gimana cara redeem voucher gift card?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c8a308e8-2db8-4af3-b26b-b2e4c801c949",
+    "data": [
+      {
+        "text": "bagaimana cara redeem voucher ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3d60949f-ef23-4e48-87e5-cbf1ff21c0ee",
+    "data": [
+      {
+        "text": "cara redeem voucher ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gift card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "90c31e42-eb59-4e26-b1c7-90ce3011ff63",
+    "data": [
+      {
+        "text": "cara pakai voucher grabnya gmn ya ? apa bisa di reedem ??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "da86f3e3-fb4d-4dd3-9ebb-b9c33a2d582c",
+    "data": [
+      {
+        "text": "voucher ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gift tokopedia gimana cara redeemnya ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

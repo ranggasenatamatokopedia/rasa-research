@@ -1,0 +1,53 @@
+{
+  "id": "8ac85501-34b7-42e4-a2c7-456ce12d1d1f",
+  "parentId": "2bbf4641-235a-4ac3-9543-3465e24958d7",
+  "rootParentId": "67024543-88fb-488f-907b-85ef94921089",
+  "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_sudah_trx_kode_promo",
+  "auto": true,
+  "contexts": [
+    "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_sudah_trx-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetPromoSummary",
+      "affectedContexts": [
+        {
+          "name": "Promo_SnK_Benefit_Yang_Diterima_Tidak_Sesuai_sudah_trx_kode_promo-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "16d1c1ca-5901-4ea9-8cfb-3a6d3b90bbd1",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "code",
+          "value": "$code",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Hai, Kak. Boleh tolong ketikan kode promo nya disini, Kak?"
+            }
+          ]
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon tunggu sebentar ya :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1513040943,
+  "fallbackIntent": false,
+  "events": []
+}

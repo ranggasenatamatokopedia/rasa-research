@@ -1,0 +1,43 @@
+{
+  "id": "b0615b37-d3b3-4a38-b857-af2da639a613",
+  "parentId": "26e90b89-3825-4459-bdfc-ff0ff7d6f793",
+  "rootParentId": "339e5428-6478-484d-881d-ecc9d04d165e",
+  "name": "Digital_Kendala_Pembelian_Digital_select_invoice_wtp_resync_get_order_then_still_wtp",
+  "auto": false,
+  "contexts": [
+    "Digital_Kendala_Pembelian_Digital_select_invoice_wtp_scrooge_success_resync_get_order-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DoResyncPayment",
+      "affectedContexts": [
+        {
+          "name": "Digital_Kendala_Pembelian_Digital_select_invoice_wtp_resync_get_order_then_still_wtp-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Boleh tunggu sebentar ya, Toped akan bantu untuk proses ulang :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534150342,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_waiting_third_party"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "669d731b-5542-49c4-a539-e40e241d997a",
+    "data": [
+      {
+        "text": "kilat",
+        "alias": "layanan_kurir_reguler",
+        "meta": "@layanan_kurir_reguler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "75747321-7bbc-4a02-b875-3abd28705b64",
+    "data": [
+      {
+        "text": "kilat khusus",
+        "alias": "layanan_kurir_reguler",
+        "meta": "@layanan_kurir_reguler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

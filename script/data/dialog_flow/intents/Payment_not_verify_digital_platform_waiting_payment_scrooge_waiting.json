@@ -1,0 +1,43 @@
+{
+  "id": "f9535481-700f-4b96-b275-80cf097fd837",
+  "parentId": "7ba1e22e-2d97-4bdb-8a0b-9d2d940f49e9",
+  "rootParentId": "7702a921-0bc2-479f-9cd3-aade8103768a",
+  "name": "Payment_not_verify_digital_platform_waiting_payment_scrooge_waiting",
+  "auto": true,
+  "contexts": [
+    "Payment_not_verify_digital_platform_waiting_payment_transfer_wtp-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "UploadImage",
+      "affectedContexts": [
+        {
+          "name": "Payment_not_verify_digital_platform_waiting_payment_scrooge_waiting-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Baik, bisa lampirkan bukti pembayarannya, Kak?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531211265,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "payment_scrooge_status_waiting"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "dde8ae2a-9271-4847-a8b2-05c8604fa637",
+  "parentId": "bc8f4622-0f27-4009-a4cd-f030fe0388ae",
+  "rootParentId": "bc8f4622-0f27-4009-a4cd-f030fe0388ae",
+  "name": "FAQ_Payment_cara_bayar_virtual_account",
+  "auto": true,
+  "contexts": [
+    "FAQ_Payment_cara_bayar-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "FAQ_Payment_cara_bayar_virtual_account-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Virtual Account mana yang ingin kamu gunakan?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "type": 1,
+            "quick_replies": [
+              "BCA Virtual Account",
+              "BNI Virtual Account",
+              "BRIVA",
+              "CIMB Virtual Account",
+              "Mandiri Virtual Account",
+              "Maybank Virtual Account",
+              "Danamon Virtual Account"
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534815621,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "virtual_account"
+    }
+  ]
+}

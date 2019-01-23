@@ -1,0 +1,64 @@
+{
+  "id": "6d1e2509-306d-404c-ba3b-58558d345d14",
+  "parentId": "2c1b0f40-009f-427b-809c-e3218b312c66",
+  "rootParentId": "7f287c44-496d-4df8-b6b5-0c29a68454fc",
+  "name": "Merchant_Toko_Di_Moderasi_Close_Show_Reason",
+  "auto": true,
+  "contexts": [
+    "Merchant_Toko_Di_Moderasi_Close-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Toko_Di_Moderasi_Close_Show_Reason-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Setelah Toped cek, status toko kamu saat ini tutup."
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Alasan tutup toko: #show_reason_close_shop.payload"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Apa kamu ingin Toped bantu buka tokonya ?"
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "quick_replies": [
+              "Ya",
+              "Tidak"
+            ],
+            "type": 1
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1546933812,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "show_reason_close_shop"
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+[
+  {
+    "id": "255266ae-7d6a-4664-b0ca-1fe571234fff",
+    "data": [
+      {
+        "text": "kalo ongkos kirim ",
+        "userDefined": false
+      },
+      {
+        "text": "Grab",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " berapa ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "35556770-5876-45b0-a499-5fb9422b58c0",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", kalo ongkos kirim pake ",
+        "userDefined": false
+      },
+      {
+        "text": "Gojek",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "instan",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " berapa sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "15d599c1-87e7-422b-94b2-de3011dd6ed2",
+    "data": [
+      {
+        "text": "Berapa ongkir ",
+        "userDefined": false
+      },
+      {
+        "text": "grab",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sameday",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "6cc28820-a76e-4209-86fc-a6d3b5c33265",
+    "data": [
+      {
+        "text": "Mohon informasinya untuk ongkos kirim ",
+        "userDefined": false
+      },
+      {
+        "text": "Gojek",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2ef9db95-f2c4-4f79-93a1-d9504fb58208",
+    "data": [
+      {
+        "text": "Berapa ongkos kirim ",
+        "userDefined": false
+      },
+      {
+        "text": "Gojek",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0146cf83-1660-4275-b9b4-89fb8cc03197",
+    "data": [
+      {
+        "text": "Kalo pake ",
+        "userDefined": false
+      },
+      {
+        "text": "Gojek",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": ", ongkos kirimnya berapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ccf92080-9d95-4696-8fbb-c479653b22c5",
+    "data": [
+      {
+        "text": "kalo ongkos kirim pake ",
+        "userDefined": false
+      },
+      {
+        "text": "Ninja Express",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " berapa ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e226582a-ac48-4722-a8e3-c375529ee680",
+    "data": [
+      {
+        "text": "Grab",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " berapa ya ongkirnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b2fad6e1-e33f-4d89-887f-5f62ac3b2e37",
+    "data": [
+      {
+        "text": "kalo ongkos kirim pake ",
+        "userDefined": false
+      },
+      {
+        "text": "Rex",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " berapa ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "13cd8017-2232-4955-a1c3-af749f6148b6",
+    "data": [
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", ongkos kirim ",
+        "userDefined": false
+      },
+      {
+        "text": "Gojek",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sameday",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " berapa duit ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b1a4031c-4534-490f-851e-41fd29531a57",
+    "data": [
+      {
+        "text": "Grab",
+        "alias": "kurir_pick_up",
+        "meta": "@kurir_pick_up",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Instan",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " berapa ongkirnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5d03f185-092e-4b8d-a9f7-b0d45beb4304",
+    "data": [
+      {
+        "text": "saya mau tanya batas maksimum berat untuk gosend instant berapa ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

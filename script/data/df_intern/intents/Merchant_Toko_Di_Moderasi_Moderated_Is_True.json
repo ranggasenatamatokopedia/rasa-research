@@ -1,0 +1,43 @@
+{
+  "id": "7fe5302c-d66b-4ad9-87e5-4aa8a3f9422d",
+  "parentId": "39edd88e-68ab-4d00-a59e-5d17eacf6b1b",
+  "rootParentId": "7f287c44-496d-4df8-b6b5-0c29a68454fc",
+  "name": "Merchant_Toko_Di_Moderasi_Moderated_Is_True",
+  "auto": true,
+  "contexts": [
+    "Merchant_Toko_Di_Moderasi_Moderated-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetCalculateTimeRequestOpenStatus",
+      "affectedContexts": [
+        {
+          "name": "Merchant_Toko_Di_Moderasi_Moderated_Is_True-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536317361,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "is_true"
+    }
+  ]
+}

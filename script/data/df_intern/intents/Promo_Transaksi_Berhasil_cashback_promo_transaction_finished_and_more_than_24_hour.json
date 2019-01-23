@@ -1,0 +1,50 @@
+{
+  "id": "5e6a9e20-33f4-42b8-be05-3f4fa3c1939c",
+  "parentId": "f35cedcc-a083-41f0-a2ca-a0950449fb3b",
+  "rootParentId": "f6f2c26a-44ee-4c09-9260-1e520b200c4b",
+  "name": "Promo_Transaksi_Berhasil_cashback_promo_transaction_finished_and_more_than_24_hour",
+  "auto": false,
+  "contexts": [
+    "Promo_Transaksi_Berhasil_Tapi_Tidak_Mendapat_Benefit_cashback_promo_inv-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "90d171bc-f1ec-4f9e-93cb-2d892cc676fd",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "1082"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Mohon menunggu sebentar ya, Kak :)"
+        },
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Toped coba bantu buatkan tiketnya ya, Kak."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522899646,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "transaction_finished_and_more_than_24_hour"
+    }
+  ]
+}

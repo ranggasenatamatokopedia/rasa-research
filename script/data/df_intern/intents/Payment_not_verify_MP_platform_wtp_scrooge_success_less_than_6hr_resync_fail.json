@@ -1,0 +1,70 @@
+{
+  "id": "56994634-11e9-42c2-9088-886668684aef",
+  "parentId": "6c82f871-5615-49a9-b907-166d85fe4a7e",
+  "rootParentId": "7702a921-0bc2-479f-9cd3-aade8103768a",
+  "name": "Payment_not_verify_MP_platform_wtp_scrooge_success_less_than_6hr_resync_fail",
+  "auto": true,
+  "contexts": [
+    "Payment_not_verify_MP_platform_wtp_scrooge_success_less_than_6hr_resync-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DirectCreateTicketforSF",
+      "affectedContexts": [
+        {
+          "name": "Payment_not_verify_MP_platform_wtp_scrooge_success_less_than_6hr_resync_fail-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7f718359-c7fe-4154-bac0-aa2d92c17e88",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "solution_id",
+          "value": "9"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "speech": "Kak, Toped bantu buatkan tiketnya ya. Kakak nanti akan dihubungi lebih lanjut lewat Pesan Bantuan."
+        },
+        {
+          "type": 4,
+          "lang": "id",
+          "payload": {
+            "data": {
+              "show_rating": false
+            },
+            "type": 0
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532501653,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "invoice_canceled"
+    },
+    {
+      "name": "invoice_belum_bayar"
+    },
+    {
+      "name": "invoice_pending_due"
+    },
+    {
+      "name": "invoice_payment_confirm"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+[
+  {
+    "id": "4fe62712-cb2a-46b0-97c5-2b5f91faa02d",
+    "data": [
+      {
+        "text": "Nomor yang Anda masukkan salah/tidak sesuai/tidak didukung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "99d28b42-1596-44d5-bea8-cefd02fde21a",
+    "data": [
+      {
+        "text": "empat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "98514125-5cfc-4557-a41f-5e568d1e7bfa",
+    "data": [
+      {
+        "text": "keempat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "acd1081f-09dd-4e69-b728-0557fa58cc3f",
+    "data": [
+      {
+        "text": "ke ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "573a824c-b3d2-44de-adcc-042424af3409",
+    "data": [
+      {
+        "text": "ke empattt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "83f62cb2-5c83-4458-8ec1-efd392e37f0f",
+    "data": [
+      {
+        "text": "empattt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "141294e5-efcb-4080-8079-ee5ee3408041",
+    "data": [
+      {
+        "text": "no ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "88f0e842-5209-4330-b709-e79b47a4f12a",
+    "data": [
+      {
+        "text": "ke ",
+        "userDefined": false
+      },
+      {
+        "text": "empat",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8a462c8e-5dab-4898-841b-8bc449a37016",
+    "data": [
+      {
+        "text": "4",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0bb80402-003e-4244-a4f5-88a4c69ab7e1",
+    "data": [
+      {
+        "text": "nomor ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "644b8217-8b22-49da-bc40-8fb05c1ba4f7",
+    "data": [
+      {
+        "text": "ke-4",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]
