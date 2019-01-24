@@ -44,7 +44,7 @@ def generate_intent_json(selected_json, len_directory):
                     text = ""
                     for data in obj["data"]:
                         text += data["text"]
-                    rasa_json_format["rasa_nlu_data"]["common_examples"].append({"text": text,
+                    rasa_json_format["rasa_nlu_data"]["common_examples"].append({"value": text,
                                                                                 "intent": json_file[
                                                                                         len_directory:-17].lower()})
         except OSError as e:

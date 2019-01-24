@@ -1,0 +1,2855 @@
+{
+    "rasa_nlu_data": {
+        "common_examples": [
+            {
+                "intent": "ready_kosong_question",
+                "text": "abu-abu"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "abu-abu"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "abu-abu muda"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "abu-abu muda"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "beige"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "beige"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "biru"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "biru"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "biru"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "biru2"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "biru"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "2biru"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "biru"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "bisru"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "biru muda"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "biru muda"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "biru muda"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "birumuda"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "cokelat"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "coklat"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "cokelat"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "cokelat"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "cokelat muda"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "cokelat muda"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "emas"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "cemas"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "emas"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "emas"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "emas"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "lemas"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "emas"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "kemas"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "fuchsia"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "fuchsia"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "hijau"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "hijau"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "hijau"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "hjau"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "hijau muda"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "hijau muda"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "hijau tosca"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "hijau tosca"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "hitam"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "hitm"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "hitam"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "hitam"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "hitam"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "htam"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "hitam"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "itam"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "hitam"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "hita"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ivory"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ivory"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "kuning"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "kuning"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "maroon"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "maroon"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "maroon"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "maroonx"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "maroon"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "aroon"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "maroon"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "maroon2"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "merah"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "merah2"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "merah"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "merah"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "merah"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "merh"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "merah"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "mera"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "merah"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "1merah"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "merah muda"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "merah muda"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "merah salem"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "merah salem"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "navy"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "navy"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "orange"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "orange1"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "orange"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "range"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "orange"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "orang"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "orange"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "orange"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "perak"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "perak"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "perak"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "perlak"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "putih"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "puti"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "putih"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "puth"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "putih"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "putih\u00b2"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "putih"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "putih"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "putih"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "putih2"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "putih"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ptih"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 0"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 0"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 10"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 10"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 11"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 11"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 12"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 12"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 13"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 13"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 14"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 14"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 15"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 15"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 16"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 16"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 2"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 2"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 24"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 24"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 25"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 25"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 26"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 26"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 27"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 27"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 28"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 28"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 29"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 29"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 30"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 30"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 31"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 31"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 32"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 32"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 33"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 33"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 34"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 34"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 35"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 35"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 36"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 36"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 37"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 37"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 38"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 38"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 39"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 39"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 4"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 4"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 40"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 40"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 41"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 41"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 42"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 42"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 43"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 43"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 44"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 44"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 45"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 45"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 46"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 46"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 47"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 47"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 5"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 5"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 6"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 6"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 7"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 7"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 8"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 8"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 9"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size 9"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size l"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size l"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size m"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size m"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size s"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size sm"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size s"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size us"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size s"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size s"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size s"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size xs"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size xl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size xl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size xs"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size xs"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size xxl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size xxl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size xxs"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size xxs"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size xxxl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "size xxxl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 0"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 0"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 10"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 10"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 11"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 11"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 12"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 12"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 13"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 13"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 14"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 14"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 15"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 15"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 16"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 16"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 2"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 2"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 24"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 24"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 25"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 25"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 26"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 26"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 27"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 27"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 28"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 28"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 29"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 29"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 30"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 30"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 31"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 31"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 32"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 32"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 33"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 33"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 34"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 34"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 35"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 35"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 36"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 36"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 37"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 37"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 38"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 38"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 39"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 39"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 4"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 4"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 40"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 40"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 41"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 41"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 42"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 42"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 43"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 43"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 44"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 44"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 45"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 45"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 46"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 46"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 47"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 47"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 5"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 5"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 6"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 6"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 7"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 7"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 8"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 8"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 9"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz 9"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz l"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz l"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz m"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz m"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz s"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz s"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz xl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz xl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz xs"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz xs"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz xxl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz xxl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz xxs"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz xxs"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz xxxl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "sz xxxl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "tembaga"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "tembaga"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "titanium"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "titanium"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "turquoise"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "turquise"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "turquoise"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "turquoise"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 0"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 0"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 10"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 10"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 11"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 11"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 12"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 12"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 13"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 13"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 14"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 14"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 15"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 15"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 16"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 16"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 2"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 2"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 24"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 24"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 25"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 25"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 26"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 26"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 27"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 27"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 28"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 28"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 29"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 29"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 30"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 30"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 31"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 31"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 32"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 32"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 33"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 33"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 34"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 34"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 35"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 35"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 36"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 36"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 37"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 37"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 38"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 38"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 39"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 39"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 4"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 4"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 40"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 40"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 41"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 41"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 42"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 42"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 43"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 43"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 44"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 44"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 45"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 45"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 46"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 46"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 47"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 47"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 5"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 5"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 6"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 6"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 7"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 7"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 8"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 8"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 9"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk 9"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk l"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk l"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk m"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk m"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk s"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk s"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk xl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk xl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk xs"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk xs"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk xxl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk xxl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk xxs"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk xxs"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk xxxl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "uk xxxl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 0"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 0"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 10"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 10"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 11"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 11"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 12"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 12"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 13"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 13"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 14"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 14"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 15"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 15"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 16"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 16"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 2"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 2"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 24"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 24"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 25"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 25"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 26"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 26"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 27"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 27"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 28"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 28"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 29"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 29"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 30"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 30"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 31"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 31"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 32"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 32"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 33"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 33"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 34"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 34"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 35"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 35"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 36"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 36"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 37"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 37"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 38"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 38"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 39"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 39"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 4"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 4"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 40"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 40"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 41"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 41"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 42"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 42"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 43"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 43"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 44"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 44"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 45"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 45"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 46"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 46"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 47"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 47"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 5"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 5"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 6"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 6"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 7"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 7"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 8"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 8"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 9"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn 9"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn l"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn l"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn m"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn m"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn s"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn s"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn xl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn xl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn xs"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn xs"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn xxl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn xxl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn xxs"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn xxs"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn xxxl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukrn xxxl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 0"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 0"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 10"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 10"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 11"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 11"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 12"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 12"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 13"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 13"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 14"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 14"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 15"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 15"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 16"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 16"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 2"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 2"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 24"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 24"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 25"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 25"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 26"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 26"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 27"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 27"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 28"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 28"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 29"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 29"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 30"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 30"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 31"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 31"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 32"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 32"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 33"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 33"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 34"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 34"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 35"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 35"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 36"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 36"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 37"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 37"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 38"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 38"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 39"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 39"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 4"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 4"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 40"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 40"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 41"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 41"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 42"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 42"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 43"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 43"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 44"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 44"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 45"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 45"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 46"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 46"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 47"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 47"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 5"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 5"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 6"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 6"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 7"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 7"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 8"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 8"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 9"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran 9"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran l"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran l"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran m"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran m"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran s"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran s"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran xl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran xl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran xs"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran xs"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran xxl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran xxl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran xxs"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran xxs"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran xxxl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukuran xxxl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 0"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 0"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 10"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 10"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 11"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 11"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 12"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 12"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 13"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 13"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 14"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 14"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 15"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 15"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 16"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 16"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 2"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 2"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 24"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 24"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 25"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 25"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 26"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 26"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 27"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 27"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 28"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 28"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 29"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 29"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 30"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 30"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 31"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 31"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 32"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 32"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 33"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 33"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 34"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 34"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 35"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 35"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 36"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 36"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 37"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 37"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 38"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 38"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 39"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 39"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 4"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 4"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 40"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 40"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 41"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 41"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 42"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 42"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 43"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 43"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 44"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 44"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 45"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 45"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 46"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 46"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 47"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 47"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 5"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 5"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 6"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 6"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 7"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 7"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 8"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 8"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 9"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn 9"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn l"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn l"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn m"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn m"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn s"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn s"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn xl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn xl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn xs"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn xs"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn xxl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn xxl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn xxs"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn xxs"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn xxxl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ukurn xxxl"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ungu"
+            },
+            {
+                "intent": "ready_kosong_question",
+                "text": "ungu"
+            }
+        ],
+        "entity_synonyms": [
+            {
+                "synonyms": [
+                    "biru2",
+                    "2biru",
+                    "bisru"
+                ],
+                "value": "biru"
+            },
+            {
+                "synonyms": [
+                    "birumuda"
+                ],
+                "value": "biru muda"
+            },
+            {
+                "synonyms": [
+                    "coklat"
+                ],
+                "value": "cokelat"
+            },
+            {
+                "synonyms": [
+                    "cemas",
+                    "lemas",
+                    "kemas"
+                ],
+                "value": "emas"
+            },
+            {
+                "synonyms": [
+                    "hjau"
+                ],
+                "value": "hijau"
+            },
+            {
+                "synonyms": [
+                    "hitm",
+                    "htam",
+                    "itam",
+                    "hita"
+                ],
+                "value": "hitam"
+            },
+            {
+                "synonyms": [
+                    "maroonx",
+                    "aroon",
+                    "maroon2"
+                ],
+                "value": "maroon"
+            },
+            {
+                "synonyms": [
+                    "merah2",
+                    "merh",
+                    "mera",
+                    "1merah"
+                ],
+                "value": "merah"
+            },
+            {
+                "synonyms": [
+                    "orange1",
+                    "range",
+                    "orang"
+                ],
+                "value": "orange"
+            },
+            {
+                "synonyms": [
+                    "perlak"
+                ],
+                "value": "perak"
+            },
+            {
+                "synonyms": [
+                    "puti",
+                    "puth",
+                    "putih\u00b2",
+                    "putih2",
+                    "ptih"
+                ],
+                "value": "putih"
+            },
+            {
+                "synonyms": [
+                    "size",
+                    "sz",
+                    "uk",
+                    "ukrn",
+                    "ukuran",
+                    "ukurn"
+                ],
+                "value": "size"
+            },
+            {
+                "synonyms": [
+                    "sm",
+                    "us",
+                    "xs"
+                ],
+                "value": "s"
+            },
+            {
+                "synonyms": [
+                    "turquise"
+                ],
+                "value": "turquoise"
+            }
+        ],
+        "lookup_tables": [],
+        "regex_features": []
+    }
+}
