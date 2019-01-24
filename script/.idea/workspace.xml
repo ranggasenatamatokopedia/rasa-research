@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92f90eb1-d3ba-486d-a8d5-531b6f050252" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_stemming_training_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_format_dialogflow_convert_to_rasa_core.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_hit_api_rasa.py" beforeDir="false" afterPath="$PROJECT_DIR$/_hit_api_rasa.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/rasa_result_distinct.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/rasa_result_distinct.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_format_dialogflow_convert_to_rasa.py" beforeDir="false" afterPath="$PROJECT_DIR$/_format_dialogflow_convert_to_rasa_nlu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_stemming_training_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/_stemming_training_data.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,35 +15,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_classification_json_dialogflow.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_hit_api_rasa.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_stemming_training_data.py">
+        <entry file="file://$PROJECT_DIR$/_format_dialogflow_convert_to_rasa_core.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            <state relative-caret-position="606">
+              <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
+              <folding>
+                <element signature="e#22#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_format_dialogflow_convert_to_rasa_nlu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-819">
+              <caret line="22" column="38" selection-end-line="113" />
+              <folding>
+                <element signature="e#22#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -102,10 +93,10 @@
         <option value="$PROJECT_DIR$/json/dialogflow_result_distinct.json" />
         <option value="$PROJECT_DIR$/_classification_json_rasa.py" />
         <option value="$PROJECT_DIR$/_classification_json_dialogflow.py" />
-        <option value="$PROJECT_DIR$/_format_dialogflow_convert_to_rasa_core.py" />
         <option value="$PROJECT_DIR$/_format_dialogflow_convert_to_rasa_regex.py" />
         <option value="$PROJECT_DIR$/_hit_api_rasa.py" />
         <option value="$PROJECT_DIR$/_stemming_training_data.py" />
+        <option value="$PROJECT_DIR$/_format_dialogflow_convert_to_rasa_core.py" />
       </list>
     </option>
   </component>
@@ -177,12 +168,12 @@
       <workItem from="1547606915272" duration="16824000" />
       <workItem from="1547710974090" duration="16299000" />
       <workItem from="1547796224258" duration="45021000" />
-      <workItem from="1548227496905" duration="10734000" />
+      <workItem from="1548227496905" duration="13299000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89683000" />
+    <option name="totallyTimeSpent" value="92248000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
@@ -241,13 +232,6 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/json/rasa_parse.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret column="207" selection-start-column="207" selection-end-column="207" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_classification_csv_dialogflow.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -273,13 +257,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hasil2.json" />
-    <entry file="file://$PROJECT_DIR$/json/training_data.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1408906">
-          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/csv/rasa_test_report.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -465,30 +442,10 @@
     <entry file="file://$PROJECT_DIR$/rasa_result_40persen.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_format_dialogflow_convert_to_rasa.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="72" column="20" selection-end-line="113" />
-          <folding>
-            <element signature="e#22#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/regex_training_data.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
           <caret line="15089" column="34" selection-start-line="15089" selection-start-column="34" selection-end-line="15089" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_format_dialogflow_convert_to_rasa_regex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="49" column="53" lean-forward="true" selection-start-line="49" selection-start-column="53" selection-end-line="49" selection-end-column="53" />
-          <folding>
-            <element signature="e#22#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -523,6 +480,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/json/rasa_result_distinct.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret column="240614" selection-start-column="240591" selection-end-column="240614" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_classification_json_dialogflow.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -533,27 +497,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/json/rasa_result_distinct.json">
+    <entry file="file://$PROJECT_DIR$/_format_dialogflow_convert_to_rasa_regex.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret column="240614" selection-start-column="240591" selection-end-column="240614" />
+        <state relative-caret-position="180">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#22#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_hit_api_rasa.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+        <state relative-caret-position="405">
+          <caret line="27" column="48" lean-forward="true" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/json/training_data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="52" column="55" lean-forward="true" selection-start-line="52" selection-start-column="55" selection-end-line="52" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_stemming_training_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="240">
+          <caret line="37" column="32" lean-forward="true" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+          <folding>
+            <element signature="e#22#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_format_dialogflow_convert_to_rasa_nlu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-819">
+          <caret line="22" column="38" selection-end-line="113" />
+          <folding>
+            <element signature="e#22#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_format_dialogflow_convert_to_rasa_core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
+          <folding>
+            <element signature="e#22#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

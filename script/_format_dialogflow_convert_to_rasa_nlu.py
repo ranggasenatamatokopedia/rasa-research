@@ -2,12 +2,8 @@
 import os
 import json
 import sys, getopt
-# import Sastrawi package
-from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 
-# create stemmer
-factory = StemmerFactory()
-stemmer = factory.create_stemmer()
+counter = 0
 
 def parent_id_not_exist(src):
     with open(src, 'r') as f:
@@ -27,8 +23,6 @@ def select_json_file(directory):
             selected_json.append(src[:-5] + "_usersays_en.json")
     return selected_json
 
-def steamming_bahasa_indoensia(text):
-    return stemmer.stem(text)
 
 def generate_intent_json(selected_json, len_directory):
     rasa_json_format = {
@@ -39,9 +33,7 @@ def generate_intent_json(selected_json, len_directory):
             "entity_synonyms": []
         }
     }
-    counter = 0
     for json_file in selected_json:
-        counter += 1
         try:
             with open(json_file, 'r') as f:
                 json_data = json.load(f)
@@ -49,12 +41,10 @@ def generate_intent_json(selected_json, len_directory):
                     # print("'"+json_file[len_directory:-17]+"', ")
                     continue
                 for obj in json_data:
-                    print(str(counter) + "/"+ str(len(selected_json)))
                     text = ""
                     for data in obj["data"]:
                         text += data["text"]
-                    print(text)
-                    rasa_json_format["rasa_nlu_data"]["common_examples"].append({"text": steamming_bahasa_indoensia(text),
+                    rasa_json_format["rasa_nlu_data"]["common_examples"].append({"text": text,
                                                                                 "intent": json_file[
                                                                                         len_directory:-17].lower()})
         except OSError as e:
