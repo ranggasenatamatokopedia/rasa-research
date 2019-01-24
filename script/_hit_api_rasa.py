@@ -27,7 +27,7 @@ def hit_api(json):
         print("actual : "+test_data["intent_name"])
         resp = requests.post(url=url, json=data)
         json = resp.json()
-        if json["intent"]["confidence"] < 0.4:
+        if json["intent"]["confidence"] < 0.5:
             array_obj.append({"text": test_data["user_says"],
                               "actual": test_data["intent_name"],
                               "prediction": "default fallback intent",
