@@ -15,6 +15,6 @@ def analys_json_data(directory):
 
 
 if __name__ == "__main__":
-    directory = "output/rasa_result_distinct.json"
+    directory = "output/rasa_result_variant.json"
     analys_json_data(directory)
     print(classification_report(y_true, y_pred))

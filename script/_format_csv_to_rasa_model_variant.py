@@ -68,15 +68,26 @@ def rasa_model(text, data, entities):
         rasa_json_format["rasa_nlu_data"]["entity_synonyms"].append({"value": value,
                                                                      "synonyms": [synm for synm in text[value]]})
     for setence in data:
+        # setence = "warna 2biru ukuran 40 ada ga sis "
         data_entity = []
-        start = 0
+        # print(entities)
+        kalimat = setence
         for entity in entities:
+            # print(entities[entity])
+            entities[entity].sort(key=len, reverse=True)
+            # print(entities[entity])
             for word in entities[entity]:
                 try:
-                    start_index = re.search(word, setence[start:]).start()
+                    # print(kalimat)
+                    # print(word)
+                    start_index = re.search(word, kalimat).start()
+                    start_index = re.search(word, setence).start()
+                    kalimat = kalimat.replace(word,'')
+                    # print(setence)
+                    # print(start_index)
                     actual_value = word
                     for value in text:
-                        if word == value:
+                        if word in value:
                             actual_value = value
                             break
                         else:
@@ -92,9 +103,9 @@ def rasa_model(text, data, entities):
                         "value": actual_value,
                         "entity": entity
                     })
-                    start = start_index+len(word)
                 except:
                     continue
+        # print(data_entity)
         if len(data_entity) > 0:
             rasa_json_format["rasa_nlu_data"]["common_examples"].append({"text": setence,
                                                                         "intent": "ready_kosong_question",
