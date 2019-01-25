@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92f90eb1-d3ba-486d-a8d5-531b6f050252" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/json/test_variant.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_format_csv_convert_to_rasa_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/_format_csv_convert_to_rasa_json.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_format_data_test_json_lower_case_distinct.py" beforeDir="false" afterPath="$PROJECT_DIR$/_format_data_test_json_lower_case_distinct.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_hit_api_rasa.py" beforeDir="false" afterPath="$PROJECT_DIR$/_hit_api_rasa.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_format_csv_to_rasa_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/_format_csv_to_rasa_model_variant.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,44 +13,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_format_csv_convert_to_rasa_json.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_format_csv_to_rasa_model_variant.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+            <state relative-caret-position="707">
+              <caret line="118" column="32" selection-start-line="118" selection-start-column="28" selection-end-line="118" selection-end-column="32" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
+                <marker date="1548407379133" expanded="true" signature="2031:4265" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hasil.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/simpen.json">
+          <provider selected="true" editor-type-id="LargeFileEditor">
+            <state relative-caret-position="1547">
+              <caret line="225861" column="21" lean-forward="true" selection-start-line="225861" selection-start-column="21" selection-end-line="225861" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_hit_api_rasa.py">
+        <entry file="file://$PROJECT_DIR$/csv/text_variant.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="451">
-              <caret line="51" column="48" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/output/rasa_result_variant.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="325" column="14" lean-forward="true" selection-start-line="325" selection-start-column="14" selection-end-line="325" selection-end-column="14" />
+            <state>
+              <caret column="7" selection-start-column="3" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -88,6 +73,7 @@
       <find>kemas</find>
       <find>size us</find>
       <find>ready_kosong_question</find>
+      <find>print</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -126,6 +112,7 @@
         <option value="$PROJECT_DIR$/_format_csv_convert_to_rasa_json.py" />
         <option value="$PROJECT_DIR$/hasil.json" />
         <option value="$PROJECT_DIR$/_hit_api_rasa.py" />
+        <option value="$PROJECT_DIR$/_format_csv_to_rasa_model_variant.py" />
       </list>
     </option>
   </component>
@@ -148,16 +135,6 @@
             <path>
               <item name="script" type="b2602c69:ProjectViewProjectNode" />
               <item name="script" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="script" type="b2602c69:ProjectViewProjectNode" />
-              <item name="script" type="462c0819:PsiDirectoryNode" />
-              <item name="json" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="script" type="b2602c69:ProjectViewProjectNode" />
-              <item name="script" type="462c0819:PsiDirectoryNode" />
-              <item name="output" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -207,15 +184,16 @@
       <workItem from="1547606915272" duration="16824000" />
       <workItem from="1547710974090" duration="16299000" />
       <workItem from="1547796224258" duration="45021000" />
-      <workItem from="1548227496905" duration="44525000" />
+      <workItem from="1548227496905" duration="49107000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123474000" />
+    <option name="totallyTimeSpent" value="128056000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1985" y="-4" width="1855" height="1084" extended-state="6" />
+    <frame x="1985" y="-1084" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19679381" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -270,24 +248,6 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/result_distinct_dialogflow.txt" />
-    <entry file="file://$PROJECT_DIR$/_rename_delete_script.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="34" column="66" lean-forward="true" selection-start-line="34" selection-start-column="66" selection-end-line="34" selection-end-column="66" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/json/dialogflow_result_distinct_tambahan.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="105" selection-start-column="101" selection-end-column="105" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_tambahan.txt" />
     <entry file="file://$PROJECT_DIR$/hasil.txt" />
     <entry file="file://$PROJECT_DIR$/test_tambahan.json" />
@@ -561,17 +521,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_format_csv_to_rasa_model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="81" column="51" selection-start-line="81" selection-start-column="51" selection-end-line="81" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-            <marker date="1548389531807" expanded="true" signature="1852:4173" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/model.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="129165">
@@ -591,27 +540,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hasil.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="73" column="30" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_hit_api_rasa.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
+        <state relative-caret-position="765">
           <caret line="51" column="48" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/rasa_result_variant.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="325" column="14" lean-forward="true" selection-start-line="325" selection-start-column="14" selection-end-line="325" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hasil.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -622,6 +564,45 @@
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/rasa_result_variant.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="517" column="13" selection-start-line="517" selection-start-column="13" selection-end-line="517" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csv/text_variant.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_format_csv_to_rasa_model_variant.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="707">
+          <caret line="118" column="32" selection-start-line="118" selection-start-column="28" selection-end-line="118" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1548407379133" expanded="true" signature="2031:4265" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simpen.json">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="1547">
+          <caret line="225861" column="21" lean-forward="true" selection-start-line="225861" selection-start-column="21" selection-end-line="225861" selection-end-column="21" />
         </state>
       </provider>
     </entry>
