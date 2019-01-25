@@ -210,1799 +210,1799 @@
                 "text": "navy, abu tua, coklat tua ada sis?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "yg redy motif apa saja sis"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "sis ini 100% sesuai gambar? ada sabuk tali belakangnya juga? mau 4pc ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "sis ukuran 38 masih ready"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gan... ada warna putih ga?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready? 10rb dapat berapa ekor?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "hitam 39"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "biru orange ada nomer 44 atau 45 gan"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "jak 5106...ada uk 30?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "warna gold ad gk?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gan.. kamera dan memory 16gb ready kah?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready? bayar siang ini sore bisa dikirim gan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "warna black redi gan? ini hardcase ya?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "iphone 6 yg ready warna apa aja gan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready gan pake grab soalnya butuh cepat buat istri"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "kaka ad warna ungu nya gak?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gan. no. 40 hijau ready..?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready warna pa gan ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "kai ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "warna hitam atau silver ada..?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready, bisa gojek tudei? utk jepang bisa kan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "hitam 37 ada?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gan, ready? tq"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready kak?2 pcs"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready gan?mau order 2 gosend bsa?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready gan?, bisa utk nintendo switch splatoon 2?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready g. minat nih."
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "warna hitam tp sol yg putih ada barangnya bos?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "uk 29 light blue ad"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "yang ini ready 3 pcs gan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "18 itu abu ya? ready gak?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "gan yang gambar ke-3, yg batunya hijau kecil-kecil, diameternya brp mm gan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready kak,? ini langsung pake? gk ush regristrasi kah?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "yang garis2nya ready sis? kalo ready.. tolong buatkan etalase khusus 3.5mt ya sis.."
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "uk xxl nya ada brp pcs gan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gan paket 1295 ready ??"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready?bisa gojek hari ini?thx"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "motif e ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "barang ready? serius berminat.."
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "merah marun ukuran l masih ada kak?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "barang ready kembali kapab gan ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready gan size yang no 34?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gan hitam sama merah ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "klo untuk 3 th ukuran / size apa? readykah"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "0,75 ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready ni gan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "barang ready ? bisa beli satuan gk ??"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "on model itu warna cream ya gan? ini ukurannya besar kan ya bisa buat cowok ?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "warna apa aja k"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "no.37 ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "batere m3y ready gan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready warna hitam? kualitas bagaimana ya?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "untuk samsung galaxy j5 yg lama ready gak gan ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "xxxl ld 115cm blue ready mba"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gan rose gold nya ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready.... 250ml (100 lmbr aja dl)"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "utk 27.5 ready gak?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "kalo quilt cover nya bisa order? ukuran 160x210 berapa rupiah y?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "gan mo order untuk 2 sisi pakai foto dari saya bisa ya"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "pink habis smua.. yg ready cuma biru muda, biru tua, ungu tua"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready warna mocca sama pink muda sis"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "readi apa ga gan .?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready gan? itu 8gb cmz8gx3m1a1600c9 1keping kan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready kaktinggal warna apa aja"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ukuran 8\u00bd ready gan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready navy batik biru?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "500 pc ready mb?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "masi ready gan ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "maaf ada warna abu-abu nya gak ya?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "motif 10 en 12 nya ada ready sis?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ungu dan pink ready gan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "untuk ipad mini warna hitam ready??"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ukuran 30 ada?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "no. 15 utk oppo a57ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "kak warna silver ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "stick ready gan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gan yg 64bit ready? oya ini aktif selamanya atau cm bbrp waktu?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "hitam ready gan? bisa kirim sekarang?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "sis, warna dusty pink 40 pcs ada ?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "apakah ada infra merahnya gan? dan apakah bergaransi dr penjual? trims"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "black dan navy ready sis??"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "41 & 42 ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "warna ungu dan hitam ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "yg merah ada?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "warna ungu ready ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready gan ? mic nya bisa dilepas ga ya ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready ukuran large"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready kirim via grab instant?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "brng ready kan gan? udh saya order di tunggu ya"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready barangnya mas?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "assalammu'alaikum... boss, utk warna biru, barang ready stock...???"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "apa beda matrix garuda merah/putih/dan yg lain2 gan? karna saya liat byk macam2 matrix garudanya gan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready ? free ongkir ke jakarta timur?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready? 2 tiket dewasa unt tgl 17 nov 2017?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready boz perdana and paket data internetnya"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "size 5 ready sis?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready pink bang"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "warna lain ada gak gan ?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "ready karakter apa sist?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready gan?? klau masalah ukurannya gmna ya gan??"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready ga mau beli skrg?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "siang gan, brgnya ready stock? ukuran yg paling besar ada? berapa inchi ya? makasih"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready gan? kirim hr ini by jne?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready uk 42 hitam gan"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ukuran m8 x m8 x 45mm ada gan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "little pony pink nya ready kah?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "bose, ini ready dan bisa digojekin ga?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "putih masih ad sis"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready ya gan mau di order ni kalau ready"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "redy gan yg hijau?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "hitam ready ga sis"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ini pompanya ready?bisa kirim hari ini bu gosend?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready gan 10pcs?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gan merah ready ga"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ini uk 43 ready g?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "sise 38 masih ready kak"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "hello kitty redy?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "warna spt model ,readykah sist?sama warna coklat pemda ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "yg e ready gan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready gan sebelah kiri agya 2013"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "yang ready warna apa aja kak ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "maroon 2 ada?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready size 41?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gan, ready kah yg warna putih?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "yang merah ready, sist?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready dan garansikah?kapasitas 3000mah?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "warna gold/black buat vario cbs 110 ready gan ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "biru n hijau ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "barang ready gan ukuran 40"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "barang ready? bisa gojek hr ini? kl pake e5577 yg hitam no logo tetep ganti imei ya?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "abu\" ready yg uk 44?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready 27,31,32??"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready berapa kak,,yang putih?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready gan? ini full set? baru apa bekas yah gan? kok harganya miring sekali. thanks"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "semua msh ready"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "cokelat size 36 ready sob ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "warna merah uk 43 ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "blacknya ready om? kirim ke jaksel kira2 brp lama ya?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready gan? pengiriman plg akhir jam berapa ya?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "mau 2 botol ready ?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "sisa warna apa gan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready gk bos brng nya yg wrna hijau stabilo"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready? masa aktif?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "stok warna silver ready gan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "3bh british flag ready?bisa gojek hari ini?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ukuran l ready kka?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "warna putih 2pc ready? bisa dgn gojek?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "halo ini udah ready blm ya? thx"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "1 lagi kak ini ready kak?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "maaf stock ready gan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready siss"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ini ready gak ? aku liat di ig ada yg imperial blue rooster ready gak ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "agaan...numpang cek stock. yg uk xl.....adakah ??"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ini barangnya ready ga ya sis?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "barang 2 batang ready gan"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "ready list apa ka?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "yg black diamond merah ada gan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready tuttifruty? ada produk echinacea juga ga?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "barang ready?, lama sablon brp hari om?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "yg warna hitam ready ga"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gambar 1 ukuran m ready gan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "mk 44 msh ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "redy cw 30 gak?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready gan 650 watt?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "warna coklat ready om?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "readykah batt bm44 ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready kak? misal sudah terpakai 1 domain, kemudian kita tutup domain tersebut, apakah bisa dipakai lagi ke domain baru?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready. besok. uda dikantor.."
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready?bisa gojek hari ini?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "om ini ready gak?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "tepung ubi ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "om ini udah ready blm buat s8+"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "no. 5 dan 9 ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready gambar 2"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "merah ready sist?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "mbak ada gak baju adat nya warna biru muda buat anak 8 tahun mbak?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready warna navy ga?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "nh ready gk ka?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "xl ready ka"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready kaka, resi malam terimakasih kak"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready v5 121?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ukuran l ready gan ya?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready gan 1 box"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "saya yg td pm lewat ig. ini ready stock kan ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ukuran 32/33 da?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "apakah ready stok 43"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "ready yang angka berapa?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "siap ^^"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "hitam polos ready gan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready bos 2? pengiriman kapn?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready 5 piece?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready stok? asli lego atau kw?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "yg double kipas ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready? ini yg prime ya? paking pakai apa?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ini warnanya biru muda? ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "120x200 ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready 4 bungkus?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "barang ready 3pcs?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "size 40 ready nda gan..."
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "stocknya ready apa aja? bisa kirim pake gojek kan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "merah ready? bisa gojek hri ini?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "ready ukuran apa gan ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gan yg ready size xxl warna apa aja?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready ga mbak?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "lensa miror bukan? biru ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "hijau 41 ada stock gak?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gan, warna hitam misty, navy misty sama putih misty size l ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "roda nya ready gan"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gan, ready wrn putih?? bisa langsung krm skrg pake gojek?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gan ready sesuai deskripsi warnanya ?farishyalma"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "kak ini size 29 ready"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "green untuk 6m ready ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "grey dan brown ready sis ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ada paket yang isi 2pcs utnuk ukuran 60x20x4 ga?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "bang, yang ini ready? ada warna apa aja skrg."
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready gan silahkan di order bisa gojek"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "34 yang blue masih ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "foto ke 4 superman .yg ad tulisan man of steel ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "size 12 ready sist ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gan ini hitam sz 40 ready dan yg brown nya size 41??sya order skrg gan"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ukuran 3 tahun ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ukuran 43 grey list navy msh ada?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "size xl warna persis kyak yg di ft ready gan"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "kalo ini ready gan? gojek?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready wrna merah?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "bening ready ka"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "tas ts000048 ( warna biru tua/ navy)ready ga say ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready stock 3 unit?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "merah 37 ready ga?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready? kalau kirim ke tanggerang pakai go jack bisa hari ini?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "kupler untuk marauder import stoknya ada om?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "siang saya direkomendasikan oleh pak imron, ready ya 2dus tsweet tartlet ukuran standar?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "bms004 ready gan??"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "hair caps tuk sekali pakai aja y?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "size 95 ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "20 pcs ready?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "redmi 3 prime ready warna apa aja,ada tg nya gk sekalian?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "biru ready? order hari ini krm jam brpa?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gan 2 kaleng ready ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "yg black ready ga gan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready kh biru tua dan merah kuning"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "halo bos, 25 pcs ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready untuk lenovo p90 ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "yg pilot garuda ukuran xxl ready stock ga?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "barang ready putih garis ?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "ready apa aja kak?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "silver ready gan? jual tg nya juga ngga?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready gan? ini for canon ya?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "body putih - lengan merah cabe <- bahan combed bukan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gan ready stok dan apakah carry handlenya bsa dilepas?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "klo untuk ini ready 50 pcs, bisa campur wrna ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready ya sepatu anak slop bunga jeans bunga navy nomor 28"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "ready. silahkan pilih pengiriman dg tiki ons (kilat)"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready gan yang hitam jepit hitam juga ukuran 41? bisa gojek sekarang?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "halo.. yg ready wrn apa aja nih?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "kak yg ready warna apa"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "barang ready kak"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gold sama coklat rwady?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gold ready bos?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "vanila 2 dus ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "lcd e6633 ready gan?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "sekarang ready warna apa gan ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready 3 pack?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "grab instan, hari ini, ready gan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "size7 ready kak?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "warna pinknya ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ada size 44/45 gak...tks"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready yg muka orang??"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "adidas hitam ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "size 35nya ready kah ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "size 41 putih strip hitam ready gak gan..?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gan mau pesan 5 pasang, ready gak?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "masih ready kak??? warna item???"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "silver/gold ready om?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "warna full black ada gak min size 40"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ini ready v ukuran m?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "buat gsx r150 ready ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gan ready size m"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "mau beli lagi. moscotnya bagus. ready? eh, jual bantalan kacamata ga?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready gan , ini bisa 3 speed ya"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "untik redmi 3 pro ready gan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "kang masih ready stok?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "19 pcs ready dan bisa langsung kirim gan hari ini?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "kalo ukuran l no brapa gan"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gan,ready? thanks"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "barang ready gak gan kalau order hari ini?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "barangnya masih ready gan? mau repeat order lgi nihh gan :d :d"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready gan? ini ori?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "sis ini ready? kalau yang mini square set gak jual ya?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "cahaya putih atau kuning?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "pagi..ready lion hijau, deer kuning, zoo biru n merah?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "sist ini 18 m motif mana yg ready?db"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gan saya mau order satu ni yang warna hitam masih ready ga gan ????"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready gan buat j7 prime ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "mau tanya sist obat nya masih ready kah?caranya bagaimana?yg untuk sebulan"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready 2 unit ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "-525 ready?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "readi wrna apa aja???"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ukuran 30/35 batang 5mm (aa) ready gx gan"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "masih ada gan warna cokelat sz 42"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "12pcs ready?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "halo gan, ready warna apaa? kaca glossy atau doff ya?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "stocknya ready pak"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "beige ready? kirim cilegon bisa? thx"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "ready warna apa aja sist ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "warna hitam motif warna merah ad ga"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready 300pc?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "pink muda size 3 ready sis?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "dijamin baru, original dan garansi ya pak? barang ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gan ukuran 41 dan 43 ready stok gan....?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "hijau stabilo ukuran 43 redy gx"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready gan dan brp kilo ini gan"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "sis,,yg feet up overnight mois ready ga? ( bukan yg comfor loh)"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "bang warna item 31 ready kan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "barang ready gan? saya order ya"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "ready ada game terbarunya gak kaya pes 2018"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "xl hitam list merah ready?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "readyy warna apa ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready untuk a37"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "bos, garnish chrome silver ada? ready stock? barang ori ahm?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "striping vixion yg merah ready gan"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "loho movca liho gray ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "yg amwarna biru ready,,??"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready buat q6?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "l ready warna apa sis?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gan yg biru train no 4 ready?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "siang gan. mau tanya harga sudah termasuk mmc atau blm ? terima kasih"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready spt digambar gan? strip silver..dial putih ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready jne"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "album animal kaiser uk jumbo ready warna apa aja?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "masih ready gan..?? kirim via gojek hari ini bisa ya..??"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "m nya ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready gan?? ori ga"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "gan yang ready warna apa"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "warna hitam size m ready bos ??"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "sis... warna mintx ada ya?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "biru dongker uk xl ready gan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready gan? bisa kirim ke medan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "50pasang ready? ukuran brp?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "l ready ga gan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ukuran l ada yang warna hitam ?? tlg kbr ya tq"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "hitam 37 dan 41 ready"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready gan frame sx4 nya"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready, perumnas 2 bekasi"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready banyak ga mau ambil 5"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready ga kk?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready kak, barangnya?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready gak buat ip7 plus"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "purple l ready"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "ready kapan sis?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "untuk 35 watt dan 25 watt nya ready gan,?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "ada warna apa aja? pakai kawat ya?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "37 dan 40 ready kak. tolong di jwb ya."
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "sis.size m ready 2 pcs"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "lampu utama / tengah ny putih ga gan?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "ready gan? ukurannya ada berapa aja?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "xs merah ready?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "untuk bb 72kg, muat tdk ya ? ready warna apa ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready. luar ponti gan"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "36 white. ready ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready gan ane mau order ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "masih ada gan warna biru tua"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "iphone 6 plus ready warna apa aja?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready gak gan warna hitam"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gan black size 9 & gold size 6 ready g?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "mbak yg biru mah ada?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "warna ungu ready sist???"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "untuk samsung j7 2016 ready gan??"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "size 41 ada warna apa aja?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready kah bos, dg jumlah ini : merah=200, hitam=200, kuning=200, biru=100"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "38 ready kak?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "summer size xl sdh ada sis? tempo hari order kan dibilang kosong jd ganti warna."
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gan, yang white ready?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "ready warna apa bos"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "hitam utk iphone 7 plus ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "arinna ukuran xl ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "warna hitam ready? bias kirim gojek hari ini?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "warna hitam, biru turkis tua, sama silver tua nya ada?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "sis ini ready semua rasa?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "shade 21 ada sis ? apricot beige ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "hello kitty yaa... ready kan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "size 45 nya ready ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "pink sm mocca ready?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "yg redmi note 4x ready wrna apa ajaa sist?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready dan ori?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "buat anak umur 8 thun ready untuk anak laki-laki"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ukuran m untuk baju dgn kode 4214 long purple ada nggak gan"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "warna pink ready kah? bisa go send?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "kapan ini ready nya gan"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready size m sis"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "warna putih ready? bisa gojek kan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "xl lb brp gan? warna hitam ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "warna hitam ready ga gan? ada tulisan samsung nya kan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "untuk macbook pro 13\" black ada?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready hitam? mau gosend"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "redy gan hari ini ??"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready barangnya?mau pake gojek"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "readykah yg warna putih mas"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gold utk ip 6+ ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gan stok redy gak.warna apa aja"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "sis mau putih ada size 37"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "j5 prime ready ga?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "ready warna apa ajah om?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "foto yg nomor 2 ready gan ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "bonus tas nya masih? ambil 2dozen ready ga?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready ga wrna biru?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "barang ready ga gan ? perlu dipasan anti gores gak ?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "sis ini ada warna pink kombinasi peach dan putih gak?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "ini 1 set nya sudah sama lampu nya semua kan? sdah siap pake kan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "hijau ready kak?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready gak gan ?? md531ae/a"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "size 33 ready ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gan yang warna merah masih ready gak??"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready warna silver gan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "merah hitam size m ada?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "pnya yg ukuran lebih pjg ga sist?kl ga slh 60x160..hrg brp ya kl ada?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ada yg tinta hijau kah ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready gak gan, warna merah"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "retro red l ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready mas? model slim mepet kaca?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "yg non cepol warna hitak ready sist?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "sm nya ready ka?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "salur hijau ready ngak"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready 3 botol gan ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ini uda ready lg sis?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "jepitan kayunya yg tanpa warna/cat alias natural ada ga gan??"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "2 kaleng vanilla 800 gr masih ready gak ?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gan yg hitam pekat ada?itu all size yah"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "untuk cat acrylic warna putih.y jika diaplikasikan ke kayu dengan takaran tipis ...warna.y menjadi transparan atau tetap putih?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "ukuran l yang ready apa?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready mangkuknya?klo ga pake tile berapa harganya?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ori, cover ungu & ready ???"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "hitam size 33 ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready ga sis?pengiriman gojek?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "putih ready ka"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "kalo buat nmax per sentri pakai punya apa? ini ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gan masih ready gak?"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "support untuk windows 10 gak gan dan cocok gak buat hardisk laptop ? kalo ready, info kan gan. trims"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ready, min? orikan ya"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "ada yg ukuran 95?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "hitam ready gan ? udh free windows blm dan office"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "ini yg bunga putih atau merah ya? kalau misalnya beli 10 bibit campur merah & putih bisakah?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "xxl ada warna apa gan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "ini ready gak? bisa gojek?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "yg ungu plain purple ready?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "2x1 ready gan?"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "untuk ukuran xl ready gan.,??"
             },
             {
-                "intent": "",
+                "intent": "ready_kosong_question",
                 "text": "gan barang ready ga kalo ready ane mau langsung order nihh"
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "barang ready?? warna apa aja.."
             },
             {
-                "intent": "",
+                "intent": "default fallback intent",
                 "text": "ada warna apa aja selain ini ya?"
             }
         ],

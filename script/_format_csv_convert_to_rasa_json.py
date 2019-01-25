@@ -27,6 +27,6 @@ def csv_file_reader(directory):
 
 
 if __name__ == "__main__":
-    direct = "csv/[Talk_Discussion Chatbot] DF vs Abhinav - testing_data.csv"
+    direct = "csv/[Talk_Discussion Chatbot] DF vs Abhinav - testing_data (1).csv"
     data = csv_file_reader(direct)
     print(json.dumps(data, sort_keys=True, indent=4))

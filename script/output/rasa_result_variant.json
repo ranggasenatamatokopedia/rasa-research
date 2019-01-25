@@ -1097,7 +1097,7 @@
     },
     {
         "text": "yg redy motif apa saja sis",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1114,7 +1114,7 @@
     },
     {
         "text": "sis ini 100% sesuai gambar? ada sabuk tali belakangnya juga? mau 4pc ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1131,7 +1131,7 @@
     },
     {
         "text": "sis ukuran 38 masih ready",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1160,7 +1160,7 @@
     },
     {
         "text": "gan... ada warna putih ga?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1186,7 +1186,7 @@
     },
     {
         "text": "ready? 10rb dapat berapa ekor?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1203,7 +1203,7 @@
     },
     {
         "text": "hitam 39",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1232,7 +1232,7 @@
     },
     {
         "text": "biru orange ada nomer 44 atau 45 gan",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1258,7 +1258,7 @@
     },
     {
         "text": "jak 5106...ada uk 30?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1287,7 +1287,7 @@
     },
     {
         "text": "warna gold ad gk?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1304,7 +1304,7 @@
     },
     {
         "text": "gan.. kamera dan memory 16gb ready kah?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1321,7 +1321,7 @@
     },
     {
         "text": "ready? bayar siang ini sore bisa dikirim gan?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1338,7 +1338,7 @@
     },
     {
         "text": "warna black redi gan? ini hardcase ya?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1355,7 +1355,7 @@
     },
     {
         "text": "iphone 6 yg ready warna apa aja gan?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1372,7 +1372,7 @@
     },
     {
         "text": "ready gan pake grab soalnya butuh cepat buat istri",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1389,7 +1389,7 @@
     },
     {
         "text": "kaka ad warna ungu nya gak?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1418,7 +1418,7 @@
     },
     {
         "text": "gan. no. 40 hijau ready..?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1447,7 +1447,7 @@
     },
     {
         "text": "ready warna pa gan ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1464,7 +1464,7 @@
     },
     {
         "text": "kai ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1481,7 +1481,7 @@
     },
     {
         "text": "warna hitam atau silver ada..?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1510,7 +1510,7 @@
     },
     {
         "text": "ready, bisa gojek tudei? utk jepang bisa kan?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1527,7 +1527,7 @@
     },
     {
         "text": "hitam 37 ada?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1556,7 +1556,7 @@
     },
     {
         "text": "gan, ready? tq",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1573,7 +1573,7 @@
     },
     {
         "text": "ready kak?2 pcs",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1590,7 +1590,7 @@
     },
     {
         "text": "ready gan?mau order 2 gosend bsa?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1607,7 +1607,7 @@
     },
     {
         "text": "ready gan?, bisa utk nintendo switch splatoon 2?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1624,7 +1624,7 @@
     },
     {
         "text": "ready g. minat nih.",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1641,7 +1641,7 @@
     },
     {
         "text": "warna hitam tp sol yg putih ada barangnya bos?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1678,7 +1678,7 @@
     },
     {
         "text": "uk 29 light blue ad",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1707,7 +1707,7 @@
     },
     {
         "text": "yang ini ready 3 pcs gan?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1724,7 +1724,7 @@
     },
     {
         "text": "18 itu abu ya? ready gak?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1741,7 +1741,7 @@
     },
     {
         "text": "gan yang gambar ke-3, yg batunya hijau kecil-kecil, diameternya brp mm gan?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1770,7 +1770,7 @@
     },
     {
         "text": "ready kak,? ini langsung pake? gk ush regristrasi kah?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1787,7 +1787,7 @@
     },
     {
         "text": "yang garis2nya ready sis? kalo ready.. tolong buatkan etalase khusus 3.5mt ya sis..",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1804,7 +1804,7 @@
     },
     {
         "text": "uk xxl nya ada brp pcs gan?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1833,7 +1833,7 @@
     },
     {
         "text": "gan paket 1295 ready ??",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1850,7 +1850,7 @@
     },
     {
         "text": "ready?bisa gojek hari ini?thx",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1867,7 +1867,7 @@
     },
     {
         "text": "motif e ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1884,7 +1884,7 @@
     },
     {
         "text": "barang ready? serius berminat..",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1901,7 +1901,7 @@
     },
     {
         "text": "merah marun ukuran l masih ada kak?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1941,7 +1941,7 @@
     },
     {
         "text": "barang ready kembali kapab gan ?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1958,7 +1958,7 @@
     },
     {
         "text": "ready gan size yang no 34?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -1975,7 +1975,7 @@
     },
     {
         "text": "gan hitam sama merah ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2004,7 +2004,7 @@
     },
     {
         "text": "klo untuk 3 th ukuran / size apa? readykah",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2021,7 +2021,7 @@
     },
     {
         "text": "0,75 ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2038,7 +2038,7 @@
     },
     {
         "text": "ready ni gan?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2055,7 +2055,7 @@
     },
     {
         "text": "barang ready ? bisa beli satuan gk ??",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2072,7 +2072,7 @@
     },
     {
         "text": "on model itu warna cream ya gan? ini ukurannya besar kan ya bisa buat cowok ?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2089,7 +2089,7 @@
     },
     {
         "text": "warna apa aja k",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2106,7 +2106,7 @@
     },
     {
         "text": "no.37 ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2123,7 +2123,7 @@
     },
     {
         "text": "batere m3y ready gan?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2140,7 +2140,7 @@
     },
     {
         "text": "ready warna hitam? kualitas bagaimana ya?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2169,7 +2169,7 @@
     },
     {
         "text": "untuk samsung galaxy j5 yg lama ready gak gan ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2186,7 +2186,7 @@
     },
     {
         "text": "xxxl ld 115cm blue ready mba",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2203,7 +2203,7 @@
     },
     {
         "text": "gan rose gold nya ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2220,7 +2220,7 @@
     },
     {
         "text": "ready.... 250ml (100 lmbr aja dl)",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2237,7 +2237,7 @@
     },
     {
         "text": "utk 27.5 ready gak?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2254,7 +2254,7 @@
     },
     {
         "text": "kalo quilt cover nya bisa order? ukuran 160x210 berapa rupiah y?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2271,7 +2271,7 @@
     },
     {
         "text": "gan mo order untuk 2 sisi pakai foto dari saya bisa ya",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2288,7 +2288,7 @@
     },
     {
         "text": "pink habis smua.. yg ready cuma biru muda, biru tua, ungu tua",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2314,7 +2314,7 @@
     },
     {
         "text": "ready warna mocca sama pink muda sis",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2331,7 +2331,7 @@
     },
     {
         "text": "readi apa ga gan .?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2348,7 +2348,7 @@
     },
     {
         "text": "ready gan? itu 8gb cmz8gx3m1a1600c9 1keping kan?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2365,7 +2365,7 @@
     },
     {
         "text": "ready kaktinggal warna apa aja",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2382,7 +2382,7 @@
     },
     {
         "text": "ukuran 8\u00bd ready gan?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2399,7 +2399,7 @@
     },
     {
         "text": "ready navy batik biru?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2428,7 +2428,7 @@
     },
     {
         "text": "500 pc ready mb?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2445,7 +2445,7 @@
     },
     {
         "text": "masi ready gan ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2462,7 +2462,7 @@
     },
     {
         "text": "maaf ada warna abu-abu nya gak ya?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2488,7 +2488,7 @@
     },
     {
         "text": "motif 10 en 12 nya ada ready sis?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2505,7 +2505,7 @@
     },
     {
         "text": "ungu dan pink ready gan?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2522,7 +2522,7 @@
     },
     {
         "text": "untuk ipad mini warna hitam ready??",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2551,7 +2551,7 @@
     },
     {
         "text": "ukuran 30 ada?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2580,7 +2580,7 @@
     },
     {
         "text": "no. 15 utk oppo a57ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2597,7 +2597,7 @@
     },
     {
         "text": "kak warna silver ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2614,7 +2614,7 @@
     },
     {
         "text": "stick ready gan?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2631,7 +2631,7 @@
     },
     {
         "text": "gan yg 64bit ready? oya ini aktif selamanya atau cm bbrp waktu?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2648,7 +2648,7 @@
     },
     {
         "text": "hitam ready gan? bisa kirim sekarang?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2677,7 +2677,7 @@
     },
     {
         "text": "sis, warna dusty pink 40 pcs ada ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2694,7 +2694,7 @@
     },
     {
         "text": "apakah ada infra merahnya gan? dan apakah bergaransi dr penjual? trims",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2711,7 +2711,7 @@
     },
     {
         "text": "black dan navy ready sis??",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2728,7 +2728,7 @@
     },
     {
         "text": "41 & 42 ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2745,7 +2745,7 @@
     },
     {
         "text": "warna ungu dan hitam ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2785,7 +2785,7 @@
     },
     {
         "text": "yg merah ada?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2814,7 +2814,7 @@
     },
     {
         "text": "warna ungu ready ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2843,7 +2843,7 @@
     },
     {
         "text": "ready gan ? mic nya bisa dilepas ga ya ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2860,7 +2860,7 @@
     },
     {
         "text": "ready ukuran large",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2877,7 +2877,7 @@
     },
     {
         "text": "ready kirim via grab instant?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2894,7 +2894,7 @@
     },
     {
         "text": "brng ready kan gan? udh saya order di tunggu ya",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2911,7 +2911,7 @@
     },
     {
         "text": "ready barangnya mas?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2928,7 +2928,7 @@
     },
     {
         "text": "assalammu'alaikum... boss, utk warna biru, barang ready stock...???",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2957,7 +2957,7 @@
     },
     {
         "text": "apa beda matrix garuda merah/putih/dan yg lain2 gan? karna saya liat byk macam2 matrix garudanya gan?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2974,7 +2974,7 @@
     },
     {
         "text": "ready ? free ongkir ke jakarta timur?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -2991,7 +2991,7 @@
     },
     {
         "text": "ready? 2 tiket dewasa unt tgl 17 nov 2017?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3008,7 +3008,7 @@
     },
     {
         "text": "ready boz perdana and paket data internetnya",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3025,7 +3025,7 @@
     },
     {
         "text": "size 5 ready sis?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3051,7 +3051,7 @@
     },
     {
         "text": "ready pink bang",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3068,7 +3068,7 @@
     },
     {
         "text": "warna lain ada gak gan ?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3085,7 +3085,7 @@
     },
     {
         "text": "ready karakter apa sist?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3102,7 +3102,7 @@
     },
     {
         "text": "ready gan?? klau masalah ukurannya gmna ya gan??",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3119,7 +3119,7 @@
     },
     {
         "text": "ready ga mau beli skrg?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3136,7 +3136,7 @@
     },
     {
         "text": "siang gan, brgnya ready stock? ukuran yg paling besar ada? berapa inchi ya? makasih",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3153,7 +3153,7 @@
     },
     {
         "text": "ready gan? kirim hr ini by jne?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3170,7 +3170,7 @@
     },
     {
         "text": "ready uk 42 hitam gan",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3199,7 +3199,7 @@
     },
     {
         "text": "ukuran m8 x m8 x 45mm ada gan?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3216,7 +3216,7 @@
     },
     {
         "text": "little pony pink nya ready kah?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3233,7 +3233,7 @@
     },
     {
         "text": "bose, ini ready dan bisa digojekin ga?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3250,7 +3250,7 @@
     },
     {
         "text": "putih masih ad sis",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3276,7 +3276,7 @@
     },
     {
         "text": "ready ya gan mau di order ni kalau ready",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3293,7 +3293,7 @@
     },
     {
         "text": "redy gan yg hijau?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3322,7 +3322,7 @@
     },
     {
         "text": "hitam ready ga sis",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3351,7 +3351,7 @@
     },
     {
         "text": "ini pompanya ready?bisa kirim hari ini bu gosend?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3368,7 +3368,7 @@
     },
     {
         "text": "ready gan 10pcs?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3385,7 +3385,7 @@
     },
     {
         "text": "gan merah ready ga",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3414,7 +3414,7 @@
     },
     {
         "text": "ini uk 43 ready g?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3443,7 +3443,7 @@
     },
     {
         "text": "sise 38 masih ready kak",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3460,7 +3460,7 @@
     },
     {
         "text": "hello kitty redy?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3477,7 +3477,7 @@
     },
     {
         "text": "warna spt model ,readykah sist?sama warna coklat pemda ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3506,7 +3506,7 @@
     },
     {
         "text": "yg e ready gan?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3523,7 +3523,7 @@
     },
     {
         "text": "ready gan sebelah kiri agya 2013",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3540,7 +3540,7 @@
     },
     {
         "text": "yang ready warna apa aja kak ?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3557,7 +3557,7 @@
     },
     {
         "text": "maroon 2 ada?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3583,7 +3583,7 @@
     },
     {
         "text": "ready size 41?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3609,7 +3609,7 @@
     },
     {
         "text": "gan, ready kah yg warna putih?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3635,7 +3635,7 @@
     },
     {
         "text": "yang merah ready, sist?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3664,7 +3664,7 @@
     },
     {
         "text": "ready dan garansikah?kapasitas 3000mah?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3681,7 +3681,7 @@
     },
     {
         "text": "warna gold/black buat vario cbs 110 ready gan ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3698,7 +3698,7 @@
     },
     {
         "text": "biru n hijau ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3738,7 +3738,7 @@
     },
     {
         "text": "barang ready gan ukuran 40",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3767,7 +3767,7 @@
     },
     {
         "text": "barang ready? bisa gojek hr ini? kl pake e5577 yg hitam no logo tetep ganti imei ya?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3796,7 +3796,7 @@
     },
     {
         "text": "abu\" ready yg uk 44?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3813,7 +3813,7 @@
     },
     {
         "text": "ready 27,31,32??",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3830,7 +3830,7 @@
     },
     {
         "text": "ready berapa kak,,yang putih?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3856,7 +3856,7 @@
     },
     {
         "text": "ready gan? ini full set? baru apa bekas yah gan? kok harganya miring sekali. thanks",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3873,7 +3873,7 @@
     },
     {
         "text": "semua msh ready",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3890,7 +3890,7 @@
     },
     {
         "text": "cokelat size 36 ready sob ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3916,7 +3916,7 @@
     },
     {
         "text": "warna merah uk 43 ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3945,7 +3945,7 @@
     },
     {
         "text": "blacknya ready om? kirim ke jaksel kira2 brp lama ya?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3962,7 +3962,7 @@
     },
     {
         "text": "ready gan? pengiriman plg akhir jam berapa ya?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3979,7 +3979,7 @@
     },
     {
         "text": "mau 2 botol ready ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -3996,7 +3996,7 @@
     },
     {
         "text": "sisa warna apa gan?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4013,7 +4013,7 @@
     },
     {
         "text": "ready gk bos brng nya yg wrna hijau stabilo",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4042,7 +4042,7 @@
     },
     {
         "text": "ready? masa aktif?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4059,7 +4059,7 @@
     },
     {
         "text": "stok warna silver ready gan?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4076,7 +4076,7 @@
     },
     {
         "text": "3bh british flag ready?bisa gojek hari ini?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4093,7 +4093,7 @@
     },
     {
         "text": "ukuran l ready kka?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4122,7 +4122,7 @@
     },
     {
         "text": "warna putih 2pc ready? bisa dgn gojek?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4148,7 +4148,7 @@
     },
     {
         "text": "halo ini udah ready blm ya? thx",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4165,7 +4165,7 @@
     },
     {
         "text": "1 lagi kak ini ready kak?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4182,7 +4182,7 @@
     },
     {
         "text": "maaf stock ready gan?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4199,7 +4199,7 @@
     },
     {
         "text": "ready siss",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4216,7 +4216,7 @@
     },
     {
         "text": "ini ready gak ? aku liat di ig ada yg imperial blue rooster ready gak ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4233,7 +4233,7 @@
     },
     {
         "text": "agaan...numpang cek stock. yg uk xl.....adakah ??",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4250,7 +4250,7 @@
     },
     {
         "text": "ini barangnya ready ga ya sis?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4267,7 +4267,7 @@
     },
     {
         "text": "barang 2 batang ready gan",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4284,7 +4284,7 @@
     },
     {
         "text": "ready list apa ka?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4301,7 +4301,7 @@
     },
     {
         "text": "yg black diamond merah ada gan?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4330,7 +4330,7 @@
     },
     {
         "text": "ready tuttifruty? ada produk echinacea juga ga?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4347,7 +4347,7 @@
     },
     {
         "text": "barang ready?, lama sablon brp hari om?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4364,7 +4364,7 @@
     },
     {
         "text": "yg warna hitam ready ga",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4393,7 +4393,7 @@
     },
     {
         "text": "gambar 1 ukuran m ready gan?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4422,7 +4422,7 @@
     },
     {
         "text": "mk 44 msh ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4439,7 +4439,7 @@
     },
     {
         "text": "redy cw 30 gak?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4456,7 +4456,7 @@
     },
     {
         "text": "ready gan 650 watt?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4473,7 +4473,7 @@
     },
     {
         "text": "warna coklat ready om?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4502,7 +4502,7 @@
     },
     {
         "text": "readykah batt bm44 ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4519,7 +4519,7 @@
     },
     {
         "text": "ready kak? misal sudah terpakai 1 domain, kemudian kita tutup domain tersebut, apakah bisa dipakai lagi ke domain baru?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4536,7 +4536,7 @@
     },
     {
         "text": "ready. besok. uda dikantor..",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4553,7 +4553,7 @@
     },
     {
         "text": "ready?bisa gojek hari ini?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4570,7 +4570,7 @@
     },
     {
         "text": "om ini ready gak?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4587,7 +4587,7 @@
     },
     {
         "text": "tepung ubi ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4604,7 +4604,7 @@
     },
     {
         "text": "om ini udah ready blm buat s8+",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4621,7 +4621,7 @@
     },
     {
         "text": "no. 5 dan 9 ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4638,7 +4638,7 @@
     },
     {
         "text": "ready gambar 2",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4655,7 +4655,7 @@
     },
     {
         "text": "merah ready sist?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4684,7 +4684,7 @@
     },
     {
         "text": "mbak ada gak baju adat nya warna biru muda buat anak 8 tahun mbak?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4710,7 +4710,7 @@
     },
     {
         "text": "ready warna navy ga?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4739,7 +4739,7 @@
     },
     {
         "text": "nh ready gk ka?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4756,7 +4756,7 @@
     },
     {
         "text": "xl ready ka",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4773,7 +4773,7 @@
     },
     {
         "text": "ready kaka, resi malam terimakasih kak",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4790,7 +4790,7 @@
     },
     {
         "text": "ready v5 121?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4807,7 +4807,7 @@
     },
     {
         "text": "ukuran l ready gan ya?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4836,7 +4836,7 @@
     },
     {
         "text": "ready gan 1 box",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4853,7 +4853,7 @@
     },
     {
         "text": "saya yg td pm lewat ig. ini ready stock kan ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4870,7 +4870,7 @@
     },
     {
         "text": "ukuran 32/33 da?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4887,7 +4887,7 @@
     },
     {
         "text": "apakah ready stok 43",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4904,7 +4904,7 @@
     },
     {
         "text": "ready yang angka berapa?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4921,7 +4921,7 @@
     },
     {
         "text": "siap ^^",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4938,7 +4938,7 @@
     },
     {
         "text": "hitam polos ready gan?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4967,7 +4967,7 @@
     },
     {
         "text": "ready bos 2? pengiriman kapn?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -4984,7 +4984,7 @@
     },
     {
         "text": "ready 5 piece?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5001,7 +5001,7 @@
     },
     {
         "text": "ready stok? asli lego atau kw?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5018,7 +5018,7 @@
     },
     {
         "text": "yg double kipas ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5035,7 +5035,7 @@
     },
     {
         "text": "ready? ini yg prime ya? paking pakai apa?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5052,7 +5052,7 @@
     },
     {
         "text": "ini warnanya biru muda? ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5078,7 +5078,7 @@
     },
     {
         "text": "120x200 ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5095,7 +5095,7 @@
     },
     {
         "text": "ready 4 bungkus?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5112,7 +5112,7 @@
     },
     {
         "text": "barang ready 3pcs?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5129,7 +5129,7 @@
     },
     {
         "text": "size 40 ready nda gan...",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5155,7 +5155,7 @@
     },
     {
         "text": "stocknya ready apa aja? bisa kirim pake gojek kan?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5172,7 +5172,7 @@
     },
     {
         "text": "merah ready? bisa gojek hri ini?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5201,7 +5201,7 @@
     },
     {
         "text": "ready ukuran apa gan ?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5218,7 +5218,7 @@
     },
     {
         "text": "gan yg ready size xxl warna apa aja?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5235,7 +5235,7 @@
     },
     {
         "text": "ready ga mbak?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5252,7 +5252,7 @@
     },
     {
         "text": "lensa miror bukan? biru ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5281,7 +5281,7 @@
     },
     {
         "text": "hijau 41 ada stock gak?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5310,7 +5310,7 @@
     },
     {
         "text": "gan, warna hitam misty, navy misty sama putih misty size l ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5347,7 +5347,7 @@
     },
     {
         "text": "roda nya ready gan",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5364,7 +5364,7 @@
     },
     {
         "text": "gan, ready wrn putih?? bisa langsung krm skrg pake gojek?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5390,7 +5390,7 @@
     },
     {
         "text": "gan ready sesuai deskripsi warnanya ?farishyalma",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5407,7 +5407,7 @@
     },
     {
         "text": "kak ini size 29 ready",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5433,7 +5433,7 @@
     },
     {
         "text": "green untuk 6m ready ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5450,7 +5450,7 @@
     },
     {
         "text": "grey dan brown ready sis ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5467,7 +5467,7 @@
     },
     {
         "text": "ada paket yang isi 2pcs utnuk ukuran 60x20x4 ga?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5484,7 +5484,7 @@
     },
     {
         "text": "bang, yang ini ready? ada warna apa aja skrg.",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5501,7 +5501,7 @@
     },
     {
         "text": "ready gan silahkan di order bisa gojek",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5518,7 +5518,7 @@
     },
     {
         "text": "34 yang blue masih ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5535,7 +5535,7 @@
     },
     {
         "text": "foto ke 4 superman .yg ad tulisan man of steel ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5552,7 +5552,7 @@
     },
     {
         "text": "size 12 ready sist ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5578,7 +5578,7 @@
     },
     {
         "text": "gan ini hitam sz 40 ready dan yg brown nya size 41??sya order skrg gan",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5607,7 +5607,7 @@
     },
     {
         "text": "ukuran 3 tahun ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5624,7 +5624,7 @@
     },
     {
         "text": "ukuran 43 grey list navy msh ada?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5664,7 +5664,7 @@
     },
     {
         "text": "size xl warna persis kyak yg di ft ready gan",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5681,7 +5681,7 @@
     },
     {
         "text": "kalo ini ready gan? gojek?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5698,7 +5698,7 @@
     },
     {
         "text": "ready wrna merah?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5727,7 +5727,7 @@
     },
     {
         "text": "bening ready ka",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5744,7 +5744,7 @@
     },
     {
         "text": "tas ts000048 ( warna biru tua/ navy)ready ga say ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5773,7 +5773,7 @@
     },
     {
         "text": "ready stock 3 unit?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5790,7 +5790,7 @@
     },
     {
         "text": "merah 37 ready ga?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5819,7 +5819,7 @@
     },
     {
         "text": "ready? kalau kirim ke tanggerang pakai go jack bisa hari ini?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5836,7 +5836,7 @@
     },
     {
         "text": "kupler untuk marauder import stoknya ada om?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5853,7 +5853,7 @@
     },
     {
         "text": "siang saya direkomendasikan oleh pak imron, ready ya 2dus tsweet tartlet ukuran standar?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5870,7 +5870,7 @@
     },
     {
         "text": "bms004 ready gan??",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5887,7 +5887,7 @@
     },
     {
         "text": "hair caps tuk sekali pakai aja y?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5904,7 +5904,7 @@
     },
     {
         "text": "size 95 ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5921,7 +5921,7 @@
     },
     {
         "text": "20 pcs ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5938,7 +5938,7 @@
     },
     {
         "text": "redmi 3 prime ready warna apa aja,ada tg nya gk sekalian?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5955,7 +5955,7 @@
     },
     {
         "text": "biru ready? order hari ini krm jam brpa?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -5984,7 +5984,7 @@
     },
     {
         "text": "gan 2 kaleng ready ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6001,7 +6001,7 @@
     },
     {
         "text": "yg black ready ga gan?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6018,7 +6018,7 @@
     },
     {
         "text": "ready kh biru tua dan merah kuning",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6044,7 +6044,7 @@
     },
     {
         "text": "halo bos, 25 pcs ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6061,7 +6061,7 @@
     },
     {
         "text": "ready untuk lenovo p90 ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6078,7 +6078,7 @@
     },
     {
         "text": "yg pilot garuda ukuran xxl ready stock ga?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6107,7 +6107,7 @@
     },
     {
         "text": "barang ready putih garis ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6133,7 +6133,7 @@
     },
     {
         "text": "ready apa aja kak?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6150,7 +6150,7 @@
     },
     {
         "text": "silver ready gan? jual tg nya juga ngga?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6167,7 +6167,7 @@
     },
     {
         "text": "ready gan? ini for canon ya?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6184,7 +6184,7 @@
     },
     {
         "text": "body putih - lengan merah cabe <- bahan combed bukan?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6221,7 +6221,7 @@
     },
     {
         "text": "gan ready stok dan apakah carry handlenya bsa dilepas?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6238,7 +6238,7 @@
     },
     {
         "text": "klo untuk ini ready 50 pcs, bisa campur wrna ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6255,7 +6255,7 @@
     },
     {
         "text": "ready ya sepatu anak slop bunga jeans bunga navy nomor 28",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6284,7 +6284,7 @@
     },
     {
         "text": "ready. silahkan pilih pengiriman dg tiki ons (kilat)",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6301,7 +6301,7 @@
     },
     {
         "text": "ready gan yang hitam jepit hitam juga ukuran 41? bisa gojek sekarang?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6352,7 +6352,7 @@
     },
     {
         "text": "halo.. yg ready wrn apa aja nih?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6369,7 +6369,7 @@
     },
     {
         "text": "kak yg ready warna apa",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6386,7 +6386,7 @@
     },
     {
         "text": "barang ready kak",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6403,7 +6403,7 @@
     },
     {
         "text": "gold sama coklat rwady?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6432,7 +6432,7 @@
     },
     {
         "text": "gold ready bos?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6449,7 +6449,7 @@
     },
     {
         "text": "vanila 2 dus ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6466,7 +6466,7 @@
     },
     {
         "text": "lcd e6633 ready gan?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6483,7 +6483,7 @@
     },
     {
         "text": "sekarang ready warna apa gan ?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6500,7 +6500,7 @@
     },
     {
         "text": "ready 3 pack?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6517,7 +6517,7 @@
     },
     {
         "text": "grab instan, hari ini, ready gan?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6534,7 +6534,7 @@
     },
     {
         "text": "size7 ready kak?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6551,7 +6551,7 @@
     },
     {
         "text": "warna pinknya ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6568,7 +6568,7 @@
     },
     {
         "text": "ada size 44/45 gak...tks",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6585,7 +6585,7 @@
     },
     {
         "text": "ready yg muka orang??",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6614,7 +6614,7 @@
     },
     {
         "text": "adidas hitam ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6643,7 +6643,7 @@
     },
     {
         "text": "size 35nya ready kah ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6660,7 +6660,7 @@
     },
     {
         "text": "size 41 putih strip hitam ready gak gan..?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6697,7 +6697,7 @@
     },
     {
         "text": "gan mau pesan 5 pasang, ready gak?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6714,7 +6714,7 @@
     },
     {
         "text": "masih ready kak??? warna item???",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6731,7 +6731,7 @@
     },
     {
         "text": "silver/gold ready om?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6748,7 +6748,7 @@
     },
     {
         "text": "warna full black ada gak min size 40",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6774,7 +6774,7 @@
     },
     {
         "text": "ini ready v ukuran m?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6803,7 +6803,7 @@
     },
     {
         "text": "buat gsx r150 ready ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6820,7 +6820,7 @@
     },
     {
         "text": "gan ready size m",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6846,7 +6846,7 @@
     },
     {
         "text": "mau beli lagi. moscotnya bagus. ready? eh, jual bantalan kacamata ga?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6863,7 +6863,7 @@
     },
     {
         "text": "ready gan , ini bisa 3 speed ya",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6880,7 +6880,7 @@
     },
     {
         "text": "untik redmi 3 pro ready gan?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6897,7 +6897,7 @@
     },
     {
         "text": "kang masih ready stok?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6914,7 +6914,7 @@
     },
     {
         "text": "19 pcs ready dan bisa langsung kirim gan hari ini?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6931,7 +6931,7 @@
     },
     {
         "text": "kalo ukuran l no brapa gan",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6960,7 +6960,7 @@
     },
     {
         "text": "gan,ready? thanks",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6977,7 +6977,7 @@
     },
     {
         "text": "barang ready gak gan kalau order hari ini?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -6994,7 +6994,7 @@
     },
     {
         "text": "barangnya masih ready gan? mau repeat order lgi nihh gan :d :d",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7011,7 +7011,7 @@
     },
     {
         "text": "ready gan? ini ori?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7028,7 +7028,7 @@
     },
     {
         "text": "sis ini ready? kalau yang mini square set gak jual ya?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7045,7 +7045,7 @@
     },
     {
         "text": "cahaya putih atau kuning?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7079,7 +7079,7 @@
     },
     {
         "text": "pagi..ready lion hijau, deer kuning, zoo biru n merah?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7105,7 +7105,7 @@
     },
     {
         "text": "sist ini 18 m motif mana yg ready?db",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7122,7 +7122,7 @@
     },
     {
         "text": "gan saya mau order satu ni yang warna hitam masih ready ga gan ????",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7151,7 +7151,7 @@
     },
     {
         "text": "ready gan buat j7 prime ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7168,7 +7168,7 @@
     },
     {
         "text": "mau tanya sist obat nya masih ready kah?caranya bagaimana?yg untuk sebulan",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7185,7 +7185,7 @@
     },
     {
         "text": "ready 2 unit ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7202,7 +7202,7 @@
     },
     {
         "text": "-525 ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7219,7 +7219,7 @@
     },
     {
         "text": "readi wrna apa aja???",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7236,7 +7236,7 @@
     },
     {
         "text": "ukuran 30/35 batang 5mm (aa) ready gx gan",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7253,7 +7253,7 @@
     },
     {
         "text": "masih ada gan warna cokelat sz 42",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7279,7 +7279,7 @@
     },
     {
         "text": "12pcs ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7296,7 +7296,7 @@
     },
     {
         "text": "halo gan, ready warna apaa? kaca glossy atau doff ya?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7313,7 +7313,7 @@
     },
     {
         "text": "stocknya ready pak",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7330,7 +7330,7 @@
     },
     {
         "text": "beige ready? kirim cilegon bisa? thx",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7356,7 +7356,7 @@
     },
     {
         "text": "ready warna apa aja sist ?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7373,7 +7373,7 @@
     },
     {
         "text": "warna hitam motif warna merah ad ga",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7413,7 +7413,7 @@
     },
     {
         "text": "ready 300pc?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7430,7 +7430,7 @@
     },
     {
         "text": "pink muda size 3 ready sis?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7447,7 +7447,7 @@
     },
     {
         "text": "dijamin baru, original dan garansi ya pak? barang ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7464,7 +7464,7 @@
     },
     {
         "text": "gan ukuran 41 dan 43 ready stok gan....?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7493,7 +7493,7 @@
     },
     {
         "text": "hijau stabilo ukuran 43 redy gx",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7522,7 +7522,7 @@
     },
     {
         "text": "ready gan dan brp kilo ini gan",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7539,7 +7539,7 @@
     },
     {
         "text": "sis,,yg feet up overnight mois ready ga? ( bukan yg comfor loh)",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7556,7 +7556,7 @@
     },
     {
         "text": "bang warna item 31 ready kan?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7573,7 +7573,7 @@
     },
     {
         "text": "barang ready gan? saya order ya",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7590,7 +7590,7 @@
     },
     {
         "text": "ready ada game terbarunya gak kaya pes 2018",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7607,7 +7607,7 @@
     },
     {
         "text": "xl hitam list merah ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7647,7 +7647,7 @@
     },
     {
         "text": "readyy warna apa ?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7664,7 +7664,7 @@
     },
     {
         "text": "ready untuk a37",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7681,7 +7681,7 @@
     },
     {
         "text": "bos, garnish chrome silver ada? ready stock? barang ori ahm?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7698,7 +7698,7 @@
     },
     {
         "text": "striping vixion yg merah ready gan",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7727,7 +7727,7 @@
     },
     {
         "text": "loho movca liho gray ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7744,7 +7744,7 @@
     },
     {
         "text": "yg amwarna biru ready,,??",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7773,7 +7773,7 @@
     },
     {
         "text": "ready buat q6?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7790,7 +7790,7 @@
     },
     {
         "text": "l ready warna apa sis?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7807,7 +7807,7 @@
     },
     {
         "text": "gan yg biru train no 4 ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7836,7 +7836,7 @@
     },
     {
         "text": "siang gan. mau tanya harga sudah termasuk mmc atau blm ? terima kasih",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7853,7 +7853,7 @@
     },
     {
         "text": "ready spt digambar gan? strip silver..dial putih ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7879,7 +7879,7 @@
     },
     {
         "text": "ready jne",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7896,7 +7896,7 @@
     },
     {
         "text": "album animal kaiser uk jumbo ready warna apa aja?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7913,7 +7913,7 @@
     },
     {
         "text": "masih ready gan..?? kirim via gojek hari ini bisa ya..??",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7930,7 +7930,7 @@
     },
     {
         "text": "m nya ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7947,7 +7947,7 @@
     },
     {
         "text": "ready gan?? ori ga",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7964,7 +7964,7 @@
     },
     {
         "text": "gan yang ready warna apa",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -7981,7 +7981,7 @@
     },
     {
         "text": "warna hitam size m ready bos ??",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8010,7 +8010,7 @@
     },
     {
         "text": "sis... warna mintx ada ya?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8027,7 +8027,7 @@
     },
     {
         "text": "biru dongker uk xl ready gan?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8056,7 +8056,7 @@
     },
     {
         "text": "ready gan? bisa kirim ke medan?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8073,7 +8073,7 @@
     },
     {
         "text": "50pasang ready? ukuran brp?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8090,7 +8090,7 @@
     },
     {
         "text": "l ready ga gan?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8107,7 +8107,7 @@
     },
     {
         "text": "ukuran l ada yang warna hitam ?? tlg kbr ya tq",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8147,7 +8147,7 @@
     },
     {
         "text": "hitam 37 dan 41 ready",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8176,7 +8176,7 @@
     },
     {
         "text": "ready gan frame sx4 nya",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8193,7 +8193,7 @@
     },
     {
         "text": "ready, perumnas 2 bekasi",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8210,7 +8210,7 @@
     },
     {
         "text": "ready banyak ga mau ambil 5",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8227,7 +8227,7 @@
     },
     {
         "text": "ready ga kk?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8244,7 +8244,7 @@
     },
     {
         "text": "ready kak, barangnya?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8261,7 +8261,7 @@
     },
     {
         "text": "ready gak buat ip7 plus",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8278,7 +8278,7 @@
     },
     {
         "text": "purple l ready",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8295,7 +8295,7 @@
     },
     {
         "text": "ready kapan sis?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8312,7 +8312,7 @@
     },
     {
         "text": "untuk 35 watt dan 25 watt nya ready gan,?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8329,7 +8329,7 @@
     },
     {
         "text": "ada warna apa aja? pakai kawat ya?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8346,7 +8346,7 @@
     },
     {
         "text": "37 dan 40 ready kak. tolong di jwb ya.",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8363,7 +8363,7 @@
     },
     {
         "text": "sis.size m ready 2 pcs",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8380,7 +8380,7 @@
     },
     {
         "text": "lampu utama / tengah ny putih ga gan?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8406,7 +8406,7 @@
     },
     {
         "text": "ready gan? ukurannya ada berapa aja?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8423,7 +8423,7 @@
     },
     {
         "text": "xs merah ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8452,7 +8452,7 @@
     },
     {
         "text": "untuk bb 72kg, muat tdk ya ? ready warna apa ?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8469,7 +8469,7 @@
     },
     {
         "text": "ready. luar ponti gan",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8486,7 +8486,7 @@
     },
     {
         "text": "36 white. ready ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8503,7 +8503,7 @@
     },
     {
         "text": "ready gan ane mau order ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8520,7 +8520,7 @@
     },
     {
         "text": "masih ada gan warna biru tua",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8549,7 +8549,7 @@
     },
     {
         "text": "iphone 6 plus ready warna apa aja?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8566,7 +8566,7 @@
     },
     {
         "text": "ready gak gan warna hitam",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8595,7 +8595,7 @@
     },
     {
         "text": "gan black size 9 & gold size 6 ready g?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8629,7 +8629,7 @@
     },
     {
         "text": "mbak yg biru mah ada?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8658,7 +8658,7 @@
     },
     {
         "text": "warna ungu ready sist???",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8687,7 +8687,7 @@
     },
     {
         "text": "untuk samsung j7 2016 ready gan??",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8704,7 +8704,7 @@
     },
     {
         "text": "size 41 ada warna apa aja?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8730,7 +8730,7 @@
     },
     {
         "text": "ready kah bos, dg jumlah ini : merah=200, hitam=200, kuning=200, biru=100",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8747,7 +8747,7 @@
     },
     {
         "text": "38 ready kak?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8764,7 +8764,7 @@
     },
     {
         "text": "summer size xl sdh ada sis? tempo hari order kan dibilang kosong jd ganti warna.",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8790,7 +8790,7 @@
     },
     {
         "text": "gan, yang white ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8807,7 +8807,7 @@
     },
     {
         "text": "ready warna apa bos",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8824,7 +8824,7 @@
     },
     {
         "text": "hitam utk iphone 7 plus ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8853,7 +8853,7 @@
     },
     {
         "text": "arinna ukuran xl ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8882,7 +8882,7 @@
     },
     {
         "text": "warna hitam ready? bias kirim gojek hari ini?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8911,7 +8911,7 @@
     },
     {
         "text": "warna hitam, biru turkis tua, sama silver tua nya ada?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8940,7 +8940,7 @@
     },
     {
         "text": "sis ini ready semua rasa?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8957,7 +8957,7 @@
     },
     {
         "text": "shade 21 ada sis ? apricot beige ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -8983,7 +8983,7 @@
     },
     {
         "text": "hello kitty yaa... ready kan?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9000,7 +9000,7 @@
     },
     {
         "text": "size 45 nya ready ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9026,7 +9026,7 @@
     },
     {
         "text": "pink sm mocca ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9043,7 +9043,7 @@
     },
     {
         "text": "yg redmi note 4x ready wrna apa ajaa sist?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9060,7 +9060,7 @@
     },
     {
         "text": "ready dan ori?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9077,7 +9077,7 @@
     },
     {
         "text": "buat anak umur 8 thun ready untuk anak laki-laki",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9094,7 +9094,7 @@
     },
     {
         "text": "ukuran m untuk baju dgn kode 4214 long purple ada nggak gan",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9123,7 +9123,7 @@
     },
     {
         "text": "warna pink ready kah? bisa go send?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9140,7 +9140,7 @@
     },
     {
         "text": "kapan ini ready nya gan",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9157,7 +9157,7 @@
     },
     {
         "text": "ready size m sis",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9183,7 +9183,7 @@
     },
     {
         "text": "warna putih ready? bisa gojek kan?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9209,7 +9209,7 @@
     },
     {
         "text": "xl lb brp gan? warna hitam ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9238,7 +9238,7 @@
     },
     {
         "text": "warna hitam ready ga gan? ada tulisan samsung nya kan?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9267,7 +9267,7 @@
     },
     {
         "text": "untuk macbook pro 13\" black ada?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9284,7 +9284,7 @@
     },
     {
         "text": "ready hitam? mau gosend",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9313,7 +9313,7 @@
     },
     {
         "text": "redy gan hari ini ??",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9330,7 +9330,7 @@
     },
     {
         "text": "ready barangnya?mau pake gojek",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9347,7 +9347,7 @@
     },
     {
         "text": "readykah yg warna putih mas",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9373,7 +9373,7 @@
     },
     {
         "text": "gold utk ip 6+ ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9390,7 +9390,7 @@
     },
     {
         "text": "gan stok redy gak.warna apa aja",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9407,7 +9407,7 @@
     },
     {
         "text": "sis mau putih ada size 37",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9441,7 +9441,7 @@
     },
     {
         "text": "j5 prime ready ga?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9458,7 +9458,7 @@
     },
     {
         "text": "ready warna apa ajah om?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9475,7 +9475,7 @@
     },
     {
         "text": "foto yg nomor 2 ready gan ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9492,7 +9492,7 @@
     },
     {
         "text": "bonus tas nya masih? ambil 2dozen ready ga?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9509,7 +9509,7 @@
     },
     {
         "text": "ready ga wrna biru?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9538,7 +9538,7 @@
     },
     {
         "text": "barang ready ga gan ? perlu dipasan anti gores gak ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9555,7 +9555,7 @@
     },
     {
         "text": "sis ini ada warna pink kombinasi peach dan putih gak?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9572,7 +9572,7 @@
     },
     {
         "text": "ini 1 set nya sudah sama lampu nya semua kan? sdah siap pake kan?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9589,7 +9589,7 @@
     },
     {
         "text": "hijau ready kak?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9618,7 +9618,7 @@
     },
     {
         "text": "ready gak gan ?? md531ae/a",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9635,7 +9635,7 @@
     },
     {
         "text": "size 33 ready ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9661,7 +9661,7 @@
     },
     {
         "text": "gan yang warna merah masih ready gak??",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9690,7 +9690,7 @@
     },
     {
         "text": "ready warna silver gan?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9707,7 +9707,7 @@
     },
     {
         "text": "merah hitam size m ada?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9736,7 +9736,7 @@
     },
     {
         "text": "pnya yg ukuran lebih pjg ga sist?kl ga slh 60x160..hrg brp ya kl ada?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9753,7 +9753,7 @@
     },
     {
         "text": "ada yg tinta hijau kah ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9782,7 +9782,7 @@
     },
     {
         "text": "ready gak gan, warna merah",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9811,7 +9811,7 @@
     },
     {
         "text": "retro red l ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9828,7 +9828,7 @@
     },
     {
         "text": "ready mas? model slim mepet kaca?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9845,7 +9845,7 @@
     },
     {
         "text": "yg non cepol warna hitak ready sist?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9862,7 +9862,7 @@
     },
     {
         "text": "sm nya ready ka?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9879,7 +9879,7 @@
     },
     {
         "text": "salur hijau ready ngak",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9908,7 +9908,7 @@
     },
     {
         "text": "ready 3 botol gan ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9925,7 +9925,7 @@
     },
     {
         "text": "ini uda ready lg sis?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9942,7 +9942,7 @@
     },
     {
         "text": "jepitan kayunya yg tanpa warna/cat alias natural ada ga gan??",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9959,7 +9959,7 @@
     },
     {
         "text": "2 kaleng vanilla 800 gr masih ready gak ?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -9976,7 +9976,7 @@
     },
     {
         "text": "gan yg hitam pekat ada?itu all size yah",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -10005,7 +10005,7 @@
     },
     {
         "text": "untuk cat acrylic warna putih.y jika diaplikasikan ke kayu dengan takaran tipis ...warna.y menjadi transparan atau tetap putih?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -10031,7 +10031,7 @@
     },
     {
         "text": "ukuran l yang ready apa?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -10060,7 +10060,7 @@
     },
     {
         "text": "ready mangkuknya?klo ga pake tile berapa harganya?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -10077,7 +10077,7 @@
     },
     {
         "text": "ori, cover ungu & ready ???",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -10106,7 +10106,7 @@
     },
     {
         "text": "hitam size 33 ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -10135,7 +10135,7 @@
     },
     {
         "text": "ready ga sis?pengiriman gojek?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -10152,7 +10152,7 @@
     },
     {
         "text": "putih ready ka",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -10178,7 +10178,7 @@
     },
     {
         "text": "kalo buat nmax per sentri pakai punya apa? ini ready?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -10195,7 +10195,7 @@
     },
     {
         "text": "gan masih ready gak?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -10212,7 +10212,7 @@
     },
     {
         "text": "support untuk windows 10 gak gan dan cocok gak buat hardisk laptop ? kalo ready, info kan gan. trims",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -10229,7 +10229,7 @@
     },
     {
         "text": "ready, min? orikan ya",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -10246,7 +10246,7 @@
     },
     {
         "text": "ada yg ukuran 95?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -10263,7 +10263,7 @@
     },
     {
         "text": "hitam ready gan ? udh free windows blm dan office",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -10292,7 +10292,7 @@
     },
     {
         "text": "ini yg bunga putih atau merah ya? kalau misalnya beli 10 bibit campur merah & putih bisakah?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -10329,7 +10329,7 @@
     },
     {
         "text": "xxl ada warna apa gan?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -10346,7 +10346,7 @@
     },
     {
         "text": "ini ready gak? bisa gojek?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -10363,7 +10363,7 @@
     },
     {
         "text": "yg ungu plain purple ready?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -10392,7 +10392,7 @@
     },
     {
         "text": "2x1 ready gan?",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -10409,7 +10409,7 @@
     },
     {
         "text": "untuk ukuran xl ready gan.,??",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -10438,7 +10438,7 @@
     },
     {
         "text": "gan barang ready ga kalo ready ane mau langsung order nihh",
-        "actual": "",
+        "actual": "ready_kosong_question",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -10455,7 +10455,7 @@
     },
     {
         "text": "barang ready?? warna apa aja..",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
@@ -10472,7 +10472,7 @@
     },
     {
         "text": "ada warna apa aja selain ini ya?",
-        "actual": "",
+        "actual": "default fallback intent",
         "prediction": "ready_kosong_question",
         "confidence": 0.9556916356086731,
         "suggestion": [
