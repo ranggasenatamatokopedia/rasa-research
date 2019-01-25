@@ -17,9 +17,9 @@ def csv_file_reader(directory):
             desired = ""
             text = ""
             for (k, v) in row.items():  # go over each column name and value
-                if k == "User Says":  # text
+                if k == "text":  # text
                     text = v.lower()
-                if k == "Intent Name":  # desired intent
+                if k == "Intent":  # desired intent
                     desired = v.lower()
             rasa_json_format["rasa_nlu_data"]["common_examples"].append({"text": text,
                                                                          "intent": desired})
@@ -27,6 +27,6 @@ def csv_file_reader(directory):
 
 
 if __name__ == "__main__":
-    direct = "csv/w2v_generate_n_from_original.csv"
+    direct = "csv/[Talk_Discussion Chatbot] DF vs Abhinav - testing_data.csv"
     data = csv_file_reader(direct)
     print(json.dumps(data, sort_keys=True, indent=4))
