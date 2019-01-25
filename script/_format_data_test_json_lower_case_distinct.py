@@ -1,6 +1,13 @@
 #!/usr/bin/python -tt
 import json
+from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 
+# create stemmer
+factory = StemmerFactory()
+stemmer = factory.create_stemmer()
+
+def stemming_bahasa_indoensia(text):
+    return stemmer.stem(text)
 
 def generate_json(selected_json):
     rasa_json_format = {
@@ -19,7 +26,7 @@ def generate_json(selected_json):
                 if obj["text"] in distinct:
                     continue
                 distinct.append(obj["text"])
-                rasa_json_format["rasa_nlu_data"]["common_examples"].append({"text": obj["text"],
+                rasa_json_format["rasa_nlu_data"]["common_examples"].append({"text": stemming_bahasa_indoensia(obj["text"]),
                                                                              "intent": obj["intent"].lower()})
     except OSError as e:
         print("error")
