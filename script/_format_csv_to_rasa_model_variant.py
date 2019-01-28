@@ -55,36 +55,17 @@ def csv_file_reader_text(directory):
                     data.append(v)
     return data
 
-def rasa_model(text, data, entities):
-    rasa_json_format = {
-        "rasa_nlu_data": {
-            "common_examples": [],
-            "regex_features": [],
-            "lookup_tables": [],
-            "entity_synonyms": []
-        }
-    }
-    for value in text:
-        rasa_json_format["rasa_nlu_data"]["entity_synonyms"].append({"value": value,
-                                                                     "synonyms": [synm for synm in text[value]]})
+def generate_rasa_model(text, data, entities, rasa_json_format, intent):
     for setence in data:
-        # setence = "warna 2biru ukuran 40 ada ga sis "
         data_entity = []
-        # print(entities)
         kalimat = setence
         for entity in entities:
-            # print(entities[entity])
             entities[entity].sort(key=len, reverse=True)
-            # print(entities[entity])
             for word in entities[entity]:
                 try:
-                    # print(kalimat)
-                    # print(word)
                     start_index = re.search(word, kalimat).start()
                     start_index = re.search(word, setence).start()
                     kalimat = kalimat.replace(word,'')
-                    # print(setence)
-                    # print(start_index)
                     actual_value = word
                     for value in text:
                         if word in value:
@@ -105,17 +86,43 @@ def rasa_model(text, data, entities):
                     })
                 except:
                     continue
-        # print(data_entity)
         if len(data_entity) > 0:
             rasa_json_format["rasa_nlu_data"]["common_examples"].append({"text": setence,
-                                                                        "intent": "ready_kosong_question",
+                                                                        "intent": intent,
                                                                         "entities": data_entity})
         else:
             rasa_json_format["rasa_nlu_data"]["common_examples"].append({"text": setence,
-                                                                         "intent": "ready_kosong_question",
+                                                                         "intent": intent,
                                                                          "entitites": []})
-
     return rasa_json_format
+
+def rasa_model(text, data, entities):
+    rasa_json_format = {
+        "rasa_nlu_data": {
+            "common_examples": [],
+            "regex_features": [],
+            "lookup_tables": [],
+            "entity_synonyms": []
+        }
+    }
+    for value in text:
+        rasa_json_format["rasa_nlu_data"]["entity_synonyms"].append({"value": value,
+                                                                     "synonyms": [synm for synm in text[value]]})
+    return generate_rasa_model(text, data, entities ,rasa_json_format, intent="ready_kosong_question")
+
+def csv_file_reader_other(directory):
+    data = []
+    counter = 0
+    with open(directory, 'r', newline='', encoding='ISO-8859-1') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            for (k, v) in row.items():
+                if counter == 35001:
+                    return data
+                if k == "Text":
+                    counter += 1
+                    data.append(v)
+    return data
 
 
 if __name__ == "__main__":
@@ -125,8 +132,12 @@ if __name__ == "__main__":
     for entity in entities:
         entities[entity].sort(key=len, reverse= True)
     data = csv_file_reader_text(direct_text)
-    # print(data)
-    # print(entities)
     rasa = rasa_model(text, data, entities)
-    # print(rasa)
+    # print(len(rasa["rasa_nlu_data"]["common_examples"]))
+    direct_other = "csv/other data.csv"
+    # print("data ="+str(len(data)))
+    data = csv_file_reader_other(direct_other)
+    # print("data ="+str(len(data)))
+    rasa = generate_rasa_model(text, data, entities, rasa, intent="not_ready_kosong_question")
+    # print(len(rasa["rasa_nlu_data"]["common_examples"]))
     print(json.dumps(rasa, sort_keys=True, indent=4))
