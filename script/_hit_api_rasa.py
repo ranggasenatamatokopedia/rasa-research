@@ -2,6 +2,7 @@ import requests
 import json
 
 url = 'http://172.31.14.26:5000/parse'
+url = 'http://localhost:5000/parse'
 
 def read_json_data(directory):
     data = []
@@ -21,7 +22,7 @@ def hit_api(json):
         print(str(counter)+ "/"+ str(len_data))
         data = {
             'q' : test_data["user_says"],
-            'project' : 'rangga'
+            'project' : 'default'
         }
         print("text : "+test_data["user_says"])
         print("actual : "+test_data["intent_name"])

@@ -49,9 +49,13 @@ def csv_file_reader_text(directory):
     data = []
     with open(directory, 'r', newline='', encoding='ISO-8859-1') as f:
         reader = csv.DictReader(f)
+        counter = 0
         for row in reader:
             for (k, v) in row.items():
+                if counter == 5000:
+                    return data
                 if k == "Text":
+                    counter += 1
                     data.append(v)
     return data
 
@@ -117,7 +121,7 @@ def csv_file_reader_other(directory):
         reader = csv.DictReader(f)
         for row in reader:
             for (k, v) in row.items():
-                if counter == 35001:
+                if counter == 5000:
                     return data
                 if k == "Text":
                     counter += 1

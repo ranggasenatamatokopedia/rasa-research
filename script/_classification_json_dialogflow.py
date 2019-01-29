@@ -10,7 +10,10 @@ def analys_json_data(directory):
         json_data = json.load(f)
         for obj in json_data:
             y_true.append(obj["actual"].lower())
-            y_pred.append(obj["prediction"].lower())
+            if obj["prediction"] == 'not_ready_kosong_question':
+                y_pred.append('default fallback intent')
+            else:
+                y_pred.append(obj['prediction'].lower())
     print(counter)
 
 
